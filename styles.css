@@ -232,10 +232,30 @@ img.cover {
   min-height: 100vh;
 }
 
+a.univers-panel {
+  display: block;
+  color: inherit;
+}
+
 .univers-panel {
   position: relative;
   min-height: 50vh;
   overflow: hidden;
+}
+
+.univers-panel img.cover {
+  transition: transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.univers-panel:hover img.cover { transform: scale(1.04); }
+
+.panel-hint {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.7);
 }
 
 .univers-caption {
@@ -319,12 +339,6 @@ img.cover {
   color: var(--ink-soft);
   font-size: 17px;
   margin: 0 0 16px;
-}
-
-.histoire-link {
-  font-size: 15px;
-  letter-spacing: 0.04em;
-  pointer-events: auto;
 }
 
 /* --------------------------------------------------------------------------
@@ -463,6 +477,69 @@ img.cover {
 }
 
 .page .site-footer { margin-top: 10vh; }
+
+.page-inner.page-wide { max-width: 1100px; }
+
+/* Pages univers : vignettes des sous-catégories */
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 22px;
+  margin-top: 48px;
+}
+
+.card {
+  background: rgba(236, 231, 225, 0.03);
+  border: 1px solid rgba(236, 231, 225, 0.09);
+  border-radius: 14px;
+  padding: 26px 24px;
+  transition: border-color 0.3s, transform 0.3s;
+}
+
+.card:hover {
+  border-color: var(--accent);
+  transform: translateY(-3px);
+}
+
+.card h3 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  font-size: 24px;
+  margin: 0 0 8px;
+  color: var(--ink);
+}
+
+.card p {
+  margin: 0;
+  font-size: 15px;
+  color: var(--ink-soft);
+}
+
+.cta-band {
+  margin-top: 9vh;
+  padding: 44px 40px;
+  border: 1px solid rgba(236, 231, 225, 0.09);
+  border-radius: 18px;
+  background: radial-gradient(ellipse at 20% 0%, rgba(147, 102, 204, 0.12), transparent 60%);
+}
+
+.cta-band h2 { margin-top: 0; }
+
+.cta-band .hero-ctas {
+  justify-content: flex-start;
+  margin-top: 26px;
+}
+
+.autres-univers {
+  margin-top: 34px;
+  font-size: 14.5px;
+  color: var(--faded);
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: center;
+}
 
 /* --------------------------------------------------------------------------
    Animation d'apparition au scroll

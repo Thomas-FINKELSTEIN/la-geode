@@ -11,6 +11,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../styles.css">
   <script src="../script.js" defer></script>
+  <script src="../catalogue.js" defer></script>
 </head>
 <body>
 
@@ -31,37 +32,8 @@
       <h1 data-reveal="100">Minéraux</h1>
       <p class="lead" data-reveal="200">Rencontre avec les bienfaits énergétiques, mystérieux et apaisants de notre monde — du petit galet aux géodes de collection de plusieurs dizaines de kilos, chaque pierre est choisie personnellement chez nos fournisseurs.</p>
 
-      <div class="cards">
-        <div class="card" data-reveal="0">
-          <div class="univers-bar" style="background:var(--tint-mineraux)"></div>
-          <h3>Pierres roulées</h3>
-          <p>Le secret du succès sur le bien-être et la zénitude du corps et de l'esprit.</p>
-        </div>
-        <div class="card" data-reveal="80">
-          <div class="univers-bar" style="background:var(--tint-mineraux)"></div>
-          <h3>Pierres brutes</h3>
-          <p>Retrouvez l'équilibre brut dans son état naturel.</p>
-        </div>
-        <div class="card" data-reveal="160">
-          <div class="univers-bar" style="background:var(--tint-mineraux)"></div>
-          <h3>Pierres forme libre</h3>
-          <p>L'originalité de la pierre sous toutes ses formes.</p>
-        </div>
-        <div class="card" data-reveal="240">
-          <div class="univers-bar" style="background:var(--tint-mineraux)"></div>
-          <h3>Lampes minérales</h3>
-          <p>Harmonisez votre espace en nettoyant énergétiquement votre environnement, naturellement.</p>
-        </div>
-        <div class="card" data-reveal="320">
-          <div class="univers-bar" style="background:var(--tint-mineraux)"></div>
-          <h3>Galets</h3>
-          <p>La douceur de la pierre à glisser dans la poche ou à poser chez soi.</p>
-        </div>
-        <div class="card" data-reveal="400">
-          <div class="univers-bar" style="background:var(--tint-mineraux)"></div>
-          <h3>Pièces d'exception</h3>
-          <p>Géodes, sphères et pièces de collection sur socle, pour les passionnés et les curieux.</p>
-        </div>
+      <div id="catalogue" data-theme="mineraux" data-tint="var(--tint-mineraux)">
+        <noscript><p>Activez JavaScript pour afficher nos familles d'articles, ou appelez-nous au 04 68 56 60 53.</p></noscript>
       </div>
 
       <div class="cta-band" data-reveal="0">

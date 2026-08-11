@@ -522,6 +522,66 @@ a.univers-panel {
   color: var(--ink-soft);
 }
 
+a.card { display: block; color: inherit; }
+
+/* Familles avec articles (rendues par catalogue.js) */
+
+.famille { margin-top: 64px; }
+
+.famille h2 { margin-top: 0; }
+
+.famille-slogan {
+  margin: 0;
+  color: var(--muted);
+  font-size: 15.5px;
+  max-width: 60ch;
+}
+
+.items-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 18px;
+  margin-top: 24px;
+}
+
+.item-card {
+  background: rgba(236, 231, 225, 0.03);
+  border: 1px solid rgba(236, 231, 225, 0.09);
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.item-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  background: rgba(236, 231, 225, 0.05);
+}
+
+.item-body { padding: 16px 18px 18px; }
+
+.item-body h3 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  font-size: 21px;
+  margin: 0 0 4px;
+  color: var(--ink);
+}
+
+.item-prix {
+  color: var(--accent);
+  font-weight: 400;
+  font-size: 15px;
+  margin-bottom: 6px;
+}
+
+.item-body p {
+  margin: 0;
+  font-size: 14px;
+  color: var(--ink-soft);
+}
+
 .cta-band {
   margin-top: 9vh;
   padding: 44px 40px;

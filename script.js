@@ -1,6 +1,7 @@
-// Apparition au scroll des éléments [data-reveal] (délai en ms dans l'attribut)
-document.addEventListener('DOMContentLoaded', function () {
-  var els = document.querySelectorAll('[data-reveal]');
+// Apparition au scroll des éléments [data-reveal] (délai en ms dans l'attribut).
+// initReveal est réutilisable pour les éléments ajoutés dynamiquement (catalogue.js).
+window.initReveal = function (root) {
+  var els = (root || document).querySelectorAll('[data-reveal]:not(.revealed)');
   if (!('IntersectionObserver' in window)) {
     els.forEach(function (el) { el.classList.add('revealed'); });
     return;
@@ -16,4 +17,8 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }, { threshold: 0.12 });
   els.forEach(function (el) { io.observe(el); });
+};
+
+document.addEventListener('DOMContentLoaded', function () {
+  window.initReveal(document);
 });

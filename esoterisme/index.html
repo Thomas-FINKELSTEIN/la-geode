@@ -11,6 +11,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../styles.css">
   <script src="../script.js" defer></script>
+  <script src="../catalogue.js" defer></script>
 </head>
 <body>
 
@@ -31,32 +32,8 @@
       <h1 data-reveal="100">Ésotérisme &amp; encens</h1>
       <p class="lead" data-reveal="200">Tout un univers spirituel, aux vertus magiques et mystérieuses — pour créer chez vous une atmosphère relaxante et sereine.</p>
 
-      <div class="cards">
-        <div class="card" data-reveal="0">
-          <div class="univers-bar" style="background:var(--tint-esoterisme)"></div>
-          <h3>Encens</h3>
-          <p>Des parfums aux vertus apaisantes et purifiantes, dont la gamme Satya : Nag Champa, Seven Chakra, Patchouli, Reiki…</p>
-        </div>
-        <div class="card" data-reveal="80">
-          <div class="univers-bar" style="background:var(--tint-esoterisme)"></div>
-          <h3>Sauge</h3>
-          <p>Protection et purification : elle chasse le négatif et aide à la concentration.</p>
-        </div>
-        <div class="card" data-reveal="160">
-          <div class="univers-bar" style="background:var(--tint-esoterisme)"></div>
-          <h3>Bougies &amp; neuvaines</h3>
-          <p>Le monde magique des bougies, pour accompagner vos souhaits, prières et actions.</p>
-        </div>
-        <div class="card" data-reveal="240">
-          <div class="univers-bar" style="background:var(--tint-esoterisme)"></div>
-          <h3>Pendules &amp; radiesthésie</h3>
-          <p>Un procédé divinatoire pouvant vous aider dans vos choix.</p>
-        </div>
-        <div class="card" data-reveal="320">
-          <div class="univers-bar" style="background:var(--tint-esoterisme)"></div>
-          <h3>Feng shui</h3>
-          <p>Harmonie, énergie, santé, prospérité : le bien-être de votre foyer et de ses occupants.</p>
-        </div>
+      <div id="catalogue" data-theme="esoterisme" data-tint="var(--tint-esoterisme)">
+        <noscript><p>Activez JavaScript pour afficher nos familles d'articles, ou appelez-nous au 04 68 56 60 53.</p></noscript>
       </div>
 
       <div class="cta-band" data-reveal="0">

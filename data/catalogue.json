@@ -1,0 +1,45 @@
+{
+  "themes": {
+    "mineraux": {
+      "nom": "Minéraux",
+      "familles": [
+        { "id": "pierres-roulees", "nom": "Pierres roulées", "slogan": "Le secret du succès sur le bien-être et la zénitude du corps et de l'esprit.", "articles": [] },
+        { "id": "pierres-brutes", "nom": "Pierres brutes", "slogan": "Retrouvez l'équilibre brut dans son état naturel.", "articles": [] },
+        { "id": "pierres-forme-libre", "nom": "Pierres forme libre", "slogan": "L'originalité de la pierre sous toutes ses formes.", "articles": [] },
+        { "id": "lampes-minerales", "nom": "Lampes minérales", "slogan": "Harmonisez votre espace en nettoyant énergétiquement votre environnement, naturellement.", "articles": [] },
+        { "id": "galets", "nom": "Galets", "slogan": "La douceur de la pierre à glisser dans la poche ou à poser chez soi.", "articles": [] },
+        { "id": "pieces-exception", "nom": "Pièces d'exception", "slogan": "Géodes, sphères et pièces de collection sur socle, pour les passionnés et les curieux.", "articles": [] }
+      ]
+    },
+    "bijoux": {
+      "nom": "Bijoux en pierres naturelles",
+      "familles": [
+        { "id": "bracelets", "nom": "Bracelets", "slogan": "Une large gamme aux différentes propriétés : agate, améthyste, œil de tigre, lapis-lazuli, quartz rose…", "articles": [] },
+        { "id": "pendentifs", "nom": "Pendentifs", "slogan": "Habillez votre cou de vertus qui vous correspondent.", "articles": [] },
+        { "id": "boucles-oreilles", "nom": "Boucles d'oreilles", "slogan": "La touche finale pour sublimer votre apparence.", "articles": [] },
+        { "id": "bagues", "nom": "Bagues", "slogan": "Labradorite, pierre de lune et autres pierres véritables serties sur argent.", "articles": [] }
+      ]
+    },
+    "esoterisme": {
+      "nom": "Ésotérisme & encens",
+      "familles": [
+        { "id": "encens", "nom": "Encens", "slogan": "Des parfums aux vertus apaisantes et purifiantes, dont la gamme Satya : Nag Champa, Seven Chakra, Patchouli, Reiki…", "articles": [] },
+        { "id": "sauge", "nom": "Sauge", "slogan": "Protection et purification : elle chasse le négatif et aide à la concentration.", "articles": [] },
+        { "id": "bougies-neuvaines", "nom": "Bougies & neuvaines", "slogan": "Le monde magique des bougies, pour accompagner vos souhaits, prières et actions.", "articles": [] },
+        { "id": "pendules-radiesthesie", "nom": "Pendules & radiesthésie", "slogan": "Un procédé divinatoire pouvant vous aider dans vos choix.", "articles": [] },
+        { "id": "feng-shui", "nom": "Feng shui", "slogan": "Harmonie, énergie, santé, prospérité : le bien-être de votre foyer et de ses occupants.", "articles": [] }
+      ]
+    },
+    "decoration": {
+      "nom": "Décoration du monde",
+      "familles": [
+        { "id": "attrape-reves", "nom": "Attrape-rêves", "slogan": "Ce capteur de rêves vous libère et apporte satisfaction de l'âme et du corps.", "articles": [] },
+        { "id": "bois-verres-souffles", "nom": "Bois & verres soufflés", "slogan": "Chaque pièce est unique : verre recyclé soufflé sur bois de teck, création artisanale.", "articles": [] },
+        { "id": "fontaines", "nom": "Fontaines", "slogan": "Le ruissellement de l'eau pour la plénitude et la zénitude de votre intérieur.", "articles": [] },
+        { "id": "lampes-decoratives", "nom": "Lampes décoratives", "slogan": "Une touche unique de lumière d'ambiance.", "articles": [] },
+        { "id": "statues", "nom": "Statues", "slogan": "Bouddhas, divinités et pièces en laiton du monde entier — les grandes pièces se commandent sur demande.", "articles": [] },
+        { "id": "objets-deco", "nom": "Objets déco", "slogan": "Une large gamme d'accessoires pour sublimer votre intérieur comme votre extérieur.", "articles": [] }
+      ]
+    }
+  }
+}

@@ -11,6 +11,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../styles.css">
   <script src="../script.js" defer></script>
+  <script src="../catalogue.js" defer></script>
 </head>
 <body>
 
@@ -31,27 +32,8 @@
       <h1 data-reveal="100">Bijoux en pierres naturelles</h1>
       <p class="lead" data-reveal="200">L'audace et la créativité pour votre bien-être et votre plaisir personnel — des pierres véritables, montées notamment sur argent rhodié de fabrication européenne.</p>
 
-      <div class="cards">
-        <div class="card" data-reveal="0">
-          <div class="univers-bar" style="background:var(--tint-bijoux)"></div>
-          <h3>Bracelets</h3>
-          <p>Une large gamme aux différentes propriétés : agate, améthyste, œil de tigre, lapis-lazuli, quartz rose…</p>
-        </div>
-        <div class="card" data-reveal="80">
-          <div class="univers-bar" style="background:var(--tint-bijoux)"></div>
-          <h3>Pendentifs</h3>
-          <p>Habillez votre cou de vertus qui vous correspondent.</p>
-        </div>
-        <div class="card" data-reveal="160">
-          <div class="univers-bar" style="background:var(--tint-bijoux)"></div>
-          <h3>Boucles d'oreilles</h3>
-          <p>La touche finale pour sublimer votre apparence.</p>
-        </div>
-        <div class="card" data-reveal="240">
-          <div class="univers-bar" style="background:var(--tint-bijoux)"></div>
-          <h3>Bagues</h3>
-          <p>Labradorite, pierre de lune et autres pierres véritables serties sur argent.</p>
-        </div>
+      <div id="catalogue" data-theme="bijoux" data-tint="var(--tint-bijoux)">
+        <noscript><p>Activez JavaScript pour afficher nos familles d'articles, ou appelez-nous au 04 68 56 60 53.</p></noscript>
       </div>
 
       <div class="cta-band" data-reveal="0">

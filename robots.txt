@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /admin/
 
 Sitemap: https://thomas-finkelstein.github.io/la-geode/sitemap.xml

@@ -3,27 +3,140 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>La Géode</title>
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body {
-      font-family: 'Segoe UI', Arial, sans-serif;
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background: linear-gradient(135deg, #1e293b, #0f172a);
-      color: #f1f5f9;
-      text-align: center;
-    }
-    h1 { font-size: 3rem; margin-bottom: 0.5rem; }
-    p { font-size: 1.2rem; color: #94a3b8; }
-  </style>
+  <title>La Géode le Showroom — Minéraux &amp; Lithothérapie à Saint-Génis-des-Fontaines</title>
+  <meta name="description" content="Boutique de minéraux, cristaux, bijoux en pierres naturelles, lithothérapie, encens et décoration du monde à Saint-Génis-des-Fontaines (66). Bien plus qu'une boutique, un état d'esprit !">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpolygon points='50,4 88,38 50,96 12,38' fill='%23b795e3'/%3E%3Cpolygon points='50,4 70,38 50,96 30,38' fill='%23d6c8ee'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
 </head>
 <body>
-  <main>
-    <h1>La Géode</h1>
-    <p>Site en construction</p>
-  </main>
+
+  <header class="site-header">
+    <a class="brand" href="index.html">
+      <div class="brand-name">La Géode</div>
+      <div class="brand-sub">Le Showroom</div>
+    </a>
+    <nav class="site-nav">
+      <a class="nav-link" href="#univers">Nos univers</a>
+      <a class="nav-link" href="#histoire">Notre histoire</a>
+      <a class="btn-pill" href="#infos">Nous rendre visite</a>
+    </nav>
+  </header>
+
+  <!-- Photos provisoires (Unsplash) — à remplacer par les photos du showroom -->
+  <section class="hero">
+    <img class="cover" src="https://images.unsplash.com/photo-1567113463224-37cf03ba4577?q=80&w=2000&auto=format&fit=crop" alt="Améthystes et cristaux — La Géode le Showroom">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <div class="kicker" data-reveal="0">Minéraux · Lithothérapie · Saint-Génis-des-Fontaines</div>
+      <h1 data-reveal="150">Bien plus qu'une boutique,<br><em>un état d'esprit&nbsp;!</em></h1>
+      <div class="hero-ctas" data-reveal="320">
+        <a class="btn-primary" href="#univers">Découvrir nos univers</a>
+        <a class="btn-ghost" href="#infos">Horaires &amp; accès</a>
+      </div>
+    </div>
+    <div class="scroll-hint">Défiler ↓</div>
+  </section>
+
+  <div id="univers" class="univers-grid">
+    <div class="univers-panel">
+      <img class="cover" src="https://images.unsplash.com/photo-1632980205460-e490e885e848?q=80&w=1200&auto=format&fit=crop" alt="Minéraux bruts et géodes">
+      <div class="univers-caption">
+        <div data-reveal="0">
+          <div class="univers-bar" style="background:var(--tint-mineraux)"></div>
+          <h3>Minéraux</h3>
+          <p>Pierres brutes, polies, géodes et pièces d'exception.</p>
+        </div>
+      </div>
+    </div>
+    <div class="univers-panel">
+      <img class="cover" src="https://images.unsplash.com/photo-1638768892257-8aec93a524e5?q=80&w=1200&auto=format&fit=crop" alt="Bijoux en pierres naturelles">
+      <div class="univers-caption">
+        <div data-reveal="120">
+          <div class="univers-bar" style="background:var(--tint-bijoux)"></div>
+          <h3>Bijoux en pierres naturelles</h3>
+          <p>Bracelets, pendentifs et créations en pierres véritables.</p>
+        </div>
+      </div>
+    </div>
+    <div class="univers-panel">
+      <img class="cover" src="https://images.unsplash.com/photo-1736449497832-6ae92abb8507?q=80&w=1200&auto=format&fit=crop" alt="Encens et objets ésotériques">
+      <div class="univers-caption">
+        <div data-reveal="240">
+          <div class="univers-bar" style="background:var(--tint-esoterisme)"></div>
+          <h3>Ésotérisme &amp; encens</h3>
+          <p>Encens, sauges, pendules et objets rituels.</p>
+        </div>
+      </div>
+    </div>
+    <div class="univers-panel">
+      <img class="cover" src="https://images.unsplash.com/photo-1621329109234-d7657d2f3846?q=80&w=1200&auto=format&fit=crop" alt="Décoration du monde">
+      <div class="univers-caption">
+        <div data-reveal="360">
+          <div class="univers-bar" style="background:var(--tint-deco)"></div>
+          <h3>Décoration du monde</h3>
+          <p>Objets artisanaux venus d'ailleurs, pour un intérieur zen.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <section id="histoire" class="histoire">
+    <img class="cover" src="https://images.unsplash.com/photo-1521133573892-e44906baee46?q=80&w=2000&auto=format&fit=crop" alt="L'univers apaisant du showroom">
+    <div class="histoire-overlay"></div>
+    <div class="histoire-content">
+      <div class="histoire-text">
+        <div class="kicker-sm" data-reveal="0">Notre histoire</div>
+        <h2 data-reveal="130">Le conseil et le partage, au cœur de la boutique</h2>
+        <p data-reveal="260">Depuis juin 2020, David et Franck vous accueillent dans leur showroom de Saint-Génis-des-Fontaines. Formés en lithothérapie énergétique, ils prennent le temps de vous guider parmi les pierres, leurs vertus et leurs histoires.</p>
+        <p data-reveal="340">Un lieu vaste et apaisant, pensé comme un retour aux choses simples et naturelles.</p>
+        <a class="histoire-link" data-reveal="420" href="histoire.html">Lire notre histoire →</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="infos" class="infos">
+    <div class="infos-inner">
+      <h2 data-reveal="0">Venir au showroom</h2>
+      <p class="infos-intro" data-reveal="100">Au cœur du village, à deux pas du cloître roman. Parking à proximité. Réservez une pierre par téléphone, retirez-la en boutique.</p>
+      <div class="infos-grid">
+        <div class="infos-col" data-reveal="180">
+          <div class="infos-label">Adresse</div>
+          <div class="infos-value">
+            <a class="quiet" href="https://maps.google.com/?q=La+G%C3%A9ode+le+Showroom,+15+Avenue+du+Mar%C3%A9chal+Joffre,+66740+Saint-G%C3%A9nis-des-Fontaines" target="_blank" rel="noopener">
+              15 Avenue du Maréchal Joffre<br>66740 Saint-Génis-des-Fontaines
+            </a>
+          </div>
+        </div>
+        <div class="infos-col" data-reveal="280">
+          <div class="infos-label">Téléphone &amp; horaires</div>
+          <div class="infos-value">
+            <a class="quiet" href="tel:+33468566053">04 68 56 60 53</a><br>
+            Lun 14h – 19h<br>
+            Mar – Ven 9h – 12h · 14h – 19h<br>
+            Sam 9h – 18h · Dim fermé
+          </div>
+        </div>
+        <div class="infos-col" data-reveal="380">
+          <div class="infos-label">Suivez-nous</div>
+          <div class="social-links">
+            <a href="https://www.facebook.com/davidetfranck/" target="_blank" rel="noopener">Facebook</a>
+            <!-- TODO : ajouter le lien Instagram (handle exact à confirmer avec David et Franck) -->
+          </div>
+        </div>
+      </div>
+      <div class="site-footer">
+        <div>© 2026 La Géode le Showroom — SARL Franck et David</div>
+        <div class="footer-links">
+          <a href="mentions-legales.html">Mentions légales</a>
+          <a href="faq.html">FAQ</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
 </body>
 </html>

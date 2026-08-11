@@ -1,0 +1,486 @@
+/* ==========================================================================
+   La Géode le Showroom — design "minéral" (améthyste)
+   ========================================================================== */
+
+:root {
+  --bg: #0f0d12;
+  --ink: #ece7e1;
+  --ink-soft: rgba(236, 231, 225, 0.85);
+  --muted: #b7b0a8;
+  --faded: #8f877e;
+  --accent: #b795e3;
+  --accent-soft: #d6c8ee;
+  --tint-mineraux: #b795e3;
+  --tint-bijoux: #e0a3a8;
+  --tint-esoterisme: #85c9ab;
+  --tint-deco: #cdb289;
+}
+
+@supports (color: oklch(0.75 0.09 300)) {
+  :root {
+    --accent: oklch(0.75 0.09 300);
+    --accent-soft: oklch(0.85 0.06 300);
+    --tint-mineraux: oklch(0.75 0.09 300);
+    --tint-bijoux: oklch(0.75 0.09 20);
+    --tint-esoterisme: oklch(0.75 0.09 160);
+    --tint-deco: oklch(0.75 0.09 70);
+  }
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+}
+
+body {
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { color: var(--accent-soft); }
+::selection { background: rgba(178, 140, 224, 0.35); }
+
+img.cover {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* --------------------------------------------------------------------------
+   En-tête fixe
+   -------------------------------------------------------------------------- */
+
+.site-header {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 20px 5vw;
+  background: linear-gradient(rgba(15, 13, 18, 0.7), transparent);
+  pointer-events: none;
+}
+
+.brand {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  pointer-events: auto;
+}
+
+.brand-name {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 26px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink);
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.6);
+}
+
+.brand-sub {
+  font-size: 11px;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.site-nav {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+  font-size: 14px;
+  letter-spacing: 0.06em;
+  pointer-events: auto;
+}
+
+.site-nav a {
+  color: var(--ink);
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.7);
+}
+
+.site-nav a:hover { color: var(--accent); }
+
+.btn-pill {
+  color: #16131a !important;
+  background: var(--accent);
+  padding: 8px 18px;
+  border-radius: 999px;
+  font-weight: 400;
+  text-shadow: none !important;
+}
+
+.btn-pill:hover { filter: brightness(1.1); color: #16131a !important; }
+
+@media (max-width: 620px) {
+  .site-nav { gap: 18px; font-size: 13px; }
+  .site-nav a.nav-link { display: none; }
+}
+
+/* --------------------------------------------------------------------------
+   Hero plein écran
+   -------------------------------------------------------------------------- */
+
+.hero {
+  position: relative;
+  height: 100vh;
+  min-height: 100svh;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg,
+    rgba(15, 13, 18, 0.45) 0%,
+    rgba(15, 13, 18, 0.25) 45%,
+    rgba(15, 13, 18, 0.65) 88%,
+    transparent 100%);
+  pointer-events: none;
+}
+
+.hero-content {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 6vw;
+  pointer-events: none;
+}
+
+.kicker {
+  font-size: 13px;
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 26px;
+}
+
+.hero h1 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+  font-size: clamp(44px, 6.5vw, 96px);
+  line-height: 1.06;
+  margin: 0 0 28px;
+  text-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+}
+
+.hero h1 em { color: var(--accent-soft); }
+
+.hero-ctas {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  justify-content: center;
+  pointer-events: auto;
+}
+
+.btn-primary {
+  color: #16131a;
+  background: var(--accent);
+  padding: 14px 32px;
+  border-radius: 999px;
+  font-weight: 400;
+  font-size: 15px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+}
+
+.btn-primary:hover { filter: brightness(1.12); color: #16131a; }
+
+.btn-ghost {
+  color: var(--ink);
+  border: 1px solid rgba(236, 231, 225, 0.5);
+  padding: 14px 32px;
+  border-radius: 999px;
+  font-size: 15px;
+  backdrop-filter: blur(4px);
+}
+
+.btn-ghost:hover { border-color: var(--accent); color: var(--accent); }
+
+.scroll-hint {
+  position: absolute;
+  bottom: 26px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 11px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: rgba(236, 231, 225, 0.7);
+  pointer-events: none;
+}
+
+/* --------------------------------------------------------------------------
+   Univers — mosaïque plein écran
+   -------------------------------------------------------------------------- */
+
+.univers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  min-height: 100vh;
+}
+
+.univers-panel {
+  position: relative;
+  min-height: 50vh;
+  overflow: hidden;
+}
+
+.univers-caption {
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  padding: 0 30px 44px;
+  pointer-events: none;
+}
+
+.univers-bar {
+  width: 34px;
+  height: 3px;
+  border-radius: 2px;
+  margin-bottom: 14px;
+}
+
+.univers-panel h3 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  font-size: 30px;
+  margin: 0 0 8px;
+  text-shadow: 0 2px 16px rgba(0, 0, 0, 0.6);
+}
+
+.univers-panel p {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 15px;
+  max-width: 42ch;
+  text-shadow: 0 1px 10px rgba(0, 0, 0, 0.7);
+}
+
+/* --------------------------------------------------------------------------
+   Histoire plein écran
+   -------------------------------------------------------------------------- */
+
+.histoire {
+  position: relative;
+  height: 100vh;
+  min-height: 100svh;
+}
+
+.histoire-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg,
+    rgba(15, 13, 18, 0.88) 0%,
+    rgba(15, 13, 18, 0.55) 48%,
+    transparent 75%);
+  pointer-events: none;
+}
+
+.histoire-content {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  padding: 0 6vw;
+  pointer-events: none;
+}
+
+.histoire-text { max-width: 56ch; }
+
+.kicker-sm {
+  font-size: 12px;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 22px;
+}
+
+.histoire h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+  font-size: clamp(34px, 4vw, 56px);
+  line-height: 1.12;
+  margin: 0 0 24px;
+}
+
+.histoire p {
+  color: var(--ink-soft);
+  font-size: 17px;
+  margin: 0 0 16px;
+}
+
+.histoire-link {
+  font-size: 15px;
+  letter-spacing: 0.04em;
+  pointer-events: auto;
+}
+
+/* --------------------------------------------------------------------------
+   Infos pratiques + pied de page
+   -------------------------------------------------------------------------- */
+
+.infos {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background:
+    radial-gradient(ellipse at 30% 20%, rgba(147, 102, 204, 0.14), transparent 55%),
+    radial-gradient(ellipse at 80% 85%, rgba(214, 140, 168, 0.10), transparent 55%),
+    var(--bg);
+}
+
+.infos-inner {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 14vh 6vw;
+}
+
+.infos h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+  font-size: clamp(36px, 4.5vw, 60px);
+  margin: 0 0 14px;
+}
+
+.infos-intro {
+  color: var(--muted);
+  font-size: 16.5px;
+  margin: 0 0 56px;
+  max-width: 52ch;
+}
+
+.infos-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 48px;
+}
+
+.infos-col {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 15.5px;
+}
+
+.infos-label {
+  font-size: 12px;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.infos-col a.quiet { color: var(--ink-soft); }
+.infos-col a.quiet:hover { color: var(--accent); }
+
+.infos-value { color: var(--ink-soft); }
+
+.social-links { display: flex; gap: 16px; }
+
+.site-footer {
+  margin-top: 12vh;
+  padding-top: 26px;
+  border-top: 1px solid rgba(236, 231, 225, 0.08);
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  font-size: 13px;
+  color: var(--faded);
+}
+
+.site-footer a { color: var(--faded); }
+.site-footer a:hover { color: var(--accent); }
+.footer-links { display: flex; gap: 24px; }
+
+/* --------------------------------------------------------------------------
+   Pages intérieures (histoire, FAQ, mentions légales)
+   -------------------------------------------------------------------------- */
+
+.page {
+  position: relative;
+  min-height: 100vh;
+  background:
+    radial-gradient(ellipse at 25% 10%, rgba(147, 102, 204, 0.12), transparent 55%),
+    radial-gradient(ellipse at 85% 90%, rgba(214, 140, 168, 0.08), transparent 55%),
+    var(--bg);
+}
+
+.page-inner {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 18vh 6vw 8vh;
+}
+
+.page h1 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+  font-size: clamp(38px, 5vw, 64px);
+  line-height: 1.1;
+  margin: 0 0 34px;
+}
+
+.page h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  font-size: 27px;
+  margin: 44px 0 12px;
+  color: var(--accent-soft);
+}
+
+.page p, .page li {
+  color: var(--ink-soft);
+  font-size: 16.5px;
+}
+
+.page .lead {
+  font-size: 19px;
+  color: var(--ink);
+}
+
+.page table {
+  border-collapse: collapse;
+  font-size: 15.5px;
+  color: var(--ink-soft);
+}
+
+.page td {
+  padding: 6px 22px 6px 0;
+  border-bottom: 1px solid rgba(236, 231, 225, 0.08);
+}
+
+.page .site-footer { margin-top: 10vh; }
+
+/* --------------------------------------------------------------------------
+   Animation d'apparition au scroll
+   -------------------------------------------------------------------------- */
+
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(26px);
+  transition:
+    opacity 0.9s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+[data-reveal].revealed {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  [data-reveal] { opacity: 1; transform: none; transition: none; }
+}

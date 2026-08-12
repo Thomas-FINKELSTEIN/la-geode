@@ -38,8 +38,7 @@
   }
 
   function articleUrl(a) {
-    return '../article/?id=' + encodeURIComponent(a.id || '') +
-      (window.CATALOGUE_DEMO ? '&demo=1' : '');
+    return '../article/?id=' + encodeURIComponent(a.id || '');
   }
 
   /* ---------- Carte article (réutilisée par les sections et la recherche) ---------- */
@@ -218,11 +217,6 @@
     if (!container) return;
     var themeKey = container.getAttribute('data-theme');
     var tint = container.getAttribute('data-tint') || 'var(--accent)';
-
-    if (window.CATALOGUE_DEMO) {
-      render(container, window.CATALOGUE_DEMO, themeKey, tint);
-      return;
-    }
 
     // Le paramètre horodaté contourne aussi le cache du CDN GitHub Pages
     // (sinon jusqu'à 10 min de retard après une publication).

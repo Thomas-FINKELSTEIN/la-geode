@@ -26,6 +26,16 @@ if (!KEY) {
   process.exit(0);
 }
 
+// Mode test ou réel, détecté depuis la clé : au changement de mode, les
+// produits/liens de l'ancien mode sont recréés dans le nouveau.
+const MODE = /_test_/.test(KEY) ? 'test' : 'live';
+
+const MESSAGE_CONFIRMATION =
+  'Merci pour votre achat ! Votre article vous attend au showroom — ' +
+  '15 Avenue du Maréchal Joffre, 66740 Saint-Génis-des-Fontaines ' +
+  '(lun 14h-19h, mar-ven 9h-12h / 14h-19h, sam 9h-18h). ' +
+  'Présentez votre reçu de paiement en boutique.';
+
 async function stripe(method, path, params) {
   const res = await fetch('https://api.stripe.com/v1/' + path, {
     method,
@@ -56,6 +66,18 @@ function prixValide(prix) {
 async function syncArticle(art) {
   let changed = false;
 
+  // Changement de mode test/réel : on repart de zéro pour cet article.
+  if (art.stripeMode && art.stripeMode !== MODE) {
+    art.stripeProductId = null;
+    art.stripePriceId = null;
+    art.stripeLinkId = null;
+    art.stripePrix = null;
+    art.stripe = null;
+    art.stripeMode = null;
+    changed = true;
+    console.log(`- « ${art.nom} » : changement de mode Stripe, recréation`);
+  }
+
   if (!prixValide(art.prix)) {
     // Plus de prix affiché → on retire le bouton d'achat.
     if (art.stripe) {
@@ -82,10 +104,11 @@ async function syncArticle(art) {
     if (img) params['images[0]'] = img;
     const product = await stripe('POST', 'products', params);
     art.stripeProductId = product.id;
+    art.stripeMode = MODE;
     art.stripeNom = art.nom;
     art.stripeDesc = desc;
     changed = true;
-    console.log(`- « ${art.nom} » : produit Stripe créé`);
+    console.log(`- « ${art.nom} » : produit Stripe créé (mode ${MODE})`);
   } else if (art.stripeNom !== art.nom || art.stripeDesc !== desc) {
     const params = { name: art.nom };
     params.description = desc; // vide = suppression de la description
@@ -115,7 +138,10 @@ async function syncArticle(art) {
       'line_items[0][adjustable_quantity][enabled]': 'true',
       'line_items[0][adjustable_quantity][minimum]': '1',
       'line_items[0][adjustable_quantity][maximum]': '10',
-      'billing_address_collection': 'auto'
+      'billing_address_collection': 'auto',
+      // Retrait en boutique : pas d'adresse de livraison, message de retrait
+      'after_completion[type]': 'hosted_confirmation',
+      'after_completion[hosted_confirmation][custom_message]': MESSAGE_CONFIRMATION
     });
 
     art.stripePriceId = price.id;

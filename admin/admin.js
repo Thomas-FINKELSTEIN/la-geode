@@ -443,7 +443,7 @@
       '<label>Nom de l\'article *</label>' +
       '<input id="af-nom" required value="' + esc(art ? art.nom : '') + '">' +
       '<label>Prix en € (laisser vide pour afficher « Prix en boutique »)</label>' +
-      '<input id="af-prix" type="number" step="0.01" min="0" value="' + (art && art.prix != null ? esc(art.prix) : '') + '">' +
+      '<input id="af-prix" inputmode="decimal" placeholder="ex : 12,50" value="' + (art && art.prix != null ? esc(String(art.prix).replace('.', ',')) : '') + '">' +
       '<label>Description (optionnel)</label>' +
       '<textarea id="af-desc" rows="2">' + esc(art ? art.description || '' : '') + '</textarea>' +
       '<label>Photo (optionnel — elle sera réduite automatiquement)</label>' +
@@ -458,7 +458,12 @@
       ev.preventDefault();
       var nom = $('af-nom').value.trim();
       if (!nom) return;
-      var prixStr = $('af-prix').value.trim();
+      var prixStr = $('af-prix').value.trim().replace(/[€\s]/g, '').replace(',', '.');
+      if (prixStr !== '' && (isNaN(Number(prixStr)) || Number(prixStr) < 0)) {
+        alert('Prix invalide — écrivez par exemple : 12,50');
+        $('af-prix').focus();
+        return;
+      }
       var target = art || { id: slug(nom) + '-' + uid(), nom: '', prix: null, description: '', photo: null };
       target.nom = nom;
       target.prix = prixStr === '' ? null : Number(prixStr);
@@ -477,7 +482,10 @@
           target.photo = path;
           setStatus('');
           done();
-        }).catch(function (e) { alert('Photo impossible à lire : ' + e.message); });
+        }).catch(function () {
+          alert('Cette photo n\'a pas pu être lue. Utilisez une image JPG ou PNG.\n' +
+            'Sur iPhone : Réglages → Appareil photo → Formats → « Le plus compatible ».');
+        });
       } else {
         done();
       }

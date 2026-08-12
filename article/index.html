@@ -11,7 +11,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../styles.css">
   <script src="../script.js" defer></script>
-  <script src="../demo-data.js"></script>
 </head>
 <body>
 
@@ -84,7 +83,7 @@
         'Appelez-nous au <a href="tel:' + TEL + '">' + TEL_AFFICHE + '</a>.</p>';
     }
 
-    function render(root, found, demo) {
+    function render(root, found) {
       var a = found.article;
       document.title = a.nom + ' — La Géode le Showroom';
 
@@ -111,15 +110,18 @@
         html += '<a class="btn-ghost" href="../#infos">Horaires &amp; accès</a>';
       }
       html += '</div>';
-      html += '<p class="article-note">Article disponible au showroom — 15 Avenue du Maréchal Joffre, Saint-Génis-des-Fontaines.</p>';
+      if (a.stripe) {
+        html += '<p class="article-note">Paiement en ligne sécurisé par Stripe — retrait de votre article au showroom, 15 Avenue du Maréchal Joffre, Saint-Génis-des-Fontaines.</p>';
+      } else {
+        html += '<p class="article-note">Article disponible au showroom — 15 Avenue du Maréchal Joffre, Saint-Génis-des-Fontaines.</p>';
+      }
       html += '</div></div>';
 
       root.innerHTML = html;
 
       var retour = document.getElementById('retour');
-      retour.href = '../' + found.themeKey + '/' + (demo ? '' : '');
+      retour.href = '../' + found.themeKey + '/';
       retour.textContent = '← Retour aux ' + found.theme.nom.toLowerCase();
-      if (demo) retour.href = '../apercu/';
 
       if (window.initReveal) window.initReveal(root);
     }
@@ -128,20 +130,13 @@
       var root = document.getElementById('article-root');
       var params = new URLSearchParams(location.search);
       var id = params.get('id');
-      var demo = params.get('demo') === '1';
       if (!id) { renderIntrouvable(root); return; }
-
-      if (demo && window.CATALOGUE_DEMO) {
-        var found = findArticle(window.CATALOGUE_DEMO, id);
-        if (found) render(root, found, true); else renderIntrouvable(root);
-        return;
-      }
 
       fetch('../data/catalogue.json?v=' + Date.now(), { cache: 'no-store' })
         .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
         .then(function (data) {
           var found = findArticle(data, id);
-          if (found) render(root, found, false); else renderIntrouvable(root);
+          if (found) render(root, found); else renderIntrouvable(root);
         })
         .catch(function () { renderIntrouvable(root); });
     });

@@ -1,6 +1,7 @@
 // Affiche le catalogue (familles + articles) d'un thème sur sa page univers,
 // avec une barre de recherche tolérante (bouts de mots, sans accents,
 // trouve même si un des mots tapés ne correspond pas) sur tout le catalogue.
+// Chaque article est un lien vers sa page /article/?id=…
 // La page doit contenir <div id="catalogue" data-theme="..." data-tint="...">.
 // Si window.CATALOGUE_DEMO est défini (page d'aperçu), il remplace data/catalogue.json.
 (function () {
@@ -36,60 +37,17 @@
     return /^https?:/.test(photo) ? photo : '../' + photo;
   }
 
-  /* ---------- Fenêtre de détail (lightbox) ---------- */
-
-  var lightbox = null;
-
-  function closeLightbox() {
-    if (!lightbox) return;
-    lightbox.remove();
-    lightbox = null;
-    document.body.style.overflow = '';
+  function articleUrl(a) {
+    return '../article/?id=' + encodeURIComponent(a.id || '') +
+      (window.CATALOGUE_DEMO ? '&demo=1' : '');
   }
-
-  function openLightbox(article) {
-    closeLightbox();
-    lightbox = el('div', 'lightbox');
-    lightbox.setAttribute('role', 'dialog');
-    lightbox.setAttribute('aria-modal', 'true');
-
-    var box = el('div', 'lightbox-box');
-    box.appendChild(el('button', 'lightbox-close', '✕')).onclick = closeLightbox;
-    if (article.photo) {
-      var img = el('img');
-      img.src = photoSrc(article.photo);
-      img.alt = article.nom;
-      box.appendChild(img);
-    }
-    var body = el('div', 'lightbox-body');
-    body.appendChild(el('h3', null, esc(article.nom)));
-    body.appendChild(el('div', 'item-prix', prixLabel(article.prix)));
-    if (article.description) body.appendChild(el('p', null, esc(article.description)));
-    var tel = el('a', 'btn-primary', '📞 Réserver : ' + TEL_AFFICHE);
-    tel.href = 'tel:' + TEL;
-    body.appendChild(tel);
-    box.appendChild(body);
-    lightbox.appendChild(box);
-
-    lightbox.addEventListener('click', function (ev) {
-      if (ev.target === lightbox) closeLightbox();
-    });
-    document.body.appendChild(lightbox);
-    document.body.style.overflow = 'hidden';
-  }
-
-  document.addEventListener('keydown', function (ev) {
-    if (ev.key === 'Escape') closeLightbox();
-  });
 
   /* ---------- Carte article (réutilisée par les sections et la recherche) ---------- */
 
   function itemCard(a, revealDelay, contexte) {
-    var card = el('article', 'item-card');
+    var card = el('a', 'item-card');
     card.setAttribute('data-reveal', String(revealDelay));
-    card.setAttribute('tabindex', '0');
-    card.setAttribute('role', 'button');
-    card.setAttribute('aria-label', a.nom + ' — ' + prixLabel(a.prix));
+    if (a.id) card.href = articleUrl(a);
     if (a.photo) {
       var img = el('img');
       img.src = photoSrc(a.photo);
@@ -105,10 +63,6 @@
     body.appendChild(el('div', 'item-prix', prixLabel(a.prix)));
     if (a.description) body.appendChild(el('p', null, esc(a.description)));
     card.appendChild(body);
-    card.addEventListener('click', function () { openLightbox(a); });
-    card.addEventListener('keydown', function (ev) {
-      if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); openLightbox(a); }
-    });
     return card;
   }
 

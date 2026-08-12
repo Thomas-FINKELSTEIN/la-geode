@@ -224,7 +224,9 @@
       return;
     }
 
-    fetch('../data/catalogue.json', { cache: 'no-store' })
+    // Le paramètre horodaté contourne aussi le cache du CDN GitHub Pages
+    // (sinon jusqu'à 10 min de retard après une publication).
+    fetch('../data/catalogue.json?v=' + Date.now(), { cache: 'no-store' })
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function (data) { render(container, data, themeKey, tint); })
       .catch(function () {

@@ -147,9 +147,9 @@ img.cover {
   position: absolute;
   inset: 0;
   background: linear-gradient(180deg,
-    rgba(15, 13, 18, 0.45) 0%,
-    rgba(15, 13, 18, 0.25) 45%,
-    rgba(15, 13, 18, 0.65) 88%,
+    rgba(15, 13, 18, 0.62) 0%,
+    rgba(15, 13, 18, 0.4) 45%,
+    rgba(15, 13, 18, 0.78) 88%,
     transparent 100%);
   pointer-events: none;
 }
@@ -172,6 +172,7 @@ img.cover {
   text-transform: uppercase;
   color: var(--accent);
   margin-bottom: 26px;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.9), 0 2px 14px rgba(0, 0, 0, 0.7);
 }
 
 .hero h1 {
@@ -180,7 +181,7 @@ img.cover {
   font-size: clamp(44px, 6.5vw, 96px);
   line-height: 1.06;
   margin: 0 0 28px;
-  text-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.65), 0 4px 30px rgba(0, 0, 0, 0.6);
 }
 
 .hero h1 em { color: var(--accent-soft); }
@@ -224,7 +225,8 @@ img.cover {
   font-size: 11px;
   letter-spacing: 0.3em;
   text-transform: uppercase;
-  color: rgba(236, 231, 225, 0.7);
+  color: rgba(236, 231, 225, 0.85);
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.9);
   pointer-events: none;
 }
 
@@ -255,6 +257,15 @@ a.univers-panel {
 
 .univers-panel:hover img.cover { transform: scale(1.04); }
 
+/* Voile sombre en bas des panneaux pour la lisibilité des légendes */
+.univers-panel::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 42%, rgba(15, 13, 18, 0.85) 100%);
+  pointer-events: none;
+}
+
 .panel-hint {
   display: inline-block;
   margin-top: 10px;
@@ -269,6 +280,7 @@ a.univers-panel {
   left: 0; right: 0; bottom: 0;
   padding: 0 30px 44px;
   pointer-events: none;
+  z-index: 1;
 }
 
 .univers-bar {
@@ -283,15 +295,15 @@ a.univers-panel {
   font-weight: 600;
   font-size: 30px;
   margin: 0 0 8px;
-  text-shadow: 0 2px 16px rgba(0, 0, 0, 0.6);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.85), 0 2px 16px rgba(0, 0, 0, 0.7);
 }
 
 .univers-panel p {
   margin: 0;
-  color: var(--ink-soft);
+  color: rgba(236, 231, 225, 0.95);
   font-size: 15px;
   max-width: 42ch;
-  text-shadow: 0 1px 10px rgba(0, 0, 0, 0.7);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.9), 0 1px 12px rgba(0, 0, 0, 0.8);
 }
 
 /* --------------------------------------------------------------------------
@@ -370,9 +382,10 @@ a.univers-panel {
   position: absolute;
   inset: 0;
   background: linear-gradient(90deg,
-    rgba(15, 13, 18, 0.88) 0%,
-    rgba(15, 13, 18, 0.55) 48%,
-    transparent 75%);
+    rgba(15, 13, 18, 0.94) 0%,
+    rgba(15, 13, 18, 0.72) 48%,
+    rgba(15, 13, 18, 0.28) 78%,
+    rgba(15, 13, 18, 0.12) 100%);
   pointer-events: none;
 }
 
@@ -473,9 +486,10 @@ a.univers-panel {
 .social-links { display: flex; gap: 16px; }
 
 .site-footer {
-  margin-top: 12vh;
-  padding-top: 26px;
+  width: 100%;
   border-top: 1px solid rgba(236, 231, 225, 0.08);
+  background: rgba(0, 0, 0, 0.28);
+  padding: 26px 5vw;
   display: flex;
   justify-content: space-between;
   gap: 16px;
@@ -543,8 +557,6 @@ a.univers-panel {
   padding: 6px 22px 6px 0;
   border-bottom: 1px solid rgba(236, 231, 225, 0.08);
 }
-
-.page .site-footer { margin-top: 10vh; }
 
 .page-inner.page-wide { max-width: 1100px; }
 

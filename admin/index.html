@@ -90,21 +90,27 @@
     <!-- Écran de connexion -->
     <div id="login" class="card">
       <h2>Connexion</h2>
-      <p class="help">Collez votre code d'accès GitHub. Il reste enregistré sur cet ordinateur, vous n'aurez pas à le refaire.</p>
-      <label for="token">Code d'accès</label>
-      <input type="password" id="token" placeholder="github_pat_…" autocomplete="off">
+      <label for="password">Mot de passe</label>
+      <input type="password" id="password" autocomplete="current-password">
       <div class="form-actions">
-        <button class="primary" id="btn-login">Se connecter</button>
+        <button class="primary" id="btn-login-pass">Se connecter</button>
       </div>
+      <p class="help" id="login-msg"></p>
       <details style="margin-top:18px">
-        <summary class="help" style="cursor:pointer">Comment obtenir un code d'accès ? (pour l'installateur)</summary>
+        <summary class="help" style="cursor:pointer">Installateur : connexion par code d'accès GitHub</summary>
         <div class="help">
+          <label for="token">Code d'accès</label>
+          <input type="password" id="token" placeholder="github_pat_…" autocomplete="off">
+          <div class="form-actions">
+            <button id="btn-login">Se connecter avec le code</button>
+          </div>
           <ol>
-            <li>Sur github.com (connecté au compte propriétaire du site) : Settings → Developer settings → Personal access tokens → <b>Fine-grained tokens</b> → Generate new token</li>
+            <li>Sur github.com (compte propriétaire du site) : Settings → Developer settings → Personal access tokens → <b>Fine-grained tokens</b> → Generate new token</li>
             <li>Nom : « Admin La Géode » — Expiration : 1 an</li>
             <li>Repository access : <b>Only select repositories</b> → la-geode</li>
             <li>Permissions → Repository permissions → <b>Contents : Read and write</b></li>
             <li>Générer, copier le code <code>github_pat_…</code> et le coller ci-dessus</li>
+            <li>Une fois connecté, définissez le mot de passe de la gérante en bas de page</li>
           </ol>
         </div>
       </details>
@@ -124,6 +130,19 @@
         <div class="form-actions">
           <button class="primary" id="btn-add-fam">Ajouter la famille</button>
         </div>
+      </div>
+
+      <div class="card">
+        <h2>Mot de passe de connexion (installateur)</h2>
+        <p class="help">Définissez ou changez le mot de passe qui permet de se connecter à cette page sans le code d'accès GitHub, depuis n'importe quel ordinateur. Choisissez-le long — l'idéal est une petite phrase de 3 ou 4 mots.</p>
+        <label for="np1">Nouveau mot de passe</label>
+        <input type="password" id="np1" autocomplete="new-password">
+        <label for="np2">Confirmer le mot de passe</label>
+        <input type="password" id="np2" autocomplete="new-password">
+        <div class="form-actions">
+          <button class="primary" id="btn-set-pass">Enregistrer le mot de passe</button>
+        </div>
+        <p class="help" id="pass-msg"></p>
       </div>
     </div>
   </div>

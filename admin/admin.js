@@ -11,7 +11,10 @@
   var REPO = 'la-geode';
   var BRANCH = 'main';
   var API = 'https://api.github.com/repos/' + OWNER + '/' + REPO + '/contents/';
+  var RAW = 'https://raw.githubusercontent.com/' + OWNER + '/' + REPO + '/' + BRANCH + '/';
   var CATALOGUE_PATH = 'data/catalogue.json';
+  var ACCES_PATH = 'admin/acces.json';
+  var PBKDF2_ITERATIONS = 1000000; // dérivation volontairement lente (anti force brute)
   var PHOTO_MAX = 1200;      // côté max des photos envoyées
   var PHOTO_QUALITY = 0.82;
 
@@ -56,6 +59,54 @@
         });
         return r.json();
       });
+  }
+
+  /* ---------- Connexion par mot de passe ----------
+     Le code d'accès GitHub est chiffré (AES-GCM, clé dérivée du mot de passe
+     par PBKDF2) et publié dans admin/acces.json. Le déchiffrement se fait
+     entièrement dans le navigateur : le mot de passe ne circule jamais. */
+
+  function bytesToB64(bytes) {
+    var s = '';
+    new Uint8Array(bytes).forEach(function (b) { s += String.fromCharCode(b); });
+    return btoa(s);
+  }
+
+  function b64ToBytes(b64) {
+    var s = atob(b64);
+    var bytes = new Uint8Array(s.length);
+    for (var i = 0; i < s.length; i++) bytes[i] = s.charCodeAt(i);
+    return bytes;
+  }
+
+  function deriveKey(password, salt, iterations) {
+    return crypto.subtle.importKey('raw', new TextEncoder().encode(password), 'PBKDF2', false, ['deriveKey'])
+      .then(function (base) {
+        return crypto.subtle.deriveKey(
+          { name: 'PBKDF2', salt: salt, iterations: iterations, hash: 'SHA-256' },
+          base, { name: 'AES-GCM', length: 256 }, false, ['encrypt', 'decrypt']);
+      });
+  }
+
+  function chiffrerToken(token, password) {
+    var salt = crypto.getRandomValues(new Uint8Array(16));
+    var iv = crypto.getRandomValues(new Uint8Array(12));
+    return deriveKey(password, salt, PBKDF2_ITERATIONS).then(function (key) {
+      return crypto.subtle.encrypt({ name: 'AES-GCM', iv: iv }, key, new TextEncoder().encode(token));
+    }).then(function (data) {
+      return {
+        v: 1, kdf: 'PBKDF2-SHA256', iterations: PBKDF2_ITERATIONS,
+        salt: bytesToB64(salt), iv: bytesToB64(iv), data: bytesToB64(data)
+      };
+    });
+  }
+
+  function dechiffrerToken(acces, password) {
+    return deriveKey(password, b64ToBytes(acces.salt), acces.iterations).then(function (key) {
+      return crypto.subtle.decrypt({ name: 'AES-GCM', iv: b64ToBytes(acces.iv) }, key, b64ToBytes(acces.data));
+    }).then(function (buf) {
+      return new TextDecoder().decode(buf);
+    });
   }
 
   /* ---------- Utilitaires ---------- */
@@ -355,6 +406,58 @@
     state.token = t;
     localStorage.setItem('geode-admin-token', t);
     start();
+  };
+
+  $('btn-login-pass').onclick = function () {
+    var pass = $('password').value;
+    if (!pass) { $('password').focus(); return; }
+    var msg = $('login-msg');
+    msg.textContent = 'Vérification…';
+    fetch(RAW + ACCES_PATH + '?t=' + Date.now(), { cache: 'no-store' })
+      .then(function (r) {
+        if (r.status === 404) throw new Error('Aucun mot de passe n\'est configuré pour le moment — utilisez le code d\'accès (section installateur ci-dessous).');
+        if (!r.ok) throw new Error('Connexion impossible (erreur ' + r.status + '). Réessayez dans un instant.');
+        return r.json();
+      })
+      .then(function (acces) {
+        return dechiffrerToken(acces, pass).catch(function () {
+          throw new Error('Mot de passe incorrect.');
+        });
+      })
+      .then(function (token) {
+        state.token = token;
+        localStorage.setItem('geode-admin-token', token);
+        msg.textContent = '';
+        start();
+      })
+      .catch(function (e) { msg.textContent = e.message; });
+  };
+
+  $('btn-set-pass').onclick = function () {
+    var p1 = $('np1').value;
+    var p2 = $('np2').value;
+    var msg = $('pass-msg');
+    if (p1.length < 8) { msg.textContent = 'Mot de passe trop court (8 caractères minimum — une petite phrase est idéale).'; return; }
+    if (p1 !== p2) { msg.textContent = 'Les deux saisies ne correspondent pas.'; return; }
+    msg.textContent = 'Chiffrement en cours…';
+    var btn = $('btn-set-pass');
+    btn.disabled = true;
+    chiffrerToken(state.token, p1)
+      .then(function (acces) {
+        // sha nécessaire si le fichier existe déjà (changement de mot de passe)
+        return gh(ACCES_PATH).then(function (r) {
+          return r.ok ? r.json().then(function (j) { return j.sha; }) : null;
+        }).then(function (sha) {
+          return putFile(ACCES_PATH, b64EncodeUtf8(JSON.stringify(acces)),
+            'Admin : mot de passe de connexion mis à jour', sha || undefined);
+        });
+      })
+      .then(function () {
+        $('np1').value = ''; $('np2').value = '';
+        msg.textContent = 'Mot de passe enregistré ✓ — utilisable d\'ici quelques minutes, depuis n\'importe quel ordinateur.';
+      })
+      .catch(function (e) { msg.textContent = 'Échec : ' + e.message; })
+      .finally(function () { btn.disabled = false; });
   };
 
   $('btn-logout').onclick = function () {

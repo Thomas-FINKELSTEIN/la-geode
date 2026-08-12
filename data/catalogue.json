@@ -3,7 +3,9 @@
     "mineraux": {
       "nom": "Minéraux",
       "familles": [
-        { "id": "pierres-roulees", "nom": "Pierres roulées", "slogan": "Le secret du succès sur le bien-être et la zénitude du corps et de l'esprit.", "articles": [] },
+        { "id": "pierres-roulees", "nom": "Pierres roulées", "slogan": "Le secret du succès sur le bien-être et la zénitude du corps et de l'esprit.", "articles": [
+          { "id": "amethyste-test-001", "nom": "Améthyste (article de test)", "prix": 5, "description": "Pierre d'apaisement et d'équilibre. Article de démonstration créé pour valider le catalogue — à supprimer depuis l'admin.", "photo": "https://images.unsplash.com/photo-1567113463224-37cf03ba4577?q=80&w=1200&auto=format&fit=crop" }
+        ] },
         { "id": "pierres-brutes", "nom": "Pierres brutes", "slogan": "Retrouvez l'équilibre brut dans son état naturel.", "articles": [] },
         { "id": "pierres-forme-libre", "nom": "Pierres forme libre", "slogan": "L'originalité de la pierre sous toutes ses formes.", "articles": [] },
         { "id": "lampes-minerales", "nom": "Lampes minérales", "slogan": "Harmonisez votre espace en nettoyant énergétiquement votre environnement, naturellement.", "articles": [] },

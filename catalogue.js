@@ -183,7 +183,7 @@
       card.appendChild(el('p', null, esc(f.slogan || '')));
       if (hasArticles) {
         card.appendChild(el('span', 'panel-hint',
-          'Voir les ' + f.articles.length + ' article' + (f.articles.length > 1 ? 's' : '') + ' →'));
+          f.articles.length > 1 ? 'Voir les ' + f.articles.length + ' articles →' : 'Voir l\'article →'));
       }
       grid.appendChild(card);
     });

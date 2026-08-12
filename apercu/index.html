@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aperçu du design des articles — La Géode</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpolygon points='50,4 88,38 50,96 12,38' fill='%23b795e3'/%3E%3Cpolygon points='50,4 70,38 50,96 30,38' fill='%23d6c8ee'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../styles.css">
+  <script src="../script.js" defer></script>
+  <script>
+    // Données de démonstration (anciens produits réels, photos Unsplash provisoires)
+    window.CATALOGUE_DEMO = {
+      themes: {
+        mineraux: {
+          nom: "Minéraux",
+          familles: [
+            {
+              id: "pierres-roulees", nom: "Pierres roulées",
+              slogan: "Le secret du succès sur le bien-être et la zénitude du corps et de l'esprit.",
+              articles: [
+                { nom: "Améthyste", prix: 5, description: "Pierre d'apaisement et d'équilibre, idéale pour retrouver le calme et favoriser un sommeil serein.", photo: "https://images.unsplash.com/photo-1567113463224-37cf03ba4577?q=80&w=800&auto=format&fit=crop" },
+                { nom: "Quartz rose", prix: 4.5, description: "La pierre de la douceur et de l'amour, à garder près de soi.", photo: "https://images.unsplash.com/photo-1632980205460-e490e885e848?q=80&w=800&auto=format&fit=crop" },
+                { nom: "Œil de tigre", prix: 4.5, description: "Force, courage et protection au quotidien.", photo: "https://images.unsplash.com/photo-1621329109234-d7657d2f3846?q=80&w=800&auto=format&fit=crop" },
+                { nom: "Bronzite", prix: 3.5, description: "Pierre d'harmonie, elle aide à prendre du recul." }
+              ]
+            },
+            {
+              id: "pierres-brutes", nom: "Pierres brutes",
+              slogan: "Retrouvez l'équilibre brut dans son état naturel.",
+              articles: [
+                { nom: "Cristal de roche AA", prix: 37.5, description: "Pointe naturelle de belle clarté, énergie universelle et amplificatrice.", photo: "https://images.unsplash.com/photo-1521133573892-e44906baee46?q=80&w=800&auto=format&fit=crop" },
+                { nom: "Apophyllite druse", prix: 34.95, description: "Druse scintillante, pièce de méditation par excellence.", photo: "https://images.unsplash.com/photo-1638768892257-8aec93a524e5?q=80&w=800&auto=format&fit=crop" }
+              ]
+            },
+            {
+              id: "pieces-exception", nom: "Pièces d'exception",
+              slogan: "Géodes, sphères et pièces de collection sur socle, pour les passionnés et les curieux.",
+              articles: [
+                { nom: "Sphère d'obsidienne 10,2 kg", prix: null, description: "Pièce de collection sur socle en bois — venez l'admirer au showroom.", photo: "https://images.unsplash.com/photo-1736449497832-6ae92abb8507?q=80&w=800&auto=format&fit=crop" }
+              ]
+            },
+            { id: "lampes-minerales", nom: "Lampes minérales", slogan: "Harmonisez votre espace en nettoyant énergétiquement votre environnement, naturellement.", articles: [] },
+            { id: "galets", nom: "Galets", slogan: "La douceur de la pierre à glisser dans la poche ou à poser chez soi.", articles: [] }
+          ]
+        }
+      }
+    };
+  </script>
+  <script src="../catalogue.js" defer></script>
+</head>
+<body>
+
+  <header class="site-header">
+    <a class="brand" href="../">
+      <div class="brand-name">La Géode</div>
+      <div class="brand-sub">Le Showroom</div>
+    </a>
+    <nav class="site-nav">
+      <a class="nav-link" href="../#univers">Nos univers</a>
+      <a class="btn-pill" href="../#infos">Nous rendre visite</a>
+    </nav>
+  </header>
+
+  <main class="page">
+    <div class="page-inner page-wide">
+      <div class="kicker-sm" data-reveal="0" style="color:var(--tint-mineraux)">Page d'aperçu — données de démonstration</div>
+      <h1 data-reveal="100">Minéraux</h1>
+      <p class="lead" data-reveal="200">Voici à quoi ressemblera une page univers quand la gérante aura saisi des articles. Cliquez sur un article pour voir la fenêtre de détail. Cette page n'est pas reliée au site et pourra être supprimée.</p>
+
+      <div id="catalogue" data-theme="mineraux" data-tint="var(--tint-mineraux)"></div>
+
+      <div class="site-footer">
+        <div>© 2026 La Géode le Showroom — SARL Franck et David</div>
+        <div class="footer-links">
+          <a href="../mentions-legales/">Mentions légales</a>
+          <a href="../faq/">FAQ</a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+</body>
+</html>

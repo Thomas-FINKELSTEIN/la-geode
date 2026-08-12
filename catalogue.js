@@ -1,6 +1,10 @@
 // Affiche le catalogue (familles + articles) d'un thème sur sa page univers.
 // La page doit contenir <div id="catalogue" data-theme="..." data-tint="...">.
+// Si window.CATALOGUE_DEMO est défini (page d'aperçu), il remplace le fichier data/catalogue.json.
 (function () {
+  var TEL = '+33468566053';
+  var TEL_AFFICHE = '04 68 56 60 53';
+
   function el(tag, className, html) {
     var e = document.createElement(tag);
     if (className) e.className = className;
@@ -18,8 +22,60 @@
     if (prix === null || prix === undefined || prix === '') return 'Prix en boutique';
     var n = Number(prix);
     if (isNaN(n)) return esc(prix);
-    return n.toLocaleString('fr-FR', { minimumFractionDigits: 0, maximumFractionDigits: 2 }) + ' €';
+    return n.toLocaleString('fr-FR', { minimumFractionDigits: 0, maximumFractionDigits: 2 }) + ' €';
   }
+
+  function photoSrc(photo) {
+    return /^https?:/.test(photo) ? photo : '../' + photo;
+  }
+
+  /* ---------- Fenêtre de détail (lightbox) ---------- */
+
+  var lightbox = null;
+
+  function closeLightbox() {
+    if (!lightbox) return;
+    lightbox.remove();
+    lightbox = null;
+    document.body.style.overflow = '';
+  }
+
+  function openLightbox(article) {
+    closeLightbox();
+    lightbox = el('div', 'lightbox');
+    lightbox.setAttribute('role', 'dialog');
+    lightbox.setAttribute('aria-modal', 'true');
+
+    var box = el('div', 'lightbox-box');
+    box.appendChild(el('button', 'lightbox-close', '✕')).onclick = closeLightbox;
+    if (article.photo) {
+      var img = el('img');
+      img.src = photoSrc(article.photo);
+      img.alt = article.nom;
+      box.appendChild(img);
+    }
+    var body = el('div', 'lightbox-body');
+    body.appendChild(el('h3', null, esc(article.nom)));
+    body.appendChild(el('div', 'item-prix', prixLabel(article.prix)));
+    if (article.description) body.appendChild(el('p', null, esc(article.description)));
+    var tel = el('a', 'btn-primary', '📞 Réserver : ' + TEL_AFFICHE);
+    tel.href = 'tel:' + TEL;
+    body.appendChild(tel);
+    box.appendChild(body);
+    lightbox.appendChild(box);
+
+    lightbox.addEventListener('click', function (ev) {
+      if (ev.target === lightbox) closeLightbox();
+    });
+    document.body.appendChild(lightbox);
+    document.body.style.overflow = 'hidden';
+  }
+
+  document.addEventListener('keydown', function (ev) {
+    if (ev.key === 'Escape') closeLightbox();
+  });
+
+  /* ---------- Rendu ---------- */
 
   function render(container, theme, tint) {
     var familles = theme.familles || [];
@@ -57,18 +113,27 @@
       f.articles.forEach(function (a, i) {
         var card = el('article', 'item-card');
         card.setAttribute('data-reveal', String(i * 60));
+        card.setAttribute('tabindex', '0');
+        card.setAttribute('role', 'button');
+        card.setAttribute('aria-label', a.nom + ' — ' + prixLabel(a.prix));
         if (a.photo) {
           var img = el('img');
-          img.src = '../' + a.photo;
+          img.src = photoSrc(a.photo);
           img.alt = a.nom;
           img.loading = 'lazy';
           card.appendChild(img);
+        } else {
+          card.appendChild(el('div', 'item-noimg', '◆'));
         }
         var body = el('div', 'item-body');
         body.appendChild(el('h3', null, esc(a.nom)));
         body.appendChild(el('div', 'item-prix', prixLabel(a.prix)));
         if (a.description) body.appendChild(el('p', null, esc(a.description)));
         card.appendChild(body);
+        card.addEventListener('click', function () { openLightbox(a); });
+        card.addEventListener('keydown', function (ev) {
+          if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); openLightbox(a); }
+        });
         items.appendChild(card);
       });
       section.appendChild(items);
@@ -83,6 +148,13 @@
     if (!container) return;
     var themeKey = container.getAttribute('data-theme');
     var tint = container.getAttribute('data-tint') || 'var(--accent)';
+
+    if (window.CATALOGUE_DEMO) {
+      var theme = window.CATALOGUE_DEMO.themes[themeKey];
+      if (theme) render(container, theme, tint);
+      return;
+    }
+
     fetch('../data/catalogue.json', { cache: 'no-store' })
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function (data) {
@@ -91,7 +163,7 @@
       })
       .catch(function () {
         container.appendChild(el('p', null,
-          'Le catalogue est momentanément indisponible — appelez-nous au <a href="tel:+33468566053">04 68 56 60 53</a>.'));
+          'Le catalogue est momentanément indisponible — appelez-nous au <a href="tel:' + TEL + '">' + TEL_AFFICHE + '</a>.'));
       });
   });
 })();

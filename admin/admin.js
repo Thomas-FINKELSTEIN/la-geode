@@ -249,14 +249,7 @@
       head.innerHTML = '<h3>' + esc(fam.nom) + '</h3>';
       head.appendChild(smallBtn('↑', function () { moveItem(theme.familles, fam, -1); }));
       head.appendChild(smallBtn('↓', function () { moveItem(theme.familles, fam, 1); }));
-      head.appendChild(smallBtn('Renommer', function () {
-        var nom = prompt('Nom de la famille :', fam.nom);
-        if (nom === null) return;
-        var slogan = prompt('Petite phrase de présentation :', fam.slogan || '');
-        if (nom.trim()) fam.nom = nom.trim();
-        if (slogan !== null) fam.slogan = slogan.trim();
-        markDirty(); render();
-      }));
+      head.appendChild(smallBtn('Modifier', function () { openFamilleForm(fam); }));
       head.appendChild(smallBtn('Supprimer', function () {
         var n = (fam.articles || []).length;
         if (confirm('Supprimer la famille « ' + fam.nom + ' »' + (n ? ' et ses ' + n + ' article(s)' : '') + ' ?')) {
@@ -285,10 +278,50 @@
     });
   }
 
+  /* ---------- Formulaire famille ---------- */
+
+  function openFamilleForm(fam) {
+    closeArticleForm();
+    closeFamilleForm();
+    var form = document.createElement('form');
+    form.className = 'inline-form';
+    form.id = 'famille-form';
+    form.innerHTML =
+      '<h2>Modifier la famille « ' + esc(fam.nom) + ' »</h2>' +
+      '<label>Nom de la famille *</label>' +
+      '<input id="ff-nom" required value="' + esc(fam.nom) + '">' +
+      '<label>Petite phrase de présentation (optionnel)</label>' +
+      '<input id="ff-slogan" value="' + esc(fam.slogan || '') + '">' +
+      '<div class="form-actions">' +
+      '<button type="submit" class="primary">Enregistrer</button>' +
+      '<button type="button" id="ff-cancel">Annuler</button>' +
+      '</div>';
+
+    form.onsubmit = function (ev) {
+      ev.preventDefault();
+      var nom = $('ff-nom').value.trim();
+      if (!nom) return;
+      fam.nom = nom;
+      fam.slogan = $('ff-slogan').value.trim();
+      markDirty(); closeFamilleForm(); render();
+    };
+
+    form.querySelector('#ff-cancel').onclick = closeFamilleForm;
+    document.querySelector('.wrap').appendChild(form);
+    form.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    $('ff-nom').focus();
+  }
+
+  function closeFamilleForm() {
+    var f = $('famille-form');
+    if (f) f.remove();
+  }
+
   /* ---------- Formulaire article ---------- */
 
   function openArticleForm(fam, art) {
     closeArticleForm();
+    closeFamilleForm();
     var form = document.createElement('form');
     form.className = 'inline-form';
     form.id = 'article-form';

@@ -249,8 +249,6 @@
       '<input id="af-prix" type="number" step="0.01" min="0" value="' + (art && art.prix != null ? esc(art.prix) : '') + '">' +
       '<label>Description (optionnel)</label>' +
       '<textarea id="af-desc" rows="2">' + esc(art ? art.description || '' : '') + '</textarea>' +
-      '<label>Lien de paiement Stripe (optionnel — fait apparaître un bouton « Acheter en ligne »)</label>' +
-      '<input id="af-stripe" placeholder="https://buy.stripe.com/…" value="' + esc(art && art.stripe ? art.stripe : '') + '">' +
       '<label>Photo (optionnel — elle sera réduite automatiquement)</label>' +
       '<input id="af-photo" type="file" accept="image/*">' +
       (art && art.photo ? '<img class="thumb-preview" src="' + (state.pendingPhotos[art.photo] ? 'data:image/jpeg;base64,' + state.pendingPhotos[art.photo] : '../' + esc(art.photo)) + '" alt="">' : '') +
@@ -268,7 +266,6 @@
       target.nom = nom;
       target.prix = prixStr === '' ? null : Number(prixStr);
       target.description = $('af-desc').value.trim();
-      target.stripe = $('af-stripe').value.trim() || null;
 
       var file = $('af-photo').files[0];
       var done = function () {

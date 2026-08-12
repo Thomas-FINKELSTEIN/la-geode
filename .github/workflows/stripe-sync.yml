@@ -1,0 +1,46 @@
+name: Synchronisation Stripe
+
+# À chaque publication du catalogue par l'admin, crée automatiquement dans
+# Stripe les produits et liens de paiement des articles qui ont un prix,
+# et écrit les liens dans data/catalogue.json (bouton « Acheter en ligne »).
+# Tant que le secret STRIPE_SECRET_KEY n'existe pas, le job ne fait rien.
+
+on:
+  push:
+    branches: [main]
+    paths: [data/catalogue.json]
+  workflow_dispatch:
+
+concurrency:
+  group: stripe-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Synchroniser le catalogue avec Stripe
+        run: node .github/scripts/stripe-sync.js
+        env:
+          STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
+          SITE_URL: https://thomas-finkelstein.github.io/la-geode
+
+      - name: Publier les liens de paiement
+        run: |
+          if ! git diff --quiet data/catalogue.json; then
+            git config user.name "stripe-sync[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/catalogue.json
+            git commit -m "Stripe : liens de paiement mis à jour automatiquement"
+            git push
+          else
+            echo "Aucun changement à publier."
+          fi

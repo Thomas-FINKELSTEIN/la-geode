@@ -11,6 +11,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
   <script src="script.js" defer></script>
+  <script src="actualites.js" defer></script>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -112,6 +113,15 @@
       </div>
     </a>
   </div>
+
+  <!-- Annonces gérées depuis l'admin ; masquée s'il n'y a rien en cours -->
+  <section id="actualites" class="actus" style="display:none">
+    <div class="actus-inner">
+      <div class="kicker-sm" data-reveal="0">En ce moment</div>
+      <h2 data-reveal="100">Au showroom</h2>
+      <div id="actus-grid" class="actus-grid"></div>
+    </div>
+  </section>
 
   <section id="histoire" class="histoire">
     <img class="cover" src="https://images.unsplash.com/photo-1521133573892-e44906baee46?q=80&w=2000&auto=format&fit=crop" alt="L'univers apaisant du showroom">

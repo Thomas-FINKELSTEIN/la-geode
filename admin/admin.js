@@ -171,6 +171,7 @@
     }).then(function (j) {
       state.sha = j.sha;
       state.catalogue = JSON.parse(b64DecodeUtf8(j.content));
+      if (!state.catalogue.actualites) state.catalogue.actualites = [];
       setStatus('');
     });
   }
@@ -276,6 +277,116 @@
 
       wrap.appendChild(card);
     });
+
+    renderActus();
+  }
+
+  /* ---------- Actualités ---------- */
+
+  function aujourdhui() {
+    var d = new Date();
+    return d.getFullYear() + '-' +
+      String(d.getMonth() + 1).padStart(2, '0') + '-' +
+      String(d.getDate()).padStart(2, '0');
+  }
+
+  function renderActus() {
+    var wrap = $('actus-list');
+    if (!wrap) return;
+    wrap.innerHTML = '';
+    var actus = state.catalogue.actualites;
+
+    actus.forEach(function (actu) {
+      var row = document.createElement('div');
+      row.className = 'art';
+      var thumb;
+      if (actu.image && state.pendingPhotos[actu.image]) {
+        thumb = '<img src="data:image/jpeg;base64,' + state.pendingPhotos[actu.image] + '" alt="">';
+      } else if (actu.image) {
+        thumb = '<img src="../' + esc(actu.image) + '" alt="">';
+      } else {
+        thumb = '<div class="noimg">📣</div>';
+      }
+      var etat = '';
+      if (actu.fin) {
+        etat = actu.fin < aujourdhui()
+          ? '<span class="art-prix" style="color:var(--danger)">expirée</span>'
+          : '<span class="art-prix">jusqu\'au ' + esc(actu.fin) + '</span>';
+      }
+      row.innerHTML = thumb + '<span class="art-nom">' + esc(actu.titre) + '</span>' + etat;
+      row.appendChild(smallBtn('↑', function () { moveItem(actus, actu, -1); }));
+      row.appendChild(smallBtn('↓', function () { moveItem(actus, actu, 1); }));
+      row.appendChild(smallBtn('Modifier', function () { openActuForm(actu); }));
+      row.appendChild(smallBtn('Supprimer', function () {
+        if (confirm('Supprimer l\'annonce « ' + actu.titre + ' » ?')) {
+          actus.splice(actus.indexOf(actu), 1);
+          markDirty(); render();
+        }
+      }, 'danger'));
+      wrap.appendChild(row);
+    });
+  }
+
+  function openActuForm(actu) {
+    closeArticleForm();
+    closeFamilleForm();
+    closeActuForm();
+    var form = document.createElement('form');
+    form.className = 'inline-form';
+    form.id = 'actu-form';
+    form.innerHTML =
+      '<h2>' + (actu ? 'Modifier « ' + esc(actu.titre) + ' »' : 'Nouvelle annonce') + '</h2>' +
+      '<label>Titre *</label>' +
+      '<input id="ac-titre" required value="' + esc(actu ? actu.titre : '') + '">' +
+      '<label>Texte (optionnel)</label>' +
+      '<textarea id="ac-texte" rows="2">' + esc(actu ? actu.texte || '' : '') + '</textarea>' +
+      '<label>Fin de l\'annonce (optionnel — elle disparaîtra du site après cette date)</label>' +
+      '<input id="ac-fin" type="date" value="' + esc(actu && actu.fin ? actu.fin : '') + '">' +
+      '<label>Affiche / image (optionnel)</label>' +
+      '<input id="ac-image" type="file" accept="image/*">' +
+      (actu && actu.image ? '<img class="thumb-preview" src="' + (state.pendingPhotos[actu.image] ? 'data:image/jpeg;base64,' + state.pendingPhotos[actu.image] : '../' + esc(actu.image)) + '" alt="">' : '') +
+      '<div class="form-actions">' +
+      '<button type="submit" class="primary">' + (actu ? 'Enregistrer' : 'Ajouter') + '</button>' +
+      '<button type="button" id="ac-cancel">Annuler</button>' +
+      '</div>';
+
+    form.onsubmit = function (ev) {
+      ev.preventDefault();
+      var titre = $('ac-titre').value.trim();
+      if (!titre) return;
+      var target = actu || { id: 'actu-' + slug(titre) + '-' + uid(), titre: '', texte: '', fin: null, image: null };
+      target.titre = titre;
+      target.texte = $('ac-texte').value.trim();
+      target.fin = $('ac-fin').value || null;
+
+      var file = $('ac-image').files[0];
+      var done = function () {
+        if (!actu) state.catalogue.actualites.push(target);
+        markDirty(); closeActuForm(); render();
+      };
+      if (file) {
+        setStatus('Préparation de l\'image…');
+        resizePhoto(file).then(function (b64) {
+          var path = 'images/actualites/' + slug(titre) + '-' + uid() + '.jpg';
+          state.pendingPhotos[path] = b64;
+          target.image = path;
+          setStatus('');
+          done();
+        }).catch(function (e) { alert('Image impossible à lire : ' + e.message); });
+      } else {
+        done();
+      }
+    };
+
+    form.querySelector('#ac-cancel').onclick = closeActuForm;
+    document.querySelector('.wrap').appendChild(form);
+    form.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    $('ac-titre').focus();
+  }
+
+  function closeActuForm() {
+    var f = $('actu-form');
+    if (f) f.remove();
   }
 
   /* ---------- Formulaire famille ---------- */
@@ -283,6 +394,7 @@
   function openFamilleForm(fam) {
     closeArticleForm();
     closeFamilleForm();
+    closeActuForm();
     var form = document.createElement('form');
     form.className = 'inline-form';
     form.id = 'famille-form';
@@ -322,6 +434,7 @@
   function openArticleForm(fam, art) {
     closeArticleForm();
     closeFamilleForm();
+    closeActuForm();
     var form = document.createElement('form');
     form.className = 'inline-form';
     form.id = 'article-form';
@@ -500,6 +613,8 @@
   };
 
   $('btn-publish').onclick = publish;
+
+  $('btn-add-actu').onclick = function () { openActuForm(null); };
 
   $('btn-add-fam').onclick = function () {
     var nom = $('new-fam-nom').value.trim();

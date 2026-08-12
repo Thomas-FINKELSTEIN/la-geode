@@ -16,5 +16,6 @@ par les annuaires en ligne, le registre des entreprises et les réseaux sociaux.
 | `05-presence-en-ligne.md` | Réseaux sociaux, annuaires, état du nom de domaine |
 | `06-brief-nouveau-site.md` | Synthèse pour l'IA : objectif du site, ambiance, structure proposée |
 | `07-activation-stripe.md` | Procédure pour activer la vente en ligne (Stripe) le jour venu |
+| `08-guide-gerante.md` | Mode d'emploi de l'admin pour la gérante (à imprimer) |
 | `logos/` | Logos récupérés de l'ancien site (blanc sur fond transparent) |
 | `ancien-site-archive/` | Pages HTML brutes de l'ancien site (source des extractions) |

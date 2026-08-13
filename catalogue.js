@@ -142,7 +142,7 @@
 
         if (!entries.length) {
           resultsWrap.appendChild(el('p', 'search-vide',
-            'Aucun article trouvé pour « ' + esc(q) + ' » — le catalogue en ligne n\'est pas complet, ' +
+            'Aucun article trouvé pour « ' + esc(q) + ' ». Le catalogue en ligne n\'est pas complet : ' +
             'appelez-nous au <a href="tel:' + TEL + '">' + TEL_AFFICHE + '</a>, nous l\'avons peut-être en boutique.'));
           return;
         }
@@ -270,7 +270,7 @@
       .then(function (data) { render(container, data, themeKey, tint); })
       .catch(function () {
         container.appendChild(el('p', null,
-          'Le catalogue est momentanément indisponible — appelez-nous au <a href="tel:' + TEL + '">' + TEL_AFFICHE + '</a>.'));
+          'Le catalogue est momentanément indisponible. Appelez-nous au <a href="tel:' + TEL + '">' + TEL_AFFICHE + '</a>.'));
       });
   });
 })();

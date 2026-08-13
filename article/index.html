@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Article — La Géode le Showroom</title>
+  <title>Article · La Géode le Showroom</title>
   <meta name="description" content="Détail d'un article de La Géode le Showroom, boutique de minéraux et lithothérapie à Saint-Génis-des-Fontaines.">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpolygon points='50,4 88,38 50,96 12,38' fill='%23b795e3'/%3E%3Cpolygon points='50,4 70,38 50,96 30,38' fill='%23d6c8ee'/%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -33,7 +33,7 @@
     </div>
 
     <footer class="site-footer">
-      <div>© 2026 La Géode le Showroom — SARL Franck et David</div>
+      <div>© 2026 La Géode le Showroom · SARL Franck et David</div>
       <div class="footer-links">
         <a href="../mentions-legales/">Mentions légales</a>
         <a href="../faq/">FAQ</a>
@@ -79,13 +79,13 @@
     function renderIntrouvable(root) {
       root.innerHTML =
         '<h1>Article introuvable</h1>' +
-        '<p class="lead">Cet article n\'est plus dans le catalogue en ligne — mais nous l\'avons peut-être en boutique. ' +
+        '<p class="lead">Cet article n\'est plus dans le catalogue en ligne, mais nous l\'avons peut-être en boutique. ' +
         'Appelez-nous au <a href="tel:' + TEL + '">' + TEL_AFFICHE + '</a>.</p>';
     }
 
     function render(root, found) {
       var a = found.article;
-      document.title = a.nom + ' — La Géode le Showroom';
+      document.title = a.nom + ' · La Géode le Showroom';
 
       var html = '<div class="article-layout" data-reveal="0">';
       html += '<div class="article-photo">';
@@ -111,9 +111,9 @@
       }
       html += '</div>';
       if (a.stripe) {
-        html += '<p class="article-note">Paiement en ligne sécurisé par Stripe — retrait de votre article au showroom, 15 Avenue du Maréchal Joffre, Saint-Génis-des-Fontaines.</p>';
+        html += '<p class="article-note">Paiement en ligne sécurisé par Stripe. Retrait de votre article au showroom, 15 Avenue du Maréchal Joffre, Saint-Génis-des-Fontaines.</p>';
       } else {
-        html += '<p class="article-note">Article disponible au showroom — 15 Avenue du Maréchal Joffre, Saint-Génis-des-Fontaines.</p>';
+        html += '<p class="article-note">Article disponible au showroom, 15 Avenue du Maréchal Joffre, Saint-Génis-des-Fontaines.</p>';
       }
       html += '</div></div>';
 

@@ -569,7 +569,7 @@ a.univers-panel {
 }
 
 .horaire-ligne.aujourdhui .jour::after {
-  content: " — aujourd'hui";
+  content: " (aujourd'hui)";
   font-size: 14px;
   color: var(--accent-soft);
 }

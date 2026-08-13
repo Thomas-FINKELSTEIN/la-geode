@@ -33,7 +33,7 @@ const MODE = /_test_/.test(KEY) ? 'test' : 'live';
 const MESSAGE_CONFIRMATION =
   'Merci pour votre achat ! Votre article vous attend au showroom — ' +
   '15 Avenue du Maréchal Joffre, 66740 Saint-Génis-des-Fontaines ' +
-  '(lun 14h-19h, mar-ven 9h-12h / 14h-19h, sam 9h-18h). ' +
+  '(du mardi au samedi, 9h-12h et 15h-19h). ' +
   'Présentez votre reçu de paiement en boutique.';
 
 async function stripe(method, path, params) {

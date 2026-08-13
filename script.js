@@ -21,4 +21,15 @@ window.initReveal = function (root) {
 
 document.addEventListener('DOMContentLoaded', function () {
   window.initReveal(document);
+
+  // Met en évidence le jour actuel dans le tableau des horaires
+  var lignes = document.querySelectorAll('.horaire-ligne[data-jour]');
+  if (lignes.length) {
+    var jour = String(new Date().getDay());
+    lignes.forEach(function (l) {
+      if (l.getAttribute('data-jour').split(',').indexOf(jour) !== -1) {
+        l.classList.add('aujourdhui');
+      }
+    });
+  }
 });

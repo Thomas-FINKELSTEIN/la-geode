@@ -13,13 +13,13 @@
 - **Email (ancien site) :** contact@lageode66.fr — ⚠️ probablement mort avec le domaine ; email actuel : artdesfermetures@gmail.com à confirmer pour le site
 - **GPS :** 42.5432230, 2.91823118
 
-## Horaires (source : Planity / annuaires, à confirmer)
+## Horaires (confirmés par le gérant — affiche officielle, août 2026)
 | Jour | Horaires |
 |---|---|
-| Lundi | 14h00 – 19h00 |
-| Mardi – Vendredi | 9h00 – 12h00 / 14h00 – 19h00 |
-| Samedi | 9h00 – 18h00 |
-| Dimanche | Fermé |
+| Mardi – Samedi | 9h00 – 12h00 • 15h00 – 19h00 |
+| Dimanche & Lundi | Fermé |
+
+> ⚠️ Les horaires listés sur Planity/Mappy/annuaires (lundi ouvert, etc.) sont périmés.
 
 ## Moyens de paiement (en boutique)
 Carte bancaire, chèques français, espèces.

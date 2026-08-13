@@ -30,10 +30,8 @@
     },
     "geo": { "@type": "GeoCoordinates", "latitude": 42.5432230, "longitude": 2.91823118 },
     "openingHoursSpecification": [
-      { "@type": "OpeningHoursSpecification", "dayOfWeek": "Monday", "opens": "14:00", "closes": "19:00" },
-      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "09:00", "closes": "12:00" },
-      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "14:00", "closes": "19:00" },
-      { "@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "18:00" }
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "opens": "09:00", "closes": "12:00" },
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "opens": "15:00", "closes": "19:00" }
     ],
     "sameAs": ["https://www.facebook.com/davidetfranck/"]
   }
@@ -48,7 +46,7 @@
     </a>
     <nav class="site-nav">
       <a class="nav-link" href="#univers">Nos univers</a>
-      <a class="btn-pill" href="#infos">Nous rendre visite</a>
+      <a class="btn-pill" href="#infos">Horaires</a>
     </nav>
   </header>
 
@@ -140,6 +138,17 @@
     <div class="infos-inner">
       <h2 data-reveal="0">Venir au showroom</h2>
       <p class="infos-intro" data-reveal="100">Au cœur du village, à deux pas du cloître roman. Parking à proximité. Réservez une pierre par téléphone, retirez-la en boutique.</p>
+
+      <div class="horaires-panel" data-reveal="140">
+        <h3 class="horaires-titre">Horaires d'ouverture</h3>
+        <div class="horaire-ligne" data-jour="2"><span class="jour">Mardi</span><span class="heures">9h00 – 12h00 <em>•</em> 15h00 – 19h00</span></div>
+        <div class="horaire-ligne" data-jour="3"><span class="jour">Mercredi</span><span class="heures">9h00 – 12h00 <em>•</em> 15h00 – 19h00</span></div>
+        <div class="horaire-ligne" data-jour="4"><span class="jour">Jeudi</span><span class="heures">9h00 – 12h00 <em>•</em> 15h00 – 19h00</span></div>
+        <div class="horaire-ligne" data-jour="5"><span class="jour">Vendredi</span><span class="heures">9h00 – 12h00 <em>•</em> 15h00 – 19h00</span></div>
+        <div class="horaire-ligne" data-jour="6"><span class="jour">Samedi</span><span class="heures">9h00 – 12h00 <em>•</em> 15h00 – 19h00</span></div>
+        <div class="horaire-ligne ferme" data-jour="0,1"><span class="jour">Dimanche &amp; Lundi</span><span class="heures">Fermé</span></div>
+      </div>
+
       <div class="infos-grid">
         <div class="infos-col" data-reveal="180">
           <div class="infos-label">Adresse</div>
@@ -150,12 +159,9 @@
           </div>
         </div>
         <div class="infos-col" data-reveal="280">
-          <div class="infos-label">Téléphone &amp; horaires</div>
+          <div class="infos-label">Téléphone</div>
           <div class="infos-value">
-            <a class="quiet" href="tel:+33468566053">04 68 56 60 53</a><br>
-            Lun 14h – 19h<br>
-            Mar – Ven 9h – 12h · 14h – 19h<br>
-            Sam 9h – 18h · Dim fermé
+            <a class="quiet tel-grand" href="tel:+33468566053">04 68 56 60 53</a>
           </div>
         </div>
         <div class="infos-col" data-reveal="380">

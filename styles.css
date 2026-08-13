@@ -510,6 +510,80 @@ a.univers-panel {
   max-width: 52ch;
 }
 
+/* Grand tableau des horaires — pensé pour être lu sans effort */
+
+.horaires-panel {
+  border: 1px solid rgba(236, 231, 225, 0.16);
+  background: rgba(236, 231, 225, 0.04);
+  border-radius: 20px;
+  padding: 30px 36px 24px;
+  margin: 0 0 54px;
+  max-width: 700px;
+}
+
+.horaires-titre {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  font-size: 29px;
+  margin: 0 0 16px;
+  color: var(--ink);
+}
+
+.horaire-ligne {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 18px;
+  flex-wrap: wrap;
+  padding: 12px 2px;
+  border-bottom: 1px solid rgba(236, 231, 225, 0.09);
+  font-size: 19.5px;
+}
+
+.horaire-ligne:last-child { border-bottom: none; }
+
+.horaire-ligne .jour {
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+.horaire-ligne .heures {
+  color: var(--ink-soft);
+}
+
+.horaire-ligne .heures em {
+  color: var(--accent);
+  font-style: normal;
+}
+
+.horaire-ligne.ferme .heures {
+  color: var(--muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 17px;
+}
+
+.horaire-ligne.aujourdhui .jour {
+  color: var(--accent);
+  font-weight: 500;
+}
+
+.horaire-ligne.aujourdhui .jour::after {
+  content: " — aujourd'hui";
+  font-size: 14px;
+  color: var(--accent-soft);
+}
+
+@media (max-width: 560px) {
+  .horaires-panel { padding: 24px 20px 18px; }
+  .horaire-ligne { font-size: 17px; }
+}
+
+.tel-grand {
+  font-size: 24px;
+  letter-spacing: 0.03em;
+}
+
 .infos-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));

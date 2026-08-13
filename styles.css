@@ -656,6 +656,32 @@ a.univers-panel {
 
 a.card { display: block; color: inherit; }
 
+/* Familles = filtres : carte active et bouton de retour à la vue complète */
+
+.card.card-active {
+  border-color: var(--accent);
+  background: rgba(183, 149, 227, 0.08);
+}
+
+.filtre-bar { margin-top: 26px; }
+
+.filtre-reset {
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
+  font-size: 14.5px;
+  color: var(--muted);
+  background: none;
+  border: 1px solid rgba(236, 231, 225, 0.25);
+  border-radius: 999px;
+  padding: 9px 20px;
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.filtre-reset:hover { border-color: var(--accent); color: var(--accent); }
+
+.famille { scroll-margin-top: 96px; }
+
 /* Barre de recherche du catalogue */
 
 .search-wrap { margin: 34px 0 6px; }

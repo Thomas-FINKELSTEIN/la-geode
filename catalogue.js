@@ -162,6 +162,9 @@
 
   /* ---------- Rendu ---------- */
 
+  // Les vignettes de familles servent de filtres : un clic n'affiche que les
+  // articles de la famille choisie ; « Afficher toutes les familles » (ou un
+  // second clic sur la famille active) rétablit la vue complète.
   function render(container, data, themeKey, tint) {
     var theme = data.themes[themeKey];
     if (!theme) return;
@@ -171,27 +174,69 @@
     // que la recherche peut masquer d'un bloc.
     var normalWrap = el('div', null);
 
+    var sections = {};
+    var cartes = {};
+    var hints = {};
+    var filtreActif = null;
+
+    var resetBar = el('div', 'filtre-bar');
+    var resetBtn = el('button', 'filtre-reset', '✕ Afficher toutes les familles');
+    resetBar.appendChild(resetBtn);
+    resetBar.style.display = 'none';
+
+    function hintTexte(f) {
+      return f.articles.length > 1 ? 'Voir les ' + f.articles.length + ' articles →' : 'Voir l\'article →';
+    }
+
+    function setFiltre(id) {
+      filtreActif = (filtreActif === id) ? null : id;
+      Object.keys(sections).forEach(function (fid) {
+        sections[fid].style.display = (!filtreActif || filtreActif === fid) ? '' : 'none';
+      });
+      familles.forEach(function (f) {
+        if (!cartes[f.id]) return;
+        cartes[f.id].classList.toggle('card-active', filtreActif === f.id);
+        if (hints[f.id]) {
+          hints[f.id].textContent = filtreActif === f.id ? '✕ Tout revoir' : hintTexte(f);
+        }
+      });
+      resetBar.style.display = filtreActif ? '' : 'none';
+      if (filtreActif && sections[filtreActif]) {
+        sections[filtreActif].scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+
+    resetBtn.addEventListener('click', function () { setFiltre(filtreActif); });
+
     var grid = el('div', 'cards');
     familles.forEach(function (f, i) {
       var hasArticles = f.articles && f.articles.length > 0;
       var card = el(hasArticles ? 'a' : 'div', 'card');
       card.setAttribute('data-reveal', String(i * 80));
-      if (hasArticles) card.href = '#f-' + f.id;
       card.appendChild(el('div', 'univers-bar')).style.background = tint;
       card.appendChild(el('h3', null, esc(f.nom)));
       card.appendChild(el('p', null, esc(f.slogan || '')));
       if (hasArticles) {
-        card.appendChild(el('span', 'panel-hint',
-          f.articles.length > 1 ? 'Voir les ' + f.articles.length + ' articles →' : 'Voir l\'article →'));
+        card.href = '#f-' + f.id;
+        var hint = el('span', 'panel-hint', hintTexte(f));
+        card.appendChild(hint);
+        hints[f.id] = hint;
+        cartes[f.id] = card;
+        card.addEventListener('click', function (ev) {
+          ev.preventDefault();
+          setFiltre(f.id);
+        });
       }
       grid.appendChild(card);
     });
     normalWrap.appendChild(grid);
+    normalWrap.appendChild(resetBar);
 
     familles.forEach(function (f) {
       if (!f.articles || !f.articles.length) return;
       var section = el('section', 'famille');
       section.id = 'f-' + f.id;
+      sections[f.id] = section;
       var head = el('div', null);
       head.setAttribute('data-reveal', '0');
       head.appendChild(el('h2', null, esc(f.nom)));

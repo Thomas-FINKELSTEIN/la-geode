@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Administration — La Géode le Showroom</title>
+  <title>Mon catalogue — La Géode</title>
   <meta name="robots" content="noindex, nofollow">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpolygon points='50,4 88,38 50,96 12,38' fill='%23b795e3'/%3E%3Cpolygon points='50,4 70,38 50,96 30,38' fill='%23d6c8ee'/%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -11,93 +11,240 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #0f0d12; --ink: #ece7e1; --ink-soft: rgba(236,231,225,0.85);
-      --muted: #b7b0a8; --faded: #8f877e; --accent: #b795e3; --accent-soft: #d6c8ee;
-      --ok: #85c9ab; --danger: #e08a90; --card: rgba(236,231,225,0.04);
-      --border: rgba(236,231,225,0.12);
+      --bg: #0f0d12; --panel: #171319; --ink: #ece7e1;
+      --ink-soft: rgba(236, 231, 225, 0.85); --muted: #b7b0a8; --faded: #8f877e;
+      --accent: #b795e3; --accent-soft: #d6c8ee; --ok: #85c9ab;
+      --warn: #e5c07b; --danger: #e08a90;
+      --border: rgba(236, 231, 225, 0.12);
     }
     * { box-sizing: border-box; }
     body {
       margin: 0; background: var(--bg); color: var(--ink);
-      font-family: 'Jost', sans-serif; font-weight: 300; line-height: 1.5;
+      font-family: 'Jost', sans-serif; font-weight: 300;
+      font-size: 16px; line-height: 1.5;
     }
-    .wrap { max-width: 860px; margin: 0 auto; padding: 30px 20px 80px; }
-    h1 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 34px; margin: 0; }
-    .sub { color: var(--accent); font-size: 12px; letter-spacing: 0.28em; text-transform: uppercase; }
-    h2 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 24px; margin: 0 0 12px; }
+    .wrap { max-width: 880px; margin: 0 auto; padding: 34px 20px 120px; }
+    h1 {
+      font-family: 'Cormorant Garamond', serif; font-weight: 600;
+      font-size: 36px; margin: 0 0 4px;
+    }
+    .sub {
+      color: var(--accent); font-size: 12px;
+      letter-spacing: 0.28em; text-transform: uppercase;
+    }
+    .intro { color: var(--faded); font-size: 15px; margin: 4px 0 0; }
     a { color: var(--accent); }
+
+    /* ---- Boutons ---- */
     button {
-      font-family: 'Jost', sans-serif; font-size: 15px; font-weight: 400;
-      border: none; border-radius: 10px; padding: 10px 18px; cursor: pointer;
-      background: rgba(236,231,225,0.08); color: var(--ink);
+      font-family: 'Jost', sans-serif; font-size: 15.5px; font-weight: 400;
+      border: none; border-radius: 11px; padding: 11px 20px; cursor: pointer;
+      background: rgba(236, 231, 225, 0.09); color: var(--ink);
+      transition: background 0.15s, filter 0.15s;
     }
-    button:hover { background: rgba(236,231,225,0.14); }
-    button.primary { background: var(--accent); color: #16131a; }
-    button.primary:hover { filter: brightness(1.1); }
-    button.danger { color: var(--danger); }
-    button.small { padding: 5px 11px; font-size: 13.5px; border-radius: 8px; }
-    input, textarea, select {
-      font-family: 'Jost', sans-serif; font-size: 15px; color: var(--ink);
-      background: rgba(0,0,0,0.3); border: 1px solid var(--border);
-      border-radius: 10px; padding: 10px 12px; width: 100%;
+    button:hover { background: rgba(236, 231, 225, 0.16); }
+    button.primary { background: var(--accent); color: #16131a; font-weight: 500; }
+    button.primary:hover { filter: brightness(1.1); background: var(--accent); }
+    button.primary:disabled { opacity: 0.4; cursor: default; filter: none; }
+    button.subtle { background: transparent; color: var(--muted); }
+    button.subtle:hover { background: rgba(236, 231, 225, 0.08); color: var(--ink); }
+    button.icon {
+      width: 38px; height: 38px; padding: 0; font-size: 16px;
+      display: inline-flex; align-items: center; justify-content: center;
     }
-    input:focus, textarea:focus { outline: 1px solid var(--accent); }
-    label { display: block; font-size: 13px; color: var(--muted); margin: 14px 0 5px; }
+    button.danger-link {
+      background: none; color: var(--danger); padding: 8px 0; font-size: 14.5px;
+    }
+    button.danger-link:hover { background: none; text-decoration: underline; }
+
+    /* ---- Champs ---- */
+    input, textarea {
+      font-family: 'Jost', sans-serif; font-size: 16.5px; font-weight: 300;
+      color: var(--ink); background: rgba(0, 0, 0, 0.32);
+      border: 1px solid var(--border); border-radius: 11px;
+      padding: 13px 15px; width: 100%;
+    }
+    input:focus, textarea:focus {
+      outline: none; border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(183, 149, 227, 0.15);
+    }
+    label {
+      display: block; font-size: 14px; color: var(--muted);
+      margin: 18px 0 6px;
+    }
+    .hint { font-size: 13px; color: var(--faded); margin: 5px 0 0; }
+
+    /* ---- Cartes ---- */
     .card {
-      background: var(--card); border: 1px solid var(--border);
-      border-radius: 14px; padding: 20px; margin-top: 18px;
+      background: var(--panel); border: 1px solid var(--border);
+      border-radius: 16px; padding: 24px; margin-top: 20px;
     }
-    .row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
-    .grow { flex: 1; }
-    .tabs { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 24px; }
-    .tabs button.active { background: var(--accent); color: #16131a; }
-    .fam-head { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
-    .fam-head h3 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 22px; margin: 0; }
-    .fam-slogan { color: var(--faded); font-size: 13.5px; flex-basis: 100%; margin: 2px 0 0; }
+
+    /* ---- Onglets ---- */
+    .tabs { display: flex; gap: 10px; flex-wrap: wrap; margin: 28px 0 6px; }
+    .tabs button {
+      padding: 11px 20px; border-radius: 999px; font-size: 15.5px;
+      background: rgba(236, 231, 225, 0.07);
+    }
+    .tabs button .n { color: var(--faded); font-size: 14px; margin-left: 6px; }
+    .tabs button.active { background: var(--accent); color: #16131a; font-weight: 500; }
+    .tabs button.active .n { color: rgba(22, 19, 26, 0.65); }
+
+    /* ---- Recherche ---- */
+    .search-admin {
+      margin-top: 16px;
+      border-radius: 999px;
+      padding: 13px 22px;
+    }
+
+    /* ---- Familles & articles ---- */
+    .fam-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .fam-head h3 {
+      font-family: 'Cormorant Garamond', serif; font-weight: 600;
+      font-size: 24px; margin: 0;
+    }
+    .fam-count { color: var(--faded); font-size: 14.5px; }
+    .fam-actions { margin-left: auto; display: flex; gap: 6px; align-items: center; }
+    .fam-slogan { color: var(--faded); font-size: 14px; margin: 4px 0 0; width: 100%; }
+
     .art {
-      display: flex; align-items: center; gap: 12px;
-      padding: 9px 0; border-top: 1px solid rgba(236,231,225,0.07);
+      display: flex; align-items: center; gap: 14px;
+      padding: 12px 0; border-top: 1px solid rgba(236, 231, 225, 0.07);
+      margin-top: 12px;
     }
-    .art img { width: 44px; height: 34px; object-fit: cover; border-radius: 6px; }
+    .art:first-of-type { margin-top: 16px; }
+    .art img {
+      width: 58px; height: 44px; object-fit: cover;
+      border-radius: 8px; flex-shrink: 0;
+    }
     .art .noimg {
-      width: 44px; height: 34px; border-radius: 6px; background: rgba(236,231,225,0.06);
-      display: flex; align-items: center; justify-content: center; font-size: 15px; color: var(--faded);
+      width: 58px; height: 44px; border-radius: 8px; flex-shrink: 0;
+      background: rgba(236, 231, 225, 0.06);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 17px; color: var(--faded);
     }
-    .art-nom { flex: 1; }
-    .art-prix { color: var(--accent); font-size: 14px; white-space: nowrap; }
-    .spacer { flex: 1; }
+    .art-info { flex: 1; min-width: 0; }
+    .art-nom {
+      font-size: 16.5px; overflow: hidden;
+      text-overflow: ellipsis; white-space: nowrap;
+    }
+    .art-ctx { color: var(--faded); font-size: 13px; }
+    .tag {
+      display: inline-block; font-size: 11.5px; letter-spacing: 0.05em;
+      text-transform: uppercase; color: var(--warn);
+      border: 1px solid rgba(229, 192, 123, 0.45);
+      border-radius: 6px; padding: 1px 7px; margin-left: 8px;
+      vertical-align: 2px;
+    }
+    .art-prix { color: var(--accent); font-size: 15px; white-space: nowrap; }
+    .art-prix.off { color: var(--faded); }
+    .art-btns { display: flex; gap: 6px; align-items: center; }
+    .art-btns button { font-size: 14.5px; padding: 8px 14px; }
+    .add-row { margin-top: 16px; }
+    .vide { color: var(--faded); font-size: 15px; margin: 14px 0 0; }
+
+    /* ---- Fenêtre modale ---- */
+    .modal {
+      position: fixed; inset: 0; z-index: 100;
+      background: rgba(10, 8, 13, 0.78); backdrop-filter: blur(5px);
+      display: flex; align-items: flex-start; justify-content: center;
+      padding: 4vh 16px; overflow: auto;
+    }
+    .modal-box {
+      background: var(--panel); border: 1px solid var(--border);
+      border-radius: 18px; padding: 28px; width: 100%; max-width: 560px;
+      box-shadow: 0 30px 80px rgba(0, 0, 0, 0.6);
+    }
+    .modal-box.large { max-width: 900px; }
+    .modal-box h2 {
+      font-family: 'Cormorant Garamond', serif; font-weight: 600;
+      font-size: 27px; margin: 0 0 4px;
+    }
+    .modal-cols { display: grid; grid-template-columns: 1fr 250px; gap: 30px; }
+    @media (max-width: 760px) { .modal-cols { grid-template-columns: 1fr; } }
+    .form-actions { display: flex; gap: 12px; margin-top: 26px; align-items: center; }
+    .form-actions .spacer { flex: 1; }
+
+    /* ---- Aperçu en direct ---- */
+    .preview-titre {
+      font-size: 12px; letter-spacing: 0.22em; text-transform: uppercase;
+      color: var(--faded); margin: 18px 0 10px;
+    }
+    .preview-card {
+      background: rgba(236, 231, 225, 0.03);
+      border: 1px solid rgba(236, 231, 225, 0.09);
+      border-radius: 14px; overflow: hidden;
+    }
+    .preview-card .ph {
+      width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;
+      background: radial-gradient(ellipse at 50% 40%, rgba(147, 102, 204, 0.12), transparent 70%);
+    }
+    .preview-card .ph.vide2 {
+      display: flex; align-items: center; justify-content: center;
+      font-size: 26px; color: rgba(236, 231, 225, 0.25);
+    }
+    .preview-body { padding: 14px 16px 16px; }
+    .preview-body h4 {
+      font-family: 'Cormorant Garamond', serif; font-weight: 600;
+      font-size: 19px; margin: 0 0 3px; overflow-wrap: anywhere;
+    }
+    .preview-prix { color: var(--accent); font-size: 14px; margin-bottom: 5px; }
+    .preview-body p {
+      margin: 0; font-size: 13px; color: var(--ink-soft);
+      overflow-wrap: anywhere; display: -webkit-box;
+      -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+    }
+
+    /* ---- Barre de publication ---- */
     #statusbar {
-      position: fixed; bottom: 0; left: 0; right: 0; padding: 12px 20px;
-      background: #1a1620; border-top: 1px solid var(--border);
-      display: flex; align-items: center; gap: 14px; z-index: 10;
+      position: fixed; bottom: 0; left: 0; right: 0; z-index: 60;
+      padding: 14px 20px;
+      background: rgba(15, 13, 18, 0.92); backdrop-filter: blur(8px);
+      border-top: 1px solid var(--border);
+      display: flex; align-items: center; gap: 14px;
     }
-    #status-msg { font-size: 14px; color: var(--muted); }
-    .badge { font-size: 13px; color: #16131a; background: var(--ok); border-radius: 999px; padding: 3px 12px; }
-    .badge.dirty { background: #e5c07b; }
+    #statusbar .inner {
+      max-width: 880px; margin: 0 auto; width: 100%;
+      display: flex; align-items: center; gap: 14px;
+    }
+    .etat { display: flex; align-items: center; gap: 9px; font-size: 15px; }
+    .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--ok); flex-shrink: 0; }
+    .dot.dirty { background: var(--warn); }
+    #statusbar .spacer { flex: 1; }
+    #btn-publish { padding: 13px 26px; font-size: 16px; }
+
+    /* ---- Divers ---- */
     .hidden { display: none !important; }
+    .login-card { max-width: 460px; margin: 40px auto 0; }
+    details.reglages { margin-top: 34px; }
+    details.reglages > summary {
+      color: var(--faded); font-size: 13.5px; cursor: pointer;
+      list-style-position: inside;
+    }
     .help { font-size: 14px; color: var(--muted); }
     .help ol { padding-left: 20px; } .help li { margin-bottom: 6px; }
-    form.inline-form { background: rgba(0,0,0,0.25); border-radius: 12px; padding: 14px 16px; margin-top: 12px; }
-    .form-actions { display: flex; gap: 10px; margin-top: 16px; }
-    .thumb-preview { max-width: 140px; border-radius: 8px; margin-top: 8px; display: block; }
+    .msg { font-size: 14.5px; color: var(--muted); margin-top: 12px; min-height: 1em; }
+    .msg.ok { color: var(--ok); }
+    .msg.err { color: var(--danger); }
+    .thumb-preview { max-width: 150px; border-radius: 10px; margin-top: 10px; display: block; }
   </style>
 </head>
 <body>
   <div class="wrap">
     <div class="sub">La Géode — Le Showroom</div>
-    <h1>Administration du catalogue</h1>
+    <h1>Mon catalogue</h1>
 
-    <!-- Écran de connexion -->
-    <div id="login" class="card">
-      <h2>Connexion</h2>
-      <label for="password">Mot de passe</label>
+    <!-- Connexion -->
+    <div id="login" class="card login-card">
+      <h2 style="font-family:'Cormorant Garamond',serif;font-weight:600;font-size:26px;margin:0 0 14px">Bonjour !</h2>
+      <label for="password" style="margin-top:0">Mot de passe</label>
       <input type="password" id="password" autocomplete="current-password">
       <div class="form-actions">
-        <button class="primary" id="btn-login-pass">Se connecter</button>
+        <button class="primary" id="btn-login-pass" style="width:100%">Ouvrir mon catalogue</button>
       </div>
-      <p class="help" id="login-msg"></p>
-      <details style="margin-top:18px">
-        <summary class="help" style="cursor:pointer">Installateur : connexion par code d'accès GitHub</summary>
+      <p class="msg" id="login-msg"></p>
+      <details class="reglages">
+        <summary>Installateur : connexion par code d'accès GitHub</summary>
         <div class="help">
           <label for="token">Code d'accès</label>
           <input type="password" id="token" placeholder="github_pat_…" autocomplete="off">
@@ -105,12 +252,10 @@
             <button id="btn-login">Se connecter avec le code</button>
           </div>
           <ol>
-            <li>Sur github.com (compte propriétaire du site) : Settings → Developer settings → Personal access tokens → <b>Fine-grained tokens</b> → Generate new token</li>
-            <li>Nom : « Admin La Géode » — Expiration : 1 an</li>
-            <li>Repository access : <b>Only select repositories</b> → la-geode</li>
-            <li>Permissions → Repository permissions → <b>Contents : Read and write</b></li>
-            <li>Générer, copier le code <code>github_pat_…</code> et le coller ci-dessus</li>
-            <li>Une fois connecté, définissez le mot de passe de la gérante en bas de page</li>
+            <li>github.com (compte propriétaire) : Settings → Developer settings → Personal access tokens → <b>Fine-grained tokens</b> → Generate new token</li>
+            <li>Nom « Admin La Géode », expiration 1 an, Repository access : <b>Only select repositories → la-geode</b></li>
+            <li>Permissions → <b>Contents : Read and write</b></li>
+            <li>Une fois connecté, définissez le mot de passe dans « Réglages installateur » en bas de page</li>
           </ol>
         </div>
       </details>
@@ -118,50 +263,40 @@
 
     <!-- Éditeur -->
     <div id="editor" class="hidden">
-      <div class="tabs" id="tabs"></div>
-      <div id="familles"></div>
-      <div class="card">
-        <h2>Nouvelle famille</h2>
-        <div class="row">
-          <input class="grow" id="new-fam-nom" placeholder="Nom de la famille (ex : Sphères)">
-        </div>
-        <label for="new-fam-slogan">Petite phrase de présentation (optionnel)</label>
-        <input id="new-fam-slogan" placeholder="Ex : L'énergie de la pierre dans sa forme parfaite.">
-        <div class="form-actions">
-          <button class="primary" id="btn-add-fam">Ajouter la famille</button>
-        </div>
-      </div>
+      <nav class="tabs" id="tabs"></nav>
+      <input id="admin-search" class="search-admin" type="search"
+             placeholder="🔍  Retrouver un article… (nom, famille)"
+             aria-label="Retrouver un article">
+      <div id="content"></div>
 
-      <div class="card">
-        <h2>Actualités du showroom</h2>
-        <p class="help">Affiches, promotions, nouvelles collections… affichées sur la page d'accueil du site. Une annonce avec une date de fin disparaît automatiquement du site après cette date.</p>
-        <div id="actus-list"></div>
-        <div style="margin-top:12px">
-          <button class="small primary" id="btn-add-actu">+ Ajouter une annonce</button>
+      <details class="reglages">
+        <summary>Réglages installateur</summary>
+        <div class="card">
+          <h2 style="font-family:'Cormorant Garamond',serif;font-size:22px;margin:0">Mot de passe de connexion</h2>
+          <p class="help">Définir ou changer le mot de passe utilisable depuis n'importe quel ordinateur. Choisissez une petite phrase de 3-4 mots.</p>
+          <label for="np1">Nouveau mot de passe</label>
+          <input type="password" id="np1" autocomplete="new-password">
+          <label for="np2">Confirmer</label>
+          <input type="password" id="np2" autocomplete="new-password">
+          <div class="form-actions">
+            <button class="primary" id="btn-set-pass">Enregistrer le mot de passe</button>
+          </div>
+          <p class="msg" id="pass-msg"></p>
         </div>
-      </div>
-
-      <div class="card">
-        <h2>Mot de passe de connexion (installateur)</h2>
-        <p class="help">Définissez ou changez le mot de passe qui permet de se connecter à cette page sans le code d'accès GitHub, depuis n'importe quel ordinateur. Choisissez-le long — l'idéal est une petite phrase de 3 ou 4 mots.</p>
-        <label for="np1">Nouveau mot de passe</label>
-        <input type="password" id="np1" autocomplete="new-password">
-        <label for="np2">Confirmer le mot de passe</label>
-        <input type="password" id="np2" autocomplete="new-password">
-        <div class="form-actions">
-          <button class="primary" id="btn-set-pass">Enregistrer le mot de passe</button>
-        </div>
-        <p class="help" id="pass-msg"></p>
-      </div>
+      </details>
     </div>
   </div>
 
+  <div id="modal-root"></div>
+
   <div id="statusbar" class="hidden">
-    <span id="badge" class="badge">À jour</span>
-    <span id="status-msg"></span>
-    <span class="spacer"></span>
-    <button id="btn-logout" class="small">Déconnexion</button>
-    <button class="primary" id="btn-publish">Publier sur le site</button>
+    <div class="inner">
+      <div class="etat"><span class="dot" id="dot"></span><span id="etat-txt">Tout est publié</span></div>
+      <span class="msg" id="status-msg" style="margin:0"></span>
+      <span class="spacer"></span>
+      <button id="btn-logout" class="subtle">Déconnexion</button>
+      <button class="primary" id="btn-publish" disabled>Publier sur le site</button>
+    </div>
   </div>
 
   <script src="admin.js"></script>

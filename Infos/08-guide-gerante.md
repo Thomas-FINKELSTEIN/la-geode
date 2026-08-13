@@ -7,52 +7,76 @@
 
 1. Ouvrir la page : **https://thomas-finkelstein.github.io/la-geode/admin/**
    (à mettre en favori — elle marche depuis n'importe quel ordinateur)
-2. Taper le **mot de passe** et cliquer « Se connecter »
+2. Taper le **mot de passe** et cliquer « Ouvrir mon catalogue »
 3. C'est tout — la connexion reste active sur cet ordinateur
 
 ## L'écran principal
 
-- En haut : **4 onglets**, un par univers du site (Minéraux, Bijoux, Ésotérisme & encens, Décoration du monde)
-- En dessous : les **familles** de l'univers choisi (ex. « Pierres roulées »), et dans chaque famille, ses **articles**
+- En haut : **5 onglets** — les 4 univers du site (Minéraux, Bijoux,
+  Ésotérisme & encens, Décoration du monde) avec le nombre d'articles
+  de chacun, et **Actualités** (les affiches de la page d'accueil)
+- Une **barre de recherche** pour retrouver un article en tapant quelques
+  lettres — pratique quand le catalogue sera bien rempli
+- En dessous : les **familles** de l'univers choisi, avec leurs articles
 - Tout en bas de l'écran : la barre avec le bouton **« Publier sur le site »**
 
 ## Ajouter un article
 
 1. Choisir l'onglet de l'univers, trouver la bonne famille
-2. Cliquer **« + Ajouter un article »**
-3. Remplir :
-   - **Nom** (obligatoire) — ex. « Améthyste du Brésil »
-   - **Prix en €** — ou laisser vide pour afficher « Prix en boutique »
-   - **Description** — 1 ou 2 phrases (vertus, origine, particularités…)
-   - **Photo** — choisir une photo depuis l'ordinateur ou le téléphone ;
-     elle est automatiquement redimensionnée, pas besoin de la retoucher
-4. Cliquer **« Ajouter »**
-5. Quand vous avez fini vos ajouts : **« Publier sur le site »** (en bas)
+2. Cliquer **« + Ajouter un article »** — une fenêtre s'ouvre
+3. Remplir : nom (obligatoire), prix en € (ex : `12,50` — ou vide pour
+   afficher « Prix en boutique »), description, photo
+4. **L'aperçu à droite montre en direct** à quoi ressemblera l'article
+   sur le site — ce que vous voyez, c'est ce que verront les clients
+5. Cliquer **« Ajouter au catalogue »**
+6. Quand vous avez fini votre série d'ajouts : **« Publier sur le site »**
 
-## Modifier, supprimer, réorganiser
+💡 **Astuce gain de temps** : pour créer des articles qui se ressemblent
+(ex : bracelets en différentes pierres), cliquez **« Dupliquer »** sur un
+article existant — il ne reste qu'à changer le nom, le prix et la photo.
 
-- **Un article** : boutons « Modifier » et « Supprimer » sur sa ligne ; les
-  flèches ↑ ↓ changent l'ordre d'affichage
-- **Une famille** : mêmes boutons sur la ligne de la famille ; « Modifier »
-  permet de changer son nom et sa petite phrase de présentation
-- **Créer une famille** : formulaire « Nouvelle famille » en bas de la liste
+## Modifier ou supprimer
+
+- **Un article** : bouton « Modifier » sur sa ligne — la fenêtre s'ouvre
+  avec tout pré-rempli. Le bouton **« Supprimer »** est dans cette fenêtre
+  (en rouge), avec une confirmation.
+- **Une famille** : bouton « Modifier » sur la ligne de la famille (nom et
+  petite phrase). La suppression est là aussi.
+- **L'ordre d'affichage** : flèches ↑ ↓ sur chaque ligne.
+- **Repères** : une pastille jaune « sans photo » signale les articles sans
+  image ; un prix gris « Prix en boutique » signale les articles sans prix.
+
+## Les actualités (affiches de la page d'accueil)
+
+Onglet **Actualités** : ajoutez une affiche (photo), un titre, et si l'offre
+a une date de fin, indiquez-la — **l'annonce disparaîtra du site toute seule
+après cette date**. Sans date, elle reste jusqu'à ce que vous la supprimiez.
 
 ## Publier — le point important
 
 Les modifications ne sont **pas en ligne tant que vous n'avez pas cliqué
-« Publier sur le site »**. Le badge en bas à gauche vous le rappelle :
-- « À jour » (vert) = tout est publié
-- « Modifications non publiées » (jaune) = pensez à publier !
+« Publier sur le site »**. La barre du bas vous le rappelle :
+- 🟢 « Tout est publié » = le site est à jour
+- 🟡 « X modifications à publier » = pensez à publier !
 
 Vous pouvez faire 20 modifications puis publier une seule fois à la fin —
-c'est même mieux. Après publication, comptez **1 à 2 minutes** pour que le
-site public se mette à jour.
+c'est même mieux. Après publication, comptez **1 à 2 minutes**.
+
+## Comment les articles apparaissent sur le site
+
+Sur chaque page univers, les visiteurs voient d'abord les **familles**.
+En cliquant sur une famille, ils ne voient que ses articles (les autres
+s'effacent) ; un bouton « Afficher toutes les familles » les fait revenir.
+Ils peuvent aussi utiliser la recherche, qui fouille tout le catalogue.
+Chaque article a sa propre page, avec sa photo en grand.
 
 ## Conseils photos
 
 - Photo prise au téléphone = très bien ; privilégier la **lumière naturelle**
 - Cadrer l'article seul, sur un fond simple
 - Format paysage de préférence (les vignettes du site sont horizontales)
+- Si une photo iPhone ne passe pas : Réglages → Appareil photo → Formats →
+  « Le plus compatible »
 
 ## En cas de problème
 

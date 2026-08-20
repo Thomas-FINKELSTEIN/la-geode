@@ -22,7 +22,19 @@ l'admin comme d'habitude, le reste est automatique.
 Le code : `.github/workflows/stripe-sync.yml` (déclencheur) et
 `.github/scripts/stripe-sync.js` (logique). Le paiement passe par des
 liens Stripe (page de paiement hébergée par Stripe : CB, Apple Pay,
-Google Pay, reçu automatique). L'acheteur peut ajuster la quantité (1 à 10).
+Google Pay, reçu automatique).
+
+**Retrait en boutique (click and collect)** : pas d'adresse de livraison
+demandée ; après paiement, le client voit un message l'invitant à retirer
+son article au showroom (avec l'adresse et les horaires).
+
+**Gestion du stock** : si la gérante renseigne une quantité, le robot limite
+le nombre de ventes en ligne à ce stock (Stripe bloque tout paiement au-delà)
+et fixe la quantité à 1 par commande. Un second robot programmé
+(`.github/workflows/stock-sync.yml` + `.github/scripts/stock-sync.js`, toutes
+les 15 min) marque l'article « épuisé » sur le site quand le stock est atteint.
+Il utilise le **même secret** `STRIPE_SECRET_KEY`, rien de plus à configurer.
+Sans quantité renseignée : ventes illimitées, quantité ajustable 1 à 10.
 
 ## Procédure d'activation (~20 minutes, une seule fois)
 

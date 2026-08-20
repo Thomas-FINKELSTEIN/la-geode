@@ -63,6 +63,13 @@ function prixValide(prix) {
   return prix !== null && prix !== undefined && prix !== '' && !isNaN(n) && n > 0;
 }
 
+// Stock : entier strictement positif = quantité suivie ; sinon illimité.
+function stockValeur(stock) {
+  const n = Number(stock);
+  if (stock === null || stock === undefined || stock === '' || !Number.isInteger(n) || n <= 0) return null;
+  return n;
+}
+
 async function syncArticle(art) {
   let changed = false;
 
@@ -95,6 +102,7 @@ async function syncArticle(art) {
 
   const prix = Number(art.prix);
   const desc = art.description || '';
+  const stock = stockValeur(art.stock);
 
   // Produit
   if (!art.stripeProductId) {
@@ -119,37 +127,53 @@ async function syncArticle(art) {
     console.log(`- « ${art.nom} » : produit Stripe mis à jour`);
   }
 
-  // Tarif + lien de paiement (recréés si le prix change)
-  if (!art.stripePriceId || art.stripePrix !== prix || !art.stripe) {
+  // Tarif (recréé si le prix change)
+  const prixChange = art.stripePrix !== prix;
+  if (!art.stripePriceId || prixChange) {
     const price = await stripe('POST', 'prices', {
       product: art.stripeProductId,
       currency: 'eur',
       unit_amount: String(Math.round(prix * 100))
     });
+    art.stripePriceId = price.id;
+    art.stripePrix = prix;
+    changed = true;
+  }
 
+  // Lien de paiement (recréé si le prix ou le stock change).
+  // Stock suivi → quantité fixée à 1 par commande (1 vente = 1 unité) et
+  // limite de ventes = stock : Stripe bloque tout paiement au-delà.
+  // Sans stock → quantité ajustable 1 à 10, ventes illimitées.
+  const stockChange = (art.stripeStock === undefined ? null : art.stripeStock) !== stock;
+  if (!art.stripeLinkId || prixChange || stockChange || !art.stripe) {
     if (art.stripeLinkId) {
       await stripe('POST', 'payment_links/' + art.stripeLinkId, { active: 'false' })
         .catch((e) => console.warn(`  (désactivation de l'ancien lien impossible : ${e.message})`));
     }
 
-    const link = await stripe('POST', 'payment_links', {
-      'line_items[0][price]': price.id,
+    const params = {
+      'line_items[0][price]': art.stripePriceId,
       'line_items[0][quantity]': '1',
-      'line_items[0][adjustable_quantity][enabled]': 'true',
-      'line_items[0][adjustable_quantity][minimum]': '1',
-      'line_items[0][adjustable_quantity][maximum]': '10',
       'billing_address_collection': 'auto',
-      // Retrait en boutique : pas d'adresse de livraison, message de retrait
       'after_completion[type]': 'hosted_confirmation',
       'after_completion[hosted_confirmation][custom_message]': MESSAGE_CONFIRMATION
-    });
+    };
+    if (stock) {
+      params['restrictions[completed_sessions][limit]'] = String(stock);
+    } else {
+      params['line_items[0][adjustable_quantity][enabled]'] = 'true';
+      params['line_items[0][adjustable_quantity][minimum]'] = '1';
+      params['line_items[0][adjustable_quantity][maximum]'] = '10';
+    }
 
-    art.stripePriceId = price.id;
-    art.stripePrix = prix;
+    const link = await stripe('POST', 'payment_links', params);
     art.stripeLinkId = link.id;
     art.stripe = link.url;
+    art.stripeStock = stock;
+    art.epuise = false;
     changed = true;
-    console.log(`- « ${art.nom} » : lien de paiement créé (${prix.toFixed(2)} €)`);
+    console.log(`- « ${art.nom} » : lien de paiement créé (${prix.toFixed(2)} €` +
+      (stock ? `, stock ${stock}` : '') + ')');
   }
 
   return changed;

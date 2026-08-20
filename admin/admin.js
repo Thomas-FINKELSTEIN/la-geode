@@ -309,11 +309,14 @@
     var row = document.createElement('div');
     row.className = 'art';
     var src = photoSrcAdmin(art.photo);
+    var tags = '';
+    if (!art.photo) tags += '<span class="tag">sans photo</span>';
+    if (art.epuise) tags += '<span class="tag tag-rouge">épuisé</span>';
+    else if (art.stock != null) tags += '<span class="tag tag-stock">stock : ' + esc(art.stock) + '</span>';
     row.innerHTML =
       (src ? '<img src="' + esc(src) + '" alt="">' : '<div class="noimg">◆</div>') +
       '<div class="art-info">' +
-      '<div class="art-nom">' + esc(art.nom) +
-      (art.photo ? '' : '<span class="tag">sans photo</span>') +
+      '<div class="art-nom">' + esc(art.nom) + tags +
       '</div>' +
       (contexte ? '<div class="art-ctx">' + esc(contexte) + '</div>' : '') +
       '</div>' +
@@ -486,6 +489,9 @@
       '<label>Prix en €</label>' +
       '<input id="af-prix" inputmode="decimal" placeholder="ex : 12,50" value="' + esc(art ? prixFr(art.prix) : '') + '">' +
       '<p class="hint">Laisser vide pour afficher « Prix en boutique »</p>' +
+      '<label>Quantité en stock pour la vente en ligne</label>' +
+      '<input id="af-stock" inputmode="numeric" placeholder="ex : 3" value="' + esc(art && art.stock != null ? art.stock : '') + '">' +
+      '<p class="hint">Nombre d\'exemplaires vendables en ligne. Une fois atteint, l\'article passe « épuisé » automatiquement. Laisser vide = pas de limite.</p>' +
       '<label>Description</label>' +
       '<textarea id="af-desc" rows="3" placeholder="Vertus, origine, particularités…">' + esc(art ? art.description || '' : '') + '</textarea>' +
       '<label>Photo</label>' +
@@ -546,9 +552,16 @@
         $('af-prix').focus();
         return;
       }
+      var stockStr = $('af-stock').value.trim().replace(/\s/g, '');
+      if (stockStr !== '' && (!/^\d+$/.test(stockStr) || Number(stockStr) < 0)) {
+        alert('Quantité en stock invalide — écrivez un nombre entier, par exemple : 3');
+        $('af-stock').focus();
+        return;
+      }
       var target = art || { id: slug(nom) + '-' + uid(), nom: '', prix: null, description: '', photo: null };
       target.nom = nom;
       target.prix = prixStr === '' ? null : Number(prixStr);
+      target.stock = stockStr === '' ? null : Number(stockStr);
       target.description = $('af-desc').value.trim();
       if (photoTemp) {
         var path = 'images/articles/' + slug(nom) + '-' + uid() + '.jpg';

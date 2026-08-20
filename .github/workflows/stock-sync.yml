@@ -1,0 +1,44 @@
+name: Synchronisation des stocks
+
+# Toutes les 15 minutes, vérifie auprès de Stripe quels articles à stock suivi
+# sont épuisés (lien de paiement désactivé automatiquement quand la limite de
+# ventes est atteinte) et met à jour data/catalogue.json en conséquence.
+# Sans le secret STRIPE_SECRET_KEY, le job ne fait rien.
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: stock-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Vérifier les stocks vendus
+        run: node .github/scripts/stock-sync.js
+        env:
+          STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
+
+      - name: Publier les changements de stock
+        run: |
+          if ! git diff --quiet data/catalogue.json; then
+            git config user.name "stock-sync[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/catalogue.json
+            git commit -m "Stock : mise à jour automatique (articles épuisés)"
+            git push
+          else
+            echo "Aucun changement de stock à publier."
+          fi

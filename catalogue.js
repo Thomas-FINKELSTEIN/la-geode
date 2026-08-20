@@ -47,6 +47,7 @@
     var card = el('a', 'item-card');
     card.setAttribute('data-reveal', String(revealDelay));
     if (a.id) card.href = articleUrl(a);
+    if (a.epuise) card.classList.add('article-epuise');
     if (a.photo) {
       var img = el('img');
       img.src = photoSrc(a.photo);
@@ -56,6 +57,7 @@
     } else {
       card.appendChild(el('div', 'item-noimg', '◆'));
     }
+    if (a.epuise) card.appendChild(el('span', 'epuise-badge', 'Épuisé'));
     var body = el('div', 'item-body');
     if (contexte) body.appendChild(el('div', 'item-contexte', esc(contexte)));
     body.appendChild(el('h3', null, esc(a.nom)));

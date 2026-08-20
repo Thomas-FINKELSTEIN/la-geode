@@ -25,7 +25,8 @@
 1. Choisir l'onglet de l'univers, trouver la bonne famille
 2. Cliquer **« + Ajouter un article »** — une fenêtre s'ouvre
 3. Remplir : nom (obligatoire), prix en € (ex : `12,50` — ou vide pour
-   afficher « Prix en boutique »), description, photo
+   afficher « Prix en boutique »), **quantité en stock** (voir plus bas),
+   description, photo
 4. **L'aperçu à droite montre en direct** à quoi ressemblera l'article
    sur le site — ce que vous voyez, c'est ce que verront les clients
 5. Cliquer **« Ajouter au catalogue »**
@@ -45,6 +46,24 @@ article existant — il ne reste qu'à changer le nom, le prix et la photo.
 - **L'ordre d'affichage** : flèches ↑ ↓ sur chaque ligne.
 - **Repères** : une pastille jaune « sans photo » signale les articles sans
   image ; un prix gris « Prix en boutique » signale les articles sans prix.
+
+## Le stock (vente en ligne)
+
+Dans chaque article, le champ **« Quantité en stock »** sert uniquement à la
+vente en ligne :
+
+- Vous mettez par exemple **3** : les clients peuvent en acheter 3 en ligne,
+  puis l'article passe automatiquement en **« Épuisé »** sur le site (photo
+  grisée, plus de bouton d'achat). Impossible d'en vendre un de trop.
+- Vous **laissez vide** : pas de limite en ligne (à réserver aux articles dont
+  vous avez toujours du stock, ou qui n'ont pas de prix donc pas de vente en
+  ligne).
+- Chaque commande en ligne = **1 exemplaire**. Si un client en veut deux, il
+  passe deux fois (c'est ce qui permet de compter le stock sans erreur).
+- **Un article vendu en boutique** ne baisse pas tout seul le stock en ligne :
+  si vous vendez sur place le dernier exemplaire d'un article aussi vendable
+  en ligne, pensez à baisser sa quantité (ou la mettre à 0) dans l'admin.
+- L'article repasse en vente si vous **augmentez** la quantité.
 
 ## Les actualités (affiches de la page d'accueil)
 

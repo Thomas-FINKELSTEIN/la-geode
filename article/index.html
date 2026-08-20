@@ -87,7 +87,7 @@
       var a = found.article;
       document.title = a.nom + ' · La Géode le Showroom';
 
-      var html = '<div class="article-layout" data-reveal="0">';
+      var html = '<div class="article-layout' + (a.epuise ? ' article-epuise' : '') + '" data-reveal="0">';
       html += '<div class="article-photo">';
       if (a.photo) {
         html += '<img src="' + esc(photoSrc(a.photo)) + '" alt="' + esc(a.nom) + '">';
@@ -99,10 +99,14 @@
       html += '<div class="article-info">';
       html += '<div class="item-contexte">' + esc(found.theme.nom + ' · ' + found.famille.nom) + '</div>';
       html += '<h1>' + esc(a.nom) + '</h1>';
-      html += '<div class="article-prix">' + prixLabel(a.prix) + '</div>';
+      html += '<div class="article-prix">' + prixLabel(a.prix) +
+        (a.epuise ? ' <span class="epuise-txt">· Épuisé en ligne</span>' : '') + '</div>';
       if (a.description) html += '<p class="article-desc">' + esc(a.description) + '</p>';
       html += '<div class="article-ctas">';
-      if (a.stripe) {
+      if (a.epuise) {
+        html += '<a class="btn-primary" href="tel:' + TEL + '">📞 Nous appeler : ' + TEL_AFFICHE + '</a>';
+        html += '<a class="btn-ghost" href="../#infos">Horaires &amp; accès</a>';
+      } else if (a.stripe) {
         html += '<a class="btn-primary" href="' + esc(a.stripe) + '" target="_blank" rel="noopener">Acheter en ligne</a>';
         html += '<a class="btn-ghost" href="tel:' + TEL + '">📞 ' + TEL_AFFICHE + '</a>';
       } else {
@@ -110,7 +114,9 @@
         html += '<a class="btn-ghost" href="../#infos">Horaires &amp; accès</a>';
       }
       html += '</div>';
-      if (a.stripe) {
+      if (a.epuise) {
+        html += '<p class="article-note">Cet article est momentanément épuisé à la vente en ligne. Il est peut-être encore disponible au showroom : appelez-nous ou passez nous voir, 15 Avenue du Maréchal Joffre, Saint-Génis-des-Fontaines.</p>';
+      } else if (a.stripe) {
         html += '<p class="article-note">Paiement en ligne sécurisé par Stripe. Retrait de votre article au showroom, 15 Avenue du Maréchal Joffre, Saint-Génis-des-Fontaines.</p>';
       } else {
         html += '<p class="article-note">Article disponible au showroom, 15 Avenue du Maréchal Joffre, Saint-Génis-des-Fontaines.</p>';

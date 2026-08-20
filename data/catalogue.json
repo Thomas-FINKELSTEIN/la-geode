@@ -20,67 +20,10 @@
       "nom": "Minéraux",
       "familles": [
         {
-          "id": "pierres-roulees",
-          "nom": "Pierres roulées",
-          "slogan": "Le secret du succès sur le bien-être et la zénitude du corps et de l'esprit.",
-          "articles": [
-            {
-              "id": "exemple-amethyste",
-              "nom": "Améthyste (exemple)",
-              "prix": null,
-              "stock": null,
-              "description": "Pierre d'apaisement et d'équilibre, pour retrouver le calme. Article d'exemple : remplacez-le par vos vraies pièces depuis l'admin.",
-              "photo": "https://images.unsplash.com/photo-1567113463224-37cf03ba4577?q=80&w=900&auto=format&fit=crop"
-            },
-            {
-              "id": "exemple-quartz-rose",
-              "nom": "Quartz rose (exemple)",
-              "prix": null,
-              "stock": null,
-              "description": "La pierre de la douceur et de l'amour, à garder près de soi.",
-              "photo": "https://images.unsplash.com/photo-1632980205460-e490e885e848?q=80&w=900&auto=format&fit=crop"
-            },
-            {
-              "id": "exemple-oeil-tigre",
-              "nom": "Œil de tigre (exemple)",
-              "prix": null,
-              "stock": null,
-              "description": "Force, courage et protection au quotidien. Exemple sans photo pour voir ce rendu."
-            }
-          ]
-        },
-        {
-          "id": "sphere-msrstn3klgkj",
-          "nom": "Sphère",
+          "id": "spheres-mt1swa7ztui3",
+          "nom": "Sphères",
           "slogan": "",
-          "articles": [
-            {
-              "id": "exemple-sphere-obsidienne",
-              "nom": "Sphère d'obsidienne (exemple)",
-              "prix": null,
-              "stock": null,
-              "description": "Pièce de collection sur socle en bois, à venir admirer au showroom.",
-              "photo": "https://images.unsplash.com/photo-1736449497832-6ae92abb8507?q=80&w=900&auto=format&fit=crop"
-            },
-            {
-              "id": "sphere-verte-mt1s6p5mab3h",
-              "nom": "Sphère verte",
-              "prix": 12.5,
-              "description": "",
-              "photo": null,
-              "stock": 3,
-              "stripeProductId": "prod_V6n9hDAachAbri",
-              "stripeMode": "live",
-              "stripeNom": "Sphère verte",
-              "stripeDesc": "",
-              "stripePriceId": "price_1U6ZYlLOfCA5mATuRNwc72l7",
-              "stripePrix": 12.5,
-              "stripeLinkId": "plink_1U6ZYlLOfCA5mATu66hDkwTg",
-              "stripe": "https://buy.stripe.com/4gM9AUagacjX9QI21j28801",
-              "stripeStock": 3,
-              "epuise": false
-            }
-          ]
+          "articles": []
         }
       ]
     },

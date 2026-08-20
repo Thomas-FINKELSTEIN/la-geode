@@ -30,7 +30,17 @@
               "prix": 5,
               "stock": 2,
               "description": "Article de test pour valider le paiement en ligne et le stock. À supprimer ensuite depuis l'admin.",
-              "photo": "https://images.unsplash.com/photo-1567113463224-37cf03ba4577?q=80&w=1200&auto=format&fit=crop"
+              "photo": "https://images.unsplash.com/photo-1567113463224-37cf03ba4577?q=80&w=1200&auto=format&fit=crop",
+              "stripeProductId": "prod_V6lGbqAtPOqhkd",
+              "stripeMode": "test",
+              "stripeNom": "Améthyste (test Stripe)",
+              "stripeDesc": "Article de test pour valider le paiement en ligne et le stock. À supprimer ensuite depuis l'admin.",
+              "stripePriceId": "price_1U6XkPLkefSViwGDdyMJ7Wje",
+              "stripePrix": 5,
+              "stripeLinkId": "plink_1U6XkQLkefSViwGDclkKcqBJ",
+              "stripe": "https://buy.stripe.com/test_fZucN6cihcJL1cMdbRe3e00",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

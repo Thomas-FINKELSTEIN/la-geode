@@ -23,7 +23,16 @@
           "id": "pierres-roulees",
           "nom": "Pierres roulées",
           "slogan": "Le secret du succès sur le bien-être et la zénitude du corps et de l'esprit.",
-          "articles": []
+          "articles": [
+            {
+              "id": "test-amethyste-stripe",
+              "nom": "Améthyste (test Stripe)",
+              "prix": 5,
+              "stock": 2,
+              "description": "Article de test pour valider le paiement en ligne et le stock. À supprimer ensuite depuis l'admin.",
+              "photo": "https://images.unsplash.com/photo-1567113463224-37cf03ba4577?q=80&w=1200&auto=format&fit=crop"
+            }
+          ]
         },
         {
           "id": "sphere-msrstn3klgkj",

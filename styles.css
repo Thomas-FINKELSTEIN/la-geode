@@ -728,33 +728,112 @@ a.univers-panel {
   overflow-wrap: anywhere;
 }
 
-a.card { display: block; color: inherit; }
+/* --------------------------------------------------------------------------
+   Vitrine : rail de familles + sections d'articles
+   -------------------------------------------------------------------------- */
 
-/* Familles = filtres : carte active et bouton de retour à la vue complète */
+.page-catalogue { max-width: 1500px; }
 
-.card.card-active {
-  border-color: var(--accent);
-  background: rgba(183, 149, 227, 0.08);
+.familles-rail {
+  position: sticky;
+  top: 74px;
+  z-index: 30;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 30px;
+  padding: 12px 16px;
+  background: rgba(23, 19, 25, 0.86);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(236, 231, 225, 0.12);
+  border-radius: 22px;
+  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.35);
+  scroll-margin-top: 90px;
 }
 
-.filtre-bar { margin-top: 26px; }
-
-.filtre-reset {
+.fam-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
   font-family: 'Jost', sans-serif;
   font-weight: 300;
-  font-size: 14.5px;
-  color: var(--muted);
-  background: none;
-  border: 1px solid rgba(236, 231, 225, 0.25);
+  font-size: 15px;
+  color: var(--ink-soft);
+  background: transparent;
+  border: 1px solid rgba(236, 231, 225, 0.2);
   border-radius: 999px;
-  padding: 9px 20px;
+  padding: 10px 18px;
   cursor: pointer;
-  transition: border-color 0.2s, color 0.2s;
+  transition: color 0.2s, border-color 0.2s, background 0.25s, transform 0.2s;
 }
 
-.filtre-reset:hover { border-color: var(--accent); color: var(--accent); }
+.fam-chip:hover {
+  border-color: var(--tint, var(--accent));
+  color: var(--ink);
+  transform: translateY(-1px);
+}
 
-.famille { scroll-margin-top: 96px; }
+.fam-chip .dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--tint, var(--accent));
+}
+
+.fam-chip .n {
+  color: var(--faded);
+  font-size: 13px;
+}
+
+.fam-chip.active {
+  background: var(--tint, var(--accent));
+  border-color: transparent;
+  color: #16131a;
+  font-weight: 500;
+}
+
+.fam-chip.active .dot { background: rgba(22, 19, 26, 0.55); }
+.fam-chip.active .n { color: rgba(22, 19, 26, 0.6); }
+
+@media (max-width: 620px) {
+  .familles-rail { top: 64px; padding: 10px 12px; border-radius: 18px; }
+  .fam-chip { font-size: 14px; padding: 9px 14px; }
+}
+
+.vitrine .famille:first-child { margin-top: 40px; }
+
+.vitrine-bar {
+  width: 46px;
+  height: 3px;
+  border-radius: 2px;
+  margin-bottom: 14px;
+}
+
+.vitrine-ligne {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.vitrine-head h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  font-size: clamp(28px, 3.2vw, 42px);
+  color: var(--ink);
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.vitrine-count {
+  color: var(--faded);
+  font-size: 15px;
+  letter-spacing: 0.04em;
+}
+
+.famille { scroll-margin-top: 150px; }
 
 /* Barre de recherche du catalogue */
 
@@ -821,19 +900,21 @@ a.card { display: block; color: inherit; }
 
 .items-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
-  gap: 18px;
-  margin-top: 24px;
+  grid-template-columns: repeat(auto-fill, minmax(258px, 1fr));
+  gap: 26px;
+  margin-top: 28px;
 }
 
 .item-card {
   position: relative;
-  background: rgba(236, 231, 225, 0.03);
-  border: 1px solid rgba(236, 231, 225, 0.09);
-  border-radius: 14px;
+  display: block;
+  color: inherit;
+  background: linear-gradient(180deg, rgba(236, 231, 225, 0.05), rgba(236, 231, 225, 0.02));
+  border: 1px solid rgba(236, 231, 225, 0.1);
+  border-radius: 18px;
   overflow: hidden;
   cursor: pointer;
-  transition: border-color 0.3s, transform 0.3s;
+  transition: border-color 0.3s, transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.35s;
 }
 
 /* Article épuisé : pastille et photo assombrie */
@@ -866,12 +947,18 @@ a.card { display: block; color: inherit; }
 
 .item-card:hover,
 .item-card:focus-visible {
-  border-color: var(--accent);
-  transform: translateY(-3px);
+  border-color: var(--tint, var(--accent));
+  transform: translateY(-6px);
+  box-shadow: 0 22px 48px rgba(0, 0, 0, 0.5);
   outline: none;
 }
 
-.item-card img {
+.item-photo {
+  position: relative;
+  overflow: hidden;
+}
+
+.item-photo img {
   display: block;
   width: 100%;
   aspect-ratio: 4 / 3;
@@ -880,7 +967,16 @@ a.card { display: block; color: inherit; }
   transition: transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
-.item-card:hover img { transform: scale(1.05); }
+.item-card:hover .item-photo img { transform: scale(1.07); }
+
+/* Léger voile en bas de la photo pour asseoir la pastille de prix */
+.item-photo::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 62%, rgba(15, 13, 18, 0.45) 100%);
+  pointer-events: none;
+}
 
 .item-noimg {
   aspect-ratio: 4 / 3;
@@ -890,6 +986,23 @@ a.card { display: block; color: inherit; }
   font-size: 30px;
   color: rgba(236, 231, 225, 0.25);
   background: radial-gradient(ellipse at 50% 40%, rgba(147, 102, 204, 0.12), transparent 70%);
+}
+
+.prix-pill {
+  position: absolute;
+  bottom: 12px;
+  left: 12px;
+  z-index: 2;
+  font-size: 14.5px;
+  font-weight: 400;
+  color: var(--ink);
+  background: rgba(15, 13, 18, 0.72);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(236, 231, 225, 0.28);
+  border-radius: 999px;
+  padding: 6px 14px;
+  letter-spacing: 0.02em;
 }
 
 /* Page article */

@@ -25,22 +25,27 @@
           "slogan": "Le secret du succès sur le bien-être et la zénitude du corps et de l'esprit.",
           "articles": [
             {
-              "id": "pierres-mt1raj3p6q82",
-              "nom": "Pierres",
-              "prix": 12.5,
-              "description": "",
-              "photo": null,
-              "stock": 3,
-              "stripeProductId": "prod_V6mkVh6ByhYRJV",
-              "stripeMode": "live",
-              "stripeNom": "Pierres",
-              "stripeDesc": "",
-              "stripePriceId": "price_1U6ZAXLOfCA5mATuRx9xvDOy",
-              "stripePrix": 12.5,
-              "stripeLinkId": "plink_1U6ZAYLOfCA5mATuXRuMazXG",
-              "stripe": "https://buy.stripe.com/9B66oIbke0Bf3sk49r28800",
-              "stripeStock": 3,
-              "epuise": false
+              "id": "exemple-amethyste",
+              "nom": "Améthyste (exemple)",
+              "prix": null,
+              "stock": null,
+              "description": "Pierre d'apaisement et d'équilibre, pour retrouver le calme. Article d'exemple : remplacez-le par vos vraies pièces depuis l'admin.",
+              "photo": "https://images.unsplash.com/photo-1567113463224-37cf03ba4577?q=80&w=900&auto=format&fit=crop"
+            },
+            {
+              "id": "exemple-quartz-rose",
+              "nom": "Quartz rose (exemple)",
+              "prix": null,
+              "stock": null,
+              "description": "La pierre de la douceur et de l'amour, à garder près de soi.",
+              "photo": "https://images.unsplash.com/photo-1632980205460-e490e885e848?q=80&w=900&auto=format&fit=crop"
+            },
+            {
+              "id": "exemple-oeil-tigre",
+              "nom": "Œil de tigre (exemple)",
+              "prix": null,
+              "stock": null,
+              "description": "Force, courage et protection au quotidien. Exemple sans photo pour voir ce rendu."
             }
           ]
         },
@@ -48,7 +53,16 @@
           "id": "sphere-msrstn3klgkj",
           "nom": "Sphère",
           "slogan": "",
-          "articles": []
+          "articles": [
+            {
+              "id": "exemple-sphere-obsidienne",
+              "nom": "Sphère d'obsidienne (exemple)",
+              "prix": null,
+              "stock": null,
+              "description": "Pièce de collection sur socle en bois, à venir admirer au showroom.",
+              "photo": "https://images.unsplash.com/photo-1736449497832-6ae92abb8507?q=80&w=900&auto=format&fit=crop"
+            }
+          ]
         }
       ]
     },

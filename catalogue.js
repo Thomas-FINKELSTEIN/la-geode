@@ -1,9 +1,11 @@
-// Affiche le catalogue (familles + articles) d'un thème sur sa page univers,
-// avec une barre de recherche tolérante (bouts de mots, sans accents,
-// trouve même si un des mots tapés ne correspond pas) sur tout le catalogue.
-// Chaque article est un lien vers sa page /article/?id=…
+// Vitrine du catalogue sur les pages univers.
+// - Rail de familles collant (pastilles-filtres avec compteurs) : « Tout voir »
+//   affiche tous les articles groupés par famille ; un clic sur une famille
+//   filtre instantanément.
+// - Tant qu'aucun article n'existe dans l'univers, la page montre les familles
+//   en présentation simple (vignettes avec slogans).
+// - Recherche tolérante sur tout le catalogue (bouts de mots, sans accents).
 // La page doit contenir <div id="catalogue" data-theme="..." data-tint="...">.
-// Si window.CATALOGUE_DEMO est défini (page d'aperçu), il remplace data/catalogue.json.
 (function () {
   var TEL = '+33468566053';
   var TEL_AFFICHE = '04 68 56 60 53';
@@ -41,27 +43,31 @@
     return '../article/?id=' + encodeURIComponent(a.id || '');
   }
 
-  /* ---------- Carte article (réutilisée par les sections et la recherche) ---------- */
+  /* ---------- Carte article (vitrine et recherche) ---------- */
 
   function itemCard(a, revealDelay, contexte) {
     var card = el('a', 'item-card');
     card.setAttribute('data-reveal', String(revealDelay));
     if (a.id) card.href = articleUrl(a);
     if (a.epuise) card.classList.add('article-epuise');
+
+    var photo = el('div', 'item-photo');
     if (a.photo) {
       var img = el('img');
       img.src = photoSrc(a.photo);
       img.alt = a.nom;
       img.loading = 'lazy';
-      card.appendChild(img);
+      photo.appendChild(img);
     } else {
-      card.appendChild(el('div', 'item-noimg', '◆'));
+      photo.appendChild(el('div', 'item-noimg', '◆'));
     }
-    if (a.epuise) card.appendChild(el('span', 'epuise-badge', 'Épuisé'));
+    photo.appendChild(el('span', 'prix-pill', prixLabel(a.prix)));
+    if (a.epuise) photo.appendChild(el('span', 'epuise-badge', 'Épuisé'));
+    card.appendChild(photo);
+
     var body = el('div', 'item-body');
     if (contexte) body.appendChild(el('div', 'item-contexte', esc(contexte)));
     body.appendChild(el('h3', null, esc(a.nom)));
-    body.appendChild(el('div', 'item-prix', prixLabel(a.prix)));
     if (a.description) body.appendChild(el('p', null, esc(a.description)));
     card.appendChild(body);
     return card;
@@ -69,7 +75,6 @@
 
   /* ---------- Recherche ---------- */
 
-  // Index de tous les articles du catalogue, tous thèmes confondus.
   function buildIndex(data) {
     var index = [];
     Object.keys(data.themes).forEach(function (key) {
@@ -162,100 +167,108 @@
     });
   }
 
-  /* ---------- Rendu ---------- */
+  /* ---------- Vitrine ---------- */
 
-  // Les vignettes de familles servent de filtres : un clic n'affiche que les
-  // articles de la famille choisie ; « Afficher toutes les familles » (ou un
-  // second clic sur la famille active) rétablit la vue complète.
   function render(container, data, themeKey, tint) {
     var theme = data.themes[themeKey];
     if (!theme) return;
     var familles = theme.familles || [];
 
-    // Tout le contenu « normal » (familles + sections) dans un conteneur
-    // que la recherche peut masquer d'un bloc.
+    // Tout le contenu « normal » dans un conteneur que la recherche peut masquer.
     var normalWrap = el('div', null);
 
-    var sections = {};
-    var cartes = {};
-    var hints = {};
-    var filtreActif = null;
+    var pleines = familles.filter(function (f) { return f.articles && f.articles.length; });
+    var total = pleines.reduce(function (s, f) { return s + f.articles.length; }, 0);
 
-    var resetBar = el('div', 'filtre-bar');
-    var resetBtn = el('button', 'filtre-reset', '✕ Afficher toutes les familles');
-    resetBar.appendChild(resetBtn);
-    resetBar.style.display = 'none';
-
-    function hintTexte(f) {
-      return f.articles.length > 1 ? 'Voir les ' + f.articles.length + ' articles →' : 'Voir l\'article →';
+    // Univers encore vide : présentation simple des familles.
+    if (!total) {
+      var grid = el('div', 'cards');
+      familles.forEach(function (f, i) {
+        var card = el('div', 'card');
+        card.setAttribute('data-reveal', String(i * 80));
+        card.appendChild(el('div', 'univers-bar')).style.background = tint;
+        card.appendChild(el('h3', null, esc(f.nom)));
+        card.appendChild(el('p', null, esc(f.slogan || '')));
+        grid.appendChild(card);
+      });
+      normalWrap.appendChild(grid);
+      container.appendChild(normalWrap);
+      setupSearch(container, data, normalWrap);
+      if (window.initReveal) window.initReveal(container);
+      return;
     }
 
-    function setFiltre(id) {
-      filtreActif = (filtreActif === id) ? null : id;
-      Object.keys(sections).forEach(function (fid) {
-        sections[fid].style.display = (!filtreActif || filtreActif === fid) ? '' : 'none';
+    // Rail de familles : pastilles-filtres avec compteurs.
+    var rail = el('nav', 'familles-rail');
+    rail.style.setProperty('--tint', tint);
+    rail.setAttribute('aria-label', 'Familles d\'articles');
+
+    var vitrine = el('div', 'vitrine');
+    var actif = null;
+    var boutons = {};
+
+    function faireChip(label, count, id) {
+      var b = el('button', 'fam-chip');
+      b.type = 'button';
+      if (id !== null) b.appendChild(el('span', 'dot'));
+      b.appendChild(el('span', 'fam-chip-nom', esc(label)));
+      b.appendChild(el('span', 'n', String(count)));
+      b.addEventListener('click', function () {
+        afficher(actif === id ? null : id, true);
       });
-      familles.forEach(function (f) {
-        if (!cartes[f.id]) return;
-        cartes[f.id].classList.toggle('card-active', filtreActif === f.id);
-        if (hints[f.id]) {
-          hints[f.id].textContent = filtreActif === f.id ? '✕ Tout revoir' : hintTexte(f);
-        }
-      });
-      resetBar.style.display = filtreActif ? '' : 'none';
-      if (filtreActif && sections[filtreActif]) {
-        sections[filtreActif].scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
+      boutons[id === null ? '__tout' : id] = b;
+      rail.appendChild(b);
+      return b;
     }
 
-    resetBtn.addEventListener('click', function () { setFiltre(filtreActif); });
+    faireChip('Tout voir', total, null);
+    pleines.forEach(function (f) { faireChip(f.nom, f.articles.length, f.id); });
 
-    var grid = el('div', 'cards');
-    familles.forEach(function (f, i) {
-      var hasArticles = f.articles && f.articles.length > 0;
-      var card = el(hasArticles ? 'a' : 'div', 'card');
-      card.setAttribute('data-reveal', String(i * 80));
-      card.appendChild(el('div', 'univers-bar')).style.background = tint;
-      card.appendChild(el('h3', null, esc(f.nom)));
-      card.appendChild(el('p', null, esc(f.slogan || '')));
-      if (hasArticles) {
-        card.href = '#f-' + f.id;
-        var hint = el('span', 'panel-hint', hintTexte(f));
-        card.appendChild(hint);
-        hints[f.id] = hint;
-        cartes[f.id] = card;
-        card.addEventListener('click', function (ev) {
-          ev.preventDefault();
-          setFiltre(f.id);
-        });
-      }
-      grid.appendChild(card);
-    });
-    normalWrap.appendChild(grid);
-    normalWrap.appendChild(resetBar);
-
-    familles.forEach(function (f) {
-      if (!f.articles || !f.articles.length) return;
-      var section = el('section', 'famille');
-      section.id = 'f-' + f.id;
-      sections[f.id] = section;
-      var head = el('div', null);
+    function sectionFamille(f) {
+      var sec = el('section', 'famille');
+      var head = el('div', 'vitrine-head');
       head.setAttribute('data-reveal', '0');
-      head.appendChild(el('h2', null, esc(f.nom)));
+      var barre = el('div', 'vitrine-bar');
+      barre.style.background = tint;
+      head.appendChild(barre);
+      var ligne = el('div', 'vitrine-ligne');
+      ligne.appendChild(el('h2', null, esc(f.nom)));
+      ligne.appendChild(el('span', 'vitrine-count',
+        f.articles.length + ' article' + (f.articles.length > 1 ? 's' : '')));
+      head.appendChild(ligne);
       if (f.slogan) head.appendChild(el('p', 'famille-slogan', esc(f.slogan)));
-      section.appendChild(head);
+      sec.appendChild(head);
 
-      var items = el('div', 'items-grid');
+      var grid = el('div', 'items-grid');
       f.articles.forEach(function (a, i) {
-        items.appendChild(itemCard(a, i * 60));
+        grid.appendChild(itemCard(a, Math.min(i, 8) * 60));
       });
-      section.appendChild(items);
-      normalWrap.appendChild(section);
-    });
+      sec.appendChild(grid);
+      return sec;
+    }
+
+    function afficher(id, scroller) {
+      actif = id;
+      Object.keys(boutons).forEach(function (k) {
+        boutons[k].classList.toggle('active', (id === null && k === '__tout') || k === id);
+      });
+      vitrine.innerHTML = '';
+      if (id === null) {
+        pleines.forEach(function (f) { vitrine.appendChild(sectionFamille(f)); });
+      } else {
+        var f = pleines.filter(function (x) { return x.id === id; })[0];
+        if (f) vitrine.appendChild(sectionFamille(f));
+      }
+      if (window.initReveal) window.initReveal(vitrine);
+      if (scroller) rail.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    normalWrap.appendChild(rail);
+    normalWrap.appendChild(vitrine);
+    afficher(null, false);
 
     container.appendChild(normalWrap);
     setupSearch(container, data, normalWrap);
-
     if (window.initReveal) window.initReveal(container);
   }
 

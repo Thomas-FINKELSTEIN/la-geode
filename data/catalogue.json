@@ -61,6 +61,14 @@
               "stock": null,
               "description": "Pièce de collection sur socle en bois, à venir admirer au showroom.",
               "photo": "https://images.unsplash.com/photo-1736449497832-6ae92abb8507?q=80&w=900&auto=format&fit=crop"
+            },
+            {
+              "id": "sphere-verte-mt1s6p5mab3h",
+              "nom": "Sphère verte",
+              "prix": 12.5,
+              "description": "",
+              "photo": null,
+              "stock": 3
             }
           ]
         }

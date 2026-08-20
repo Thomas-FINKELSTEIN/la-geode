@@ -68,7 +68,17 @@
               "prix": 12.5,
               "description": "",
               "photo": null,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_V6n9hDAachAbri",
+              "stripeMode": "live",
+              "stripeNom": "Sphère verte",
+              "stripeDesc": "",
+              "stripePriceId": "price_1U6ZYlLOfCA5mATuRNwc72l7",
+              "stripePrix": 12.5,
+              "stripeLinkId": "plink_1U6ZYlLOfCA5mATu66hDkwTg",
+              "stripe": "https://buy.stripe.com/4gM9AUagacjX9QI21j28801",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

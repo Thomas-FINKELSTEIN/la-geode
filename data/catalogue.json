@@ -23,7 +23,16 @@
           "id": "pierres-roulees",
           "nom": "Pierres roulées",
           "slogan": "Le secret du succès sur le bien-être et la zénitude du corps et de l'esprit.",
-          "articles": []
+          "articles": [
+            {
+              "id": "pierres-mt1raj3p6q82",
+              "nom": "Pierres",
+              "prix": 12.5,
+              "description": "",
+              "photo": null,
+              "stock": 3
+            }
+          ]
         },
         {
           "id": "sphere-msrstn3klgkj",

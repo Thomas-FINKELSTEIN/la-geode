@@ -31,7 +31,7 @@ jobs:
         run: node .github/scripts/stripe-sync.js
         env:
           STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
-          SITE_URL: https://thomas-finkelstein.github.io/la-geode
+          SITE_URL: https://lageode66.fr
 
       - name: Publier les liens de paiement
         run: |

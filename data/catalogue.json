@@ -30,7 +30,17 @@
               "prix": 12.5,
               "description": "",
               "photo": null,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_V8ZK6FWDBkduQo",
+              "stripeMode": "live",
+              "stripeNom": "Pierres",
+              "stripeDesc": "",
+              "stripePriceId": "price_1U8IBfLOfCA5mATu7oBdpr2H",
+              "stripePrix": 12.5,
+              "stripeLinkId": "plink_1U8IBgLOfCA5mATu5bGu65D8",
+              "stripe": "https://buy.stripe.com/aFafZi4VQfw97IA6hz28802",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

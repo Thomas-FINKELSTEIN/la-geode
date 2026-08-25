@@ -850,6 +850,39 @@
 
   $('btn-publish').onclick = publish;
 
+  // Export CSV de l'inventaire (séparateur ; + BOM pour Excel français)
+  $('btn-inventaire').onclick = function () {
+    var lignes = [['Univers', 'Rayon', 'Article', 'Prix boutique (€)', 'Prix en ligne (€)', 'Stock en ligne', 'Épuisé', 'Description']];
+    UNIVERS.forEach(function (u) {
+      if (u.key === '__actus') return;
+      var theme = state.catalogue.themes[u.key];
+      if (!theme) return;
+      (theme.familles || []).forEach(function (fam) {
+        (fam.articles || []).forEach(function (art) {
+          lignes.push([
+            u.nom, fam.nom, art.nom,
+            art.prixBoutique != null ? String(art.prixBoutique).replace('.', ',') : (art.prix != null ? String(art.prix).replace('.', ',') : ''),
+            art.prix != null ? String(art.prix).replace('.', ',') : '',
+            art.stock != null ? art.stock : '',
+            art.epuise ? 'oui' : '',
+            art.description || ''
+          ]);
+        });
+      });
+    });
+    var csv = '﻿' + lignes.map(function (l) {
+      return l.map(function (c) { return '"' + String(c).replace(/"/g, '""') + '"'; }).join(';');
+    }).join('\r\n');
+    var d = new Date();
+    var nomFichier = 'inventaire-la-geode-' + d.getFullYear() + '-' +
+      String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0') + '.csv';
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(new Blob([csv], { type: 'text/csv;charset=utf-8' }));
+    a.download = nomFichier;
+    a.click();
+    URL.revokeObjectURL(a.href);
+  };
+
   var searchTimer = null;
   $('admin-search').addEventListener('input', function () {
     clearTimeout(searchTimer);

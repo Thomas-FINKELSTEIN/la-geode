@@ -10,27 +10,35 @@
 2. Taper le **mot de passe** et cliquer « Ouvrir mon catalogue »
 3. C'est tout — la connexion reste active sur cet ordinateur
 
+## L'idée en une phrase
+
+Votre site est comme votre magasin : il a **4 grands univers**. Dans chaque
+univers, vous créez des **rayons** (par ex. « Bracelets »), et dans chaque
+rayon vous rangez vos **articles**. C'est écrit en haut de la page en
+permanence : Univers → Rayon → Article.
+
 ## L'écran principal
 
-- En haut : **5 onglets** — les 4 univers du site (Minéraux, Bijoux,
-  Ésotérisme & encens, Décoration du monde) avec le nombre d'articles
-  de chacun, et **Actualités** (les affiches de la page d'accueil)
-- Une **barre de recherche** pour retrouver un article en tapant quelques
-  lettres — pratique quand le catalogue sera bien rempli
-- En dessous : les **familles** de l'univers choisi, avec leurs articles
-- Tout en bas de l'écran : la barre avec le bouton **« Publier sur le site »**
+- En haut : un rappel **« Comment ça marche ? »**
+- Puis **4 grands boutons** (un par univers) + un bouton « Affiches & promos ».
+  Cliquez sur l'univers où vous voulez travailler ; il se coche.
+- En dessous : les **rayons** de cet univers, chacun avec ses articles et un
+  bouton pour en ajouter. Un lien **« Voir sur le site ↗ »** vous montre à quoi
+  ça ressemble en vrai.
+- Une **barre de recherche** pour retrouver un article en tapant quelques lettres.
+- Tout en bas : la barre avec le bouton **« Mettre en ligne »**.
 
 ## Ajouter un article
 
-1. Choisir l'onglet de l'univers, trouver la bonne famille
-2. Cliquer **« + Ajouter un article »** — une fenêtre s'ouvre
+1. Choisir l'univers, trouver la bonne famille
+2. Cliquer **« Ajouter un article dans ce rayon »** — une fenêtre s'ouvre
 3. Remplir : nom (obligatoire), prix en € (ex : `12,50` — ou vide pour
    afficher « Prix en boutique »), **quantité en stock** (voir plus bas),
    description, photo
 4. **L'aperçu à droite montre en direct** à quoi ressemblera l'article
    sur le site — ce que vous voyez, c'est ce que verront les clients
 5. Cliquer **« Ajouter au catalogue »**
-6. Quand vous avez fini votre série d'ajouts : **« Publier sur le site »**
+6. Quand vous avez fini votre série d'ajouts : **« Mettre en ligne »**
 
 💡 **Astuce gain de temps** : pour créer des articles qui se ressemblent
 (ex : bracelets en différentes pierres), cliquez **« Dupliquer »** sur un
@@ -74,7 +82,7 @@ après cette date**. Sans date, elle reste jusqu'à ce que vous la supprimiez.
 ## Publier — le point important
 
 Les modifications ne sont **pas en ligne tant que vous n'avez pas cliqué
-« Publier sur le site »**. La barre du bas vous le rappelle :
+« Mettre en ligne »**. La barre du bas vous le rappelle :
 - 🟢 « Tout est publié » = le site est à jour
 - 🟡 « X modifications à publier » = pensez à publier !
 

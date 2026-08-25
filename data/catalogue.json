@@ -18,7 +18,24 @@
   "themes": {
     "mineraux": {
       "nom": "Minéraux",
-      "familles": []
+      "familles": [
+        {
+          "id": "bracelets-mt8kw81bu2t3",
+          "nom": "Bracelets",
+          "slogan": "",
+          "articles": [
+            {
+              "id": "rouges-mt8kwe30ju8n",
+              "nom": "Rouges",
+              "prix": 13.18,
+              "description": "",
+              "photo": null,
+              "prixBoutique": 12.5,
+              "stock": null
+            }
+          ]
+        }
+      ]
     },
     "bijoux": {
       "nom": "Bijoux en pierres naturelles",

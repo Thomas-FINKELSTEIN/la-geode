@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mon catalogue — La Géode</title>
+  <title>Ma boutique — La Géode</title>
   <meta name="robots" content="noindex, nofollow">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpolygon points='50,4 88,38 50,96 12,38' fill='%23b795e3'/%3E%3Cpolygon points='50,4 70,38 50,96 30,38' fill='%23d6c8ee'/%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -11,238 +11,226 @@
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #0f0d12; --panel: #171319; --ink: #ece7e1;
-      --ink-soft: rgba(236, 231, 225, 0.85); --muted: #b7b0a8; --faded: #8f877e;
+      --bg: #0f0d12; --panel: #191520; --panel2: #211b29; --ink: #ece7e1;
+      --ink-soft: rgba(236, 231, 225, 0.86); --muted: #b7b0a8; --faded: #8f877e;
       --accent: #b795e3; --accent-soft: #d6c8ee; --ok: #85c9ab;
       --warn: #e5c07b; --danger: #e08a90;
-      --border: rgba(236, 231, 225, 0.12);
+      --border: rgba(236, 231, 225, 0.13);
     }
     * { box-sizing: border-box; }
     body {
       margin: 0; background: var(--bg); color: var(--ink);
       font-family: 'Jost', sans-serif; font-weight: 300;
-      font-size: 16px; line-height: 1.5;
+      font-size: 17px; line-height: 1.55;
     }
-    .wrap { max-width: 880px; margin: 0 auto; padding: 34px 20px 120px; }
+    .wrap { max-width: 820px; margin: 0 auto; padding: 30px 18px 150px; }
     h1 {
       font-family: 'Cormorant Garamond', serif; font-weight: 600;
-      font-size: 36px; margin: 0 0 4px;
+      font-size: 40px; margin: 0;
     }
-    .sub {
-      color: var(--accent); font-size: 12px;
-      letter-spacing: 0.28em; text-transform: uppercase;
-    }
-    .intro { color: var(--faded); font-size: 15px; margin: 4px 0 0; }
+    .sub { color: var(--accent); font-size: 12px; letter-spacing: 0.28em; text-transform: uppercase; }
     a { color: var(--accent); }
 
     /* ---- Boutons ---- */
     button {
-      font-family: 'Jost', sans-serif; font-size: 15.5px; font-weight: 400;
-      border: none; border-radius: 11px; padding: 11px 20px; cursor: pointer;
+      font-family: 'Jost', sans-serif; font-size: 17px; font-weight: 400;
+      border: none; border-radius: 14px; padding: 13px 22px; cursor: pointer;
       background: rgba(236, 231, 225, 0.09); color: var(--ink);
-      transition: background 0.15s, filter 0.15s;
+      transition: background 0.15s, filter 0.15s, transform 0.1s;
     }
     button:hover { background: rgba(236, 231, 225, 0.16); }
+    button:active { transform: scale(0.98); }
     button.primary { background: var(--accent); color: #16131a; font-weight: 500; }
-    button.primary:hover { filter: brightness(1.1); background: var(--accent); }
+    button.primary:hover { filter: brightness(1.08); background: var(--accent); }
     button.primary:disabled { opacity: 0.4; cursor: default; filter: none; }
-    button.subtle { background: transparent; color: var(--muted); }
-    button.subtle:hover { background: rgba(236, 231, 225, 0.08); color: var(--ink); }
-    button.icon {
-      width: 38px; height: 38px; padding: 0; font-size: 16px;
-      display: inline-flex; align-items: center; justify-content: center;
+    button.gros {
+      width: 100%; padding: 18px; font-size: 18px; border-radius: 16px;
+      display: flex; align-items: center; justify-content: center; gap: 10px;
     }
-    button.danger-link {
-      background: none; color: var(--danger); padding: 8px 0; font-size: 14.5px;
+    button.gros .plus { font-size: 24px; line-height: 1; }
+    button.ghost {
+      background: transparent; border: 2px dashed rgba(236, 231, 225, 0.28);
+      color: var(--ink-soft);
     }
+    button.ghost:hover { border-color: var(--accent); color: var(--ink); background: rgba(183,149,227,0.06); }
+    button.mini { font-size: 15px; padding: 9px 16px; border-radius: 11px; }
+    button.danger-link { background: none; color: var(--danger); padding: 10px 0; }
     button.danger-link:hover { background: none; text-decoration: underline; }
 
     /* ---- Champs ---- */
     input, textarea {
-      font-family: 'Jost', sans-serif; font-size: 16.5px; font-weight: 300;
+      font-family: 'Jost', sans-serif; font-size: 18px; font-weight: 300;
       color: var(--ink); background: rgba(0, 0, 0, 0.32);
-      border: 1px solid var(--border); border-radius: 11px;
-      padding: 13px 15px; width: 100%;
+      border: 1px solid var(--border); border-radius: 13px;
+      padding: 15px 16px; width: 100%;
     }
     input:focus, textarea:focus {
       outline: none; border-color: var(--accent);
-      box-shadow: 0 0 0 3px rgba(183, 149, 227, 0.15);
+      box-shadow: 0 0 0 3px rgba(183, 149, 227, 0.16);
     }
-    label {
-      display: block; font-size: 14px; color: var(--muted);
-      margin: 18px 0 6px;
-    }
-    .hint { font-size: 13px; color: var(--faded); margin: 5px 0 0; }
+    label { display: block; font-size: 16px; color: var(--ink); margin: 20px 0 7px; font-weight: 400; }
+    .hint { font-size: 14.5px; color: var(--faded); margin: 6px 0 0; }
 
     /* ---- Cartes ---- */
     .card {
       background: var(--panel); border: 1px solid var(--border);
-      border-radius: 16px; padding: 24px; margin-top: 20px;
+      border-radius: 20px; padding: 24px; margin-top: 20px;
     }
 
-    /* ---- Onglets ---- */
-    .tabs { display: flex; gap: 10px; flex-wrap: wrap; margin: 28px 0 6px; }
-    .tabs button {
-      padding: 11px 20px; border-radius: 999px; font-size: 15.5px;
-      background: rgba(236, 231, 225, 0.07);
+    /* ---- Bandeau d'explication ---- */
+    .explain {
+      background: linear-gradient(135deg, rgba(183,149,227,0.14), rgba(183,149,227,0.04));
+      border: 1px solid rgba(183,149,227,0.3);
+      border-radius: 20px; padding: 22px 24px; margin-top: 22px;
     }
-    .tabs button .n { color: var(--faded); font-size: 14px; margin-left: 6px; }
-    .tabs button.active { background: var(--accent); color: #16131a; font-weight: 500; }
-    .tabs button.active .n { color: rgba(22, 19, 26, 0.65); }
+    .explain h2 { font-family: 'Cormorant Garamond', serif; font-size: 24px; margin: 0 0 10px; font-weight: 600; }
+    .explain p { margin: 0 0 8px; font-size: 16.5px; color: var(--ink-soft); }
+    .explain .steps { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 14px; font-size: 15.5px; }
+    .explain .st { background: rgba(0,0,0,0.28); border-radius: 999px; padding: 8px 16px; }
+    .explain .fl { color: var(--accent); font-size: 20px; }
 
-    /* ---- Recherche ---- */
-    .search-admin {
-      margin-top: 16px;
-      border-radius: 999px;
-      padding: 13px 22px;
+    /* ---- Sélecteur d'univers ---- */
+    .univers-choix { margin-top: 26px; }
+    .univers-choix .titre-guide { font-size: 16px; color: var(--muted); margin-bottom: 12px; }
+    .univers-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; }
+    .u-btn {
+      position: relative; text-align: left; padding: 20px;
+      border-radius: 18px; border: 2px solid var(--border);
+      background: var(--panel); cursor: pointer;
+      transition: border-color 0.18s, transform 0.1s, background 0.18s;
+    }
+    .u-btn:hover { transform: translateY(-2px); background: var(--panel2); }
+    .u-btn .pastille { width: 34px; height: 34px; border-radius: 11px; margin-bottom: 12px; }
+    .u-btn .u-nom { font-family: 'Cormorant Garamond', serif; font-size: 23px; font-weight: 600; }
+    .u-btn .u-compte { font-size: 14.5px; color: var(--faded); margin-top: 3px; }
+    .u-btn.active { border-color: var(--uc, var(--accent)); background: var(--panel2); }
+    .u-btn.active::after {
+      content: '✓'; position: absolute; top: 16px; right: 18px;
+      color: var(--uc, var(--accent)); font-size: 20px;
     }
 
-    /* ---- Familles & articles ---- */
-    .fam-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
-    .fam-head h3 {
-      font-family: 'Cormorant Garamond', serif; font-weight: 600;
-      font-size: 24px; margin: 0;
+    /* ---- En-tête d'univers courant ---- */
+    .univers-entete {
+      display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+      margin: 30px 0 4px;
     }
-    .fam-count { color: var(--faded); font-size: 14.5px; }
-    .fam-actions { margin-left: auto; display: flex; gap: 6px; align-items: center; }
-    .fam-slogan { color: var(--faded); font-size: 14px; margin: 4px 0 0; width: 100%; }
+    .univers-entete .puce { width: 22px; height: 22px; border-radius: 7px; }
+    .univers-entete h2 { font-family: 'Cormorant Garamond', serif; font-size: 30px; margin: 0; font-weight: 600; }
+    .voir-site {
+      font-size: 15px; color: var(--accent); text-decoration: none;
+      border: 1px solid rgba(183,149,227,0.4); border-radius: 999px; padding: 7px 15px;
+      white-space: nowrap;
+    }
+    .voir-site:hover { background: rgba(183,149,227,0.1); }
 
+    /* ---- Rayon ---- */
+    .rayon { background: var(--panel); border: 1px solid var(--border); border-radius: 20px; padding: 22px; margin-top: 18px; }
+    .rayon-tete { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+    .rayon-tete .etiq { font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--faded); }
+    .rayon-tete h3 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 25px; margin: 0; flex: 1; min-width: 0; }
+    .rayon-slogan { color: var(--faded); font-size: 15px; margin: 6px 0 0; }
+    .rayon-vide {
+      text-align: center; color: var(--muted); font-size: 16px;
+      padding: 20px; margin-top: 14px;
+      background: rgba(0,0,0,0.2); border-radius: 14px;
+    }
+
+    /* ---- Article (ligne) ---- */
     .art {
-      display: flex; align-items: center; gap: 14px;
-      padding: 12px 0; border-top: 1px solid rgba(236, 231, 225, 0.07);
-      margin-top: 12px;
+      display: flex; align-items: center; gap: 15px;
+      padding: 14px; margin-top: 12px;
+      background: var(--panel2); border-radius: 14px;
     }
-    .art:first-of-type { margin-top: 16px; }
-    .art img {
-      width: 58px; height: 44px; object-fit: cover;
-      border-radius: 8px; flex-shrink: 0;
-    }
+    .art img { width: 66px; height: 50px; object-fit: cover; border-radius: 10px; flex-shrink: 0; }
     .art .noimg {
-      width: 58px; height: 44px; border-radius: 8px; flex-shrink: 0;
-      background: rgba(236, 231, 225, 0.06);
+      width: 66px; height: 50px; border-radius: 10px; flex-shrink: 0;
+      background: rgba(236, 231, 225, 0.07);
       display: flex; align-items: center; justify-content: center;
-      font-size: 17px; color: var(--faded);
+      font-size: 20px; color: var(--faded);
     }
     .art-info { flex: 1; min-width: 0; }
-    .art-nom {
-      font-size: 16.5px; overflow: hidden;
-      text-overflow: ellipsis; white-space: nowrap;
-    }
-    .art-ctx { color: var(--faded); font-size: 13px; }
+    .art-nom { font-size: 17.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .art-ligne2 { font-size: 14.5px; color: var(--faded); margin-top: 2px; }
+    .art-prix { color: var(--accent); }
     .tag {
-      display: inline-block; font-size: 11.5px; letter-spacing: 0.05em;
-      text-transform: uppercase; color: var(--warn);
-      border: 1px solid rgba(229, 192, 123, 0.45);
-      border-radius: 6px; padding: 1px 7px; margin-left: 8px;
-      vertical-align: 2px;
+      display: inline-block; font-size: 12px; letter-spacing: 0.03em;
+      color: var(--warn); border: 1px solid rgba(229, 192, 123, 0.45);
+      border-radius: 6px; padding: 1px 8px; margin-left: 8px; vertical-align: 1px;
     }
     .tag.tag-rouge { color: var(--danger); border-color: rgba(224, 138, 144, 0.5); }
     .tag.tag-stock { color: var(--ok); border-color: rgba(133, 201, 171, 0.45); }
-    .art-prix { color: var(--accent); font-size: 15px; white-space: nowrap; }
-    .art-prix.off { color: var(--faded); }
-    .art-btns { display: flex; gap: 6px; align-items: center; }
-    .art-btns button { font-size: 14.5px; padding: 8px 14px; }
-    .add-row { margin-top: 16px; }
-    .vide { color: var(--faded); font-size: 15px; margin: 14px 0 0; }
+    .art-modif { flex-shrink: 0; }
+
+    .add-rayon { margin-top: 24px; }
+    .recherche-zone { margin-top: 22px; }
+    .search-admin { border-radius: 999px; padding: 15px 22px; }
 
     /* ---- Fenêtre modale ---- */
     .modal {
       position: fixed; inset: 0; z-index: 100;
-      background: rgba(10, 8, 13, 0.78); backdrop-filter: blur(5px);
+      background: rgba(10, 8, 13, 0.8); backdrop-filter: blur(5px);
       display: flex; align-items: flex-start; justify-content: center;
-      padding: 4vh 16px; overflow: auto;
+      padding: 3vh 14px; overflow: auto;
     }
     .modal-box {
       background: var(--panel); border: 1px solid var(--border);
-      border-radius: 18px; padding: 28px; width: 100%; max-width: 560px;
+      border-radius: 22px; padding: 28px; width: 100%; max-width: 560px;
       box-shadow: 0 30px 80px rgba(0, 0, 0, 0.6);
     }
     .modal-box.large { max-width: 900px; }
-    .modal-box h2 {
-      font-family: 'Cormorant Garamond', serif; font-weight: 600;
-      font-size: 27px; margin: 0 0 4px;
-    }
+    .modal-box h2 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 29px; margin: 0 0 4px; }
     .modal-cols { display: grid; grid-template-columns: 1fr 250px; gap: 30px; }
     @media (max-width: 760px) { .modal-cols { grid-template-columns: 1fr; } }
-    .form-actions { display: flex; gap: 12px; margin-top: 26px; align-items: center; }
+    .form-actions { display: flex; gap: 12px; margin-top: 28px; align-items: center; flex-wrap: wrap; }
     .form-actions .spacer { flex: 1; }
 
-    /* ---- Aperçu en direct ---- */
-    .preview-titre {
-      font-size: 12px; letter-spacing: 0.22em; text-transform: uppercase;
-      color: var(--faded); margin: 18px 0 10px;
-    }
-    .preview-card {
-      background: rgba(236, 231, 225, 0.03);
-      border: 1px solid rgba(236, 231, 225, 0.09);
-      border-radius: 14px; overflow: hidden;
-    }
-    .preview-card .ph {
-      width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;
-      background: radial-gradient(ellipse at 50% 40%, rgba(147, 102, 204, 0.12), transparent 70%);
-    }
-    .preview-card .ph.vide2 {
-      display: flex; align-items: center; justify-content: center;
-      font-size: 26px; color: rgba(236, 231, 225, 0.25);
-    }
+    /* ---- Aperçu ---- */
+    .preview-titre { font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--faded); margin: 18px 0 10px; }
+    .preview-card { background: rgba(236, 231, 225, 0.03); border: 1px solid rgba(236, 231, 225, 0.09); border-radius: 16px; overflow: hidden; }
+    .preview-card .ph { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block; background: radial-gradient(ellipse at 50% 40%, rgba(147, 102, 204, 0.12), transparent 70%); }
+    .preview-card .ph.vide2 { display: flex; align-items: center; justify-content: center; font-size: 26px; color: rgba(236, 231, 225, 0.25); }
     .preview-body { padding: 14px 16px 16px; }
-    .preview-body h4 {
-      font-family: 'Cormorant Garamond', serif; font-weight: 600;
-      font-size: 19px; margin: 0 0 3px; overflow-wrap: anywhere;
-    }
-    .preview-prix { color: var(--accent); font-size: 14px; margin-bottom: 5px; }
-    .preview-body p {
-      margin: 0; font-size: 13px; color: var(--ink-soft);
-      overflow-wrap: anywhere; display: -webkit-box;
-      -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
-    }
+    .preview-body h4 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 20px; margin: 0 0 3px; overflow-wrap: anywhere; }
+    .preview-prix { color: var(--accent); font-size: 15px; margin-bottom: 5px; }
+    .preview-body p { margin: 0; font-size: 13.5px; color: var(--ink-soft); overflow-wrap: anywhere; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
-    /* ---- Barre de publication ---- */
+    /* ---- Barre du bas ---- */
     #statusbar {
       position: fixed; bottom: 0; left: 0; right: 0; z-index: 60;
-      padding: 14px 20px;
-      background: rgba(15, 13, 18, 0.92); backdrop-filter: blur(8px);
+      padding: 15px 18px; background: rgba(15, 13, 18, 0.94); backdrop-filter: blur(10px);
       border-top: 1px solid var(--border);
-      display: flex; align-items: center; gap: 14px;
     }
-    #statusbar .inner {
-      max-width: 880px; margin: 0 auto; width: 100%;
-      display: flex; align-items: center; gap: 14px;
-    }
-    .etat { display: flex; align-items: center; gap: 9px; font-size: 15px; }
-    .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--ok); flex-shrink: 0; }
-    .dot.dirty { background: var(--warn); }
+    #statusbar .inner { max-width: 820px; margin: 0 auto; display: flex; align-items: center; gap: 14px; }
+    .etat { display: flex; align-items: center; gap: 10px; font-size: 16px; }
+    .dot { width: 12px; height: 12px; border-radius: 50%; background: var(--ok); flex-shrink: 0; }
+    .dot.dirty { background: var(--warn); box-shadow: 0 0 0 4px rgba(229,192,123,0.18); }
     #statusbar .spacer { flex: 1; }
-    #btn-publish { padding: 13px 26px; font-size: 16px; }
+    #btn-publish { padding: 15px 28px; font-size: 17px; }
 
-    /* ---- Divers ---- */
     .hidden { display: none !important; }
     .login-card { max-width: 460px; margin: 40px auto 0; }
-    details.reglages { margin-top: 34px; }
-    details.reglages > summary {
-      color: var(--faded); font-size: 13.5px; cursor: pointer;
-      list-style-position: inside;
-    }
-    .help { font-size: 14px; color: var(--muted); }
+    details.reglages { margin-top: 40px; }
+    details.reglages > summary { color: var(--faded); font-size: 14px; cursor: pointer; }
+    .help { font-size: 15px; color: var(--muted); }
     .help ol { padding-left: 20px; } .help li { margin-bottom: 6px; }
-    .msg { font-size: 14.5px; color: var(--muted); margin-top: 12px; min-height: 1em; }
+    .msg { font-size: 15px; color: var(--muted); margin-top: 12px; min-height: 1em; }
     .msg.ok { color: var(--ok); }
     .msg.err { color: var(--danger); }
-    .thumb-preview { max-width: 150px; border-radius: 10px; margin-top: 10px; display: block; }
+    .thumb-preview { max-width: 160px; border-radius: 12px; margin-top: 10px; display: block; }
   </style>
 </head>
 <body>
   <div class="wrap">
     <div class="sub">La Géode — Le Showroom</div>
-    <h1>Mon catalogue</h1>
+    <h1>Ma boutique</h1>
 
     <!-- Connexion -->
     <div id="login" class="card login-card">
-      <h2 style="font-family:'Cormorant Garamond',serif;font-weight:600;font-size:26px;margin:0 0 14px">Bonjour !</h2>
-      <label for="password" style="margin-top:0">Mot de passe</label>
+      <h2 style="font-family:'Cormorant Garamond',serif;font-weight:600;font-size:28px;margin:0 0 14px">Bonjour !</h2>
+      <label for="password" style="margin-top:0">Votre mot de passe</label>
       <input type="password" id="password" autocomplete="current-password">
       <div class="form-actions">
-        <button class="primary" id="btn-login-pass" style="width:100%">Ouvrir mon catalogue</button>
+        <button class="primary gros" id="btn-login-pass">Ouvrir ma boutique</button>
       </div>
       <p class="msg" id="login-msg"></p>
       <details class="reglages">
@@ -254,10 +242,9 @@
             <button id="btn-login">Se connecter avec le code</button>
           </div>
           <ol>
-            <li>github.com (compte propriétaire) : Settings → Developer settings → Personal access tokens → <b>Fine-grained tokens</b> → Generate new token</li>
-            <li>Nom « Admin La Géode », expiration 1 an, Repository access : <b>Only select repositories → la-geode</b></li>
-            <li>Permissions → <b>Contents : Read and write</b></li>
-            <li>Une fois connecté, définissez le mot de passe dans « Réglages installateur » en bas de page</li>
+            <li>github.com (compte propriétaire) : Settings → Developer settings → Personal access tokens → <b>Fine-grained tokens</b></li>
+            <li>Repository access : <b>Only select repositories → la-geode</b> ; Permissions → <b>Contents : Read and write</b></li>
+            <li>Une fois connecté, définissez le mot de passe dans « Réglages installateur » en bas</li>
           </ol>
         </div>
       </details>
@@ -265,17 +252,35 @@
 
     <!-- Éditeur -->
     <div id="editor" class="hidden">
-      <nav class="tabs" id="tabs"></nav>
-      <input id="admin-search" class="search-admin" type="search"
-             placeholder="🔍  Retrouver un article… (nom, famille)"
-             aria-label="Retrouver un article">
-      <div id="content"></div>
+      <div class="explain">
+        <h2>Comment ça marche&nbsp;?</h2>
+        <p>Votre site est comme votre magasin. Il a <b>4 grands univers</b>. Dans chaque univers, vous créez des <b>rayons</b> (par exemple «&nbsp;Bracelets&nbsp;»), et dans chaque rayon vous rangez vos <b>articles</b>.</p>
+        <p style="color:var(--faded);font-size:15px">Tout ce que vous ajoutez ici apparaît sur le vrai site, quelques minutes après avoir cliqué «&nbsp;Mettre en ligne&nbsp;».</p>
+        <div class="steps">
+          <span class="st">🏬 Univers</span><span class="fl">→</span>
+          <span class="st">🗂️ Rayon</span><span class="fl">→</span>
+          <span class="st">💎 Article</span>
+        </div>
+      </div>
+
+      <div class="univers-choix">
+        <div class="titre-guide">1. Choisissez où vous voulez ranger vos articles :</div>
+        <div class="univers-grid" id="univers-grid"></div>
+      </div>
+
+      <div id="contenu"></div>
+
+      <div class="recherche-zone">
+        <input id="admin-search" class="search-admin" type="search"
+               placeholder="🔍  Retrouver un de mes articles…" aria-label="Retrouver un article">
+        <div id="resultats-recherche"></div>
+      </div>
 
       <details class="reglages">
         <summary>Réglages installateur</summary>
         <div class="card">
           <h2 style="font-family:'Cormorant Garamond',serif;font-size:22px;margin:0">Mot de passe de connexion</h2>
-          <p class="help">Définir ou changer le mot de passe utilisable depuis n'importe quel ordinateur. Choisissez une petite phrase de 3-4 mots.</p>
+          <p class="help">Définir ou changer le mot de passe. Choisissez une petite phrase de 3-4 mots.</p>
           <label for="np1">Nouveau mot de passe</label>
           <input type="password" id="np1" autocomplete="new-password">
           <label for="np2">Confirmer</label>
@@ -293,11 +298,11 @@
 
   <div id="statusbar" class="hidden">
     <div class="inner">
-      <div class="etat"><span class="dot" id="dot"></span><span id="etat-txt">Tout est publié</span></div>
+      <div class="etat"><span class="dot" id="dot"></span><span id="etat-txt">Tout est en ligne</span></div>
       <span class="msg" id="status-msg" style="margin:0"></span>
       <span class="spacer"></span>
-      <button id="btn-logout" class="subtle">Déconnexion</button>
-      <button class="primary" id="btn-publish" disabled>Publier sur le site</button>
+      <button id="btn-logout" class="mini" style="background:transparent;color:var(--faded)">Quitter</button>
+      <button class="primary" id="btn-publish" disabled>Mettre en ligne</button>
     </div>
   </div>
 

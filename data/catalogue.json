@@ -31,7 +31,17 @@
               "description": "",
               "photo": null,
               "prixBoutique": 12.5,
-              "stock": null
+              "stock": null,
+              "stripeProductId": "prod_V8Zdc1QE9Fwtju",
+              "stripeMode": "live",
+              "stripeNom": "Rouges",
+              "stripeDesc": "",
+              "stripePriceId": "price_1U8IUBLOfCA5mATuQXMWf5C1",
+              "stripePrix": 13.18,
+              "stripeLinkId": "plink_1U8IUBLOfCA5mATuylbQlRxY",
+              "stripe": "https://buy.stripe.com/bJe5kEcoicjX1kc7lD28803",
+              "stripeStock": null,
+              "epuise": false
             }
           ]
         }

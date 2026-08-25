@@ -90,8 +90,18 @@
     .explain .fl { color: var(--accent); font-size: 20px; }
 
     /* ---- Sélecteur d'univers ---- */
-    .univers-choix { margin-top: 26px; }
-    .univers-choix .titre-guide { font-size: 16px; color: var(--muted); margin-bottom: 12px; }
+    .univers-choix { margin-top: 30px; }
+    .section-titre {
+      display: flex; align-items: center; gap: 12px;
+      font-family: 'Cormorant Garamond', serif; font-weight: 600;
+      font-size: 30px; margin: 0 0 16px;
+    }
+    .section-titre .num {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 36px; height: 36px; border-radius: 50%;
+      background: var(--accent); color: #16131a; font-family: 'Jost', sans-serif;
+      font-size: 19px; font-weight: 500; flex-shrink: 0;
+    }
     .univers-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; }
     .u-btn {
       position: relative; text-align: left; padding: 20px;
@@ -264,7 +274,7 @@
       </div>
 
       <div class="univers-choix">
-        <div class="titre-guide">1. Choisissez où vous voulez ranger vos articles :</div>
+        <h2 class="section-titre"><span class="num">1</span> Choisissez votre univers</h2>
         <div class="univers-grid" id="univers-grid"></div>
       </div>
 

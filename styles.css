@@ -422,6 +422,74 @@ a.univers-panel {
 }
 
 /* --------------------------------------------------------------------------
+   Section réseaux sociaux « Suivez-nous »
+   -------------------------------------------------------------------------- */
+
+.reseaux {
+  padding: 12vh 6vw;
+  background:
+    radial-gradient(ellipse at 20% 20%, rgba(147, 102, 204, 0.12), transparent 55%),
+    radial-gradient(ellipse at 85% 80%, rgba(214, 140, 168, 0.1), transparent 55%),
+    #100e14;
+  text-align: center;
+}
+
+.reseaux-inner { max-width: 760px; margin: 0 auto; }
+
+.reseaux h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 500;
+  font-size: clamp(32px, 4vw, 52px);
+  margin: 0 0 14px;
+}
+
+.reseaux-intro {
+  color: var(--muted);
+  font-size: 17px;
+  margin: 0 auto 40px;
+  max-width: 52ch;
+}
+
+.reseaux-btns {
+  display: flex;
+  gap: 18px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.reseau-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 15px 28px;
+  border-radius: 999px;
+  border: 1px solid rgba(236, 231, 225, 0.18);
+  background: rgba(236, 231, 225, 0.04);
+  color: var(--ink);
+  font-size: 16.5px;
+  letter-spacing: 0.02em;
+  transition: transform 0.25s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.25s, background 0.25s, color 0.25s;
+}
+
+.reseau-btn svg { width: 24px; height: 24px; }
+.reseau-btn span { font-weight: 400; }
+.reseau-btn em { color: var(--faded); font-style: normal; font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; margin-left: 2px; }
+
+.reseau-btn:hover {
+  transform: translateY(-3px);
+  color: var(--ink);
+}
+
+.rs-fb:hover { border-color: #4c6ef5; background: rgba(76, 110, 245, 0.14); }
+.rs-tk:hover { border-color: #ff2e56; background: rgba(255, 46, 86, 0.12); }
+.rs-ig:hover { border-color: #d6549a; background: rgba(214, 84, 154, 0.12); }
+
+.reseau-btn.disabled {
+  pointer-events: none;
+  opacity: 0.55;
+}
+
+/* --------------------------------------------------------------------------
    Histoire plein écran
    -------------------------------------------------------------------------- */
 

@@ -1093,11 +1093,23 @@ a.item-card { display: block; color: inherit; }
   white-space: pre-line;
 }
 
+.retrait-info {
+  margin-top: 24px;
+  padding: 14px 18px;
+  background: rgba(133, 201, 171, 0.1);
+  border: 1px solid rgba(133, 201, 171, 0.35);
+  border-radius: 14px;
+  font-size: 15.5px;
+  color: var(--ink-soft);
+}
+
+.retrait-info b { color: var(--ink); }
+
 .article-ctas {
   display: flex;
   gap: 14px;
   flex-wrap: wrap;
-  margin-top: 30px;
+  margin-top: 22px;
 }
 
 .article-note {

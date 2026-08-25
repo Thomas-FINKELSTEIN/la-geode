@@ -155,6 +155,11 @@ async function syncArticle(art) {
       'line_items[0][price]': art.stripePriceId,
       'line_items[0][quantity]': '1',
       'billing_address_collection': 'auto',
+      // Message bien visible AU-DESSUS du bouton de paiement Stripe
+      'custom_text[submit][message]':
+        'RETRAIT EN BOUTIQUE UNIQUEMENT — aucune livraison. Vous récupérez votre article ' +
+        'au showroom, 15 Avenue du Maréchal Joffre, 66740 Saint-Génis-des-Fontaines. ' +
+        'Nous vous prévenons dès qu\'il est prêt.',
       'after_completion[type]': 'hosted_confirmation',
       'after_completion[hosted_confirmation][custom_message]': MESSAGE_CONFIRMATION
     };

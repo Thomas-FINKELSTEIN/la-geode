@@ -155,6 +155,10 @@ async function syncArticle(art) {
       'line_items[0][price]': art.stripePriceId,
       'line_items[0][quantity]': '1',
       'billing_address_collection': 'auto',
+      // Case à cocher obligatoire « J'accepte les conditions de vente » avant paiement.
+      // (Le lien vers les CGV se règle une fois dans Stripe : Paramètres → Informations
+      //  publiques → Conditions d'utilisation → https://lageode66.fr/conditions-de-vente/)
+      'consent_collection[terms_of_service]': 'required',
       // Message bien visible AU-DESSUS du bouton de paiement Stripe
       'custom_text[submit][message]':
         'RETRAIT EN BOUTIQUE UNIQUEMENT — aucune livraison. Vous récupérez votre article ' +

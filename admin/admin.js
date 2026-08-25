@@ -161,6 +161,99 @@
       'Sur iPhone : Réglages → Appareil photo → Formats → « Le plus compatible ».');
   }
 
+  // Outil de recadrage : la gérante choisit la zone visible (cadre 4:3, comme
+  // les vignettes du site). Renvoie le base64 JPEG recadré, ou null si annulé.
+  var CROP_W = 1200, CROP_H = 900;
+
+  function cropImage(file) {
+    return new Promise(function (resolve, reject) {
+      var img = new Image();
+      var url = URL.createObjectURL(file);
+      img.onload = function () { construireCropper(img, url, resolve); };
+      img.onerror = function () { URL.revokeObjectURL(url); reject(new Error('illisible')); };
+      img.src = url;
+    });
+  }
+
+  function construireCropper(img, url, resolve) {
+    var natW = img.naturalWidth, natH = img.naturalHeight;
+
+    var overlay = document.createElement('div');
+    overlay.className = 'crop-modal';
+    overlay.innerHTML =
+      '<div class="crop-box">' +
+      '<h2>Cadrez votre photo</h2>' +
+      '<p class="hint" style="margin:0 0 4px">Glissez la photo pour la déplacer, et utilisez le curseur pour zoomer. La zone dans le cadre sera affichée sur le site.</p>' +
+      '<div class="crop-viewport" id="crop-vp"></div>' +
+      '<div class="crop-zoom">🔍 <input type="range" id="crop-zoom" min="1" max="4" step="0.01" value="1"></div>' +
+      '<div class="form-actions"><button type="button" class="primary" id="crop-ok">Valider le cadrage</button>' +
+      '<button type="button" id="crop-cancel">Annuler</button></div>' +
+      '</div>';
+    $('modal-root').appendChild(overlay);
+
+    var vp = $('crop-vp');
+    img.className = 'crop-img';
+    img.draggable = false;
+    vp.appendChild(img);
+
+    var FW = vp.clientWidth, FH = vp.clientHeight;
+    var cover = Math.max(FW / natW, FH / natH);
+    var zoom = 1, posX = 0, posY = 0;
+
+    function dispW() { return natW * cover * zoom; }
+    function dispH() { return natH * cover * zoom; }
+    function clamp() {
+      posX = Math.min(0, Math.max(FW - dispW(), posX));
+      posY = Math.min(0, Math.max(FH - dispH(), posY));
+    }
+    function apply() {
+      img.style.width = dispW() + 'px';
+      img.style.height = dispH() + 'px';
+      img.style.left = posX + 'px';
+      img.style.top = posY + 'px';
+    }
+    // Centrage initial
+    posX = (FW - dispW()) / 2;
+    posY = (FH - dispH()) / 2;
+    apply();
+
+    $('crop-zoom').addEventListener('input', function () {
+      var cx = (FW / 2 - posX) / dispW();
+      var cy = (FH / 2 - posY) / dispH();
+      zoom = Number(this.value);
+      posX = FW / 2 - cx * dispW();
+      posY = FH / 2 - cy * dispH();
+      clamp(); apply();
+    });
+
+    var dragging = false, sx = 0, sy = 0;
+    vp.addEventListener('pointerdown', function (e) {
+      dragging = true; sx = e.clientX; sy = e.clientY;
+      vp.setPointerCapture(e.pointerId);
+    });
+    vp.addEventListener('pointermove', function (e) {
+      if (!dragging) return;
+      posX += e.clientX - sx; posY += e.clientY - sy;
+      sx = e.clientX; sy = e.clientY;
+      clamp(); apply();
+    });
+    vp.addEventListener('pointerup', function () { dragging = false; });
+    vp.addEventListener('pointercancel', function () { dragging = false; });
+
+    function fermer() { URL.revokeObjectURL(url); overlay.remove(); }
+
+    $('crop-ok').onclick = function () {
+      var s = dispW() / natW; // échelle natif → affiché
+      var srcX = (-posX) / s, srcY = (-posY) / s, srcW = FW / s, srcH = FH / s;
+      var canvas = document.createElement('canvas');
+      canvas.width = CROP_W; canvas.height = CROP_H;
+      canvas.getContext('2d').drawImage(img, srcX, srcY, srcW, srcH, 0, 0, CROP_W, CROP_H);
+      var b64 = canvas.toDataURL('image/jpeg', PHOTO_QUALITY).split(',')[1];
+      fermer(); resolve(b64);
+    };
+    $('crop-cancel').onclick = function () { fermer(); resolve(null); };
+  }
+
   function photoSrcAdmin(photo) {
     if (!photo) return null;
     if (state.pendingPhotos[photo]) return 'data:image/jpeg;base64,' + state.pendingPhotos[photo];
@@ -530,7 +623,10 @@
     $('af-photo').addEventListener('change', function () {
       var f = $('af-photo').files[0];
       if (!f) return;
-      resizePhoto(f).then(function (b64) { photoTemp = b64; maj(); }).catch(function () { $('af-photo').value = ''; alertePhoto(); });
+      cropImage(f).then(function (b64) {
+        if (b64) { photoTemp = b64; maj(); }
+        else { $('af-photo').value = ''; }   // annulé : on remet à zéro le champ
+      }).catch(function () { $('af-photo').value = ''; alertePhoto(); });
     });
 
     $('article-form').onsubmit = function (ev) {

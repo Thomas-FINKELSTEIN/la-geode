@@ -20,30 +20,10 @@
       "nom": "Minéraux",
       "familles": [
         {
-          "id": "bracelets-mt8kw81bu2t3",
+          "id": "bracelets-mt8rwog7r3mr",
           "nom": "Bracelets",
           "slogan": "",
-          "articles": [
-            {
-              "id": "rouges-mt8kwe30ju8n",
-              "nom": "Rouges",
-              "prix": 13.18,
-              "description": "",
-              "photo": "images/articles/rouges-mt8l8cqp33bl.jpg",
-              "prixBoutique": 12.5,
-              "stock": null,
-              "stripeProductId": "prod_V8Zdc1QE9Fwtju",
-              "stripeMode": "live",
-              "stripeNom": "Rouges",
-              "stripeDesc": "",
-              "stripePriceId": "price_1U8IUBLOfCA5mATuQXMWf5C1",
-              "stripePrix": 13.18,
-              "stripeLinkId": "plink_1U8IUBLOfCA5mATuylbQlRxY",
-              "stripe": "https://buy.stripe.com/bJe5kEcoicjX1kc7lD28803",
-              "stripeStock": null,
-              "epuise": false
-            }
-          ]
+          "articles": []
         }
       ]
     },

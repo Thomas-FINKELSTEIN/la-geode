@@ -489,7 +489,7 @@
       '<p class="hint" id="af-prix-hint"></p>' +
       '<label>Combien en avez-vous à vendre en ligne ?</label>' +
       '<input id="af-stock" inputmode="numeric" placeholder="ex : 3" value="' + esc(art && art.stock != null ? art.stock : '') + '">' +
-      '<p class="hint">Une fois ce nombre vendu, l\'article passe « épuisé » tout seul. Laissez vide si vous en avez toujours.</p>' +
+      '<p class="hint">Obligatoire dès que vous mettez un prix. Une fois ce nombre vendu, l\'article passe « épuisé » tout seul. Si vous en avez beaucoup, mettez un grand nombre (ex : 50).</p>' +
       '<label>Description (facultatif)</label>' +
       '<textarea id="af-desc" rows="3" placeholder="Vertus, origine, taille…">' + esc(art ? art.description || '' : '') + '</textarea>' +
       '<label>Photo</label>' +
@@ -541,6 +541,8 @@
       if (ps !== '' && (isNaN(Number(ps)) || Number(ps) < 0)) { alert('Prix invalide — écrivez par exemple : 12,50'); $('af-prix').focus(); return; }
       var ss = $('af-stock').value.trim().replace(/\s/g, '');
       if (ss !== '' && (!/^\d+$/.test(ss) || Number(ss) < 0)) { alert('Quantité invalide — écrivez un nombre entier, par exemple : 3'); $('af-stock').focus(); return; }
+      // Quantité obligatoire quand l'article a un prix (évite un stock illimité par oubli).
+      if (ps !== '' && ss === '') { alert('Indiquez combien vous en avez à vendre en ligne (le nombre d\'exemplaires). Si vous en avez beaucoup, mettez un grand nombre, par exemple 50.'); $('af-stock').focus(); return; }
       var target = art || { id: slug(nom) + '-' + uid(), nom: '', prix: null, description: '', photo: null };
       target.nom = nom;
       var pb = ps === '' ? null : Number(ps);

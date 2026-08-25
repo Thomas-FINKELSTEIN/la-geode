@@ -19,6 +19,21 @@
   var PHOTO_MAX = 1200;
   var PHOTO_QUALITY = 0.82;
 
+  // Frais de paiement en ligne : on couvre la commission Stripe la plus élevée
+  // (carte étrangère : 3,25 % + 0,25 €) pour ne jamais perdre, quelle que soit
+  // la carte du client. Le prix en ligne est le même pour tout le monde (légal ;
+  // ce n'est pas un supplément selon la carte, interdit en France).
+  var COMMISSION_PCT = 0.0325;
+  var COMMISSION_FIXE = 0.25;
+
+  // Prix à afficher/encaisser en ligne pour toucher net le prix boutique.
+  function prixSite(pb) {
+    if (pb === null || pb === undefined || pb === '' || isNaN(Number(pb))) return null;
+    var n = Number(pb);
+    if (n <= 0) return null;
+    return Math.ceil((n + COMMISSION_FIXE) / (1 - COMMISSION_PCT) * 100) / 100;
+  }
+
   // Les 4 univers, dans l'ordre, avec leur couleur et leur page sur le site.
   var UNIVERS = [
     { key: 'mineraux', nom: 'Minéraux', path: 'mineraux', couleur: '#b795e3' },
@@ -255,11 +270,16 @@
     if (!art.photo) tags += '<span class="tag">sans photo</span>';
     if (art.epuise) tags += '<span class="tag tag-rouge">épuisé</span>';
     else if (art.stock != null) tags += '<span class="tag tag-stock">stock : ' + esc(art.stock) + '</span>';
+    var pb = art.prixBoutique != null ? art.prixBoutique : art.prix;
+    var prixTxt = prixLabel(pb);
+    if (pb != null && art.prix != null && Number(art.prix) !== Number(pb)) {
+      prixTxt += ' <span style="color:var(--faded)">· en ligne ' + Number(art.prix).toLocaleString('fr-FR', { minimumFractionDigits: 2 }) + ' €</span>';
+    }
     row.innerHTML =
       (src ? '<img src="' + esc(src) + '" alt="">' : '<div class="noimg">💎</div>') +
       '<div class="art-info">' +
       '<div class="art-nom">' + esc(art.nom) + '</div>' +
-      '<div class="art-ligne2"><span class="art-prix">' + prixLabel(art.prix) + '</span>' + tags +
+      '<div class="art-ligne2"><span class="art-prix">' + prixTxt + '</span>' + tags +
       (contexte ? ' · ' + esc(contexte) : '') + '</div>' +
       '</div>';
     var btn = document.createElement('button');
@@ -464,9 +484,9 @@
       '<form id="article-form">' +
       '<label style="margin-top:6px">Nom de l\'article</label>' +
       '<input id="af-nom" required value="' + esc(art ? art.nom : '') + '">' +
-      '<label>Prix en €</label>' +
-      '<input id="af-prix" inputmode="decimal" placeholder="ex : 12,50" value="' + esc(art ? prixFr(art.prix) : '') + '">' +
-      '<p class="hint">Laissez vide pour afficher « Prix en boutique » (l\'article ne sera pas vendable en ligne).</p>' +
+      '<label>Prix en boutique (€)</label>' +
+      '<input id="af-prix" inputmode="decimal" placeholder="ex : 12,50" value="' + esc(art ? prixFr(art.prixBoutique != null ? art.prixBoutique : art.prix) : '') + '">' +
+      '<p class="hint" id="af-prix-hint"></p>' +
       '<label>Combien en avez-vous à vendre en ligne ?</label>' +
       '<input id="af-stock" inputmode="numeric" placeholder="ex : 3" value="' + esc(art && art.stock != null ? art.stock : '') + '">' +
       '<p class="hint">Une fois ce nombre vendu, l\'article passe « épuisé » tout seul. Laissez vide si vous en avez toujours.</p>' +
@@ -488,10 +508,20 @@
     function maj() {
       var nom = $('af-nom').value.trim() || 'Nom de l\'article';
       var ps = $('af-prix').value.trim().replace(/[€\s]/g, '').replace(',', '.');
-      var prix = ps === '' || isNaN(Number(ps)) ? null : Number(ps);
+      var pb = ps === '' || isNaN(Number(ps)) ? null : Number(ps);
+      var enligne = prixSite(pb);
       $('pv-nom').textContent = nom;
-      $('pv-prix').textContent = prixLabel(prix);
+      $('pv-prix').textContent = prixLabel(enligne);
       $('pv-desc').textContent = $('af-desc').value.trim();
+      var hint = $('af-prix-hint');
+      if (pb === null) {
+        hint.innerHTML = 'Laissez vide pour afficher « Prix en boutique » (l\'article ne sera pas vendable en ligne).';
+        hint.style.color = '';
+      } else {
+        hint.innerHTML = '💳 Prix affiché et payé <b>sur le site : ' + enligne.toLocaleString('fr-FR', { minimumFractionDigits: 2 }) +
+          ' €</b> — vos ' + pb.toLocaleString('fr-FR') + ' € + les frais de paiement en ligne (calculés sur la commission la plus élevée, pour ne jamais perdre).';
+        hint.style.color = 'var(--accent-soft)';
+      }
       var src = photoTemp ? 'data:image/jpeg;base64,' + photoTemp : photoSrcAdmin(art ? art.photo : null);
       $('pv-ph').innerHTML = src ? '<img class="ph" src="' + esc(src) + '" alt="">' : '<div class="ph vide2">💎</div>';
     }
@@ -513,7 +543,9 @@
       if (ss !== '' && (!/^\d+$/.test(ss) || Number(ss) < 0)) { alert('Quantité invalide — écrivez un nombre entier, par exemple : 3'); $('af-stock').focus(); return; }
       var target = art || { id: slug(nom) + '-' + uid(), nom: '', prix: null, description: '', photo: null };
       target.nom = nom;
-      target.prix = ps === '' ? null : Number(ps);
+      var pb = ps === '' ? null : Number(ps);
+      target.prixBoutique = pb;        // ce que la gérante saisit
+      target.prix = prixSite(pb);      // prix affiché/encaissé en ligne (frais inclus)
       target.stock = ss === '' ? null : Number(ss);
       target.description = $('af-desc').value.trim();
       if (photoTemp) {

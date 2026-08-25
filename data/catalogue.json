@@ -23,7 +23,16 @@
           "id": "spheres-mt1swa7ztui3",
           "nom": "Sphères",
           "slogan": "",
-          "articles": []
+          "articles": [
+            {
+              "id": "pierres-mt8k7v85sxzp",
+              "nom": "Pierres",
+              "prix": 12.5,
+              "description": "",
+              "photo": null,
+              "stock": 3
+            }
+          ]
         }
       ]
     },

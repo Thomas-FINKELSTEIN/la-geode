@@ -5,9 +5,9 @@
 
 ## Se connecter
 
-1. Ouvrir la page : **https://thomas-finkelstein.github.io/la-geode/admin/**
+1. Ouvrir la page : **https://lageode66.fr/admin/**
    (à mettre en favori — elle marche depuis n'importe quel ordinateur)
-2. Taper le **mot de passe** et cliquer « Ouvrir mon catalogue »
+2. Taper le **mot de passe** et cliquer « Ouvrir ma boutique »
 3. C'est tout — la connexion reste active sur cet ordinateur
 
 ## L'idée en une phrase
@@ -30,30 +30,26 @@ permanence : Univers → Rayon → Article.
 
 ## Ajouter un article
 
-1. Choisir l'univers, trouver la bonne famille
+1. Choisir l'univers (un des 4 grands boutons), trouver le bon rayon
 2. Cliquer **« Ajouter un article dans ce rayon »** — une fenêtre s'ouvre
-3. Remplir : nom (obligatoire), prix en € (ex : `12,50` — ou vide pour
-   afficher « Prix en boutique »), **quantité en stock** (voir plus bas),
+3. Remplir : nom, prix en € (ex : `12,50` — ou vide pour afficher
+   « Prix en boutique »), **quantité en stock** (voir plus bas),
    description, photo
 4. **L'aperçu à droite montre en direct** à quoi ressemblera l'article
    sur le site — ce que vous voyez, c'est ce que verront les clients
-5. Cliquer **« Ajouter au catalogue »**
+5. Cliquer **« Ajouter au rayon »**
 6. Quand vous avez fini votre série d'ajouts : **« Mettre en ligne »**
-
-💡 **Astuce gain de temps** : pour créer des articles qui se ressemblent
-(ex : bracelets en différentes pierres), cliquez **« Dupliquer »** sur un
-article existant — il ne reste qu'à changer le nom, le prix et la photo.
 
 ## Modifier ou supprimer
 
 - **Un article** : bouton « Modifier » sur sa ligne — la fenêtre s'ouvre
   avec tout pré-rempli. Le bouton **« Supprimer »** est dans cette fenêtre
   (en rouge), avec une confirmation.
-- **Une famille** : bouton « Modifier » sur la ligne de la famille (nom et
-  petite phrase). La suppression est là aussi.
-- **L'ordre d'affichage** : flèches ↑ ↓ sur chaque ligne.
-- **Repères** : une pastille jaune « sans photo » signale les articles sans
-  image ; un prix gris « Prix en boutique » signale les articles sans prix.
+- **Un rayon** : bouton « Renommer ce rayon » (nom et petite phrase) ; la
+  suppression du rayon est dans cette même fenêtre.
+- **Repères** : une pastille « sans photo » signale les articles sans image ;
+  « stock : 3 » indique la quantité en vente en ligne ; « épuisé » en rouge
+  quand tout est vendu.
 
 ## Le stock (vente en ligne)
 
@@ -73,29 +69,29 @@ vente en ligne :
   en ligne, pensez à baisser sa quantité (ou la mettre à 0) dans l'admin.
 - L'article repasse en vente si vous **augmentez** la quantité.
 
-## Les actualités (affiches de la page d'accueil)
+## Les affiches & promos (page d'accueil)
 
-Onglet **Actualités** : ajoutez une affiche (photo), un titre, et si l'offre
-a une date de fin, indiquez-la — **l'annonce disparaîtra du site toute seule
-après cette date**. Sans date, elle reste jusqu'à ce que vous la supprimiez.
+Bouton **« Affiches & promos »** : ajoutez une affiche (photo), un titre, et si
+l'offre a une date de fin, indiquez-la — **l'affiche disparaîtra du site toute
+seule après cette date**. Sans date, elle reste jusqu'à ce que vous la supprimiez.
 
 ## Publier — le point important
 
 Les modifications ne sont **pas en ligne tant que vous n'avez pas cliqué
 « Mettre en ligne »**. La barre du bas vous le rappelle :
-- 🟢 « Tout est publié » = le site est à jour
-- 🟡 « X modifications à publier » = pensez à publier !
+- 🟢 « Tout est en ligne » = le site est à jour
+- 🟡 « X changements à mettre en ligne » = pensez à cliquer !
 
-Vous pouvez faire 20 modifications puis publier une seule fois à la fin —
-c'est même mieux. Après publication, comptez **1 à 2 minutes**.
+Vous pouvez faire 20 modifications puis mettre en ligne une seule fois à la
+fin — c'est même mieux. Comptez ensuite **1 à 2 minutes**.
 
 ## Comment les articles apparaissent sur le site
 
-Sur chaque page univers, les visiteurs voient d'abord les **familles**.
-En cliquant sur une famille, ils ne voient que ses articles (les autres
-s'effacent) ; un bouton « Afficher toutes les familles » les fait revenir.
-Ils peuvent aussi utiliser la recherche, qui fouille tout le catalogue.
-Chaque article a sa propre page, avec sa photo en grand.
+Sur chaque page univers, les visiteurs voient tous les articles, regroupés
+par rayon. En haut, des boutons (un par rayon) leur permettent de n'afficher
+qu'un rayon à la fois. Ils peuvent aussi chercher un article. Chaque article a
+sa propre page, avec sa photo en grand. Le lien **« Voir sur le site ↗ »** dans
+l'admin vous montre exactement ce rendu.
 
 ## Conseils photos
 

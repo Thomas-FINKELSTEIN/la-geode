@@ -232,6 +232,14 @@
     markDirty(); render();
   }
 
+  function supprimerRayon(theme, fam) {
+    var n = (fam.articles || []).length;
+    if (confirm('Supprimer le rayon « ' + fam.nom + ' »' + (n ? ' et ses ' + n + ' article(s)' : '') + ' ?')) {
+      theme.familles.splice(theme.familles.indexOf(fam), 1);
+      markDirty(); render();
+    }
+  }
+
   function dupliquer(fam, art) {
     var copie = { id: slug(art.nom) + '-' + uid(), nom: art.nom + ' (copie)', prix: art.prix, stock: null, description: art.description || '', photo: art.photo || null };
     fam.articles.splice(fam.articles.indexOf(art) + 1, 0, copie);
@@ -294,11 +302,19 @@
         '<div class="etiq">Rayon</div>' +
         '<h3>' + esc(fam.nom) + '  <span style="color:var(--faded);font-size:16px;font-family:\'Jost\',sans-serif;font-weight:300">(' + n + ' article' + (n > 1 ? 's' : '') + ')</span></h3>' +
         '</div>';
+      var actionsRayon = document.createElement('div');
+      actionsRayon.className = 'rayon-actions';
       var btnRayon = document.createElement('button');
       btnRayon.className = 'mini';
-      btnRayon.textContent = 'Renommer ce rayon';
+      btnRayon.textContent = 'Renommer';
       btnRayon.onclick = function () { openRayonForm(theme, fam); };
-      tete.appendChild(btnRayon);
+      actionsRayon.appendChild(btnRayon);
+      var btnDel = document.createElement('button');
+      btnDel.className = 'mini suppr';
+      btnDel.textContent = 'Supprimer';
+      btnDel.onclick = function () { supprimerRayon(theme, fam); };
+      actionsRayon.appendChild(btnDel);
+      tete.appendChild(actionsRayon);
       carte.appendChild(tete);
 
       if (fam.slogan) {
@@ -535,8 +551,6 @@
       '<div class="form-actions">' +
       '<button type="submit" class="primary">' + (fam ? 'Enregistrer' : 'Créer le rayon') + '</button>' +
       '<button type="button" id="rf-cancel">Annuler</button>' +
-      '<span class="spacer"></span>' +
-      (fam ? '<button type="button" class="danger-link" id="rf-delete">Supprimer ce rayon</button>' : '') +
       '</div></form>');
 
     $('rayon-form').onsubmit = function (ev) {
@@ -548,14 +562,6 @@
       markDirty(); closeModal(); render();
     };
     box.querySelector('#rf-cancel').onclick = closeModal;
-    var del = box.querySelector('#rf-delete');
-    if (del) del.onclick = function () {
-      var n = (fam.articles || []).length;
-      if (confirm('Supprimer le rayon « ' + fam.nom + ' »' + (n ? ' et ses ' + n + ' article(s)' : '') + ' ?')) {
-        theme.familles.splice(theme.familles.indexOf(fam), 1);
-        markDirty(); closeModal(); render();
-      }
-    };
     $('rf-nom').focus();
   }
 

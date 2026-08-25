@@ -42,7 +42,17 @@
               "description": "3 cm de diamètre",
               "photo": "images/articles/donuts-oeil-de-focon-mt8tozaajdf4.jpg",
               "prixBoutique": 12.95,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_V8dbg2a28JqfFa",
+              "stripeMode": "live",
+              "stripeNom": "Donuts oeil de focon",
+              "stripeDesc": "3 cm de diamètre",
+              "stripePriceId": "price_1U8MKOLOfCA5mATuoTE62oZM",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1U8MKPLOfCA5mATu9HWsXdqb",
+              "stripe": "https://buy.stripe.com/dRm3cwdsm97L9QIfS928804",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

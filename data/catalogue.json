@@ -31,28 +31,20 @@
       "nom": "Bijoux en pierres naturelles",
       "familles": [
         {
-          "id": "bracelets",
-          "nom": "Bracelets",
-          "slogan": "Une large gamme aux différentes propriétés : agate, améthyste, œil de tigre, lapis-lazuli, quartz rose…",
-          "articles": []
-        },
-        {
           "id": "pendentifs",
           "nom": "Pendentifs",
           "slogan": "Habillez votre cou de vertus qui vous correspondent.",
-          "articles": []
-        },
-        {
-          "id": "boucles-oreilles",
-          "nom": "Boucles d'oreilles",
-          "slogan": "La touche finale pour sublimer votre apparence.",
-          "articles": []
-        },
-        {
-          "id": "bagues",
-          "nom": "Bagues",
-          "slogan": "Labradorite, pierre de lune et autres pierres véritables serties sur argent.",
-          "articles": []
+          "articles": [
+            {
+              "id": "donuts-oeil-de-focon-mt8tozaa8jjh",
+              "nom": "Donuts oeil de focon",
+              "prix": 13.65,
+              "description": "3 cm de diamètre",
+              "photo": "images/articles/donuts-oeil-de-focon-mt8tozaajdf4.jpg",
+              "prixBoutique": 12.95,
+              "stock": 6
+            }
+          ]
         }
       ]
     },

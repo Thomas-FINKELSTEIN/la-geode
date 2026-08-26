@@ -26,6 +26,9 @@
   var COMMISSION_PCT = 0.0325;
   var COMMISSION_FIXE = 0.25;
 
+  // Adresse du relais IA Cloudflare (voir cloudflare/README.md). Vide = bouton masqué.
+  var IA_WORKER_URL = '';
+
   // Prix à afficher/encaisser en ligne pour toucher net le prix boutique.
   function prixSite(pb) {
     if (pb === null || pb === undefined || pb === '' || isNaN(Number(pb))) return null;
@@ -587,6 +590,7 @@
       '<textarea id="af-desc" rows="3" placeholder="Vertus, origine, taille…">' + esc(art ? art.description || '' : '') + '</textarea>' +
       '<label>Photo</label>' +
       '<input id="af-photo" type="file" accept="image/*">' +
+      (IA_WORKER_URL ? '<button type="button" id="af-ia" class="mini" style="margin-top:12px">✨ Générer le titre et la description avec l\'IA</button><p class="hint" id="af-ia-msg"></p>' : '') +
       '<div class="form-actions">' +
       '<button type="submit" class="primary">' + (art ? 'Enregistrer' : 'Ajouter au rayon') + '</button>' +
       '<button type="button" id="af-cancel">Annuler</button>' +
@@ -628,6 +632,55 @@
         else { $('af-photo').value = ''; }   // annulé : on remet à zéro le champ
       }).catch(function () { $('af-photo').value = ''; alertePhoto(); });
     });
+
+    // Bouton « Générer avec l'IA » : envoie la photo au relais Cloudflare,
+    // remplit le titre + la description (la gérante relit et corrige).
+    var btnIa = box.querySelector('#af-ia');
+    if (btnIa) btnIa.onclick = function () {
+      var msg = $('af-ia-msg');
+      // Récupère la photo : celle qu'on vient de choisir, sinon celle déjà enregistrée.
+      var pImage;
+      if (photoTemp) {
+        pImage = Promise.resolve('data:image/jpeg;base64,' + photoTemp);
+      } else if (art && art.photo) {
+        var src = /^https?:/.test(art.photo) ? art.photo : '../' + art.photo;
+        pImage = fetch(src).then(function (r) { return r.blob(); }).then(function (b) {
+          return new Promise(function (res, rej) {
+            var fr = new FileReader();
+            fr.onload = function () { res(fr.result); };
+            fr.onerror = rej;
+            fr.readAsDataURL(b);
+          });
+        });
+      } else {
+        msg.className = 'msg err';
+        msg.textContent = 'Ajoutez d\'abord une photo, puis cliquez sur ce bouton.';
+        return;
+      }
+
+      btnIa.disabled = true;
+      msg.className = 'msg';
+      msg.textContent = 'Génération en cours… (quelques secondes)';
+
+      pImage.then(function (dataURI) {
+        return fetch(IA_WORKER_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ image: dataURI, indice: $('af-nom').value.trim() })
+        });
+      }).then(function (r) {
+        return r.json().then(function (j) { if (!r.ok) throw new Error(j.erreur || ('Erreur ' + r.status)); return j; });
+      }).then(function (j) {
+        if (j.titre) $('af-nom').value = j.titre;
+        if (j.description) $('af-desc').value = j.description;
+        maj();
+        msg.className = 'msg ok';
+        msg.textContent = 'Proposition générée ✓ — relisez et modifiez si besoin avant d\'enregistrer.';
+      }).catch(function (e) {
+        msg.className = 'msg err';
+        msg.textContent = 'La génération a échoué : ' + e.message;
+      }).finally(function () { btnIa.disabled = false; });
+    };
 
     $('article-form').onsubmit = function (ev) {
       ev.preventDefault();

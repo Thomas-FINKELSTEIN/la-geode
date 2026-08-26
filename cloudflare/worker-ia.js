@@ -83,6 +83,10 @@ export default {
     // Donnees d entree : le titre et la description actuels de la fiche (peuvent etre vides).
     const titreActuel = versTexte(corps.titre || corps.indice).slice(0, 200);
     const descActuelle = versTexte(corps.description).slice(0, 1200);
+    // Titres des autres articles du meme rayon : sert de modele de format.
+    const exemples = Array.isArray(corps.exemples)
+      ? corps.exemples.map(versTexte).filter(Boolean).slice(0, 12)
+      : [];
     if (!image || !/^data:image\//.test(image)) {
       return reponseJson({ erreur: 'Image manquante ou invalide' }, 400, origin);
     }
@@ -104,7 +108,16 @@ export default {
       'lithotherapie (bien-etre, energie, emotions, usage courant). ' +
       'Propose aussi un titre court (2 a 5 mots) avec le nom de la pierre ou du produit ; ' +
       'si le titre actuel contient une dimension ou un poids (par exemple 3cm, 10x5cm, 250g), ' +
-      'tu dois OBLIGATOIREMENT reprendre cette mention telle quelle dans le nouveau titre. ' +
+      'tu dois OBLIGATOIREMENT reprendre cette mention telle quelle dans le nouveau titre. ';
+    if (exemples.length) {
+      consigne +=
+        'Titres des autres articles du meme rayon : ' + exemples.join(' | ') + '. ' +
+        'Le nouveau titre doit suivre EXACTEMENT le meme format que ces titres : ' +
+        'meme ordre des mots (nom de la pierre d abord), memes mots communs (par exemple Donut), ' +
+        'meme facon d ecrire les dimensions (par exemple 3cm en minuscules). ' +
+        'Seul le nom de la pierre change. ';
+    }
+    consigne +=
       'De meme, garde les dimensions presentes dans la description actuelle ; ' +
       'si aucune dimension n est indiquee, ne mentionne aucune dimension. ' +
       'Ecris uniquement des phrases francaises normales, sans aucun caractere special ni mise en forme : ' +

@@ -27,7 +27,7 @@
   var COMMISSION_FIXE = 0.25;
 
   // Adresse du relais IA Cloudflare (voir cloudflare/README.md). Vide = bouton masqué.
-  var IA_WORKER_URL = '';
+  var IA_WORKER_URL = 'https://geode-ia.lageodeshowroom.workers.dev/';
 
   // Prix à afficher/encaisser en ligne pour toucher net le prix boutique.
   function prixSite(pb) {

@@ -38,6 +38,19 @@ function versTexte(v) {
   return String(v);
 }
 
+/* Nettoie le texte de l IA : pas de caracteres speciaux ni de mise en forme
+   (etoiles, tirets doubles, dieses, puces...), juste des phrases francaises. */
+function nettoyer(t) {
+  return t
+    .replace(/[*_`#>]+/g, '')                          // gras, italique, markdown
+    .replace(/\s*(?:--+|[–—])\s*/g, ', ')    // -- et tirets longs -> virgule
+    .replace(/^\s*[-•]\s+/gm, '')                 // puces en debut de ligne
+    .replace(/\s{2,}/g, ' ')
+    .replace(/\s+([,.;:!?])/g, '$1')
+    .replace(/,\s*([.!?])/g, '$1')
+    .trim();
+}
+
 function reponseJson(obj, statut, origin) {
   return new Response(JSON.stringify(obj), {
     status: statut,
@@ -94,6 +107,8 @@ export default {
       'tu dois OBLIGATOIREMENT reprendre cette mention telle quelle dans le nouveau titre. ' +
       'De meme, garde les dimensions presentes dans la description actuelle ; ' +
       'si aucune dimension n est indiquee, ne mentionne aucune dimension. ' +
+      'Ecris uniquement des phrases francaises normales, sans aucun caractere special ni mise en forme : ' +
+      'pas d etoiles, pas de tirets doubles, pas de listes, pas de gras. ' +
       'Reponds en francais, uniquement par un objet JSON de la forme {"titre":"...","description":"..."}';
 
     const requete = {
@@ -145,6 +160,8 @@ export default {
     if (!titre && !description) {
       description = versTexte(texte);
     }
+    titre = nettoyer(titre);
+    description = nettoyer(description);
 
     /* Filet de securite : si le titre actuel contenait une dimension ou un poids
        (3cm, 10x5cm, 250g...) et que l IA l a fait disparaitre, on le remet

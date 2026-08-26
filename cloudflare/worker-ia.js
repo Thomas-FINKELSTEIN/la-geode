@@ -1,7 +1,9 @@
 /* Relais IA « La Géode » — génère un titre + une description d'article à partir
-   d'une photo, avec Cloudflare Workers AI (gratuit). À coller dans un Worker
-   Cloudflare. Le binding Workers AI doit être ajouté au Worker sous le nom "AI".
+   d'une photo, avec Google Gemini (offre gratuite, autorisée en Europe).
+   À coller dans un Worker Cloudflare.
 
+   IMPORTANT : ajouter dans le Worker une variable secrète nommée GEMINI_API_KEY
+   (Settings → Variables and Secrets) contenant une clé Google AI Studio gratuite.
    Ce fichier ne contient AUCUN secret : il peut rester public dans le dépôt. */
 
 const ORIGINES_AUTORISEES = [
@@ -11,7 +13,7 @@ const ORIGINES_AUTORISEES = [
   'http://localhost:8000',
 ];
 
-const MODELE = '@cf/meta/llama-3.2-11b-vision-instruct';
+const MODELE = 'gemini-2.0-flash';
 
 function entetesCors(origin) {
   var ok = ORIGINES_AUTORISEES.indexOf(origin) !== -1 ? origin : ORIGINES_AUTORISEES[0];
@@ -44,6 +46,9 @@ export default {
     if (ORIGINES_AUTORISEES.indexOf(origin) === -1) {
       return reponseJson({ erreur: 'Origine non autorisée' }, 403, origin);
     }
+    if (!env.GEMINI_API_KEY) {
+      return reponseJson({ erreur: 'Clé Gemini absente (variable GEMINI_API_KEY à définir dans le Worker)' }, 500, origin);
+    }
 
     let corps;
     try { corps = await request.json(); }
@@ -51,36 +56,64 @@ export default {
 
     const image = corps.image;
     const indice = String(corps.indice || '').slice(0, 200);
-    if (!image || !/^data:image\//.test(image)) {
+    const m = /^data:(image\/[a-zA-Z0-9.+-]+);base64,(.+)$/.exec(image || '');
+    if (!m) {
       return reponseJson({ erreur: 'Image manquante ou invalide' }, 400, origin);
     }
+    const mimeType = m[1];
+    const base64 = m[2];
 
     const consigne =
       'Tu rédiges pour la boutique « La Géode le Showroom », spécialisée en minéraux, ' +
-      'cristaux, bijoux en pierres naturelles, encens et décoration. À partir de la photo' +
-      (indice ? ' et de l\'indice « ' + indice + ' »' : '') +
-      ', propose un TITRE court (2 à 5 mots) et une DESCRIPTION chaleureuse de 1 à 2 phrases, ' +
-      'dans un ton doux, naturel et un peu poétique (bien-être, énergie des pierres). ' +
-      'N\'invente ni prix ni dimensions. Ne fais AUCUNE promesse de guérison ni allégation ' +
-      'médicale. Réponds UNIQUEMENT par un objet JSON exactement de cette forme, en français, ' +
-      'sans aucun autre texte : {"titre":"...","description":"..."}';
+      'cristaux, bijoux en pierres naturelles, encens et décoration. Regarde la photo' +
+      (indice ? ' et tiens compte de l\'indice « ' + indice + ' »' : '') +
+      '. Propose un titre court (2 à 5 mots) et une description chaleureuse de 1 à 2 phrases, ' +
+      'en français, dans un ton doux, naturel et un peu poétique (bien-être, énergie des pierres). ' +
+      'N\'invente ni prix ni dimensions. Ne fais aucune promesse de guérison ni allégation médicale.';
+
+    const requete = {
+      contents: [{ parts: [
+        { inline_data: { mime_type: mimeType, data: base64 } },
+        { text: consigne },
+      ] }],
+      generationConfig: {
+        temperature: 0.7,
+        maxOutputTokens: 300,
+        responseMimeType: 'application/json',
+        responseSchema: {
+          type: 'OBJECT',
+          properties: {
+            titre: { type: 'STRING' },
+            description: { type: 'STRING' },
+          },
+          required: ['titre', 'description'],
+        },
+      },
+    };
+
+    let data;
+    try {
+      const url = 'https://generativelanguage.googleapis.com/v1beta/models/' + MODELE +
+        ':generateContent?key=' + env.GEMINI_API_KEY;
+      const r = await fetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(requete),
+      });
+      data = await r.json();
+      if (!r.ok) {
+        const msg = (data && data.error && data.error.message) || ('HTTP ' + r.status);
+        return reponseJson({ erreur: 'IA indisponible : ' + msg }, 502, origin);
+      }
+    } catch (e) {
+      return reponseJson({ erreur: 'IA injoignable : ' + (e.message || e) }, 502, origin);
+    }
 
     let texte = '';
     try {
-      const r = await env.AI.run(MODELE, {
-        image,
-        messages: [
-          { role: 'system', content: 'Rédacteur d\'une boutique de minéraux. Tu réponds toujours en français et uniquement par du JSON.' },
-          { role: 'user', content: consigne },
-        ],
-        max_tokens: 300,
-      });
-      texte = (r && (r.response || r.result || r.text)) || '';
-    } catch (e) {
-      return reponseJson({ erreur: 'IA indisponible : ' + (e.message || e) }, 502, origin);
-    }
+      texte = data.candidates[0].content.parts[0].text || '';
+    } catch (e) { /* réponse inattendue */ }
 
-    // Extraction robuste du JSON même si le modèle ajoute du texte autour.
     let titre = '', description = '';
     const bloc = texte.match(/\{[\s\S]*\}/);
     if (bloc) {
@@ -88,7 +121,7 @@ export default {
         const o = JSON.parse(bloc[0]);
         titre = String(o.titre || '').trim();
         description = String(o.description || '').trim();
-      } catch (e) { /* on retombe sur le repli ci-dessous */ }
+      } catch (e) { /* repli ci-dessous */ }
     }
     if (!titre && !description) {
       description = texte.trim();

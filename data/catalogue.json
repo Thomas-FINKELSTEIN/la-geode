@@ -61,7 +61,17 @@
               "description": "D'origine d' Afrique du sud, Australie, elle offre a son porteur un optimisme a toute épreuve ,elle permet de décupler la force physique, l' énergie et la rage des combattants, protection",
               "photo": "images/articles/donuts-oeil-de-fer-3cm-mt9sx4l0tlmq.jpg",
               "prixBoutique": 12.95,
-              "stock": 8
+              "stock": 8,
+              "stripeProductId": "prod_V8tVvwqxawBBfD",
+              "stripeMode": "live",
+              "stripeNom": "donuts oeil de fer 3CM",
+              "stripeDesc": "D'origine d' Afrique du sud, Australie, elle offre a son porteur un optimisme a toute épreuve ,elle permet de décupler la force physique, l' énergie et la rage des combattants, protection",
+              "stripePriceId": "price_1U8bimLOfCA5mATuF1GCRX9M",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1U8binLOfCA5mATutyaKCCCo",
+              "stripe": "https://buy.stripe.com/dRmaEY4VQ5Vze6Y6hz28805",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         }

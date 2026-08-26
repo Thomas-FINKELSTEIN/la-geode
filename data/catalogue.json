@@ -72,6 +72,15 @@
               "stripe": "https://buy.stripe.com/dRmaEY4VQ5Vze6Y6hz28805",
               "stripeStock": 8,
               "epuise": false
+            },
+            {
+              "id": "donuts-agate-grise-3cm-mta54dks47d6",
+              "nom": "Donuts agate grise 3cm",
+              "prix": 13.65,
+              "description": "Elle aide à mieux gérer la pression émotionnelle tout en adoptant une attitude calme et intelligente, elle développe la patience, la concentration et la clarté.",
+              "photo": "images/articles/donuts-agate-grise-3cm-mta54dksdhk3.jpg",
+              "prixBoutique": 12.95,
+              "stock": 7
             }
           ]
         }

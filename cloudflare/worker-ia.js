@@ -61,13 +61,13 @@ export default {
     }
 
     const consigne =
-      'Tu rédiges pour la boutique « La Géode le Showroom », spécialisée en minéraux, ' +
-      'cristaux, bijoux en pierres naturelles, encens et décoration. Regarde la photo' +
-      (indice ? ' et tiens compte de l\'indice « ' + indice + ' »' : '') +
-      '. Propose un titre court (2 à 5 mots) et une description chaleureuse de 1 à 2 phrases, ' +
-      'en français, dans un ton doux, naturel et un peu poétique (bien-être, énergie des pierres). ' +
-      'N\'invente ni prix ni dimensions. Ne fais aucune promesse de guérison ni allégation médicale. ' +
-      'Réponds uniquement par un objet JSON : {"titre":"...","description":"..."}';
+      'Tu rediges pour la boutique La Geode le Showroom, specialisee en mineraux, ' +
+      'cristaux, bijoux en pierres naturelles, encens et decoration. Regarde la photo' +
+      (indice ? ' et tiens compte de cet indice : ' + indice : '') +
+      '. Propose un titre court (2 a 5 mots) et une description chaleureuse de 1 a 2 phrases, ' +
+      'en francais, dans un ton doux, naturel et un peu poetique (bien-etre, energie des pierres). ' +
+      'Ne propose ni prix ni dimensions. Ne fais aucune promesse de guerison ni allegation medicale. ' +
+      'Reponds uniquement par un objet JSON de la forme {"titre":"...","description":"..."}';
 
     const requete = {
       model: MODELE,

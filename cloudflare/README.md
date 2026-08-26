@@ -1,17 +1,20 @@
-# Relais IA (Cloudflare Worker + Google Gemini) — mode d'emploi
+# Relais IA (Cloudflare Worker + Mistral) — mode d'emploi
 
 Ce relais permet le bouton « ✨ Générer avec l'IA » de l'admin : il reçoit une
-photo, appelle Google Gemini (offre gratuite, autorisée en Europe) et renvoie un
-titre + une description. La clé reste secrète dans le Worker ; rien dans le site.
+photo, appelle Mistral (entreprise française, offre gratuite, modèle vision
+Pixtral) et renvoie un titre + une description. La clé reste secrète dans le
+Worker ; rien dans le site.
 
 > Note : on n'utilise PAS les modèles Llama de Cloudflare — leur licence interdit
-> l'usage aux entreprises de l'UE (or La Géode est une SARL française).
+> l'usage aux entreprises de l'UE (or La Géode est une SARL française). Mistral
+> est une société française : pas de restriction UE, très bon français, clé stable.
 
 ## Déploiement (une seule fois)
 
-1. **Clé Google gratuite** : va sur **aistudio.google.com** → connecte-toi avec un
-   compte Google → **Get API key** → **Create API key** → copie la clé
-   (commence par `AIza…`). L'usage est gratuit (1 500 requêtes/jour).
+1. **Clé Mistral gratuite** : va sur **console.mistral.ai** → crée un compte
+   (vérification par téléphone, **sans carte bancaire**) → **API Keys** →
+   **Create new key** → copie la clé. Offre gratuite « Experiment » (~1 milliard
+   de tokens/mois).
 
 2. **Cloudflare → Workers & Pages → Create → Create Worker**, nom `geode-ia`,
    **Deploy**.
@@ -19,7 +22,7 @@ titre + une description. La clé reste secrète dans le Worker ; rien dans le si
 3. **Edit code** : efface tout, colle le contenu de `worker-ia.js`, **Deploy**.
 
 4. **Ajouter la clé** : Worker → **Settings → Variables and Secrets → Add** →
-   type **Secret**, nom **`GEMINI_API_KEY`**, valeur = la clé `AIza…`. Enregistrer,
+   type **Secret**, nom **`MISTRAL_API_KEY`**, valeur = la clé Mistral. Enregistrer,
    puis **Deploy**.
 
 5. **Copier l'adresse du Worker** (`https://geode-ia.<sous-domaine>.workers.dev`)

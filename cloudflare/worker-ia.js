@@ -1,9 +1,9 @@
 /* Relais IA « La Géode » — génère un titre + une description d'article à partir
-   d'une photo, avec Google Gemini (offre gratuite, autorisée en Europe).
+   d'une photo, avec Mistral (entreprise française, offre gratuite, modèle Pixtral).
    À coller dans un Worker Cloudflare.
 
-   IMPORTANT : ajouter dans le Worker une variable secrète nommée GEMINI_API_KEY
-   (Settings → Variables and Secrets) contenant une clé Google AI Studio gratuite.
+   IMPORTANT : ajouter dans le Worker une variable secrète nommée MISTRAL_API_KEY
+   (Settings → Variables and Secrets) contenant une clé Mistral (console.mistral.ai).
    Ce fichier ne contient AUCUN secret : il peut rester public dans le dépôt. */
 
 const ORIGINES_AUTORISEES = [
@@ -13,7 +13,7 @@ const ORIGINES_AUTORISEES = [
   'http://localhost:8000',
 ];
 
-const MODELE = 'gemini-2.0-flash';
+const MODELE = 'pixtral-12b-2409';
 
 function entetesCors(origin) {
   var ok = ORIGINES_AUTORISEES.indexOf(origin) !== -1 ? origin : ORIGINES_AUTORISEES[0];
@@ -46,8 +46,8 @@ export default {
     if (ORIGINES_AUTORISEES.indexOf(origin) === -1) {
       return reponseJson({ erreur: 'Origine non autorisée' }, 403, origin);
     }
-    if (!env.GEMINI_API_KEY) {
-      return reponseJson({ erreur: 'Clé Gemini absente (variable GEMINI_API_KEY à définir dans le Worker)' }, 500, origin);
+    if (!env.MISTRAL_API_KEY) {
+      return reponseJson({ erreur: 'Clé Mistral absente (variable MISTRAL_API_KEY à définir dans le Worker)' }, 500, origin);
     }
 
     let corps;
@@ -56,12 +56,9 @@ export default {
 
     const image = corps.image;
     const indice = String(corps.indice || '').slice(0, 200);
-    const m = /^data:(image\/[a-zA-Z0-9.+-]+);base64,(.+)$/.exec(image || '');
-    if (!m) {
+    if (!image || !/^data:image\//.test(image)) {
       return reponseJson({ erreur: 'Image manquante ou invalide' }, 400, origin);
     }
-    const mimeType = m[1];
-    const base64 = m[2];
 
     const consigne =
       'Tu rédiges pour la boutique « La Géode le Showroom », spécialisée en minéraux, ' +
@@ -69,40 +66,36 @@ export default {
       (indice ? ' et tiens compte de l\'indice « ' + indice + ' »' : '') +
       '. Propose un titre court (2 à 5 mots) et une description chaleureuse de 1 à 2 phrases, ' +
       'en français, dans un ton doux, naturel et un peu poétique (bien-être, énergie des pierres). ' +
-      'N\'invente ni prix ni dimensions. Ne fais aucune promesse de guérison ni allégation médicale.';
+      'N\'invente ni prix ni dimensions. Ne fais aucune promesse de guérison ni allégation médicale. ' +
+      'Réponds uniquement par un objet JSON : {"titre":"...","description":"..."}';
 
     const requete = {
-      contents: [{ parts: [
-        { inline_data: { mime_type: mimeType, data: base64 } },
-        { text: consigne },
-      ] }],
-      generationConfig: {
-        temperature: 0.7,
-        maxOutputTokens: 300,
-        responseMimeType: 'application/json',
-        responseSchema: {
-          type: 'OBJECT',
-          properties: {
-            titre: { type: 'STRING' },
-            description: { type: 'STRING' },
-          },
-          required: ['titre', 'description'],
-        },
-      },
+      model: MODELE,
+      max_tokens: 300,
+      temperature: 0.7,
+      response_format: { type: 'json_object' },
+      messages: [{
+        role: 'user',
+        content: [
+          { type: 'text', text: consigne },
+          { type: 'image_url', image_url: image },
+        ],
+      }],
     };
 
     let data;
     try {
-      const url = 'https://generativelanguage.googleapis.com/v1beta/models/' + MODELE +
-        ':generateContent?key=' + env.GEMINI_API_KEY;
-      const r = await fetch(url, {
+      const r = await fetch('https://api.mistral.ai/v1/chat/completions', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': 'Bearer ' + env.MISTRAL_API_KEY,
+        },
         body: JSON.stringify(requete),
       });
       data = await r.json();
       if (!r.ok) {
-        const msg = (data && data.error && data.error.message) || ('HTTP ' + r.status);
+        const msg = (data && (data.message || (data.error && data.error.message))) || ('HTTP ' + r.status);
         return reponseJson({ erreur: 'IA indisponible : ' + msg }, 502, origin);
       }
     } catch (e) {
@@ -110,9 +103,8 @@ export default {
     }
 
     let texte = '';
-    try {
-      texte = data.candidates[0].content.parts[0].text || '';
-    } catch (e) { /* réponse inattendue */ }
+    try { texte = data.choices[0].message.content || ''; }
+    catch (e) { /* réponse inattendue */ }
 
     let titre = '', description = '';
     const bloc = texte.match(/\{[\s\S]*\}/);

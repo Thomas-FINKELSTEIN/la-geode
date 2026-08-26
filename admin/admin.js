@@ -671,8 +671,8 @@
       }).then(function (r) {
         return r.json().then(function (j) { if (!r.ok) throw new Error(j.erreur || ('Erreur ' + r.status)); return j; });
       }).then(function (j) {
-        if (j.titre) $('af-nom').value = j.titre;
-        if (j.description) $('af-desc').value = j.description;
+        if (typeof j.titre === 'string' && j.titre) $('af-nom').value = j.titre;
+        if (typeof j.description === 'string' && j.description) $('af-desc').value = j.description;
         maj();
         msg.className = 'msg ok';
         msg.textContent = 'Proposition générée ✓ — relisez et modifiez si besoin avant d\'enregistrer.';

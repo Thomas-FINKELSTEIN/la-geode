@@ -26,6 +26,18 @@ function entetesCors(origin) {
   };
 }
 
+/* Aplati n'importe quelle reponse (texte, tableau, objet imbrique) en texte simple,
+   pour ne jamais afficher "[object Object]" dans l'admin. */
+function versTexte(v) {
+  if (v === null || v === undefined) return '';
+  if (typeof v === 'string') return v.trim();
+  if (Array.isArray(v)) return v.map(versTexte).filter(Boolean).join(' ');
+  if (typeof v === 'object') {
+    return Object.keys(v).map(function (k) { return versTexte(v[k]); }).filter(Boolean).join(' ');
+  }
+  return String(v);
+}
+
 function reponseJson(obj, statut, origin) {
   return new Response(JSON.stringify(obj), {
     status: statut,
@@ -61,17 +73,21 @@ export default {
     }
 
     const consigne =
-      'Tu rediges pour la boutique La Geode le Showroom, specialisee en mineraux, ' +
-      'cristaux, bijoux en pierres naturelles, encens et decoration. Regarde la photo' +
-      (indice ? ' et tiens compte de cet indice : ' + indice : '') +
-      '. Propose un titre court (2 a 5 mots) et une description chaleureuse de 1 a 2 phrases, ' +
-      'en francais, dans un ton doux, naturel et un peu poetique (bien-etre, energie des pierres). ' +
-      'Ne propose ni prix ni dimensions. Ne fais aucune promesse de guerison ni allegation medicale. ' +
-      'Reponds uniquement par un objet JSON de la forme {"titre":"...","description":"..."}';
+      'Tu rediges la fiche produit pour la boutique La Geode le Showroom, specialisee en ' +
+      'mineraux, cristaux, bijoux en pierres naturelles, encens et decoration. ' +
+      'Identifie la pierre ou le produit visible sur la photo' +
+      (indice ? ', en tenant compte de cet indice donne par la vendeuse : ' + indice : '') +
+      '. Reponds en francais avec : un titre court (2 a 5 mots, avec le nom de la pierre ou du produit) ' +
+      'et une description de 2 a 3 phrases qui presente le produit puis les proprietes qui lui sont ' +
+      'traditionnellement associees en lithotherapie (bien-etre, energie, emotions, usage courant), ' +
+      'avec des formules prudentes comme : reputee pour, traditionnellement associee a, appreciee pour. ' +
+      'Ne promets jamais de guerison, ne donne aucun conseil medical. Ne mentionne ni prix ni dimensions. ' +
+      'Le titre et la description doivent etre des chaines de caracteres simples (du texte), pas des objets. ' +
+      'Reponds uniquement par un objet JSON exactement de la forme {"titre":"...","description":"..."}';
 
     const requete = {
       model: MODELE,
-      max_tokens: 300,
+      max_tokens: 400,
       temperature: 0.7,
       response_format: { type: 'json_object' },
       messages: [{
@@ -111,12 +127,12 @@ export default {
     if (bloc) {
       try {
         const o = JSON.parse(bloc[0]);
-        titre = String(o.titre || '').trim();
-        description = String(o.description || '').trim();
+        titre = versTexte(o.titre);
+        description = versTexte(o.description);
       } catch (e) { /* repli ci-dessous */ }
     }
     if (!titre && !description) {
-      description = texte.trim();
+      description = versTexte(texte);
     }
 
     return reponseJson({ titre: titre, description: description }, 200, origin);

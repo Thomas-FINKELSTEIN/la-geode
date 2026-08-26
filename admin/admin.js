@@ -666,7 +666,11 @@
         return fetch(IA_WORKER_URL, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ image: dataURI, indice: $('af-nom').value.trim() })
+          body: JSON.stringify({
+            image: dataURI,
+            titre: $('af-nom').value.trim(),
+            description: $('af-desc').value.trim()
+          })
         });
       }).then(function (r) {
         return r.json().then(function (j) { if (!r.ok) throw new Error(j.erreur || ('Erreur ' + r.status)); return j; });

@@ -67,28 +67,37 @@ export default {
     catch (e) { return reponseJson({ erreur: 'Requête invalide' }, 400, origin); }
 
     const image = corps.image;
-    const indice = String(corps.indice || '').slice(0, 200);
+    // Donnees d entree : le titre et la description actuels de la fiche (peuvent etre vides).
+    const titreActuel = versTexte(corps.titre || corps.indice).slice(0, 200);
+    const descActuelle = versTexte(corps.description).slice(0, 1200);
     if (!image || !/^data:image\//.test(image)) {
       return reponseJson({ erreur: 'Image manquante ou invalide' }, 400, origin);
     }
 
-    const consigne =
+    let consigne =
       'Tu rediges la fiche produit pour la boutique La Geode le Showroom, specialisee en ' +
       'mineraux, cristaux, bijoux en pierres naturelles, encens et decoration. ' +
-      'Identifie la pierre ou le produit visible sur la photo' +
-      (indice ? ', en tenant compte de cet indice donne par la vendeuse : ' + indice : '') +
-      '. Reponds en francais avec : un titre court (2 a 5 mots, avec le nom de la pierre ou du produit) ' +
-      'et une description de 2 a 3 phrases qui presente le produit puis les proprietes qui lui sont ' +
-      'traditionnellement associees en lithotherapie (bien-etre, energie, emotions, usage courant), ' +
-      'avec des formules prudentes comme : reputee pour, traditionnellement associee a, appreciee pour. ' +
-      'Ne promets jamais de guerison, ne donne aucun conseil medical. Ne mentionne ni prix ni dimensions. ' +
-      'Le titre et la description doivent etre des chaines de caracteres simples (du texte), pas des objets. ' +
-      'Reponds uniquement par un objet JSON exactement de la forme {"titre":"...","description":"..."}';
+      'Identifie la pierre ou le produit visible sur la photo.';
+    if (titreActuel) consigne += ' Titre actuel de la fiche : ' + titreActuel + '.';
+    if (descActuelle) {
+      consigne += ' Description actuelle de la fiche : ' + descActuelle +
+        ' /// Ameliore cette description existante (garde ses informations justes) : ';
+    } else {
+      consigne += ' La fiche n a pas encore de description, cree-la : ';
+    }
+    consigne +=
+      'en langage naturel et simple (pas sophistique), accrocheuse et pas trop longue (2 a 3 phrases), ' +
+      'elle presente le produit et les proprietes qui lui sont traditionnellement associees en ' +
+      'lithotherapie (bien-etre, energie, emotions, usage courant). ' +
+      'Propose aussi un titre court (2 a 5 mots) avec le nom de la pierre ou du produit. ' +
+      'Si des dimensions sont indiquees dans le titre ou la description actuels, garde-les ; ' +
+      'sinon ne mentionne aucune dimension. ' +
+      'Reponds en francais, uniquement par un objet JSON de la forme {"titre":"...","description":"..."}';
 
     const requete = {
       model: MODELE,
-      max_tokens: 400,
-      temperature: 0.7,
+      max_tokens: 300,
+      temperature: 0.5,
       response_format: { type: 'json_object' },
       messages: [{
         role: 'user',

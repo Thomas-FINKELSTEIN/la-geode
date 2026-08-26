@@ -91,6 +91,15 @@
               "stripe": "https://buy.stripe.com/28EaEY4VQ3Nrfb25dv28806",
               "stripeStock": 7,
               "epuise": false
+            },
+            {
+              "id": "donuts-hematite-3cm-mta9y4ffutt2",
+              "nom": "Donuts hématite 3cm",
+              "prix": 13.65,
+              "description": "Pierre d'ancrage et de connexion à l'instant présent, elle est appréciée en lithothérapie. donne la confiance en soi, protège et aide à calmer de ses propres excès.",
+              "photo": "images/articles/donuts-hematite-3cm-mta9y4ffijby.jpg",
+              "prixBoutique": 12.95,
+              "stock": 3
             }
           ]
         }

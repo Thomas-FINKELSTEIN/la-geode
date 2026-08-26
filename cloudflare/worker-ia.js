@@ -89,9 +89,11 @@ export default {
       'en langage naturel et simple (pas sophistique), accrocheuse et pas trop longue (2 a 3 phrases), ' +
       'elle presente le produit et les proprietes qui lui sont traditionnellement associees en ' +
       'lithotherapie (bien-etre, energie, emotions, usage courant). ' +
-      'Propose aussi un titre court (2 a 5 mots) avec le nom de la pierre ou du produit. ' +
-      'Si des dimensions sont indiquees dans le titre ou la description actuels, garde-les ; ' +
-      'sinon ne mentionne aucune dimension. ' +
+      'Propose aussi un titre court (2 a 5 mots) avec le nom de la pierre ou du produit ; ' +
+      'si le titre actuel contient une dimension ou un poids (par exemple 3cm, 10x5cm, 250g), ' +
+      'tu dois OBLIGATOIREMENT reprendre cette mention telle quelle dans le nouveau titre. ' +
+      'De meme, garde les dimensions presentes dans la description actuelle ; ' +
+      'si aucune dimension n est indiquee, ne mentionne aucune dimension. ' +
       'Reponds en francais, uniquement par un objet JSON de la forme {"titre":"...","description":"..."}';
 
     const requete = {
@@ -142,6 +144,20 @@ export default {
     }
     if (!titre && !description) {
       description = versTexte(texte);
+    }
+
+    /* Filet de securite : si le titre actuel contenait une dimension ou un poids
+       (3cm, 10x5cm, 250g...) et que l IA l a fait disparaitre, on le remet
+       automatiquement a la fin du nouveau titre. */
+    if (titre && titreActuel) {
+      const motifDim = /\d+(?:[.,]\d+)?(?:\s*x\s*\d+(?:[.,]\d+)?)*\s*(?:cm|mm|m|g|kg|ct|carats?|pouces?)\b/gi;
+      const dims = titreActuel.match(motifDim) || [];
+      for (let i = 0; i < dims.length; i++) {
+        const compact = dims[i].toLowerCase().replace(/\s+/g, '');
+        if (titre.toLowerCase().replace(/\s+/g, '').indexOf(compact) === -1) {
+          titre = titre + ' ' + dims[i].trim();
+        }
+      }
     }
 
     return reponseJson({ titre: titre, description: description }, 200, origin);

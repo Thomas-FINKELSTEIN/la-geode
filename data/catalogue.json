@@ -651,16 +651,25 @@
               "photo": "images/articles/hematite-donut-4cm-mtbmqaisyr9t.jpg",
               "prixBoutique": 14,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/eVqcN6gEy4Rv5As8pH2880I",
               "stripeProductId": "prod_V9NEeUVLchzAha",
+              "stripePriceId": "price_1U94TcLOfCA5mATuz3k4EkKe",
+              "stripeLinkId": "plink_1U94TdLOfCA5mATu8XcKlHsB",
+              "stripePrix": 14.73,
               "stripeMode": "live",
               "stripeNom": "Hématite Donut 4cm",
               "stripeDesc": "Ce Donut en hématite de 4 cm est une pièce unique alliant élégance et bienfaits énergétiques. L'hématite est réputée pour son pouvoir de protection et d'ancrage, aidant à stabiliser les émotions et à renforcer la concentration. Parfaite pour une décoration minérale apaisante ou comme objet de méditation, elle attire aussi bien les amateurs de lithothérapie que les passionnés de pierres naturelles.",
-              "stripePriceId": "price_1U94TcLOfCA5mATuz3k4EkKe",
-              "stripePrix": 14.73,
-              "stripeLinkId": "plink_1U94TdLOfCA5mATu8XcKlHsB",
-              "stripe": "https://buy.stripe.com/eVqcN6gEy4Rv5As8pH2880I",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "donuts-jade-vert-4cm-mtbmrxe5l8ul",
+              "nom": "Donuts jade vert 4cm",
+              "prix": 14.73,
+              "description": "Jade vert Donut 4cm Découvrez ce joli Donut en jade vert, une pierre douce et apaisante aux reflets lumineux. En lithothérapie, le jade est souvent associé à l’harmonie émotionnelle, à la sérénité et à l’équilibre énergétique, tout en favorisant la chance et la prospérité dans le quotidien. Parfait pour une décoration naturelle ou comme objet de méditation, il apporte une touche de douceur et de bien-être à votre intérieur. Apaisante, favorise la détente et réduit le stress Équilibre les énergies, attire la chance et la stabilité Apaise les émotions, favorise la patience et la sagesse Idéal pour la méditation, la décoration ou en lithothérapie",
+              "photo": "images/articles/donuts-jade-vert-4cm-mtbmrxe5le4s.jpg",
+              "prixBoutique": 14,
+              "stock": 3
             }
           ]
         }

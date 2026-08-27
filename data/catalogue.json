@@ -385,16 +385,25 @@
               "photo": "images/articles/quartz-fume-donut-3cm-mtbbki7ecczh.jpg",
               "prixBoutique": 12.95,
               "stock": 8,
+              "stripe": "https://buy.stripe.com/eVqbJ2aga2JnaUMfS92880s",
               "stripeProductId": "prod_V9IBJmWENKDe4Z",
+              "stripePriceId": "price_1U8zbELOfCA5mATuQ9m1uSTy",
+              "stripeLinkId": "plink_1U8zbELOfCA5mATuLWXp6HID",
+              "stripePrix": 13.65,
               "stripeMode": "live",
               "stripeNom": "Quartz fumé Donut 3cm",
               "stripeDesc": "Découvrez ce Quartz fumé sous forme de donut élégant, une pierre aux reflets mystérieux et apaisants. Symbole de protection et de purification, il est traditionnellement utilisé pour équilibrer les énergies, apaiser les émotions et favoriser la concentration. Parfait pour une touche minérale raffinée dans votre quotidien ou pour une séance de lithothérapie bien-être.",
-              "stripePriceId": "price_1U8zbELOfCA5mATuQ9m1uSTy",
-              "stripePrix": 13.65,
-              "stripeLinkId": "plink_1U8zbELOfCA5mATuLWXp6HID",
-              "stripe": "https://buy.stripe.com/eVqbJ2aga2JnaUMfS92880s",
               "stripeStock": 8,
               "epuise": false
+            },
+            {
+              "id": "agate-arbre-donut-3cm-mtbc0umoskst",
+              "nom": "Agate arbre Donut 3cm",
+              "prix": 13.65,
+              "description": "Découvrez ce donut en agate arbre, une pierre douce et apaisante aux motifs organiques qui évoque la sérénité et la connexion à la nature. En lithothérapie, elle est réputée pour équilibrer les émotions, favoriser la patience et apaiser les tensions du quotidien. Idéale à porter en pendentif ou à poser près de votre espace de détente pour une énergie harmonieuse.",
+              "photo": "images/articles/agate-arbre-donut-3cm-mtbc0umofvio.jpg",
+              "prixBoutique": 12.95,
+              "stock": 4
             }
           ]
         }

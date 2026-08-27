@@ -898,16 +898,25 @@
               "photo": "images/articles/donuts-agate-grise-2cm-mtbonusszrnp.jpg",
               "prixBoutique": 6,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/eVqdRafAu4RvbYQ7lD2880V",
               "stripeProductId": "prod_V9O637oB6Mo1CK",
+              "stripePriceId": "price_1U95JwLOfCA5mATunJ1s0OTV",
+              "stripeLinkId": "plink_1U95JwLOfCA5mATuCpY30hUG",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Donuts agate grise 2cm",
               "stripeDesc": "Cette agate grise en forme de donut, d'un diamètre de 2 cm, est une pierre douce et apaisante, idéale pour équilibrer les émotions et favoriser la sérénité au quotidien. En lithothérapie, elle est souvent utilisée pour apaiser les tensions et renforcer la connexion à soi-même, tout en apportant une énergie calme et harmonieuse à votre environnement. Parfaite pour une utilisation en méditation ou comme objet décoratif bienveillant.",
-              "stripePriceId": "price_1U95JwLOfCA5mATunJ1s0OTV",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U95JwLOfCA5mATuCpY30hUG",
-              "stripe": "https://buy.stripe.com/eVqdRafAu4RvbYQ7lD2880V",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "jaspe-leopard-donut-2cm-mtbopv9vbf0k",
+              "nom": "Jaspe leopard Donut 2cm",
+              "prix": 6.46,
+              "description": "Ce joli Donut en jaspe leopard de 2 cm est un bijou naturel aux motifs uniques rappelant les taches d’un léopard. Riches en énergie vitale, ces pierres sont souvent associées à la protection, à la stabilité émotionnelle et à l’ancrage dans le quotidien. Parfait pour un pendentif ou un porte-bonheur, il apporte équilibre et force intérieure au quotidien.",
+              "photo": "images/articles/jaspe-leopard-donut-2cm-mtbopv9vwhn4.jpg",
+              "prixBoutique": 6,
+              "stock": 1
             }
           ]
         }

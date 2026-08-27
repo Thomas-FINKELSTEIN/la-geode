@@ -841,16 +841,25 @@
               "photo": "images/articles/obsidienne-neige-donut-2cm-mtboh9sim6z5.jpg",
               "prixBoutique": 6,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/cNiaEY882gAd9QI7lD2880S",
               "stripeProductId": "prod_V9O1mDH2OX1MLF",
+              "stripePriceId": "price_1U95EzLOfCA5mATuaDdrvRU5",
+              "stripeLinkId": "plink_1U95EzLOfCA5mATuosHdVBvO",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Obsidienne neige Donut 2cm",
               "stripeDesc": "Ce donut en obsidienne neige, pierre aux reflets mystérieux et apaisants, est un allié précieux pour équilibrer les émotions et apaiser l’esprit. Riche en énergie protectrice, elle favorise la connexion à soi-même et aide à dissoudre les tensions accumulées. Parfaite pour une méditation ou comme objet décoratif, elle s’intègre harmonieusement dans un espace bien-être ou une collection minérale.",
-              "stripePriceId": "price_1U95EzLOfCA5mATuaDdrvRU5",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U95EzLOfCA5mATuosHdVBvO",
-              "stripe": "https://buy.stripe.com/cNiaEY882gAd9QI7lD2880S",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "howlite-donut-2cm-mtbojkuz57g9",
+              "nom": "Howlite Donut 2cm",
+              "prix": 6.46,
+              "description": "Découvrez ce délicat donut en howlite, une pierre douce et lumineuse aux reflets nacrés qui apporte douceur et apaisement. Utilisée en lithothérapie pour adoucir les émotions et apaiser les tensions, elle est idéale pour une ambiance sereine, que ce soit en méditation ou comme touche décorative harmonieuse. Parfaite pour ceux qui cherchent à cultiver patience et calme au quotidien.",
+              "photo": "images/articles/howlite-donut-2cm-mtbojkuz9qz2.jpg",
+              "prixBoutique": 6,
+              "stock": 2
             }
           ]
         }

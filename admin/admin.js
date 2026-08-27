@@ -281,7 +281,55 @@
       state.sha = j.sha;
       state.catalogue = JSON.parse(b64DecodeUtf8(j.content));
       if (!state.catalogue.actualites) state.catalogue.actualites = [];
+      state.empreinte = empreinteSansRobot(state.catalogue);
       setStatus('');
+    });
+  }
+
+  /* ---------- Fusion automatique avec les robots ----------
+     Pendant que la gérante travaille, les robots (ventes Stripe, stock) peuvent
+     modifier le catalogue sur GitHub. Ils ne touchent qu'à ces champs-là : */
+  var CHAMPS_ROBOT = ['stripe', 'stripeProductId', 'stripePriceId', 'stripeLinkId',
+    'stripePrix', 'stripeMode', 'stripeNom', 'stripeDesc', 'stripeStock', 'epuise'];
+
+  function chaqueArticle(cat, cb) {
+    Object.keys(cat.themes || {}).forEach(function (t) {
+      (cat.themes[t].familles || []).forEach(function (f) {
+        (f.articles || []).forEach(cb);
+      });
+    });
+  }
+
+  /* Photographie du catalogue sans les champs robots : sert à savoir si un
+     changement distant vient d'un robot (fusion sans risque) ou d'un humain. */
+  function empreinteSansRobot(cat) {
+    var copie = JSON.parse(JSON.stringify(cat));
+    chaqueArticle(copie, function (a) {
+      CHAMPS_ROBOT.forEach(function (c) { delete a[c]; });
+    });
+    return JSON.stringify(copie);
+  }
+
+  /* Récupère la dernière version en ligne ; si seuls les robots ont écrit,
+     greffe leurs champs dans notre copie et met à jour le sha pour republier. */
+  function fusionnerRobots() {
+    return gh(CATALOGUE_PATH).then(function (r) {
+      if (!r.ok) throw new Error('Erreur ' + r.status);
+      return r.json();
+    }).then(function (j) {
+      var distant = JSON.parse(b64DecodeUtf8(j.content));
+      if (!distant.actualites) distant.actualites = [];
+      if (empreinteSansRobot(distant) !== state.empreinte) throw new Error('CONFLIT_HUMAIN');
+      var parId = {};
+      chaqueArticle(distant, function (a) { parId[a.id] = a; });
+      chaqueArticle(state.catalogue, function (a) {
+        var d = parId[a.id];
+        if (!d) return;
+        CHAMPS_ROBOT.forEach(function (c) {
+          if (d[c] === undefined) delete a[c]; else a[c] = d[c];
+        });
+      });
+      state.sha = j.sha;
     });
   }
 
@@ -830,21 +878,35 @@
         return putFile(path, state.pendingPhotos[path], 'Catalogue : ajout photo ' + path);
       });
     });
-    chain.then(function () {
-      setStatus('Enregistrement…');
+    function enregistrerCatalogue() {
       var content = b64EncodeUtf8(JSON.stringify(state.catalogue, null, 2));
       return putFile(CATALOGUE_PATH, content, 'Catalogue : mise à jour depuis l\'administration', state.sha);
+    }
+    function estConflit(e) { return /does not match|409/.test(e.message); }
+
+    chain.then(function () {
+      setStatus('Enregistrement…');
+      return enregistrerCatalogue().catch(function (e) {
+        if (!estConflit(e)) throw e;
+        // Un robot a écrit entre-temps (une vente !) : on fusionne et on réessaie.
+        setStatus('Une vente vient d\'avoir lieu… je récupère les nouveautés et je réessaie…');
+        return fusionnerRobots().then(enregistrerCatalogue).catch(function (e2) {
+          if (!estConflit(e2)) throw e2;
+          return fusionnerRobots().then(enregistrerCatalogue);
+        });
+      });
     }).then(function (j) {
       state.sha = j.content.sha;
+      state.empreinte = empreinteSansRobot(state.catalogue);
       state.pendingPhotos = {};
       state.nbModifs = 0;
       updateStatusbar();
       setStatus('✓ C\'est en ligne ! Le site se met à jour dans 1 à 2 minutes.', true);
     }).catch(function (e) {
       updateStatusbar();
-      if (/does not match|409/.test(e.message)) {
+      if (e.message === 'CONFLIT_HUMAIN' || estConflit(e)) {
         setStatus('');
-        alert('La boutique a été modifiée ailleurs. Rechargez la page (vos changements non mis en ligne seront perdus) et recommencez.');
+        alert('Quelqu\'un d\'autre a modifié la boutique en même temps, depuis un autre appareil. Pour ne rien écraser, rechargez la page (touche F5) et refaites vos dernières modifications.');
       } else { setStatus(''); alert('Échec de la mise en ligne : ' + e.message); }
     });
   }

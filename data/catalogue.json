@@ -936,16 +936,25 @@
               "photo": "images/articles/donuts-hematite-2cm-mtborb3n5j0i.jpg",
               "prixBoutique": 6,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/bJe7sM1JEbfTbYQaxP2880X",
               "stripeProductId": "prod_V9O8525IWzBgXx",
+              "stripePriceId": "price_1U95MaLOfCA5mATuWOL2Pjpi",
+              "stripeLinkId": "plink_1U95MaLOfCA5mATuChs85sUa",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Donuts hematite 2cm",
               "stripeDesc": "Découvrez notre Donut en hématite, une pierre aux reflets métalliques profonds qui attire le regard et l’esprit. Connue pour ses vertus stabilisatrices, l’hématite est souvent utilisée en lithothérapie pour renforcer la concentration, ancrer l’énergie et apaiser les émotions. Parfaite pour une touche minérale élégante, elle se glisse facilement dans un sac ou sur une étagère pour une énergie positive au quotidien.",
-              "stripePriceId": "price_1U95MaLOfCA5mATuWOL2Pjpi",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U95MaLOfCA5mATuChs85sUa",
-              "stripe": "https://buy.stripe.com/bJe7sM1JEbfTbYQaxP2880X",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "quartz-fume-donut-2cm-mtbotp4b7hyj",
+              "nom": "Quartz fumé Donut 2cm",
+              "prix": 6.46,
+              "description": "Découvrez ce joli Quartz fumé en forme de donut, d'une élégance naturelle et apaisante. Appelé aussi quartz ravine, il est réputé pour ses vertus purificatrices et son pouvoir de stabilisation émotionnelle, aidant à apaiser le mental et à ancrer l'énergie. Parfait pour une méditation douce ou comme élément décoratif raffiné, il s'intègre aussi bien dans votre quotidien que dans vos rituels bien-être.",
+              "photo": "images/articles/quartz-fume-donut-2cm-mtbotp4bfibx.jpg",
+              "prixBoutique": 6,
+              "stock": 5
             }
           ]
         }

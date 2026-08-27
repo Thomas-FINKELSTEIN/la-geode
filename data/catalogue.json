@@ -631,7 +631,17 @@
               "description": "Ce magnifique jaspe leopard en forme de donut 4cm est une pierre aux motifs envoûtants rappelant les taches d’un léopard. En lithothérapie, il est réputé pour renforcer la confiance en soi, équilibrer les émotions et stimuler l’énergie vitale. Parfait pour une décoration minérale ou comme porte-bonheur au quotidien, il apporte harmonie et protection.",
               "photo": "images/articles/jaspe-leopard-donut-4cm-mtbmndz0e5ey.jpg",
               "prixBoutique": 14,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_V9NBcSeM5XBJxS",
+              "stripeMode": "live",
+              "stripeNom": "Jaspe leopard Donut 4cm",
+              "stripeDesc": "Ce magnifique jaspe leopard en forme de donut 4cm est une pierre aux motifs envoûtants rappelant les taches d’un léopard. En lithothérapie, il est réputé pour renforcer la confiance en soi, équilibrer les émotions et stimuler l’énergie vitale. Parfait pour une décoration minérale ou comme porte-bonheur au quotidien, il apporte harmonie et protection.",
+              "stripePriceId": "price_1U94RNLOfCA5mATuR6NKdgZc",
+              "stripePrix": 14.73,
+              "stripeLinkId": "plink_1U94ROLOfCA5mATuURw43Ws4",
+              "stripe": "https://buy.stripe.com/14AbJ2ewqfw9e6Y21j2880H",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

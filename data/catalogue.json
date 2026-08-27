@@ -433,6 +433,15 @@
               "stripe": "https://buy.stripe.com/14AaEY882bfTbYQeO52880u",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "pierres-mtbc839kgz1d",
+              "nom": "Pierres",
+              "prix": null,
+              "description": "",
+              "photo": null,
+              "prixBoutique": null,
+              "stock": null
             }
           ]
         }

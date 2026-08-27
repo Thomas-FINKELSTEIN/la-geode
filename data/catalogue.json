@@ -1107,16 +1107,25 @@
               "photo": "images/articles/jaspe-kambaba-donut-1cm-mtbqtt0iq250.jpg",
               "prixBoutique": 6.5,
               "stock": 10,
+              "stripe": "https://buy.stripe.com/00w5kE2NI0Bf7IA0Xf28816",
               "stripeProductId": "prod_V9P4kmPccCf157",
+              "stripePriceId": "price_1U96GdLOfCA5mATuHIhvZi60",
+              "stripeLinkId": "plink_1U96GdLOfCA5mATuJ6a98uLp",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Jaspe kambaba Donut 1cm",
               "stripeDesc": "Cette boule de jaspe kambaba, polie avec soin, est une pierre aux reflets verts profonds et aux éclats dorés qui captivent immédiatement. En lithothérapie, elle est souvent associée à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Parfaite pour une utilisation quotidienne, elle se porte en pendentif ou se garde près de soi pour bénéficier de son énergie harmonieuse et stabilisatrice.",
-              "stripePriceId": "price_1U96GdLOfCA5mATuHIhvZi60",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1U96GdLOfCA5mATuJ6a98uLp",
-              "stripe": "https://buy.stripe.com/00w5kE2NI0Bf7IA0Xf28816",
               "stripeStock": 10,
               "epuise": false
+            },
+            {
+              "id": "jaspe-orbiculaire-donut-1cm-mtbqvncjn27q",
+              "nom": "Jaspe orbiculaire Donut 1cm",
+              "prix": 6.98,
+              "description": "Découvrez cette boule de jaspe orbiculaire, aux reflets irisés et aux motifs tourbillonnants qui captent la lumière. Selon la lithothérapie, cette pierre douce et apaisante favorise l'équilibre émotionnel, renforce la confiance en soi et aide à libérer les tensions accumulées. Parfaite pour une méditation ou comme talisman bien-être au quotidien, elle s'intègre aussi harmonieusement dans une décoration minérale.",
+              "photo": "images/articles/jaspe-orbiculaire-donut-1cm-mtbqvncjg6c1.jpg",
+              "prixBoutique": 6.5,
+              "stock": 1
             }
           ]
         }

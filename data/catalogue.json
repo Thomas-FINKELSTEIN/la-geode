@@ -802,7 +802,17 @@
               "description": "Unakite Donut 2cm Découvrez ce ravissant Donut en unakite, une pierre aux teintes harmonieuses de vert, rose et noir qui évoque la douceur et l'équilibre. Selon la lithothérapie, l'unakite est souvent associée à la guérison émotionnelle, aidant à apaiser les tensions et à renforcer la connexion avec soi-même. Parfaite pour une méditation apaisante ou comme objet décoratif, elle attire également une énergie positive et bienveillante dans votre quotidien. Apaisante, favorise la détente et la sérénité. Équilibre les émotions et renforce la confiance en soi. Aide à surmonter les peurs et les blocages intérieurs. Idéale pour la méditation, la décoration ou portée en bijou pour bénéficier de ses vertus toute la journée.",
               "photo": "images/articles/donuts-unakite-2cm-mtbocvujwcnd.jpg",
               "prixBoutique": 6,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_V9NxLHS23XnO4r",
+              "stripeMode": "live",
+              "stripeNom": "Donuts unakite 2cm",
+              "stripeDesc": "Unakite Donut 2cm Découvrez ce ravissant Donut en unakite, une pierre aux teintes harmonieuses de vert, rose et noir qui évoque la douceur et l'équilibre. Selon la lithothérapie, l'unakite est souvent associée à la guérison émotionnelle, aidant à apaiser les tensions et à renforcer la connexion avec soi-même. Parfaite pour une méditation apaisante ou comme objet décoratif, elle attire également une énergie positive et bienveillante dans votre quotidien. Apaisante, favorise la détente et la sérénité. Équilibre les émotions et renforce la confiance en soi. Aide à surmonter les peurs et les blocages intérieurs. Idéale pour la méditation, la décoration ou portée en bijou pour bénéficier de ses vertus toute la journée.",
+              "stripePriceId": "price_1U95BgLOfCA5mATuNjTkWX5A",
+              "stripePrix": 6.46,
+              "stripeLinkId": "plink_1U95BgLOfCA5mATuozPzdSd1",
+              "stripe": "https://buy.stripe.com/fZu9AU8825Vz8MEgWd2880Q",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

@@ -954,7 +954,17 @@
               "description": "Découvrez ce joli Quartz fumé en forme de donut, d'une élégance naturelle et apaisante. Appelé aussi quartz ravine, il est réputé pour ses vertus purificatrices et son pouvoir de stabilisation émotionnelle, aidant à apaiser le mental et à ancrer l'énergie. Parfait pour une méditation douce ou comme élément décoratif raffiné, il s'intègre aussi bien dans votre quotidien que dans vos rituels bien-être.",
               "photo": "images/articles/quartz-fume-donut-2cm-mtbotp4bfibx.jpg",
               "prixBoutique": 6,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_V9OASRaChygXSQ",
+              "stripeMode": "live",
+              "stripeNom": "Quartz fumé Donut 2cm",
+              "stripeDesc": "Découvrez ce joli Quartz fumé en forme de donut, d'une élégance naturelle et apaisante. Appelé aussi quartz ravine, il est réputé pour ses vertus purificatrices et son pouvoir de stabilisation émotionnelle, aidant à apaiser le mental et à ancrer l'énergie. Parfait pour une méditation douce ou comme élément décoratif raffiné, il s'intègre aussi bien dans votre quotidien que dans vos rituels bien-être.",
+              "stripePriceId": "price_1U95OLLOfCA5mATuvbFeL8LL",
+              "stripePrix": 6.46,
+              "stripeLinkId": "plink_1U95OLLOfCA5mATurbHDRXcs",
+              "stripe": "https://buy.stripe.com/6oU9AUcoi3Nr5AsdK12880Y",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

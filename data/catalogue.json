@@ -993,16 +993,25 @@
               "photo": "images/articles/obsidienne-acajou-donut-2cm-mtboxlbf7v09.jpg",
               "prixBoutique": 6,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/00waEY73Yfw99QIfS928810",
               "stripeProductId": "prod_V9ODflZe4Vdo5o",
+              "stripePriceId": "price_1U95RELOfCA5mATuodwdi3sq",
+              "stripeLinkId": "plink_1U95RFLOfCA5mATuoCXN6NeA",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Obsidienne acajou Donut 2cm",
               "stripeDesc": "Ce Donut en obsidienne acajou de 2 cm est une pierre de protection et de purification aux reflets chaleureux et mystérieux. Traditionnellement utilisée en lithothérapie pour apaiser les émotions et renforcer la connexion à soi, elle aide à libérer les blocages énergétiques et à retrouver un équilibre intérieur. Parfaite pour les méditations ou comme objet décoratif aux vertus apaisantes, elle s’intègre aussi bien dans votre quotidien spirituel que dans votre intérieur.",
-              "stripePriceId": "price_1U95RELOfCA5mATuodwdi3sq",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U95RFLOfCA5mATuoCXN6NeA",
-              "stripe": "https://buy.stripe.com/00waEY73Yfw99QIfS928810",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "citrine-donut-2cm-mtboz9kbojv3",
+              "nom": "Citrine Donut 2cm",
+              "prix": 6.46,
+              "description": "Une belle Citrine en forme de donut, douce et lumineuse, qui diffuse une énergie chaleureuse et apaisante. Cette pierre ensoleillée est réputée pour renforcer la confiance en soi, clarifier l’esprit et attirer la positivité au quotidien. Parfaite à glisser dans un sac ou à porter en bijou pour un effet revitalisant naturel.",
+              "photo": "images/articles/citrine-donut-2cm-mtboz9kbbz3a.jpg",
+              "prixBoutique": 6,
+              "stock": 4
             }
           ]
         }

@@ -1050,16 +1050,25 @@
               "photo": "images/articles/aventurine-donut-1cm-mtbqmy1elzmv.jpg",
               "prixBoutique": 6.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY5kE0FA3Nr8MEgWd28813",
               "stripeProductId": "prod_V9OzLnbqHXw6QI",
+              "stripePriceId": "price_1U96BQLOfCA5mATufDfGf5Jd",
+              "stripeLinkId": "plink_1U96BQLOfCA5mATuwFAs1gBc",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Aventurine Donut 1cm",
               "stripeDesc": "Cette boule d'aventurine de 1 cm, aussi appelée pierre de la chance, est une pierre douce et apaisante qui favorise l'harmonie émotionnelle et le bien-être intérieur. Selon la lithothérapie, elle aide à équilibrer les énergies et à renforcer la confiance en soi, tout en attirant la prospérité et la sérénité au quotidien. Parfaite pour une utilisation en méditation ou comme talisman porte-bonheur, elle s’intègre facilement dans votre quotidien pour un effet apaisant et inspirant.",
-              "stripePriceId": "price_1U96BQLOfCA5mATufDfGf5Jd",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1U96BQLOfCA5mATuwFAs1gBc",
-              "stripe": "https://buy.stripe.com/7sY5kE0FA3Nr8MEgWd28813",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pierre-de-nuit-donut-1cm-mtbqposirh2t",
+              "nom": "Pierre de nuit Donut 1cm",
+              "prix": 6.98,
+              "description": "La pierre de nuit, aussi appelée obsidienne noire, est une pierre aux reflets profonds et mystérieux qui attire l'attention. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la stabilité intérieure et aider à se reconnecter à soi-même. Parfaite pour ceux qui cherchent à équilibrer leur énergie et à trouver un calme intérieur, elle est idéale en méditation ou simplement portée en bijou.",
+              "photo": "images/articles/pierre-de-nuit-donut-1cm-mtbqposiadh4.jpg",
+              "prixBoutique": 6.5,
+              "stock": 3
             }
           ]
         }

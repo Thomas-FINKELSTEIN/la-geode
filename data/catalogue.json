@@ -518,16 +518,25 @@
               "photo": "images/articles/obsidienne-acajou-donut-4cm-mtbma07gdoe8.jpg",
               "prixBoutique": 14,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/eVq8wQfAu97L5AsfS92880B",
               "stripeProductId": "prod_V9N1MNfon0Dgec",
+              "stripePriceId": "price_1U94HPLOfCA5mATuhJfrslLr",
+              "stripeLinkId": "plink_1U94HPLOfCA5mATunj7zGxJ1",
+              "stripePrix": 14.73,
               "stripeMode": "live",
               "stripeNom": "Obsidienne acajou Donut 4cm",
               "stripeDesc": "Ce Donut en obsidienne acajou de 4 cm est une pièce naturelle aux reflets chauds et aux motifs organiques captivants. Utilisée en lithothérapie pour ses propriétés purificatrices, cette pierre est réputée pour aider à libérer les blocages émotionnels et à renforcer la protection énergétique. Parfaite pour une méditation apaisante ou comme élément décoratif aux vibrations puissantes.",
-              "stripePriceId": "price_1U94HPLOfCA5mATuhJfrslLr",
-              "stripePrix": 14.73,
-              "stripeLinkId": "plink_1U94HPLOfCA5mATunj7zGxJ1",
-              "stripe": "https://buy.stripe.com/eVq8wQfAu97L5AsfS92880B",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "lepidolite-donut-4cm-mtbmdgb8yuuf",
+              "nom": "Lépidolite Donut 4cm",
+              "prix": 14.73,
+              "description": "Ce Donut en lépidolite 4cm est une pièce unique aux reflets violets et irisés, parfaite pour une touche minérale apaisante. Associée traditionnellement à la sérénité et à l'équilibre émotionnel, cette pierre douce aide à calmer les tensions et favorise la connexion avec ses émotions profondes. Idéale pour les espaces de méditation ou comme porte-bonheur au quotidien, elle rayonne une énergie de douceur et d'harmonie.",
+              "photo": "images/articles/lepidolite-donut-4cm-mtbmdgb83646.jpg",
+              "prixBoutique": 14,
+              "stock": 4
             }
           ]
         }

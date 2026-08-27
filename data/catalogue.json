@@ -460,7 +460,17 @@
               "description": "Unakite Donut 4cm Ce donut en unakite de 4 cm est une pièce minérale aux reflets dorés et verts, aussi apaisante que belle. Selon la lithothérapie, cette pierre favorise l’équilibre émotionnel, renforce la confiance en soi et aide à apaiser les tensions du quotidien. Parfaite pour une décoration naturelle ou comme objet de méditation, elle apporte douceur et énergie positive à votre espace. Apaisement des tensions et du stress Équilibre énergétique et harmonie Renforcement de la confiance en soi et de la sérénité Décoration, méditation, porte-bonheur ou objet de collection.",
               "photo": "images/articles/donuts-unakite-4cm-mtbkttuhof8o.jpg",
               "prixBoutique": 14,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_V9MMbVjbwJB63U",
+              "stripeMode": "live",
+              "stripeNom": "Donuts unakite 4cm",
+              "stripeDesc": "Unakite Donut 4cm Ce donut en unakite de 4 cm est une pièce minérale aux reflets dorés et verts, aussi apaisante que belle. Selon la lithothérapie, cette pierre favorise l’équilibre émotionnel, renforce la confiance en soi et aide à apaiser les tensions du quotidien. Parfaite pour une décoration naturelle ou comme objet de méditation, elle apporte douceur et énergie positive à votre espace. Apaisement des tensions et du stress Équilibre énergétique et harmonie Renforcement de la confiance en soi et de la sérénité Décoration, méditation, porte-bonheur ou objet de collection.",
+              "stripePriceId": "price_1U93e2LOfCA5mATuSmplYnsh",
+              "stripePrix": 14.73,
+              "stripeLinkId": "plink_1U93e2LOfCA5mATuIMvrcPdm",
+              "stripe": "https://buy.stripe.com/6oUaEY9c6cjXgf6gWd2880w",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

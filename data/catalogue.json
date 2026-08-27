@@ -670,16 +670,25 @@
               "photo": "images/articles/donuts-jade-vert-4cm-mtbmrxe5le4s.jpg",
               "prixBoutique": 14,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/14AeVe3RMdo12ogcFX2880J",
               "stripeProductId": "prod_V9NFYoX4q6uLAc",
+              "stripePriceId": "price_1U94UoLOfCA5mATu7KbAi88x",
+              "stripeLinkId": "plink_1U94UoLOfCA5mATu2NkJeSVq",
+              "stripePrix": 14.73,
               "stripeMode": "live",
               "stripeNom": "Donuts jade vert 4cm",
               "stripeDesc": "Jade vert Donut 4cm Découvrez ce joli Donut en jade vert, une pierre douce et apaisante aux reflets lumineux. En lithothérapie, le jade est souvent associé à l’harmonie émotionnelle, à la sérénité et à l’équilibre énergétique, tout en favorisant la chance et la prospérité dans le quotidien. Parfait pour une décoration naturelle ou comme objet de méditation, il apporte une touche de douceur et de bien-être à votre intérieur. Apaisante, favorise la détente et réduit le stress Équilibre les énergies, attire la chance et la stabilité Apaise les émotions, favorise la patience et la sagesse Idéal pour la méditation, la décoration ou en lithothérapie",
-              "stripePriceId": "price_1U94UoLOfCA5mATu7KbAi88x",
-              "stripePrix": 14.73,
-              "stripeLinkId": "plink_1U94UoLOfCA5mATu2NkJeSVq",
-              "stripe": "https://buy.stripe.com/14AeVe3RMdo12ogcFX2880J",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "cornaline-donut-4cm-mtbmtpf8ccku",
+              "nom": "Cornaline Donut 4cm",
+              "prix": 14.73,
+              "description": "Découvrez notre Cornaline sous forme de donut, une pierre précieuse au rouge chaleureux et vibrant, symbole d'énergie vitale et de passion. En lithothérapie, elle est souvent associée à la stimulation de la confiance en soi et à l'équilibre émotionnel, tout en renforçant la vitalité. Parfaite pour une touche naturelle et élégante dans votre quotidien ou comme objet de méditation apaisant.",
+              "photo": "images/articles/cornaline-donut-4cm-mtbmtpf8puhu.jpg",
+              "prixBoutique": 14,
+              "stock": 4
             }
           ]
         }

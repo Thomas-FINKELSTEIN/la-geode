@@ -727,16 +727,25 @@
               "photo": "images/articles/donuts-polychrome-2cm-mtbntnxvpipg.jpg",
               "prixBoutique": 6,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/6oU00kewq5Vze6YcFX2880M",
               "stripeProductId": "prod_V9NidltCz4ND2H",
+              "stripePriceId": "price_1U94xDLOfCA5mATujfXoAOQl",
+              "stripeLinkId": "plink_1U94xELOfCA5mATuDKLEN2l6",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Donuts polychrome 2cm",
               "stripeDesc": "Donuts polychrome 2cm Ce donut en pierre polychrome de 2 cm allie douceur et énergie, avec ses teintes chaudes et ses motifs organiques. En lithothérapie, il est souvent utilisé pour apaiser les émotions et favoriser un équilibre harmonieux, tout en apportant une touche de bien-être au quotidien. Parfait pour une décoration naturelle ou comme pierre porte-bonheur à porter en bijou. Apaisement des tensions émotionnelles Harmonisation des chakras Équilibre et sérénité Décoration, bijoux, méditation",
-              "stripePriceId": "price_1U94xDLOfCA5mATujfXoAOQl",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U94xELOfCA5mATuDKLEN2l6",
-              "stripe": "https://buy.stripe.com/6oU00kewq5Vze6YcFX2880M",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "cristal-de-roche-donut-2cm-mtbnw2k2c466",
+              "nom": "Cristal de roche Donut 2cm",
+              "prix": 6.46,
+              "description": "Ces petits donuts en cristal de roche transparent captent et amplifient les énergies positives autour de vous. Utilisés en lithothérapie pour clarifier l’esprit, renforcer la concentration et apaiser les émotions, ils sont parfaits pour une méditation harmonieuse ou comme élément décoratif purifiant. Leur éclat naturel en fait aussi un allié idéal pour équilibrer les chakras et favoriser une ambiance sereine.",
+              "photo": "images/articles/cristal-de-roche-donut-2cm-mtbnw2k20g3i.jpg",
+              "prixBoutique": 6,
+              "stock": 3
             }
           ]
         }

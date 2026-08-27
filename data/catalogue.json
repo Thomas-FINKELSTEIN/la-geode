@@ -300,6 +300,15 @@
               "stripe": "https://buy.stripe.com/9B65kEfAucjXbYQ6hz2880n",
               "stripeStock": 9,
               "epuise": false
+            },
+            {
+              "id": "obsidienne-donut-3cm-mtbb42rs2gno",
+              "nom": "Obsidienne Donut 3cm",
+              "prix": 13.65,
+              "description": "Découvrez ce donut en obsidienne, pierre de protection et de purification aux reflets mystérieux. Traditionnellement utilisée en lithothérapie pour apaiser les émotions, renforcer la volonté et absorber les énergies négatives, elle est idéale pour ceux qui cherchent à retrouver un équilibre intérieur. Parfaite pour une décoration spirituelle ou comme talisman de protection au quotidien.",
+              "photo": "images/articles/obsidienne-donut-3cm-mtbb42rsdipi.jpg",
+              "prixBoutique": 12.95,
+              "stock": 4
             }
           ]
         }

@@ -384,7 +384,17 @@
               "description": "Découvrez ce Quartz fumé sous forme de donut élégant, une pierre aux reflets mystérieux et apaisants. Symbole de protection et de purification, il est traditionnellement utilisé pour équilibrer les énergies, apaiser les émotions et favoriser la concentration. Parfait pour une touche minérale raffinée dans votre quotidien ou pour une séance de lithothérapie bien-être.",
               "photo": "images/articles/quartz-fume-donut-3cm-mtbbki7ecczh.jpg",
               "prixBoutique": 12.95,
-              "stock": 8
+              "stock": 8,
+              "stripeProductId": "prod_V9IBJmWENKDe4Z",
+              "stripeMode": "live",
+              "stripeNom": "Quartz fumé Donut 3cm",
+              "stripeDesc": "Découvrez ce Quartz fumé sous forme de donut élégant, une pierre aux reflets mystérieux et apaisants. Symbole de protection et de purification, il est traditionnellement utilisé pour équilibrer les énergies, apaiser les émotions et favoriser la concentration. Parfait pour une touche minérale raffinée dans votre quotidien ou pour une séance de lithothérapie bien-être.",
+              "stripePriceId": "price_1U8zbELOfCA5mATuQ9m1uSTy",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1U8zbELOfCA5mATuLWXp6HID",
+              "stripe": "https://buy.stripe.com/eVqbJ2aga2JnaUMfS92880s",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         }

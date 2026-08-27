@@ -137,7 +137,17 @@
               "description": "Découvrez ce beau Donut en sodalite, pierre aux reflets bleutés et mystérieux. Traditionnellement associée à la sagesse et à la communication, elle est idéale pour apaiser les tensions émotionnelles et favoriser la clarté d'esprit. Parfaite pour une touche décorative ou comme objet de méditation, elle s'intègre aussi bien dans votre intérieur que dans votre quotidien pour un bien-être harmonieux.",
               "photo": "images/articles/sodalite-donut-3cm-mtb6lxyqyahn.jpg",
               "prixBoutique": 12.95,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_V9FwjlnY3pozFO",
+              "stripeMode": "live",
+              "stripeNom": "Sodalite Donut 3cm",
+              "stripeDesc": "Découvrez ce beau Donut en sodalite, pierre aux reflets bleutés et mystérieux. Traditionnellement associée à la sagesse et à la communication, elle est idéale pour apaiser les tensions émotionnelles et favoriser la clarté d'esprit. Parfaite pour une touche décorative ou comme objet de méditation, elle s'intègre aussi bien dans votre intérieur que dans votre quotidien pour un bien-être harmonieux.",
+              "stripePriceId": "price_1U8xQsLOfCA5mATuAfUpiHPZ",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1U8xQtLOfCA5mATuZqwWirGZ",
+              "stripe": "https://buy.stripe.com/cNi00kewqcjX4wo8pH2880f",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

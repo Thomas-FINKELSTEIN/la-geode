@@ -574,7 +574,17 @@
               "description": "Ce donut en howlite blanc veiné de motifs noirs élégants est une pièce unique pour sublimer votre intérieur ou votre collection minérale. La howlite est souvent associée à la sérénité et à l'apaisement des émotions, aidant à calmer l'esprit et à favoriser un état de détente profonde. Parfait pour une déco zen ou comme objet de méditation, il apporte une touche naturelle et apaisante à votre quotidien.",
               "photo": "images/articles/howlite-blanc-veine-donut-4-cm-mtbmhauly3i2.jpg",
               "prixBoutique": 14,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_V9N73uZfnruOzq",
+              "stripeMode": "live",
+              "stripeNom": "Howlite blanc veiné Donut 4 cm",
+              "stripeDesc": "Ce donut en howlite blanc veiné de motifs noirs élégants est une pièce unique pour sublimer votre intérieur ou votre collection minérale. La howlite est souvent associée à la sérénité et à l'apaisement des émotions, aidant à calmer l'esprit et à favoriser un état de détente profonde. Parfait pour une déco zen ou comme objet de méditation, il apporte une touche naturelle et apaisante à votre quotidien.",
+              "stripePriceId": "price_1U94MpLOfCA5mATuHt33tbZV",
+              "stripePrix": 14.73,
+              "stripeLinkId": "plink_1U94MpLOfCA5mATuudunWDj5",
+              "stripe": "https://buy.stripe.com/00w14ofAuabPe6Y5dv2880E",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

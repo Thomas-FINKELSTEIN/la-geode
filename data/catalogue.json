@@ -536,7 +536,17 @@
               "description": "Ce Donut en lépidolite 4cm est une pièce unique aux reflets violets et irisés, parfaite pour une touche minérale apaisante. Associée traditionnellement à la sérénité et à l'équilibre émotionnel, cette pierre douce aide à calmer les tensions et favorise la connexion avec ses émotions profondes. Idéale pour les espaces de méditation ou comme porte-bonheur au quotidien, elle rayonne une énergie de douceur et d'harmonie.",
               "photo": "images/articles/lepidolite-donut-4cm-mtbmdgb83646.jpg",
               "prixBoutique": 14,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_V9N4WJ9fOYbgPQ",
+              "stripeMode": "live",
+              "stripeNom": "Lépidolite Donut 4cm",
+              "stripeDesc": "Ce Donut en lépidolite 4cm est une pièce unique aux reflets violets et irisés, parfaite pour une touche minérale apaisante. Associée traditionnellement à la sérénité et à l'équilibre émotionnel, cette pierre douce aide à calmer les tensions et favorise la connexion avec ses émotions profondes. Idéale pour les espaces de méditation ou comme porte-bonheur au quotidien, elle rayonne une énergie de douceur et d'harmonie.",
+              "stripePriceId": "price_1U94K0LOfCA5mATumPha0azi",
+              "stripePrix": 14.73,
+              "stripeLinkId": "plink_1U94K0LOfCA5mATuiA2ZIpZC",
+              "stripe": "https://buy.stripe.com/3cIcN6coi5VzbYQ6hz2880C",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

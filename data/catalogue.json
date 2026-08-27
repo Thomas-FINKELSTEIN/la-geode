@@ -37,7 +37,7 @@
           "articles": [
             {
               "id": "donuts-oeil-de-focon-mt8tozaa8jjh",
-              "nom": "Œil-de-Faucon Donut 3 cm",
+              "nom": "Œil-de-Faucon Donut 3cm",
               "prix": 13.65,
               "description": "Un bel Œil-de-Faucon de 3 cm de diamètre, pierre aux reflets mystérieux et captivants. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel, à la clarté mentale et à l'apaisement des tensions. Parfaite pour une utilisation en méditation, en décoration ou même comme talisman porte-bonheur, elle apporte une énergie harmonieuse au quotidien.",
               "photo": "images/articles/donuts-oeil-de-focon-mt8tozaajdf4.jpg",
@@ -56,7 +56,7 @@
             },
             {
               "id": "donuts-oeil-de-fer-3cm-mt9sx4l07c1p",
-              "nom": "Œil-de-fer Donut 3 cm",
+              "nom": "Œil-de-fer Donut 3cm",
               "prix": 13.65,
               "description": "Ce ravissant donut en Œil-de-fer, originaire d’Afrique du Sud ou d’Australie, allie élégance et puissance minérale. Avec ses reflets dorés et ses motifs uniques, il sublime tout style vestimentaire tout en apportant une touche d’énergie positive. En lithothérapie, l’Œil-de-Tigre est réputé pour renforcer la confiance en soi, stimuler l’énergie vitale et protéger contre les influences négatives. Il est aussi apprécié pour son pouvoir de motivation et de courage, idéal pour les moments où il faut puiser en soi une force supplémentaire. Portez-le en pendentif pour bénéficier de ses vertus au quotidien, ou placez-le dans votre espace de vie pour une ambiance dynamique et protectrice. Parfait pour les amateurs de pierres naturelles et de bien-être.",
               "photo": "images/articles/donuts-oeil-de-fer-3cm-mt9sx4l0tlmq.jpg",
@@ -75,7 +75,7 @@
             },
             {
               "id": "donuts-agate-grise-3cm-mta54dks47d6",
-              "nom": "Agate grise Donut 3 cm",
+              "nom": "Agate grise Donut 3cm",
               "prix": 13.65,
               "description": "Cette agate grise en forme de donut, aux reflets doux et apaisants, est une pierre idéale pour retrouver calme et sérénité au quotidien. En lithothérapie, elle est réputée pour aider à gérer le stress et les émotions, tout en favorisant concentration et patience. Parfaite pour une touche naturelle et bienveillante dans votre intérieur ou en accessoire personnel.",
               "photo": "images/articles/donuts-agate-grise-3cm-mta54dksdhk3.jpg",
@@ -94,7 +94,7 @@
             },
             {
               "id": "donuts-hematite-3cm-mta9y4ffutt2",
-              "nom": "Hématite Donut 3 cm",
+              "nom": "Hématite Donut 3cm",
               "prix": 13.65,
               "description": "Pierre d'ancrage et de connexion à l'instant présent, elle est appréciée en lithothérapie. donne la confiance en soi, protège et aide à calmer de ses propres excès.",
               "photo": "images/articles/donuts-hematite-3cm-mta9y4ffijby.jpg",
@@ -151,7 +151,7 @@
             },
             {
               "id": "il-de-chaleur-donut-3-cm-mtb71tihmdbq",
-              "nom": "Œil-de-Chaleur Donut 3 cm",
+              "nom": "Œil-de-Chaleur Donut 3cm",
               "prix": 13.65,
               "description": "Cette belle pierre en forme de donut, sodalite foncé, offre une apparence profonde et mystérieuse qui apporte immédiatement une touche de calme. En lithothérapie, elle est réputée pour aider à apaiser les émotions, renforcer la confiance en soi et rééquilibrer les énergies. Parfaite pour sublimer votre intérieur ou créer des bijoux uniques, elle allie douceur et élégance naturelle.",
               "photo": "images/articles/il-de-chaleur-donut-3-cm-mtb71tihzwq3.jpg",
@@ -436,11 +436,11 @@
             },
             {
               "id": "il-de-tigre-donut-3-cm-mtbkp9t9pxj4",
-              "nom": "Œil-de-Tigre Donut 3 cm",
-              "prix": 13.65,
+              "nom": "Œil-de-Tigre Donut 4cm",
+              "prix": 14.73,
               "description": "Découvrez notre Œil-de-Tigre sous forme de Donut, une pierre aux reflets dorés et captivants. Symbole de courage et de protection, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi et équilibrer les énergies. Parfaite pour une touche minérale unique, elle apporte une harmonie subtile à votre quotidien.",
               "photo": "images/articles/il-de-tigre-donut-3-cm-mtbkp9t9key1.jpg",
-              "prixBoutique": 12.95,
+              "prixBoutique": 14,
               "stock": 2,
               "stripe": "https://buy.stripe.com/eVqfZifAu3Nr8ME5dv2880v",
               "stripeProductId": "prod_V9MJAVL5YvVlwA",
@@ -461,14 +461,14 @@
               "photo": "images/articles/donuts-unakite-4cm-mtbkttuhof8o.jpg",
               "prixBoutique": 14,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/6oUaEY9c6cjXgf6gWd2880w",
               "stripeProductId": "prod_V9MMbVjbwJB63U",
+              "stripePriceId": "price_1U93e2LOfCA5mATuSmplYnsh",
+              "stripeLinkId": "plink_1U93e2LOfCA5mATuIMvrcPdm",
+              "stripePrix": 14.73,
               "stripeMode": "live",
               "stripeNom": "Donuts unakite 4cm",
               "stripeDesc": "Unakite Donut 4cm Ce donut en unakite de 4 cm est une pièce minérale aux reflets dorés et verts, aussi apaisante que belle. Selon la lithothérapie, cette pierre favorise l’équilibre émotionnel, renforce la confiance en soi et aide à apaiser les tensions du quotidien. Parfaite pour une décoration naturelle ou comme objet de méditation, elle apporte douceur et énergie positive à votre espace. Apaisement des tensions et du stress Équilibre énergétique et harmonie Renforcement de la confiance en soi et de la sérénité Décoration, méditation, porte-bonheur ou objet de collection.",
-              "stripePriceId": "price_1U93e2LOfCA5mATuSmplYnsh",
-              "stripePrix": 14.73,
-              "stripeLinkId": "plink_1U93e2LOfCA5mATuIMvrcPdm",
-              "stripe": "https://buy.stripe.com/6oUaEY9c6cjXgf6gWd2880w",
               "stripeStock": 2,
               "epuise": false
             }

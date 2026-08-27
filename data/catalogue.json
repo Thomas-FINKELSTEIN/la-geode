@@ -441,7 +441,17 @@
               "description": "Découvrez notre Œil-de-Tigre sous forme de Donut, une pierre aux reflets dorés et captivants. Symbole de courage et de protection, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi et équilibrer les énergies. Parfaite pour une touche minérale unique, elle apporte une harmonie subtile à votre quotidien.",
               "photo": "images/articles/il-de-tigre-donut-3-cm-mtbkp9t9key1.jpg",
               "prixBoutique": 12.95,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_V9MJAVL5YvVlwA",
+              "stripeMode": "live",
+              "stripeNom": "Œil-de-Tigre Donut 3 cm",
+              "stripeDesc": "Découvrez notre Œil-de-Tigre sous forme de Donut, une pierre aux reflets dorés et captivants. Symbole de courage et de protection, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi et équilibrer les énergies. Parfaite pour une touche minérale unique, elle apporte une harmonie subtile à votre quotidien.",
+              "stripePriceId": "price_1U93ahLOfCA5mATu7AubRace",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1U93ahLOfCA5mATu2EVRVVra",
+              "stripe": "https://buy.stripe.com/eVqfZifAu3Nr8ME5dv2880v",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

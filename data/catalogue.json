@@ -612,7 +612,17 @@
               "description": "Ce joli Œil-de-Fer en forme de donut 4cm est une pierre aux reflets dorés et aux motifs tourbillonnants qui captivent le regard. En lithothérapie, il est souvent utilisé pour renforcer la vitalité et l’énergie vitale, tout en aidant à ancrer les émotions et à apaiser les tensions. Parfait pour une décoration minérale ou comme objet de bien-être à garder près de soi.",
               "photo": "images/articles/il-de-fer-donut-4cm-mtbmlqh3syoc.jpg",
               "prixBoutique": 14,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_V9NAhYhYMR5MGW",
+              "stripeMode": "live",
+              "stripeNom": "Œil-de-Fer Donut 4cm",
+              "stripeDesc": "Ce joli Œil-de-Fer en forme de donut 4cm est une pierre aux reflets dorés et aux motifs tourbillonnants qui captivent le regard. En lithothérapie, il est souvent utilisé pour renforcer la vitalité et l’énergie vitale, tout en aidant à ancrer les émotions et à apaiser les tensions. Parfait pour une décoration minérale ou comme objet de bien-être à garder près de soi.",
+              "stripePriceId": "price_1U94Q7LOfCA5mATuQcKb778V",
+              "stripePrix": 14.73,
+              "stripeLinkId": "plink_1U94Q8LOfCA5mATu5LIxzV11",
+              "stripe": "https://buy.stripe.com/9B628sfAu97Lfb2eO52880G",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

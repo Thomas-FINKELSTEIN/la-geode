@@ -707,7 +707,17 @@
               "description": "Découvrez ce donut en obsidienne noire de 2 cm, une pierre aux reflets sombres et élégants. L'obsidienne est réputée pour ses vertus apaisantes, aidant à libérer les tensions émotionnelles et à équilibrer l'énergie. Parfaite pour la méditation, la décoration ou en lithothérapie, elle apporte une touche mystérieuse et protectrice à votre quotidien.",
               "photo": "images/articles/obsidienne-donut-2cm-mtbnr8uzd2uc.jpg",
               "prixBoutique": 6,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_V9Ngd2mrPmNfGx",
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne Donut 2cm",
+              "stripeDesc": "Découvrez ce donut en obsidienne noire de 2 cm, une pierre aux reflets sombres et élégants. L'obsidienne est réputée pour ses vertus apaisantes, aidant à libérer les tensions émotionnelles et à équilibrer l'énergie. Parfaite pour la méditation, la décoration ou en lithothérapie, elle apporte une touche mystérieuse et protectrice à votre quotidien.",
+              "stripePriceId": "price_1U94vMLOfCA5mATuYiG1e9Iu",
+              "stripePrix": 6.46,
+              "stripeLinkId": "plink_1U94vNLOfCA5mATuxIsne62p",
+              "stripe": "https://buy.stripe.com/eVq7sMbkecjX2ogbBT2880L",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

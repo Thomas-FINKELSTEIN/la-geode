@@ -745,7 +745,17 @@
               "description": "Ces petits donuts en cristal de roche transparent captent et amplifient les énergies positives autour de vous. Utilisés en lithothérapie pour clarifier l’esprit, renforcer la concentration et apaiser les émotions, ils sont parfaits pour une méditation harmonieuse ou comme élément décoratif purifiant. Leur éclat naturel en fait aussi un allié idéal pour équilibrer les chakras et favoriser une ambiance sereine.",
               "photo": "images/articles/cristal-de-roche-donut-2cm-mtbnw2k20g3i.jpg",
               "prixBoutique": 6,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_V9NkBmsIb2sy64",
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche Donut 2cm",
+              "stripeDesc": "Ces petits donuts en cristal de roche transparent captent et amplifient les énergies positives autour de vous. Utilisés en lithothérapie pour clarifier l’esprit, renforcer la concentration et apaiser les émotions, ils sont parfaits pour une méditation harmonieuse ou comme élément décoratif purifiant. Leur éclat naturel en fait aussi un allié idéal pour équilibrer les chakras et favoriser une ambiance sereine.",
+              "stripePriceId": "price_1U94z1LOfCA5mATug6slrloZ",
+              "stripePrix": 6.46,
+              "stripeLinkId": "plink_1U94z1LOfCA5mATuNRRbz7EH",
+              "stripe": "https://buy.stripe.com/9B6aEY4VQdo15As7lD2880N",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

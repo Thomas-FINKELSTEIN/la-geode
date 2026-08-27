@@ -270,7 +270,17 @@
               "description": "Ce donut en jaspe paysage de 3 cm est une pièce naturelle aux motifs organiques apaisants, évoquant les paysages terrestres. En lithothérapie, cette pierre douce est souvent associée à l'équilibre émotionnel, à la stabilité et à la connexion avec la nature, aidant à apaiser les tensions du quotidien. Idéal pour une décoration minérale ou comme objet de bien-être à garder près de soi.",
               "photo": "images/articles/jaspe-paysage-donut-3cm-mtbav3mi0fhd.jpg",
               "prixBoutique": 12.95,
-              "stock": 9
+              "stock": 9,
+              "stripeProductId": "prod_V9HrcZ9m1UzcK0",
+              "stripeMode": "live",
+              "stripeNom": "Jaspe paysage Donut 3cm",
+              "stripeDesc": "Ce donut en jaspe paysage de 3 cm est une pièce naturelle aux motifs organiques apaisants, évoquant les paysages terrestres. En lithothérapie, cette pierre douce est souvent associée à l'équilibre émotionnel, à la stabilité et à la connexion avec la nature, aidant à apaiser les tensions du quotidien. Idéal pour une décoration minérale ou comme objet de bien-être à garder près de soi.",
+              "stripePriceId": "price_1U8zI5LOfCA5mATuNRODfYCT",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1U8zI5LOfCA5mATuFWG5DynG",
+              "stripe": "https://buy.stripe.com/14AfZi73YbfT7IA9tL2880m",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         }

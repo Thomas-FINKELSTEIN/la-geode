@@ -167,6 +167,15 @@
               "stripe": "https://buy.stripe.com/8x2fZi88297L6Ew5dv2880g",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "jaspe-rouge-donut-3cm-mtb7hro9x53v",
+              "nom": "Jaspe rouge Donut 3cm",
+              "prix": 13.65,
+              "description": "Découvrez ce joli Donut en jaspe rouge, une pierre douce et chaleureuse aux reflets dorés qui apporte équilibre et énergie positive. Traditionnellement utilisée en lithothérapie pour renforcer la vitalité et apaiser les émotions, elle est idéale pour harmoniser le corps et l’esprit au quotidien. Parfaite pour une touche naturelle et bienveillante dans votre intérieur ou pour une utilisation en méditation.",
+              "photo": "images/articles/jaspe-rouge-donut-3cm-mtb7hro949h5.jpg",
+              "prixBoutique": 12.95,
+              "stock": 2
             }
           ]
         }

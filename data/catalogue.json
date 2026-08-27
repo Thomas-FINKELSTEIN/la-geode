@@ -822,16 +822,25 @@
               "photo": "images/articles/donuts-jaspe-rouge-2cm-mtbofjci0f9k.jpg",
               "prixBoutique": 6,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/8x24gA4VQcjXfb2fS92880R",
               "stripeProductId": "prod_V9NzTMR3BjUPgo",
+              "stripePriceId": "price_1U95DiLOfCA5mATuyolvr5cK",
+              "stripeLinkId": "plink_1U95DjLOfCA5mATuypxXmszc",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Donuts jaspe rouge 2cm",
               "stripeDesc": "Donuts jaspe rouge 2cm Ce donut en jaspe rouge, aux reflets chauds et aux motifs organiques, est une pièce naturelle et apaisante à porter au quotidien. Le jaspe rouge est traditionnellement associé à la vitalité, à l'énergie vitale et à la stabilité émotionnelle, aidant à renforcer la confiance en soi et à ancrer les intentions positives. Parfait pour une touche minérale et colorée, il s'accorde aussi bien avec des tenues bohèmes qu'urbaines. Stimule la vitalité et l'énergie physique. Renforce la stabilité émotionnelle et la confiance en soi. Aide à équilibrer les émotions et à ancrer les intentions positives. Idéal pour une utilisation quotidienne en bijouterie ou comme objet décoratif.",
-              "stripePriceId": "price_1U95DiLOfCA5mATuyolvr5cK",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U95DjLOfCA5mATuypxXmszc",
-              "stripe": "https://buy.stripe.com/8x24gA4VQcjXfb2fS92880R",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "obsidienne-neige-donut-2cm-mtboh9sizf4n",
+              "nom": "Obsidienne neige Donut 2cm",
+              "prix": 6.46,
+              "description": "Ce donut en obsidienne neige, pierre aux reflets mystérieux et apaisants, est un allié précieux pour équilibrer les émotions et apaiser l’esprit. Riche en énergie protectrice, elle favorise la connexion à soi-même et aide à dissoudre les tensions accumulées. Parfaite pour une méditation ou comme objet décoratif, elle s’intègre harmonieusement dans un espace bien-être ou une collection minérale.",
+              "photo": "images/articles/obsidienne-neige-donut-2cm-mtboh9sim6z5.jpg",
+              "prixBoutique": 6,
+              "stock": 2
             }
           ]
         }

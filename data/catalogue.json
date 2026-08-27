@@ -422,7 +422,17 @@
               "description": "Découvrez ce donut en lépidolite, une pierre douce aux reflets lavande, idéale pour apaiser les émotions et favoriser la sérénité. Traditionnellement utilisée en lithothérapie pour équilibrer les chakras du cœur et de la gorge, elle aide à calmer les tensions, les peurs et les angoisses. Parfaite pour une méditation apaisante ou comme objet décoratif bienveillant, elle diffuse une énergie douce et réconfortante au quotidien.",
               "photo": "images/articles/lepidolite-donut-3cm-mtbc5f0wbsvr.jpg",
               "prixBoutique": 12.95,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_V9IREhFgmHlNtA",
+              "stripeMode": "live",
+              "stripeNom": "Lépidolite Donut 3cm",
+              "stripeDesc": "Découvrez ce donut en lépidolite, une pierre douce aux reflets lavande, idéale pour apaiser les émotions et favoriser la sérénité. Traditionnellement utilisée en lithothérapie pour équilibrer les chakras du cœur et de la gorge, elle aide à calmer les tensions, les peurs et les angoisses. Parfaite pour une méditation apaisante ou comme objet décoratif bienveillant, elle diffuse une énergie douce et réconfortante au quotidien.",
+              "stripePriceId": "price_1U8zqzLOfCA5mATumU630Z5i",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1U8zqzLOfCA5mATut7cCVpSL",
+              "stripe": "https://buy.stripe.com/14AaEY882bfTbYQeO52880u",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

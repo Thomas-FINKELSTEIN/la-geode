@@ -357,6 +357,15 @@
               "stripe": "https://buy.stripe.com/9B69AUfAu83H6EwcFX2880q",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "cristal-de-roche-donut-3cm-mtbbgz7m4t6u",
+              "nom": "Cristal de roche Donut 3cm",
+              "prix": 13.65,
+              "description": "Découvrez ce magnifique cristal de roche sous forme de donut, pur et translucide comme la lumière elle-même. En lithothérapie, il est réputé pour amplifier les énergies positives, clarifier l’esprit et apporter une sensation de paix intérieure, tout en renforçant la connexion à son intuition. Parfait pour une décoration minérale élégante ou pour accompagner vos moments de méditation.",
+              "photo": "images/articles/cristal-de-roche-donut-3cm-mtbbgz7mtjee.jpg",
+              "prixBoutique": 12.95,
+              "stock": 9
             }
           ]
         }

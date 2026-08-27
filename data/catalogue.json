@@ -783,7 +783,17 @@
               "description": "Ce joli Donut en jaspe orbiculaire de 3 cm est une pièce unique aux motifs tourbillonnants et aux reflets dorés, parfait pour sublimer vos créations ou votre intérieur. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel, la stabilité et la reconnexion à la terre, aidant à apaiser les tensions et à renforcer la confiance en soi. Idéal en pendentif, porte-bonheur ou objet de méditation, il diffuse une énergie apaisante et harmonieuse au quotidien.",
               "photo": "images/articles/jaspe-orbiculaire-donut-3cm-mtboabpmqbt8.jpg",
               "prixBoutique": 6,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_V9NvdKxufIIpTL",
+              "stripeMode": "live",
+              "stripeNom": "Jaspe orbiculaire Donut 3cm",
+              "stripeDesc": "Ce joli Donut en jaspe orbiculaire de 3 cm est une pièce unique aux motifs tourbillonnants et aux reflets dorés, parfait pour sublimer vos créations ou votre intérieur. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel, la stabilité et la reconnexion à la terre, aidant à apaiser les tensions et à renforcer la confiance en soi. Idéal en pendentif, porte-bonheur ou objet de méditation, il diffuse une énergie apaisante et harmonieuse au quotidien.",
+              "stripePriceId": "price_1U959mLOfCA5mATuZvVAhPNO",
+              "stripePrix": 6.46,
+              "stripeLinkId": "plink_1U959mLOfCA5mATumQk6ezBC",
+              "stripe": "https://buy.stripe.com/6oUcN64VQes51kc6hz2880P",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

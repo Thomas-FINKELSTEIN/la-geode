@@ -1012,16 +1012,25 @@
               "photo": "images/articles/citrine-donut-2cm-mtboz9kbbz3a.jpg",
               "prixBoutique": 6,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/7sY3cw1JE0Bf9QI9tL28811",
               "stripeProductId": "prod_V9OF134p9e5IIX",
+              "stripePriceId": "price_1U95SaLOfCA5mATu2YQQIz8x",
+              "stripeLinkId": "plink_1U95SaLOfCA5mATu8Ft8bXTo",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Citrine Donut 2cm",
               "stripeDesc": "Une belle Citrine en forme de donut, douce et lumineuse, qui diffuse une énergie chaleureuse et apaisante. Cette pierre ensoleillée est réputée pour renforcer la confiance en soi, clarifier l’esprit et attirer la positivité au quotidien. Parfaite à glisser dans un sac ou à porter en bijou pour un effet revitalisant naturel.",
-              "stripePriceId": "price_1U95SaLOfCA5mATu2YQQIz8x",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U95SaLOfCA5mATu8Ft8bXTo",
-              "stripe": "https://buy.stripe.com/7sY3cw1JE0Bf9QI9tL28811",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "boule-jaspe-mokaite-donut-1cm-mtbqjwma1qbv",
+              "nom": "Boule Jaspe Mokáïte Donut 1cm",
+              "prix": 6.98,
+              "description": "Cette boule de jaspe mokáïte, d'une taille parfaite de 1 cm, est une pierre aux reflets chauds et apaisants. En lithothérapie, elle est souvent utilisée pour renforcer la stabilité émotionnelle et favoriser un sentiment de sécurité intérieure. Idéale pour apaiser les tensions et équilibrer les énergies, elle se prête aussi bien à une utilisation en méditation qu’à une décoration minérale harmonieuse.",
+              "photo": "images/articles/boule-jaspe-mokaite-donut-1cm-mtbqjwmb3pfp.jpg",
+              "prixBoutique": 6.5,
+              "stock": 3
             }
           ]
         }

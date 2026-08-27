@@ -1106,7 +1106,17 @@
               "description": "Cette boule de jaspe kambaba, polie avec soin, est une pierre aux reflets verts profonds et aux éclats dorés qui captivent immédiatement. En lithothérapie, elle est souvent associée à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Parfaite pour une utilisation quotidienne, elle se porte en pendentif ou se garde près de soi pour bénéficier de son énergie harmonieuse et stabilisatrice.",
               "photo": "images/articles/jaspe-kambaba-donut-1cm-mtbqtt0iq250.jpg",
               "prixBoutique": 6.5,
-              "stock": 10
+              "stock": 10,
+              "stripeProductId": "prod_V9P4kmPccCf157",
+              "stripeMode": "live",
+              "stripeNom": "Jaspe kambaba Donut 1cm",
+              "stripeDesc": "Cette boule de jaspe kambaba, polie avec soin, est une pierre aux reflets verts profonds et aux éclats dorés qui captivent immédiatement. En lithothérapie, elle est souvent associée à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Parfaite pour une utilisation quotidienne, elle se porte en pendentif ou se garde près de soi pour bénéficier de son énergie harmonieuse et stabilisatrice.",
+              "stripePriceId": "price_1U96GdLOfCA5mATuHIhvZi60",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1U96GdLOfCA5mATuJ6a98uLp",
+              "stripe": "https://buy.stripe.com/00w5kE2NI0Bf7IA0Xf28816",
+              "stripeStock": 10,
+              "epuise": false
             }
           ]
         }

@@ -689,16 +689,25 @@
               "photo": "images/articles/cornaline-donut-4cm-mtbmtpf8puhu.jpg",
               "prixBoutique": 14,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/6oU5kEdsmfw91kcdK12880K",
               "stripeProductId": "prod_V9NGMsh7x6q4rV",
+              "stripePriceId": "price_1U94W9LOfCA5mATunpZzzZD2",
+              "stripeLinkId": "plink_1U94W9LOfCA5mATubdD4OoU0",
+              "stripePrix": 14.73,
               "stripeMode": "live",
               "stripeNom": "Cornaline Donut 4cm",
               "stripeDesc": "Découvrez notre Cornaline sous forme de donut, une pierre précieuse au rouge chaleureux et vibrant, symbole d'énergie vitale et de passion. En lithothérapie, elle est souvent associée à la stimulation de la confiance en soi et à l'équilibre émotionnel, tout en renforçant la vitalité. Parfaite pour une touche naturelle et élégante dans votre quotidien ou comme objet de méditation apaisant.",
-              "stripePriceId": "price_1U94W9LOfCA5mATunpZzzZD2",
-              "stripePrix": 14.73,
-              "stripeLinkId": "plink_1U94W9LOfCA5mATubdD4OoU0",
-              "stripe": "https://buy.stripe.com/6oU5kEdsmfw91kcdK12880K",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "obsidienne-donut-2cm-mtbnr8uzw242",
+              "nom": "Obsidienne Donut 2cm",
+              "prix": 6.46,
+              "description": "Découvrez ce donut en obsidienne noire de 2 cm, une pierre aux reflets sombres et élégants. L'obsidienne est réputée pour ses vertus apaisantes, aidant à libérer les tensions émotionnelles et à équilibrer l'énergie. Parfaite pour la méditation, la décoration ou en lithothérapie, elle apporte une touche mystérieuse et protectrice à votre quotidien.",
+              "photo": "images/articles/obsidienne-donut-2cm-mtbnr8uzd2uc.jpg",
+              "prixBoutique": 6,
+              "stock": 1
             }
           ]
         }

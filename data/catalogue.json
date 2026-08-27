@@ -251,7 +251,17 @@
               "description": "Découvrez ce joli Donut en jade, pierre de douceur et d'harmonie, idéale pour apaiser les émotions et favoriser la sérénité au quotidien. Traditionnellement utilisée en lithothérapie pour équilibrer les énergies et renforcer la connexion à la nature, cette pierre verte apporte calme et sagesse. Parfaite à porter en bijou ou à garder près de soi pour un bien-être naturel.",
               "photo": "images/articles/jade-donut-3cm-mtbapekgwfxy.jpg",
               "prixBoutique": 12.95,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_V9HnaSDoUPSFsn",
+              "stripeMode": "live",
+              "stripeNom": "Jade Donut 3cm",
+              "stripeDesc": "Découvrez ce joli Donut en jade, pierre de douceur et d'harmonie, idéale pour apaiser les émotions et favoriser la sérénité au quotidien. Traditionnellement utilisée en lithothérapie pour équilibrer les énergies et renforcer la connexion à la nature, cette pierre verte apporte calme et sagesse. Parfaite à porter en bijou ou à garder près de soi pour un bien-être naturel.",
+              "stripePriceId": "price_1U8zDtLOfCA5mATuV2nAXUnn",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1U8zDtLOfCA5mATu3qnhWKcN",
+              "stripe": "https://buy.stripe.com/14AaEYdsm4Rve6YdK12880l",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

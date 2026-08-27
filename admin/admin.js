@@ -125,7 +125,67 @@
   function prixFr(prix) { return prix === null || prix === undefined ? '' : String(prix).replace('.', ','); }
   function aujourdhui() { var d = new Date(); return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0'); }
 
-  function markDirty() { state.nbModifs++; updateStatusbar(); }
+  function markDirty() { state.nbModifs++; updateStatusbar(); sauverBrouillon(); }
+
+  /* ---------- Brouillon automatique ----------
+     Chaque modification est gardée dans le navigateur : si la page est rechargée
+     (F5, plantage, onglet fermé) avant la mise en ligne, rien n'est perdu. */
+  var BROUILLON_KEY = 'geode-brouillon';
+
+  function sauverBrouillon() {
+    try {
+      if (!state.nbModifs) { localStorage.removeItem(BROUILLON_KEY); return; }
+      localStorage.setItem(BROUILLON_KEY, JSON.stringify({
+        date: Date.now(),
+        nbModifs: state.nbModifs,
+        empreinte: state.empreinte,
+        catalogue: state.catalogue,
+        pendingPhotos: state.pendingPhotos
+      }));
+    } catch (e) { /* stockage plein : on garde le brouillon précédent */ }
+  }
+
+  function restaurerBrouillon() {
+    var brut = null;
+    try { brut = localStorage.getItem(BROUILLON_KEY); } catch (e) {}
+    if (!brut) return;
+    var b = null;
+    try { b = JSON.parse(brut); } catch (e) {}
+    if (!b || !b.nbModifs || !b.catalogue) { try { localStorage.removeItem(BROUILLON_KEY); } catch (e) {} return; }
+    var quand = new Date(b.date).toLocaleString('fr-FR');
+    if (!confirm('Bonne nouvelle : vos modifications non mises en ligne (' + b.nbModifs +
+      ' changement' + (b.nbModifs > 1 ? 's' : '') + ', le ' + quand + ') ont été retrouvées.\n\n' +
+      'Voulez-vous les récupérer ?')) {
+      try { localStorage.removeItem(BROUILLON_KEY); } catch (e) {}
+      return;
+    }
+    var frais = state.catalogue;
+    var empreinteFrais = empreinteSansRobot(frais);
+    if (empreinteFrais !== b.empreinte) {
+      if (!confirm('Attention : la boutique a aussi été modifiée depuis un autre appareil entre-temps. ' +
+        'Récupérer le brouillon peut écraser ces autres modifications.\n\nRécupérer quand même ?')) {
+        try { localStorage.removeItem(BROUILLON_KEY); } catch (e) {}
+        return;
+      }
+    }
+    // On repart du brouillon, en y greffant les champs des robots (ventes, stocks)
+    // de la version fraîche : aucune vente n'est perdue.
+    var parId = {};
+    chaqueArticle(frais, function (a) { parId[a.id] = a; });
+    chaqueArticle(b.catalogue, function (a) {
+      var d = parId[a.id];
+      if (!d) return;
+      CHAMPS_ROBOT.forEach(function (c) {
+        if (d[c] === undefined) delete a[c]; else a[c] = d[c];
+      });
+    });
+    state.catalogue = b.catalogue;
+    if (!state.catalogue.actualites) state.catalogue.actualites = [];
+    state.pendingPhotos = b.pendingPhotos || {};
+    state.nbModifs = b.nbModifs;
+    state.empreinte = empreinteFrais;
+    // state.sha reste celui qui vient d'être chargé : la mise en ligne passera.
+  }
 
   function updateStatusbar() {
     var dirty = state.nbModifs > 0;
@@ -900,6 +960,7 @@
       state.empreinte = empreinteSansRobot(state.catalogue);
       state.pendingPhotos = {};
       state.nbModifs = 0;
+      sauverBrouillon();
       updateStatusbar();
       setStatus('✓ C\'est en ligne ! Le site se met à jour dans 1 à 2 minutes.', true);
     }).catch(function (e) {
@@ -918,6 +979,7 @@
       $('login').classList.add('hidden');
       $('editor').classList.remove('hidden');
       $('statusbar').classList.remove('hidden');
+      restaurerBrouillon();
       updateStatusbar();
       render();
     }).catch(function (e) {

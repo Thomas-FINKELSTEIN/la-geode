@@ -594,16 +594,25 @@
               "photo": "images/articles/jaspe-dalmatien-donut-4cm-mtbmjustuvkq.jpg",
               "prixBoutique": 14,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/5kQbJ273Y5Vzfb25dv2880F",
               "stripeProductId": "prod_V9N9mkBtR6vRkI",
+              "stripePriceId": "price_1U94OkLOfCA5mATuWyl0BsHx",
+              "stripeLinkId": "plink_1U94OkLOfCA5mATuIIjwkpZy",
+              "stripePrix": 14.73,
               "stripeMode": "live",
               "stripeNom": "Jaspe dalmatien Donut 4cm",
               "stripeDesc": "Ce joli Donut en jaspe dalmatien 4cm, aux motifs noirs et blancs contrastés, est une pierre de protection et d'équilibre. En lithothérapie, il est souvent utilisé pour apaiser les émotions, renforcer la confiance en soi et favoriser la stabilité intérieure. Parfait pour une décoration minérale ou comme objet de méditation, il apporte une touche naturelle et énergétique à votre quotidien.",
-              "stripePriceId": "price_1U94OkLOfCA5mATuWyl0BsHx",
-              "stripePrix": 14.73,
-              "stripeLinkId": "plink_1U94OkLOfCA5mATuIIjwkpZy",
-              "stripe": "https://buy.stripe.com/5kQbJ273Y5Vzfb25dv2880F",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "il-de-fer-donut-4cm-mtbmlqh3vly8",
+              "nom": "Œil-de-Fer Donut 4cm",
+              "prix": 14.73,
+              "description": "Ce joli Œil-de-Fer en forme de donut 4cm est une pierre aux reflets dorés et aux motifs tourbillonnants qui captivent le regard. En lithothérapie, il est souvent utilisé pour renforcer la vitalité et l’énergie vitale, tout en aidant à ancrer les émotions et à apaiser les tensions. Parfait pour une décoration minérale ou comme objet de bien-être à garder près de soi.",
+              "photo": "images/articles/il-de-fer-donut-4cm-mtbmlqh3syoc.jpg",
+              "prixBoutique": 14,
+              "stock": 5
             }
           ]
         }

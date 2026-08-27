@@ -650,7 +650,17 @@
               "description": "Ce Donut en hématite de 4 cm est une pièce unique alliant élégance et bienfaits énergétiques. L'hématite est réputée pour son pouvoir de protection et d'ancrage, aidant à stabiliser les émotions et à renforcer la concentration. Parfaite pour une décoration minérale apaisante ou comme objet de méditation, elle attire aussi bien les amateurs de lithothérapie que les passionnés de pierres naturelles.",
               "photo": "images/articles/hematite-donut-4cm-mtbmqaisyr9t.jpg",
               "prixBoutique": 14,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_V9NEeUVLchzAha",
+              "stripeMode": "live",
+              "stripeNom": "Hématite Donut 4cm",
+              "stripeDesc": "Ce Donut en hématite de 4 cm est une pièce unique alliant élégance et bienfaits énergétiques. L'hématite est réputée pour son pouvoir de protection et d'ancrage, aidant à stabiliser les émotions et à renforcer la concentration. Parfaite pour une décoration minérale apaisante ou comme objet de méditation, elle attire aussi bien les amateurs de lithothérapie que les passionnés de pierres naturelles.",
+              "stripePriceId": "price_1U94TcLOfCA5mATuz3k4EkKe",
+              "stripePrix": 14.73,
+              "stripeLinkId": "plink_1U94TdLOfCA5mATu8XcKlHsB",
+              "stripe": "https://buy.stripe.com/eVqcN6gEy4Rv5As8pH2880I",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

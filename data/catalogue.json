@@ -613,16 +613,25 @@
               "photo": "images/articles/il-de-fer-donut-4cm-mtbmlqh3syoc.jpg",
               "prixBoutique": 14,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/9B628sfAu97Lfb2eO52880G",
               "stripeProductId": "prod_V9NAhYhYMR5MGW",
+              "stripePriceId": "price_1U94Q7LOfCA5mATuQcKb778V",
+              "stripeLinkId": "plink_1U94Q8LOfCA5mATu5LIxzV11",
+              "stripePrix": 14.73,
               "stripeMode": "live",
               "stripeNom": "Œil-de-Fer Donut 4cm",
               "stripeDesc": "Ce joli Œil-de-Fer en forme de donut 4cm est une pierre aux reflets dorés et aux motifs tourbillonnants qui captivent le regard. En lithothérapie, il est souvent utilisé pour renforcer la vitalité et l’énergie vitale, tout en aidant à ancrer les émotions et à apaiser les tensions. Parfait pour une décoration minérale ou comme objet de bien-être à garder près de soi.",
-              "stripePriceId": "price_1U94Q7LOfCA5mATuQcKb778V",
-              "stripePrix": 14.73,
-              "stripeLinkId": "plink_1U94Q8LOfCA5mATu5LIxzV11",
-              "stripe": "https://buy.stripe.com/9B628sfAu97Lfb2eO52880G",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "jaspe-leopard-donut-4cm-mtbmndz0igyv",
+              "nom": "Jaspe leopard Donut 4cm",
+              "prix": 14.73,
+              "description": "Ce magnifique jaspe leopard en forme de donut 4cm est une pierre aux motifs envoûtants rappelant les taches d’un léopard. En lithothérapie, il est réputé pour renforcer la confiance en soi, équilibrer les émotions et stimuler l’énergie vitale. Parfait pour une décoration minérale ou comme porte-bonheur au quotidien, il apporte harmonie et protection.",
+              "photo": "images/articles/jaspe-leopard-donut-4cm-mtbmndz0e5ey.jpg",
+              "prixBoutique": 14,
+              "stock": 3
             }
           ]
         }

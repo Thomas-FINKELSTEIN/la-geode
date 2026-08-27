@@ -803,16 +803,25 @@
               "photo": "images/articles/donuts-unakite-2cm-mtbocvujwcnd.jpg",
               "prixBoutique": 6,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/fZu9AU8825Vz8MEgWd2880Q",
               "stripeProductId": "prod_V9NxLHS23XnO4r",
+              "stripePriceId": "price_1U95BgLOfCA5mATuNjTkWX5A",
+              "stripeLinkId": "plink_1U95BgLOfCA5mATuozPzdSd1",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Donuts unakite 2cm",
               "stripeDesc": "Unakite Donut 2cm Découvrez ce ravissant Donut en unakite, une pierre aux teintes harmonieuses de vert, rose et noir qui évoque la douceur et l'équilibre. Selon la lithothérapie, l'unakite est souvent associée à la guérison émotionnelle, aidant à apaiser les tensions et à renforcer la connexion avec soi-même. Parfaite pour une méditation apaisante ou comme objet décoratif, elle attire également une énergie positive et bienveillante dans votre quotidien. Apaisante, favorise la détente et la sérénité. Équilibre les émotions et renforce la confiance en soi. Aide à surmonter les peurs et les blocages intérieurs. Idéale pour la méditation, la décoration ou portée en bijou pour bénéficier de ses vertus toute la journée.",
-              "stripePriceId": "price_1U95BgLOfCA5mATuNjTkWX5A",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U95BgLOfCA5mATuozPzdSd1",
-              "stripe": "https://buy.stripe.com/fZu9AU8825Vz8MEgWd2880Q",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "donuts-jaspe-rouge-2cm-mtbofjcidlda",
+              "nom": "Donuts jaspe rouge 2cm",
+              "prix": 6.46,
+              "description": "Donuts jaspe rouge 2cm Ce donut en jaspe rouge, aux reflets chauds et aux motifs organiques, est une pièce naturelle et apaisante à porter au quotidien. Le jaspe rouge est traditionnellement associé à la vitalité, à l'énergie vitale et à la stabilité émotionnelle, aidant à renforcer la confiance en soi et à ancrer les intentions positives. Parfait pour une touche minérale et colorée, il s'accorde aussi bien avec des tenues bohèmes qu'urbaines. Stimule la vitalité et l'énergie physique. Renforce la stabilité émotionnelle et la confiance en soi. Aide à équilibrer les émotions et à ancrer les intentions positives. Idéal pour une utilisation quotidienne en bijouterie ou comme objet décoratif.",
+              "photo": "images/articles/donuts-jaspe-rouge-2cm-mtbofjci0f9k.jpg",
+              "prixBoutique": 6,
+              "stock": 5
             }
           ]
         }

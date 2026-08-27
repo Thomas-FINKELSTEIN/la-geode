@@ -156,7 +156,17 @@
               "description": "Cette belle pierre en forme de donut, sodalite foncé, offre une apparence profonde et mystérieuse qui apporte immédiatement une touche de calme. En lithothérapie, elle est réputée pour aider à apaiser les émotions, renforcer la confiance en soi et rééquilibrer les énergies. Parfaite pour sublimer votre intérieur ou créer des bijoux uniques, elle allie douceur et élégance naturelle.",
               "photo": "images/articles/il-de-chaleur-donut-3-cm-mtb71tihzwq3.jpg",
               "prixBoutique": 12.95,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_V9G9FpSfisilKW",
+              "stripeMode": "live",
+              "stripeNom": "Œil-de-Chaleur Donut 3 cm",
+              "stripeDesc": "Cette belle pierre en forme de donut, sodalite foncé, offre une apparence profonde et mystérieuse qui apporte immédiatement une touche de calme. En lithothérapie, elle est réputée pour aider à apaiser les émotions, renforcer la confiance en soi et rééquilibrer les énergies. Parfaite pour sublimer votre intérieur ou créer des bijoux uniques, elle allie douceur et élégance naturelle.",
+              "stripePriceId": "price_1U8xcnLOfCA5mATuY9AiCjY4",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1U8xcnLOfCA5mATu197TUTx9",
+              "stripe": "https://buy.stripe.com/8x2fZi88297L6Ew5dv2880g",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

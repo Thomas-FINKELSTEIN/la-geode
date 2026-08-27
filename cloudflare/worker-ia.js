@@ -51,6 +51,30 @@ function nettoyer(t) {
     .trim();
 }
 
+/* Pierres connues de la boutique : garde-fou pour que l IA ne remplace jamais
+   la pierre nommee par la vendeuse par une autre (confusions frequentes). */
+const PIERRES = ['amethyste', 'agate', 'aventurine', 'citrine', 'quartz rose', 'quartz fume',
+  'cristal de roche', 'labradorite', 'lapis lazuli', 'malachite', 'obsidienne', 'oeil de tigre',
+  'oeil de faucon', 'oeil de taureau', 'hematite', 'jaspe', 'onyx', 'opale', 'pyrite', 'selenite',
+  'shungite', 'sodalite', 'tourmaline', 'turquoise', 'fluorite', 'calcite', 'celestine',
+  'cornaline', 'grenat', 'howlite', 'jade', 'kunzite', 'larimar', 'moldavite', 'morganite',
+  'peridot', 'pierre de lune', 'pierre de soleil', 'prehnite', 'rhodochrosite', 'rhodonite',
+  'serpentine', 'topaze', 'unakite', 'amazonite', 'angelite', 'apatite', 'aigue marine',
+  'azurite', 'bronzite', 'charoite', 'chrysocolle', 'chrysoprase', 'dumortierite', 'epidote',
+  'iolite', 'kyanite', 'lepidolite', 'magnesite', 'mokaite', 'pietersite', 'septaria',
+  'seraphinite', 'sugilite', 'tanzanite', 'emeraude', 'rubis', 'saphir', 'ambre', 'nacre'];
+
+function normalise(t) {
+  return String(t || '').toLowerCase().replace(/œ/g, 'oe')
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z]/g, '');
+}
+
+function pierresDans(texte) {
+  const n = normalise(texte);
+  return PIERRES.filter(function (p) { return n.indexOf(normalise(p)) !== -1; });
+}
+
 function reponseJson(obj, statut, origin) {
   return new Response(JSON.stringify(obj), {
     status: statut,
@@ -95,7 +119,12 @@ export default {
       'Tu rediges la fiche produit pour la boutique La Geode le Showroom, specialisee en ' +
       'mineraux, cristaux, bijoux en pierres naturelles, encens et decoration. ' +
       'Identifie la pierre ou le produit visible sur la photo.';
-    if (titreActuel) consigne += ' Titre actuel de la fiche : ' + titreActuel + '.';
+    if (titreActuel) {
+      consigne += ' Titre actuel de la fiche : ' + titreActuel + '.' +
+        ' Le nom du produit donne dans ce titre (pierre, encens, bijou, objet...) est la reference ' +
+        'exacte fournie par la vendeuse : ne le remplace JAMAIS par un autre nom, meme si la photo ' +
+        'ressemble a autre chose. La photo sert seulement a decrire les couleurs et la forme.';
+    }
     if (descActuelle) {
       consigne += ' Description actuelle de la fiche : ' + descActuelle +
         ' /// Ameliore cette description existante (garde ses informations justes) : ';
@@ -113,9 +142,9 @@ export default {
       consigne +=
         'Titres des autres articles du meme rayon : ' + exemples.join(' | ') + '. ' +
         'Le nouveau titre doit suivre EXACTEMENT le meme format que ces titres : ' +
-        'meme ordre des mots (nom de la pierre d abord), memes mots communs (par exemple Donut), ' +
+        'meme ordre des mots (nom du produit d abord), memes mots communs (par exemple Donut), ' +
         'meme facon d ecrire les dimensions (par exemple 3cm en minuscules). ' +
-        'Seul le nom de la pierre change. ';
+        'Seul le nom du produit change. ';
     }
     consigne +=
       'De meme, garde les dimensions presentes dans la description actuelle ; ' +
@@ -175,6 +204,19 @@ export default {
     }
     titre = nettoyer(titre);
     description = nettoyer(description);
+
+    /* Garde-fou anti-confusion : uniquement si la vendeuse avait nomme une pierre
+       CONNUE dans son titre et que l IA en a mis une autre, on garde le titre de
+       la vendeuse. Les autres produits (encens, bijoux, deco...) ne sont pas
+       concernes : ce filet ne se declenche pas pour eux. */
+    if (titre && titreActuel) {
+      const avant = pierresDans(titreActuel);
+      if (avant.length) {
+        const apres = pierresDans(titre);
+        const conserve = apres.some(function (p) { return avant.indexOf(p) !== -1; });
+        if (!conserve) titre = nettoyer(titreActuel);
+      }
+    }
 
     /* Filet de securite : si le titre actuel contenait une dimension ou un poids
        (3cm, 10x5cm, 250g...) et que l IA l a fait disparaitre, on le remet

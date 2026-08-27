@@ -708,16 +708,25 @@
               "photo": "images/articles/obsidienne-donut-2cm-mtbnr8uzd2uc.jpg",
               "prixBoutique": 6,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq7sMbkecjX2ogbBT2880L",
               "stripeProductId": "prod_V9Ngd2mrPmNfGx",
+              "stripePriceId": "price_1U94vMLOfCA5mATuYiG1e9Iu",
+              "stripeLinkId": "plink_1U94vNLOfCA5mATuxIsne62p",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Obsidienne Donut 2cm",
               "stripeDesc": "Découvrez ce donut en obsidienne noire de 2 cm, une pierre aux reflets sombres et élégants. L'obsidienne est réputée pour ses vertus apaisantes, aidant à libérer les tensions émotionnelles et à équilibrer l'énergie. Parfaite pour la méditation, la décoration ou en lithothérapie, elle apporte une touche mystérieuse et protectrice à votre quotidien.",
-              "stripePriceId": "price_1U94vMLOfCA5mATuYiG1e9Iu",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U94vNLOfCA5mATuxIsne62p",
-              "stripe": "https://buy.stripe.com/eVq7sMbkecjX2ogbBT2880L",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "donuts-polychrome-2cm-mtbntnxvbh9j",
+              "nom": "Donuts polychrome 2cm",
+              "prix": 6.46,
+              "description": "Donuts polychrome 2cm Ce donut en pierre polychrome de 2 cm allie douceur et énergie, avec ses teintes chaudes et ses motifs organiques. En lithothérapie, il est souvent utilisé pour apaiser les émotions et favoriser un équilibre harmonieux, tout en apportant une touche de bien-être au quotidien. Parfait pour une décoration naturelle ou comme pierre porte-bonheur à porter en bijou. Apaisement des tensions émotionnelles Harmonisation des chakras Équilibre et sérénité Décoration, bijoux, méditation",
+              "photo": "images/articles/donuts-polychrome-2cm-mtbntnxvpipg.jpg",
+              "prixBoutique": 6,
+              "stock": 3
             }
           ]
         }

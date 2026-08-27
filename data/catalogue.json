@@ -224,6 +224,15 @@
               "stripe": "https://buy.stripe.com/14A14o4VQabP3sk6hz2880j",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "unakite-donut-3cm-mtb9ryfnzfnw",
+              "nom": "Unakite Donut 3cm",
+              "prix": 13.65,
+              "description": "Découvrez ce joli Donut en unakite, une pierre aux reflets verts et roses qui symbolise l'équilibre et l'harmonie. Traditionnellement utilisée en lithothérapie pour apaiser les émotions et stimuler la confiance en soi, elle est idéale pour une touche de douceur au quotidien. Parfaite pour les bijoux ou comme objet décoratif, elle apporte énergie positive et sérénité à votre environnement.",
+              "photo": "images/articles/unakite-donut-3cm-mtb9ryfnhwr4.jpg",
+              "prixBoutique": 12.95,
+              "stock": 8
             }
           ]
         }

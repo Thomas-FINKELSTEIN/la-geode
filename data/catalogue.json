@@ -784,16 +784,25 @@
               "photo": "images/articles/jaspe-orbiculaire-donut-3cm-mtboabpmqbt8.jpg",
               "prixBoutique": 6,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/6oUcN64VQes51kc6hz2880P",
               "stripeProductId": "prod_V9NvdKxufIIpTL",
+              "stripePriceId": "price_1U959mLOfCA5mATuZvVAhPNO",
+              "stripeLinkId": "plink_1U959mLOfCA5mATumQk6ezBC",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Jaspe orbiculaire Donut 3cm",
               "stripeDesc": "Ce joli Donut en jaspe orbiculaire de 3 cm est une pièce unique aux motifs tourbillonnants et aux reflets dorés, parfait pour sublimer vos créations ou votre intérieur. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel, la stabilité et la reconnexion à la terre, aidant à apaiser les tensions et à renforcer la confiance en soi. Idéal en pendentif, porte-bonheur ou objet de méditation, il diffuse une énergie apaisante et harmonieuse au quotidien.",
-              "stripePriceId": "price_1U959mLOfCA5mATuZvVAhPNO",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U959mLOfCA5mATumQk6ezBC",
-              "stripe": "https://buy.stripe.com/6oUcN64VQes51kc6hz2880P",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "donuts-unakite-2cm-mtbocvujk86r",
+              "nom": "Donuts unakite 2cm",
+              "prix": 6.46,
+              "description": "Unakite Donut 2cm Découvrez ce ravissant Donut en unakite, une pierre aux teintes harmonieuses de vert, rose et noir qui évoque la douceur et l'équilibre. Selon la lithothérapie, l'unakite est souvent associée à la guérison émotionnelle, aidant à apaiser les tensions et à renforcer la connexion avec soi-même. Parfaite pour une méditation apaisante ou comme objet décoratif, elle attire également une énergie positive et bienveillante dans votre quotidien. Apaisante, favorise la détente et la sérénité. Équilibre les émotions et renforce la confiance en soi. Aide à surmonter les peurs et les blocages intérieurs. Idéale pour la méditation, la décoration ou portée en bijou pour bénéficier de ses vertus toute la journée.",
+              "photo": "images/articles/donuts-unakite-2cm-mtbocvujwcnd.jpg",
+              "prixBoutique": 6,
+              "stock": 3
             }
           ]
         }

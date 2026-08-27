@@ -688,7 +688,17 @@
               "description": "Découvrez notre Cornaline sous forme de donut, une pierre précieuse au rouge chaleureux et vibrant, symbole d'énergie vitale et de passion. En lithothérapie, elle est souvent associée à la stimulation de la confiance en soi et à l'équilibre émotionnel, tout en renforçant la vitalité. Parfaite pour une touche naturelle et élégante dans votre quotidien ou comme objet de méditation apaisant.",
               "photo": "images/articles/cornaline-donut-4cm-mtbmtpf8puhu.jpg",
               "prixBoutique": 14,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_V9NGMsh7x6q4rV",
+              "stripeMode": "live",
+              "stripeNom": "Cornaline Donut 4cm",
+              "stripeDesc": "Découvrez notre Cornaline sous forme de donut, une pierre précieuse au rouge chaleureux et vibrant, symbole d'énergie vitale et de passion. En lithothérapie, elle est souvent associée à la stimulation de la confiance en soi et à l'équilibre émotionnel, tout en renforçant la vitalité. Parfaite pour une touche naturelle et élégante dans votre quotidien ou comme objet de méditation apaisant.",
+              "stripePriceId": "price_1U94W9LOfCA5mATunpZzzZD2",
+              "stripePrix": 14.73,
+              "stripeLinkId": "plink_1U94W9LOfCA5mATubdD4OoU0",
+              "stripe": "https://buy.stripe.com/6oU5kEdsmfw91kcdK12880K",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

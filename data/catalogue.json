@@ -1031,16 +1031,25 @@
               "photo": "images/articles/boule-jaspe-mokaite-donut-1cm-mtbqjwmb3pfp.jpg",
               "prixBoutique": 6.5,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/bJeeVedsmbfT7IA21j28812",
               "stripeProductId": "prod_V9Oxm5BwmEp7gs",
+              "stripePriceId": "price_1U9699LOfCA5mATuTuwsxnon",
+              "stripeLinkId": "plink_1U969ALOfCA5mATuW26EBMoZ",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Boule Jaspe Mokáïte Donut 1cm",
               "stripeDesc": "Cette boule de jaspe mokáïte, d'une taille parfaite de 1 cm, est une pierre aux reflets chauds et apaisants. En lithothérapie, elle est souvent utilisée pour renforcer la stabilité émotionnelle et favoriser un sentiment de sécurité intérieure. Idéale pour apaiser les tensions et équilibrer les énergies, elle se prête aussi bien à une utilisation en méditation qu’à une décoration minérale harmonieuse.",
-              "stripePriceId": "price_1U9699LOfCA5mATuTuwsxnon",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1U969ALOfCA5mATuW26EBMoZ",
-              "stripe": "https://buy.stripe.com/bJeeVedsmbfT7IA21j28812",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "aventurine-donut-1cm-mtbqmy1eqo44",
+              "nom": "Aventurine Donut 1cm",
+              "prix": 6.98,
+              "description": "Cette boule d'aventurine de 1 cm, aussi appelée pierre de la chance, est une pierre douce et apaisante qui favorise l'harmonie émotionnelle et le bien-être intérieur. Selon la lithothérapie, elle aide à équilibrer les énergies et à renforcer la confiance en soi, tout en attirant la prospérité et la sérénité au quotidien. Parfaite pour une utilisation en méditation ou comme talisman porte-bonheur, elle s’intègre facilement dans votre quotidien pour un effet apaisant et inspirant.",
+              "photo": "images/articles/aventurine-donut-1cm-mtbqmy1elzmv.jpg",
+              "prixBoutique": 6.5,
+              "stock": 1
             }
           ]
         }

@@ -955,16 +955,25 @@
               "photo": "images/articles/quartz-fume-donut-2cm-mtbotp4bfibx.jpg",
               "prixBoutique": 6,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/6oU9AUcoi3Nr5AsdK12880Y",
               "stripeProductId": "prod_V9OASRaChygXSQ",
+              "stripePriceId": "price_1U95OLLOfCA5mATuvbFeL8LL",
+              "stripeLinkId": "plink_1U95OLLOfCA5mATurbHDRXcs",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Quartz fumé Donut 2cm",
               "stripeDesc": "Découvrez ce joli Quartz fumé en forme de donut, d'une élégance naturelle et apaisante. Appelé aussi quartz ravine, il est réputé pour ses vertus purificatrices et son pouvoir de stabilisation émotionnelle, aidant à apaiser le mental et à ancrer l'énergie. Parfait pour une méditation douce ou comme élément décoratif raffiné, il s'intègre aussi bien dans votre quotidien que dans vos rituels bien-être.",
-              "stripePriceId": "price_1U95OLLOfCA5mATuvbFeL8LL",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U95OLLOfCA5mATurbHDRXcs",
-              "stripe": "https://buy.stripe.com/6oU9AUcoi3Nr5AsdK12880Y",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "cornaline-donut-2cm-mtbovqsbcwmy",
+              "nom": "Cornaline Donut 2cm",
+              "prix": 6.46,
+              "description": "Cornaline Donut 2cm Découvrez notre Cornaline sous forme de donut, une pierre aux reflets chauds et apaisants. Symbole de vitalité et de passion en lithothérapie, elle est souvent utilisée pour renforcer l’énergie vitale, stimuler la créativité et apporter une touche de douceur aux émotions. Parfaite pour une touche minérale élégante et bénéfique au quotidien. Stimule l’énergie vitale et la circulation sanguine Apporte chaleur et dynamisme Favorise la confiance en soi et équilibre les émotions Idéale pour une utilisation en bijouterie ou comme objet décoratif énergétique.",
+              "photo": "images/articles/cornaline-donut-2cm-mtbovqsbp670.jpg",
+              "prixBoutique": 6,
+              "stock": 7
             }
           ]
         }

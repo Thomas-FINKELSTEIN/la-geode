@@ -499,16 +499,25 @@
               "photo": "images/articles/cristal-de-roche-donut-3cm-mtbluq77amw5.jpg",
               "prixBoutique": 14,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/eVq4gAagado1aUMgWd2880A",
               "stripeProductId": "prod_V9MpOom4bojMqI",
+              "stripePriceId": "price_1U945oLOfCA5mATu3qJU6plH",
+              "stripeLinkId": "plink_1U945pLOfCA5mATufhVAWuDH",
+              "stripePrix": 14.73,
               "stripeMode": "live",
               "stripeNom": "Cristal de roche Donut 3cm",
               "stripeDesc": "Ce donut en cristal de roche pur, d'une transparence cristalline et d'une beauté intemporelle, est une pièce unique pour sublimer votre intérieur ou votre collection minérale. En lithothérapie, le cristal de roche est considéré comme un amplificateur d'énergie, favorisant la clarté mentale, la concentration et l'équilibre émotionnel. Idéal pour purifier les espaces et renforcer les intentions positives, il est souvent utilisé en méditation ou en feng shui pour harmoniser les énergies.",
-              "stripePriceId": "price_1U945oLOfCA5mATu3qJU6plH",
-              "stripePrix": 14.73,
-              "stripeLinkId": "plink_1U945pLOfCA5mATufhVAWuDH",
-              "stripe": "https://buy.stripe.com/eVq4gAagado1aUMgWd2880A",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "donuts-obsidienne-acajou-4cm-mtbm69as8z7b",
+              "nom": "Obsidienne acajou Donut 4cm",
+              "prix": 14.73,
+              "description": "Ce Donut en obsidienne acajou de 4 cm est une pièce naturelle aux reflets chauds et aux motifs organiques captivants. Utilisée en lithothérapie pour ses propriétés purificatrices, cette pierre est réputée pour aider à libérer les blocages émotionnels et à renforcer la protection énergétique. Parfaite pour une méditation apaisante ou comme élément décoratif aux vibrations puissantes.",
+              "photo": "images/articles/obsidienne-acajou-donut-4cm-mtbma07gdoe8.jpg",
+              "prixBoutique": 14,
+              "stock": 4
             }
           ]
         }

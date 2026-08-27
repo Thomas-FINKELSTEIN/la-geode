@@ -1088,16 +1088,25 @@
               "photo": "images/articles/cornaline-donut-1cm-mtbqs0aa522a.jpg",
               "prixBoutique": 6.5,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/14A9AUewq97L0g821j28815",
               "stripeProductId": "prod_V9P3TZfZoFJq7d",
+              "stripePriceId": "price_1U96FELOfCA5mATuyLJAg9bb",
+              "stripeLinkId": "plink_1U96FFLOfCA5mATunziCjyDZ",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Cornaline Donut 1cm",
               "stripeDesc": "Découvrez cette boule de cornaline de 1 cm, pierre aux reflets chauds et dorés qui capte immédiatement l’attention. En lithothérapie, la cornaline est souvent associée à une énergie vitale et motivante, idéale pour stimuler la confiance en soi et apporter une touche de dynamisme au quotidien. Parfaite pour une utilisation en bijouterie ou comme objet de méditation, elle se charge facilement dintentions positives.",
-              "stripePriceId": "price_1U96FELOfCA5mATuyLJAg9bb",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1U96FFLOfCA5mATunziCjyDZ",
-              "stripe": "https://buy.stripe.com/14A9AUewq97L0g821j28815",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "jaspe-kambaba-donut-1cm-mtbqtt0i2ee4",
+              "nom": "Jaspe kambaba Donut 1cm",
+              "prix": 6.98,
+              "description": "Cette boule de jaspe kambaba, polie avec soin, est une pierre aux reflets verts profonds et aux éclats dorés qui captivent immédiatement. En lithothérapie, elle est souvent associée à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Parfaite pour une utilisation quotidienne, elle se porte en pendentif ou se garde près de soi pour bénéficier de son énergie harmonieuse et stabilisatrice.",
+              "photo": "images/articles/jaspe-kambaba-donut-1cm-mtbqtt0iq250.jpg",
+              "prixBoutique": 6.5,
+              "stock": 10
             }
           ]
         }

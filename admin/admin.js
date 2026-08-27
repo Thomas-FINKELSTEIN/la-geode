@@ -949,7 +949,7 @@
       return enregistrerCatalogue().catch(function (e) {
         if (!estConflit(e)) throw e;
         // Un robot a écrit entre-temps (une vente !) : on fusionne et on réessaie.
-        setStatus('Une vente vient d\'avoir lieu… je récupère les nouveautés et je réessaie…');
+        setStatus('La boutique a reçu des mises à jour automatiques (ventes, liens de paiement)… je les récupère et je réessaie…');
         return fusionnerRobots().then(enregistrerCatalogue).catch(function (e2) {
           if (!estConflit(e2)) throw e2;
           return fusionnerRobots().then(enregistrerCatalogue);

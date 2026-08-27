@@ -186,6 +186,15 @@
               "stripe": "https://buy.stripe.com/5kQ9AUfAucjX2og7lD2880h",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "cornaline-donut-3cm-mtb8lnu96dk0",
+              "nom": "Cornaline Donut 3cm",
+              "prix": 13.65,
+              "description": "Découvrez ce beau donut en cornaline, une pierre aux reflets chauds et apaisants. Associée traditionnellement à l'énergie vitale et à la joie, elle est souvent utilisée en lithothérapie pour stimuler la confiance en soi et équilibrer les émotions. Parfaite pour une touche de douceur et de positivité au quotidien.",
+              "photo": "images/articles/cornaline-donut-3cm-mtb8lnu9efv6.jpg",
+              "prixBoutique": 12.95,
+              "stock": 6
             }
           ]
         }

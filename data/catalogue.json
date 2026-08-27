@@ -442,16 +442,25 @@
               "photo": "images/articles/il-de-tigre-donut-3-cm-mtbkp9t9key1.jpg",
               "prixBoutique": 12.95,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/eVqfZifAu3Nr8ME5dv2880v",
               "stripeProductId": "prod_V9MJAVL5YvVlwA",
+              "stripePriceId": "price_1U93ahLOfCA5mATu7AubRace",
+              "stripeLinkId": "plink_1U93ahLOfCA5mATu2EVRVVra",
+              "stripePrix": 13.65,
               "stripeMode": "live",
               "stripeNom": "Œil-de-Tigre Donut 3 cm",
               "stripeDesc": "Découvrez notre Œil-de-Tigre sous forme de Donut, une pierre aux reflets dorés et captivants. Symbole de courage et de protection, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi et équilibrer les énergies. Parfaite pour une touche minérale unique, elle apporte une harmonie subtile à votre quotidien.",
-              "stripePriceId": "price_1U93ahLOfCA5mATu7AubRace",
-              "stripePrix": 13.65,
-              "stripeLinkId": "plink_1U93ahLOfCA5mATu2EVRVVra",
-              "stripe": "https://buy.stripe.com/eVqfZifAu3Nr8ME5dv2880v",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "donuts-unakite-4cm-mtbkttuhb3an",
+              "nom": "Donuts unakite 4cm",
+              "prix": 14.73,
+              "description": "Unakite Donut 4cm Ce donut en unakite de 4 cm est une pièce minérale aux reflets dorés et verts, aussi apaisante que belle. Selon la lithothérapie, cette pierre favorise l’équilibre émotionnel, renforce la confiance en soi et aide à apaiser les tensions du quotidien. Parfaite pour une décoration naturelle ou comme objet de méditation, elle apporte douceur et énergie positive à votre espace. Apaisement des tensions et du stress Équilibre énergétique et harmonie Renforcement de la confiance en soi et de la sérénité Décoration, méditation, porte-bonheur ou objet de collection.",
+              "photo": "images/articles/donuts-unakite-4cm-mtbkttuhof8o.jpg",
+              "prixBoutique": 14,
+              "stock": 2
             }
           ]
         }

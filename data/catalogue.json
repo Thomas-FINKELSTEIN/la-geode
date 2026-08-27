@@ -916,7 +916,17 @@
               "description": "Ce joli Donut en jaspe leopard de 2 cm est un bijou naturel aux motifs uniques rappelant les taches d’un léopard. Riches en énergie vitale, ces pierres sont souvent associées à la protection, à la stabilité émotionnelle et à l’ancrage dans le quotidien. Parfait pour un pendentif ou un porte-bonheur, il apporte équilibre et force intérieure au quotidien.",
               "photo": "images/articles/jaspe-leopard-donut-2cm-mtbopv9vwhn4.jpg",
               "prixBoutique": 6,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_V9O7BCjgMhafif",
+              "stripeMode": "live",
+              "stripeNom": "Jaspe leopard Donut 2cm",
+              "stripeDesc": "Ce joli Donut en jaspe leopard de 2 cm est un bijou naturel aux motifs uniques rappelant les taches d’un léopard. Riches en énergie vitale, ces pierres sont souvent associées à la protection, à la stabilité émotionnelle et à l’ancrage dans le quotidien. Parfait pour un pendentif ou un porte-bonheur, il apporte équilibre et force intérieure au quotidien.",
+              "stripePriceId": "price_1U95LULOfCA5mATuKd3bHZNy",
+              "stripePrix": 6.46,
+              "stripeLinkId": "plink_1U95LULOfCA5mATubCk2UkXg",
+              "stripe": "https://buy.stripe.com/7sY8wQagaabP8MEgWd2880W",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

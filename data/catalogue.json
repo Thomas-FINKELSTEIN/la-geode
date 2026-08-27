@@ -974,16 +974,25 @@
               "photo": "images/articles/cornaline-donut-2cm-mtbovqsbp670.jpg",
               "prixBoutique": 6,
               "stock": 7,
+              "stripe": "https://buy.stripe.com/dRm5kE0FA97L1kc21j2880Z",
               "stripeProductId": "prod_V9OCzOYZ9GXTYj",
+              "stripePriceId": "price_1U95PuLOfCA5mATuMB5PEWG4",
+              "stripeLinkId": "plink_1U95PuLOfCA5mATupZkKEdtV",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Cornaline Donut 2cm",
               "stripeDesc": "Cornaline Donut 2cm Découvrez notre Cornaline sous forme de donut, une pierre aux reflets chauds et apaisants. Symbole de vitalité et de passion en lithothérapie, elle est souvent utilisée pour renforcer l’énergie vitale, stimuler la créativité et apporter une touche de douceur aux émotions. Parfaite pour une touche minérale élégante et bénéfique au quotidien. Stimule l’énergie vitale et la circulation sanguine Apporte chaleur et dynamisme Favorise la confiance en soi et équilibre les émotions Idéale pour une utilisation en bijouterie ou comme objet décoratif énergétique.",
-              "stripePriceId": "price_1U95PuLOfCA5mATuMB5PEWG4",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U95PuLOfCA5mATupZkKEdtV",
-              "stripe": "https://buy.stripe.com/dRm5kE0FA97L1kc21j2880Z",
               "stripeStock": 7,
               "epuise": false
+            },
+            {
+              "id": "obsidienne-acajou-donut-2cm-mtboxlbfk31c",
+              "nom": "Obsidienne acajou Donut 2cm",
+              "prix": 6.46,
+              "description": "Ce Donut en obsidienne acajou de 2 cm est une pierre de protection et de purification aux reflets chaleureux et mystérieux. Traditionnellement utilisée en lithothérapie pour apaiser les émotions et renforcer la connexion à soi, elle aide à libérer les blocages énergétiques et à retrouver un équilibre intérieur. Parfaite pour les méditations ou comme objet décoratif aux vertus apaisantes, elle s’intègre aussi bien dans votre quotidien spirituel que dans votre intérieur.",
+              "photo": "images/articles/obsidienne-acajou-donut-2cm-mtboxlbf7v09.jpg",
+              "prixBoutique": 6,
+              "stock": 5
             }
           ]
         }

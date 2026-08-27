@@ -765,16 +765,25 @@
               "photo": "images/articles/jaspe-dalmatien-donut-2cm-mtbo7zfwdagl.jpg",
               "prixBoutique": 6,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/14A28sfAu97LaUM7lD2880O",
               "stripeProductId": "prod_V9NtnBfuK0dpmn",
+              "stripePriceId": "price_1U957yLOfCA5mATuSpE09Xkv",
+              "stripeLinkId": "plink_1U957yLOfCA5mATu3DUcerhU",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Jaspe dalmatien Donut 2cm",
               "stripeDesc": "Ce joli Donut en jaspe dalmatien de 2 cm séduit par ses motifs noirs et blancs qui rappellent les taches d’un dalmatien. En lithothérapie, cette pierre douce est réputée pour apaiser les émotions, renforcer la confiance en soi et équilibrer les énergies. Parfaite pour une touche décorative ou un porte-bonheur au quotidien, elle s’accorde aussi bien avec les ambiances zen que les styles bohèmes.",
-              "stripePriceId": "price_1U957yLOfCA5mATuSpE09Xkv",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U957yLOfCA5mATu3DUcerhU",
-              "stripe": "https://buy.stripe.com/14A28sfAu97LaUM7lD2880O",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "jaspe-orbiculaire-donut-3cm-mtboabpmrxt8",
+              "nom": "Jaspe orbiculaire Donut 3cm",
+              "prix": 6.46,
+              "description": "Ce joli Donut en jaspe orbiculaire de 3 cm est une pièce unique aux motifs tourbillonnants et aux reflets dorés, parfait pour sublimer vos créations ou votre intérieur. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel, la stabilité et la reconnexion à la terre, aidant à apaiser les tensions et à renforcer la confiance en soi. Idéal en pendentif, porte-bonheur ou objet de méditation, il diffuse une énergie apaisante et harmonieuse au quotidien.",
+              "photo": "images/articles/jaspe-orbiculaire-donut-3cm-mtboabpmqbt8.jpg",
+              "prixBoutique": 6,
+              "stock": 5
             }
           ]
         }

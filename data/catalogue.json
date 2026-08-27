@@ -1087,7 +1087,17 @@
               "description": "Découvrez cette boule de cornaline de 1 cm, pierre aux reflets chauds et dorés qui capte immédiatement l’attention. En lithothérapie, la cornaline est souvent associée à une énergie vitale et motivante, idéale pour stimuler la confiance en soi et apporter une touche de dynamisme au quotidien. Parfaite pour une utilisation en bijouterie ou comme objet de méditation, elle se charge facilement dintentions positives.",
               "photo": "images/articles/cornaline-donut-1cm-mtbqs0aa522a.jpg",
               "prixBoutique": 6.5,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_V9P3TZfZoFJq7d",
+              "stripeMode": "live",
+              "stripeNom": "Cornaline Donut 1cm",
+              "stripeDesc": "Découvrez cette boule de cornaline de 1 cm, pierre aux reflets chauds et dorés qui capte immédiatement l’attention. En lithothérapie, la cornaline est souvent associée à une énergie vitale et motivante, idéale pour stimuler la confiance en soi et apporter une touche de dynamisme au quotidien. Parfaite pour une utilisation en bijouterie ou comme objet de méditation, elle se charge facilement dintentions positives.",
+              "stripePriceId": "price_1U96FELOfCA5mATuyLJAg9bb",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1U96FFLOfCA5mATunziCjyDZ",
+              "stripe": "https://buy.stripe.com/14A9AUewq97L0g821j28815",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

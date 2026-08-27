@@ -632,16 +632,25 @@
               "photo": "images/articles/jaspe-leopard-donut-4cm-mtbmndz0e5ey.jpg",
               "prixBoutique": 14,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/14AbJ2ewqfw9e6Y21j2880H",
               "stripeProductId": "prod_V9NBcSeM5XBJxS",
+              "stripePriceId": "price_1U94RNLOfCA5mATuR6NKdgZc",
+              "stripeLinkId": "plink_1U94ROLOfCA5mATuURw43Ws4",
+              "stripePrix": 14.73,
               "stripeMode": "live",
               "stripeNom": "Jaspe leopard Donut 4cm",
               "stripeDesc": "Ce magnifique jaspe leopard en forme de donut 4cm est une pierre aux motifs envoûtants rappelant les taches d’un léopard. En lithothérapie, il est réputé pour renforcer la confiance en soi, équilibrer les émotions et stimuler l’énergie vitale. Parfait pour une décoration minérale ou comme porte-bonheur au quotidien, il apporte harmonie et protection.",
-              "stripePriceId": "price_1U94RNLOfCA5mATuR6NKdgZc",
-              "stripePrix": 14.73,
-              "stripeLinkId": "plink_1U94ROLOfCA5mATuURw43Ws4",
-              "stripe": "https://buy.stripe.com/14AbJ2ewqfw9e6Y21j2880H",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "hematite-donut-4cm-mtbmqais1438",
+              "nom": "Hématite Donut 4cm",
+              "prix": 14.73,
+              "description": "Ce Donut en hématite de 4 cm est une pièce unique alliant élégance et bienfaits énergétiques. L'hématite est réputée pour son pouvoir de protection et d'ancrage, aidant à stabiliser les émotions et à renforcer la concentration. Parfaite pour une décoration minérale apaisante ou comme objet de méditation, elle attire aussi bien les amateurs de lithothérapie que les passionnés de pierres naturelles.",
+              "photo": "images/articles/hematite-donut-4cm-mtbmqaisyr9t.jpg",
+              "prixBoutique": 14,
+              "stock": 4
             }
           ]
         }

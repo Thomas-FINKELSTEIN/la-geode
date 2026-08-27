@@ -479,7 +479,17 @@
               "description": "Découvrez notre Obsidienne sous forme de Donut, une pierre aux reflets profonds et mystérieux. Connue pour ses propriétés de protection et de purification, elle aide à libérer les blocages émotionnels et à renforcer la connexion avec soi-même. Idéale pour les espaces de méditation ou comme talisman porte-bonheur, elle attire également l'énergie positive et favorise la clarté mentale.",
               "photo": "images/articles/obsidienne-donut-4cm-mtbl10dh0dj0.jpg",
               "prixBoutique": 14,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_V9MS05GqgnRKrF",
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne Donut 4cm",
+              "stripeDesc": "Découvrez notre Obsidienne sous forme de Donut, une pierre aux reflets profonds et mystérieux. Connue pour ses propriétés de protection et de purification, elle aide à libérer les blocages émotionnels et à renforcer la connexion avec soi-même. Idéale pour les espaces de méditation ou comme talisman porte-bonheur, elle attire également l'énergie positive et favorise la clarté mentale.",
+              "stripePriceId": "price_1U93jRLOfCA5mATu4vcAZb62",
+              "stripePrix": 14.73,
+              "stripeLinkId": "plink_1U93jRLOfCA5mATu1Wzbwq2g",
+              "stripe": "https://buy.stripe.com/eVq14o1JE5Vz3skbBT2880y",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

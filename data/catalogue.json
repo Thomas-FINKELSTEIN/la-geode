@@ -555,7 +555,17 @@
               "description": "Ce Donut en obsidienne acajou de 4 cm est une pièce unique aux reflets chauds et profonds, idéale pour ancrer votre énergie et apaiser les émotions. Traditionnellement utilisée en lithothérapie pour son pouvoir de protection et de purification, elle aide à libérer les blocages émotionnels et à renforcer la connexion à soi. Parfaite à porter en pendentif ou à poser sur votre table de nuit pour une ambiance apaisante.",
               "photo": "images/articles/obsidienne-acajou-donut-4cm-mtbmfddi2yeq.jpg",
               "prixBoutique": 14,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_V9N50klmi8peIl",
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne acajou Donut 4cm",
+              "stripeDesc": "Ce Donut en obsidienne acajou de 4 cm est une pièce unique aux reflets chauds et profonds, idéale pour ancrer votre énergie et apaiser les émotions. Traditionnellement utilisée en lithothérapie pour son pouvoir de protection et de purification, elle aide à libérer les blocages émotionnels et à renforcer la connexion à soi. Parfaite à porter en pendentif ou à poser sur votre table de nuit pour une ambiance apaisante.",
+              "stripePriceId": "price_1U94LMLOfCA5mATuYPY6FNzo",
+              "stripePrix": 14.73,
+              "stripeLinkId": "plink_1U94LNLOfCA5mATumbOVw4DE",
+              "stripe": "https://buy.stripe.com/9B63cwcoido1fb2cFX2880D",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

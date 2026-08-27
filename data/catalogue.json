@@ -879,16 +879,25 @@
               "photo": "images/articles/il-de-taureau-donut-2cm-mtboltle5pd4.jpg",
               "prixBoutique": 6,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/bJefZi2NIgAd9QIgWd2880U",
               "stripeProductId": "prod_V9O47BX3oZ43Fh",
+              "stripePriceId": "price_1U95IPLOfCA5mATuJvP1JwDH",
+              "stripeLinkId": "plink_1U95IPLOfCA5mATulZ4BHOFt",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Œil-de-Taureau Donut 2cm",
               "stripeDesc": "Découvrez notre Œil-de-Taureau sous forme de donut, une pierre aux reflets dorés et captivants. En lithothérapie, cette pierre est souvent associée à la protection, à la stabilité émotionnelle et à l’ancrage dans le quotidien. Parfaite pour une énergie apaisante et équilibrante, elle est idéale à porter en bijou ou à placer dans votre espace de vie pour renforcer votre sentiment de sécurité et de confiance.",
-              "stripePriceId": "price_1U95IPLOfCA5mATuJvP1JwDH",
-              "stripePrix": 6.46,
-              "stripeLinkId": "plink_1U95IPLOfCA5mATulZ4BHOFt",
-              "stripe": "https://buy.stripe.com/bJefZi2NIgAd9QIgWd2880U",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "donuts-agate-grise-2cm-mtbonussbm8n",
+              "nom": "Donuts agate grise 2cm",
+              "prix": 6.46,
+              "description": "Cette agate grise en forme de donut, d'un diamètre de 2 cm, est une pierre douce et apaisante, idéale pour équilibrer les émotions et favoriser la sérénité au quotidien. En lithothérapie, elle est souvent utilisée pour apaiser les tensions et renforcer la connexion à soi-même, tout en apportant une énergie calme et harmonieuse à votre environnement. Parfaite pour une utilisation en méditation ou comme objet décoratif bienveillant.",
+              "photo": "images/articles/donuts-agate-grise-2cm-mtbonusszrnp.jpg",
+              "prixBoutique": 6,
+              "stock": 4
             }
           ]
         }

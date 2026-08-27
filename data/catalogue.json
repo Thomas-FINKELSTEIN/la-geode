@@ -346,7 +346,17 @@
               "description": "Découvrez cette Labradorite en forme de donut, une pierre aux reflets magiques et changeants qui captivent l'œil. Selon la lithothérapie, elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Parfaite pour une touche spirituelle et élégante, elle s’intègre aussi bien dans une décoration bohème qu’en accessoire bien-être au quotidien.",
               "photo": "images/articles/labradorite-donut-3cm-mtbbc5mp954q.jpg",
               "prixBoutique": 12.95,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_V9I5p7JEhxoNZd",
+              "stripeMode": "live",
+              "stripeNom": "Labradorite Donut 3cm",
+              "stripeDesc": "Découvrez cette Labradorite en forme de donut, une pierre aux reflets magiques et changeants qui captivent l'œil. Selon la lithothérapie, elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Parfaite pour une touche spirituelle et élégante, elle s’intègre aussi bien dans une décoration bohème qu’en accessoire bien-être au quotidien.",
+              "stripePriceId": "price_1U8zUwLOfCA5mATupCSU5Hk0",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1U8zUwLOfCA5mATuuY8GO5IS",
+              "stripe": "https://buy.stripe.com/9B69AUfAu83H6EwcFX2880q",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

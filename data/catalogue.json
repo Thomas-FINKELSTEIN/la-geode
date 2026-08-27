@@ -878,7 +878,17 @@
               "description": "Découvrez notre Œil-de-Taureau sous forme de donut, une pierre aux reflets dorés et captivants. En lithothérapie, cette pierre est souvent associée à la protection, à la stabilité émotionnelle et à l’ancrage dans le quotidien. Parfaite pour une énergie apaisante et équilibrante, elle est idéale à porter en bijou ou à placer dans votre espace de vie pour renforcer votre sentiment de sécurité et de confiance.",
               "photo": "images/articles/il-de-taureau-donut-2cm-mtboltle5pd4.jpg",
               "prixBoutique": 6,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_V9O47BX3oZ43Fh",
+              "stripeMode": "live",
+              "stripeNom": "Œil-de-Taureau Donut 2cm",
+              "stripeDesc": "Découvrez notre Œil-de-Taureau sous forme de donut, une pierre aux reflets dorés et captivants. En lithothérapie, cette pierre est souvent associée à la protection, à la stabilité émotionnelle et à l’ancrage dans le quotidien. Parfaite pour une énergie apaisante et équilibrante, elle est idéale à porter en bijou ou à placer dans votre espace de vie pour renforcer votre sentiment de sécurité et de confiance.",
+              "stripePriceId": "price_1U95IPLOfCA5mATuJvP1JwDH",
+              "stripePrix": 6.46,
+              "stripeLinkId": "plink_1U95IPLOfCA5mATulZ4BHOFt",
+              "stripe": "https://buy.stripe.com/bJefZi2NIgAd9QIgWd2880U",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

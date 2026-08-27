@@ -1068,7 +1068,17 @@
               "description": "La pierre de nuit, aussi appelée obsidienne noire, est une pierre aux reflets profonds et mystérieux qui attire l'attention. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la stabilité intérieure et aider à se reconnecter à soi-même. Parfaite pour ceux qui cherchent à équilibrer leur énergie et à trouver un calme intérieur, elle est idéale en méditation ou simplement portée en bijou.",
               "photo": "images/articles/pierre-de-nuit-donut-1cm-mtbqposiadh4.jpg",
               "prixBoutique": 6.5,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_V9P14J5N1lCT7j",
+              "stripeMode": "live",
+              "stripeNom": "Pierre de nuit Donut 1cm",
+              "stripeDesc": "La pierre de nuit, aussi appelée obsidienne noire, est une pierre aux reflets profonds et mystérieux qui attire l'attention. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la stabilité intérieure et aider à se reconnecter à soi-même. Parfaite pour ceux qui cherchent à équilibrer leur énergie et à trouver un calme intérieur, elle est idéale en méditation ou simplement portée en bijou.",
+              "stripePriceId": "price_1U96DTLOfCA5mATuhKjwAdxC",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1U96DULOfCA5mATuKrlwGHXC",
+              "stripe": "https://buy.stripe.com/8x27sMbke1Fj0g8bBT28814",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

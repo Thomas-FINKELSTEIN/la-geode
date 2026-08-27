@@ -1011,7 +1011,17 @@
               "description": "Une belle Citrine en forme de donut, douce et lumineuse, qui diffuse une énergie chaleureuse et apaisante. Cette pierre ensoleillée est réputée pour renforcer la confiance en soi, clarifier l’esprit et attirer la positivité au quotidien. Parfaite à glisser dans un sac ou à porter en bijou pour un effet revitalisant naturel.",
               "photo": "images/articles/citrine-donut-2cm-mtboz9kbbz3a.jpg",
               "prixBoutique": 6,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_V9OF134p9e5IIX",
+              "stripeMode": "live",
+              "stripeNom": "Citrine Donut 2cm",
+              "stripeDesc": "Une belle Citrine en forme de donut, douce et lumineuse, qui diffuse une énergie chaleureuse et apaisante. Cette pierre ensoleillée est réputée pour renforcer la confiance en soi, clarifier l’esprit et attirer la positivité au quotidien. Parfaite à glisser dans un sac ou à porter en bijou pour un effet revitalisant naturel.",
+              "stripePriceId": "price_1U95SaLOfCA5mATu2YQQIz8x",
+              "stripePrix": 6.46,
+              "stripeLinkId": "plink_1U95SaLOfCA5mATu8Ft8bXTo",
+              "stripe": "https://buy.stripe.com/7sY3cw1JE0Bf9QI9tL28811",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

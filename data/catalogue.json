@@ -1125,7 +1125,17 @@
               "description": "Découvrez cette boule de jaspe orbiculaire, aux reflets irisés et aux motifs tourbillonnants qui captent la lumière. Selon la lithothérapie, cette pierre douce et apaisante favorise l'équilibre émotionnel, renforce la confiance en soi et aide à libérer les tensions accumulées. Parfaite pour une méditation ou comme talisman bien-être au quotidien, elle s'intègre aussi harmonieusement dans une décoration minérale.",
               "photo": "images/articles/jaspe-orbiculaire-donut-1cm-mtbqvncjg6c1.jpg",
               "prixBoutique": 6.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_V9P6aywGEk2BV6",
+              "stripeMode": "live",
+              "stripeNom": "Jaspe orbiculaire Donut 1cm",
+              "stripeDesc": "Découvrez cette boule de jaspe orbiculaire, aux reflets irisés et aux motifs tourbillonnants qui captent la lumière. Selon la lithothérapie, cette pierre douce et apaisante favorise l'équilibre émotionnel, renforce la confiance en soi et aide à libérer les tensions accumulées. Parfaite pour une méditation ou comme talisman bien-être au quotidien, elle s'intègre aussi harmonieusement dans une décoration minérale.",
+              "stripePriceId": "price_1U96I1LOfCA5mATuV9JyvPpl",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1U96I2LOfCA5mATuqAwyCer9",
+              "stripe": "https://buy.stripe.com/00w14o1JE97Le6Y35n28817",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

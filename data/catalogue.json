@@ -404,16 +404,25 @@
               "photo": "images/articles/agate-arbre-donut-3cm-mtbc0umofvio.jpg",
               "prixBoutique": 12.95,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/14A5kE3RMfw9e6YeO52880t",
               "stripeProductId": "prod_V9IOWTOU7e7UFL",
+              "stripePriceId": "price_1U8znVLOfCA5mATurSxyrEit",
+              "stripeLinkId": "plink_1U8znVLOfCA5mATuCP0JUXRN",
+              "stripePrix": 13.65,
               "stripeMode": "live",
               "stripeNom": "Agate arbre Donut 3cm",
               "stripeDesc": "Découvrez ce donut en agate arbre, une pierre douce et apaisante aux motifs organiques qui évoque la sérénité et la connexion à la nature. En lithothérapie, elle est réputée pour équilibrer les émotions, favoriser la patience et apaiser les tensions du quotidien. Idéale à porter en pendentif ou à poser près de votre espace de détente pour une énergie harmonieuse.",
-              "stripePriceId": "price_1U8znVLOfCA5mATurSxyrEit",
-              "stripePrix": 13.65,
-              "stripeLinkId": "plink_1U8znVLOfCA5mATuCP0JUXRN",
-              "stripe": "https://buy.stripe.com/14A5kE3RMfw9e6YeO52880t",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "lepidolite-donut-3cm-mtbc5f0w2ywx",
+              "nom": "Lépidolite Donut 3cm",
+              "prix": 13.65,
+              "description": "Découvrez ce donut en lépidolite, une pierre douce aux reflets lavande, idéale pour apaiser les émotions et favoriser la sérénité. Traditionnellement utilisée en lithothérapie pour équilibrer les chakras du cœur et de la gorge, elle aide à calmer les tensions, les peurs et les angoisses. Parfaite pour une méditation apaisante ou comme objet décoratif bienveillant, elle diffuse une énergie douce et réconfortante au quotidien.",
+              "photo": "images/articles/lepidolite-donut-3cm-mtbc5f0wbsvr.jpg",
+              "prixBoutique": 12.95,
+              "stock": 6
             }
           ]
         }

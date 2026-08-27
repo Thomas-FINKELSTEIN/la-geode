@@ -213,7 +213,17 @@
               "description": "Découvrez ce joli Howlite sous forme de donut, une pierre douce et apaisante aux veines élégantes. En lithothérapie, elle est réputée pour calmer les émotions, apaiser le stress et favoriser la clarté mentale, tout en apportant une énergie douce et rassurante au quotidien. Parfaite pour les débutants comme pour les amateurs, cette pierre s’intègre facilement dans une collection ou comme objet décoratif bienveillant.",
               "photo": "images/articles/howlite-donut-3cm-mtb9cnjmex5l.jpg",
               "prixBoutique": 12.95,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_V9HBQ1t6y9xg1u",
+              "stripeMode": "live",
+              "stripeNom": "Howlite Donut 3cm",
+              "stripeDesc": "Découvrez ce joli Howlite sous forme de donut, une pierre douce et apaisante aux veines élégantes. En lithothérapie, elle est réputée pour calmer les émotions, apaiser le stress et favoriser la clarté mentale, tout en apportant une énergie douce et rassurante au quotidien. Parfaite pour les débutants comme pour les amateurs, cette pierre s’intègre facilement dans une collection ou comme objet décoratif bienveillant.",
+              "stripePriceId": "price_1U8yd8LOfCA5mATuuUNSUF8x",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1U8yd8LOfCA5mATuD5ZGsSPF",
+              "stripe": "https://buy.stripe.com/14A14o4VQabP3sk6hz2880j",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

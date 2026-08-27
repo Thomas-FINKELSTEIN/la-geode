@@ -289,7 +289,17 @@
               "description": "Ce joli Donut en jaspe dalmatien 3cm, aux motifs noirs et blancs évocateurs, est une pierre douce et apaisante idéale pour équilibrer les énergies. En lithothérapie, il est souvent utilisé pour renforcer la confiance en soi et favoriser la stabilité émotionnelle. Parfait pour une décoration minérale ou comme objet de méditation au quotidien.",
               "photo": "images/articles/jaspe-dalmatien-donut-3cm-mtbazjawrmfr.jpg",
               "prixBoutique": 12.95,
-              "stock": 9
+              "stock": 9,
+              "stripeProductId": "prod_V9Hvwi6p7poAUk",
+              "stripeMode": "live",
+              "stripeNom": "Jaspe dalmatien Donut 3cm",
+              "stripeDesc": "Ce joli Donut en jaspe dalmatien 3cm, aux motifs noirs et blancs évocateurs, est une pierre douce et apaisante idéale pour équilibrer les énergies. En lithothérapie, il est souvent utilisé pour renforcer la confiance en soi et favoriser la stabilité émotionnelle. Parfait pour une décoration minérale ou comme objet de méditation au quotidien.",
+              "stripePriceId": "price_1U8zLSLOfCA5mATuogUkubif",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1U8zLSLOfCA5mATukhl3zSaN",
+              "stripe": "https://buy.stripe.com/9B65kEfAucjXbYQ6hz2880n",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         }

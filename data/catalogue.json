@@ -935,7 +935,17 @@
               "description": "Découvrez notre Donut en hématite, une pierre aux reflets métalliques profonds qui attire le regard et l’esprit. Connue pour ses vertus stabilisatrices, l’hématite est souvent utilisée en lithothérapie pour renforcer la concentration, ancrer l’énergie et apaiser les émotions. Parfaite pour une touche minérale élégante, elle se glisse facilement dans un sac ou sur une étagère pour une énergie positive au quotidien.",
               "photo": "images/articles/donuts-hematite-2cm-mtborb3n5j0i.jpg",
               "prixBoutique": 6,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_V9O8525IWzBgXx",
+              "stripeMode": "live",
+              "stripeNom": "Donuts hematite 2cm",
+              "stripeDesc": "Découvrez notre Donut en hématite, une pierre aux reflets métalliques profonds qui attire le regard et l’esprit. Connue pour ses vertus stabilisatrices, l’hématite est souvent utilisée en lithothérapie pour renforcer la concentration, ancrer l’énergie et apaiser les émotions. Parfaite pour une touche minérale élégante, elle se glisse facilement dans un sac ou sur une étagère pour une énergie positive au quotidien.",
+              "stripePriceId": "price_1U95MaLOfCA5mATuWOL2Pjpi",
+              "stripePrix": 6.46,
+              "stripeLinkId": "plink_1U95MaLOfCA5mATuChs85sUa",
+              "stripe": "https://buy.stripe.com/bJe7sM1JEbfTbYQaxP2880X",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

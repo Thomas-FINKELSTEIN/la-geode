@@ -1562,7 +1562,17 @@
               "description": "Ce pendentif en lépidolite, teinté de doux reflets violets et gris, est une pierre apaisante aux vertus lithothérapeutiques reconnues. Associée à la sérénité émotionnelle et à la libération des tensions, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une paix intérieure. Parfaite pour être portée au quotidien, elle accompagne aussi bien les moments de stress que les pratiques de méditation. Douleurs inflammatoires, acidité de l'estomac diminuer",
               "photo": "images/articles/lepidolite-donut-3cm-mtd00w7i04oq.jpg",
               "prixBoutique": 25.9,
-              "stock": 10
+              "stock": 10,
+              "stripeProductId": "prod_V9jTz6FBg9KDdh",
+              "stripeMode": "live",
+              "stripeNom": "Lépidolite Donut 3cm",
+              "stripeDesc": "Ce pendentif en lépidolite, teinté de doux reflets violets et gris, est une pierre apaisante aux vertus lithothérapeutiques reconnues. Associée à la sérénité émotionnelle et à la libération des tensions, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une paix intérieure. Parfaite pour être portée au quotidien, elle accompagne aussi bien les moments de stress que les pratiques de méditation. Douleurs inflammatoires, acidité de l'estomac diminuer",
+              "stripePriceId": "price_1U9Q10LOfCA5mATusVrvMy5Z",
+              "stripePrix": 27.03,
+              "stripeLinkId": "plink_1U9Q10LOfCA5mATuqIuGzTbc",
+              "stripe": "https://buy.stripe.com/9B6bJ2fAu3Nr8MEcFX2881x",
+              "stripeStock": 10,
+              "epuise": false
             }
           ]
         }

@@ -1753,16 +1753,25 @@
               "photo": "images/articles/pendentif-emeraude-donut-3cm-mtd39cxxp1vk.jpg",
               "prixBoutique": 29.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/fZueVe9c697L5AsaxP2881J",
               "stripeProductId": "prod_V9kwyypE7ZcWfu",
+              "stripePriceId": "price_1U9RQeLOfCA5mATukuqlmPBi",
+              "stripeLinkId": "plink_1U9RQeLOfCA5mATuOUUfklJ5",
+              "stripePrix": 31.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif émeraude Donut 3cm",
               "stripeDesc": "Ce pendentif en forme de donut de 3 cm évoque la pureté et la vitalité de l'émeraude, une pierre précieuse aux reflets verts profonds. En lithothérapie, elle est souvent associée à l'équilibre émotionnel, à la clarté mentale et à une énergie apaisante, idéale pour harmoniser le cœur et l'esprit. Parfait pour sublimer vos tenues tout en bénéficiant de ses vertus traditionnelles.",
-              "stripePriceId": "price_1U9RQeLOfCA5mATukuqlmPBi",
-              "stripePrix": 31.17,
-              "stripeLinkId": "plink_1U9RQeLOfCA5mATuOUUfklJ5",
-              "stripe": "https://buy.stripe.com/fZueVe9c697L5AsaxP2881J",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendentif-emeraude-donut-3cm-mtd3ccvao7oe",
+              "nom": "Pendentif émeraude Donut 3cm",
+              "prix": 7.5,
+              "description": "Ce pendentif en forme de donut de 3 cm évoque la beauté mystérieuse de l'émeraude, bien que sa teinte turquoise et ses reflets dorés le rapprochent plutôt d'une pierre comme l'aventurine ou une variété de quartz. En lithothérapie, les pierres vertes sont souvent associées à l'équilibre émotionnel, à la sérénité et à une énergie apaisante, favorisant ainsi la connexion à la nature et la douceur dans le quotidien. Parfait pour ceux qui cherchent à intégrer une touche minérale harmonieuse à leur style.",
+              "photo": "images/articles/pendentif-emeraude-donut-3cm-mtd3ccvahjay.jpg",
+              "prixBoutique": 7,
+              "stock": 2
             }
           ]
         }

@@ -1924,16 +1924,25 @@
               "photo": "images/articles/merkaba-cristal-de-roche-donut-3cm-mtd5i1rgrz7q.jpg",
               "prixBoutique": 19,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQbJ22NI97LbYQ6hz2881S",
               "stripeProductId": "prod_V9lxWnJl2ZVogY",
+              "stripePriceId": "price_1U9SPLLOfCA5mATukz7n3s3r",
+              "stripeLinkId": "plink_1U9SPMLOfCA5mATuXDk23soC",
+              "stripePrix": 19.9,
               "stripeMode": "live",
               "stripeNom": "Merkaba Cristal de Roche Donut 3cm",
               "stripeDesc": "Découvrez ce pendentif Merkaba en cristal de roche, une pièce lumineuse et apaisante aux reflets translucides. Selon la lithothérapie, cette forme géométrique est souvent associée à une énergie de transformation et d’élévation spirituelle, aidant à harmoniser les émotions et à renforcer la connexion avec son être intérieur. Parfait pour une méditation ou une utilisation quotidienne, il apporte une touche d'équilibre et de sérénité à votre quotidien.",
-              "stripePriceId": "price_1U9SPLLOfCA5mATukz7n3s3r",
-              "stripePrix": 19.9,
-              "stripeLinkId": "plink_1U9SPMLOfCA5mATuXDk23soC",
-              "stripe": "https://buy.stripe.com/5kQbJ22NI97LbYQ6hz2881S",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-jade-donut-3cm-mtd5nb0t743v",
+              "nom": "Pendentif jade Donut 3cm",
+              "prix": 25.07,
+              "description": "Ces pendentifs en forme de donut captivent par leur élégance naturelle. Le premier, en pierre translucide aux reflets doux, est idéal pour apaiser l’esprit et clarifier les pensées. Le second, d’un vert apaisant, favorise l’équilibre émotionnel et une énergie harmonieuse au quotidien, parfait pour une touche minérale raffinée.",
+              "photo": "images/articles/pendentif-jade-donut-3cm-mtd5nb0tz0sx.jpg",
+              "prixBoutique": 24,
+              "stock": 4
             }
           ]
         }

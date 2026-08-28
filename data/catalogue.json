@@ -1524,7 +1524,17 @@
               "description": "Découvrez ce pendentif en forme d’ange sculpté dans une belle amethyste aux reflets violets apaisants. Cette pierre, réputée en lithothérapie pour ses vertus calmantes, aide à apaiser l’esprit, favorise la sérénité et renforce la connexion à ses émotions profondes. Parfaite pour une touche douce et spirituelle au quotidien, elle est idéale pour les personnes en quête d’harmonie intérieure et de protection énergétique.",
               "photo": "images/articles/amethyste-donut-3cm-mtcy77zxhqz9.jpg",
               "prixBoutique": 22.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_V9ie9UK7mrlAbn",
+              "stripeMode": "live",
+              "stripeNom": "Amethyste Donut 3cm",
+              "stripeDesc": "Découvrez ce pendentif en forme d’ange sculpté dans une belle amethyste aux reflets violets apaisants. Cette pierre, réputée en lithothérapie pour ses vertus calmantes, aide à apaiser l’esprit, favorise la sérénité et renforce la connexion à ses émotions profondes. Parfaite pour une touche douce et spirituelle au quotidien, elle est idéale pour les personnes en quête d’harmonie intérieure et de protection énergétique.",
+              "stripePriceId": "price_1U9PDZLOfCA5mATu7LMDMk1i",
+              "stripePrix": 23.93,
+              "stripeLinkId": "plink_1U9PDZLOfCA5mATuBVLHum16",
+              "stripe": "https://buy.stripe.com/4gM8wQ73Yfw9gf69tL2881t",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

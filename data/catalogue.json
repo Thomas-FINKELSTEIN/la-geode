@@ -1278,16 +1278,25 @@
               "photo": "images/articles/boule-brechique-donut-2cm-mtcozs0ejr25.jpg",
               "prixBoutique": 6.5,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/bJecN6dsm1Fj0g80Xf2881f",
               "stripeProductId": "prod_V9eVOuJO0kQEqY",
+              "stripePriceId": "price_1U9LC8LOfCA5mATuiRtnLB7z",
+              "stripeLinkId": "plink_1U9LC9LOfCA5mATuPKlBtYPq",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Boule bréchique Donut 2cm",
               "stripeDesc": "Cette boule bréchique de 2 cm est une pierre naturelle aux reflets envoûtants, mêlant des éclats de couleurs chaudes et profondes. En lithothérapie, elle est souvent associée à la protection énergétique et à l’équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Parfaite pour une touche décorative ou un accessoire bien-être au quotidien.",
-              "stripePriceId": "price_1U9LC8LOfCA5mATuiRtnLB7z",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1U9LC9LOfCA5mATuPKlBtYPq",
-              "stripe": "https://buy.stripe.com/bJecN6dsm1Fj0g80Xf2881f",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "boule-howlite-donut-2cm-mtcp1ln9j4t1",
+              "nom": "Boule howlite Donut 2cm",
+              "prix": 6.98,
+              "description": "Découvrez cette boule de howlite de 2 cm, une pierre douce et apaisante aux veines délicates qui en font un objet à la fois élégant et mystérieux. En lithothérapie, la howlite est souvent associée à la sérénité et à la connexion avec les énergies subtiles, aidant à apaiser les émotions et à favoriser la méditation. Parfaite pour une utilisation quotidienne, elle se glisse facilement dans un sac ou sur une table pour diffuser une énergie calme et équilibrante.",
+              "photo": "images/articles/boule-howlite-donut-2cm-mtcp1ln9jine.jpg",
+              "prixBoutique": 6.5,
+              "stock": 11
             }
           ]
         }

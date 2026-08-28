@@ -1316,16 +1316,25 @@
               "photo": "images/articles/boule-de-nuit-donut-2cm-mtcpkdhyw2dl.jpg",
               "prixBoutique": 6.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY5kEgEydo13sk7lD2881h",
               "stripeProductId": "prod_V9el5qdvLLy2r7",
+              "stripePriceId": "price_1U9LRfLOfCA5mATuamfQNUhZ",
+              "stripeLinkId": "plink_1U9LRgLOfCA5mATuQST6XOSd",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Boule de nuit Donut 2cm",
               "stripeDesc": "La Boule de nuit, aussi appelée obsidienne noire, est une pierre aux reflets profondes et mystérieux. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la protection énergétique et aider à lâcher prise. Parfaite pour une utilisation en méditation ou portée en pendentif, elle attire et diffuse une énergie apaisante et stabilisante au quotidien.",
-              "stripePriceId": "price_1U9LRfLOfCA5mATuamfQNUhZ",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1U9LRgLOfCA5mATuQST6XOSd",
-              "stripe": "https://buy.stripe.com/7sY5kEgEydo13sk7lD2881h",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "quartz-fume-donut-2-5-cm-mtcq61wegks3",
+              "nom": "Quartz fumé Donut 2,5 cm",
+              "prix": 9.57,
+              "description": "Ce pendentif en quartz fumé 2,5 cm est une pièce élégante et mystérieuse, aux reflets profonds et apaisants. Appelé aussi quartz brun, il est réputé pour ses propriétés harmonisantes, aidant à stabiliser les émotions et à ancrer l’énergie positive. Parfait pour une touche raffinée au quotidien, il apporte calme et équilibre dans votre vie. Détente des muscles, mal de dos",
+              "photo": "images/articles/quartz-fume-donut-2-5-cm-mtcq61wexhwk.jpg",
+              "prixBoutique": 9,
+              "stock": 1
             }
           ]
         }

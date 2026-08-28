@@ -1828,7 +1828,17 @@
               "description": "Protection et prévention contre les mauvais sorts",
               "photo": "images/articles/pendentif-protection-mtd48lx9l3xh.jpg",
               "prixBoutique": 29.9,
-              "stock": 11
+              "stock": 11,
+              "stripeProductId": "prod_V9lNZ7NmSU44M7",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif protection",
+              "stripeDesc": "Protection et prévention contre les mauvais sorts",
+              "stripePriceId": "price_1U9RrCLOfCA5mATuTZ0JQTsh",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1U9RrDLOfCA5mATuPKMWSBDZ",
+              "stripe": "https://buy.stripe.com/8x200kbkebfT0g88pH2881N",
+              "stripeStock": 11,
+              "epuise": false
             }
           ]
         }

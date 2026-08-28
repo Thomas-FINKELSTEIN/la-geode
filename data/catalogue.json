@@ -1696,16 +1696,25 @@
               "photo": "images/articles/dolomite-donut-2-cm-mtd2g145awjm.jpg",
               "prixBoutique": 12,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/cNifZifAu97L3skeO52881G",
               "stripeProductId": "prod_V9kZFZZIySkasB",
+              "stripePriceId": "price_1U9R4aLOfCA5mATuaCiuWn4Z",
+              "stripeLinkId": "plink_1U9R4aLOfCA5mATuLtygf3rS",
+              "stripePrix": 12.67,
               "stripeMode": "live",
               "stripeNom": "Dolomite Donut 2 cm",
               "stripeDesc": "Ce pendentif en dolomite, taillé en forme de donut, allie douceur et élégance avec ses teintes douces et ses reflets subtils. La dolomite est souvent associée en lithothérapie à l'apaisement des tensions émotionnelles et à la reconnexion avec la sérénité intérieure, tout en favorisant un équilibre énergétique harmonieux. Parfaite pour un usage quotidien, elle est idéale pour ceux qui cherchent à cultiver la paix et la stabilité.",
-              "stripePriceId": "price_1U9R4aLOfCA5mATuaCiuWn4Z",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1U9R4aLOfCA5mATuLtygf3rS",
-              "stripe": "https://buy.stripe.com/cNifZifAu97L3skeO52881G",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "calcite-orange-donut-3cm-mtd2macj8tky",
+              "nom": "Calcite orange Donut 3cm",
+              "prix": 12.67,
+              "description": "Pendentif calcite orange Ce pendentif en calcite orange, taillé en forme de donut, est une pièce naturelle et lumineuse qui apporte douceur et énergie positive. La calcite orange est souvent associée à la joie, à la créativité et à la vitalité, aidant à stimuler l’enthousiasme et à équilibrer les émotions. Parfaite pour porter au quotidien ou utiliser en lithothérapie, elle est idéale pour illuminer votre énergie et favoriser un état d’esprit optimiste. Stimule la vitalité et l’énergie physique. Encourage la positivité, la confiance en soi et la joie de vivre. Portez-la comme bijou pour bénéficier de ses effets harmonisants au quotidien. Elle est aussi utilisée pour dynamiser les espaces de vie ou de travail.",
+              "photo": "images/articles/calcite-orange-donut-3cm-mtd2macjb87f.jpg",
+              "prixBoutique": 12,
+              "stock": 1
             }
           ]
         }

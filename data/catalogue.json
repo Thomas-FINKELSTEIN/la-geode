@@ -1220,7 +1220,17 @@
               "description": "Cette boule d'agate bostwana de 2 cm, aux reflets doux et apaisants, allie une belle harmonie de tons crème et bruns. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité et équilibre, tout en apportant une douce énergie de stabilité au quotidien. Pierre de chance et d'ancrage Parfaite pour méditer ou simplement porter en pendentif, elle incarne une touche de douceur naturelle pour le bien-être.",
               "photo": "images/articles/agate-bostwana-donut-2cm-mtcogav3bqhv.jpg",
               "prixBoutique": 6.5,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_V9eGz2HUaeES1r",
+              "stripeMode": "live",
+              "stripeNom": "Agate bostwana Donut 2cm",
+              "stripeDesc": "Cette boule d'agate bostwana de 2 cm, aux reflets doux et apaisants, allie une belle harmonie de tons crème et bruns. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité et équilibre, tout en apportant une douce énergie de stabilité au quotidien. Pierre de chance et d'ancrage Parfaite pour méditer ou simplement porter en pendentif, elle incarne une touche de douceur naturelle pour le bien-être.",
+              "stripePriceId": "price_1U9KxULOfCA5mATuSUllE6j1",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1U9KxULOfCA5mATuvJWqVf2x",
+              "stripe": "https://buy.stripe.com/3cI5kE9c6abP9QIeO52881c",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

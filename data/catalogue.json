@@ -1296,7 +1296,17 @@
               "description": "Découvrez cette boule de howlite de 2 cm, une pierre douce et apaisante aux veines délicates qui en font un objet à la fois élégant et mystérieux. En lithothérapie, la howlite est souvent associée à la sérénité et à la connexion avec les énergies subtiles, aidant à apaiser les émotions et à favoriser la méditation. Parfaite pour une utilisation quotidienne, elle se glisse facilement dans un sac ou sur une table pour diffuser une énergie calme et équilibrante.",
               "photo": "images/articles/boule-howlite-donut-2cm-mtcp1ln9jine.jpg",
               "prixBoutique": 6.5,
-              "stock": 11
+              "stock": 11,
+              "stripeProductId": "prod_V9eWsHySyOv0Uj",
+              "stripeMode": "live",
+              "stripeNom": "Boule howlite Donut 2cm",
+              "stripeDesc": "Découvrez cette boule de howlite de 2 cm, une pierre douce et apaisante aux veines délicates qui en font un objet à la fois élégant et mystérieux. En lithothérapie, la howlite est souvent associée à la sérénité et à la connexion avec les énergies subtiles, aidant à apaiser les émotions et à favoriser la méditation. Parfaite pour une utilisation quotidienne, elle se glisse facilement dans un sac ou sur une table pour diffuser une énergie calme et équilibrante.",
+              "stripePriceId": "price_1U9LDZLOfCA5mATusawkM92B",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1U9LDZLOfCA5mATuEHjfr6ad",
+              "stripe": "https://buy.stripe.com/00w5kEgEy5Vzfb221j2881g",
+              "stripeStock": 11,
+              "epuise": false
             }
           ]
         }

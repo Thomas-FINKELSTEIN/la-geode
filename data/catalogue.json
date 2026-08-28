@@ -1163,7 +1163,17 @@
               "description": "Cette boule de jaspe bréchique de 2 cm, aux reflets rouges profonds et aux teintes chaudes, est une pierre naturelle apaisante et protectrice. En lithothérapie, elle aide à retrouver équilibre et sérénité en stabilisant les émotions et en renforçant la confiance en soi. Idéale pour une utilisation en méditation ou comme élément décoratif harmonieux dans votre intérieur.",
               "photo": "images/articles/jaspe-brechique-donut-2cm-mtco1tgflfn5.jpg",
               "prixBoutique": 6.5,
-              "stock": 10
+              "stock": 10,
+              "stripeProductId": "prod_V9e4lzLcfPSANJ",
+              "stripeMode": "live",
+              "stripeNom": "Jaspe bréchique Donut 2cm",
+              "stripeDesc": "Cette boule de jaspe bréchique de 2 cm, aux reflets rouges profonds et aux teintes chaudes, est une pierre naturelle apaisante et protectrice. En lithothérapie, elle aide à retrouver équilibre et sérénité en stabilisant les émotions et en renforçant la confiance en soi. Idéale pour une utilisation en méditation ou comme élément décoratif harmonieux dans votre intérieur.",
+              "stripePriceId": "price_1U9KmcLOfCA5mATuNHXyIyHe",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1U9KmdLOfCA5mATutoqKBEvY",
+              "stripe": "https://buy.stripe.com/8x29AU9c683Hgf635n28819",
+              "stripeStock": 10,
+              "epuise": false
             }
           ]
         }

@@ -1829,16 +1829,25 @@
               "photo": "images/articles/pendentif-protection-mtd48lx9l3xh.jpg",
               "prixBoutique": 29.9,
               "stock": 11,
+              "stripe": "https://buy.stripe.com/8x200kbkebfT0g88pH2881N",
               "stripeProductId": "prod_V9lNZ7NmSU44M7",
+              "stripePriceId": "price_1U9RrCLOfCA5mATuTZ0JQTsh",
+              "stripeLinkId": "plink_1U9RrDLOfCA5mATuPKMWSBDZ",
+              "stripePrix": 31.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif protection",
               "stripeDesc": "Protection et prévention contre les mauvais sorts",
-              "stripePriceId": "price_1U9RrCLOfCA5mATuTZ0JQTsh",
-              "stripePrix": 31.17,
-              "stripeLinkId": "plink_1U9RrDLOfCA5mATuPKMWSBDZ",
-              "stripe": "https://buy.stripe.com/8x200kbkebfT0g88pH2881N",
               "stripeStock": 11,
               "epuise": false
+            },
+            {
+              "id": "shungite-donut-3cm-mtd4i7dvyfpr",
+              "nom": "Shungite Donut 3cm",
+              "prix": 23,
+              "description": "Découvrez ce pendentif en shungite, une pierre aux reflets profonds et à la forme organique élégante. Connue pour ses propriétés protectrices et équilibrantes, la shungite est souvent utilisée en lithothérapie pour absorber les énergies négatives et favoriser un bien-être harmonieux. Parfaite pour une touche naturelle et apaisante au quotidien, elle s’intègre aussi bien dans une tenue minimaliste que dans une décoration spirituelle.",
+              "photo": "images/articles/shungite-donut-3cm-mtd4i7dwjijf.jpg",
+              "prixBoutique": 22,
+              "stock": 7
             }
           ]
         }

@@ -1904,7 +1904,17 @@
               "description": "Ce pendentif Merkaba en jaspe rouge, façonné en forme de donut, est une pièce unique alliant beauté et énergie positive. Le jaspe rouge, pierre de vitalité et de courage, est traditionnellement utilisé en lithothérapie pour renforcer la détermination, stimuler la passion et équilibrer les émotions. Parfait pour ceux qui cherchent à retrouver leur force intérieure et leur dynamisme au quotidien.",
               "photo": "images/articles/merkaba-jaspe-rouge-donut-3cm-mtd5986bfdo4.jpg",
               "prixBoutique": 19,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_V9lqtg6tYD1FDn",
+              "stripeMode": "live",
+              "stripeNom": "Merkaba Jaspe rouge Donut 3cm",
+              "stripeDesc": "Ce pendentif Merkaba en jaspe rouge, façonné en forme de donut, est une pièce unique alliant beauté et énergie positive. Le jaspe rouge, pierre de vitalité et de courage, est traditionnellement utilisé en lithothérapie pour renforcer la détermination, stimuler la passion et équilibrer les émotions. Parfait pour ceux qui cherchent à retrouver leur force intérieure et leur dynamisme au quotidien.",
+              "stripePriceId": "price_1U9SInLOfCA5mATu0GnwtpAN",
+              "stripePrix": 19.9,
+              "stripeLinkId": "plink_1U9SInLOfCA5mATubq7oeOVO",
+              "stripe": "https://buy.stripe.com/eVqeVeagado17IAaxP2881R",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

@@ -1582,16 +1582,25 @@
               "photo": "images/articles/aigue-marine-brute-donut-mtd0i5w5zd9a.jpg",
               "prixBoutique": 12,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/dRm9AUgEy83H1kccFX2881y",
               "stripeProductId": "prod_V9jhWagIoOIFAG",
+              "stripePriceId": "price_1U9QDzLOfCA5mATurxOB7Vaj",
+              "stripeLinkId": "plink_1U9QE0LOfCA5mATuuMYaNaaz",
+              "stripePrix": 12.67,
               "stripeMode": "live",
               "stripeNom": "Aigue marine brute Donut",
               "stripeDesc": "Ce pendentif en aigue marine brute capture la pureté des flots marins avec son teint bleu-vert apaisant. Pierre emblématique de la lithothérapie, elle est réputée pour favoriser la sérénité, apaiser les tensions émotionnelles et renforcer la connexion à la nature. Parfaite pour une énergie douce et équilibrante, elle s’intègre harmonieusement dans une décoration bohème ou comme bijou porte-bonheur au quotidien.",
-              "stripePriceId": "price_1U9QDzLOfCA5mATurxOB7Vaj",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1U9QE0LOfCA5mATuuMYaNaaz",
-              "stripe": "https://buy.stripe.com/dRm9AUgEy83H1kccFX2881y",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "cristal-de-roche-donut-3cm-mtd113f19lwx",
+              "nom": "Cristal de Roche Donut 3cm",
+              "prix": 9.57,
+              "description": "Ce pendentif en cristal de roche, d'une pureté éclatante et d'une forme organique, capte immédiatement l'attention. Symbole de clarté et d'énergie pure, cette pierre est traditionnellement utilisée en lithothérapie pour purifier l'aura, renforcer la concentration et favoriser la communication avec son intuition. Parfait pour une touche minérale élégante, il s'intègre aussi bien dans une tenue quotidienne qu'en méditation pour apaiser l'esprit.",
+              "photo": "images/articles/cristal-de-roche-donut-3cm-mtd113f1ccfu.jpg",
+              "prixBoutique": 9,
+              "stock": 2
             }
           ]
         }

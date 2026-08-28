@@ -1658,16 +1658,25 @@
               "photo": "images/articles/emeraude-brute-donut-mtd1xayk5fc5.jpg",
               "prixBoutique": 22,
               "stock": 8,
+              "stripe": "https://buy.stripe.com/5kQfZi4VQgAdaUMcFX2881E",
               "stripeProductId": "prod_V9kLmzUIwDnwTv",
+              "stripePriceId": "price_1U9QqWLOfCA5mATuipZBmy5V",
+              "stripeLinkId": "plink_1U9QqWLOfCA5mATupJEBQkIw",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Émeraude brute Donut",
               "stripeDesc": "Ce pendentif en émeraude brute, aux reflets verts intenses et à la texture naturelle, incarne la pureté et la vitalité. En lithothérapie, cette pierre est souvent associée à l’harmonie émotionnelle, à la croissance spirituelle et à la reconnexion avec la nature. Parfaite pour porter au quotidien, elle est idéale pour ceux qui cherchent à équilibrer leur énergie et à renforcer leur confiance en soi.",
-              "stripePriceId": "price_1U9QqWLOfCA5mATuipZBmy5V",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1U9QqWLOfCA5mATupJEBQkIw",
-              "stripe": "https://buy.stripe.com/5kQfZi4VQgAdaUMcFX2881E",
               "stripeStock": 8,
               "epuise": false
+            },
+            {
+              "id": "pendentif-vajra-mtd29co4nhcf",
+              "nom": "Pendentif vajra",
+              "prix": 31.17,
+              "description": "Représenter au centre  par un vajra , il est entourée des 7 chakras qui symbolisent: protection, force intérieure et stabilité, la clarté mentale et la maitrise de soi, une énergie indestructible ,ainsi que la capacité à surmonter les obstacles",
+              "photo": "images/articles/pendentif-vajra-mtd29co41jgh.jpg",
+              "prixBoutique": 29.9,
+              "stock": 6
             }
           ]
         }

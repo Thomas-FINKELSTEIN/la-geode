@@ -1543,7 +1543,17 @@
               "description": "Ce pendentif en cristal de roche sculpté en forme d’ange apporte une douce énergie apaisante et purificatrice. Selon la lithothérapie, il favorise la sérénité, renforce la connexion avec son intuition et aide à retrouver un équilibre émotionnel. Parfait pour une touche délicate et spirituelle, il s’accorde aussi bien avec les styles minimalistes que les tenues bohèmes. ancrage et amplificateur de pierres",
               "photo": "images/articles/cristal-de-roche-ange-donut-3cm-mtcyav6l1vyd.jpg",
               "prixBoutique": 22.9,
-              "stock": 8
+              "stock": 8,
+              "stripeProductId": "prod_V9ihLLClrp3bub",
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche ange Donut 3cm",
+              "stripeDesc": "Ce pendentif en cristal de roche sculpté en forme d’ange apporte une douce énergie apaisante et purificatrice. Selon la lithothérapie, il favorise la sérénité, renforce la connexion avec son intuition et aide à retrouver un équilibre émotionnel. Parfait pour une touche délicate et spirituelle, il s’accorde aussi bien avec les styles minimalistes que les tenues bohèmes. ancrage et amplificateur de pierres",
+              "stripePriceId": "price_1U9PGILOfCA5mATuJQSBdKHw",
+              "stripePrix": 23.93,
+              "stripeLinkId": "plink_1U9PGILOfCA5mATuD7TzFZyj",
+              "stripe": "https://buy.stripe.com/4gM4gA1JE97Ld2U7lD2881u",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         }

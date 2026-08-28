@@ -1202,16 +1202,25 @@
               "photo": "images/articles/cristal-de-roche-donut-2cm-mtco8r0m3czc.jpg",
               "prixBoutique": 6.5,
               "stock": 10,
+              "stripe": "https://buy.stripe.com/aFaaEYbke4Rv3skdK12881b",
               "stripeProductId": "prod_V9eAvETAbudXs5",
+              "stripePriceId": "price_1U9KrqLOfCA5mATupAPcQB2v",
+              "stripeLinkId": "plink_1U9KrrLOfCA5mATuyrlR1Rok",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Cristal de roche Donut 2cm",
               "stripeDesc": "Cette boule de cristal de roche, pure et transparente, est une pièce naturelle aux reflets lumineux et apaisants. Selon la lithothérapie, elle est souvent utilisée pour purifier l’énergie, renforcer la clarté mentale et favoriser la sérénité au quotidien. Parfaite pour une méditation ou une décoration élégante, elle diffuse une énergie harmonieuse et équilibrante.",
-              "stripePriceId": "price_1U9KrqLOfCA5mATupAPcQB2v",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1U9KrrLOfCA5mATuyrlR1Rok",
-              "stripe": "https://buy.stripe.com/aFaaEYbke4Rv3skdK12881b",
               "stripeStock": 10,
               "epuise": false
+            },
+            {
+              "id": "agate-bostwana-donut-2cm-mtcogav3z9ly",
+              "nom": "Agate bostwana Donut 2cm",
+              "prix": 6.98,
+              "description": "Cette boule d'agate bostwana de 2 cm, aux reflets doux et apaisants, allie une belle harmonie de tons crème et bruns. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité et équilibre, tout en apportant une douce énergie de stabilité au quotidien. Pierre de chance et d'ancrage Parfaite pour méditer ou simplement porter en pendentif, elle incarne une touche de douceur naturelle pour le bien-être.",
+              "photo": "images/articles/agate-bostwana-donut-2cm-mtcogav3bqhv.jpg",
+              "prixBoutique": 6.5,
+              "stock": 6
             }
           ]
         }

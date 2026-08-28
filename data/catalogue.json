@@ -1961,7 +1961,17 @@
               "description": "Ce pendentif en seraphrenite, aux reflets verts et motifs organiques, est une pierre rare aux énergies apaisantes et équilibrantes. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité, renforcer la confiance en soi et faciliter la communication. Parfaite pour une touche naturelle et spirituelle au quotidien, elle s’accorde aussi bien avec les tenues élégantes que les styles bohèmes.",
               "photo": "images/articles/seraphrenite-donut-mtd5wa19fkx7.jpg",
               "prixBoutique": 22,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_V9m8ytrbNPJ93V",
+              "stripeMode": "live",
+              "stripeNom": "Seraphrenite Donut",
+              "stripeDesc": "Ce pendentif en seraphrenite, aux reflets verts et motifs organiques, est une pierre rare aux énergies apaisantes et équilibrantes. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité, renforcer la confiance en soi et faciliter la communication. Parfaite pour une touche naturelle et spirituelle au quotidien, elle s’accorde aussi bien avec les tenues élégantes que les styles bohèmes.",
+              "stripePriceId": "price_1U9Sa3LOfCA5mATuNmr17g0l",
+              "stripePrix": 23,
+              "stripeLinkId": "plink_1U9Sa4LOfCA5mATu1OPUF2YB",
+              "stripe": "https://buy.stripe.com/9B6cN6ewqbfTd2U21j2881U",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

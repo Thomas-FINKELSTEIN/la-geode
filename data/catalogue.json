@@ -1449,16 +1449,25 @@
               "photo": "images/articles/septaria-donut-3-cm-mtcrc7b9wvp7.jpg",
               "prixBoutique": 9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6cN64VQbfTaUM35n2881o",
               "stripeProductId": "prod_V9fYaFrihPDSU3",
+              "stripePriceId": "price_1U9MDhLOfCA5mATuIFG7GWVT",
+              "stripeLinkId": "plink_1U9MDhLOfCA5mATu3J47TaZ7",
+              "stripePrix": 9.57,
               "stripeMode": "live",
               "stripeNom": "Septaria Donut 3 cm",
               "stripeDesc": "Ce pendentif en septaria de 3 cm met en valeur une pierre aux motifs organiques uniques, où se mêlent des nuances de gris, de noir et de touches dorées. Apprecié en lithothérapie pour ses déblocages émotionnels son énergie apaisante et équilibrante, la septaria est souvent utilisée pour favoriser la sérénité, renforcer la connexion à la nature et apaiser les émotions.  Elle guérit les traumatismes du passé ,parfaite pour être portée au quotidien, elle s’intègre aussi bien dans une tenue élégante que dans un style bohème.",
-              "stripePriceId": "price_1U9MDhLOfCA5mATuIFG7GWVT",
-              "stripePrix": 9.57,
-              "stripeLinkId": "plink_1U9MDhLOfCA5mATu3J47TaZ7",
-              "stripe": "https://buy.stripe.com/9B6cN64VQbfTaUM35n2881o",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-grenouille-opale-jaune-donut-3-mtcrgp1iyc9y",
+              "nom": "Pendentif grenouille opale jaune Donut 3cm",
+              "prix": 9.57,
+              "description": "Ce pendentif en forme de grenouille, taillé dans une douce opale jaune, est un charme délicat et lumineux pour les petits comme pour les grands. Selon la lithothérapie, l’opale jaune est souvent associée à la joie, à la créativité et à une énergie apaisante, aidant à équilibrer les émotions et à apporter une touche de douceur dans le quotidien. Parfait pour les enfants ou pour ceux qui cherchent à cultiver une ambiance positive et harmonieuse.",
+              "photo": "images/articles/pendentif-grenouille-opale-jaune-donut-3-mtcrgp1iawe8.jpg",
+              "prixBoutique": 9,
+              "stock": 2
             }
           ]
         }

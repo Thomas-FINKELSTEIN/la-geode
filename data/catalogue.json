@@ -1677,16 +1677,25 @@
               "photo": "images/articles/pendentif-vajra-mtd29co41jgh.jpg",
               "prixBoutique": 29.9,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/dRm7sM3RMdo14wobBT2881F",
               "stripeProductId": "prod_V9kUX6Tw9lgAbR",
+              "stripePriceId": "price_1U9QzWLOfCA5mATuPmfjfwCm",
+              "stripeLinkId": "plink_1U9QzXLOfCA5mATueVso2kGC",
+              "stripePrix": 31.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif vajra",
               "stripeDesc": "Représenter au centre  par un vajra , il est entourée des 7 chakras qui symbolisent: protection, force intérieure et stabilité, la clarté mentale et la maitrise de soi, une énergie indestructible ,ainsi que la capacité à surmonter les obstacles",
-              "stripePriceId": "price_1U9QzWLOfCA5mATuPmfjfwCm",
-              "stripePrix": 31.17,
-              "stripeLinkId": "plink_1U9QzXLOfCA5mATueVso2kGC",
-              "stripe": "https://buy.stripe.com/dRm7sM3RMdo14wobBT2881F",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "dolomite-donut-2-cm-mtd2g1457kyf",
+              "nom": "Dolomite Donut 2 cm",
+              "prix": 12.67,
+              "description": "Ce pendentif en dolomite, taillé en forme de donut, allie douceur et élégance avec ses teintes douces et ses reflets subtils. La dolomite est souvent associée en lithothérapie à l'apaisement des tensions émotionnelles et à la reconnexion avec la sérénité intérieure, tout en favorisant un équilibre énergétique harmonieux. Parfaite pour un usage quotidien, elle est idéale pour ceux qui cherchent à cultiver la paix et la stabilité.",
+              "photo": "images/articles/dolomite-donut-2-cm-mtd2g145awjm.jpg",
+              "prixBoutique": 12,
+              "stock": 3
             }
           ]
         }

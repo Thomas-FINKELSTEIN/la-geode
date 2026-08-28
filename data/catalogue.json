@@ -1018,7 +1018,7 @@
               "stripeLinkId": "plink_1U969ALOfCA5mATuW26EBMoZ",
               "stripePrix": 6.98,
               "stripeMode": "live",
-              "stripeNom": "Boule Jaspe Mokáïte Donut 1cm",
+              "stripeNom": "Boule Jaspe Mokáïte  1cm",
               "stripeDesc": "Cette boule de jaspe mokáïte, d'une taille parfaite de 1 cm, est une pierre aux reflets chauds et apaisants. En lithothérapie, elle est souvent utilisée pour renforcer la stabilité émotionnelle et favoriser un sentiment de sécurité intérieure. Idéale pour apaiser les tensions et équilibrer les énergies, elle se prête aussi bien à une utilisation en méditation qu’à une décoration minérale harmonieuse.",
               "stripeStock": 3,
               "epuise": false
@@ -1037,7 +1037,7 @@
               "stripeLinkId": "plink_1U96BQLOfCA5mATuwFAs1gBc",
               "stripePrix": 6.98,
               "stripeMode": "live",
-              "stripeNom": "Aventurine Donut 1cm",
+              "stripeNom": "Aventurine  1cm",
               "stripeDesc": "Cette boule d'aventurine de 1 cm, aussi appelée pierre de la chance, est une pierre douce et apaisante qui favorise l'harmonie émotionnelle et le bien-être intérieur. Selon la lithothérapie, elle aide à équilibrer les énergies et à renforcer la confiance en soi, tout en attirant la prospérité et la sérénité au quotidien. Parfaite pour une utilisation en méditation ou comme talisman porte-bonheur, elle s’intègre facilement dans votre quotidien pour un effet apaisant et inspirant.",
               "stripeStock": 1,
               "epuise": false
@@ -1056,7 +1056,7 @@
               "stripeLinkId": "plink_1U96DULOfCA5mATuKrlwGHXC",
               "stripePrix": 6.98,
               "stripeMode": "live",
-              "stripeNom": "Pierre de nuit Donut 1cm",
+              "stripeNom": "Pierre de nuit 1cm",
               "stripeDesc": "La pierre de nuit, aussi appelée obsidienne noire, est une pierre aux reflets profonds et mystérieux qui attire l'attention. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la stabilité intérieure et aider à se reconnecter à soi-même. Parfaite pour ceux qui cherchent à équilibrer leur énergie et à trouver un calme intérieur, elle est idéale en méditation ou simplement portée en bijou.",
               "stripeStock": 3,
               "epuise": false
@@ -1980,7 +1980,17 @@
               "description": "Ce pendentif en unakite, aux reflets verts et roses, est une pierre douce et apaisante qui symbolise l'harmonie et l'équilibre émotionnel. Traditionnellement utilisée en lithothérapie pour favoriser la sérénité et renforcer la connexion entre le cœur et l'esprit, elle est idéale pour ceux qui cherchent à apaiser les tensions du quotidien. Parfaite à porter au quotidien, cette pierre naturelle apporte une touche de douceur et de bien-être à votre style.",
               "photo": "images/articles/unakite-donut-3cm-mtd625781p7j.jpg",
               "prixBoutique": 12,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_V9mCph7ctcd4UA",
+              "stripeMode": "live",
+              "stripeNom": "Unakite Donut 3cm",
+              "stripeDesc": "Ce pendentif en unakite, aux reflets verts et roses, est une pierre douce et apaisante qui symbolise l'harmonie et l'équilibre émotionnel. Traditionnellement utilisée en lithothérapie pour favoriser la sérénité et renforcer la connexion entre le cœur et l'esprit, elle est idéale pour ceux qui cherchent à apaiser les tensions du quotidien. Parfaite à porter au quotidien, cette pierre naturelle apporte une touche de douceur et de bien-être à votre style.",
+              "stripePriceId": "price_1U9SeTLOfCA5mATurJkf8loj",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1U9SeULOfCA5mATuayYSkcRs",
+              "stripe": "https://buy.stripe.com/aFa5kEgEycjX5AsfS92881V",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

@@ -1239,7 +1239,17 @@
               "description": "Cette boule d'obsidienne neige, d'une beauté mystérieuse, est un véritable talisman de protection et de purification. Selon la lithothérapie, elle aide à apaiser les émotions tourmentées, à clarifier l'esprit et à renforcer la connexion avec son intuition. Parfaite pour une méditation apaisante ou portée en pendentif, elle diffuse une énergie calme et équilibrante au quotidien.",
               "photo": "images/articles/obsidienne-neige-donut-2cm-mtcoo3qnke77.jpg",
               "prixBoutique": 6.5,
-              "stock": 12
+              "stock": 12,
+              "stripeProductId": "prod_V9eMr6rtZoFCTw",
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne neige Donut 2cm",
+              "stripeDesc": "Cette boule d'obsidienne neige, d'une beauté mystérieuse, est un véritable talisman de protection et de purification. Selon la lithothérapie, elle aide à apaiser les émotions tourmentées, à clarifier l'esprit et à renforcer la connexion avec son intuition. Parfaite pour une méditation apaisante ou portée en pendentif, elle diffuse une énergie calme et équilibrante au quotidien.",
+              "stripePriceId": "price_1U9L3MLOfCA5mATuKbMUmgXj",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1U9L3NLOfCA5mATuB6WYXMXF",
+              "stripe": "https://buy.stripe.com/dRm3cwaga6ZDgf66hz2881d",
+              "stripeStock": 12,
+              "epuise": false
             }
           ]
         }

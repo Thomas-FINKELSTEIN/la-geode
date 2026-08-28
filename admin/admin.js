@@ -778,8 +778,8 @@
             image: dataURI,
             titre: $('af-nom').value.trim(),
             description: $('af-desc').value.trim(),
-            // Titres des autres articles du rayon : l'IA imite leur format
-            // (ex : « Œil-de-Tigre Donut 3cm » → « Hématite Donut 3cm »).
+            // Titres des autres articles du rayon : le worker s'en sert pour reperer
+            // la gamme et copier son format (ils ne sont jamais envoyes a l'IA).
             exemples: fam.articles
               .filter(function (a) { return (!art || a.id !== art.id) && a.nom; })
               .map(function (a) { return a.nom; })

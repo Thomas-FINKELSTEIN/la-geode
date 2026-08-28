@@ -1676,7 +1676,17 @@
               "description": "Représenter au centre  par un vajra , il est entourée des 7 chakras qui symbolisent: protection, force intérieure et stabilité, la clarté mentale et la maitrise de soi, une énergie indestructible ,ainsi que la capacité à surmonter les obstacles",
               "photo": "images/articles/pendentif-vajra-mtd29co41jgh.jpg",
               "prixBoutique": 29.9,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_V9kUX6Tw9lgAbR",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif vajra",
+              "stripeDesc": "Représenter au centre  par un vajra , il est entourée des 7 chakras qui symbolisent: protection, force intérieure et stabilité, la clarté mentale et la maitrise de soi, une énergie indestructible ,ainsi que la capacité à surmonter les obstacles",
+              "stripePriceId": "price_1U9QzWLOfCA5mATuPmfjfwCm",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1U9QzXLOfCA5mATueVso2kGC",
+              "stripe": "https://buy.stripe.com/dRm7sM3RMdo14wobBT2881F",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

@@ -1809,7 +1809,17 @@
               "description": "Pierre douce et apaisante, c'est un véritable trésor pour le cœur et les émotions. Connue pour ses vertus équilibrantes, elle favorise l’ouverture du chakra du cœur et aide à surmonter les blessures émotionnelles tout en renforçant la compassion et l’amour inconditionnel. Parfaite pour une énergie bienveillante au quotidien, elle se porte aussi bien en bijou qu’en objet de méditation.",
               "photo": "images/articles/rhodocrosite-donut-mtd3u5szvii4.jpg",
               "prixBoutique": 19,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_V9lCPf82UcKmA6",
+              "stripeMode": "live",
+              "stripeNom": "Rhodocrosite Donut",
+              "stripeDesc": "Pierre douce et apaisante, c'est un véritable trésor pour le cœur et les émotions. Connue pour ses vertus équilibrantes, elle favorise l’ouverture du chakra du cœur et aide à surmonter les blessures émotionnelles tout en renforçant la compassion et l’amour inconditionnel. Parfaite pour une énergie bienveillante au quotidien, elle se porte aussi bien en bijou qu’en objet de méditation.",
+              "stripePriceId": "price_1U9RgNLOfCA5mATu75ebo9pt",
+              "stripePrix": 19.9,
+              "stripeLinkId": "plink_1U9RgNLOfCA5mATudQDZvOnd",
+              "stripe": "https://buy.stripe.com/5kQ8wQ3RM4RvbYQbBT2881M",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

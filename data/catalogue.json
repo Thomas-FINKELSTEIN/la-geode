@@ -1771,7 +1771,17 @@
               "description": "Ce pendentif en forme de donut de 3 cm évoque la beauté mystérieuse de l'émeraude, bien que sa teinte turquoise et ses reflets dorés le rapprochent plutôt d'une pierre comme l'aventurine ou une variété de quartz. En lithothérapie, les pierres vertes sont souvent associées à l'équilibre émotionnel, à la sérénité et à une énergie apaisante, favorisant ainsi la connexion à la nature et la douceur dans le quotidien. Parfait pour ceux qui cherchent à intégrer une touche minérale harmonieuse à leur style.",
               "photo": "images/articles/pendentif-emeraude-donut-3cm-mtd3ccvahjay.jpg",
               "prixBoutique": 7,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_V9kyvThR8ckxfj",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif émeraude Donut 3cm",
+              "stripeDesc": "Ce pendentif en forme de donut de 3 cm évoque la beauté mystérieuse de l'émeraude, bien que sa teinte turquoise et ses reflets dorés le rapprochent plutôt d'une pierre comme l'aventurine ou une variété de quartz. En lithothérapie, les pierres vertes sont souvent associées à l'équilibre émotionnel, à la sérénité et à une énergie apaisante, favorisant ainsi la connexion à la nature et la douceur dans le quotidien. Parfait pour ceux qui cherchent à intégrer une touche minérale harmonieuse à leur style.",
+              "stripePriceId": "price_1U9RSyLOfCA5mATuO5V1cG73",
+              "stripePrix": 7.5,
+              "stripeLinkId": "plink_1U9RSyLOfCA5mATuHm9GPGRH",
+              "stripe": "https://buy.stripe.com/fZudRa3RMbfT0g8axP2881K",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

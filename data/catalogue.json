@@ -1981,16 +1981,25 @@
               "photo": "images/articles/unakite-donut-3cm-mtd625781p7j.jpg",
               "prixBoutique": 12,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/aFa5kEgEycjX5AsfS92881V",
               "stripeProductId": "prod_V9mCph7ctcd4UA",
+              "stripePriceId": "price_1U9SeTLOfCA5mATurJkf8loj",
+              "stripeLinkId": "plink_1U9SeULOfCA5mATuayYSkcRs",
+              "stripePrix": 12.67,
               "stripeMode": "live",
               "stripeNom": "Unakite Donut 3cm",
               "stripeDesc": "Ce pendentif en unakite, aux reflets verts et roses, est une pierre douce et apaisante qui symbolise l'harmonie et l'équilibre émotionnel. Traditionnellement utilisée en lithothérapie pour favoriser la sérénité et renforcer la connexion entre le cœur et l'esprit, elle est idéale pour ceux qui cherchent à apaiser les tensions du quotidien. Parfaite à porter au quotidien, cette pierre naturelle apporte une touche de douceur et de bien-être à votre style.",
-              "stripePriceId": "price_1U9SeTLOfCA5mATurJkf8loj",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1U9SeULOfCA5mATuayYSkcRs",
-              "stripe": "https://buy.stripe.com/aFa5kEgEycjX5AsfS92881V",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "pendentif-rhodocrosite-donut-3cm-mtd656186lpp",
+              "nom": "Pendentif Rhodocrosite Donut 3cm",
+              "prix": 23,
+              "description": "Découvrez ce pendentif en forme de donut taillé dans une belle pierre de rhodocrosite, aux teintes douces et apaisantes de rose pâle strié de blanc. Symbole d'amour inconditionnel et de compassion, cette pierre est traditionnellement utilisée en lithothérapie pour ouvrir le cœur, renforcer les liens affectifs et apaiser les émotions. Parfaite pour ceux qui cherchent à cultiver la tendresse et à retrouver l'équilibre intérieur dans leur quotidien.",
+              "photo": "images/articles/pendentif-rhodocrosite-donut-3cm-mtd65618qwbz.jpg",
+              "prixBoutique": 22,
+              "stock": 1
             }
           ]
         }

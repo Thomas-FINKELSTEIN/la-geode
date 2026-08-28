@@ -1430,16 +1430,25 @@
               "photo": "images/articles/jaspe-dalmatien-donut-3cm-mtcr7yppfgx9.jpg",
               "prixBoutique": 9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/00waEYgEycjXaUM9tL2881n",
               "stripeProductId": "prod_V9fVFBUYQfJ80q",
+              "stripePriceId": "price_1U9MAfLOfCA5mATu3Ok7CEVA",
+              "stripeLinkId": "plink_1U9MAfLOfCA5mATuCfq4LID5",
+              "stripePrix": 9.57,
               "stripeMode": "live",
               "stripeNom": "Jaspe dalmatien Donut 3cm",
               "stripeDesc": "Ce pendentif en jaspe dalmatien 3cm met en valeur une pierre aux motifs élégants et contrastés, rappelant les taches d’un dalmatien. En lithothérapie, le jaspe dalmatien est souvent associé à la protection, à l’équilibre émotionnel et à la stimulation de la créativité. Elle détruit les blocages et chasse les pensées négatives. Parfait pour apporter une touche naturelle et apaisante à vos tenues au quotidien.",
-              "stripePriceId": "price_1U9MAfLOfCA5mATu3Ok7CEVA",
-              "stripePrix": 9.57,
-              "stripeLinkId": "plink_1U9MAfLOfCA5mATuCfq4LID5",
-              "stripe": "https://buy.stripe.com/00waEYgEycjXaUM9tL2881n",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "septaria-donut-3-cm-mtcrc7b9ie8i",
+              "nom": "Septaria Donut 3 cm",
+              "prix": 9.57,
+              "description": "Ce pendentif en septaria de 3 cm met en valeur une pierre aux motifs organiques uniques, où se mêlent des nuances de gris, de noir et de touches dorées. Apprecié en lithothérapie pour ses déblocages émotionnels son énergie apaisante et équilibrante, la septaria est souvent utilisée pour favoriser la sérénité, renforcer la connexion à la nature et apaiser les émotions.  Elle guérit les traumatismes du passé ,parfaite pour être portée au quotidien, elle s’intègre aussi bien dans une tenue élégante que dans un style bohème.",
+              "photo": "images/articles/septaria-donut-3-cm-mtcrc7b9wvp7.jpg",
+              "prixBoutique": 9,
+              "stock": 1
             }
           ]
         }

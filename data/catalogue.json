@@ -1620,16 +1620,25 @@
               "photo": "images/articles/pendentif-amethyste-donut-3cm-mtd1ifpxn0du.jpg",
               "prixBoutique": 34,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/28E28s4VQ83H5As7lD2881C",
               "stripeProductId": "prod_V9k9EEewtvmJ56",
+              "stripePriceId": "price_1U9QfJLOfCA5mATuDKwvfeN8",
+              "stripeLinkId": "plink_1U9QfJLOfCA5mATujdm8bKWH",
+              "stripePrix": 35.41,
               "stripeMode": "live",
               "stripeNom": "Pendentif améthyste Donut 3cm",
               "stripeDesc": "Ce pendentif en forme de donut met en valeur une belle améthyste aux reflets pourpres et aux motifs internes captivants. Pierre apaisante par excellence, l'améthyste est traditionnellement utilisée en lithothérapie pour favoriser la sérénité, renforcer la concentration et équilibrer les émotions. Parfaite pour une touche de douceur au quotidien, elle est idéale à porter près du cœur ou du troisième œil pour en amplifier les bienfaits.",
-              "stripePriceId": "price_1U9QfJLOfCA5mATuDKwvfeN8",
-              "stripePrix": 35.41,
-              "stripeLinkId": "plink_1U9QfJLOfCA5mATujdm8bKWH",
-              "stripe": "https://buy.stripe.com/28E28s4VQ83H5As7lD2881C",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-apatite-bleue-mtd1pscl4z7r",
+              "nom": "Apatite bleue Donut 3cm",
+              "prix": 19.9,
+              "description": "Ce pendentif en forme de donut met en valeur une belle apatite bleue, pierre aux teintes douces et apaisantes. En lithothérapie, l'apatite bleue est souvent associée à la communication, à la sérénité et à l'ouverture du cœur, aidant à exprimer ses émotions avec clarté et douceur. Parfaite pour ceux qui cherchent à harmoniser leur énergie et à renforcer leur confiance en soi, cette pierre naturelle s’intègre aussi bien dans une tenue quotidienne qu’en méditation pour favoriser la connexion à soi-même.",
+              "photo": "images/articles/apatite-bleue-donut-3cm-mtd1sf9gl6hk.jpg",
+              "prixBoutique": 19,
+              "stock": 8
             }
           ]
         }

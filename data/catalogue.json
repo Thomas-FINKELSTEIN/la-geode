@@ -1250,6 +1250,15 @@
               "stripe": "https://buy.stripe.com/dRm3cwaga6ZDgf66hz2881d",
               "stripeStock": 12,
               "epuise": false
+            },
+            {
+              "id": "boule-amethyste-donut-2cm-mtcox313av6h",
+              "nom": "Boule améthyste Donut 2cm",
+              "prix": 6.98,
+              "description": "Cette boule d'améthyste de 2 cm, suspendue comme un donut, capte immédiatement l'attention avec ses reflets violets et son éclat profond. En lithothérapie, l'améthyste est réputée pour apaiser l'esprit, favoriser la sérénité et renforcer la connexion à son intuition, tout en aidant à calmer les émotions perturbées. Parfaite pour une méditation apaisante ou comme élément décoratif spirituel, elle s'intègre aussi bien dans un espace de bien-être que dans un environnement quotidien pour une touche de douceur et de magie.",
+              "photo": "images/articles/boule-amethyste-donut-2cm-mtcox313iwk1.jpg",
+              "prixBoutique": 6.5,
+              "stock": 5
             }
           ]
         }

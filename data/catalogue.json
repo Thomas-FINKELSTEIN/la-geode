@@ -1848,16 +1848,25 @@
               "photo": "images/articles/shungite-donut-3cm-mtd4i7dwjijf.jpg",
               "prixBoutique": 22,
               "stock": 7,
+              "stripe": "https://buy.stripe.com/00w4gAbkees5fb2cFX2881O",
               "stripeProductId": "prod_V9lV3JKvZUfo0z",
+              "stripePriceId": "price_1U9RyQLOfCA5mATuougOWs3D",
+              "stripeLinkId": "plink_1U9RyQLOfCA5mATuCXJmT0Xz",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Shungite Donut 3cm",
               "stripeDesc": "Découvrez ce pendentif en shungite, une pierre aux reflets profonds et à la forme organique élégante. Connue pour ses propriétés protectrices et équilibrantes, la shungite est souvent utilisée en lithothérapie pour absorber les énergies négatives et favoriser un bien-être harmonieux. Parfaite pour une touche naturelle et apaisante au quotidien, elle s’intègre aussi bien dans une tenue minimaliste que dans une décoration spirituelle.",
-              "stripePriceId": "price_1U9RyQLOfCA5mATuougOWs3D",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1U9RyQLOfCA5mATuCXJmT0Xz",
-              "stripe": "https://buy.stripe.com/00w4gAbkees5fb2cFX2881O",
               "stripeStock": 7,
               "epuise": false
+            },
+            {
+              "id": "agate-brune-donut-3cm-mtd4jszchast",
+              "nom": "Agate brune Donut 3cm",
+              "prix": 12.67,
+              "description": "Ce pendentif en agate brune, aussi appelée agate de chêne, est une pierre douce et chaleureuse qui évoque la stabilité et la protection. Traditionnellement utilisée en lithothérapie pour apaiser les émotions et renforcer la confiance en soi, elle est idéale pour ceux qui cherchent un équilibre intérieur et une énergie apaisante au quotidien. Son aspect organique et sa couleur riche en font un allié précieux pour harmoniser le corps et l’esprit.",
+              "photo": "images/articles/agate-brune-donut-3cm-mtd4jszc1svq.jpg",
+              "prixBoutique": 12,
+              "stock": 1
             }
           ]
         }

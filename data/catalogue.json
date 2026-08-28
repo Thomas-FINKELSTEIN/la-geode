@@ -1392,16 +1392,25 @@
               "photo": "images/articles/jaspe-sang-de-dragon-donut-3cm-mtcr17bputdj.jpg",
               "prixBoutique": 9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/dRm9AU4VQ3Nr0g88pH2881l",
               "stripeProductId": "prod_V9fQaemhMDQvMu",
+              "stripePriceId": "price_1U9M5PLOfCA5mATuqPnIU2Mf",
+              "stripeLinkId": "plink_1U9M5PLOfCA5mATuQAU0tCpt",
+              "stripePrix": 9.57,
               "stripeMode": "live",
               "stripeNom": "Jaspe sang de dragon Donut 3cm",
               "stripeDesc": "Ce pendentif en jaspe sang de dragon, aux reflets profonds et aux nuances envoûtantes de rouge et de vert, est une pierre aux énergies puissantes. Selon la lithothérapie, elle favorise la vitalité, renforce la confiance en soi et aide à canaliser les émotions pour retrouver un équilibre intérieur. Parfait pour une touche naturelle et mystérieuse, il s’accorde aussi bien avec des tenues élégantes que des styles bohèmes. Elle revitalise un mental épuisé ,donne du courage",
-              "stripePriceId": "price_1U9M5PLOfCA5mATuqPnIU2Mf",
-              "stripePrix": 9.57,
-              "stripeLinkId": "plink_1U9M5PLOfCA5mATuQAU0tCpt",
-              "stripe": "https://buy.stripe.com/dRm9AU4VQ3Nr0g88pH2881l",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "unakite-donut-3cm-mtcr4m4ljigb",
+              "nom": "Unakite Donut 3cm",
+              "prix": 9.57,
+              "description": "Ce pendentif en unakite de 3 cm allie la douceur des tons verts et roses pour un équilibre harmonieux. Pierre de paix et de réconfort, elle est souvent utilisée en lithothérapie pour apaiser les émotions, favoriser la sérénité et renforcer la connexion à la nature. Parfaite pour une énergie apaisante au quotidien, elle s’accorde aussi bien avec les styles bohèmes que minimalistes. Apaise les chagrins et les peines, pierre d'instropection .",
+              "photo": "images/articles/unakite-donut-3cm-mtcr4m4lag34.jpg",
+              "prixBoutique": 9,
+              "stock": 5
             }
           ]
         }

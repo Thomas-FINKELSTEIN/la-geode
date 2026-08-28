@@ -1164,16 +1164,25 @@
               "photo": "images/articles/jaspe-brechique-donut-2cm-mtco1tgflfn5.jpg",
               "prixBoutique": 6.5,
               "stock": 10,
+              "stripe": "https://buy.stripe.com/8x29AU9c683Hgf635n28819",
               "stripeProductId": "prod_V9e4lzLcfPSANJ",
+              "stripePriceId": "price_1U9KmcLOfCA5mATuNHXyIyHe",
+              "stripeLinkId": "plink_1U9KmdLOfCA5mATutoqKBEvY",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Jaspe bréchique Donut 2cm",
               "stripeDesc": "Cette boule de jaspe bréchique de 2 cm, aux reflets rouges profonds et aux teintes chaudes, est une pierre naturelle apaisante et protectrice. En lithothérapie, elle aide à retrouver équilibre et sérénité en stabilisant les émotions et en renforçant la confiance en soi. Idéale pour une utilisation en méditation ou comme élément décoratif harmonieux dans votre intérieur.",
-              "stripePriceId": "price_1U9KmcLOfCA5mATuNHXyIyHe",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1U9KmdLOfCA5mATutoqKBEvY",
-              "stripe": "https://buy.stripe.com/8x29AU9c683Hgf635n28819",
               "stripeStock": 10,
               "epuise": false
+            },
+            {
+              "id": "quartz-fume-donut-2cm-mtco4epii3j3",
+              "nom": "Quartz fumé Donut 2cm",
+              "prix": 6.98,
+              "description": "Cette boule de quartz fumé de 2 cm, aussi appelée pierre de fumée, est une pierre aux reflets élégants et mystérieux. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la concentration et équilibrer l’énergie. Parfaite pour une touche décorative ou comme outil de bien-être au quotidien, elle apporte calme et sérénité.",
+              "photo": "images/articles/quartz-fume-donut-2cm-mtco4epizp3u.jpg",
+              "prixBoutique": 6.5,
+              "stock": 15
             }
           ]
         }

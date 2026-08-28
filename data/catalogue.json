@@ -1144,7 +1144,17 @@
               "description": "Découvrez cette boule facetée d'amethyste, pierre apaisante aux reflets violets envoûtants. Symbole de sérénité et d’harmonie, elle est traditionnellement utilisée en lithothérapie pour favoriser la détente, équilibrer les émotions et apaiser l’esprit. Parfaite pour une méditation ou comme élément décoratif, elle apporte une touche de douceur et de calme au quotidien.",
               "photo": "images/articles/boule-facetee-amethyste-donut-mtcnbq7kyq4l.jpg",
               "prixBoutique": 15.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_V9dkWsQiwsSJoP",
+              "stripeMode": "live",
+              "stripeNom": "Boule facetée amethyste Donut",
+              "stripeDesc": "Découvrez cette boule facetée d'amethyste, pierre apaisante aux reflets violets envoûtants. Symbole de sérénité et d’harmonie, elle est traditionnellement utilisée en lithothérapie pour favoriser la détente, équilibrer les émotions et apaiser l’esprit. Parfaite pour une méditation ou comme élément décoratif, elle apporte une touche de douceur et de calme au quotidien.",
+              "stripePriceId": "price_1U9KT0LOfCA5mATuwtQOKXd7",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1U9KT0LOfCA5mATuMgPmYc3s",
+              "stripe": "https://buy.stripe.com/5kQaEY3RMgAdgf67lD28818",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

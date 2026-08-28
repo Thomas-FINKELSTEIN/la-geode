@@ -1525,16 +1525,25 @@
               "photo": "images/articles/amethyste-donut-3cm-mtcy77zxhqz9.jpg",
               "prixBoutique": 22.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/4gM8wQ73Yfw9gf69tL2881t",
               "stripeProductId": "prod_V9ie9UK7mrlAbn",
+              "stripePriceId": "price_1U9PDZLOfCA5mATu7LMDMk1i",
+              "stripeLinkId": "plink_1U9PDZLOfCA5mATuBVLHum16",
+              "stripePrix": 23.93,
               "stripeMode": "live",
               "stripeNom": "Amethyste Donut 3cm",
               "stripeDesc": "Découvrez ce pendentif en forme d’ange sculpté dans une belle amethyste aux reflets violets apaisants. Cette pierre, réputée en lithothérapie pour ses vertus calmantes, aide à apaiser l’esprit, favorise la sérénité et renforce la connexion à ses émotions profondes. Parfaite pour une touche douce et spirituelle au quotidien, elle est idéale pour les personnes en quête d’harmonie intérieure et de protection énergétique.",
-              "stripePriceId": "price_1U9PDZLOfCA5mATu7LMDMk1i",
-              "stripePrix": 23.93,
-              "stripeLinkId": "plink_1U9PDZLOfCA5mATuBVLHum16",
-              "stripe": "https://buy.stripe.com/4gM8wQ73Yfw9gf69tL2881t",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "cristal-de-roche-ange-donut-3cm-mtcyav6luczu",
+              "nom": "Cristal de roche ange Donut 3cm",
+              "prix": 23.93,
+              "description": "Ce pendentif en cristal de roche sculpté en forme d’ange apporte une douce énergie apaisante et purificatrice. Selon la lithothérapie, il favorise la sérénité, renforce la connexion avec son intuition et aide à retrouver un équilibre émotionnel. Parfait pour une touche délicate et spirituelle, il s’accorde aussi bien avec les styles minimalistes que les tenues bohèmes. ancrage et amplificateur de pierres",
+              "photo": "images/articles/cristal-de-roche-ange-donut-3cm-mtcyav6l1vyd.jpg",
+              "prixBoutique": 22.9,
+              "stock": 8
             }
           ]
         }

@@ -1999,7 +1999,17 @@
               "description": "Découvrez ce pendentif en forme de donut taillé dans une belle pierre de rhodocrosite, aux teintes douces et apaisantes de rose pâle strié de blanc. Symbole d'amour inconditionnel et de compassion, cette pierre est traditionnellement utilisée en lithothérapie pour ouvrir le cœur, renforcer les liens affectifs et apaiser les émotions. Parfaite pour ceux qui cherchent à cultiver la tendresse et à retrouver l'équilibre intérieur dans leur quotidien.",
               "photo": "images/articles/pendentif-rhodocrosite-donut-3cm-mtd65618qwbz.jpg",
               "prixBoutique": 22,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_V9mFnvW2ht4ohT",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif Rhodocrosite Donut 3cm",
+              "stripeDesc": "Découvrez ce pendentif en forme de donut taillé dans une belle pierre de rhodocrosite, aux teintes douces et apaisantes de rose pâle strié de blanc. Symbole d'amour inconditionnel et de compassion, cette pierre est traditionnellement utilisée en lithothérapie pour ouvrir le cœur, renforcer les liens affectifs et apaiser les émotions. Parfaite pour ceux qui cherchent à cultiver la tendresse et à retrouver l'équilibre intérieur dans leur quotidien.",
+              "stripePriceId": "price_1U9SgkLOfCA5mATuhXZjih8g",
+              "stripePrix": 23,
+              "stripeLinkId": "plink_1U9SgkLOfCA5mATuOaRTUv0T",
+              "stripe": "https://buy.stripe.com/00w7sMaga83H7IA7lD2881W",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

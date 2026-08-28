@@ -1715,16 +1715,25 @@
               "photo": "images/articles/calcite-orange-donut-3cm-mtd2macjb87f.jpg",
               "prixBoutique": 12,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqfZiewq0Bf4wo49r2881H",
               "stripeProductId": "prod_V9ke788Bs4KjGa",
+              "stripePriceId": "price_1U9R9MLOfCA5mATuonvJ8wnX",
+              "stripeLinkId": "plink_1U9R9MLOfCA5mATuSbN69gjb",
+              "stripePrix": 12.67,
               "stripeMode": "live",
               "stripeNom": "Calcite orange Donut 3cm",
               "stripeDesc": "Pendentif calcite orange Ce pendentif en calcite orange, taillé en forme de donut, est une pièce naturelle et lumineuse qui apporte douceur et énergie positive. La calcite orange est souvent associée à la joie, à la créativité et à la vitalité, aidant à stimuler l’enthousiasme et à équilibrer les émotions. Parfaite pour porter au quotidien ou utiliser en lithothérapie, elle est idéale pour illuminer votre énergie et favoriser un état d’esprit optimiste. Stimule la vitalité et l’énergie physique. Encourage la positivité, la confiance en soi et la joie de vivre. Portez-la comme bijou pour bénéficier de ses effets harmonisants au quotidien. Elle est aussi utilisée pour dynamiser les espaces de vie ou de travail.",
-              "stripePriceId": "price_1U9R9MLOfCA5mATuonvJ8wnX",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1U9R9MLOfCA5mATuSbN69gjb",
-              "stripe": "https://buy.stripe.com/eVqfZiewq0Bf4wo49r2881H",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-pierre-de-soleil-donut-3cm-mtd2xcyejmrh",
+              "nom": "Pendentif pierre de soleil Donut 3cm",
+              "prix": 16.8,
+              "description": "Ce pendentif en forme de donut de 3 cm, taillé dans une pierre de soleil aux reflets dorés et chauds, capte immédiatement l'attention. Selon la lithothérapie, cette pierre est souvent associée à une énergie revitalisante, aidant à éclaircir les émotions et à renforcer la confiance en soi. Parfaite pour une touche lumineuse au quotidien, elle est idéale pour ceux qui cherchent à illuminer leur journée avec une pierre pleine de vitalité.",
+              "photo": "images/articles/pendentif-pierre-de-soleil-donut-3cm-mtd2xcyee51x.jpg",
+              "prixBoutique": 16,
+              "stock": 1
             }
           ]
         }

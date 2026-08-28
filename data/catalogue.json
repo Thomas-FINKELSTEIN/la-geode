@@ -1772,16 +1772,25 @@
               "photo": "images/articles/pendentif-emeraude-donut-3cm-mtd3ccvahjay.jpg",
               "prixBoutique": 7,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/fZudRa3RMbfT0g8axP2881K",
               "stripeProductId": "prod_V9kyvThR8ckxfj",
+              "stripePriceId": "price_1U9RSyLOfCA5mATuO5V1cG73",
+              "stripeLinkId": "plink_1U9RSyLOfCA5mATuHm9GPGRH",
+              "stripePrix": 7.5,
               "stripeMode": "live",
               "stripeNom": "Pendentif émeraude Donut 3cm",
               "stripeDesc": "Ce pendentif en forme de donut de 3 cm évoque la beauté mystérieuse de l'émeraude, bien que sa teinte turquoise et ses reflets dorés le rapprochent plutôt d'une pierre comme l'aventurine ou une variété de quartz. En lithothérapie, les pierres vertes sont souvent associées à l'équilibre émotionnel, à la sérénité et à une énergie apaisante, favorisant ainsi la connexion à la nature et la douceur dans le quotidien. Parfait pour ceux qui cherchent à intégrer une touche minérale harmonieuse à leur style.",
-              "stripePriceId": "price_1U9RSyLOfCA5mATuO5V1cG73",
-              "stripePrix": 7.5,
-              "stripeLinkId": "plink_1U9RSyLOfCA5mATuHm9GPGRH",
-              "stripe": "https://buy.stripe.com/fZudRa3RMbfT0g8axP2881K",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendentif-7-chakras-mtd3hwhvskdt",
+              "nom": "Pendentif 7 chakras",
+              "prix": 31.17,
+              "description": "harmonie émotionnelle, ancrage, protection, vitalité, clarté mentale, méditation",
+              "photo": "images/articles/pendentif-7-chakras-mtd3hwhvny6u.jpg",
+              "prixBoutique": 29.9,
+              "stock": 3
             }
           ]
         }

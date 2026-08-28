@@ -1600,7 +1600,17 @@
               "description": "Ce pendentif en cristal de roche, d'une pureté éclatante et d'une forme organique, capte immédiatement l'attention. Symbole de clarté et d'énergie pure, cette pierre est traditionnellement utilisée en lithothérapie pour purifier l'aura, renforcer la concentration et favoriser la communication avec son intuition. Parfait pour une touche minérale élégante, il s'intègre aussi bien dans une tenue quotidienne qu'en méditation pour apaiser l'esprit.",
               "photo": "images/articles/cristal-de-roche-donut-3cm-mtd113f1ccfu.jpg",
               "prixBoutique": 9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_V9jwtmI2xmGgxR",
+              "stripeMode": "live",
+              "stripeNom": "Cristal de Roche Donut 3cm",
+              "stripeDesc": "Ce pendentif en cristal de roche, d'une pureté éclatante et d'une forme organique, capte immédiatement l'attention. Symbole de clarté et d'énergie pure, cette pierre est traditionnellement utilisée en lithothérapie pour purifier l'aura, renforcer la concentration et favoriser la communication avec son intuition. Parfait pour une touche minérale élégante, il s'intègre aussi bien dans une tenue quotidienne qu'en méditation pour apaiser l'esprit.",
+              "stripePriceId": "price_1U9QSDLOfCA5mATu2B4u0Mwv",
+              "stripePrix": 9.57,
+              "stripeLinkId": "plink_1U9QSDLOfCA5mATuXe3qbJEI",
+              "stripe": "https://buy.stripe.com/8x200kdsm2Jn4woaxP2881z",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

@@ -1581,7 +1581,17 @@
               "description": "Ce pendentif en aigue marine brute capture la pureté des flots marins avec son teint bleu-vert apaisant. Pierre emblématique de la lithothérapie, elle est réputée pour favoriser la sérénité, apaiser les tensions émotionnelles et renforcer la connexion à la nature. Parfaite pour une énergie douce et équilibrante, elle s’intègre harmonieusement dans une décoration bohème ou comme bijou porte-bonheur au quotidien.",
               "photo": "images/articles/aigue-marine-brute-donut-mtd0i5w5zd9a.jpg",
               "prixBoutique": 12,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_V9jhWagIoOIFAG",
+              "stripeMode": "live",
+              "stripeNom": "Aigue marine brute Donut",
+              "stripeDesc": "Ce pendentif en aigue marine brute capture la pureté des flots marins avec son teint bleu-vert apaisant. Pierre emblématique de la lithothérapie, elle est réputée pour favoriser la sérénité, apaiser les tensions émotionnelles et renforcer la connexion à la nature. Parfaite pour une énergie douce et équilibrante, elle s’intègre harmonieusement dans une décoration bohème ou comme bijou porte-bonheur au quotidien.",
+              "stripePriceId": "price_1U9QDzLOfCA5mATurxOB7Vaj",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1U9QE0LOfCA5mATuuMYaNaaz",
+              "stripe": "https://buy.stripe.com/dRm9AUgEy83H1kccFX2881y",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

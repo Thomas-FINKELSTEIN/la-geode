@@ -2000,16 +2000,25 @@
               "photo": "images/articles/pendentif-rhodocrosite-donut-3cm-mtd65618qwbz.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00w7sMaga83H7IA7lD2881W",
               "stripeProductId": "prod_V9mFnvW2ht4ohT",
+              "stripePriceId": "price_1U9SgkLOfCA5mATuhXZjih8g",
+              "stripeLinkId": "plink_1U9SgkLOfCA5mATuOaRTUv0T",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Pendentif Rhodocrosite Donut 3cm",
               "stripeDesc": "Découvrez ce pendentif en forme de donut taillé dans une belle pierre de rhodocrosite, aux teintes douces et apaisantes de rose pâle strié de blanc. Symbole d'amour inconditionnel et de compassion, cette pierre est traditionnellement utilisée en lithothérapie pour ouvrir le cœur, renforcer les liens affectifs et apaiser les émotions. Parfaite pour ceux qui cherchent à cultiver la tendresse et à retrouver l'équilibre intérieur dans leur quotidien.",
-              "stripePriceId": "price_1U9SgkLOfCA5mATuhXZjih8g",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1U9SgkLOfCA5mATuOaRTUv0T",
-              "stripe": "https://buy.stripe.com/00w7sMaga83H7IA7lD2881W",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "agate-mousse-donut-3cm-mtd69yr7zhte",
+              "nom": "Agate mousse Donut 3cm",
+              "prix": 12.67,
+              "description": "Ce pendentif en forme de donut de 3 cm met en valeur l'agate mousse, une pierre douce et apaisante aux reflets bleutés et verts. Connue en lithothérapie pour ses vertus équilibrantes, elle favorise la sérénité et aide à apaiser les émotions. Parfaite pour ceux qui cherchent à retrouver calme et harmonie au quotidien, elle est idéale à porter près du cœur pour en ressentir pleinement les bienfaits.",
+              "photo": "images/articles/agate-mousse-donut-3cm-mtd69yr76ix9.jpg",
+              "prixBoutique": 12,
+              "stock": 1
             }
           ]
         }

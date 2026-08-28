@@ -1182,7 +1182,17 @@
               "description": "Cette boule de quartz fumé de 2 cm, aussi appelée pierre de fumée, est une pierre aux reflets élégants et mystérieux. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la concentration et équilibrer l’énergie. Parfaite pour une touche décorative ou comme outil de bien-être au quotidien, elle apporte calme et sérénité.",
               "photo": "images/articles/quartz-fume-donut-2cm-mtco4epizp3u.jpg",
               "prixBoutique": 6.5,
-              "stock": 15
+              "stock": 15,
+              "stripeProductId": "prod_V9e6pyetMCi1gS",
+              "stripeMode": "live",
+              "stripeNom": "Quartz fumé Donut 2cm",
+              "stripeDesc": "Cette boule de quartz fumé de 2 cm, aussi appelée pierre de fumée, est une pierre aux reflets élégants et mystérieux. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la concentration et équilibrer l’énergie. Parfaite pour une touche décorative ou comme outil de bien-être au quotidien, elle apporte calme et sérénité.",
+              "stripePriceId": "price_1U9KoXLOfCA5mATu0SmgBdgA",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1U9KoXLOfCA5mATuvsSKVvty",
+              "stripe": "https://buy.stripe.com/4gMfZidsm97LbYQ0Xf2881a",
+              "stripeStock": 15,
+              "epuise": false
             }
           ]
         }

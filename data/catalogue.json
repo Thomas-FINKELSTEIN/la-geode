@@ -1734,16 +1734,25 @@
               "photo": "images/articles/pendentif-pierre-de-soleil-donut-3cm-mtd2xcyee51x.jpg",
               "prixBoutique": 16,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/28E5kEaga0Bf9QIfS92881I",
               "stripeProductId": "prod_V9knFHkrTWo21M",
+              "stripePriceId": "price_1U9RHcLOfCA5mATunyPGon9a",
+              "stripeLinkId": "plink_1U9RHcLOfCA5mATuDXANuM8X",
+              "stripePrix": 16.8,
               "stripeMode": "live",
               "stripeNom": "Pendentif pierre de soleil Donut 3cm",
               "stripeDesc": "Ce pendentif en forme de donut de 3 cm, taillé dans une pierre de soleil aux reflets dorés et chauds, capte immédiatement l'attention. Selon la lithothérapie, cette pierre est souvent associée à une énergie revitalisante, aidant à éclaircir les émotions et à renforcer la confiance en soi. Parfaite pour une touche lumineuse au quotidien, elle est idéale pour ceux qui cherchent à illuminer leur journée avec une pierre pleine de vitalité.",
-              "stripePriceId": "price_1U9RHcLOfCA5mATunyPGon9a",
-              "stripePrix": 16.8,
-              "stripeLinkId": "plink_1U9RHcLOfCA5mATuDXANuM8X",
-              "stripe": "https://buy.stripe.com/28E5kEaga0Bf9QIfS92881I",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-emeraude-donut-3cm-mtd39cxx50bl",
+              "nom": "Pendentif émeraude Donut 3cm",
+              "prix": 31.17,
+              "description": "Ce pendentif en forme de donut de 3 cm évoque la pureté et la vitalité de l'émeraude, une pierre précieuse aux reflets verts profonds. En lithothérapie, elle est souvent associée à l'équilibre émotionnel, à la clarté mentale et à une énergie apaisante, idéale pour harmoniser le cœur et l'esprit. Parfait pour sublimer vos tenues tout en bénéficiant de ses vertus traditionnelles.",
+              "photo": "images/articles/pendentif-emeraude-donut-3cm-mtd39cxxp1vk.jpg",
+              "prixBoutique": 29.9,
+              "stock": 2
             }
           ]
         }

@@ -1886,16 +1886,25 @@
               "photo": "images/articles/pendentif-7-chakras-mtd57be6s2ah.jpg",
               "prixBoutique": 29.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/6oUcN60FAcjX3sk9tL2881Q",
               "stripeProductId": "prod_V9loYFkUK3qb9K",
+              "stripePriceId": "price_1U9SHKLOfCA5mATu1Vp7i6Oj",
+              "stripeLinkId": "plink_1U9SHKLOfCA5mATukXU0ptpW",
+              "stripePrix": 31.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif 7 chakras",
               "stripeDesc": "Il a pour vertu principale d' harmoniser et de réequilibrer les énergies globales du corps et de l'esprit",
-              "stripePriceId": "price_1U9SHKLOfCA5mATu1Vp7i6Oj",
-              "stripePrix": 31.17,
-              "stripeLinkId": "plink_1U9SHKLOfCA5mATukXU0ptpW",
-              "stripe": "https://buy.stripe.com/6oUcN60FAcjX3sk9tL2881Q",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "merkaba-jaspe-rouge-donut-3cm-mtd5986bfw38",
+              "nom": "Merkaba Jaspe rouge Donut 3cm",
+              "prix": 19.9,
+              "description": "Ce pendentif Merkaba en jaspe rouge, façonné en forme de donut, est une pièce unique alliant beauté et énergie positive. Le jaspe rouge, pierre de vitalité et de courage, est traditionnellement utilisé en lithothérapie pour renforcer la détermination, stimuler la passion et équilibrer les émotions. Parfait pour ceux qui cherchent à retrouver leur force intérieure et leur dynamisme au quotidien.",
+              "photo": "images/articles/merkaba-jaspe-rouge-donut-3cm-mtd5986bfdo4.jpg",
+              "prixBoutique": 19,
+              "stock": 6
             }
           ]
         }

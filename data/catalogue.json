@@ -1315,7 +1315,17 @@
               "description": "La Boule de nuit, aussi appelée obsidienne noire, est une pierre aux reflets profondes et mystérieux. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la protection énergétique et aider à lâcher prise. Parfaite pour une utilisation en méditation ou portée en pendentif, elle attire et diffuse une énergie apaisante et stabilisante au quotidien.",
               "photo": "images/articles/boule-de-nuit-donut-2cm-mtcpkdhyw2dl.jpg",
               "prixBoutique": 6.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_V9el5qdvLLy2r7",
+              "stripeMode": "live",
+              "stripeNom": "Boule de nuit Donut 2cm",
+              "stripeDesc": "La Boule de nuit, aussi appelée obsidienne noire, est une pierre aux reflets profondes et mystérieux. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la protection énergétique et aider à lâcher prise. Parfaite pour une utilisation en méditation ou portée en pendentif, elle attire et diffuse une énergie apaisante et stabilisante au quotidien.",
+              "stripePriceId": "price_1U9LRfLOfCA5mATuamfQNUhZ",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1U9LRgLOfCA5mATuQST6XOSd",
+              "stripe": "https://buy.stripe.com/7sY5kEgEydo13sk7lD2881h",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

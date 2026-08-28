@@ -1790,7 +1790,17 @@
               "description": "harmonie émotionnelle, ancrage, protection, vitalité, clarté mentale, méditation",
               "photo": "images/articles/pendentif-7-chakras-mtd3hwhvny6u.jpg",
               "prixBoutique": 29.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_V9l33FON51vuT3",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif 7 chakras",
+              "stripeDesc": "harmonie émotionnelle, ancrage, protection, vitalité, clarté mentale, méditation",
+              "stripePriceId": "price_1U9RX6LOfCA5mATuCXkvop3k",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1U9RX6LOfCA5mATuN4Hm6HMX",
+              "stripe": "https://buy.stripe.com/fZu8wQ4VQcjX5As8pH2881L",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

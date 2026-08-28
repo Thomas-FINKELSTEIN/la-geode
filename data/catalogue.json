@@ -1505,7 +1505,17 @@
               "description": "Ce pendentif en cornaline sculpté en forme d’ange délicate est un symbole de douceur et de protection. Associée traditionnellement à l’énergie vitale et à la joie de vivre, cette pierre douce est idéale pour apaiser les émotions et renforcer la confiance en soi au quotidien. Parfaite pour une touche de bien-être et d’élégance naturelle, elle s’accorde aussi bien avec les styles bohèmes que minimalistes.",
               "photo": "images/articles/cornaline-ange-3-cm-mtcroq6eg7lq.jpg",
               "prixBoutique": 22.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_V9fiWrmNEH7tbF",
+              "stripeMode": "live",
+              "stripeNom": "Cornaline ange 3 cm",
+              "stripeDesc": "Ce pendentif en cornaline sculpté en forme d’ange délicate est un symbole de douceur et de protection. Associée traditionnellement à l’énergie vitale et à la joie de vivre, cette pierre douce est idéale pour apaiser les émotions et renforcer la confiance en soi au quotidien. Parfaite pour une touche de bien-être et d’élégance naturelle, elle s’accorde aussi bien avec les styles bohèmes que minimalistes.",
+              "stripePriceId": "price_1U9MN8LOfCA5mATufInIQKkR",
+              "stripePrix": 23.93,
+              "stripeLinkId": "plink_1U9MN9LOfCA5mATum8CxUkFR",
+              "stripe": "https://buy.stripe.com/bJe28scoi3Nr9QIaxP2881s",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

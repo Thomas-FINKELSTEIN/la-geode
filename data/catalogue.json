@@ -1297,16 +1297,25 @@
               "photo": "images/articles/boule-howlite-donut-2cm-mtcp1ln9jine.jpg",
               "prixBoutique": 6.5,
               "stock": 11,
+              "stripe": "https://buy.stripe.com/00w5kEgEy5Vzfb221j2881g",
               "stripeProductId": "prod_V9eWsHySyOv0Uj",
+              "stripePriceId": "price_1U9LDZLOfCA5mATusawkM92B",
+              "stripeLinkId": "plink_1U9LDZLOfCA5mATuEHjfr6ad",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Boule howlite Donut 2cm",
               "stripeDesc": "Découvrez cette boule de howlite de 2 cm, une pierre douce et apaisante aux veines délicates qui en font un objet à la fois élégant et mystérieux. En lithothérapie, la howlite est souvent associée à la sérénité et à la connexion avec les énergies subtiles, aidant à apaiser les émotions et à favoriser la méditation. Parfaite pour une utilisation quotidienne, elle se glisse facilement dans un sac ou sur une table pour diffuser une énergie calme et équilibrante.",
-              "stripePriceId": "price_1U9LDZLOfCA5mATusawkM92B",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1U9LDZLOfCA5mATuEHjfr6ad",
-              "stripe": "https://buy.stripe.com/00w5kEgEy5Vzfb221j2881g",
               "stripeStock": 11,
               "epuise": false
+            },
+            {
+              "id": "boule-de-nuit-donut-2cm-mtcpkdhytpr1",
+              "nom": "Boule de nuit Donut 2cm",
+              "prix": 6.98,
+              "description": "La Boule de nuit, aussi appelée obsidienne noire, est une pierre aux reflets profondes et mystérieux. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la protection énergétique et aider à lâcher prise. Parfaite pour une utilisation en méditation ou portée en pendentif, elle attire et diffuse une énergie apaisante et stabilisante au quotidien.",
+              "photo": "images/articles/boule-de-nuit-donut-2cm-mtcpkdhyw2dl.jpg",
+              "prixBoutique": 6.5,
+              "stock": 1
             }
           ]
         }

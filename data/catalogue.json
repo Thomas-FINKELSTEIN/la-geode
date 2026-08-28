@@ -1372,7 +1372,17 @@
               "description": "Ce pendentif en jaspe paysage de 3 cm capture la beauté naturelle des paysages minéraux avec ses veinages dorés et ses nuances chaudes. Associé en lithothérapie à un apaisement des émotions et à une énergie harmonieuse, il est idéal pour ceux qui cherchent à équilibrer leur quotidien. actif sur le système digestif , parfait à porter au quotidien, il apporte une touche organique et réconfortante à vos tenues.",
               "photo": "images/articles/jaspe-paysage-donut-3-cm-mtcqxkpphoek.jpg",
               "prixBoutique": 9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_V9fNZrV0H2MoMt",
+              "stripeMode": "live",
+              "stripeNom": "Jaspe paysage Donut 3 cm",
+              "stripeDesc": "Ce pendentif en jaspe paysage de 3 cm capture la beauté naturelle des paysages minéraux avec ses veinages dorés et ses nuances chaudes. Associé en lithothérapie à un apaisement des émotions et à une énergie harmonieuse, il est idéal pour ceux qui cherchent à équilibrer leur quotidien. actif sur le système digestif , parfait à porter au quotidien, il apporte une touche organique et réconfortante à vos tenues.",
+              "stripePriceId": "price_1U9M2eLOfCA5mATu1zHuQaDR",
+              "stripePrix": 9.57,
+              "stripeLinkId": "plink_1U9M2fLOfCA5mATuTecXSxGb",
+              "stripe": "https://buy.stripe.com/9B69AU4VQdo14wo7lD2881k",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

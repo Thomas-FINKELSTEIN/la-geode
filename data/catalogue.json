@@ -1943,16 +1943,25 @@
               "photo": "images/articles/pendentif-jade-donut-3cm-mtd5nb0tz0sx.jpg",
               "prixBoutique": 24,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/bJe4gA5ZUdo1fb2cFX2881T",
               "stripeProductId": "prod_V9m14NQp1J72bH",
+              "stripePriceId": "price_1U9STLLOfCA5mATuotOclYkj",
+              "stripeLinkId": "plink_1U9STLLOfCA5mATuxaGUx0Ys",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif jade Donut 3cm",
               "stripeDesc": "Ces pendentifs en forme de donut captivent par leur élégance naturelle. Le premier, en pierre translucide aux reflets doux, est idéal pour apaiser l’esprit et clarifier les pensées. Le second, d’un vert apaisant, favorise l’équilibre émotionnel et une énergie harmonieuse au quotidien, parfait pour une touche minérale raffinée.",
-              "stripePriceId": "price_1U9STLLOfCA5mATuotOclYkj",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1U9STLLOfCA5mATuxaGUx0Ys",
-              "stripe": "https://buy.stripe.com/bJe4gA5ZUdo1fb2cFX2881T",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "seraphrenite-donut-mtd5wa19ny4r",
+              "nom": "Seraphrenite Donut",
+              "prix": 23,
+              "description": "Ce pendentif en seraphrenite, aux reflets verts et motifs organiques, est une pierre rare aux énergies apaisantes et équilibrantes. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité, renforcer la confiance en soi et faciliter la communication. Parfaite pour une touche naturelle et spirituelle au quotidien, elle s’accorde aussi bien avec les tenues élégantes que les styles bohèmes.",
+              "photo": "images/articles/seraphrenite-donut-mtd5wa19fkx7.jpg",
+              "prixBoutique": 22,
+              "stock": 2
             }
           ]
         }

@@ -1410,7 +1410,17 @@
               "description": "Ce pendentif en unakite de 3 cm allie la douceur des tons verts et roses pour un équilibre harmonieux. Pierre de paix et de réconfort, elle est souvent utilisée en lithothérapie pour apaiser les émotions, favoriser la sérénité et renforcer la connexion à la nature. Parfaite pour une énergie apaisante au quotidien, elle s’accorde aussi bien avec les styles bohèmes que minimalistes. Apaise les chagrins et les peines, pierre d'instropection .",
               "photo": "images/articles/unakite-donut-3cm-mtcr4m4lag34.jpg",
               "prixBoutique": 9,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_V9fSnsCHHdcRop",
+              "stripeMode": "live",
+              "stripeNom": "Unakite Donut 3cm",
+              "stripeDesc": "Ce pendentif en unakite de 3 cm allie la douceur des tons verts et roses pour un équilibre harmonieux. Pierre de paix et de réconfort, elle est souvent utilisée en lithothérapie pour apaiser les émotions, favoriser la sérénité et renforcer la connexion à la nature. Parfaite pour une énergie apaisante au quotidien, elle s’accorde aussi bien avec les styles bohèmes que minimalistes. Apaise les chagrins et les peines, pierre d'instropection .",
+              "stripePriceId": "price_1U9M7yLOfCA5mATuzCvtyZtv",
+              "stripePrix": 9.57,
+              "stripeLinkId": "plink_1U9M7yLOfCA5mATua7LYdn21",
+              "stripe": "https://buy.stripe.com/fZu8wQ882es51kc21j2881m",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

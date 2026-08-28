@@ -1695,7 +1695,17 @@
               "description": "Ce pendentif en dolomite, taillé en forme de donut, allie douceur et élégance avec ses teintes douces et ses reflets subtils. La dolomite est souvent associée en lithothérapie à l'apaisement des tensions émotionnelles et à la reconnexion avec la sérénité intérieure, tout en favorisant un équilibre énergétique harmonieux. Parfaite pour un usage quotidien, elle est idéale pour ceux qui cherchent à cultiver la paix et la stabilité.",
               "photo": "images/articles/dolomite-donut-2-cm-mtd2g145awjm.jpg",
               "prixBoutique": 12,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_V9kZFZZIySkasB",
+              "stripeMode": "live",
+              "stripeNom": "Dolomite Donut 2 cm",
+              "stripeDesc": "Ce pendentif en dolomite, taillé en forme de donut, allie douceur et élégance avec ses teintes douces et ses reflets subtils. La dolomite est souvent associée en lithothérapie à l'apaisement des tensions émotionnelles et à la reconnexion avec la sérénité intérieure, tout en favorisant un équilibre énergétique harmonieux. Parfaite pour un usage quotidien, elle est idéale pour ceux qui cherchent à cultiver la paix et la stabilité.",
+              "stripePriceId": "price_1U9R4aLOfCA5mATuaCiuWn4Z",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1U9R4aLOfCA5mATuLtygf3rS",
+              "stripe": "https://buy.stripe.com/cNifZifAu97L3skeO52881G",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

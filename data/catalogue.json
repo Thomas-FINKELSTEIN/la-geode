@@ -1791,16 +1791,25 @@
               "photo": "images/articles/pendentif-7-chakras-mtd3hwhvny6u.jpg",
               "prixBoutique": 29.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/fZu8wQ4VQcjX5As8pH2881L",
               "stripeProductId": "prod_V9l33FON51vuT3",
+              "stripePriceId": "price_1U9RX6LOfCA5mATuCXkvop3k",
+              "stripeLinkId": "plink_1U9RX6LOfCA5mATuN4Hm6HMX",
+              "stripePrix": 31.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif 7 chakras",
               "stripeDesc": "harmonie émotionnelle, ancrage, protection, vitalité, clarté mentale, méditation",
-              "stripePriceId": "price_1U9RX6LOfCA5mATuCXkvop3k",
-              "stripePrix": 31.17,
-              "stripeLinkId": "plink_1U9RX6LOfCA5mATuN4Hm6HMX",
-              "stripe": "https://buy.stripe.com/fZu8wQ4VQcjX5As8pH2881L",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "rhodocrosite-donut-mtd3u5szim9b",
+              "nom": "Rhodocrosite Donut",
+              "prix": 19.9,
+              "description": "Pierre douce et apaisante, c'est un véritable trésor pour le cœur et les émotions. Connue pour ses vertus équilibrantes, elle favorise l’ouverture du chakra du cœur et aide à surmonter les blessures émotionnelles tout en renforçant la compassion et l’amour inconditionnel. Parfaite pour une énergie bienveillante au quotidien, elle se porte aussi bien en bijou qu’en objet de méditation.",
+              "photo": "images/articles/rhodocrosite-donut-mtd3u5szvii4.jpg",
+              "prixBoutique": 19,
+              "stock": 1
             }
           ]
         }

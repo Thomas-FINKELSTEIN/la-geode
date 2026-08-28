@@ -1867,16 +1867,25 @@
               "photo": "images/articles/agate-brune-donut-3cm-mtd4jszc1svq.jpg",
               "prixBoutique": 12,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUbJ22NI4Rv0g835n2881P",
               "stripeProductId": "prod_V9lWtfJkuRX0pX",
+              "stripePriceId": "price_1U9RzcLOfCA5mATuufyV51yo",
+              "stripeLinkId": "plink_1U9RzcLOfCA5mATuFjiBjAaq",
+              "stripePrix": 12.67,
               "stripeMode": "live",
               "stripeNom": "Agate brune Donut 3cm",
               "stripeDesc": "Ce pendentif en agate brune, aussi appelée agate de chêne, est une pierre douce et chaleureuse qui évoque la stabilité et la protection. Traditionnellement utilisée en lithothérapie pour apaiser les émotions et renforcer la confiance en soi, elle est idéale pour ceux qui cherchent un équilibre intérieur et une énergie apaisante au quotidien. Son aspect organique et sa couleur riche en font un allié précieux pour harmoniser le corps et l’esprit.",
-              "stripePriceId": "price_1U9RzcLOfCA5mATuufyV51yo",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1U9RzcLOfCA5mATuFjiBjAaq",
-              "stripe": "https://buy.stripe.com/6oUbJ22NI4Rv0g835n2881P",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-7-chakras-mtd57be60hoh",
+              "nom": "Pendentif 7 chakras",
+              "prix": 31.17,
+              "description": "Il a pour vertu principale d' harmoniser et de réequilibrer les énergies globales du corps et de l'esprit",
+              "photo": "images/articles/pendentif-7-chakras-mtd57be6s2ah.jpg",
+              "prixBoutique": 29.9,
+              "stock": 2
             }
           ]
         }

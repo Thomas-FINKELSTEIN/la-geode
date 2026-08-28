@@ -1563,16 +1563,25 @@
               "photo": "images/articles/lepidolite-donut-3cm-mtd00w7i04oq.jpg",
               "prixBoutique": 25.9,
               "stock": 10,
+              "stripe": "https://buy.stripe.com/9B6bJ2fAu3Nr8MEcFX2881x",
               "stripeProductId": "prod_V9jTz6FBg9KDdh",
+              "stripePriceId": "price_1U9Q10LOfCA5mATusVrvMy5Z",
+              "stripeLinkId": "plink_1U9Q10LOfCA5mATuqIuGzTbc",
+              "stripePrix": 27.03,
               "stripeMode": "live",
               "stripeNom": "Lépidolite Donut 3cm",
               "stripeDesc": "Ce pendentif en lépidolite, teinté de doux reflets violets et gris, est une pierre apaisante aux vertus lithothérapeutiques reconnues. Associée à la sérénité émotionnelle et à la libération des tensions, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une paix intérieure. Parfaite pour être portée au quotidien, elle accompagne aussi bien les moments de stress que les pratiques de méditation. Douleurs inflammatoires, acidité de l'estomac diminuer",
-              "stripePriceId": "price_1U9Q10LOfCA5mATusVrvMy5Z",
-              "stripePrix": 27.03,
-              "stripeLinkId": "plink_1U9Q10LOfCA5mATuqIuGzTbc",
-              "stripe": "https://buy.stripe.com/9B6bJ2fAu3Nr8MEcFX2881x",
               "stripeStock": 10,
               "epuise": false
+            },
+            {
+              "id": "aigue-marine-brute-donut-mtd0i5w5p3lp",
+              "nom": "Aigue marine brute Donut",
+              "prix": 12.67,
+              "description": "Ce pendentif en aigue marine brute capture la pureté des flots marins avec son teint bleu-vert apaisant. Pierre emblématique de la lithothérapie, elle est réputée pour favoriser la sérénité, apaiser les tensions émotionnelles et renforcer la connexion à la nature. Parfaite pour une énergie douce et équilibrante, elle s’intègre harmonieusement dans une décoration bohème ou comme bijou porte-bonheur au quotidien.",
+              "photo": "images/articles/aigue-marine-brute-donut-mtd0i5w5zd9a.jpg",
+              "prixBoutique": 12,
+              "stock": 3
             }
           ]
         }

@@ -1639,16 +1639,25 @@
               "photo": "images/articles/apatite-bleue-donut-3cm-mtd1sf9gl6hk.jpg",
               "prixBoutique": 19,
               "stock": 8,
+              "stripe": "https://buy.stripe.com/dRm00k3RM1Fj2og0Xf2881D",
               "stripeProductId": "prod_V9kHUdvvF5l7jn",
+              "stripePriceId": "price_1U9QmqLOfCA5mATuXeFlMV9j",
+              "stripeLinkId": "plink_1U9QmrLOfCA5mATuXC2T5aso",
+              "stripePrix": 19.9,
               "stripeMode": "live",
               "stripeNom": "Apatite bleue Donut 3cm",
               "stripeDesc": "Ce pendentif en forme de donut met en valeur une belle apatite bleue, pierre aux teintes douces et apaisantes. En lithothérapie, l'apatite bleue est souvent associée à la communication, à la sérénité et à l'ouverture du cœur, aidant à exprimer ses émotions avec clarté et douceur. Parfaite pour ceux qui cherchent à harmoniser leur énergie et à renforcer leur confiance en soi, cette pierre naturelle s’intègre aussi bien dans une tenue quotidienne qu’en méditation pour favoriser la connexion à soi-même.",
-              "stripePriceId": "price_1U9QmqLOfCA5mATuXeFlMV9j",
-              "stripePrix": 19.9,
-              "stripeLinkId": "plink_1U9QmrLOfCA5mATuXC2T5aso",
-              "stripe": "https://buy.stripe.com/dRm00k3RM1Fj2og0Xf2881D",
               "stripeStock": 8,
               "epuise": false
+            },
+            {
+              "id": "pendentif-emeraude-brute-mtd1wi7n70rw",
+              "nom": "Émeraude brute Donut",
+              "prix": 23,
+              "description": "Ce pendentif en émeraude brute, aux reflets verts intenses et à la texture naturelle, incarne la pureté et la vitalité. En lithothérapie, cette pierre est souvent associée à l’harmonie émotionnelle, à la croissance spirituelle et à la reconnexion avec la nature. Parfaite pour porter au quotidien, elle est idéale pour ceux qui cherchent à équilibrer leur énergie et à renforcer leur confiance en soi.",
+              "photo": "images/articles/emeraude-brute-donut-mtd1xayk5fc5.jpg",
+              "prixBoutique": 22,
+              "stock": 8
             }
           ]
         }

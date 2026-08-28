@@ -1486,7 +1486,17 @@
               "description": "Ce pendentif en onyx façonné en forme de grenouille est une pièce unique et délicate, parfaite pour les plus jeunes. L’onyx, pierre de protection et de stabilité, est traditionnellement utilisé pour apaiser les émotions, renforcer la confiance en soi et favoriser un équilibre énergétique harmonieux. Idéal pour accompagner les enfants dans leur quotidien, il peut aussi être offert comme un cadeau symbolique porteur de positivité.",
               "photo": "images/articles/onyx-grenouille-donut-3cm-mtcrifbhe44b.jpg",
               "prixBoutique": 9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_V9fdFMJv7JHA2v",
+              "stripeMode": "live",
+              "stripeNom": "Onyx grenouille Donut 3cm",
+              "stripeDesc": "Ce pendentif en onyx façonné en forme de grenouille est une pièce unique et délicate, parfaite pour les plus jeunes. L’onyx, pierre de protection et de stabilité, est traditionnellement utilisé pour apaiser les émotions, renforcer la confiance en soi et favoriser un équilibre énergétique harmonieux. Idéal pour accompagner les enfants dans leur quotidien, il peut aussi être offert comme un cadeau symbolique porteur de positivité.",
+              "stripePriceId": "price_1U9MINLOfCA5mATu7CXGjwdo",
+              "stripePrix": 9.57,
+              "stripeLinkId": "plink_1U9MINLOfCA5mATuFIFA3aBe",
+              "stripe": "https://buy.stripe.com/9B6fZi2NI2Jn4wo7lD2881q",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

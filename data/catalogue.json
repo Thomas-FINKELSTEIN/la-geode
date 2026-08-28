@@ -1221,16 +1221,25 @@
               "photo": "images/articles/agate-bostwana-donut-2cm-mtcogav3bqhv.jpg",
               "prixBoutique": 6.5,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/3cI5kE9c6abP9QIeO52881c",
               "stripeProductId": "prod_V9eGz2HUaeES1r",
+              "stripePriceId": "price_1U9KxULOfCA5mATuSUllE6j1",
+              "stripeLinkId": "plink_1U9KxULOfCA5mATuvJWqVf2x",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Agate bostwana Donut 2cm",
               "stripeDesc": "Cette boule d'agate bostwana de 2 cm, aux reflets doux et apaisants, allie une belle harmonie de tons crème et bruns. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité et équilibre, tout en apportant une douce énergie de stabilité au quotidien. Pierre de chance et d'ancrage Parfaite pour méditer ou simplement porter en pendentif, elle incarne une touche de douceur naturelle pour le bien-être.",
-              "stripePriceId": "price_1U9KxULOfCA5mATuSUllE6j1",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1U9KxULOfCA5mATuvJWqVf2x",
-              "stripe": "https://buy.stripe.com/3cI5kE9c6abP9QIeO52881c",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "obsidienne-neige-donut-2cm-mtcoo3qn7je8",
+              "nom": "Obsidienne neige Donut 2cm",
+              "prix": 6.98,
+              "description": "Cette boule d'obsidienne neige, d'une beauté mystérieuse, est un véritable talisman de protection et de purification. Selon la lithothérapie, elle aide à apaiser les émotions tourmentées, à clarifier l'esprit et à renforcer la connexion avec son intuition. Parfaite pour une méditation apaisante ou portée en pendentif, elle diffuse une énergie calme et équilibrante au quotidien.",
+              "photo": "images/articles/obsidienne-neige-donut-2cm-mtcoo3qnke77.jpg",
+              "prixBoutique": 6.5,
+              "stock": 12
             }
           ]
         }

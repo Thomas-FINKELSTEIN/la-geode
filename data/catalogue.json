@@ -1468,16 +1468,25 @@
               "photo": "images/articles/pendentif-grenouille-opale-jaune-donut-3-mtcrgp1iawe8.jpg",
               "prixBoutique": 9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/8x2bJ23RM5Vz6EwbBT2881p",
               "stripeProductId": "prod_V9fcQDngcHPzOQ",
+              "stripePriceId": "price_1U9MH5LOfCA5mATubEnGf4Go",
+              "stripeLinkId": "plink_1U9MH5LOfCA5mATuPdIQH6Nc",
+              "stripePrix": 9.57,
               "stripeMode": "live",
               "stripeNom": "Pendentif grenouille opale jaune Donut 3cm",
               "stripeDesc": "Ce pendentif en forme de grenouille, taillé dans une douce opale jaune, est un charme délicat et lumineux pour les petits comme pour les grands. Selon la lithothérapie, l’opale jaune est souvent associée à la joie, à la créativité et à une énergie apaisante, aidant à équilibrer les émotions et à apporter une touche de douceur dans le quotidien. Parfait pour les enfants ou pour ceux qui cherchent à cultiver une ambiance positive et harmonieuse.",
-              "stripePriceId": "price_1U9MH5LOfCA5mATubEnGf4Go",
-              "stripePrix": 9.57,
-              "stripeLinkId": "plink_1U9MH5LOfCA5mATuPdIQH6Nc",
-              "stripe": "https://buy.stripe.com/8x2bJ23RM5Vz6EwbBT2881p",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "onyx-grenouille-donut-3cm-mtcrifbhwubf",
+              "nom": "Onyx grenouille Donut 3cm",
+              "prix": 9.57,
+              "description": "Ce pendentif en onyx façonné en forme de grenouille est une pièce unique et délicate, parfaite pour les plus jeunes. L’onyx, pierre de protection et de stabilité, est traditionnellement utilisé pour apaiser les émotions, renforcer la confiance en soi et favoriser un équilibre énergétique harmonieux. Idéal pour accompagner les enfants dans leur quotidien, il peut aussi être offert comme un cadeau symbolique porteur de positivité.",
+              "photo": "images/articles/onyx-grenouille-donut-3cm-mtcrifbhe44b.jpg",
+              "prixBoutique": 9,
+              "stock": 1
             }
           ]
         }

@@ -1335,16 +1335,25 @@
               "photo": "images/articles/quartz-fume-donut-2-5-cm-mtcq61wexhwk.jpg",
               "prixBoutique": 9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00wbJ20FA2Jn1kcdK12881i",
               "stripeProductId": "prod_V9f2GkEkXudWfG",
+              "stripePriceId": "price_1U9Li1LOfCA5mATuc4GwJYRj",
+              "stripeLinkId": "plink_1U9Li1LOfCA5mATuKBYayKV7",
+              "stripePrix": 9.57,
               "stripeMode": "live",
               "stripeNom": "Quartz fumé Donut 2,5 cm",
               "stripeDesc": "Ce pendentif en quartz fumé 2,5 cm est une pièce élégante et mystérieuse, aux reflets profonds et apaisants. Appelé aussi quartz brun, il est réputé pour ses propriétés harmonisantes, aidant à stabiliser les émotions et à ancrer l’énergie positive. Parfait pour une touche raffinée au quotidien, il apporte calme et équilibre dans votre vie. Détente des muscles, mal de dos",
-              "stripePriceId": "price_1U9Li1LOfCA5mATuc4GwJYRj",
-              "stripePrix": 9.57,
-              "stripeLinkId": "plink_1U9Li1LOfCA5mATuKBYayKV7",
-              "stripe": "https://buy.stripe.com/00wbJ20FA2Jn1kcdK12881i",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pierre-de-lave-donut-3cm-mtcqse1pdl68",
+              "nom": "Pierre de lave Donut 3cm",
+              "prix": 9.57,
+              "description": "Ce pendentif en pierre de lave, aux reflets sombres et aux textures uniques, est une pièce naturelle et mystique. Selon la lithothérapie, cette pierre est souvent associée à la protection, à la stabilité émotionnelle et à la connexion avec la terre, aidant à ancrer les énergies et à apaiser l’esprit. Parfait pour une touche brute et organique, il s’intègre aussi bien dans une tenue quotidienne que dans une pratique de bien-être.",
+              "photo": "images/articles/pierre-de-lave-donut-3cm-mtcqse1psv8m.jpg",
+              "prixBoutique": 9,
+              "stock": 3
             }
           ]
         }

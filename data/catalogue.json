@@ -1183,16 +1183,25 @@
               "photo": "images/articles/quartz-fume-donut-2cm-mtco4epizp3u.jpg",
               "prixBoutique": 6.5,
               "stock": 15,
+              "stripe": "https://buy.stripe.com/4gMfZidsm97LbYQ0Xf2881a",
               "stripeProductId": "prod_V9e6pyetMCi1gS",
+              "stripePriceId": "price_1U9KoXLOfCA5mATu0SmgBdgA",
+              "stripeLinkId": "plink_1U9KoXLOfCA5mATuvsSKVvty",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Quartz fumé Donut 2cm",
               "stripeDesc": "Cette boule de quartz fumé de 2 cm, aussi appelée pierre de fumée, est une pierre aux reflets élégants et mystérieux. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la concentration et équilibrer l’énergie. Parfaite pour une touche décorative ou comme outil de bien-être au quotidien, elle apporte calme et sérénité.",
-              "stripePriceId": "price_1U9KoXLOfCA5mATu0SmgBdgA",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1U9KoXLOfCA5mATuvsSKVvty",
-              "stripe": "https://buy.stripe.com/4gMfZidsm97LbYQ0Xf2881a",
               "stripeStock": 15,
               "epuise": false
+            },
+            {
+              "id": "cristal-de-roche-donut-2cm-mtco8r0m5jrs",
+              "nom": "Cristal de roche Donut 2cm",
+              "prix": 6.98,
+              "description": "Cette boule de cristal de roche, pure et transparente, est une pièce naturelle aux reflets lumineux et apaisants. Selon la lithothérapie, elle est souvent utilisée pour purifier l’énergie, renforcer la clarté mentale et favoriser la sérénité au quotidien. Parfaite pour une méditation ou une décoration élégante, elle diffuse une énergie harmonieuse et équilibrante.",
+              "photo": "images/articles/cristal-de-roche-donut-2cm-mtco8r0m3czc.jpg",
+              "prixBoutique": 6.5,
+              "stock": 10
             }
           ]
         }

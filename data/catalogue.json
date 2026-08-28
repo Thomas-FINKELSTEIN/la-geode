@@ -1411,16 +1411,25 @@
               "photo": "images/articles/unakite-donut-3cm-mtcr4m4lag34.jpg",
               "prixBoutique": 9,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/fZu8wQ882es51kc21j2881m",
               "stripeProductId": "prod_V9fSnsCHHdcRop",
+              "stripePriceId": "price_1U9M7yLOfCA5mATuzCvtyZtv",
+              "stripeLinkId": "plink_1U9M7yLOfCA5mATua7LYdn21",
+              "stripePrix": 9.57,
               "stripeMode": "live",
               "stripeNom": "Unakite Donut 3cm",
               "stripeDesc": "Ce pendentif en unakite de 3 cm allie la douceur des tons verts et roses pour un équilibre harmonieux. Pierre de paix et de réconfort, elle est souvent utilisée en lithothérapie pour apaiser les émotions, favoriser la sérénité et renforcer la connexion à la nature. Parfaite pour une énergie apaisante au quotidien, elle s’accorde aussi bien avec les styles bohèmes que minimalistes. Apaise les chagrins et les peines, pierre d'instropection .",
-              "stripePriceId": "price_1U9M7yLOfCA5mATuzCvtyZtv",
-              "stripePrix": 9.57,
-              "stripeLinkId": "plink_1U9M7yLOfCA5mATua7LYdn21",
-              "stripe": "https://buy.stripe.com/fZu8wQ882es51kc21j2881m",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "jaspe-dalmatien-donut-3cm-mtcr7yppvra2",
+              "nom": "Jaspe dalmatien Donut 3cm",
+              "prix": 9.57,
+              "description": "Ce pendentif en jaspe dalmatien 3cm met en valeur une pierre aux motifs élégants et contrastés, rappelant les taches d’un dalmatien. En lithothérapie, le jaspe dalmatien est souvent associé à la protection, à l’équilibre émotionnel et à la stimulation de la créativité. Elle détruit les blocages et chasse les pensées négatives. Parfait pour apporter une touche naturelle et apaisante à vos tenues au quotidien.",
+              "photo": "images/articles/jaspe-dalmatien-donut-3cm-mtcr7yppfgx9.jpg",
+              "prixBoutique": 9,
+              "stock": 3
             }
           ]
         }

@@ -1638,7 +1638,17 @@
               "description": "Ce pendentif en forme de donut met en valeur une belle apatite bleue, pierre aux teintes douces et apaisantes. En lithothérapie, l'apatite bleue est souvent associée à la communication, à la sérénité et à l'ouverture du cœur, aidant à exprimer ses émotions avec clarté et douceur. Parfaite pour ceux qui cherchent à harmoniser leur énergie et à renforcer leur confiance en soi, cette pierre naturelle s’intègre aussi bien dans une tenue quotidienne qu’en méditation pour favoriser la connexion à soi-même.",
               "photo": "images/articles/apatite-bleue-donut-3cm-mtd1sf9gl6hk.jpg",
               "prixBoutique": 19,
-              "stock": 8
+              "stock": 8,
+              "stripeProductId": "prod_V9kHUdvvF5l7jn",
+              "stripeMode": "live",
+              "stripeNom": "Apatite bleue Donut 3cm",
+              "stripeDesc": "Ce pendentif en forme de donut met en valeur une belle apatite bleue, pierre aux teintes douces et apaisantes. En lithothérapie, l'apatite bleue est souvent associée à la communication, à la sérénité et à l'ouverture du cœur, aidant à exprimer ses émotions avec clarté et douceur. Parfaite pour ceux qui cherchent à harmoniser leur énergie et à renforcer leur confiance en soi, cette pierre naturelle s’intègre aussi bien dans une tenue quotidienne qu’en méditation pour favoriser la connexion à soi-même.",
+              "stripePriceId": "price_1U9QmqLOfCA5mATuXeFlMV9j",
+              "stripePrix": 19.9,
+              "stripeLinkId": "plink_1U9QmrLOfCA5mATuXC2T5aso",
+              "stripe": "https://buy.stripe.com/dRm00k3RM1Fj2og0Xf2881D",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         }

@@ -1354,16 +1354,25 @@
               "photo": "images/articles/pierre-de-lave-donut-3cm-mtcqse1psv8m.jpg",
               "prixBoutique": 9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/fZuaEY73YcjX9QIaxP2881j",
               "stripeProductId": "prod_V9fJ41MH4mYEFw",
+              "stripePriceId": "price_1U9LynLOfCA5mATuMZf8Gwu1",
+              "stripeLinkId": "plink_1U9LynLOfCA5mATufYUYGYrN",
+              "stripePrix": 9.57,
               "stripeMode": "live",
               "stripeNom": "Pierre de lave Donut 3cm",
               "stripeDesc": "Ce pendentif en pierre de lave, aux reflets sombres et aux textures uniques, est une pièce naturelle et mystique. Selon la lithothérapie, cette pierre est souvent associée à la protection, à la stabilité émotionnelle et à la connexion avec la terre, aidant à ancrer les énergies et à apaiser l’esprit. Parfait pour une touche brute et organique, il s’intègre aussi bien dans une tenue quotidienne que dans une pratique de bien-être.",
-              "stripePriceId": "price_1U9LynLOfCA5mATuMZf8Gwu1",
-              "stripePrix": 9.57,
-              "stripeLinkId": "plink_1U9LynLOfCA5mATufYUYGYrN",
-              "stripe": "https://buy.stripe.com/fZuaEY73YcjX9QIaxP2881j",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "jaspe-paysage-donut-3-cm-mtcqxkppks31",
+              "nom": "Jaspe paysage Donut 3 cm",
+              "prix": 9.57,
+              "description": "Ce pendentif en jaspe paysage de 3 cm capture la beauté naturelle des paysages minéraux avec ses veinages dorés et ses nuances chaudes. Associé en lithothérapie à un apaisement des émotions et à une énergie harmonieuse, il est idéal pour ceux qui cherchent à équilibrer leur quotidien. actif sur le système digestif , parfait à porter au quotidien, il apporte une touche organique et réconfortante à vos tenues.",
+              "photo": "images/articles/jaspe-paysage-donut-3-cm-mtcqxkpphoek.jpg",
+              "prixBoutique": 9,
+              "stock": 4
             }
           ]
         }

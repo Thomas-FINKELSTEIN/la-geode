@@ -1905,16 +1905,25 @@
               "photo": "images/articles/merkaba-jaspe-rouge-donut-3cm-mtd5986bfdo4.jpg",
               "prixBoutique": 19,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/eVqeVeagado17IAaxP2881R",
               "stripeProductId": "prod_V9lqtg6tYD1FDn",
+              "stripePriceId": "price_1U9SInLOfCA5mATu0GnwtpAN",
+              "stripeLinkId": "plink_1U9SInLOfCA5mATubq7oeOVO",
+              "stripePrix": 19.9,
               "stripeMode": "live",
               "stripeNom": "Merkaba Jaspe rouge Donut 3cm",
               "stripeDesc": "Ce pendentif Merkaba en jaspe rouge, façonné en forme de donut, est une pièce unique alliant beauté et énergie positive. Le jaspe rouge, pierre de vitalité et de courage, est traditionnellement utilisé en lithothérapie pour renforcer la détermination, stimuler la passion et équilibrer les émotions. Parfait pour ceux qui cherchent à retrouver leur force intérieure et leur dynamisme au quotidien.",
-              "stripePriceId": "price_1U9SInLOfCA5mATu0GnwtpAN",
-              "stripePrix": 19.9,
-              "stripeLinkId": "plink_1U9SInLOfCA5mATubq7oeOVO",
-              "stripe": "https://buy.stripe.com/eVqeVeagado17IAaxP2881R",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "merkaba-cristal-de-roche-donut-3cm-mtd5i1rg27t5",
+              "nom": "Merkaba Cristal de Roche Donut 3cm",
+              "prix": 19.9,
+              "description": "Découvrez ce pendentif Merkaba en cristal de roche, une pièce lumineuse et apaisante aux reflets translucides. Selon la lithothérapie, cette forme géométrique est souvent associée à une énergie de transformation et d’élévation spirituelle, aidant à harmoniser les émotions et à renforcer la connexion avec son être intérieur. Parfait pour une méditation ou une utilisation quotidienne, il apporte une touche d'équilibre et de sérénité à votre quotidien.",
+              "photo": "images/articles/merkaba-cristal-de-roche-donut-3cm-mtd5i1rgrz7q.jpg",
+              "prixBoutique": 19,
+              "stock": 1
             }
           ]
         }

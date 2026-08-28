@@ -1201,7 +1201,17 @@
               "description": "Cette boule de cristal de roche, pure et transparente, est une pièce naturelle aux reflets lumineux et apaisants. Selon la lithothérapie, elle est souvent utilisée pour purifier l’énergie, renforcer la clarté mentale et favoriser la sérénité au quotidien. Parfaite pour une méditation ou une décoration élégante, elle diffuse une énergie harmonieuse et équilibrante.",
               "photo": "images/articles/cristal-de-roche-donut-2cm-mtco8r0m3czc.jpg",
               "prixBoutique": 6.5,
-              "stock": 10
+              "stock": 10,
+              "stripeProductId": "prod_V9eAvETAbudXs5",
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche Donut 2cm",
+              "stripeDesc": "Cette boule de cristal de roche, pure et transparente, est une pièce naturelle aux reflets lumineux et apaisants. Selon la lithothérapie, elle est souvent utilisée pour purifier l’énergie, renforcer la clarté mentale et favoriser la sérénité au quotidien. Parfaite pour une méditation ou une décoration élégante, elle diffuse une énergie harmonieuse et équilibrante.",
+              "stripePriceId": "price_1U9KrqLOfCA5mATupAPcQB2v",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1U9KrrLOfCA5mATuyrlR1Rok",
+              "stripe": "https://buy.stripe.com/aFaaEYbke4Rv3skdK12881b",
+              "stripeStock": 10,
+              "epuise": false
             }
           ]
         }

@@ -1506,16 +1506,25 @@
               "photo": "images/articles/cornaline-ange-3-cm-mtcroq6eg7lq.jpg",
               "prixBoutique": 22.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/bJe28scoi3Nr9QIaxP2881s",
               "stripeProductId": "prod_V9fiWrmNEH7tbF",
+              "stripePriceId": "price_1U9MN8LOfCA5mATufInIQKkR",
+              "stripeLinkId": "plink_1U9MN9LOfCA5mATum8CxUkFR",
+              "stripePrix": 23.93,
               "stripeMode": "live",
               "stripeNom": "Cornaline ange 3 cm",
               "stripeDesc": "Ce pendentif en cornaline sculpté en forme d’ange délicate est un symbole de douceur et de protection. Associée traditionnellement à l’énergie vitale et à la joie de vivre, cette pierre douce est idéale pour apaiser les émotions et renforcer la confiance en soi au quotidien. Parfaite pour une touche de bien-être et d’élégance naturelle, elle s’accorde aussi bien avec les styles bohèmes que minimalistes.",
-              "stripePriceId": "price_1U9MN8LOfCA5mATufInIQKkR",
-              "stripePrix": 23.93,
-              "stripeLinkId": "plink_1U9MN9LOfCA5mATum8CxUkFR",
-              "stripe": "https://buy.stripe.com/bJe28scoi3Nr9QIaxP2881s",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "amethyste-donut-3cm-mtcy77zxm3s8",
+              "nom": "Amethyste Donut 3cm",
+              "prix": 23.93,
+              "description": "Découvrez ce pendentif en forme d’ange sculpté dans une belle amethyste aux reflets violets apaisants. Cette pierre, réputée en lithothérapie pour ses vertus calmantes, aide à apaiser l’esprit, favorise la sérénité et renforce la connexion à ses émotions profondes. Parfaite pour une touche douce et spirituelle au quotidien, elle est idéale pour les personnes en quête d’harmonie intérieure et de protection énergétique.",
+              "photo": "images/articles/amethyste-donut-3cm-mtcy77zxhqz9.jpg",
+              "prixBoutique": 22.9,
+              "stock": 4
             }
           ]
         }

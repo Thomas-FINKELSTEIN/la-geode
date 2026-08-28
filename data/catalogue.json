@@ -2037,7 +2037,17 @@
               "description": "Ce pendentif en obsidienne, teintée de reflets profonds et mystérieux, est taillé en forme de larme pour capter et amplifier son énergie protectrice. Utilisée en lithothérapie pour apaiser les émotions, elle aide à libérer les tensions et à renforcer la confiance en soi. Parfaite pour une méditation ou portée au quotidien, elle est idéale pour ceux qui cherchent à retrouver un équilibre intérieur.",
               "photo": "images/articles/pendentif-obsidienne-donut-3cm-mtd6dy8jqrp4.jpg",
               "prixBoutique": 18,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_V9mMT4HT06c9RY",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne Donut 3cm",
+              "stripeDesc": "Ce pendentif en obsidienne, teintée de reflets profonds et mystérieux, est taillé en forme de larme pour capter et amplifier son énergie protectrice. Utilisée en lithothérapie pour apaiser les émotions, elle aide à libérer les tensions et à renforcer la confiance en soi. Parfaite pour une méditation ou portée au quotidien, elle est idéale pour ceux qui cherchent à retrouver un équilibre intérieur.",
+              "stripePriceId": "price_1U9SnMLOfCA5mATuPKJAemf1",
+              "stripePrix": 18.87,
+              "stripeLinkId": "plink_1U9SnMLOfCA5mATuAOQ3tqXz",
+              "stripe": "https://buy.stripe.com/cNi28s1JE2JnbYQ6hz2881Y",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

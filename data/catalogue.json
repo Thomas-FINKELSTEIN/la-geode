@@ -2424,7 +2424,17 @@
               "description": "Ce bracelet en agate fossile est une pièce unique aux reflets dorés et aux motifs organiques fascinants. L'agate fossile est souvent associée à la stabilité émotionnelle et à la connexion avec la nature, aidant à apaiser les tensions du quotidien. Parfait pour une utilisation quotidienne, ce bracelet apporte une touche élégante tout en favorisant un sentiment de calme et d'équilibre intérieur. Calme les migraines, augmente énergie vitale",
               "photo": "images/articles/bracelet-agate-fossile-6-mm-mtefkoft62dq.jpg",
               "prixBoutique": 9.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA6lq1AcsRu8zt",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet agate fossile 6 mm",
+              "stripeDesc": "Ce bracelet en agate fossile est une pièce unique aux reflets dorés et aux motifs organiques fascinants. L'agate fossile est souvent associée à la stabilité émotionnelle et à la connexion avec la nature, aidant à apaiser les tensions du quotidien. Parfait pour une utilisation quotidienne, ce bracelet apporte une touche élégante tout en favorisant un sentiment de calme et d'équilibre intérieur. Calme les migraines, augmente énergie vitale",
+              "stripePriceId": "price_1U9mXULOfCA5mATuflwvz4bP",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1U9mXVLOfCA5mATuSbRZaZBC",
+              "stripe": "https://buy.stripe.com/aFa28sfAu97L4wo0Xf2882j",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

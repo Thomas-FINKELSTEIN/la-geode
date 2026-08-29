@@ -2050,6 +2050,22 @@
               "epuise": false
             }
           ]
+        },
+        {
+          "id": "bracelets-mte119vvpegh",
+          "nom": "Bracelets",
+          "slogan": "Nos plus beaux bracelets en pierre veritable",
+          "articles": [
+            {
+              "id": "bracelet-amethyste-dark-6-mm-mte1b6gqqxkw",
+              "nom": "Bracelet améthyste dark 6 mm",
+              "prix": 13.6,
+              "description": "Ce bracelet en améthyste dark est composé de perles rondes et lisses, parfait pour un style élégant et intemporel. L'améthyste est souvent utilisée en lithothérapie pour favoriser la sérénité, apaiser les émotions et renforcer la connexion spirituelle. Elle est idéale pour accompagner le deuil et votre quotidien en apportant calme et équilibre.",
+              "photo": "images/articles/bracelet-amethyste-dark-6-mm-mte1b6gquh73.jpg",
+              "prixBoutique": 12.9,
+              "stock": 5
+            }
+          ]
         }
       ]
     },

@@ -2596,16 +2596,25 @@
               "photo": "images/articles/bracelet-angelite-10-mm-mtegu6yavizw.jpg",
               "prixBoutique": 17.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm28sfAubfTfb2gWd2882s",
               "stripeProductId": "prod_VA7KmnQdi3fmkT",
+              "stripePriceId": "price_1U9n5pLOfCA5mATu7NwkeEns",
+              "stripeLinkId": "plink_1U9n5pLOfCA5mATugdj78Odg",
+              "stripePrix": 18.76,
               "stripeMode": "live",
               "stripeNom": "Bracelet angélite 10 mm",
               "stripeDesc": "Ce bracelet en angélite est un accessoire délicat et apaisant, composé de perles douces et lumineuses. L'angélite est souvent associée à la sérénité et à la purification des énergies, aidant à apaiser l'esprit et à favoriser un état de calme intérieur. Parfait pour une touche élégante tout en bénéficiant de ses vertus harmonisantes au quotidien. Une ouverture au chemin de vie de vie ,ancrage.",
-              "stripePriceId": "price_1U9n5pLOfCA5mATu7NwkeEns",
-              "stripePrix": 18.76,
-              "stripeLinkId": "plink_1U9n5pLOfCA5mATugdj78Odg",
-              "stripe": "https://buy.stripe.com/dRm28sfAubfTfb2gWd2882s",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-angelite-8-mm-mtegy8ga7rwc",
+              "nom": "Bracelet angélite 8 mm",
+              "prix": 15.77,
+              "description": "Ce bracelet en angélite est composé de perles douces et apaisantes, parfaites pour une touche délicate et élégante. L'angélite est souvent associée à la purification des émotions et à la connexion avec les énergies divines, favorisant ainsi la sérénité et la clarté mentale. Idéal pour porter au quotidien, il apporte une énergie apaisante et une harmonie subtile à votre quotidien.",
+              "photo": "images/articles/bracelet-angelite-8-mm-mtegy8gatkfk.jpg",
+              "prixBoutique": 15,
+              "stock": 1
             }
           ]
         }

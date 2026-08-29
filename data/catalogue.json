@@ -2881,16 +2881,25 @@
               "photo": "images/articles/bracelet-labradorite-blanche-baroque-mtel0fk51zz9.jpg",
               "prixBoutique": 9.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00w00k9c6gAd4wo7lD2882H",
               "stripeProductId": "prod_VA9DyVjd856ieh",
+              "stripePriceId": "price_1U9ousLOfCA5mATuj3svtCkP",
+              "stripeLinkId": "plink_1U9ousLOfCA5mATuQ3nTMz6W",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet labradorite blanche baroque",
               "stripeDesc": "Ce bracelet en labradorite blanche baroque allie élégance et énergie positive. La labradorite est souvent associée à la protection spirituelle, à l'ouverture des chakras et à l'harmonisation des émotions. Parfait pour un port quotidien, il apporte une touche de mystère et de bien-être grâce à ses reflets changeants et ses propriétés apaisantes.",
-              "stripePriceId": "price_1U9ousLOfCA5mATuj3svtCkP",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1U9ousLOfCA5mATuQ3nTMz6W",
-              "stripe": "https://buy.stripe.com/00w00k9c6gAd4wo7lD2882H",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-diopside-8-mm-mtel33fcnkkr",
+              "nom": "Bracelet Diopside 8 mm",
+              "prix": 14.22,
+              "description": "Ce bracelet en diopside, composé de perles de 8 millimètres, est une pièce élégante et naturelle qui capte immédiatement l'attention. Le diopside est souvent associé à la vitalité et à la transformation, aidant à renforcer la confiance en soi et à équilibrer les émotions. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à apporter une touche de bien-être à leur style.",
+              "photo": "images/articles/bracelet-diopside-8-mm-mtel33fcinuj.jpg",
+              "prixBoutique": 13.5,
+              "stock": 5
             }
           ]
         }

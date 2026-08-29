@@ -2291,7 +2291,17 @@
               "description": "Ce bracelet en agate fossile associe la beauté des motifs organiques aux propriétés apaisantes de cette pierre naturelle. Traditionnellement utilisée en lithothérapie pour équilibrer les émotions et favoriser la sérénité, elle est idéale pour accompagner les moments de stress ou de transition. Ses couleurs douces et ses motifs uniques en font un accessoire à la fois élégant et porteur d'énergie positive au quotidien. Ancrage et stabilité, clarté mentale, protection.",
               "photo": "images/articles/bracelet-agate-fossile-6-mm-mte70hg2bz3v.jpg",
               "prixBoutique": 12.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VA2t9gMKQziLQH",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet agate fossile 6 mm",
+              "stripeDesc": "Ce bracelet en agate fossile associe la beauté des motifs organiques aux propriétés apaisantes de cette pierre naturelle. Traditionnellement utilisée en lithothérapie pour équilibrer les émotions et favoriser la sérénité, elle est idéale pour accompagner les moments de stress ou de transition. Ses couleurs douces et ses motifs uniques en font un accessoire à la fois élégant et porteur d'énergie positive au quotidien. Ancrage et stabilité, clarté mentale, protection.",
+              "stripePriceId": "price_1U9inhLOfCA5mATub2FgEViS",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1U9iniLOfCA5mATuca15ccAL",
+              "stripe": "https://buy.stripe.com/4gM4gAcoiabP3sk8pH2882c",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

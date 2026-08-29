@@ -2862,16 +2862,25 @@
               "photo": "images/articles/bracelet-labradorite-blanche-4-mm-mtekxuumpal0.jpg",
               "prixBoutique": 12.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/fZu28scoigAd8MEeO52882G",
               "stripeProductId": "prod_VA9B8EMz7Z8ypT",
+              "stripePriceId": "price_1U9osrLOfCA5mATuFbsFZN2i",
+              "stripeLinkId": "plink_1U9ossLOfCA5mATum0eCl9zk",
+              "stripePrix": 13.6,
               "stripeMode": "live",
               "stripeNom": "Bracelet labradorite blanche 4 mm",
               "stripeDesc": "Ce bracelet en labradorite blanche est un accessoire élégant et lumineux, composé de perles aux reflets bleutés et dorés. La labradorite est souvent associée à une énergie protectrice et à une connexion renforcée avec l’intuition, aidant à clarifier les pensées et à apaiser les émotions. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver une spiritualité apaisante.",
-              "stripePriceId": "price_1U9osrLOfCA5mATuFbsFZN2i",
-              "stripePrix": 13.6,
-              "stripeLinkId": "plink_1U9ossLOfCA5mATum0eCl9zk",
-              "stripe": "https://buy.stripe.com/fZu28scoigAd8MEeO52882G",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-labradorite-blanche-baroque-mtel0fk5qrj5",
+              "nom": "Bracelet labradorite blanche baroque",
+              "prix": 10.5,
+              "description": "Ce bracelet en labradorite blanche baroque allie élégance et énergie positive. La labradorite est souvent associée à la protection spirituelle, à l'ouverture des chakras et à l'harmonisation des émotions. Parfait pour un port quotidien, il apporte une touche de mystère et de bien-être grâce à ses reflets changeants et ses propriétés apaisantes.",
+              "photo": "images/articles/bracelet-labradorite-blanche-baroque-mtel0fk51zz9.jpg",
+              "prixBoutique": 9.9,
+              "stock": 1
             }
           ]
         }

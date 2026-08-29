@@ -2653,16 +2653,25 @@
               "photo": "images/articles/bracelet-calcite-orange-6-mm-mteiu82lwgnw.jpg",
               "prixBoutique": 17.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/aFa3cw9c6cjX0g8bBT2882v",
               "stripeProductId": "prod_VA8EpIpN2i5Nfm",
+              "stripePriceId": "price_1U9nxwLOfCA5mATu8OsoFhGt",
+              "stripeLinkId": "plink_1U9nxwLOfCA5mATu13yYmm3i",
+              "stripePrix": 18.76,
               "stripeMode": "live",
               "stripeNom": "Bracelet calcite orange 6 mm",
               "stripeDesc": "La calcite orange amène la joie et l'optimisme ,vitalité et motivation,\ncréativité, confiance en soi, apporte au corps de l'énergie et du dynamisme",
-              "stripePriceId": "price_1U9nxwLOfCA5mATu8OsoFhGt",
-              "stripePrix": 18.76,
-              "stripeLinkId": "plink_1U9nxwLOfCA5mATu13yYmm3i",
-              "stripe": "https://buy.stripe.com/aFa3cw9c6cjX0g8bBT2882v",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-celestine-10-mm-mtejeez244ii",
+              "nom": "Bracelet célestine 10 mm",
+              "prix": 51.74,
+              "description": "La célestine stabilise le mental, réduit le stress et donne de l'obtimisme",
+              "photo": "images/articles/bracelet-celestine-10-mm-mtejeez267vj.jpg",
+              "prixBoutique": 49.8,
+              "stock": 1
             }
           ]
         }

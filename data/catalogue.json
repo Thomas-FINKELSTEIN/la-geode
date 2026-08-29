@@ -2159,16 +2159,25 @@
               "photo": "images/articles/bracelet-aigue-marine-10-mm-mte3a8bdr0mu.jpg",
               "prixBoutique": 36.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/eVq5kE9c61Fj2ogfS928825",
               "stripeProductId": "prod_VA1CpNtu180fly",
+              "stripePriceId": "price_1U9hAYLOfCA5mATua3dpO9kW",
+              "stripeLinkId": "plink_1U9hAYLOfCA5mATuU1cMyvhq",
+              "stripePrix": 38.4,
               "stripeMode": "live",
               "stripeNom": "Bracelet aigue marine 10 mm",
               "stripeDesc": "Ce bracelet en aigue marine est composé de perles rondes et lumineuses qui captent la douceur des teintes bleutées de l'océan. L'aigue marine est souvent associée à la sérénité, à la protection et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. Parfait pour un port quotidien, il allie élégance naturelle et bien-être énergétique selon les croyances en lithothérapie.",
-              "stripePriceId": "price_1U9hAYLOfCA5mATua3dpO9kW",
-              "stripePrix": 38.4,
-              "stripeLinkId": "plink_1U9hAYLOfCA5mATuU1cMyvhq",
-              "stripe": "https://buy.stripe.com/eVq5kE9c61Fj2ogfS928825",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-labradorite-10-mm-mte3gci92y66",
+              "nom": "Bracelet labradorite 10 mm",
+              "prix": 16.7,
+              "description": "Ce bracelet en labradorite est composé de perles rondes et lumineuses qui captent la lumière pour créer des reflets bleutés et dorés. La labradorite est souvent appelée la pierre de magie et de mystère, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Porté au quotidien, il favorise l’intuition et aide à trouver un équilibre émotionnel tout en apportant une touche d’élégance naturelle. Pierre du médecin ou aide soignant , personnes ayant trop d' ampathie.",
+              "photo": "images/articles/bracelet-labradorite-10-mm-mte3gci9gf95.jpg",
+              "prixBoutique": 15.9,
+              "stock": 3
             }
           ]
         }

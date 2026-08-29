@@ -2558,16 +2558,25 @@
               "photo": "images/articles/bracelet-agate-grise-4-mm-mtegba1kq4x6.jpg",
               "prixBoutique": 5.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/5kQ6oIagabfT8MEeO52882q",
               "stripeProductId": "prod_VA750PkZ4KuWdg",
+              "stripePriceId": "price_1U9mrbLOfCA5mATu7UiMsdd3",
+              "stripeLinkId": "plink_1U9mrbLOfCA5mATugDV66l1k",
+              "stripePrix": 6.36,
               "stripeMode": "live",
               "stripeNom": "Bracelet Agate grise 4 mm",
               "stripeDesc": "Ce bracelet en agate grise est un accessoire élégant et intemporel, composé de perles lisses et harmonieuses. L'agate grise est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la stabilité intérieure. Porté au quotidien, il est idéal pour ceux qui cherchent à cultiver une énergie paisible et un esprit clair.",
-              "stripePriceId": "price_1U9mrbLOfCA5mATu7UiMsdd3",
-              "stripePrix": 6.36,
-              "stripeLinkId": "plink_1U9mrbLOfCA5mATugDV66l1k",
-              "stripe": "https://buy.stripe.com/5kQ6oIagabfT8MEeO52882q",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-fluorite-multicolore-8-mm-mtegnf89sfuc",
+              "nom": "Bracelet fluorite multicolore 8 mm",
+              "prix": 10.5,
+              "description": "Ce bracelet en fluorite multicolore allie élégance et énergie positive. La fluorite, pierre de la concentration et de la clarté mentale, est réputée pour renforcer la communication et équilibrer les émotions. Parfait pour accompagner votre quotidien, il apporte harmonie et vitalité à votre énergie.",
+              "photo": "images/articles/bracelet-fluorite-multicolore-8-mm-mtegnf89u65h.jpg",
+              "prixBoutique": 9.9,
+              "stock": 7
             }
           ]
         }

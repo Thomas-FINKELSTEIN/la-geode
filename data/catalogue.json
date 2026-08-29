@@ -2140,16 +2140,25 @@
               "photo": "images/articles/bracelet-aigue-marine-4mm-mte36649hnh3.jpg",
               "prixBoutique": 16.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/9B6dRa9c6es5bYQ5dv28824",
               "stripeProductId": "prod_VA192lcFmfyscC",
+              "stripePriceId": "price_1U9h7YLOfCA5mATu9Cq3Un61",
+              "stripeLinkId": "plink_1U9h7ZLOfCA5mATukAmVVZMm",
+              "stripePrix": 17.73,
               "stripeMode": "live",
               "stripeNom": "Bracelet aigue marine 4mm",
               "stripeDesc": "L'aigue marine favorise le calme et la sérénité. Associé à l'expression claire des émotions et des idées. Aide à surmonter la timidité et les peurs, apporte équilibre émotionnel, détente et harmonie.",
-              "stripePriceId": "price_1U9h7YLOfCA5mATu9Cq3Un61",
-              "stripePrix": 17.73,
-              "stripeLinkId": "plink_1U9h7ZLOfCA5mATukAmVVZMm",
-              "stripe": "https://buy.stripe.com/9B6dRa9c6es5bYQ5dv28824",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-aigue-marine-10-mm-mte3a8bdr06x",
+              "nom": "Bracelet aigue marine 10 mm",
+              "prix": 38.4,
+              "description": "Ce bracelet en aigue marine est composé de perles rondes et lumineuses qui captent la douceur des teintes bleutées de l'océan. L'aigue marine est souvent associée à la sérénité, à la protection et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. Parfait pour un port quotidien, il allie élégance naturelle et bien-être énergétique selon les croyances en lithothérapie.",
+              "photo": "images/articles/bracelet-aigue-marine-10-mm-mte3a8bdr0mu.jpg",
+              "prixBoutique": 36.9,
+              "stock": 3
             }
           ]
         }

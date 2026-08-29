@@ -2368,16 +2368,25 @@
               "photo": "images/articles/bracelet-agate-grise-6-mm-mtef7z35k9nj.jpg",
               "prixBoutique": 5.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/5kQbJ2fAucjX8MEdK12882g",
               "stripeProductId": "prod_VA6biERLjCijA9",
+              "stripePriceId": "price_1U9mNyLOfCA5mATucSJZxQRu",
+              "stripeLinkId": "plink_1U9mNyLOfCA5mATue1pbidaV",
+              "stripePrix": 6.36,
               "stripeMode": "live",
               "stripeNom": "Bracelet agate grise 6 mm",
               "stripeDesc": "L'agate grise permet de réguler les maux digestifs calme aussi les douleurs articulaires",
-              "stripePriceId": "price_1U9mNyLOfCA5mATucSJZxQRu",
-              "stripePrix": 6.36,
-              "stripeLinkId": "plink_1U9mNyLOfCA5mATue1pbidaV",
-              "stripe": "https://buy.stripe.com/5kQbJ2fAucjX8MEdK12882g",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-agate-grise-8-mm-mtefbxc9m3ha",
+              "nom": "Bracelet agate grise 8 mm",
+              "prix": 9.98,
+              "description": "Ce bracelet en agate grise est un allié élégant pour le quotidien. L'agate, pierre de douceur et d'équilibre, est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la sérénité. Parfaite pour une touche discrète et raffinée, elle aide aussi à renforcer la concentration et à harmoniser les énergies.",
+              "photo": "images/articles/bracelet-agate-grise-8-mm-mtefbxc97gda.jpg",
+              "prixBoutique": 9.4,
+              "stock": 4
             }
           ]
         }

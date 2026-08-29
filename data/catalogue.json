@@ -2330,16 +2330,25 @@
               "photo": "images/articles/biotite-8-mm-mteewrq18d91.jpg",
               "prixBoutique": 32.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNicN65ZU83HaUMeO52882e",
               "stripeProductId": "prod_VA6SvLwEhmOAgN",
+              "stripePriceId": "price_1U9mFVLOfCA5mATu5HmAbc54",
+              "stripeLinkId": "plink_1U9mFVLOfCA5mATuPLXFmy7Z",
+              "stripePrix": 34.27,
               "stripeMode": "live",
               "stripeNom": "Biotite 8 mm",
               "stripeDesc": "La biotite permet au corps de retrouver son équilibre, pierre apportant la sérénité",
-              "stripePriceId": "price_1U9mFVLOfCA5mATu5HmAbc54",
-              "stripePrix": 34.27,
-              "stripeLinkId": "plink_1U9mFVLOfCA5mATuPLXFmy7Z",
-              "stripe": "https://buy.stripe.com/cNicN65ZU83HaUMeO52882e",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-biotite-6-mm-mtef2g3mkps8",
+              "nom": "Bracelet Biotite 6 mm",
+              "prix": 23.93,
+              "description": "Ce bracelet en biotite est composé de perles rondes et lumineuses qui captent la lumière pour un effet élégant et naturel. La biotite est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la stabilité intérieure. Porté au quotidien, il aide à ancrer l’énergie et à renforcer la confiance en soi.",
+              "photo": "images/articles/bracelet-biotite-6-mm-mtef2g3me99g.jpg",
+              "prixBoutique": 22.9,
+              "stock": 2
             }
           ]
         }

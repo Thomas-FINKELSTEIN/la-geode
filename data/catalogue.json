@@ -2177,7 +2177,17 @@
               "description": "Ce bracelet en labradorite est composé de perles rondes et lumineuses qui captent la lumière pour créer des reflets bleutés et dorés. La labradorite est souvent appelée la pierre de magie et de mystère, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Porté au quotidien, il favorise l’intuition et aide à trouver un équilibre émotionnel tout en apportant une touche d’élégance naturelle. Pierre du médecin ou aide soignant , personnes ayant trop d' ampathie.",
               "photo": "images/articles/bracelet-labradorite-10-mm-mte3gci9gf95.jpg",
               "prixBoutique": 15.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VA1HV87RAFG6Ju",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet labradorite 10 mm",
+              "stripeDesc": "Ce bracelet en labradorite est composé de perles rondes et lumineuses qui captent la lumière pour créer des reflets bleutés et dorés. La labradorite est souvent appelée la pierre de magie et de mystère, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Porté au quotidien, il favorise l’intuition et aide à trouver un équilibre émotionnel tout en apportant une touche d’élégance naturelle. Pierre du médecin ou aide soignant , personnes ayant trop d' ampathie.",
+              "stripePriceId": "price_1U9hFBLOfCA5mATuYAzyPKb5",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1U9hFBLOfCA5mATuoMINXSxw",
+              "stripe": "https://buy.stripe.com/6oU28s5ZUdo1bYQ0Xf28826",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

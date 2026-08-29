@@ -2634,16 +2634,25 @@
               "photo": "images/articles/bracelet-calcite-orange-8-mm-mteimrqlffns.jpg",
               "prixBoutique": 27.85,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/28EbJ23RM83Hgf60Xf2882u",
               "stripeProductId": "prod_VA885HAlYsXfv0",
+              "stripePriceId": "price_1U9nsMLOfCA5mATuILftUWcM",
+              "stripeLinkId": "plink_1U9nsMLOfCA5mATuDdVpsvcJ",
+              "stripePrix": 29.05,
               "stripeMode": "live",
               "stripeNom": "Bracelet calcite orange 8 mm",
               "stripeDesc": "La calcite orange amène joie et optimisme, vitalité et motivation, créativité, la confiance en soi, elle apporte aussi énergie et dynamisme",
-              "stripePriceId": "price_1U9nsMLOfCA5mATuILftUWcM",
-              "stripePrix": 29.05,
-              "stripeLinkId": "plink_1U9nsMLOfCA5mATuDdVpsvcJ",
-              "stripe": "https://buy.stripe.com/28EbJ23RM83Hgf60Xf2882u",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-calcite-orange-6-mm-mteiu82lugxf",
+              "nom": "Bracelet calcite orange 6 mm",
+              "prix": 18.76,
+              "description": "La calcite orange amène la joie et l'optimisme ,vitalité et motivation,\ncréativité, confiance en soi, apporte au corps de l'énergie et du dynamisme",
+              "photo": "images/articles/bracelet-calcite-orange-6-mm-mteiu82lwgnw.jpg",
+              "prixBoutique": 17.9,
+              "stock": 2
             }
           ]
         }

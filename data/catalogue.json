@@ -2577,16 +2577,25 @@
               "photo": "images/articles/bracelet-fluorite-multicolore-8-mm-mtegnf89u65h.jpg",
               "prixBoutique": 9.9,
               "stock": 7,
+              "stripe": "https://buy.stripe.com/cNieVecoi1Fj9QI0Xf2882r",
               "stripeProductId": "prod_VA7FEIurDiHQsk",
+              "stripePriceId": "price_1U9n0fLOfCA5mATuLdOMJOnV",
+              "stripeLinkId": "plink_1U9n0fLOfCA5mATu80WavnEY",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet fluorite multicolore 8 mm",
               "stripeDesc": "Ce bracelet en fluorite multicolore allie élégance et énergie positive. La fluorite, pierre de la concentration et de la clarté mentale, est réputée pour renforcer la communication et équilibrer les émotions. Parfait pour accompagner votre quotidien, il apporte harmonie et vitalité à votre énergie.",
-              "stripePriceId": "price_1U9n0fLOfCA5mATuLdOMJOnV",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1U9n0fLOfCA5mATu80WavnEY",
-              "stripe": "https://buy.stripe.com/cNieVecoi1Fj9QI0Xf2882r",
               "stripeStock": 7,
               "epuise": false
+            },
+            {
+              "id": "bracelet-angelite-10-mm-mtegu6ya1sp3",
+              "nom": "Bracelet angélite 10 mm",
+              "prix": 18.76,
+              "description": "Ce bracelet en angélite est un accessoire délicat et apaisant, composé de perles douces et lumineuses. L'angélite est souvent associée à la sérénité et à la purification des énergies, aidant à apaiser l'esprit et à favoriser un état de calme intérieur. Parfait pour une touche élégante tout en bénéficiant de ses vertus harmonisantes au quotidien. Une ouverture au chemin de vie de vie ,ancrage.",
+              "photo": "images/articles/bracelet-angelite-10-mm-mtegu6yavizw.jpg",
+              "prixBoutique": 17.9,
+              "stock": 1
             }
           ]
         }

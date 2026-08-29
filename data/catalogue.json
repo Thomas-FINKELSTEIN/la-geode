@@ -2880,7 +2880,17 @@
               "description": "Ce bracelet en labradorite blanche baroque allie élégance et énergie positive. La labradorite est souvent associée à la protection spirituelle, à l'ouverture des chakras et à l'harmonisation des émotions. Parfait pour un port quotidien, il apporte une touche de mystère et de bien-être grâce à ses reflets changeants et ses propriétés apaisantes.",
               "photo": "images/articles/bracelet-labradorite-blanche-baroque-mtel0fk51zz9.jpg",
               "prixBoutique": 9.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA9DyVjd856ieh",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet labradorite blanche baroque",
+              "stripeDesc": "Ce bracelet en labradorite blanche baroque allie élégance et énergie positive. La labradorite est souvent associée à la protection spirituelle, à l'ouverture des chakras et à l'harmonisation des émotions. Parfait pour un port quotidien, il apporte une touche de mystère et de bien-être grâce à ses reflets changeants et ses propriétés apaisantes.",
+              "stripePriceId": "price_1U9ousLOfCA5mATuj3svtCkP",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1U9ousLOfCA5mATuQ3nTMz6W",
+              "stripe": "https://buy.stripe.com/00w00k9c6gAd4wo7lD2882H",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

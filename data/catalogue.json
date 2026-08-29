@@ -2804,7 +2804,17 @@
               "description": "Ce bracelet en calcédoine bleue offre une élégance naturelle et une énergie apaisante. La calcédoine est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les émotions et renforcer la connexion à soi-même. Parfait pour un port quotidien, il apporte une touche de douceur et de bien-être au quotidien.",
               "photo": "images/articles/bracelet-calcedoine-gamme-superieure-10--mteklphp57nl.jpg",
               "prixBoutique": 52.85,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA91ATYiq2weGF",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet calcédoine gamme supérieure 10 mm",
+              "stripeDesc": "Ce bracelet en calcédoine bleue offre une élégance naturelle et une énergie apaisante. La calcédoine est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les émotions et renforcer la connexion à soi-même. Parfait pour un port quotidien, il apporte une touche de douceur et de bien-être au quotidien.",
+              "stripePriceId": "price_1U9ojjLOfCA5mATuLEEk0Fdg",
+              "stripePrix": 54.89,
+              "stripeLinkId": "plink_1U9ojjLOfCA5mATu31hdwP0T",
+              "stripe": "https://buy.stripe.com/14A14ogEybfT1kc7lD2882D",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

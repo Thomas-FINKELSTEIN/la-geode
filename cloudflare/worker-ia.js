@@ -573,6 +573,16 @@ function majuscule(t) {
   return t ? t.charAt(0).toUpperCase() + t.slice(1) : t;
 }
 
+/* Convention unique de toute la boutique : une espace entre le nombre et l unite
+   (3 cm, pas 3cm). Applique en dernier sur le titre assemble, tous chemins
+   confondus, pour que tous les articles soient ecrits pareil. */
+function normaliserDimensionsTitre(t) {
+  return String(t || '')
+    .replace(new RegExp(DIM_MOTIF_SRC, 'gi'), function (d) { return formaterDimension(d, 'espace'); })
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
+
 /* Assemble le titre par concatenation : l IA ne redige jamais le titre.
    Gamme existante : graphie, position et style de dimension de la gamme.
    Gamme nouvelle avec mots de la vendeuse : son ordre de mots est conserve,
@@ -776,6 +786,7 @@ function construireReponse(texte, titreActuel, descActuelle, exemples) {
   }
 
   titre = appliquerGardeFous(titre, titreActuel);
+  titre = normaliserDimensionsTitre(titre);   // "3 cm" partout, jamais "3cm"
   titre = majuscule(titre);   // un titre produit commence toujours par une capitale
   return { titre: titre, description: description };
 }

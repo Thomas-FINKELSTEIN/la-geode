@@ -79,7 +79,7 @@ const RAYON_MIXTE = ['Amethyste Donut 3cm', 'Hematite Donut 3cm', 'Quartz rose B
   const r = bac.construireReponse(
     ia({ produit: 'Sodalite', type: 'Donut', dimension: '3 cm', description: 'd' }),
     'Sodalite donut 3 cm', '', RAYON_DONUTS);
-  egal('S3 style compact de la gamme copie, sans doublon', r.titre, 'Sodalite Donut 3cm');
+  egal('S3 convention unique 3 cm (espace) meme si la gamme ecrit 3cm', r.titre, 'Sodalite Donut 3 cm');
 })();
 
 /* S4 (obligatoire) : la gamme ecrit "5 cm" avec espace -> style espace copie. */
@@ -95,7 +95,7 @@ const RAYON_MIXTE = ['Amethyste Donut 3cm', 'Hematite Donut 3cm', 'Quartz rose B
   const r = bac.construireReponse(
     ia({ produit: 'Sodalite', type: 'Donut', dimension: '3cm', description: 'd' }),
     'sodalite donut 3cm', '', ['Amethyste DONUT 3cm']);
-  egal('S5 casse du mot de type copiee de la gamme', r.titre, 'Sodalite DONUT 3cm');
+  egal('S5 casse du mot de type copiee de la gamme', r.titre, 'Sodalite DONUT 3 cm');
 })();
 
 /* S6 (obligatoire) : produit sans pierre (encens), aucun mot de forme parasite. */
@@ -173,7 +173,7 @@ const RAYON_MIXTE = ['Amethyste Donut 3cm', 'Hematite Donut 3cm', 'Quartz rose B
   const r = bac.construireReponse(
     'desole, je ne peux pas repondre',
     'Sodalite donut 3 cm', '', RAYON_DONUTS);
-  egal('S14 JSON casse : titre reconstruit depuis la saisie, harmonise', r.titre, 'Sodalite Donut 3cm');
+  egal('S14 JSON casse : titre reconstruit depuis la saisie, harmonise', r.titre, 'Sodalite Donut 3 cm');
 })();
 
 /* S15 : reponse IA sans JSON et aucune saisie -> le texte part en description. */
@@ -188,7 +188,7 @@ const RAYON_MIXTE = ['Amethyste Donut 3cm', 'Hematite Donut 3cm', 'Quartz rose B
   const r = bac.construireReponse(
     '{"titre":"Citrine Donut 3cm","description":"Belle piece."}',
     'Citrine donut 3cm', '', RAYON_DONUTS);
-  egal('S16a ancien format : titre decompose puis reassemble', r.titre, 'Citrine Donut 3cm');
+  egal('S16a ancien format : titre decompose puis reassemble', r.titre, 'Citrine Donut 3 cm');
   egal('S16b ancien format : description conservee', r.description, 'Belle piece.');
 })();
 
@@ -289,11 +289,11 @@ const RAYON_MIXTE = ['Amethyste Donut 3cm', 'Hematite Donut 3cm', 'Quartz rose B
   const r1 = bac.construireReponse(
     ia({ produit: 'Amethyste', type: 'Donut', dimension: '', description: 'd' }),
     'Amethyste chevaliere 3cm', '', RAYON_DONUTS);
-  egal('S27a chevaliere : titre vendeuse intact, jamais Donut', r1.titre, 'Amethyste chevaliere 3cm');
+  egal('S27a chevaliere : titre vendeuse intact, jamais Donut', r1.titre, 'Amethyste chevaliere 3 cm');
   const r2 = bac.construireReponse(
     ia({ produit: 'Amethyste', type: 'Anneau', dimension: '', description: 'd' }),
     'Amethyste chevaliere 3cm', '', RAYON_DONUTS);
-  vrai('S27b idem avec le synonyme Anneau', r2.titre === 'Amethyste chevaliere 3cm' &&
+  vrai('S27b idem avec le synonyme Anneau', r2.titre === 'Amethyste chevaliere 3 cm' &&
     r2.titre.toLowerCase().indexOf('anneau') === -1, r2.titre);
 })();
 
@@ -369,7 +369,7 @@ const RAYON_MIXTE = ['Amethyste Donut 3cm', 'Hematite Donut 3cm', 'Quartz rose B
   const r2 = bac.construireReponse(
     ia({ produit: 'Amethyste', type: 'Pendentif', dimension: '2cm', description: 'd' }),
     'Pendentif amethyste 2cm cordon 45cm', '', []);
-  egal('S32b gamme nouvelle : cordon 45cm reste a sa place', r2.titre, 'Pendentif amethyste 2 cm cordon 45cm');
+  egal('S32b gamme nouvelle : cordon a sa place, dimension espacee', r2.titre, 'Pendentif amethyste 2 cm cordon 45 cm');
 })();
 
 /* S33 : titre avec mot de type inconnu (chevaliere) : la consigne ne pousse
@@ -396,7 +396,7 @@ const RAYON_MIXTE = ['Amethyste Donut 3cm', 'Hematite Donut 3cm', 'Quartz rose B
   const r = bac.construireReponse(
     ia({ produit: 'Shungite', type: '', dimension: '3cm', description: 'd' }),
     'shungite 3cm', '', []);
-  egal('S35 titre pierre nue en minuscules : capitale initiale', r.titre, 'Shungite 3cm');
+  egal('S35 titre pierre nue en minuscules : capitale initiale', r.titre, 'Shungite 3 cm');
 })();
 
 console.log('');

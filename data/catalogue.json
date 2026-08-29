@@ -2139,7 +2139,17 @@
               "description": "L'aigue marine favorise le calme et la sérénité. Associé à l'expression claire des émotions et des idées. Aide à surmonter la timidité et les peurs, apporte équilibre émotionnel, détente et harmonie.",
               "photo": "images/articles/bracelet-aigue-marine-4mm-mte36649hnh3.jpg",
               "prixBoutique": 16.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VA192lcFmfyscC",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet aigue marine 4mm",
+              "stripeDesc": "L'aigue marine favorise le calme et la sérénité. Associé à l'expression claire des émotions et des idées. Aide à surmonter la timidité et les peurs, apporte équilibre émotionnel, détente et harmonie.",
+              "stripePriceId": "price_1U9h7YLOfCA5mATu9Cq3Un61",
+              "stripePrix": 17.73,
+              "stripeLinkId": "plink_1U9h7ZLOfCA5mATukAmVVZMm",
+              "stripe": "https://buy.stripe.com/9B6dRa9c6es5bYQ5dv28824",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

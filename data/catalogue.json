@@ -2900,16 +2900,25 @@
               "photo": "images/articles/bracelet-diopside-8-mm-mtel33fcinuj.jpg",
               "prixBoutique": 13.5,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/3cI7sM5ZU4Rv3skeO52882I",
               "stripeProductId": "prod_VA9FV7nhUe3Akz",
+              "stripePriceId": "price_1U9owpLOfCA5mATuVvnMDN0F",
+              "stripeLinkId": "plink_1U9owpLOfCA5mATu9EzlGpJp",
+              "stripePrix": 14.22,
               "stripeMode": "live",
               "stripeNom": "Bracelet Diopside 8 mm",
               "stripeDesc": "Ce bracelet en diopside, composé de perles de 8 millimètres, est une pièce élégante et naturelle qui capte immédiatement l'attention. Le diopside est souvent associé à la vitalité et à la transformation, aidant à renforcer la confiance en soi et à équilibrer les émotions. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à apporter une touche de bien-être à leur style.",
-              "stripePriceId": "price_1U9owpLOfCA5mATuVvnMDN0F",
-              "stripePrix": 14.22,
-              "stripeLinkId": "plink_1U9owpLOfCA5mATu9EzlGpJp",
-              "stripe": "https://buy.stripe.com/3cI7sM5ZU4Rv3skeO52882I",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "bracelet-cordierite-aaa-8-mm-mteln0sn52h4",
+              "nom": "Bracelet cordiérite  AAA 8 mm",
+              "prix": 37.99,
+              "description": "Ce bracelet en cordiérite, aussi appelée iolite, est un accessoire élégant et raffiné qui met en valeur une pierre aux reflets bleutés et mystérieux. En lithothérapie, la cordiérite est souvent associée à une énergie apaisante et protectrice, aidant à clarifier les pensées et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à équilibrer leurs émotions et à favoriser une sérénité intérieure.",
+              "photo": "images/articles/bracelet-cordierite-aaa-8-mm-mteln0snv6bj.jpg",
+              "prixBoutique": 36.5,
+              "stock": 1
             }
           ]
         }

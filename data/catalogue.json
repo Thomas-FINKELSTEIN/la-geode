@@ -2234,7 +2234,17 @@
               "description": "Le bracelet en bronzite est un accessoire élégant et naturel, composé de perles lisses aux reflets dorés et bruns. Cette pierre, souvent appelée pierre de protection, est réputée pour renforcer la confiance en soi et apporter un sentiment de sécurité intérieure. Idéal pour une utilisation quotidienne, il est parfait pour ceux qui cherchent à équilibrer leurs énergies et à cultiver une attitude positive. Ancrage énergétique, équilibre mental.",
               "photo": "images/articles/bracelet-bronzite-6-mm-mte6bw43gx25.jpg",
               "prixBoutique": 12.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VA2agbrQwot1Qt",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Bronzite 6 mm",
+              "stripeDesc": "Le bracelet en bronzite est un accessoire élégant et naturel, composé de perles lisses aux reflets dorés et bruns. Cette pierre, souvent appelée pierre de protection, est réputée pour renforcer la confiance en soi et apporter un sentiment de sécurité intérieure. Idéal pour une utilisation quotidienne, il est parfait pour ceux qui cherchent à équilibrer leurs énergies et à cultiver une attitude positive. Ancrage énergétique, équilibre mental.",
+              "stripePriceId": "price_1U9iV5LOfCA5mATuJEqlfYu4",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1U9iV6LOfCA5mATu7svpDkD5",
+              "stripe": "https://buy.stripe.com/6oU4gA0FAcjX6EwbBT28829",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

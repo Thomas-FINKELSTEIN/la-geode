@@ -2500,7 +2500,17 @@
               "description": "L' aragonite excellente pierre pour traiter l'anxiété, le stress. Pierre d'ancrage, elle aide à lâcher prise",
               "photo": "images/articles/bracelet-aragonite-baroque-mtefxf2pnscl.jpg",
               "prixBoutique": 6.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VA6vhRckIapRsq",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet aragonite baroque",
+              "stripeDesc": "L' aragonite excellente pierre pour traiter l'anxiété, le stress. Pierre d'ancrage, elle aide à lâcher prise",
+              "stripePriceId": "price_1U9mhBLOfCA5mATuGgShF0jF",
+              "stripePrix": 7.4,
+              "stripeLinkId": "plink_1U9mhBLOfCA5mATuLimHUtUa",
+              "stripe": "https://buy.stripe.com/bJe7sM882bfTaUM9tL2882n",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

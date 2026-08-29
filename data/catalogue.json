@@ -2690,7 +2690,17 @@
               "description": "Ce bracelet en cristal de roche est composé de perles translucides et lumineuses, parfaites pour apporter une touche d'élégance naturelle à votre quotidien. En lithothérapie, le cristal de roche est souvent associé à la purification des énergies et à l’amplification des intentions, aidant à clarifier l’esprit et à renforcer la concentration. Un accessoire raffiné pour cultiver sérénité et équilibre au quotidien.",
               "photo": "images/articles/bracelet-cristal-de-roche-10-mm-mtejlb9hux0z.jpg",
               "prixBoutique": 15.4,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA8Z33L6Qr6HyX",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet cristal de roche 10 mm",
+              "stripeDesc": "Ce bracelet en cristal de roche est composé de perles translucides et lumineuses, parfaites pour apporter une touche d'élégance naturelle à votre quotidien. En lithothérapie, le cristal de roche est souvent associé à la purification des énergies et à l’amplification des intentions, aidant à clarifier l’esprit et à renforcer la concentration. Un accessoire raffiné pour cultiver sérénité et équilibre au quotidien.",
+              "stripePriceId": "price_1U9oIKLOfCA5mATuFKgBrAT0",
+              "stripePrix": 16.18,
+              "stripeLinkId": "plink_1U9oIKLOfCA5mATuJgyo01uW",
+              "stripe": "https://buy.stripe.com/4gMbJ2ewq2Jn7IA9tL2882x",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

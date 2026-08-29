@@ -2444,16 +2444,25 @@
               "photo": "images/articles/bracelet-agate-fossile-8-mm-mtefnce9ss0u.jpg",
               "prixBoutique": 10.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi14o4VQfw93sk21j2882k",
               "stripeProductId": "prod_VA6n415st3Vw8j",
+              "stripePriceId": "price_1U9mZXLOfCA5mATun5fFrYea",
+              "stripeLinkId": "plink_1U9mZYLOfCA5mATuzNlZynPy",
+              "stripePrix": 11.53,
               "stripeMode": "live",
               "stripeNom": "Bracelet agate fossile 8 mm",
               "stripeDesc": "Ce bracelet en agate fossile associe la douceur des pierres naturelles à l'élégance d'un accessoire quotidien. L'agate fossile est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser un équilibre intérieur, tout en renforçant la connexion à la terre. Parfait pour une touche bohème et apaisante au quotidien, il s’adapte aussi bien aux tenues décontractées qu’aux looks plus habillés.",
-              "stripePriceId": "price_1U9mZXLOfCA5mATun5fFrYea",
-              "stripePrix": 11.53,
-              "stripeLinkId": "plink_1U9mZYLOfCA5mATuzNlZynPy",
-              "stripe": "https://buy.stripe.com/cNi14o4VQfw93sk21j2882k",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-agate-fossile-10-mm-mtefqoduwgzr",
+              "nom": "Bracelet agate fossile 10 mm",
+              "prix": 12.15,
+              "description": "Ce bracelet en agate fossile met en valeur des motifs uniques et organiques, créés naturellement au fil des millénaires. Connue pour ses vertus apaisantes, cette pierre aide à retrouver un équilibre émotionnel et à rester concentré dans les moments de tension ou de changement. Parfait pour un port quotidien, il allie douceur et énergie positive au quotidien.",
+              "photo": "images/articles/bracelet-agate-fossile-10-mm-mtefqodvdud0.jpg",
+              "prixBoutique": 11.5,
+              "stock": 3
             }
           ]
         }

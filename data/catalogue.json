@@ -2387,16 +2387,25 @@
               "photo": "images/articles/bracelet-agate-grise-8-mm-mtefbxc97gda.jpg",
               "prixBoutique": 9.4,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/6oU3cwcoigAd8ME5dv2882h",
               "stripeProductId": "prod_VA6eq9Tmk1eGyK",
+              "stripePriceId": "price_1U9mQyLOfCA5mATuLUEYKMSz",
+              "stripeLinkId": "plink_1U9mQyLOfCA5mATuB1SsxAMD",
+              "stripePrix": 9.98,
               "stripeMode": "live",
               "stripeNom": "Bracelet agate grise 8 mm",
               "stripeDesc": "Ce bracelet en agate grise est un allié élégant pour le quotidien. L'agate, pierre de douceur et d'équilibre, est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la sérénité. Parfaite pour une touche discrète et raffinée, elle aide aussi à renforcer la concentration et à harmoniser les énergies.",
-              "stripePriceId": "price_1U9mQyLOfCA5mATuLUEYKMSz",
-              "stripePrix": 9.98,
-              "stripeLinkId": "plink_1U9mQyLOfCA5mATuB1SsxAMD",
-              "stripe": "https://buy.stripe.com/6oU3cwcoigAd8ME5dv2882h",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-agate-grise-10-mm-mtefeliivruf",
+              "nom": "Bracelet Agate grise 10 mm",
+              "prix": 11.53,
+              "description": "Ce bracelet en agate grise apporte une énergie apaisante et équilibrante, idéale pour calmer le stress et favoriser la sérénité au quotidien. Associée traditionnellement à la stabilité émotionnelle, cette pierre douce et harmonieuse est parfaite pour porter en toute circonstance. Son toucher lisse et sa couleur discrète en font un allié subtil pour le bien-être mental et physique.",
+              "photo": "images/articles/bracelet-agate-grise-10-mm-mtefelii41a2.jpg",
+              "prixBoutique": 10.9,
+              "stock": 3
             }
           ]
         }

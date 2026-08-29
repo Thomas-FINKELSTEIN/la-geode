@@ -2956,7 +2956,17 @@
               "description": "Ce bracelet en cordiérite iolite, aussi appelée pierre des voyants, est composé de perles rondes et profondes aux reflets bleutés à violets. Selon la lithothérapie, cette pierre favorise la clarté mentale, la communication et l’intuition, tout en apaisant les tensions émotionnelles. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur confiance et leur connexion avec leur environnement.",
               "photo": "images/articles/bracelet-cordierite-iolite-10-mm-mtelz178zone.jpg",
               "prixBoutique": 22.6,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA9eTS9crLKsPZ",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet cordiérite iolite 10 MM",
+              "stripeDesc": "Ce bracelet en cordiérite iolite, aussi appelée pierre des voyants, est composé de perles rondes et profondes aux reflets bleutés à violets. Selon la lithothérapie, cette pierre favorise la clarté mentale, la communication et l’intuition, tout en apaisant les tensions émotionnelles. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur confiance et leur connexion avec leur environnement.",
+              "stripePriceId": "price_1U9pKtLOfCA5mATuGI1aqfNb",
+              "stripePrix": 23.62,
+              "stripeLinkId": "plink_1U9pKtLOfCA5mATuFRDCIhfn",
+              "stripe": "https://buy.stripe.com/3cI7sMbke0Bf4wo7lD2882M",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

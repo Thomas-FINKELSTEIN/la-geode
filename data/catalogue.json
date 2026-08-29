@@ -2729,16 +2729,25 @@
               "photo": "images/articles/bracelet-cristal-de-roche-6-mm-mtejwcfhwlt8.jpg",
               "prixBoutique": 14.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/8x27sMbkeabPd2UaxP2882z",
               "stripeProductId": "prod_VA8igb8BzF4KrH",
+              "stripePriceId": "price_1U9oQhLOfCA5mATuTtRHxClC",
+              "stripeLinkId": "plink_1U9oQhLOfCA5mATuewGDYkQS",
+              "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet cristal de roche 6 mm",
               "stripeDesc": "Pierre d'ancrage et amplificateur",
-              "stripePriceId": "price_1U9oQhLOfCA5mATuTtRHxClC",
-              "stripePrix": 15.66,
-              "stripeLinkId": "plink_1U9oQhLOfCA5mATuewGDYkQS",
-              "stripe": "https://buy.stripe.com/8x27sMbkeabPd2UaxP2882z",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-cristal-de-roche-cabochon-xl-mtejzjit7wvq",
+              "nom": "Bracelet cristal de roche cabochon xl",
+              "prix": 28.17,
+              "description": "Ce bracelet en cristal de roche cabochon apporte une touche élégante et lumineuse à votre quotidien. En lithothérapie, cette pierre est souvent associée à la purification de l’énergie, à la clarté mentale et à l’harmonisation des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur bien-être et leur équilibre intérieur.",
+              "photo": "images/articles/bracelet-cristal-de-roche-cabochon-xl-mtejzjitsomn.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         }

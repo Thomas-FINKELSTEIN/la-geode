@@ -2253,7 +2253,17 @@
               "description": "Ce bracelet en bronzite est composé de perles lisses et sombres aux reflets dorés, parfait pour un style sobre et élégant. La bronzite est une pierre souvent utilisée en lithothérapie pour renforcer la détermination et apporter un soutien dans les moments de doute. Elle est aussi réputée pour favoriser la concentration et équilibrer les énergies, tout en apaisant les tensions émotionnelles.",
               "photo": "images/articles/bracelet-bronzite-10-mm-mte6f71ur46u.jpg",
               "prixBoutique": 15.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VA2cryVrwyPqbT",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Bronzite 10 mm",
+              "stripeDesc": "Ce bracelet en bronzite est composé de perles lisses et sombres aux reflets dorés, parfait pour un style sobre et élégant. La bronzite est une pierre souvent utilisée en lithothérapie pour renforcer la détermination et apporter un soutien dans les moments de doute. Elle est aussi réputée pour favoriser la concentration et équilibrer les énergies, tout en apaisant les tensions émotionnelles.",
+              "stripePriceId": "price_1U9iXaLOfCA5mATu4xpCenAV",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1U9iXaLOfCA5mATuEbu21EXD",
+              "stripe": "https://buy.stripe.com/cNi14obke2Jn5As21j2882a",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

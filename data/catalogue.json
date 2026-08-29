@@ -2197,16 +2197,25 @@
               "photo": "images/articles/bracelet-agate-crazy-lace-4-mm-mte3ko3lrjf5.jpg",
               "prixBoutique": 7.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI6oI882es5aUM0Xf28827",
               "stripeProductId": "prod_VA1L2ziOyU5bJo",
+              "stripePriceId": "price_1U9hIYLOfCA5mATubPBEmlie",
+              "stripeLinkId": "plink_1U9hIYLOfCA5mATu6840oRkz",
+              "stripePrix": 8.43,
               "stripeMode": "live",
               "stripeNom": "Bracelet agate crazy lace 4 mm",
               "stripeDesc": "Ce bracelet en agate crazy lace est un véritable trésor de couleurs et de motifs uniques, où se mêlent des nuances douces et des éclats lumineux. En lithothérapie, l'agate crazy lace est souvent associée à l'équilibre émotionnel et à la protection, aidant à apaiser les tensions et à renforcer la confiance en soi. Parfait pour un usage quotidien, il apporte une touche d'harmonie et de douceur à votre quotidien.",
-              "stripePriceId": "price_1U9hIYLOfCA5mATubPBEmlie",
-              "stripePrix": 8.43,
-              "stripeLinkId": "plink_1U9hIYLOfCA5mATu6840oRkz",
-              "stripe": "https://buy.stripe.com/3cI6oI882es5aUM0Xf28827",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-amazonite-8-mm-mte3qaexlror",
+              "nom": "Bracelet amazonite 8 mm",
+              "prix": 10.5,
+              "description": "Ce bracelet en amazonite est composé de perles naturelles aux reflets verts et bleus apaisants. La pierre amazonite est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les tensions et à renforcer la confiance en soi. Porté au quotidien, il apporte une énergie harmonieuse et favorise la connexion avec ses aspirations profondes. Aide à la communication, confiance en soi, équilibre et protection",
+              "photo": "images/articles/bracelet-amazonite-8-mm-mte3qaextet8.jpg",
+              "prixBoutique": 9.9,
+              "stock": 3
             }
           ]
         }

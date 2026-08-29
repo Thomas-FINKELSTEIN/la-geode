@@ -2178,16 +2178,25 @@
               "photo": "images/articles/bracelet-labradorite-10-mm-mte3gci9gf95.jpg",
               "prixBoutique": 15.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/6oU28s5ZUdo1bYQ0Xf28826",
               "stripeProductId": "prod_VA1HV87RAFG6Ju",
+              "stripePriceId": "price_1U9hFBLOfCA5mATuYAzyPKb5",
+              "stripeLinkId": "plink_1U9hFBLOfCA5mATuoMINXSxw",
+              "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet labradorite 10 mm",
               "stripeDesc": "Ce bracelet en labradorite est composé de perles rondes et lumineuses qui captent la lumière pour créer des reflets bleutés et dorés. La labradorite est souvent appelée la pierre de magie et de mystère, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Porté au quotidien, il favorise l’intuition et aide à trouver un équilibre émotionnel tout en apportant une touche d’élégance naturelle. Pierre du médecin ou aide soignant , personnes ayant trop d' ampathie.",
-              "stripePriceId": "price_1U9hFBLOfCA5mATuYAzyPKb5",
-              "stripePrix": 16.7,
-              "stripeLinkId": "plink_1U9hFBLOfCA5mATuoMINXSxw",
-              "stripe": "https://buy.stripe.com/6oU28s5ZUdo1bYQ0Xf28826",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-agate-crazy-lace-4-mm-mte3ko3ll36q",
+              "nom": "Bracelet agate crazy lace 4 mm",
+              "prix": 8.43,
+              "description": "Ce bracelet en agate crazy lace est un véritable trésor de couleurs et de motifs uniques, où se mêlent des nuances douces et des éclats lumineux. En lithothérapie, l'agate crazy lace est souvent associée à l'équilibre émotionnel et à la protection, aidant à apaiser les tensions et à renforcer la confiance en soi. Parfait pour un usage quotidien, il apporte une touche d'harmonie et de douceur à votre quotidien.",
+              "photo": "images/articles/bracelet-agate-crazy-lace-4-mm-mte3ko3lrjf5.jpg",
+              "prixBoutique": 7.9,
+              "stock": 1
             }
           ]
         }

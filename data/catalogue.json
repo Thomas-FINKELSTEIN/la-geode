@@ -2324,7 +2324,7 @@
             },
             {
               "id": "biotite-8-mm-mteewrq1yy3k",
-              "nom": "Biotite 8 mm",
+              "nom": "Bracelet biotite 8 mm",
               "prix": 34.27,
               "description": "La biotite permet au corps de retrouver son équilibre, pierre apportant la sérénité",
               "photo": "images/articles/biotite-8-mm-mteewrq18d91.jpg",
@@ -2539,14 +2539,14 @@
               "photo": "images/articles/bracelet-labradorite-8-mm-mteg68yqy0h9.jpg",
               "prixBoutique": 14.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/00waEYgEy83H6EwcFX2882p",
               "stripeProductId": "prod_VA71jGee8RNip1",
+              "stripePriceId": "price_1U9mnnLOfCA5mATuDo6IclDF",
+              "stripeLinkId": "plink_1U9mnoLOfCA5mATuAJyebkhg",
+              "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet labradorite 8 mm",
               "stripeDesc": "Pierre idéale pour médecins, infirmier ou aide soignants, elle accompagne son porteur et lui permet d'équilibrer son ampathie afin de ne pas sombrer",
-              "stripePriceId": "price_1U9mnnLOfCA5mATuDo6IclDF",
-              "stripePrix": 15.66,
-              "stripeLinkId": "plink_1U9mnoLOfCA5mATuAJyebkhg",
-              "stripe": "https://buy.stripe.com/00waEYgEy83H6EwcFX2882p",
               "stripeStock": 4,
               "epuise": false
             }

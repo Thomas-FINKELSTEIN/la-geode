@@ -2710,16 +2710,25 @@
               "photo": "images/articles/bracelet-cristal-de-roche-12-mm-mtejsx1xnjwv.jpg",
               "prixBoutique": 16.5,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/7sY6oIgEy6ZDgf65dv2882y",
               "stripeProductId": "prod_VA8f1QlSAoV17Z",
+              "stripePriceId": "price_1U9oO6LOfCA5mATupBSucC67",
+              "stripeLinkId": "plink_1U9oO6LOfCA5mATuBywv3hU1",
+              "stripePrix": 17.32,
               "stripeMode": "live",
               "stripeNom": "Bracelet cristal de roche 12 mm",
               "stripeDesc": "Pierre d'ancrage , elle permet de garder un équilibre , elle est aussi un amplificateur pour les autres pierres .",
-              "stripePriceId": "price_1U9oO6LOfCA5mATupBSucC67",
-              "stripePrix": 17.32,
-              "stripeLinkId": "plink_1U9oO6LOfCA5mATuBywv3hU1",
-              "stripe": "https://buy.stripe.com/7sY6oIgEy6ZDgf65dv2882y",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-cristal-de-roche-6-mm-mtejwcfh7tx3",
+              "nom": "Bracelet cristal de roche 6 mm",
+              "prix": 15.66,
+              "description": "Pierre d'ancrage et amplificateur",
+              "photo": "images/articles/bracelet-cristal-de-roche-6-mm-mtejwcfhwlt8.jpg",
+              "prixBoutique": 14.9,
+              "stock": 2
             }
           ]
         }

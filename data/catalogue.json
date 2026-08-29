@@ -2216,16 +2216,25 @@
               "photo": "images/articles/bracelet-amazonite-8-mm-mte3qaextet8.jpg",
               "prixBoutique": 9.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/5kQ4gAewqes57IAaxP28828",
               "stripeProductId": "prod_VA1PqJGkdtxM9V",
+              "stripePriceId": "price_1U9hMgLOfCA5mATuVu3CTSnn",
+              "stripeLinkId": "plink_1U9hMgLOfCA5mATu1FJP2Eu9",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet amazonite 8 mm",
               "stripeDesc": "Ce bracelet en amazonite est composé de perles naturelles aux reflets verts et bleus apaisants. La pierre amazonite est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les tensions et à renforcer la confiance en soi. Porté au quotidien, il apporte une énergie harmonieuse et favorise la connexion avec ses aspirations profondes. Aide à la communication, confiance en soi, équilibre et protection",
-              "stripePriceId": "price_1U9hMgLOfCA5mATuVu3CTSnn",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1U9hMgLOfCA5mATu1FJP2Eu9",
-              "stripe": "https://buy.stripe.com/5kQ4gAewqes57IAaxP28828",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-bronzite-6-mm-mte6bw43n9ze",
+              "nom": "Bracelet Bronzite 6 mm",
+              "prix": 13.6,
+              "description": "Le bracelet en bronzite est un accessoire élégant et naturel, composé de perles lisses aux reflets dorés et bruns. Cette pierre, souvent appelée pierre de protection, est réputée pour renforcer la confiance en soi et apporter un sentiment de sécurité intérieure. Idéal pour une utilisation quotidienne, il est parfait pour ceux qui cherchent à équilibrer leurs énergies et à cultiver une attitude positive. Ancrage énergétique, équilibre mental.",
+              "photo": "images/articles/bracelet-bronzite-6-mm-mte6bw43gx25.jpg",
+              "prixBoutique": 12.9,
+              "stock": 2
             }
           ]
         }

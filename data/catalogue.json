@@ -2748,16 +2748,25 @@
               "photo": "images/articles/bracelet-cristal-de-roche-cabochon-xl-mtejzjitsomn.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI28sgEy3Nrfb2fS92882A",
               "stripeProductId": "prod_VA8kW43E2sebeP",
+              "stripePriceId": "price_1U9oT4LOfCA5mATuw5ff7YMi",
+              "stripeLinkId": "plink_1U9oT4LOfCA5mATu3izbqCrJ",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Bracelet cristal de roche cabochon xl",
               "stripeDesc": "Ce bracelet en cristal de roche cabochon apporte une touche élégante et lumineuse à votre quotidien. En lithothérapie, cette pierre est souvent associée à la purification de l’énergie, à la clarté mentale et à l’harmonisation des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur bien-être et leur équilibre intérieur.",
-              "stripePriceId": "price_1U9oT4LOfCA5mATuw5ff7YMi",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1U9oT4LOfCA5mATu3izbqCrJ",
-              "stripe": "https://buy.stripe.com/3cI28sgEy3Nrfb2fS92882A",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-calcedoine-6-mm-mtek8lytj7sw",
+              "nom": "Bracelet calcédoine 6 mm",
+              "prix": 28.02,
+              "description": "Ce bracelet en calcédoine, pierre douce et apaisante, est un allié précieux pour harmoniser vos émotions et favoriser la sérénité au quotidien. Connue pour ses vertus équilibrantes, elle aide à apaiser les tensions et à renforcer la connexion à soi-même. Parfait pour un port continu, il diffuse une énergie calme et protectrice, idéale pour les moments de stress ou de réflexion.",
+              "photo": "images/articles/bracelet-calcedoine-6-mm-mtek8lytly3o.jpg",
+              "prixBoutique": 26.85,
+              "stock": 3
             }
           ]
         }

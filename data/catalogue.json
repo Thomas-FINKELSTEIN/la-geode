@@ -2899,7 +2899,17 @@
               "description": "Ce bracelet en diopside, composé de perles de 8 millimètres, est une pièce élégante et naturelle qui capte immédiatement l'attention. Le diopside est souvent associé à la vitalité et à la transformation, aidant à renforcer la confiance en soi et à équilibrer les émotions. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à apporter une touche de bien-être à leur style.",
               "photo": "images/articles/bracelet-diopside-8-mm-mtel33fcinuj.jpg",
               "prixBoutique": 13.5,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VA9FV7nhUe3Akz",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Diopside 8 mm",
+              "stripeDesc": "Ce bracelet en diopside, composé de perles de 8 millimètres, est une pièce élégante et naturelle qui capte immédiatement l'attention. Le diopside est souvent associé à la vitalité et à la transformation, aidant à renforcer la confiance en soi et à équilibrer les émotions. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à apporter une touche de bien-être à leur style.",
+              "stripePriceId": "price_1U9owpLOfCA5mATuVvnMDN0F",
+              "stripePrix": 14.22,
+              "stripeLinkId": "plink_1U9owpLOfCA5mATu9EzlGpJp",
+              "stripe": "https://buy.stripe.com/3cI7sM5ZU4Rv3skeO52882I",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

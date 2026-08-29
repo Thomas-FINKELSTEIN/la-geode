@@ -52,7 +52,8 @@
     sha: null,
     univers: 'mineraux',
     nbModifs: 0,
-    pendingPhotos: {}
+    pendingPhotos: {},
+    rayonsOuverts: {}
   };
 
   var $ = function (id) { return document.getElementById(id); };
@@ -511,60 +512,79 @@
     var guide = document.createElement('p');
     guide.className = 'hint';
     guide.style.margin = '4px 0 0';
-    guide.textContent = '2. Voici les rayons de cet univers. Ouvrez un rayon pour y ajouter ou modifier des articles.';
+    guide.textContent = '2. Voici les rayons de cet univers. Cliquez sur un rayon pour dérouler ses articles ; le bouton « Ajouter un article » reste toujours visible.';
     contenu.appendChild(guide);
 
     (theme.familles || []).forEach(function (fam) {
       var carte = document.createElement('div');
       carte.className = 'rayon';
 
+      var n = (fam.articles || []).length;
+      // Rayon plié par défaut ; on garde ouverts ceux que la gérante a déroulés
+      // (mémorisés dans state) et les rayons vides (pour voir le bouton d'ajout).
+      var ouvert = !!state.rayonsOuverts[fam.id] || n === 0;
+
       var tete = document.createElement('div');
       tete.className = 'rayon-tete';
-      var n = (fam.articles || []).length;
+      tete.style.cursor = 'pointer';
       tete.innerHTML =
-        '<div style="flex:1;min-width:0">' +
+        '<div style="flex:1;min-width:0;display:flex;align-items:baseline;gap:10px">' +
+        '<span class="chevron" style="font-size:18px;color:var(--faded);line-height:1">' + (ouvert ? '▾' : '▸') + '</span>' +
+        '<div style="min-width:0">' +
         '<div class="etiq">Rayon</div>' +
         '<h3>' + esc(fam.nom) + '  <span style="color:var(--faded);font-size:16px;font-family:\'Jost\',sans-serif;font-weight:300">(' + n + ' article' + (n > 1 ? 's' : '') + ')</span></h3>' +
-        '</div>';
+        '</div></div>';
       var actionsRayon = document.createElement('div');
       actionsRayon.className = 'rayon-actions';
+      var btnAdd = document.createElement('button');
+      btnAdd.className = 'mini primary';
+      btnAdd.innerHTML = '<span class="plus">＋</span> Ajouter un article';
+      btnAdd.onclick = function (e) { e.stopPropagation(); state.rayonsOuverts[fam.id] = true; openArticleForm(fam, null); };
+      actionsRayon.appendChild(btnAdd);
       var btnRayon = document.createElement('button');
       btnRayon.className = 'mini';
       btnRayon.textContent = 'Renommer';
-      btnRayon.onclick = function () { openRayonForm(theme, fam); };
+      btnRayon.onclick = function (e) { e.stopPropagation(); openRayonForm(theme, fam); };
       actionsRayon.appendChild(btnRayon);
       var btnDel = document.createElement('button');
       btnDel.className = 'mini suppr';
       btnDel.textContent = 'Supprimer';
-      btnDel.onclick = function () { supprimerRayon(theme, fam); };
+      btnDel.onclick = function (e) { e.stopPropagation(); supprimerRayon(theme, fam); };
       actionsRayon.appendChild(btnDel);
       tete.appendChild(actionsRayon);
       carte.appendChild(tete);
+
+      // Corps repliable : slogan + articles (masqué quand le rayon est plié).
+      var corps = document.createElement('div');
+      corps.className = 'rayon-corps';
+      if (!ouvert) corps.classList.add('hidden');
 
       if (fam.slogan) {
         var sl = document.createElement('p');
         sl.className = 'rayon-slogan';
         sl.textContent = fam.slogan;
-        carte.appendChild(sl);
+        corps.appendChild(sl);
       }
 
-      (fam.articles || []).forEach(function (art) { carte.appendChild(articleRow(fam, art)); });
+      (fam.articles || []).forEach(function (art) { corps.appendChild(articleRow(fam, art)); });
 
       if (!n) {
         var vide = document.createElement('div');
         vide.className = 'rayon-vide';
-        vide.textContent = 'Ce rayon est encore vide. Cliquez sur le bouton ci-dessous pour y ajouter votre premier article.';
-        carte.appendChild(vide);
+        vide.textContent = 'Ce rayon est encore vide. Cliquez sur « Ajouter un article » ci-dessus pour votre premier article.';
+        corps.appendChild(vide);
       }
 
-      var add = document.createElement('div');
-      add.style.marginTop = '16px';
-      var btnAdd = document.createElement('button');
-      btnAdd.className = 'primary gros';
-      btnAdd.innerHTML = '<span class="plus">＋</span> Ajouter un article dans « ' + esc(fam.nom) + ' »';
-      btnAdd.onclick = function () { openArticleForm(fam, null); };
-      add.appendChild(btnAdd);
-      carte.appendChild(add);
+      carte.appendChild(corps);
+
+      // Clic sur l'en-tête (hors boutons) : plier / déplier le rayon.
+      tete.onclick = function (e) {
+        if (e.target.closest('button')) return;
+        var plie = corps.classList.toggle('hidden');
+        state.rayonsOuverts[fam.id] = !plie;
+        var chev = tete.querySelector('.chevron');
+        if (chev) chev.textContent = plie ? '▸' : '▾';
+      };
 
       contenu.appendChild(carte);
     });

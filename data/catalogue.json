@@ -2273,16 +2273,25 @@
               "photo": "images/articles/bracelet-agate-fossile-4-mm-mte6og5msthj.jpg",
               "prixBoutique": 10.9,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/8x228sbke3Nr2og35n2882b",
               "stripeProductId": "prod_VA2kCpCvHQHtcK",
+              "stripePriceId": "price_1U9ieWLOfCA5mATuDcBg7C05",
+              "stripeLinkId": "plink_1U9ieWLOfCA5mATu56uqYPRr",
+              "stripePrix": 11.53,
               "stripeMode": "live",
               "stripeNom": "Bracelet agate fossile 4 mm",
               "stripeDesc": "Ce bracelet en agate fossile associe la beauté des motifs organiques aux propriétés apaisantes de cette pierre naturelle. Traditionnellement utilisée pour favoriser la stabilité émotionnelle et renforcer la connexion à la terre, elle est idéale pour ceux qui cherchent à équilibrer leur énergie au quotidien. Ses couleurs douces et ses motifs uniques en font un accessoire à la fois élégant et porteur de bien-être. Ancrage, stabilité, clarté mentale, protection, symbolise souvent l'évolution, la mémoire et le lien à la terre",
-              "stripePriceId": "price_1U9ieWLOfCA5mATuDcBg7C05",
-              "stripePrix": 11.53,
-              "stripeLinkId": "plink_1U9ieWLOfCA5mATu56uqYPRr",
-              "stripe": "https://buy.stripe.com/8x228sbke3Nr2og35n2882b",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "b-mte6r4zwk9m9",
+              "nom": "Bracelet agate fossile 6 mm",
+              "prix": 13.6,
+              "description": "Ce bracelet en agate fossile associe la beauté des motifs organiques aux propriétés apaisantes de cette pierre naturelle. Traditionnellement utilisée en lithothérapie pour équilibrer les émotions et favoriser la sérénité, elle est idéale pour accompagner les moments de stress ou de transition. Ses couleurs douces et ses motifs uniques en font un accessoire à la fois élégant et porteur d'énergie positive au quotidien. Ancrage et stabilité, clarté mentale, protection.",
+              "photo": "images/articles/bracelet-agate-fossile-6-mm-mte70hg2bz3v.jpg",
+              "prixBoutique": 12.9,
+              "stock": 3
             }
           ]
         }

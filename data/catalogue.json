@@ -2842,7 +2842,17 @@
               "description": "Ce bracelet en labradorite est composé de perles aux reflets bleutés et dorés, captivants et changeants selon la lumière. La labradorite est souvent appelée pierre de magie et de transformation, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Porté au quotidien, il favorise l'équilibre émotionnel et stimule la créativité.",
               "photo": "images/articles/bracelet-labradorite-4-mm-mtektdb9wepp.jpg",
               "prixBoutique": 10.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA97UycM3AvMb7",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet labradorite 4 mm",
+              "stripeDesc": "Ce bracelet en labradorite est composé de perles aux reflets bleutés et dorés, captivants et changeants selon la lumière. La labradorite est souvent appelée pierre de magie et de transformation, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Porté au quotidien, il favorise l'équilibre émotionnel et stimule la créativité.",
+              "stripePriceId": "price_1U9opULOfCA5mATufcOSlSUe",
+              "stripePrix": 11.53,
+              "stripeLinkId": "plink_1U9opULOfCA5mATuWlnko5Bc",
+              "stripe": "https://buy.stripe.com/eVqdRadsm0Bf2og7lD2882F",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

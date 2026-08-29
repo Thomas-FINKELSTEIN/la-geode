@@ -2728,7 +2728,17 @@
               "description": "Pierre d'ancrage et amplificateur",
               "photo": "images/articles/bracelet-cristal-de-roche-6-mm-mtejwcfhwlt8.jpg",
               "prixBoutique": 14.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VA8igb8BzF4KrH",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet cristal de roche 6 mm",
+              "stripeDesc": "Pierre d'ancrage et amplificateur",
+              "stripePriceId": "price_1U9oQhLOfCA5mATuTtRHxClC",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1U9oQhLOfCA5mATuewGDYkQS",
+              "stripe": "https://buy.stripe.com/8x27sMbkeabPd2UaxP2882z",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

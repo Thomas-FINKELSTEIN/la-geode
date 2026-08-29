@@ -2063,7 +2063,17 @@
               "description": "Ce bracelet en améthyste dark est composé de perles rondes et lisses, parfait pour un style élégant et intemporel. L'améthyste est souvent utilisée en lithothérapie pour favoriser la sérénité, apaiser les émotions et renforcer la connexion spirituelle. Elle est idéale pour accompagner le deuil et votre quotidien en apportant calme et équilibre.",
               "photo": "images/articles/bracelet-amethyste-dark-6-mm-mte1b6gquh73.jpg",
               "prixBoutique": 12.9,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VA0JQZ9vPKVppG",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet améthyste dark 6 mm",
+              "stripeDesc": "Ce bracelet en améthyste dark est composé de perles rondes et lisses, parfait pour un style élégant et intemporel. L'améthyste est souvent utilisée en lithothérapie pour favoriser la sérénité, apaiser les émotions et renforcer la connexion spirituelle. Elle est idéale pour accompagner le deuil et votre quotidien en apportant calme et équilibre.",
+              "stripePriceId": "price_1U9gJ3LOfCA5mATuij29Ai3p",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1U9gJ3LOfCA5mATuZBFPqmQC",
+              "stripe": "https://buy.stripe.com/3cI14o73Ydo19QI5dv2881Z",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

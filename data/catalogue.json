@@ -2348,7 +2348,17 @@
               "description": "Ce bracelet en biotite est composé de perles rondes et lumineuses qui captent la lumière pour un effet élégant et naturel. La biotite est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la stabilité intérieure. Porté au quotidien, il aide à ancrer l’énergie et à renforcer la confiance en soi.",
               "photo": "images/articles/bracelet-biotite-6-mm-mtef2g3me99g.jpg",
               "prixBoutique": 22.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VA6W1DdF6keD6f",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Biotite 6 mm",
+              "stripeDesc": "Ce bracelet en biotite est composé de perles rondes et lumineuses qui captent la lumière pour un effet élégant et naturel. La biotite est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la stabilité intérieure. Porté au quotidien, il aide à ancrer l’énergie et à renforcer la confiance en soi.",
+              "stripePriceId": "price_1U9mJqLOfCA5mATud3AFtWmM",
+              "stripePrix": 23.93,
+              "stripeLinkId": "plink_1U9mJqLOfCA5mATuRYluKkkS",
+              "stripe": "https://buy.stripe.com/9B6fZi1JE5Vz8ME21j2882f",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

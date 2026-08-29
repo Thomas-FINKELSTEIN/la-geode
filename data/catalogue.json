@@ -2557,7 +2557,17 @@
               "description": "Ce bracelet en agate grise est un accessoire élégant et intemporel, composé de perles lisses et harmonieuses. L'agate grise est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la stabilité intérieure. Porté au quotidien, il est idéal pour ceux qui cherchent à cultiver une énergie paisible et un esprit clair.",
               "photo": "images/articles/bracelet-agate-grise-4-mm-mtegba1kq4x6.jpg",
               "prixBoutique": 5.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VA750PkZ4KuWdg",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Agate grise 4 mm",
+              "stripeDesc": "Ce bracelet en agate grise est un accessoire élégant et intemporel, composé de perles lisses et harmonieuses. L'agate grise est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la stabilité intérieure. Porté au quotidien, il est idéal pour ceux qui cherchent à cultiver une énergie paisible et un esprit clair.",
+              "stripePriceId": "price_1U9mrbLOfCA5mATu7UiMsdd3",
+              "stripePrix": 6.36,
+              "stripeLinkId": "plink_1U9mrbLOfCA5mATugDV66l1k",
+              "stripe": "https://buy.stripe.com/5kQ6oIagabfT8MEeO52882q",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

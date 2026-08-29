@@ -2709,7 +2709,17 @@
               "description": "Pierre d'ancrage , elle permet de garder un équilibre , elle est aussi un amplificateur pour les autres pierres .",
               "photo": "images/articles/bracelet-cristal-de-roche-12-mm-mtejsx1xnjwv.jpg",
               "prixBoutique": 16.5,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VA8f1QlSAoV17Z",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet cristal de roche 12 mm",
+              "stripeDesc": "Pierre d'ancrage , elle permet de garder un équilibre , elle est aussi un amplificateur pour les autres pierres .",
+              "stripePriceId": "price_1U9oO6LOfCA5mATupBSucC67",
+              "stripePrix": 17.32,
+              "stripeLinkId": "plink_1U9oO6LOfCA5mATuBywv3hU1",
+              "stripe": "https://buy.stripe.com/7sY6oIgEy6ZDgf65dv2882y",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

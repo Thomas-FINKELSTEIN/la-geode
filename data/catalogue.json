@@ -2254,16 +2254,25 @@
               "photo": "images/articles/bracelet-bronzite-10-mm-mte6f71ur46u.jpg",
               "prixBoutique": 15.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/cNi14obke2Jn5As21j2882a",
               "stripeProductId": "prod_VA2cryVrwyPqbT",
+              "stripePriceId": "price_1U9iXaLOfCA5mATu4xpCenAV",
+              "stripeLinkId": "plink_1U9iXaLOfCA5mATuEbu21EXD",
+              "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet Bronzite 10 mm",
               "stripeDesc": "Ce bracelet en bronzite est composé de perles lisses et sombres aux reflets dorés, parfait pour un style sobre et élégant. La bronzite est une pierre souvent utilisée en lithothérapie pour renforcer la détermination et apporter un soutien dans les moments de doute. Elle est aussi réputée pour favoriser la concentration et équilibrer les énergies, tout en apaisant les tensions émotionnelles.",
-              "stripePriceId": "price_1U9iXaLOfCA5mATu4xpCenAV",
-              "stripePrix": 16.7,
-              "stripeLinkId": "plink_1U9iXaLOfCA5mATuEbu21EXD",
-              "stripe": "https://buy.stripe.com/cNi14obke2Jn5As21j2882a",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-agate-fossile-4-mm-mte6og5mgw2e",
+              "nom": "Bracelet agate fossile 4 mm",
+              "prix": 11.53,
+              "description": "Ce bracelet en agate fossile associe la beauté des motifs organiques aux propriétés apaisantes de cette pierre naturelle. Traditionnellement utilisée pour favoriser la stabilité émotionnelle et renforcer la connexion à la terre, elle est idéale pour ceux qui cherchent à équilibrer leur énergie au quotidien. Ses couleurs douces et ses motifs uniques en font un accessoire à la fois élégant et porteur de bien-être. Ancrage, stabilité, clarté mentale, protection, symbolise souvent l'évolution, la mémoire et le lien à la terre",
+              "photo": "images/articles/bracelet-agate-fossile-4-mm-mte6og5msthj.jpg",
+              "prixBoutique": 10.9,
+              "stock": 5
             }
           ]
         }

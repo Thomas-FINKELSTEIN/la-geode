@@ -2785,7 +2785,17 @@
               "description": "Ce bracelet en calcédoine, aux belles teintes bleutées douces, est une pièce raffinée pour sublimer votre quotidien. La calcédoine est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à apaiser le mental et à favoriser la clarté d'esprit. Porté au poignet, il diffuse une énergie apaisante tout au long de la journée, tout en apportant une touche élégante et naturelle à votre style.",
               "photo": "images/articles/bracelet-calcedoine-8-mm-mtekd7rpjpfr.jpg",
               "prixBoutique": 39.85,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VA8vCD7mleRY7Z",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet calcédoine 8 mm",
+              "stripeDesc": "Ce bracelet en calcédoine, aux belles teintes bleutées douces, est une pièce raffinée pour sublimer votre quotidien. La calcédoine est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à apaiser le mental et à favoriser la clarté d'esprit. Porté au poignet, il diffuse une énergie apaisante tout au long de la journée, tout en apportant une touche élégante et naturelle à votre style.",
+              "stripePriceId": "price_1U9odLLOfCA5mATu4diK4KZ2",
+              "stripePrix": 41.45,
+              "stripeLinkId": "plink_1U9odMLOfCA5mATu5ewOrPC1",
+              "stripe": "https://buy.stripe.com/8x200kcoicjX1kccFX2882C",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

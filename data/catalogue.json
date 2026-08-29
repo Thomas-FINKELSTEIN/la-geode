@@ -2462,7 +2462,17 @@
               "description": "Ce bracelet en agate fossile met en valeur des motifs uniques et organiques, créés naturellement au fil des millénaires. Connue pour ses vertus apaisantes, cette pierre aide à retrouver un équilibre émotionnel et à rester concentré dans les moments de tension ou de changement. Parfait pour un port quotidien, il allie douceur et énergie positive au quotidien.",
               "photo": "images/articles/bracelet-agate-fossile-10-mm-mtefqodvdud0.jpg",
               "prixBoutique": 11.5,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VA6pXx1nYUw73D",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet agate fossile 10 mm",
+              "stripeDesc": "Ce bracelet en agate fossile met en valeur des motifs uniques et organiques, créés naturellement au fil des millénaires. Connue pour ses vertus apaisantes, cette pierre aide à retrouver un équilibre émotionnel et à rester concentré dans les moments de tension ou de changement. Parfait pour un port quotidien, il allie douceur et énergie positive au quotidien.",
+              "stripePriceId": "price_1U9mc1LOfCA5mATuMgkWyDF7",
+              "stripePrix": 12.15,
+              "stripeLinkId": "plink_1U9mc1LOfCA5mATu9ernxXsv",
+              "stripe": "https://buy.stripe.com/9B68wQ73Y3Nr5AsgWd2882l",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

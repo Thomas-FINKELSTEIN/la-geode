@@ -2093,6 +2093,15 @@
               "stripe": "https://buy.stripe.com/6oU3cw2NI4Rvgf6eO528821",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "bracelet-amethyste-dark-10-mm-mte1u336sz9h",
+              "nom": "Bracelet Améthyste dark 10 mm",
+              "prix": 18.35,
+              "description": "Ce bracelet en améthyste dark offre une élégance raffinée grâce à ses pierres aux reflets profonds et apaisants. En lithothérapie, l’améthyste est souvent utilisée pour favoriser la sérénité, apaiser les émotions et renforcer la concentration. Parfait pour un usage quotidien, il apporte une touche de bien-être et d’harmonie à votre quotidien. Pierre accompagnant le deuil et les addictions.",
+              "photo": "images/articles/bracelet-amethyste-dark-10-mm-mte1u337r064.jpg",
+              "prixBoutique": 17.5,
+              "stock": 4
             }
           ]
         }

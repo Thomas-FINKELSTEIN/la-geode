@@ -2747,7 +2747,17 @@
               "description": "Ce bracelet en cristal de roche cabochon apporte une touche élégante et lumineuse à votre quotidien. En lithothérapie, cette pierre est souvent associée à la purification de l’énergie, à la clarté mentale et à l’harmonisation des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur bien-être et leur équilibre intérieur.",
               "photo": "images/articles/bracelet-cristal-de-roche-cabochon-xl-mtejzjitsomn.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA8kW43E2sebeP",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet cristal de roche cabochon xl",
+              "stripeDesc": "Ce bracelet en cristal de roche cabochon apporte une touche élégante et lumineuse à votre quotidien. En lithothérapie, cette pierre est souvent associée à la purification de l’énergie, à la clarté mentale et à l’harmonisation des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur bien-être et leur équilibre intérieur.",
+              "stripePriceId": "price_1U9oT4LOfCA5mATuw5ff7YMi",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1U9oT4LOfCA5mATu3izbqCrJ",
+              "stripe": "https://buy.stripe.com/3cI28sgEy3Nrfb2fS92882A",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

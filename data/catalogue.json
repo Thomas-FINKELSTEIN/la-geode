@@ -2121,16 +2121,25 @@
               "photo": "images/articles/bracelet-aigue-marine-6-mm-mte2wi82rpwg.jpg",
               "prixBoutique": 24.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY00kagaabP5As8pH28823",
               "stripeProductId": "prod_VA128F3uAsWCbb",
+              "stripePriceId": "price_1U9h0DLOfCA5mATuwz2q7fiu",
+              "stripeLinkId": "plink_1U9h0DLOfCA5mATujWXre21z",
+              "stripePrix": 26,
               "stripeMode": "live",
               "stripeNom": "Bracelet aigue marine 6 mm",
               "stripeDesc": "Ce bracelet en perles d’aigue marine naturelle offre une élégance discrète et intemporelle. Ses teintes bleutées douces sont réputées pour apaiser les émotions et agit sur le système respiratoire , méditation et harmonie du couple.",
-              "stripePriceId": "price_1U9h0DLOfCA5mATuwz2q7fiu",
-              "stripePrix": 26,
-              "stripeLinkId": "plink_1U9h0DLOfCA5mATujWXre21z",
-              "stripe": "https://buy.stripe.com/7sY00kagaabP5As8pH28823",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-aigue-marine-4mm-mte36649q1rx",
+              "nom": "Bracelet aigue marine 4mm",
+              "prix": 17.73,
+              "description": "L'aigue marine favorise le calme et la sérénité. Associé à l'expression claire des émotions et des idées. Aide à surmonter la timidité et les peurs, apporte équilibre émotionnel, détente et harmonie.",
+              "photo": "images/articles/bracelet-aigue-marine-4mm-mte36649hnh3.jpg",
+              "prixBoutique": 16.9,
+              "stock": 2
             }
           ]
         }

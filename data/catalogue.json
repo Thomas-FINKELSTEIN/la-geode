@@ -2937,7 +2937,17 @@
               "description": "Ce bracelet en cordiérite iolite, aussi appelée pierre des voyants, est un accessoire élégant et raffiné qui capte immédiatement l'attention. En lithothérapie, cette pierre est souvent associée à une énergie apaisante et à une ouverture spirituelle, aidant à clarifier les pensées et à renforcer la confiance en soi. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver une connexion plus profonde avec leur intuition.",
               "photo": "images/articles/bracelet-cordierite-iolite-6-mm-mtelv3vap2us.jpg",
               "prixBoutique": 12.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA9bLciTQmgiII",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet cordiérite iolite 6 mm",
+              "stripeDesc": "Ce bracelet en cordiérite iolite, aussi appelée pierre des voyants, est un accessoire élégant et raffiné qui capte immédiatement l'attention. En lithothérapie, cette pierre est souvent associée à une énergie apaisante et à une ouverture spirituelle, aidant à clarifier les pensées et à renforcer la confiance en soi. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver une connexion plus profonde avec leur intuition.",
+              "stripePriceId": "price_1U9pHvLOfCA5mATuQSin3kna",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1U9pHvLOfCA5mATuKGis4HF2",
+              "stripe": "https://buy.stripe.com/fZufZi73Y4Rv9QIgWd2882K",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

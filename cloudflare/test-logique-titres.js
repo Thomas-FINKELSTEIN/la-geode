@@ -389,6 +389,16 @@ const RAYON_MIXTE = ['Amethyste Donut 3cm', 'Hematite Donut 3cm', 'Quartz rose B
   egal('S34 pierre seule : le type IA complete le titre', r.titre, 'Amethyste Boule');
 })();
 
+/* S35 : le titre final commence toujours par une majuscule, meme quand la
+   vendeuse a tape en minuscules une pierre nue sans gamme a copier
+   (cas reel "shungite 3cm" du rayon Pendentifs). */
+(function () {
+  const r = bac.construireReponse(
+    ia({ produit: 'Shungite', type: '', dimension: '3cm', description: 'd' }),
+    'shungite 3cm', '', []);
+  egal('S35 titre pierre nue en minuscules : capitale initiale', r.titre, 'Shungite 3cm');
+})();
+
 console.log('');
 console.log(rates === 0
   ? 'TOUS LES TESTS PASSENT (' + total + ' verifications)'

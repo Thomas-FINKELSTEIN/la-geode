@@ -776,6 +776,7 @@ function construireReponse(texte, titreActuel, descActuelle, exemples) {
   }
 
   titre = appliquerGardeFous(titre, titreActuel);
+  titre = majuscule(titre);   // un titre produit commence toujours par une capitale
   return { titre: titre, description: description };
 }
 

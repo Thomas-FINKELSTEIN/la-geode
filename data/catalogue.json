@@ -2615,16 +2615,25 @@
               "photo": "images/articles/bracelet-angelite-8-mm-mtegy8gatkfk.jpg",
               "prixBoutique": 15,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM8wQ4VQ0Bf3skeO52882t",
               "stripeProductId": "prod_VA7NpBYYtbKxjs",
+              "stripePriceId": "price_1U9n8qLOfCA5mATu9zxTZl9b",
+              "stripeLinkId": "plink_1U9n8qLOfCA5mATuTB7B7tBV",
+              "stripePrix": 15.77,
               "stripeMode": "live",
               "stripeNom": "Bracelet angélite 8 mm",
               "stripeDesc": "Ce bracelet en angélite est composé de perles douces et apaisantes, parfaites pour une touche délicate et élégante. L'angélite est souvent associée à la purification des émotions et à la connexion avec les énergies divines, favorisant ainsi la sérénité et la clarté mentale. Idéal pour porter au quotidien, il apporte une énergie apaisante et une harmonie subtile à votre quotidien.",
-              "stripePriceId": "price_1U9n8qLOfCA5mATu9zxTZl9b",
-              "stripePrix": 15.77,
-              "stripeLinkId": "plink_1U9n8qLOfCA5mATuTB7B7tBV",
-              "stripe": "https://buy.stripe.com/4gM8wQ4VQ0Bf3skeO52882t",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-calcite-orange-8-mm-mteimrql3iwj",
+              "nom": "Bracelet calcite orange 8 mm",
+              "prix": 29.05,
+              "description": "La calcite orange amène joie et optimisme, vitalité et motivation, créativité, la confiance en soi, elle apporte aussi énergie et dynamisme",
+              "photo": "images/articles/bracelet-calcite-orange-8-mm-mteimrqlffns.jpg",
+              "prixBoutique": 27.85,
+              "stock": 4
             }
           ]
         }

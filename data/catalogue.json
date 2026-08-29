@@ -2120,7 +2120,17 @@
               "description": "Ce bracelet en perles d’aigue marine naturelle offre une élégance discrète et intemporelle. Ses teintes bleutées douces sont réputées pour apaiser les émotions et agit sur le système respiratoire , méditation et harmonie du couple.",
               "photo": "images/articles/bracelet-aigue-marine-6-mm-mte2wi82rpwg.jpg",
               "prixBoutique": 24.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA128F3uAsWCbb",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet aigue marine 6 mm",
+              "stripeDesc": "Ce bracelet en perles d’aigue marine naturelle offre une élégance discrète et intemporelle. Ses teintes bleutées douces sont réputées pour apaiser les émotions et agit sur le système respiratoire , méditation et harmonie du couple.",
+              "stripePriceId": "price_1U9h0DLOfCA5mATuwz2q7fiu",
+              "stripePrix": 26,
+              "stripeLinkId": "plink_1U9h0DLOfCA5mATujWXre21z",
+              "stripe": "https://buy.stripe.com/7sY00kagaabP5As8pH28823",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

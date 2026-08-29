@@ -2595,7 +2595,17 @@
               "description": "Ce bracelet en angélite est un accessoire délicat et apaisant, composé de perles douces et lumineuses. L'angélite est souvent associée à la sérénité et à la purification des énergies, aidant à apaiser l'esprit et à favoriser un état de calme intérieur. Parfait pour une touche élégante tout en bénéficiant de ses vertus harmonisantes au quotidien. Une ouverture au chemin de vie de vie ,ancrage.",
               "photo": "images/articles/bracelet-angelite-10-mm-mtegu6yavizw.jpg",
               "prixBoutique": 17.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA7KmnQdi3fmkT",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet angélite 10 mm",
+              "stripeDesc": "Ce bracelet en angélite est un accessoire délicat et apaisant, composé de perles douces et lumineuses. L'angélite est souvent associée à la sérénité et à la purification des énergies, aidant à apaiser l'esprit et à favoriser un état de calme intérieur. Parfait pour une touche élégante tout en bénéficiant de ses vertus harmonisantes au quotidien. Une ouverture au chemin de vie de vie ,ancrage.",
+              "stripePriceId": "price_1U9n5pLOfCA5mATu7NwkeEns",
+              "stripePrix": 18.76,
+              "stripeLinkId": "plink_1U9n5pLOfCA5mATugdj78Odg",
+              "stripe": "https://buy.stripe.com/dRm28sfAubfTfb2gWd2882s",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

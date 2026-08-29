@@ -2405,7 +2405,17 @@
               "description": "Ce bracelet en agate grise apporte une énergie apaisante et équilibrante, idéale pour calmer le stress et favoriser la sérénité au quotidien. Associée traditionnellement à la stabilité émotionnelle, cette pierre douce et harmonieuse est parfaite pour porter en toute circonstance. Son toucher lisse et sa couleur discrète en font un allié subtil pour le bien-être mental et physique.",
               "photo": "images/articles/bracelet-agate-grise-10-mm-mtefelii41a2.jpg",
               "prixBoutique": 10.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VA6gpVn8AMU1i4",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Agate grise 10 mm",
+              "stripeDesc": "Ce bracelet en agate grise apporte une énergie apaisante et équilibrante, idéale pour calmer le stress et favoriser la sérénité au quotidien. Associée traditionnellement à la stabilité émotionnelle, cette pierre douce et harmonieuse est parfaite pour porter en toute circonstance. Son toucher lisse et sa couleur discrète en font un allié subtil pour le bien-être mental et physique.",
+              "stripePriceId": "price_1U9mSzLOfCA5mATuh7G7k587",
+              "stripePrix": 11.53,
+              "stripeLinkId": "plink_1U9mSzLOfCA5mATuqzjDPnYe",
+              "stripe": "https://buy.stripe.com/cNieVecoicjXfb25dv2882i",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

@@ -2481,7 +2481,17 @@
               "description": "Ce bracelet en agate fossile est composé de perles naturelles aux reflets dorés et aux motifs uniques, rappelant les trésors enfouis de la Terre. En lithothérapie, l’agate fossile est souvent associée à la stabilité émotionnelle, à la protection et à l’ancrage dans le quotidien. Parfait pour accompagner votre énergie au quotidien, ce bracelet apporte une touche élégante et apaisante à votre style.",
               "photo": "images/articles/bracelet-agate-fossile-4-mm-mteft9b51a1b.jpg",
               "prixBoutique": 7.5,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VA6rh273jftFQb",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet agate fossile 4 mm",
+              "stripeDesc": "Ce bracelet en agate fossile est composé de perles naturelles aux reflets dorés et aux motifs uniques, rappelant les trésors enfouis de la Terre. En lithothérapie, l’agate fossile est souvent associée à la stabilité émotionnelle, à la protection et à l’ancrage dans le quotidien. Parfait pour accompagner votre énergie au quotidien, ce bracelet apporte une touche élégante et apaisante à votre style.",
+              "stripePriceId": "price_1U9me1LOfCA5mATuafJDUZUQ",
+              "stripePrix": 8.02,
+              "stripeLinkId": "plink_1U9me1LOfCA5mATuNbE5x0Ie",
+              "stripe": "https://buy.stripe.com/5kQ4gA3RMes58ME35n2882m",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

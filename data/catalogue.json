@@ -2823,7 +2823,17 @@
               "description": "Ce bracelet en calcédoine haut de gamme allie élégance et douceur grâce à ses perles lisses et apaisantes. La calcédoine est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les émotions et renforcer la connexion à soi. Parfaite pour un port quotidien, elle apporte une énergie harmonieuse et apaisante au quotidien.",
               "photo": "images/articles/bracelet-calcedoine-haut-de-gamme-12-mm-mtekncr9uy4a.jpg",
               "prixBoutique": 54.85,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA934yxp2WAdjH",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet calcédoine haut de gamme 12 mm",
+              "stripeDesc": "Ce bracelet en calcédoine haut de gamme allie élégance et douceur grâce à ses perles lisses et apaisantes. La calcédoine est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les émotions et renforcer la connexion à soi. Parfaite pour un port quotidien, elle apporte une énergie harmonieuse et apaisante au quotidien.",
+              "stripePriceId": "price_1U9ol1LOfCA5mATuG6qdt6Z5",
+              "stripePrix": 56.96,
+              "stripeLinkId": "plink_1U9ol1LOfCA5mATu53pqfHwe",
+              "stripe": "https://buy.stripe.com/3cIeVeaga5Vz6EweO52882E",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

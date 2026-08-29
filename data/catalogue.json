@@ -2215,7 +2215,17 @@
               "description": "Ce bracelet en amazonite est composé de perles naturelles aux reflets verts et bleus apaisants. La pierre amazonite est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les tensions et à renforcer la confiance en soi. Porté au quotidien, il apporte une énergie harmonieuse et favorise la connexion avec ses aspirations profondes. Aide à la communication, confiance en soi, équilibre et protection",
               "photo": "images/articles/bracelet-amazonite-8-mm-mte3qaextet8.jpg",
               "prixBoutique": 9.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VA1PqJGkdtxM9V",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet amazonite 8 mm",
+              "stripeDesc": "Ce bracelet en amazonite est composé de perles naturelles aux reflets verts et bleus apaisants. La pierre amazonite est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les tensions et à renforcer la confiance en soi. Porté au quotidien, il apporte une énergie harmonieuse et favorise la connexion avec ses aspirations profondes. Aide à la communication, confiance en soi, équilibre et protection",
+              "stripePriceId": "price_1U9hMgLOfCA5mATuVu3CTSnn",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1U9hMgLOfCA5mATu1FJP2Eu9",
+              "stripe": "https://buy.stripe.com/5kQ4gAewqes57IAaxP28828",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

@@ -2672,16 +2672,25 @@
               "photo": "images/articles/bracelet-celestine-10-mm-mtejeez267vj.jpg",
               "prixBoutique": 49.8,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNieVe2NIbfT6Ew35n2882w",
               "stripeProductId": "prod_VA8UQb4A4B1F0W",
+              "stripePriceId": "price_1U9oDCLOfCA5mATuyO4q5vie",
+              "stripeLinkId": "plink_1U9oDCLOfCA5mATuVm1hSJXG",
+              "stripePrix": 51.74,
               "stripeMode": "live",
               "stripeNom": "Bracelet célestine 10 mm",
               "stripeDesc": "La célestine stabilise le mental, réduit le stress et donne de l'obtimisme",
-              "stripePriceId": "price_1U9oDCLOfCA5mATuyO4q5vie",
-              "stripePrix": 51.74,
-              "stripeLinkId": "plink_1U9oDCLOfCA5mATuVm1hSJXG",
-              "stripe": "https://buy.stripe.com/cNieVe2NIbfT6Ew35n2882w",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-cristal-de-roche-10-mm-mtejlb9h0hy8",
+              "nom": "Bracelet cristal de roche 10 mm",
+              "prix": 16.18,
+              "description": "Ce bracelet en cristal de roche est composé de perles translucides et lumineuses, parfaites pour apporter une touche d'élégance naturelle à votre quotidien. En lithothérapie, le cristal de roche est souvent associé à la purification des énergies et à l’amplification des intentions, aidant à clarifier l’esprit et à renforcer la concentration. Un accessoire raffiné pour cultiver sérénité et équilibre au quotidien.",
+              "photo": "images/articles/bracelet-cristal-de-roche-10-mm-mtejlb9hux0z.jpg",
+              "prixBoutique": 15.4,
+              "stock": 1
             }
           ]
         }

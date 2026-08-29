@@ -2329,7 +2329,17 @@
               "description": "La biotite permet au corps de retrouver son équilibre, pierre apportant la sérénité",
               "photo": "images/articles/biotite-8-mm-mteewrq18d91.jpg",
               "prixBoutique": 32.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA6SvLwEhmOAgN",
+              "stripeMode": "live",
+              "stripeNom": "Biotite 8 mm",
+              "stripeDesc": "La biotite permet au corps de retrouver son équilibre, pierre apportant la sérénité",
+              "stripePriceId": "price_1U9mFVLOfCA5mATu5HmAbc54",
+              "stripePrix": 34.27,
+              "stripeLinkId": "plink_1U9mFVLOfCA5mATuPLXFmy7Z",
+              "stripe": "https://buy.stripe.com/cNicN65ZU83HaUMeO52882e",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

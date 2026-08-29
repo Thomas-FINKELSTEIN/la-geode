@@ -2786,16 +2786,25 @@
               "photo": "images/articles/bracelet-calcedoine-8-mm-mtekd7rpjpfr.jpg",
               "prixBoutique": 39.85,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/8x200kcoicjX1kccFX2882C",
               "stripeProductId": "prod_VA8vCD7mleRY7Z",
+              "stripePriceId": "price_1U9odLLOfCA5mATu4diK4KZ2",
+              "stripeLinkId": "plink_1U9odMLOfCA5mATu5ewOrPC1",
+              "stripePrix": 41.45,
               "stripeMode": "live",
               "stripeNom": "Bracelet calcédoine 8 mm",
               "stripeDesc": "Ce bracelet en calcédoine, aux belles teintes bleutées douces, est une pièce raffinée pour sublimer votre quotidien. La calcédoine est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à apaiser le mental et à favoriser la clarté d'esprit. Porté au poignet, il diffuse une énergie apaisante tout au long de la journée, tout en apportant une touche élégante et naturelle à votre style.",
-              "stripePriceId": "price_1U9odLLOfCA5mATu4diK4KZ2",
-              "stripePrix": 41.45,
-              "stripeLinkId": "plink_1U9odMLOfCA5mATu5ewOrPC1",
-              "stripe": "https://buy.stripe.com/8x200kcoicjX1kccFX2882C",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-calcedoine-gamme-superieure-10--mteklphpi115",
+              "nom": "Bracelet calcédoine gamme supérieure 10 mm",
+              "prix": 54.89,
+              "description": "Ce bracelet en calcédoine bleue offre une élégance naturelle et une énergie apaisante. La calcédoine est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les émotions et renforcer la connexion à soi-même. Parfait pour un port quotidien, il apporte une touche de douceur et de bien-être au quotidien.",
+              "photo": "images/articles/bracelet-calcedoine-gamme-superieure-10--mteklphp57nl.jpg",
+              "prixBoutique": 52.85,
+              "stock": 1
             }
           ]
         }

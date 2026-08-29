@@ -2918,7 +2918,17 @@
               "description": "Ce bracelet en cordiérite, aussi appelée iolite, est un accessoire élégant et raffiné qui met en valeur une pierre aux reflets bleutés et mystérieux. En lithothérapie, la cordiérite est souvent associée à une énergie apaisante et protectrice, aidant à clarifier les pensées et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à équilibrer leurs émotions et à favoriser une sérénité intérieure.",
               "photo": "images/articles/bracelet-cordierite-aaa-8-mm-mteln0snv6bj.jpg",
               "prixBoutique": 36.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VA9UhxoEYia04P",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet cordiérite  AAA 8 mm",
+              "stripeDesc": "Ce bracelet en cordiérite, aussi appelée iolite, est un accessoire élégant et raffiné qui met en valeur une pierre aux reflets bleutés et mystérieux. En lithothérapie, la cordiérite est souvent associée à une énergie apaisante et protectrice, aidant à clarifier les pensées et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à équilibrer leurs émotions et à favoriser une sérénité intérieure.",
+              "stripePriceId": "price_1U9pBsLOfCA5mATu005ss70J",
+              "stripePrix": 37.99,
+              "stripeLinkId": "plink_1U9pBsLOfCA5mATuBcg3CnOn",
+              "stripe": "https://buy.stripe.com/6oUdRabke0Bfd2U49r2882J",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

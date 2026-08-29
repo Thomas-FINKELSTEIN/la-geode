@@ -2310,7 +2310,17 @@
               "description": "Ce bracelet en agate mousse est un accessoire délicat et coloré, idéal pour apporter douceur et sérénité au quotidien. L’agate mousse, pierre apaisante, aide à équilibrer les émotions et à réduire le stress, tout en favorisant une énergie harmonieuse. Parfait pour un port continu, il s’intègre facilement dans une routine bien-être pour un moment de détente naturelle. Elle lutte contre la fatigue et les inflammations",
               "photo": "images/articles/bracelet-agate-mousse-4-mm-mteejnln79xb.jpg",
               "prixBoutique": 7.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VA6IPt7vE9IDoI",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet agate mousse 4 mm",
+              "stripeDesc": "Ce bracelet en agate mousse est un accessoire délicat et coloré, idéal pour apporter douceur et sérénité au quotidien. L’agate mousse, pierre apaisante, aide à équilibrer les émotions et à réduire le stress, tout en favorisant une énergie harmonieuse. Parfait pour un port continu, il s’intègre facilement dans une routine bien-être pour un moment de détente naturelle. Elle lutte contre la fatigue et les inflammations",
+              "stripePriceId": "price_1U9m5fLOfCA5mATu4xGP638y",
+              "stripePrix": 8.43,
+              "stripeLinkId": "plink_1U9m5fLOfCA5mATu3cCm8WvO",
+              "stripe": "https://buy.stripe.com/9B68wQcoi1FjaUM21j2882d",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

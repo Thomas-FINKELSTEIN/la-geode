@@ -2519,7 +2519,17 @@
               "description": "Ce bracelet en perles de labradorite de 6 mm joue avec la lumière pour révéler des éclats bleutés et dorés, offrant une énergie à la fois mystérieuse et apaisante. Considérée comme une pierre de protection et d’intuition, la labradorite est idéale pour renforcer la confiance en soi et équilibrer les émotions au quotidien. Parfait pour un port continu, il allie élégance naturelle et bien-être spirituel.",
               "photo": "images/articles/bracelet-labradorite-6-mm-mteg1ad6m0us.jpg",
               "prixBoutique": 12.9,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VA6xrpcSZIoz8e",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet labradorite 6 mm",
+              "stripeDesc": "Ce bracelet en perles de labradorite de 6 mm joue avec la lumière pour révéler des éclats bleutés et dorés, offrant une énergie à la fois mystérieuse et apaisante. Considérée comme une pierre de protection et d’intuition, la labradorite est idéale pour renforcer la confiance en soi et équilibrer les émotions au quotidien. Parfait pour un port continu, il allie élégance naturelle et bien-être spirituel.",
+              "stripePriceId": "price_1U9mjzLOfCA5mATuibBd26Wa",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1U9mk0LOfCA5mATunem9N7GU",
+              "stripe": "https://buy.stripe.com/cNi9AU3RM2JnbYQaxP2882o",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

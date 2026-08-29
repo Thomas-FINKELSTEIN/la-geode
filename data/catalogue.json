@@ -2576,7 +2576,17 @@
               "description": "Ce bracelet en fluorite multicolore allie élégance et énergie positive. La fluorite, pierre de la concentration et de la clarté mentale, est réputée pour renforcer la communication et équilibrer les émotions. Parfait pour accompagner votre quotidien, il apporte harmonie et vitalité à votre énergie.",
               "photo": "images/articles/bracelet-fluorite-multicolore-8-mm-mtegnf89u65h.jpg",
               "prixBoutique": 9.9,
-              "stock": 7
+              "stock": 7,
+              "stripeProductId": "prod_VA7FEIurDiHQsk",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet fluorite multicolore 8 mm",
+              "stripeDesc": "Ce bracelet en fluorite multicolore allie élégance et énergie positive. La fluorite, pierre de la concentration et de la clarté mentale, est réputée pour renforcer la communication et équilibrer les émotions. Parfait pour accompagner votre quotidien, il apporte harmonie et vitalité à votre énergie.",
+              "stripePriceId": "price_1U9n0fLOfCA5mATuLdOMJOnV",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1U9n0fLOfCA5mATu80WavnEY",
+              "stripe": "https://buy.stripe.com/cNieVecoi1Fj9QI0Xf2882r",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         }

@@ -2349,16 +2349,25 @@
               "photo": "images/articles/bracelet-biotite-6-mm-mtef2g3me99g.jpg",
               "prixBoutique": 22.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/9B6fZi1JE5Vz8ME21j2882f",
               "stripeProductId": "prod_VA6W1DdF6keD6f",
+              "stripePriceId": "price_1U9mJqLOfCA5mATud3AFtWmM",
+              "stripeLinkId": "plink_1U9mJqLOfCA5mATuRYluKkkS",
+              "stripePrix": 23.93,
               "stripeMode": "live",
               "stripeNom": "Bracelet Biotite 6 mm",
               "stripeDesc": "Ce bracelet en biotite est composé de perles rondes et lumineuses qui captent la lumière pour un effet élégant et naturel. La biotite est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la stabilité intérieure. Porté au quotidien, il aide à ancrer l’énergie et à renforcer la confiance en soi.",
-              "stripePriceId": "price_1U9mJqLOfCA5mATud3AFtWmM",
-              "stripePrix": 23.93,
-              "stripeLinkId": "plink_1U9mJqLOfCA5mATuRYluKkkS",
-              "stripe": "https://buy.stripe.com/9B6fZi1JE5Vz8ME21j2882f",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-agate-grise-6-mm-mtef7z35ngnp",
+              "nom": "Bracelet agate grise 6 mm",
+              "prix": 6.36,
+              "description": "L'agate grise permet de réguler les maux digestifs calme aussi les douleurs articulaires",
+              "photo": "images/articles/bracelet-agate-grise-6-mm-mtef7z35k9nj.jpg",
+              "prixBoutique": 5.9,
+              "stock": 3
             }
           ]
         }

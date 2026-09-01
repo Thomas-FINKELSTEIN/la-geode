@@ -3526,7 +3526,17 @@
               "description": "Ce bracelet en hématite baroque allie élégance et énergie protectrice. L'hématite est réputée pour renforcer la vitalité et ancrer les émotions, aidant à retrouver un équilibre intérieur. Parfait pour un usage quotidien, il apporte une touche naturelle et raffinée à votre style tout en vous accompagnant dans votre bien-être.",
               "photo": "images/articles/bracelet-hematite-baroque-mtiw3o1h3sxc.jpg",
               "prixBoutique": 3.5,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_VBHEIwaO3qJOHv",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet hématite baroque",
+              "stripeDesc": "Ce bracelet en hématite baroque allie élégance et énergie protectrice. L'hématite est réputée pour renforcer la vitalité et ancrer les émotions, aidant à retrouver un équilibre intérieur. Parfait pour un usage quotidien, il apporte une touche naturelle et raffinée à votre style tout en vous accompagnant dans votre bien-être.",
+              "stripePriceId": "price_1UAugHLOfCA5mATufwjbHVGu",
+              "stripePrix": 3.88,
+              "stripeLinkId": "plink_1UAugILOfCA5mATuYAPrKkPH",
+              "stripe": "https://buy.stripe.com/28E7sMewq5Vz9QI35n2883h",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

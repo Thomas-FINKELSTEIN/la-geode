@@ -3109,14 +3109,14 @@
               "photo": "images/articles/bracelet-fluorite-bleue-10-mm-mtihhvn33ol1.jpg",
               "prixBoutique": 34.2,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRmbJ2coi4Rv0g849r2882U",
               "stripeProductId": "prod_VBAd64ANzZ8lpi",
+              "stripePriceId": "price_1UAoIeLOfCA5mATusNV8mFsi",
+              "stripeLinkId": "plink_1UAoIfLOfCA5mATusyOQXFjM",
+              "stripePrix": 35.61,
               "stripeMode": "live",
               "stripeNom": "Bracelet fluorite bleue 10 mm",
               "stripeDesc": "Ce bracelet en fluorite bleue est un accessoire élégant et apaisant, parfait pour allier style et bien-être au quotidien. La fluorite, pierre de la clarté mentale, est réputée pour favoriser la concentration, équilibrer les émotions et renforcer la communication positive. Porté en lithothérapie, il aide à dissoudre les tensions et à retrouver sérénité et confiance en soi.",
-              "stripePriceId": "price_1UAoIeLOfCA5mATusNV8mFsi",
-              "stripePrix": 35.61,
-              "stripeLinkId": "plink_1UAoIfLOfCA5mATusyOQXFjM",
-              "stripe": "https://buy.stripe.com/dRmbJ2coi4Rv0g849r2882U",
               "stripeStock": 1,
               "epuise": false
             }
@@ -3197,6 +3197,22 @@
           "nom": "Objets déco",
           "slogan": "Une large gamme d'accessoires pour sublimer votre intérieur comme votre extérieur.",
           "articles": []
+        },
+        {
+          "id": "toile-murale-mtihsi3rvdpc",
+          "nom": "TOILE MURALE",
+          "slogan": "Des couleurs et des dessins unique pour décorer murs, dessus de lit",
+          "articles": [
+            {
+              "id": "tenture-bleue-147-x-208-mtii41682wyp",
+              "nom": "Tenture bleue 147 X 208",
+              "prix": 30.75,
+              "description": "Grande tenture qualité Tapestry 100% coton",
+              "photo": "images/articles/tenture-bleue-147-x-208-mtii4169c5xs.jpg",
+              "prixBoutique": 29.5,
+              "stock": 1
+            }
+          ]
         }
       ]
     }

@@ -3450,7 +3450,17 @@
               "description": "Ce bracelet en chrysoprase est un accessoire naturel et élégant qui apporte une touche de douceur à votre quotidien. La chrysoprase, pierre de croissance et de vitalité, est souvent utilisée en lithothérapie pour renforcer la confiance en soi et apaiser les émotions. Ses teintes vertes apaisantes en font un allié idéal pour harmoniser le cœur et l’esprit.",
               "photo": "images/articles/bracelet-chrysoprase-10-mm-mtiv3ytad2pc.jpg",
               "prixBoutique": 10.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBGnPStLpkoxlH",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet chrysoprase 10 mm",
+              "stripeDesc": "Ce bracelet en chrysoprase est un accessoire naturel et élégant qui apporte une touche de douceur à votre quotidien. La chrysoprase, pierre de croissance et de vitalité, est souvent utilisée en lithothérapie pour renforcer la confiance en soi et apaiser les émotions. Ses teintes vertes apaisantes en font un allié idéal pour harmoniser le cœur et l’esprit.",
+              "stripePriceId": "price_1UAuFRLOfCA5mATumtqhaI7r",
+              "stripePrix": 11.53,
+              "stripeLinkId": "plink_1UAuFRLOfCA5mATuPz6BzXx4",
+              "stripe": "https://buy.stripe.com/3cI28saga0Bffb28pH2883d",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

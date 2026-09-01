@@ -3051,7 +3051,17 @@
               "description": "Ce bracelet en fluorite multicolore est un accessoire à la fois élégant et chargé d'énergie positive. La fluorite, avec ses teintes variées, est réputée pour stimuler la concentration, équilibrer les émotions et renforcer la clarté mentale. Parfait pour une utilisation quotidienne, il apporte harmonie et vitalité à votre quotidien tout en sublimant votre style.",
               "photo": "images/articles/bracelet-fluorite-multicolore-roule-mtigyuq8ji8m.jpg",
               "prixBoutique": 9.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VBAP2CZAgwLAOf",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet fluorite multicolore roulé",
+              "stripeDesc": "Ce bracelet en fluorite multicolore est un accessoire à la fois élégant et chargé d'énergie positive. La fluorite, avec ses teintes variées, est réputée pour stimuler la concentration, équilibrer les émotions et renforcer la clarté mentale. Parfait pour une utilisation quotidienne, il apporte harmonie et vitalité à votre quotidien tout en sublimant votre style.",
+              "stripePriceId": "price_1UAo4MLOfCA5mATuecjtESvn",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UAo4NLOfCA5mATu8QeOwgFx",
+              "stripe": "https://buy.stripe.com/5kQ4gAbkedo1e6YgWd2882R",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

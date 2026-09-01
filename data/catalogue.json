@@ -3184,7 +3184,17 @@
               "description": "Ce bracelet en oeil de tigre vert est composé de perles lisses et harmonieuses, parfait pour un style élégant et naturel. En lithothérapie, cette pierre est souvent associée à la protection, au courage et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Idéal pour porter au quotidien, il allie beauté et bien-être énergétique.",
               "photo": "images/articles/bracelet-oeil-de-tigre-vert-8-mm-mtipghinbnc1.jpg",
               "prixBoutique": 15.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VBEEA1J4YUJ4ji",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de tigre vert 8 mm",
+              "stripeDesc": "Ce bracelet en oeil de tigre vert est composé de perles lisses et harmonieuses, parfait pour un style élégant et naturel. En lithothérapie, cette pierre est souvent associée à la protection, au courage et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Idéal pour porter au quotidien, il allie beauté et bien-être énergétique.",
+              "stripePriceId": "price_1UArmJLOfCA5mATuSkbgxbQv",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1UArmJLOfCA5mATuCfl44Zbv",
+              "stripe": "https://buy.stripe.com/fZu5kE3RM1Fj5As6hz2882Z",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

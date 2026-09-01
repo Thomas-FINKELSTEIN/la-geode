@@ -3127,7 +3127,17 @@
               "description": "La jaspe kambaba procure de l' apaisement, de l' ancrage, une stabilité émotionnelle et une très bonne connexion à la nature.",
               "photo": "images/articles/bracelet-jaspe-kambaba-8-mm-mtiosua7azbx.jpg",
               "prixBoutique": 12.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBDw6cdqDVNoXp",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe kambaba 8 mm",
+              "stripeDesc": "La jaspe kambaba procure de l' apaisement, de l' ancrage, une stabilité émotionnelle et une très bonne connexion à la nature.",
+              "stripePriceId": "price_1UArUVLOfCA5mATuR7zcNqFD",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1UArUVLOfCA5mATuFCc21D52",
+              "stripe": "https://buy.stripe.com/fZudRa2NI97L3skeO52882W",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

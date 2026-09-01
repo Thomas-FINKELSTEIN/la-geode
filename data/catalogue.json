@@ -3165,7 +3165,17 @@
               "description": "Ce bracelet en jaspe kambaba est composé de perles rondes et polies, offrant une harmonie entre les tons verts et noirs. Le jaspe kambaba est souvent utilisé en lithothérapie pour favoriser l'équilibre émotionnel et renforcer la stabilité intérieure. Il est idéal pour accompagner votre quotidien en apportant une énergie apaisante et protectrice.",
               "photo": "images/articles/bracelet-jaspe-kambaba-4-mm-mtipcdtbb4yq.jpg",
               "prixBoutique": 7.9,
-              "stock": 9
+              "stock": 9,
+              "stripeProductId": "prod_VBEBiGwb3ItjZ8",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe kambaba 4 mm",
+              "stripeDesc": "Ce bracelet en jaspe kambaba est composé de perles rondes et polies, offrant une harmonie entre les tons verts et noirs. Le jaspe kambaba est souvent utilisé en lithothérapie pour favoriser l'équilibre émotionnel et renforcer la stabilité intérieure. Il est idéal pour accompagner votre quotidien en apportant une énergie apaisante et protectrice.",
+              "stripePriceId": "price_1UArjHLOfCA5mATu56Oo2VM9",
+              "stripePrix": 8.43,
+              "stripeLinkId": "plink_1UArjHLOfCA5mATu0WRspMbd",
+              "stripe": "https://buy.stripe.com/dRmaEYcoi4Rv4wo6hz2882Y",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         }

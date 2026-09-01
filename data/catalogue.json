@@ -3602,7 +3602,17 @@
               "description": "",
               "photo": "images/articles/bracelet-aigue-marine-4-mm-mtiwvrcf1h09.jpg",
               "prixBoutique": 16.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VBHaIfzGirlOqg",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet aigue marine 4 mm",
+              "stripeDesc": "",
+              "stripePriceId": "price_1UAv1TLOfCA5mATu6ffoqHiE",
+              "stripePrix": 17.73,
+              "stripeLinkId": "plink_1UAv1TLOfCA5mATuWy4lHIie",
+              "stripe": "https://buy.stripe.com/5kQ8wQ2NI3Nr0g849r2883l",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

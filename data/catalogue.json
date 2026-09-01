@@ -2994,7 +2994,17 @@
               "description": "La citrine apporte abondance et prospérité, énergie et vitalité, de la confiance en soi, de la joie et de la positivité, de la concentration et de la créativité.",
               "photo": "images/articles/bracelet-citrine-10-mm-mtigidof8yjc.jpg",
               "prixBoutique": 21.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBACv1uX41hyn2",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet citrine 10 mm",
+              "stripeDesc": "La citrine apporte abondance et prospérité, énergie et vitalité, de la confiance en soi, de la joie et de la positivité, de la concentration et de la créativité.",
+              "stripePriceId": "price_1UAnrvLOfCA5mATuE7ojlniv",
+              "stripePrix": 22.9,
+              "stripeLinkId": "plink_1UAnrwLOfCA5mATud4Nfdy4U",
+              "stripe": "https://buy.stripe.com/00wdRa73Yfw94wo0Xf2882O",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

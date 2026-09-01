@@ -2995,16 +2995,25 @@
               "photo": "images/articles/bracelet-citrine-10-mm-mtigidof8yjc.jpg",
               "prixBoutique": 21.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00wdRa73Yfw94wo0Xf2882O",
               "stripeProductId": "prod_VBACv1uX41hyn2",
+              "stripePriceId": "price_1UAnrvLOfCA5mATuE7ojlniv",
+              "stripeLinkId": "plink_1UAnrwLOfCA5mATud4Nfdy4U",
+              "stripePrix": 22.9,
               "stripeMode": "live",
               "stripeNom": "Bracelet citrine 10 mm",
               "stripeDesc": "La citrine apporte abondance et prospérité, énergie et vitalité, de la confiance en soi, de la joie et de la positivité, de la concentration et de la créativité.",
-              "stripePriceId": "price_1UAnrvLOfCA5mATuE7ojlniv",
-              "stripePrix": 22.9,
-              "stripeLinkId": "plink_1UAnrwLOfCA5mATud4Nfdy4U",
-              "stripe": "https://buy.stripe.com/00wdRa73Yfw94wo0Xf2882O",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-citrine-quartz-4-mm-mtigoe879x6r",
+              "nom": "Bracelet Citrine Quartz 4 mm",
+              "prix": 17.32,
+              "description": "Ce bracelet en citrine quartz est un accessoire élégant et lumineux, composé de perles rondes et translucides. La citrine est souvent associée à une énergie positive, à la joie et à l'abondance, aidant à éclaircir les émotions et à renforcer la confiance en soi. Porté au quotidien, il apporte une touche de chaleur et de vitalité à votre style tout en favorisant un bien-être harmonieux.",
+              "photo": "images/articles/bracelet-citrine-quartz-4-mm-mtigoe87a5vx.jpg",
+              "prixBoutique": 16.5,
+              "stock": 2
             }
           ]
         }

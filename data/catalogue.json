@@ -3261,16 +3261,25 @@
               "photo": "images/articles/bracelet-jaspe-dalmatien-crist-de-roche--mtipwrwujvqx.jpg",
               "prixBoutique": 11.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi8wQaga5Vz4wocFX28833",
               "stripeProductId": "prod_VBERiazpUYDHHB",
+              "stripePriceId": "price_1UArycLOfCA5mATuexNmx2bm",
+              "stripeLinkId": "plink_1UArydLOfCA5mATucnrjcMPR",
+              "stripePrix": 12.15,
               "stripeMode": "live",
               "stripeNom": "Bracelet Jaspe dalmatien crist de roche 8 mm",
               "stripeDesc": "Ce bracelet harmonieux associe le jaspe dalmatien, pierre de stabilité et de protection, et le crist de roche, symbole de pureté et d'énergie lumineuse. Parfait pour apporter équilibre émotionnel et clarté mentale au quotidien, il est idéal pour ceux qui cherchent à renforcer leur ancrage tout en s’ouvrant à une énergie positive. Un accessoire élégant et bienveillant pour le bien-être au naturel.",
-              "stripePriceId": "price_1UArycLOfCA5mATuexNmx2bm",
-              "stripePrix": 12.15,
-              "stripeLinkId": "plink_1UArydLOfCA5mATucnrjcMPR",
-              "stripe": "https://buy.stripe.com/cNi8wQaga5Vz4wocFX28833",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-diopside-baroque-mtiq3mg8uqir",
+              "nom": "Bracelet diopside baroque",
+              "prix": 9.57,
+              "description": "Ce bracelet en diopside baroque allie élégance et énergie positive. Le diopside, pierre de transformation et de renouveau, est souvent utilisé en lithothérapie pour renforcer la confiance en soi et apaiser les émotions. Parfait pour un port quotidien, il apporte une touche naturelle et harmonieuse à votre style tout en vous accompagnant dans vos transitions.",
+              "photo": "images/articles/bracelet-diopside-baroque-mtiq3mg82zcd.jpg",
+              "prixBoutique": 9,
+              "stock": 6
             }
           ]
         }

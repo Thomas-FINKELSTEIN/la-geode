@@ -3393,7 +3393,17 @@
               "description": "Ancrage et protection, courage et détermination, passion et amour",
               "photo": "images/articles/bracelet-grenat-6-mm-mtiuriktbh0b.jpg",
               "prixBoutique": 12.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBGdfXPUWIVPgV",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet grenat 6 mm",
+              "stripeDesc": "Ancrage et protection, courage et détermination, passion et amour",
+              "stripePriceId": "price_1UAu65LOfCA5mATu4lu5NYOt",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1UAu65LOfCA5mATuYlmbh4ba",
+              "stripe": "https://buy.stripe.com/3cI7sM88283HbYQ7lD2883a",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

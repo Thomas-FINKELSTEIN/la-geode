@@ -3564,7 +3564,17 @@
               "description": "Ce bracelet en hématite aux formes carrées élégantes et sombres est un accessoire à la fois raffiné et chargé d'énergie. L'hématite est souvent utilisée en lithothérapie pour renforcer la concentration, ancrer les émotions et protéger contre les énergies négatives. Parfait pour un port quotidien, il apporte stabilité et équilibre tout en sublimant votre style.",
               "photo": "images/articles/bracelet-hematite-large-carre-mtiwin6hegfz.jpg",
               "prixBoutique": 17.9,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VBHQZJkgNU3f3u",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet hématite large carré",
+              "stripeDesc": "Ce bracelet en hématite aux formes carrées élégantes et sombres est un accessoire à la fois raffiné et chargé d'énergie. L'hématite est souvent utilisée en lithothérapie pour renforcer la concentration, ancrer les émotions et protéger contre les énergies négatives. Parfait pour un port quotidien, il apporte stabilité et équilibre tout en sublimant votre style.",
+              "stripePriceId": "price_1UAurYLOfCA5mATumszpJutZ",
+              "stripePrix": 18.76,
+              "stripeLinkId": "plink_1UAurZLOfCA5mATu5ncnqP19",
+              "stripe": "https://buy.stripe.com/7sY28s2NIdo17IA5dv2883j",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

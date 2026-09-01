@@ -3470,16 +3470,25 @@
               "photo": "images/articles/bracelet-grenat-vert-6-mm-mtiv5qseag4x.jpg",
               "prixBoutique": 16.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY4gA9c66ZD5As8pH2883e",
               "stripeProductId": "prod_VBGoH9olIHhxUJ",
+              "stripePriceId": "price_1UAuGuLOfCA5mATuz1WOoiPi",
+              "stripeLinkId": "plink_1UAuGuLOfCA5mATud1OeJhXJ",
+              "stripePrix": 17.73,
               "stripeMode": "live",
               "stripeNom": "Bracelet grenat vert 6 mm",
               "stripeDesc": "",
-              "stripePriceId": "price_1UAuGuLOfCA5mATuz1WOoiPi",
-              "stripePrix": 17.73,
-              "stripeLinkId": "plink_1UAuGuLOfCA5mATud1OeJhXJ",
-              "stripe": "https://buy.stripe.com/7sY4gA9c66ZD5As8pH2883e",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-grenat-vert-8-mm-mtiv82qtqks0",
+              "nom": "Bracelet grenat vert 8 mm",
+              "prix": 23.93,
+              "description": "Ce bracelet en grenat vert est composé de perles naturelles aux reflets profonds et apaisants. Le grenat vert est souvent associé à la vitalité et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Porté au poignet, il diffuse une énergie harmonieuse et favorise un bien-être durable tout au long de la journée.",
+              "photo": "images/articles/bracelet-grenat-vert-8-mm-mtiv82qtyqja.jpg",
+              "prixBoutique": 22.9,
+              "stock": 2
             }
           ]
         }

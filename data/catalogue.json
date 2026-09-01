@@ -3052,16 +3052,25 @@
               "photo": "images/articles/bracelet-fluorite-multicolore-roule-mtigyuq8ji8m.jpg",
               "prixBoutique": 9.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/5kQ4gAbkedo1e6YgWd2882R",
               "stripeProductId": "prod_VBAP2CZAgwLAOf",
+              "stripePriceId": "price_1UAo4MLOfCA5mATuecjtESvn",
+              "stripeLinkId": "plink_1UAo4NLOfCA5mATu8QeOwgFx",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet fluorite multicolore roulé",
               "stripeDesc": "Ce bracelet en fluorite multicolore est un accessoire à la fois élégant et chargé d'énergie positive. La fluorite, avec ses teintes variées, est réputée pour stimuler la concentration, équilibrer les émotions et renforcer la clarté mentale. Parfait pour une utilisation quotidienne, il apporte harmonie et vitalité à votre quotidien tout en sublimant votre style.",
-              "stripePriceId": "price_1UAo4MLOfCA5mATuecjtESvn",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UAo4NLOfCA5mATu8QeOwgFx",
-              "stripe": "https://buy.stripe.com/5kQ4gAbkedo1e6YgWd2882R",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-fluorite-baroque-mtih14tzehpi",
+              "nom": "Bracelet fluorite baroque",
+              "prix": 5.95,
+              "description": "Ce bracelet en fluorite baroque associe les vertus apaisantes et équilibrantes de cette pierre naturelle aux couleurs douces et variées. La fluorite est souvent utilisée en lithothérapie pour stimuler la concentration, clarifier les idées et renforcer la confiance en soi. Parfait pour un usage quotidien, il apporte une touche élégante tout en favorisant un bien-être mental et émotionnel harmonieux.",
+              "photo": "images/articles/bracelet-fluorite-baroque-mtih14tzefyy.jpg",
+              "prixBoutique": 5.5,
+              "stock": 5
             }
           ]
         }

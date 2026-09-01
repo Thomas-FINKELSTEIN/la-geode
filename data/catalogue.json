@@ -3507,7 +3507,17 @@
               "description": "Ce bracelet en grenat vert, composé de perles naturelles de 10 mm, apporte une énergie vitale et une touche de douceur à votre quotidien. En lithothérapie, le grenat vert est souvent associé à la régénération physique et émotionnelle, aidant à retrouver équilibre et vitalité. Parfait pour une utilisation au quotidien, il se porte aussi bien en accessoire élégant qu’en soutien bien-être.",
               "photo": "images/articles/bracelet-grenat-vert-10-mm-mtiv9xe4m7dw.jpg",
               "prixBoutique": 27.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBGrSPSAlrt74W",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet grenat vert 10 mm",
+              "stripeDesc": "Ce bracelet en grenat vert, composé de perles naturelles de 10 mm, apporte une énergie vitale et une touche de douceur à votre quotidien. En lithothérapie, le grenat vert est souvent associé à la régénération physique et émotionnelle, aidant à retrouver équilibre et vitalité. Parfait pour une utilisation au quotidien, il se porte aussi bien en accessoire élégant qu’en soutien bien-être.",
+              "stripePriceId": "price_1UAuJyLOfCA5mATuZv4s5tiV",
+              "stripePrix": 29.1,
+              "stripeLinkId": "plink_1UAuJzLOfCA5mATu2JbVb1qf",
+              "stripe": "https://buy.stripe.com/4gM00k9c683H3sk7lD2883g",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

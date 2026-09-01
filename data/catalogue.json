@@ -3432,16 +3432,25 @@
               "photo": "images/articles/bracelet-chysoprase-4-mm-mtiuyzt95fj7.jpg",
               "prixBoutique": 7.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/eVqdRa0FA5Vz1kc7lD2883c",
               "stripeProductId": "prod_VBGjetCh9YtI6l",
+              "stripePriceId": "price_1UAuBhLOfCA5mATuoSe26q1O",
+              "stripeLinkId": "plink_1UAuBiLOfCA5mATuA8yW4WdO",
+              "stripePrix": 8.43,
               "stripeMode": "live",
               "stripeNom": "Bracelet Chysoprase 4 mm",
               "stripeDesc": "Ce bracelet en chysoprase est un allié précieux pour apaiser les émotions et favoriser un sentiment de calme intérieur. Cette pierre verte, souvent appelée pierre du cœur, est traditionnellement utilisée pour renforcer la confiance en soi et équilibrer les énergies. Parfait pour un port quotidien, il apporte douceur et sérénité au quotidien.",
-              "stripePriceId": "price_1UAuBhLOfCA5mATuoSe26q1O",
-              "stripePrix": 8.43,
-              "stripeLinkId": "plink_1UAuBiLOfCA5mATuA8yW4WdO",
-              "stripe": "https://buy.stripe.com/eVqdRa0FA5Vz1kc7lD2883c",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-chrysoprase-10-mm-mtiv3ytaj1x5",
+              "nom": "Bracelet chrysoprase 10 mm",
+              "prix": 11.53,
+              "description": "Ce bracelet en chrysoprase est un accessoire naturel et élégant qui apporte une touche de douceur à votre quotidien. La chrysoprase, pierre de croissance et de vitalité, est souvent utilisée en lithothérapie pour renforcer la confiance en soi et apaiser les émotions. Ses teintes vertes apaisantes en font un allié idéal pour harmoniser le cœur et l’esprit.",
+              "photo": "images/articles/bracelet-chrysoprase-10-mm-mtiv3ytad2pc.jpg",
+              "prixBoutique": 10.9,
+              "stock": 1
             }
           ]
         }

@@ -3089,7 +3089,17 @@
               "description": "La fluorite bleue amène calme et apaisement, communication, clarté mentale, équilibre émotionnel réactivé, une intuition débordante et soudaine.",
               "photo": "images/articles/bracelet-fluorite-bleue-6-mm-mtihftew28o8.jpg",
               "prixBoutique": 21.7,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBAcPjRuRFOvQX",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet fluorite bleue 6 mm",
+              "stripeDesc": "La fluorite bleue amène calme et apaisement, communication, clarté mentale, équilibre émotionnel réactivé, une intuition débordante et soudaine.",
+              "stripePriceId": "price_1UAoH4LOfCA5mATuqN2QMNwS",
+              "stripePrix": 22.69,
+              "stripeLinkId": "plink_1UAoH4LOfCA5mATu0zTVGUjv",
+              "stripe": "https://buy.stripe.com/eVq00k3RMfw90g8gWd2882T",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

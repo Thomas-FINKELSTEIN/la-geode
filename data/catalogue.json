@@ -3280,16 +3280,25 @@
               "photo": "images/articles/bracelet-diopside-baroque-mtiq3mg82zcd.jpg",
               "prixBoutique": 9,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/fZu28s1JE83He6YbBT28834",
               "stripeProductId": "prod_VBEWCbm8tvUJsD",
+              "stripePriceId": "price_1UAs3mLOfCA5mATu3nNKc0TU",
+              "stripeLinkId": "plink_1UAs3mLOfCA5mATuiecPMGJV",
+              "stripePrix": 9.57,
               "stripeMode": "live",
               "stripeNom": "Bracelet diopside baroque",
               "stripeDesc": "Ce bracelet en diopside baroque allie élégance et énergie positive. Le diopside, pierre de transformation et de renouveau, est souvent utilisé en lithothérapie pour renforcer la confiance en soi et apaiser les émotions. Parfait pour un port quotidien, il apporte une touche naturelle et harmonieuse à votre style tout en vous accompagnant dans vos transitions.",
-              "stripePriceId": "price_1UAs3mLOfCA5mATu3nNKc0TU",
-              "stripePrix": 9.57,
-              "stripeLinkId": "plink_1UAs3mLOfCA5mATuiecPMGJV",
-              "stripe": "https://buy.stripe.com/fZu28s1JE83He6YbBT28834",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-feuille-d-argent-8-mm-mtis3p2v5j2v",
+              "nom": "Bracelet jaspe feuille d' argent 8 mm",
+              "prix": 14.22,
+              "description": "La jaspe feuille d' argent aiderait a se sentir plus centré, traditionnellement considéré comme une pierre favorisant le calme et la sérénité? elle est associé au  courage",
+              "photo": "images/articles/bracelet-jaspe-feuille-d-argent-8-mm-mtis3p2vyho7.jpg",
+              "prixBoutique": 13.5,
+              "stock": 6
             }
           ]
         }

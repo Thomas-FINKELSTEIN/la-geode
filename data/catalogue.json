@@ -3546,16 +3546,25 @@
               "photo": "images/articles/bracelet-hematite-roule-mtiw7i4dg3cz.jpg",
               "prixBoutique": 9.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/5kQ14o3RMfw90g80Xf2883i",
               "stripeProductId": "prod_VBHHcD54S3cle7",
+              "stripePriceId": "price_1UAujELOfCA5mATu8GfrQjV4",
+              "stripeLinkId": "plink_1UAujELOfCA5mATutTCWMSn5",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet hématite roulé",
               "stripeDesc": "Ce bracelet en hématite roulée est un accessoire élégant et naturel, composé de perles lisses et sombres aux reflets métalliques. L'hématite est souvent utilisée en lithothérapie pour renforcer la vitalité, ancrer l'énergie et favoriser un sentiment de stabilité émotionnelle. Porté au quotidien, il aide à apaiser le mental et à renforcer la confiance en soi.",
-              "stripePriceId": "price_1UAujELOfCA5mATu8GfrQjV4",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UAujELOfCA5mATutTCWMSn5",
-              "stripe": "https://buy.stripe.com/5kQ14o3RMfw90g80Xf2883i",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-hematite-large-carre-mtiwin6hrwdn",
+              "nom": "Bracelet hématite large carré",
+              "prix": 18.76,
+              "description": "Ce bracelet en hématite aux formes carrées élégantes et sombres est un accessoire à la fois raffiné et chargé d'énergie. L'hématite est souvent utilisée en lithothérapie pour renforcer la concentration, ancrer les émotions et protéger contre les énergies négatives. Parfait pour un port quotidien, il apporte stabilité et équilibre tout en sublimant votre style.",
+              "photo": "images/articles/bracelet-hematite-large-carre-mtiwin6hegfz.jpg",
+              "prixBoutique": 17.9,
+              "stock": 5
             }
           ]
         }

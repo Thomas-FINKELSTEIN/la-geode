@@ -3013,7 +3013,17 @@
               "description": "Ce bracelet en citrine quartz est un accessoire élégant et lumineux, composé de perles rondes et translucides. La citrine est souvent associée à une énergie positive, à la joie et à l'abondance, aidant à éclaircir les émotions et à renforcer la confiance en soi. Porté au quotidien, il apporte une touche de chaleur et de vitalité à votre style tout en favorisant un bien-être harmonieux.",
               "photo": "images/articles/bracelet-citrine-quartz-4-mm-mtigoe87a5vx.jpg",
               "prixBoutique": 16.5,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBAGekisOTeQHU",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Citrine Quartz 4 mm",
+              "stripeDesc": "Ce bracelet en citrine quartz est un accessoire élégant et lumineux, composé de perles rondes et translucides. La citrine est souvent associée à une énergie positive, à la joie et à l'abondance, aidant à éclaircir les émotions et à renforcer la confiance en soi. Porté au quotidien, il apporte une touche de chaleur et de vitalité à votre style tout en favorisant un bien-être harmonieux.",
+              "stripePriceId": "price_1UAnwRLOfCA5mATuhP7UGz5R",
+              "stripePrix": 17.32,
+              "stripeLinkId": "plink_1UAnwRLOfCA5mATuI544bNkq",
+              "stripe": "https://buy.stripe.com/cNi4gA73Y3NraUM6hz2882P",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

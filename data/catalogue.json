@@ -3565,16 +3565,25 @@
               "photo": "images/articles/bracelet-hematite-large-carre-mtiwin6hegfz.jpg",
               "prixBoutique": 17.9,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/7sY28s2NIdo17IA5dv2883j",
               "stripeProductId": "prod_VBHQZJkgNU3f3u",
+              "stripePriceId": "price_1UAurYLOfCA5mATumszpJutZ",
+              "stripeLinkId": "plink_1UAurZLOfCA5mATu5ncnqP19",
+              "stripePrix": 18.76,
               "stripeMode": "live",
               "stripeNom": "Bracelet hématite large carré",
               "stripeDesc": "Ce bracelet en hématite aux formes carrées élégantes et sombres est un accessoire à la fois raffiné et chargé d'énergie. L'hématite est souvent utilisée en lithothérapie pour renforcer la concentration, ancrer les émotions et protéger contre les énergies négatives. Parfait pour un port quotidien, il apporte stabilité et équilibre tout en sublimant votre style.",
-              "stripePriceId": "price_1UAurYLOfCA5mATumszpJutZ",
-              "stripePrix": 18.76,
-              "stripeLinkId": "plink_1UAurZLOfCA5mATu5ncnqP19",
-              "stripe": "https://buy.stripe.com/7sY28s2NIdo17IA5dv2883j",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "bracelet-aigue-marine-8-mm-mtiwp311ix72",
+              "nom": "Bracelet aigue marine 8 mm",
+              "prix": 27.03,
+              "description": "Ce bracelet en perles d'aigue marine est un accessoire élégant et raffiné, parfait pour sublimer votre style au quotidien. L'aigue marine est une pierre souvent associée à la sérénité et à la purification des énergies, aidant à apaiser les émotions et à favoriser la clarté mentale. Porté en continu ou occasionnellement, il est idéal pour ceux qui cherchent à cultiver un état de calme et d'équilibre dans leur vie. Elle aide a soulager les douleurs? consolide les liens amoureux et amicaux? réduit les problèmes de peau.",
+              "photo": "images/articles/bracelet-aigue-marine-8-mm-mtiwp311ngcq.jpg",
+              "prixBoutique": 25.9,
+              "stock": 6
             }
           ]
         }

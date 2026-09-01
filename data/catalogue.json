@@ -3014,16 +3014,25 @@
               "photo": "images/articles/bracelet-citrine-quartz-4-mm-mtigoe87a5vx.jpg",
               "prixBoutique": 16.5,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/cNi4gA73Y3NraUM6hz2882P",
               "stripeProductId": "prod_VBAGekisOTeQHU",
+              "stripePriceId": "price_1UAnwRLOfCA5mATuhP7UGz5R",
+              "stripeLinkId": "plink_1UAnwRLOfCA5mATuI544bNkq",
+              "stripePrix": 17.32,
               "stripeMode": "live",
               "stripeNom": "Bracelet Citrine Quartz 4 mm",
               "stripeDesc": "Ce bracelet en citrine quartz est un accessoire élégant et lumineux, composé de perles rondes et translucides. La citrine est souvent associée à une énergie positive, à la joie et à l'abondance, aidant à éclaircir les émotions et à renforcer la confiance en soi. Porté au quotidien, il apporte une touche de chaleur et de vitalité à votre style tout en favorisant un bien-être harmonieux.",
-              "stripePriceId": "price_1UAnwRLOfCA5mATuhP7UGz5R",
-              "stripePrix": 17.32,
-              "stripeLinkId": "plink_1UAnwRLOfCA5mATuI544bNkq",
-              "stripe": "https://buy.stripe.com/cNi4gA73Y3NraUM6hz2882P",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-baroque-fluorite-multicolore-fl-mtigwfzkd9e4",
+              "nom": "Bracelet baroque fluorite multicolore fleur de vie",
+              "prix": 6.98,
+              "description": "Favorise l' harmonie émotionnelle et l' équilibre intérieur, symbolise la circulation des énergies et la capacité à s'adapter aux changements.",
+              "photo": "images/articles/bracelet-baroque-fluorite-multicolore-fl-mtigwfzksr7q.jpg",
+              "prixBoutique": 6.5,
+              "stock": 4
             }
           ]
         }

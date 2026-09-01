@@ -3318,16 +3318,25 @@
               "photo": "images/articles/bracelet-aventurine-orange-4-mm-mtiu91auhtqa.jpg",
               "prixBoutique": 8.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIeVe5ZUabP5As9tL28836",
               "stripeProductId": "prod_VBGOCSxWhHW15v",
+              "stripePriceId": "price_1UAtsBLOfCA5mATu4oVVW1Jk",
+              "stripeLinkId": "plink_1UAtsCLOfCA5mATuZQNDreJ6",
+              "stripePrix": 9.46,
               "stripeMode": "live",
               "stripeNom": "Bracelet aventurine orange 4 mm",
               "stripeDesc": "Vitalité et énergie, optimisme et confiance en soi , motivation et créativité, équilibre émotionnel.",
-              "stripePriceId": "price_1UAtsBLOfCA5mATu4oVVW1Jk",
-              "stripePrix": 9.46,
-              "stripeLinkId": "plink_1UAtsCLOfCA5mATuZQNDreJ6",
-              "stripe": "https://buy.stripe.com/3cIeVe5ZUabP5As9tL28836",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-grenat-rouge-4-mm-mtiuhfynzx3b",
+              "nom": "Bracelet grenat rouge 4 mm",
+              "prix": 12.25,
+              "description": "Le grenat  symbolise le courage et la détermination, la passion et l'amour, ancrage et protection.",
+              "photo": "images/articles/bracelet-grenat-rouge-4-mm-mtiuhfyndo8b.jpg",
+              "prixBoutique": 11.6,
+              "stock": 4
             }
           ]
         }

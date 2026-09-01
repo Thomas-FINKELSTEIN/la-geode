@@ -3298,7 +3298,17 @@
               "description": "La jaspe feuille d' argent aiderait a se sentir plus centré, traditionnellement considéré comme une pierre favorisant le calme et la sérénité? elle est associé au  courage",
               "photo": "images/articles/bracelet-jaspe-feuille-d-argent-8-mm-mtis3p2vyho7.jpg",
               "prixBoutique": 13.5,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_VBFQS7OuaRs7tC",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe feuille d' argent 8 mm",
+              "stripeDesc": "La jaspe feuille d' argent aiderait a se sentir plus centré, traditionnellement considéré comme une pierre favorisant le calme et la sérénité? elle est associé au  courage",
+              "stripePriceId": "price_1UAsw0LOfCA5mATuSrtsb4dy",
+              "stripePrix": 14.22,
+              "stripeLinkId": "plink_1UAsw0LOfCA5mATuRLiqNqyh",
+              "stripe": "https://buy.stripe.com/4gM6oIdsmes56EwfS928835",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

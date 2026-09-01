@@ -3260,7 +3260,17 @@
               "description": "Ce bracelet harmonieux associe le jaspe dalmatien, pierre de stabilité et de protection, et le crist de roche, symbole de pureté et d'énergie lumineuse. Parfait pour apporter équilibre émotionnel et clarté mentale au quotidien, il est idéal pour ceux qui cherchent à renforcer leur ancrage tout en s’ouvrant à une énergie positive. Un accessoire élégant et bienveillant pour le bien-être au naturel.",
               "photo": "images/articles/bracelet-jaspe-dalmatien-crist-de-roche--mtipwrwujvqx.jpg",
               "prixBoutique": 11.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBERiazpUYDHHB",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Jaspe dalmatien crist de roche 8 mm",
+              "stripeDesc": "Ce bracelet harmonieux associe le jaspe dalmatien, pierre de stabilité et de protection, et le crist de roche, symbole de pureté et d'énergie lumineuse. Parfait pour apporter équilibre émotionnel et clarté mentale au quotidien, il est idéal pour ceux qui cherchent à renforcer leur ancrage tout en s’ouvrant à une énergie positive. Un accessoire élégant et bienveillant pour le bien-être au naturel.",
+              "stripePriceId": "price_1UArycLOfCA5mATuexNmx2bm",
+              "stripePrix": 12.15,
+              "stripeLinkId": "plink_1UArydLOfCA5mATucnrjcMPR",
+              "stripe": "https://buy.stripe.com/cNi8wQaga5Vz4wocFX28833",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

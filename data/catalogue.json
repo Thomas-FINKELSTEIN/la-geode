@@ -3394,16 +3394,25 @@
               "photo": "images/articles/bracelet-grenat-6-mm-mtiuriktbh0b.jpg",
               "prixBoutique": 12.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI7sM88283HbYQ7lD2883a",
               "stripeProductId": "prod_VBGdfXPUWIVPgV",
+              "stripePriceId": "price_1UAu65LOfCA5mATu4lu5NYOt",
+              "stripeLinkId": "plink_1UAu65LOfCA5mATuYlmbh4ba",
+              "stripePrix": 13.6,
               "stripeMode": "live",
               "stripeNom": "Bracelet grenat 6 mm",
               "stripeDesc": "Ancrage et protection, courage et détermination, passion et amour",
-              "stripePriceId": "price_1UAu65LOfCA5mATu4lu5NYOt",
-              "stripePrix": 13.6,
-              "stripeLinkId": "plink_1UAu65LOfCA5mATuYlmbh4ba",
-              "stripe": "https://buy.stripe.com/3cI7sM88283HbYQ7lD2883a",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-trio-labradorite-tigre-tourmali-mtiuv3se9ucc",
+              "nom": "Bracelet trio labradorite tigre tourmaline",
+              "prix": 12.56,
+              "description": "Ce bracelet harmonieux associe trois pierres puissantes: la labradorite, connue pour ses reflets magiques et sa capacité à renforcer la confiance en soi, le tigre œil, symbole de protection et de courage, et la tourmaline, réputée pour équilibrer les énergies et apaiser les émotions. Parfait pour une journée dynamique ou pour se reconnecter à soi-même, ce bracelet est idéal pour porter au quotidien. Ses couleurs chatoyantes et son design élégant en font un accessoire à la fois esthétique et bénéfique pour le bien-être.",
+              "photo": "images/articles/bracelet-trio-labradorite-tigre-tourmali-mtiuv3se54e1.jpg",
+              "prixBoutique": 11.9,
+              "stock": 1
             }
           ]
         }

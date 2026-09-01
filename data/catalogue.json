@@ -3374,7 +3374,17 @@
               "description": "Ancrage et protection, cette pierre amène de la passion et de l' amour, apporte courage et détermination.",
               "photo": null,
               "prixBoutique": 9.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBGbBnDsceT0um",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet grenat rouge baroque",
+              "stripeDesc": "Ancrage et protection, cette pierre amène de la passion et de l' amour, apporte courage et détermination.",
+              "stripePriceId": "price_1UAu42LOfCA5mATujY0aJQoy",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UAu43LOfCA5mATu3Iz43WNy",
+              "stripe": "https://buy.stripe.com/3cIaEYaga1Fj4wo7lD28839",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

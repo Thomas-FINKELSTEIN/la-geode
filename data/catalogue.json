@@ -3223,16 +3223,25 @@
               "photo": "images/articles/bracelet-jaspe-dalmatien-10-mm-mtipokafyb6i.jpg",
               "prixBoutique": 9.5,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/7sY00kbkeabPd2UeO528831",
               "stripeProductId": "prod_VBELNndWhxfiIz",
+              "stripePriceId": "price_1UArsRLOfCA5mATu0CBVQVvR",
+              "stripeLinkId": "plink_1UArsSLOfCA5mATug2LdQ83A",
+              "stripePrix": 10.08,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe dalmatien 10 mm",
               "stripeDesc": "Ce bracelet en jaspe dalmatien apporte une touche élégante et naturelle à votre quotidien. Le jaspe dalmatien est souvent associé à la protection, à la stabilité émotionnelle et à l'équilibre des énergies. Il est idéal pour renforcer la confiance en soi et favoriser un sentiment de sécurité au quotidien.",
-              "stripePriceId": "price_1UArsRLOfCA5mATu0CBVQVvR",
-              "stripePrix": 10.08,
-              "stripeLinkId": "plink_1UArsSLOfCA5mATug2LdQ83A",
-              "stripe": "https://buy.stripe.com/7sY00kbkeabPd2UeO528831",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-dalmatien-6-mm-mtips9hijwce",
+              "nom": "Bracelet Jaspe dalmatien 6 mm",
+              "prix": 8.43,
+              "description": "Ce bracelet en jaspe dalmatien est composé de perles rondes et harmonieuses, mettant en valeur les motifs noirs et blancs caractéristiques de cette pierre. Le jaspe dalmatien est souvent associé à la stabilité émotionnelle, aidant à apaiser les tensions et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent un équilibre intérieur et une énergie apaisante.",
+              "photo": "images/articles/bracelet-jaspe-dalmatien-6-mm-mtips9hit1oe.jpg",
+              "prixBoutique": 7.9,
+              "stock": 1
             }
           ]
         }

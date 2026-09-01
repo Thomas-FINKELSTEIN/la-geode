@@ -3412,7 +3412,17 @@
               "description": "Ce bracelet harmonieux associe trois pierres puissantes: la labradorite, connue pour ses reflets magiques et sa capacité à renforcer la confiance en soi, le tigre œil, symbole de protection et de courage, et la tourmaline, réputée pour équilibrer les énergies et apaiser les émotions. Parfait pour une journée dynamique ou pour se reconnecter à soi-même, ce bracelet est idéal pour porter au quotidien. Ses couleurs chatoyantes et son design élégant en font un accessoire à la fois esthétique et bénéfique pour le bien-être.",
               "photo": "images/articles/bracelet-trio-labradorite-tigre-tourmali-mtiuv3se54e1.jpg",
               "prixBoutique": 11.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBGget8UIjf9AX",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet trio labradorite tigre tourmaline",
+              "stripeDesc": "Ce bracelet harmonieux associe trois pierres puissantes: la labradorite, connue pour ses reflets magiques et sa capacité à renforcer la confiance en soi, le tigre œil, symbole de protection et de courage, et la tourmaline, réputée pour équilibrer les énergies et apaiser les émotions. Parfait pour une journée dynamique ou pour se reconnecter à soi-même, ce bracelet est idéal pour porter au quotidien. Ses couleurs chatoyantes et son design élégant en font un accessoire à la fois esthétique et bénéfique pour le bien-être.",
+              "stripePriceId": "price_1UAu8qLOfCA5mATuqdrJyySR",
+              "stripePrix": 12.56,
+              "stripeLinkId": "plink_1UAu8qLOfCA5mATuv4BwZX7H",
+              "stripe": "https://buy.stripe.com/7sY00kagafw9aUMaxP2883b",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

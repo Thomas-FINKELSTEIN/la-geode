@@ -3469,7 +3469,17 @@
               "description": "",
               "photo": "images/articles/bracelet-grenat-vert-6-mm-mtiv5qseag4x.jpg",
               "prixBoutique": 16.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBGoH9olIHhxUJ",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet grenat vert 6 mm",
+              "stripeDesc": "",
+              "stripePriceId": "price_1UAuGuLOfCA5mATuz1WOoiPi",
+              "stripePrix": 17.73,
+              "stripeLinkId": "plink_1UAuGuLOfCA5mATud1OeJhXJ",
+              "stripe": "https://buy.stripe.com/7sY4gA9c66ZD5As8pH2883e",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

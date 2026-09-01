@@ -3431,7 +3431,17 @@
               "description": "Ce bracelet en chysoprase est un allié précieux pour apaiser les émotions et favoriser un sentiment de calme intérieur. Cette pierre verte, souvent appelée pierre du cœur, est traditionnellement utilisée pour renforcer la confiance en soi et équilibrer les énergies. Parfait pour un port quotidien, il apporte douceur et sérénité au quotidien.",
               "photo": "images/articles/bracelet-chysoprase-4-mm-mtiuyzt95fj7.jpg",
               "prixBoutique": 7.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VBGjetCh9YtI6l",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Chysoprase 4 mm",
+              "stripeDesc": "Ce bracelet en chysoprase est un allié précieux pour apaiser les émotions et favoriser un sentiment de calme intérieur. Cette pierre verte, souvent appelée pierre du cœur, est traditionnellement utilisée pour renforcer la confiance en soi et équilibrer les énergies. Parfait pour un port quotidien, il apporte douceur et sérénité au quotidien.",
+              "stripePriceId": "price_1UAuBhLOfCA5mATuoSe26q1O",
+              "stripePrix": 8.43,
+              "stripeLinkId": "plink_1UAuBiLOfCA5mATuA8yW4WdO",
+              "stripe": "https://buy.stripe.com/eVqdRa0FA5Vz1kc7lD2883c",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

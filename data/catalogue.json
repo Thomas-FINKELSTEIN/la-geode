@@ -3147,16 +3147,25 @@
               "photo": "images/articles/bracelet-jaspe-kambaba-6-mm-mtip7q6fwxbs.jpg",
               "prixBoutique": 11.9,
               "stock": 12,
+              "stripe": "https://buy.stripe.com/3cI5kE882cjXaUM35n2882X",
               "stripeProductId": "prod_VBE8b0rCyJHvl4",
+              "stripePriceId": "price_1UArfkLOfCA5mATurli6H922",
+              "stripeLinkId": "plink_1UArflLOfCA5mATucPZOJl1R",
+              "stripePrix": 12.56,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe kambaba 6 mm",
               "stripeDesc": "Ce bracelet en jaspe kambaba, aux teintes vertes et noires profondes, est un accessoire à la fois élégant et chargé d'énergie positive. Le jaspe kambaba est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle, favoriser la patience et apaiser les tensions du quotidien. Parfait pour une utilisation au quotidien, il se porte comme un talisman bien-être, idéal pour ceux qui cherchent à harmoniser leur énergie.",
-              "stripePriceId": "price_1UArfkLOfCA5mATurli6H922",
-              "stripePrix": 12.56,
-              "stripeLinkId": "plink_1UArflLOfCA5mATucPZOJl1R",
-              "stripe": "https://buy.stripe.com/3cI5kE882cjXaUM35n2882X",
               "stripeStock": 12,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-kambaba-4-mm-mtipcdtb9by1",
+              "nom": "Bracelet jaspe kambaba 4 mm",
+              "prix": 8.43,
+              "description": "Ce bracelet en jaspe kambaba est composé de perles rondes et polies, offrant une harmonie entre les tons verts et noirs. Le jaspe kambaba est souvent utilisé en lithothérapie pour favoriser l'équilibre émotionnel et renforcer la stabilité intérieure. Il est idéal pour accompagner votre quotidien en apportant une énergie apaisante et protectrice.",
+              "photo": "images/articles/bracelet-jaspe-kambaba-4-mm-mtipcdtbb4yq.jpg",
+              "prixBoutique": 7.9,
+              "stock": 9
             }
           ]
         }

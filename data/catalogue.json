@@ -3203,7 +3203,17 @@
               "description": "Ce bracelet en jaspe dalmatien est un accessoire élégant et naturel, composé de perles rondes aux motifs noirs et blancs uniques. Le jaspe dalmatien est souvent associé à la protection, à la stabilité émotionnelle et à l'équilibre des énergies. Porté au quotidien, il est idéal pour renforcer la confiance en soi et favoriser un sentiment de sécurité intérieure.",
               "photo": "images/articles/bracelet-jaspe-dalmatien-4-mm-mtipiq1qu1ot.jpg",
               "prixBoutique": 7.5,
-              "stock": 11
+              "stock": 11,
+              "stripeProductId": "prod_VBEGC7fhtPb28v",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Jaspe dalmatien 4 mm",
+              "stripeDesc": "Ce bracelet en jaspe dalmatien est un accessoire élégant et naturel, composé de perles rondes aux motifs noirs et blancs uniques. Le jaspe dalmatien est souvent associé à la protection, à la stabilité émotionnelle et à l'équilibre des énergies. Porté au quotidien, il est idéal pour renforcer la confiance en soi et favoriser un sentiment de sécurité intérieure.",
+              "stripePriceId": "price_1UAro1LOfCA5mATug0ri1VDe",
+              "stripePrix": 8.02,
+              "stripeLinkId": "plink_1UAro1LOfCA5mATuaKmepcBs",
+              "stripe": "https://buy.stripe.com/dRm00k5ZUgAdfb28pH28830",
+              "stripeStock": 11,
+              "epuise": false
             }
           ]
         }

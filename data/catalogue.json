@@ -3355,7 +3355,17 @@
               "description": "Le grenat rouge amène la passion et l'amour, l' ancrage, la protection, le courage et la détermination.",
               "photo": "images/articles/bracelet-grenat-rouge-8-mm-mtiulktskhfp.jpg",
               "prixBoutique": 15.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBGYlk1MM3cDjp",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet grenat rouge 8 mm",
+              "stripeDesc": "Le grenat rouge amène la passion et l'amour, l' ancrage, la protection, le courage et la détermination.",
+              "stripePriceId": "price_1UAu1cLOfCA5mATum95HdUXv",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1UAu1dLOfCA5mATuiolyfWkP",
+              "stripe": "https://buy.stripe.com/14A28scoi1Fj4wo7lD28838",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

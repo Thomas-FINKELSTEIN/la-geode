@@ -2967,6 +2967,15 @@
               "stripe": "https://buy.stripe.com/3cI7sMbke0Bf4wo7lD2882M",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-citrine-8-mm-mtigcrdamiim",
+              "nom": "Bracelet citrine 8 mm",
+              "prix": 17.73,
+              "description": "La citrine apporte abondance et prospérité, énergie et vitalité, la confiance en soi, de la joie et de la positivité, de la concentration et de la créativité",
+              "photo": "images/articles/bracelet-citrine-8-mm-mtigcrdav0vg.jpg",
+              "prixBoutique": 16.9,
+              "stock": 3
             }
           ]
         }

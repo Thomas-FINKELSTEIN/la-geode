@@ -3070,7 +3070,17 @@
               "description": "Ce bracelet en fluorite baroque associe les vertus apaisantes et équilibrantes de cette pierre naturelle aux couleurs douces et variées. La fluorite est souvent utilisée en lithothérapie pour stimuler la concentration, clarifier les idées et renforcer la confiance en soi. Parfait pour un usage quotidien, il apporte une touche élégante tout en favorisant un bien-être mental et émotionnel harmonieux.",
               "photo": "images/articles/bracelet-fluorite-baroque-mtih14tzefyy.jpg",
               "prixBoutique": 5.5,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VBAQPvVNk8sjKE",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet fluorite baroque",
+              "stripeDesc": "Ce bracelet en fluorite baroque associe les vertus apaisantes et équilibrantes de cette pierre naturelle aux couleurs douces et variées. La fluorite est souvent utilisée en lithothérapie pour stimuler la concentration, clarifier les idées et renforcer la confiance en soi. Parfait pour un usage quotidien, il apporte une touche élégante tout en favorisant un bien-être mental et émotionnel harmonieux.",
+              "stripePriceId": "price_1UAo62LOfCA5mATunWwH1GbS",
+              "stripePrix": 5.95,
+              "stripeLinkId": "plink_1UAo62LOfCA5mATu3D4qcriB",
+              "stripe": "https://buy.stripe.com/6oU8wQgEydo15As21j2882S",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

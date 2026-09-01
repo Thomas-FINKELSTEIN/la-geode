@@ -3489,16 +3489,25 @@
               "photo": "images/articles/bracelet-grenat-vert-8-mm-mtiv82qtyqja.jpg",
               "prixBoutique": 22.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/dRmdRagEy4Rv0g8eO52883f",
               "stripeProductId": "prod_VBGqJ1kGLXQAJH",
+              "stripePriceId": "price_1UAuIYLOfCA5mATuF85mVFmY",
+              "stripeLinkId": "plink_1UAuIYLOfCA5mATuCKDXrO7t",
+              "stripePrix": 23.93,
               "stripeMode": "live",
               "stripeNom": "Bracelet grenat vert 8 mm",
               "stripeDesc": "Ce bracelet en grenat vert est composé de perles naturelles aux reflets profonds et apaisants. Le grenat vert est souvent associé à la vitalité et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Porté au poignet, il diffuse une énergie harmonieuse et favorise un bien-être durable tout au long de la journée.",
-              "stripePriceId": "price_1UAuIYLOfCA5mATuF85mVFmY",
-              "stripePrix": 23.93,
-              "stripeLinkId": "plink_1UAuIYLOfCA5mATuCKDXrO7t",
-              "stripe": "https://buy.stripe.com/dRmdRagEy4Rv0g8eO52883f",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-grenat-vert-10-mm-mtiv9xe4a11n",
+              "nom": "Bracelet grenat vert 10 mm",
+              "prix": 29.1,
+              "description": "Ce bracelet en grenat vert, composé de perles naturelles de 10 mm, apporte une énergie vitale et une touche de douceur à votre quotidien. En lithothérapie, le grenat vert est souvent associé à la régénération physique et émotionnelle, aidant à retrouver équilibre et vitalité. Parfait pour une utilisation au quotidien, il se porte aussi bien en accessoire élégant qu’en soutien bien-être.",
+              "photo": "images/articles/bracelet-grenat-vert-10-mm-mtiv9xe4m7dw.jpg",
+              "prixBoutique": 27.9,
+              "stock": 1
             }
           ]
         }

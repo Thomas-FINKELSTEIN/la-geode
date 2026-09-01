@@ -3185,16 +3185,25 @@
               "photo": "images/articles/bracelet-oeil-de-tigre-vert-8-mm-mtipghinbnc1.jpg",
               "prixBoutique": 15.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/fZu5kE3RM1Fj5As6hz2882Z",
               "stripeProductId": "prod_VBEEA1J4YUJ4ji",
+              "stripePriceId": "price_1UArmJLOfCA5mATuSkbgxbQv",
+              "stripeLinkId": "plink_1UArmJLOfCA5mATuCfl44Zbv",
+              "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet oeil de tigre vert 8 mm",
               "stripeDesc": "Ce bracelet en oeil de tigre vert est composé de perles lisses et harmonieuses, parfait pour un style élégant et naturel. En lithothérapie, cette pierre est souvent associée à la protection, au courage et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Idéal pour porter au quotidien, il allie beauté et bien-être énergétique.",
-              "stripePriceId": "price_1UArmJLOfCA5mATuSkbgxbQv",
-              "stripePrix": 16.7,
-              "stripeLinkId": "plink_1UArmJLOfCA5mATuCfl44Zbv",
-              "stripe": "https://buy.stripe.com/fZu5kE3RM1Fj5As6hz2882Z",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-dalmatien-4-mm-mtipiq1q0aip",
+              "nom": "Bracelet Jaspe dalmatien 4 mm",
+              "prix": 8.02,
+              "description": "Ce bracelet en jaspe dalmatien est un accessoire élégant et naturel, composé de perles rondes aux motifs noirs et blancs uniques. Le jaspe dalmatien est souvent associé à la protection, à la stabilité émotionnelle et à l'équilibre des énergies. Porté au quotidien, il est idéal pour renforcer la confiance en soi et favoriser un sentiment de sécurité intérieure.",
+              "photo": "images/articles/bracelet-jaspe-dalmatien-4-mm-mtipiq1qu1ot.jpg",
+              "prixBoutique": 7.5,
+              "stock": 11
             }
           ]
         }

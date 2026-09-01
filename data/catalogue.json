@@ -3128,16 +3128,25 @@
               "photo": "images/articles/bracelet-jaspe-kambaba-8-mm-mtiosua7azbx.jpg",
               "prixBoutique": 12.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/fZudRa2NI97L3skeO52882W",
               "stripeProductId": "prod_VBDw6cdqDVNoXp",
+              "stripePriceId": "price_1UArUVLOfCA5mATuR7zcNqFD",
+              "stripeLinkId": "plink_1UArUVLOfCA5mATuFCc21D52",
+              "stripePrix": 13.6,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe kambaba 8 mm",
               "stripeDesc": "La jaspe kambaba procure de l' apaisement, de l' ancrage, une stabilité émotionnelle et une très bonne connexion à la nature.",
-              "stripePriceId": "price_1UArUVLOfCA5mATuR7zcNqFD",
-              "stripePrix": 13.6,
-              "stripeLinkId": "plink_1UArUVLOfCA5mATuFCc21D52",
-              "stripe": "https://buy.stripe.com/fZudRa2NI97L3skeO52882W",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-kambaba-6-mm-mtip7q6f7ow4",
+              "nom": "Bracelet jaspe kambaba 6 mm",
+              "prix": 12.56,
+              "description": "Ce bracelet en jaspe kambaba, aux teintes vertes et noires profondes, est un accessoire à la fois élégant et chargé d'énergie positive. Le jaspe kambaba est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle, favoriser la patience et apaiser les tensions du quotidien. Parfait pour une utilisation au quotidien, il se porte comme un talisman bien-être, idéal pour ceux qui cherchent à harmoniser leur énergie.",
+              "photo": "images/articles/bracelet-jaspe-kambaba-6-mm-mtip7q6fwxbs.jpg",
+              "prixBoutique": 11.9,
+              "stock": 12
             }
           ]
         }

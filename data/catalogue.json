@@ -3210,7 +3210,17 @@
               "description": "Grande tenture qualité Tapestry 100% coton",
               "photo": "images/articles/tenture-bleue-147-x-208-mtii4169c5xs.jpg",
               "prixBoutique": 29.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBAviHPStQYrlW",
+              "stripeMode": "live",
+              "stripeNom": "Tenture bleue 147 X 208",
+              "stripeDesc": "Grande tenture qualité Tapestry 100% coton",
+              "stripePriceId": "price_1UAoZKLOfCA5mATult1dbE1U",
+              "stripePrix": 30.75,
+              "stripeLinkId": "plink_1UAoZLLOfCA5mATuOno5vtYk",
+              "stripe": "https://buy.stripe.com/28E14o4VQ83Hgf6cFX2882V",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

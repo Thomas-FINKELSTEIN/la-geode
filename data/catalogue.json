@@ -3299,16 +3299,25 @@
               "photo": "images/articles/bracelet-jaspe-feuille-d-argent-8-mm-mtis3p2vyho7.jpg",
               "prixBoutique": 13.5,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/4gM6oIdsmes56EwfS928835",
               "stripeProductId": "prod_VBFQS7OuaRs7tC",
+              "stripePriceId": "price_1UAsw0LOfCA5mATuSrtsb4dy",
+              "stripeLinkId": "plink_1UAsw0LOfCA5mATuRLiqNqyh",
+              "stripePrix": 14.22,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe feuille d' argent 8 mm",
               "stripeDesc": "La jaspe feuille d' argent aiderait a se sentir plus centré, traditionnellement considéré comme une pierre favorisant le calme et la sérénité? elle est associé au  courage",
-              "stripePriceId": "price_1UAsw0LOfCA5mATuSrtsb4dy",
-              "stripePrix": 14.22,
-              "stripeLinkId": "plink_1UAsw0LOfCA5mATuRLiqNqyh",
-              "stripe": "https://buy.stripe.com/4gM6oIdsmes56EwfS928835",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "bracelet-aventurine-orange-4-mm-mtiu91auh4du",
+              "nom": "Bracelet aventurine orange 4 mm",
+              "prix": 9.46,
+              "description": "Vitalité et énergie, optimisme et confiance en soi , motivation et créativité, équilibre émotionnel.",
+              "photo": "images/articles/bracelet-aventurine-orange-4-mm-mtiu91auhtqa.jpg",
+              "prixBoutique": 8.9,
+              "stock": 1
             }
           ]
         }

@@ -3375,16 +3375,25 @@
               "photo": null,
               "prixBoutique": 9.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/3cIaEYaga1Fj4wo7lD28839",
               "stripeProductId": "prod_VBGbBnDsceT0um",
+              "stripePriceId": "price_1UAu42LOfCA5mATujY0aJQoy",
+              "stripeLinkId": "plink_1UAu43LOfCA5mATu3Iz43WNy",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet grenat rouge baroque",
               "stripeDesc": "Ancrage et protection, cette pierre amène de la passion et de l' amour, apporte courage et détermination.",
-              "stripePriceId": "price_1UAu42LOfCA5mATujY0aJQoy",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UAu43LOfCA5mATu3Iz43WNy",
-              "stripe": "https://buy.stripe.com/3cIaEYaga1Fj4wo7lD28839",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-grenat-6-mm-mtiuriktezoe",
+              "nom": "Bracelet grenat 6 mm",
+              "prix": 13.6,
+              "description": "Ancrage et protection, courage et détermination, passion et amour",
+              "photo": "images/articles/bracelet-grenat-6-mm-mtiuriktbh0b.jpg",
+              "prixBoutique": 12.9,
+              "stock": 1
             }
           ]
         }

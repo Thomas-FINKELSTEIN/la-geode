@@ -3545,7 +3545,17 @@
               "description": "Ce bracelet en hématite roulée est un accessoire élégant et naturel, composé de perles lisses et sombres aux reflets métalliques. L'hématite est souvent utilisée en lithothérapie pour renforcer la vitalité, ancrer l'énergie et favoriser un sentiment de stabilité émotionnelle. Porté au quotidien, il aide à apaiser le mental et à renforcer la confiance en soi.",
               "photo": "images/articles/bracelet-hematite-roule-mtiw7i4dg3cz.jpg",
               "prixBoutique": 9.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VBHHcD54S3cle7",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet hématite roulé",
+              "stripeDesc": "Ce bracelet en hématite roulée est un accessoire élégant et naturel, composé de perles lisses et sombres aux reflets métalliques. L'hématite est souvent utilisée en lithothérapie pour renforcer la vitalité, ancrer l'énergie et favoriser un sentiment de stabilité émotionnelle. Porté au quotidien, il aide à apaiser le mental et à renforcer la confiance en soi.",
+              "stripePriceId": "price_1UAujELOfCA5mATu8GfrQjV4",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UAujELOfCA5mATutTCWMSn5",
+              "stripe": "https://buy.stripe.com/5kQ14o3RMfw90g80Xf2883i",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

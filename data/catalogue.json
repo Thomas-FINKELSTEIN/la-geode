@@ -3337,16 +3337,25 @@
               "photo": "images/articles/bracelet-grenat-rouge-4-mm-mtiuhfyndo8b.jpg",
               "prixBoutique": 11.6,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/00w14oewq2Jn6Ew7lD28837",
               "stripeProductId": "prod_VBGVTIjSP5taLU",
+              "stripePriceId": "price_1UAtyWLOfCA5mATuzwrMLPuH",
+              "stripeLinkId": "plink_1UAtyWLOfCA5mATulQSPAuCc",
+              "stripePrix": 12.25,
               "stripeMode": "live",
               "stripeNom": "Bracelet grenat rouge 4 mm",
               "stripeDesc": "Le grenat  symbolise le courage et la détermination, la passion et l'amour, ancrage et protection.",
-              "stripePriceId": "price_1UAtyWLOfCA5mATuzwrMLPuH",
-              "stripePrix": 12.25,
-              "stripeLinkId": "plink_1UAtyWLOfCA5mATulQSPAuCc",
-              "stripe": "https://buy.stripe.com/00w14oewq2Jn6Ew7lD28837",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-grenat-rouge-8-mm-mtiulktrc60k",
+              "nom": "Bracelet grenat rouge 8 mm",
+              "prix": 16.7,
+              "description": "Le grenat rouge amène la passion et l'amour, l' ancrage, la protection, le courage et la détermination.",
+              "photo": "images/articles/bracelet-grenat-rouge-8-mm-mtiulktskhfp.jpg",
+              "prixBoutique": 15.9,
+              "stock": 1
             }
           ]
         }

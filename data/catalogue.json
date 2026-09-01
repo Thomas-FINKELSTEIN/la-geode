@@ -3090,16 +3090,25 @@
               "photo": "images/articles/bracelet-fluorite-bleue-6-mm-mtihftew28o8.jpg",
               "prixBoutique": 21.7,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq00k3RMfw90g8gWd2882T",
               "stripeProductId": "prod_VBAcPjRuRFOvQX",
+              "stripePriceId": "price_1UAoH4LOfCA5mATuqN2QMNwS",
+              "stripeLinkId": "plink_1UAoH4LOfCA5mATu0zTVGUjv",
+              "stripePrix": 22.69,
               "stripeMode": "live",
               "stripeNom": "Bracelet fluorite bleue 6 mm",
               "stripeDesc": "La fluorite bleue amène calme et apaisement, communication, clarté mentale, équilibre émotionnel réactivé, une intuition débordante et soudaine.",
-              "stripePriceId": "price_1UAoH4LOfCA5mATuqN2QMNwS",
-              "stripePrix": 22.69,
-              "stripeLinkId": "plink_1UAoH4LOfCA5mATu0zTVGUjv",
-              "stripe": "https://buy.stripe.com/eVq00k3RMfw90g8gWd2882T",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-fluorite-bleue-10-mm-mtihhvn3l67j",
+              "nom": "Bracelet fluorite bleue 10 mm",
+              "prix": 35.61,
+              "description": "Ce bracelet en fluorite bleue est un accessoire élégant et apaisant, parfait pour allier style et bien-être au quotidien. La fluorite, pierre de la clarté mentale, est réputée pour favoriser la concentration, équilibrer les émotions et renforcer la communication positive. Porté en lithothérapie, il aide à dissoudre les tensions et à retrouver sérénité et confiance en soi.",
+              "photo": "images/articles/bracelet-fluorite-bleue-10-mm-mtihhvn33ol1.jpg",
+              "prixBoutique": 34.2,
+              "stock": 1
             }
           ]
         }

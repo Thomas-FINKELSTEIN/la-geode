@@ -3032,7 +3032,17 @@
               "description": "Favorise l' harmonie émotionnelle et l' équilibre intérieur, symbolise la circulation des énergies et la capacité à s'adapter aux changements.",
               "photo": "images/articles/bracelet-baroque-fluorite-multicolore-fl-mtigwfzksr7q.jpg",
               "prixBoutique": 6.5,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VBANcV9v0l9u3Z",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet baroque fluorite multicolore fleur de vie",
+              "stripeDesc": "Favorise l' harmonie émotionnelle et l' équilibre intérieur, symbolise la circulation des énergies et la capacité à s'adapter aux changements.",
+              "stripePriceId": "price_1UAo2ULOfCA5mATub2AAwydD",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1UAo2ULOfCA5mATuhXXTsI7z",
+              "stripe": "https://buy.stripe.com/aFa7sM73Y4Rv0g88pH2882Q",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

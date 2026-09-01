@@ -3584,16 +3584,25 @@
               "photo": "images/articles/bracelet-aigue-marine-8-mm-mtiwp311ngcq.jpg",
               "prixBoutique": 25.9,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/14A00kdsm83H7IA49r2883k",
               "stripeProductId": "prod_VBHVM5CSjNo6XJ",
+              "stripePriceId": "price_1UAuwSLOfCA5mATupSTiQaWJ",
+              "stripeLinkId": "plink_1UAuwTLOfCA5mATuieoG7bDC",
+              "stripePrix": 27.03,
               "stripeMode": "live",
               "stripeNom": "Bracelet aigue marine 8 mm",
               "stripeDesc": "Ce bracelet en perles d'aigue marine est un accessoire élégant et raffiné, parfait pour sublimer votre style au quotidien. L'aigue marine est une pierre souvent associée à la sérénité et à la purification des énergies, aidant à apaiser les émotions et à favoriser la clarté mentale. Porté en continu ou occasionnellement, il est idéal pour ceux qui cherchent à cultiver un état de calme et d'équilibre dans leur vie. Elle aide a soulager les douleurs? consolide les liens amoureux et amicaux? réduit les problèmes de peau.",
-              "stripePriceId": "price_1UAuwSLOfCA5mATupSTiQaWJ",
-              "stripePrix": 27.03,
-              "stripeLinkId": "plink_1UAuwTLOfCA5mATuieoG7bDC",
-              "stripe": "https://buy.stripe.com/14A00kdsm83H7IA49r2883k",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "bracelet-aigue-marine-4-mm-mtiwvrcfpxuq",
+              "nom": "Bracelet aigue marine 4 mm",
+              "prix": 17.73,
+              "description": "",
+              "photo": "images/articles/bracelet-aigue-marine-4-mm-mtiwvrcf1h09.jpg",
+              "prixBoutique": 16.9,
+              "stock": 3
             }
           ]
         }

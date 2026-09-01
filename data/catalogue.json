@@ -3033,16 +3033,25 @@
               "photo": "images/articles/bracelet-baroque-fluorite-multicolore-fl-mtigwfzksr7q.jpg",
               "prixBoutique": 6.5,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/aFa7sM73Y4Rv0g88pH2882Q",
               "stripeProductId": "prod_VBANcV9v0l9u3Z",
+              "stripePriceId": "price_1UAo2ULOfCA5mATub2AAwydD",
+              "stripeLinkId": "plink_1UAo2ULOfCA5mATuhXXTsI7z",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Bracelet baroque fluorite multicolore fleur de vie",
               "stripeDesc": "Favorise l' harmonie émotionnelle et l' équilibre intérieur, symbolise la circulation des énergies et la capacité à s'adapter aux changements.",
-              "stripePriceId": "price_1UAo2ULOfCA5mATub2AAwydD",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1UAo2ULOfCA5mATuhXXTsI7z",
-              "stripe": "https://buy.stripe.com/aFa7sM73Y4Rv0g88pH2882Q",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-fluorite-multicolore-roule-mtigyuq8q3be",
+              "nom": "Bracelet fluorite multicolore roulé",
+              "prix": 10.5,
+              "description": "Ce bracelet en fluorite multicolore est un accessoire à la fois élégant et chargé d'énergie positive. La fluorite, avec ses teintes variées, est réputée pour stimuler la concentration, équilibrer les émotions et renforcer la clarté mentale. Parfait pour une utilisation quotidienne, il apporte harmonie et vitalité à votre quotidien tout en sublimant votre style.",
+              "photo": "images/articles/bracelet-fluorite-multicolore-roule-mtigyuq8ji8m.jpg",
+              "prixBoutique": 9.9,
+              "stock": 4
             }
           ]
         }

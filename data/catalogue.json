@@ -4154,16 +4154,25 @@
               "photo": "images/articles/bracelet-quartz-fume-baroque-mtk3v5xohd3d.jpg",
               "prixBoutique": 9.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/cNi4gA0FAdo19QI0Xf2883O",
               "stripeProductId": "prod_VBazw9nBNIS4lm",
+              "stripePriceId": "price_1UBDnvLOfCA5mATup8ynCHxt",
+              "stripeLinkId": "plink_1UBDnvLOfCA5mATuZEgmBQRQ",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet quartz fumé baroque",
               "stripeDesc": "Ce bracelet en quartz fumé baroque allie élégance et énergie apaisante. Le quartz fumé est souvent utilisé en lithothérapie pour favoriser la concentration, la stabilité émotionnelle et la protection énergétique. Parfait pour un usage quotidien, il apporte une touche raffinée tout en harmonisant votre environnement.",
-              "stripePriceId": "price_1UBDnvLOfCA5mATup8ynCHxt",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UBDnvLOfCA5mATuZEgmBQRQ",
-              "stripe": "https://buy.stripe.com/cNi4gA0FAdo19QI0Xf2883O",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-quartz-fume-4-mm-mtk3wxo5v2xp",
+              "nom": "Bracelet quartz fumé 4 mm",
+              "prix": 8.43,
+              "description": "Ce bracelet en quartz fumé, aux reflets élégants et profonds, est une pièce raffinée pour sublimer votre quotidien. Le quartz fumé est souvent utilisé en lithothérapie pour son influence apaisante sur les émotions et son pouvoir de stabilisation énergétique. Parfait pour une touche minimaliste et pleine de douceur, il est idéal pour accompagner vos moments de détente ou de méditation.",
+              "photo": "images/articles/bracelet-quartz-fume-4-mm-mtk3wxo5frrc.jpg",
+              "prixBoutique": 7.9,
+              "stock": 2
             }
           ]
         }

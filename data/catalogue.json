@@ -3849,7 +3849,17 @@
               "description": "Ce bracelet en jaspe arc en ciel est un accessoire élégant et coloré qui apporte une touche de vitalité à votre quotidien. Le jaspe arc en ciel est souvent associé à l'équilibre émotionnel et à la connexion avec les énergies de la vie, aidant à renforcer la confiance en soi et à harmoniser les émotions. Parfait pour un port quotidien, il allie beauté naturelle et bien-être énergétique.",
               "photo": "images/articles/bracelet-jaspe-arc-en-ciel-6-mm-mtjueivohn9w.jpg",
               "prixBoutique": 14.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VBWip4MGFSBy1F",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Jaspe arc en ciel 6 mm",
+              "stripeDesc": "Ce bracelet en jaspe arc en ciel est un accessoire élégant et coloré qui apporte une touche de vitalité à votre quotidien. Le jaspe arc en ciel est souvent associé à l'équilibre émotionnel et à la connexion avec les énergies de la vie, aidant à renforcer la confiance en soi et à harmoniser les émotions. Parfait pour un port quotidien, il allie beauté naturelle et bien-être énergétique.",
+              "stripePriceId": "price_1UB9fXLOfCA5mATu6EHGjTRq",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UB9fXLOfCA5mATuc8mATSpW",
+              "stripe": "https://buy.stripe.com/5kQ6oIfAu1FjaUMgWd2883y",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

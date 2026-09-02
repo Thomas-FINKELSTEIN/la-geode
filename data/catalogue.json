@@ -4420,16 +4420,25 @@
               "photo": "images/articles/bracelet-malachite-8-mm-mtk6buczu0ig.jpg",
               "prixBoutique": 27.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/6oU4gAfAu3Nr2ogcFX28844",
               "stripeProductId": "prod_VBc7GlAZCB48fb",
+              "stripePriceId": "price_1UBEsrLOfCA5mATugsx6T0zp",
+              "stripeLinkId": "plink_1UBEsrLOfCA5mATuTXlevTTT",
+              "stripePrix": 29.1,
               "stripeMode": "live",
               "stripeNom": "Bracelet malachite 8 mm",
               "stripeDesc": "La malachite aide à soulager les maux de dos, et associer une pierre de lune elles soulagent la  polyarthrite, tensions musculaires, articulations et tendons.",
-              "stripePriceId": "price_1UBEsrLOfCA5mATugsx6T0zp",
-              "stripePrix": 29.1,
-              "stripeLinkId": "plink_1UBEsrLOfCA5mATuTXlevTTT",
-              "stripe": "https://buy.stripe.com/6oU4gAfAu3Nr2ogcFX28844",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-iolite-baroque-mtka49u03385",
+              "nom": "Bracelet iolite baroque",
+              "prix": 10.5,
+              "description": "La iolite est bénéfique pour le coeur et les artères, elle régule la circulation sanguine et réduit l'hypertension artérielle",
+              "photo": "images/articles/bracelet-iolite-baroque-mtka49u04gv5.jpg",
+              "prixBoutique": 9.9,
+              "stock": 6
             }
           ]
         }

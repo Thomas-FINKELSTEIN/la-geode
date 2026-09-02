@@ -4210,7 +4210,17 @@
               "description": "Traditionnellement associée au chakra du coeur , la rubellite symbolise la douceur émotionnelle, l' amour de soi et l' équilibre affectif.",
               "photo": "images/articles/bracelet-rubellite-et-tourmaline-baroque-mtk48vlvbhvr.jpg",
               "prixBoutique": 14.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBbA0Xd5po2657",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet rubellite et tourmaline baroque",
+              "stripeDesc": "Traditionnellement associée au chakra du coeur , la rubellite symbolise la douceur émotionnelle, l' amour de soi et l' équilibre affectif.",
+              "stripePriceId": "price_1UBDyILOfCA5mATuoTbEfxDl",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UBDyJLOfCA5mATuk0r2Incj",
+              "stripe": "https://buy.stripe.com/7sYdRa5ZUes57IAbBT2883T",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

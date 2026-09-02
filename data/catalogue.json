@@ -4021,16 +4021,25 @@
               "photo": "images/articles/bracelet-quartz-rutile-baroque-mtjwp093ykpo.jpg",
               "prixBoutique": 14.9,
               "stock": 7,
+              "stripe": "https://buy.stripe.com/28E14oaga2Jn6Ew5dv2883H",
               "stripeProductId": "prod_VBXlm9R1k5Iu2L",
+              "stripePriceId": "price_1UBAfgLOfCA5mATuZc7N6NW3",
+              "stripeLinkId": "plink_1UBAfgLOfCA5mATu8PYK5Nn6",
+              "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet quartz rutile baroque",
               "stripeDesc": "Ce bracelet en quartz rutile baroque allie élégance et énergie dynamique. Le quartz rutile est souvent utilisé en lithothérapie pour stimuler la vitalité, renforcer la motivation et équilibrer les émotions. Parfait pour une touche naturelle et puissante au quotidien, il est idéal pour ceux qui cherchent à dynamiser leur énergie positive.",
-              "stripePriceId": "price_1UBAfgLOfCA5mATuZc7N6NW3",
-              "stripePrix": 15.66,
-              "stripeLinkId": "plink_1UBAfgLOfCA5mATu8PYK5Nn6",
-              "stripe": "https://buy.stripe.com/28E14oaga2Jn6Ew5dv2883H",
               "stripeStock": 7,
               "epuise": false
+            },
+            {
+              "id": "bracelet-quartz-rutile-6-mm-mtjwrrhw92j6",
+              "nom": "Bracelet quartz rutile 6 mm",
+              "prix": 17.73,
+              "description": "Ce bracelet en quartz rutile est un allié puissant pour dynamiser votre énergie et renforcer votre vitalité. Associé traditionnellement à la motivation et à la détermination, cette pierre naturelle stimule la concentration et aide à surmonter les obstacles du quotidien. Parfait pour porter au quotidien, il apporte une touche élégante tout en vous accompagnant dans vos projets ambitieux.",
+              "photo": "images/articles/bracelet-quartz-rutile-6-mm-mtjwrrhwkgwu.jpg",
+              "prixBoutique": 16.9,
+              "stock": 2
             }
           ]
         }

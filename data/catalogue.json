@@ -3660,16 +3660,25 @@
               "photo": "images/articles/bracelet-jaspe-paysage-6-mm-mtjt5qphrsmn.jpg",
               "prixBoutique": 6.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B69AUagaabP1kcfS92883o",
               "stripeProductId": "prod_VBWAfYArhY3Btd",
+              "stripePriceId": "price_1UB97vLOfCA5mATuaLM5O4Ze",
+              "stripeLinkId": "plink_1UB97vLOfCA5mATu8JR8JVWM",
+              "stripePrix": 6.98,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe paysage 6 mm",
               "stripeDesc": "Le jaspe paysage est une pierre d' ancrage, elle favorise la créativité et régule les émotions",
-              "stripePriceId": "price_1UB97vLOfCA5mATuaLM5O4Ze",
-              "stripePrix": 6.98,
-              "stripeLinkId": "plink_1UB97vLOfCA5mATu8JR8JVWM",
-              "stripe": "https://buy.stripe.com/9B69AUagaabP1kcfS92883o",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-heliotrope-6-mm-mtjt91s5hrdn",
+              "nom": "Bracelet jaspe héliotrope 6 mm",
+              "prix": 7.4,
+              "description": "",
+              "photo": null,
+              "prixBoutique": 6.9,
+              "stock": 1
             }
           ]
         }

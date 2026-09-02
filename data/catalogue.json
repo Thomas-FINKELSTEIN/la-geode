@@ -3811,7 +3811,17 @@
               "description": "Ce bracelet en œil de taureau, aussi appelé pierre de soleil, est composé de perles rondes et lumineuses qui captent la lumière pour créer un effet hypnotique. Selon la lithothérapie, cette pierre est souvent associée à la vitalité, à la protection et à l'équilibre énergétique, aidant à renforcer la confiance en soi et à apporter une énergie positive au quotidien. Parfait pour être porté au poignet, il s’accorde aussi bien avec des tenues décontractées que plus habillées.",
               "photo": "images/articles/bracelet-il-de-taureau-4-mm-mtju30hpp0fe.jpg",
               "prixBoutique": 7.5,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBWa5Men3Glt5k",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Œil de taureau 4 mm",
+              "stripeDesc": "Ce bracelet en œil de taureau, aussi appelé pierre de soleil, est composé de perles rondes et lumineuses qui captent la lumière pour créer un effet hypnotique. Selon la lithothérapie, cette pierre est souvent associée à la vitalité, à la protection et à l'équilibre énergétique, aidant à renforcer la confiance en soi et à apporter une énergie positive au quotidien. Parfait pour être porté au poignet, il s’accorde aussi bien avec des tenues décontractées que plus habillées.",
+              "stripePriceId": "price_1UB9WvLOfCA5mATu2KEgOqqP",
+              "stripePrix": 8.02,
+              "stripeLinkId": "plink_1UB9WvLOfCA5mATuzPwcsChP",
+              "stripe": "https://buy.stripe.com/3cI6oIewqes54wofS92883w",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

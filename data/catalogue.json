@@ -3869,16 +3869,25 @@
               "photo": "images/articles/bracelet-jaspe-arc-en-ciel-10-mm-mtjufi717zq5.jpg",
               "prixBoutique": 16.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI28sewqbfT1kc8pH2883z",
               "stripeProductId": "prod_VBWjbveV4y9I3A",
+              "stripePriceId": "price_1UB9gLLOfCA5mATuzv3h8vF2",
+              "stripeLinkId": "plink_1UB9gLLOfCA5mATu4NfKx5M9",
+              "stripePrix": 17.73,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe arc en ciel 10 mm",
               "stripeDesc": "Ce bracelet en jaspe arc en ciel est un accessoire élégant et coloré qui apporte une touche vibrante à votre quotidien. Le jaspe arc en ciel est souvent associé à l'équilibre émotionnel, à la créativité et à une énergie harmonieuse, aidant à apaiser les tensions et à stimuler la joie de vivre. Parfait pour être porté au quotidien, il est aussi idéal pour offrir une attention bienveillante et esthétique.",
-              "stripePriceId": "price_1UB9gLLOfCA5mATuzv3h8vF2",
-              "stripePrix": 17.73,
-              "stripeLinkId": "plink_1UB9gLLOfCA5mATu4NfKx5M9",
-              "stripe": "https://buy.stripe.com/3cI28sewqbfT1kc8pH2883z",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-polychrome-8-mm-mtjuhjar9oug",
+              "nom": "Bracelet jaspe polychrome 8 mm",
+              "prix": 10.5,
+              "description": "Ce bracelet en jaspe polychrome allie des pierres naturelles aux couleurs variées et vibrantes, créant un équilibre visuel harmonieux. Le jaspe est souvent associé à la stabilité émotionnelle, à la protection et à l’ancrage, aidant à apaiser le mental et à renforcer la confiance en soi. Parfait pour un usage quotidien, il apporte une touche bohème et énergétique à votre style tout en vous accompagnant dans votre quête de bien-être.",
+              "photo": "images/articles/bracelet-jaspe-polychrome-8-mm-mtjuhjarfjd2.jpg",
+              "prixBoutique": 9.9,
+              "stock": 1
             }
           ]
         }

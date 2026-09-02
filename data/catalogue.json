@@ -3735,7 +3735,17 @@
               "description": "Ce bracelet en jaspe paysage est un accessoire naturel aux reflets dorés et aux motifs organiques apaisants. Le jaspe est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle et favoriser un sentiment de sécurité intérieure. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante au quotidien.",
               "photo": "images/articles/bracelet-jaspe-paysage-8-mm-mtjtq3vo492r.jpg",
               "prixBoutique": 7.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBWQ6FqQzqIYPc",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe paysage 8 mm",
+              "stripeDesc": "Ce bracelet en jaspe paysage est un accessoire naturel aux reflets dorés et aux motifs organiques apaisants. Le jaspe est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle et favoriser un sentiment de sécurité intérieure. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante au quotidien.",
+              "stripePriceId": "price_1UB9NBLOfCA5mATupqA22Nly",
+              "stripePrix": 8.02,
+              "stripeLinkId": "plink_1UB9NBLOfCA5mATu1H1s7tZo",
+              "stripe": "https://buy.stripe.com/6oUdRa0FA3Nr4wocFX2883s",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

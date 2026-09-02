@@ -3717,16 +3717,25 @@
               "photo": "images/articles/bracelet-jaspe-paysage-4-mm-mtjtnze383st.jpg",
               "prixBoutique": 5.5,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/4gM28s1JE4Rv5As9tL2883r",
               "stripeProductId": "prod_VBWOOUQOWAW4Rx",
+              "stripePriceId": "price_1UB9LZLOfCA5mATu4Ey3Jh1M",
+              "stripeLinkId": "plink_1UB9LZLOfCA5mATuKyb4Gc3c",
+              "stripePrix": 5.95,
               "stripeMode": "live",
               "stripeNom": "Bracelet Jaspe paysage 4 mm",
               "stripeDesc": "Ce bracelet en jaspe paysage est un accessoire naturel et élégant qui apporte une touche boisée et apaisante à votre quotidien. Le jaspe paysage est souvent associé à la stabilité émotionnelle, à la patience et à la connexion avec la nature, aidant à ancrer les énergies et à favoriser un sentiment de sécurité intérieure. Parfait pour un port quotidien, il allie beauté minérale et bien-être énergétique.",
-              "stripePriceId": "price_1UB9LZLOfCA5mATu4Ey3Jh1M",
-              "stripePrix": 5.95,
-              "stripeLinkId": "plink_1UB9LZLOfCA5mATuKyb4Gc3c",
-              "stripe": "https://buy.stripe.com/4gM28s1JE4Rv5As9tL2883r",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-paysage-8-mm-mtjtq3voyp8s",
+              "nom": "Bracelet jaspe paysage 8 mm",
+              "prix": 8.02,
+              "description": "Ce bracelet en jaspe paysage est un accessoire naturel aux reflets dorés et aux motifs organiques apaisants. Le jaspe est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle et favoriser un sentiment de sécurité intérieure. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante au quotidien.",
+              "photo": "images/articles/bracelet-jaspe-paysage-8-mm-mtjtq3vo492r.jpg",
+              "prixBoutique": 7.5,
+              "stock": 1
             }
           ]
         }

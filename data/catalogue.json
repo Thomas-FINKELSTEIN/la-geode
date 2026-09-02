@@ -4230,16 +4230,25 @@
               "photo": "images/articles/bracelet-pyrite4-mm-mtk4frqjtrca.jpg",
               "prixBoutique": 11.9,
               "stock": 7,
+              "stripe": "https://buy.stripe.com/6oU7sMcoi5Vz9QI8pH2883U",
               "stripeProductId": "prod_VBbFiAFHQlCl3X",
+              "stripePriceId": "price_1UBE3SLOfCA5mATuYQGSsEzk",
+              "stripeLinkId": "plink_1UBE3TLOfCA5mATu9P4Z49Hn",
+              "stripePrix": 12.56,
               "stripeMode": "live",
               "stripeNom": "Bracelet pyrite4 mm",
               "stripeDesc": "La pyrite est une pierre de protection puissante, elle est réputée pour repousser les énergies négatives et les pollutions énergétiques.",
-              "stripePriceId": "price_1UBE3SLOfCA5mATuYQGSsEzk",
-              "stripePrix": 12.56,
-              "stripeLinkId": "plink_1UBE3TLOfCA5mATu9P4Z49Hn",
-              "stripe": "https://buy.stripe.com/6oU7sMcoi5Vz9QI8pH2883U",
               "stripeStock": 7,
               "epuise": false
+            },
+            {
+              "id": "bracelet-pyrite-6-mm-mtk4q47vx8zp",
+              "nom": "Bracelet pyrite  6 mm",
+              "prix": 12.56,
+              "description": "Pierre de protection puissante, la pyrite repousse les énergies négatives et les pollutions énergétiques",
+              "photo": "images/articles/bracelet-pyrite-6-mm-mtk4q47vevrp.jpg",
+              "prixBoutique": 11.9,
+              "stock": 5
             }
           ]
         }

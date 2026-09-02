@@ -4306,16 +4306,25 @@
               "photo": "images/articles/bracelet-rubis-sur-zoizite-baroque-mtk5n4n6w3os.jpg",
               "prixBoutique": 15,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/3cI00kagaes59QIcFX2883Y",
               "stripeProductId": "prod_VBbnnUaANZ34aM",
+              "stripePriceId": "price_1UBEa0LOfCA5mATu0lPe88Oe",
+              "stripeLinkId": "plink_1UBEa0LOfCA5mATuBEzbD9ls",
+              "stripePrix": 15.77,
               "stripeMode": "live",
               "stripeNom": "Bracelet rubis sur zoizite baroque",
               "stripeDesc": "Le rubis sur zoizite est une pierre naturelle qui associe le vert de la zoizite et le rouge du rubis, ce qui permet à son porteur , des vertus d' équilibre entre vitalité et apaisement.",
-              "stripePriceId": "price_1UBEa0LOfCA5mATu0lPe88Oe",
-              "stripePrix": 15.77,
-              "stripeLinkId": "plink_1UBEa0LOfCA5mATuBEzbD9ls",
-              "stripe": "https://buy.stripe.com/3cI00kagaes59QIcFX2883Y",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-rubis-saphir-roule-mtk5roqjnwxq",
+              "nom": "Bracelet rubis saphir roulé",
+              "prix": 16.7,
+              "description": "Ce bracelet en pierres naturelles associe la douceur du rubis et la profondeur du saphir pour une harmonie visuelle et énergétique. Traditionnellement, le rubis est associé à la vitalité et à la passion, tandis que le saphir symbolise la sagesse et la protection. Parfait pour apporter équilibre et énergie positive au quotidien, ce bracelet est idéal pour ceux qui cherchent à renforcer leur confiance et leur bien-être émotionnel.",
+              "photo": "images/articles/bracelet-rubis-saphir-roule-mtk5roqjzpzz.jpg",
+              "prixBoutique": 15.9,
+              "stock": 4
             }
           ]
         }

@@ -3640,7 +3640,17 @@
               "description": "Le jaspe jaune favorise la bonne circulation des fluides corporels et combat les états de tristesse intense , il facilite l' évacuation du stress et des angoisses.",
               "photo": "images/articles/bracelet-jaspe-jaune-et-cristal-de-roche-mtjss5e4xfcr.jpg",
               "prixBoutique": 14.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBVzGgrd5aDdhL",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe jaune et cristal de roche 8 mm",
+              "stripeDesc": "Le jaspe jaune favorise la bonne circulation des fluides corporels et combat les états de tristesse intense , il facilite l' évacuation du stress et des angoisses.",
+              "stripePriceId": "price_1UB8xcLOfCA5mATumApNLWMi",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UB8xcLOfCA5mATu563pVzE4",
+              "stripe": "https://buy.stripe.com/bJedRabke4RvbYQcFX2883n",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -4135,16 +4135,25 @@
               "photo": "images/articles/bracelet-quartz-fume-baroques-et-pierres-mtk3r4erm60y.jpg",
               "prixBoutique": 15.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq3cwagaabPgf6bBT2883N",
               "stripeProductId": "prod_VBawm31LS7mq9m",
+              "stripePriceId": "price_1UBDkuLOfCA5mATuHgUtGluy",
+              "stripeLinkId": "plink_1UBDkuLOfCA5mATuIBPaGDdd",
+              "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet quartz fumé baroques et pierres",
               "stripeDesc": "Ce bracelet en quartz fumé allie élégance et harmonie grâce à ses pierres baroques et naturelles. Le quartz fumé est réputé pour ses propriétés apaisantes et équilibrantes, aidant à purifier l’énergie et à favoriser la concentration. Parfait pour un usage quotidien, il apporte une touche sophistiquée tout en soutenant le bien-être émotionnel et spirituel.",
-              "stripePriceId": "price_1UBDkuLOfCA5mATuHgUtGluy",
-              "stripePrix": 16.7,
-              "stripeLinkId": "plink_1UBDkuLOfCA5mATuIBPaGDdd",
-              "stripe": "https://buy.stripe.com/eVq3cwagaabPgf6bBT2883N",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-quartz-fume-baroque-mtk3v5xn4s0d",
+              "nom": "Bracelet quartz fumé baroque",
+              "prix": 10.5,
+              "description": "Ce bracelet en quartz fumé baroque allie élégance et énergie apaisante. Le quartz fumé est souvent utilisé en lithothérapie pour favoriser la concentration, la stabilité émotionnelle et la protection énergétique. Parfait pour un usage quotidien, il apporte une touche raffinée tout en harmonisant votre environnement.",
+              "photo": "images/articles/bracelet-quartz-fume-baroque-mtk3v5xohd3d.jpg",
+              "prixBoutique": 9.9,
+              "stock": 2
             }
           ]
         }

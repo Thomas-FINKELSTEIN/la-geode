@@ -4439,16 +4439,25 @@
               "photo": "images/articles/bracelet-iolite-baroque-mtka49u04gv5.jpg",
               "prixBoutique": 9.9,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/cNidRa9c61Fj2og49r28845",
               "stripeProductId": "prod_VBdpelrnrmyMSq",
+              "stripePriceId": "price_1UBGXNLOfCA5mATurNqkPEmn",
+              "stripeLinkId": "plink_1UBGXOLOfCA5mATuCrxUAugP",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet iolite baroque",
               "stripeDesc": "La iolite est bénéfique pour le coeur et les artères, elle régule la circulation sanguine et réduit l'hypertension artérielle",
-              "stripePriceId": "price_1UBGXNLOfCA5mATurNqkPEmn",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UBGXOLOfCA5mATuCrxUAugP",
-              "stripe": "https://buy.stripe.com/cNidRa9c61Fj2og49r28845",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "bracelet-lapis-lazuli-8-mm-mtkacuu83s65",
+              "nom": "Bracelet lapis lazuli 8 mm",
+              "prix": 20.83,
+              "description": "Le lapis lazuli réduit le stress, atténue les migraines, allège les problèmes d' insomnie, aide à la communication, aussi pour les problèmes de peau( psyorasis, eczéma...)",
+              "photo": "images/articles/bracelet-lapis-lazuli-8-mm-mtkacuu8x9w5.jpg",
+              "prixBoutique": 19.9,
+              "stock": 4
             }
           ]
         }

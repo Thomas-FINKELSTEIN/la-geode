@@ -4020,7 +4020,17 @@
               "description": "Ce bracelet en quartz rutile baroque allie élégance et énergie dynamique. Le quartz rutile est souvent utilisé en lithothérapie pour stimuler la vitalité, renforcer la motivation et équilibrer les émotions. Parfait pour une touche naturelle et puissante au quotidien, il est idéal pour ceux qui cherchent à dynamiser leur énergie positive.",
               "photo": "images/articles/bracelet-quartz-rutile-baroque-mtjwp093ykpo.jpg",
               "prixBoutique": 14.9,
-              "stock": 7
+              "stock": 7,
+              "stripeProductId": "prod_VBXlm9R1k5Iu2L",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet quartz rutile baroque",
+              "stripeDesc": "Ce bracelet en quartz rutile baroque allie élégance et énergie dynamique. Le quartz rutile est souvent utilisé en lithothérapie pour stimuler la vitalité, renforcer la motivation et équilibrer les émotions. Parfait pour une touche naturelle et puissante au quotidien, il est idéal pour ceux qui cherchent à dynamiser leur énergie positive.",
+              "stripePriceId": "price_1UBAfgLOfCA5mATuZc7N6NW3",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UBAfgLOfCA5mATu8PYK5Nn6",
+              "stripe": "https://buy.stripe.com/28E14oaga2Jn6Ew5dv2883H",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         }

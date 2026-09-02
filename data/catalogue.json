@@ -4438,7 +4438,17 @@
               "description": "La iolite est bénéfique pour le coeur et les artères, elle régule la circulation sanguine et réduit l'hypertension artérielle",
               "photo": "images/articles/bracelet-iolite-baroque-mtka49u04gv5.jpg",
               "prixBoutique": 9.9,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_VBdpelrnrmyMSq",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet iolite baroque",
+              "stripeDesc": "La iolite est bénéfique pour le coeur et les artères, elle régule la circulation sanguine et réduit l'hypertension artérielle",
+              "stripePriceId": "price_1UBGXNLOfCA5mATurNqkPEmn",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UBGXOLOfCA5mATuCrxUAugP",
+              "stripe": "https://buy.stripe.com/cNidRa9c61Fj2og49r28845",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

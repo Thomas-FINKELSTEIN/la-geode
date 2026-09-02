@@ -3888,16 +3888,25 @@
               "photo": "images/articles/bracelet-jaspe-polychrome-8-mm-mtjuhjarfjd2.jpg",
               "prixBoutique": 9.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/14AbJ2ewq5Vz3skgWd2883A",
               "stripeProductId": "prod_VBWlLTbCQNGub8",
+              "stripePriceId": "price_1UB9hpLOfCA5mATu6S3WiH2N",
+              "stripeLinkId": "plink_1UB9hpLOfCA5mATu44QE4WV6",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe polychrome 8 mm",
               "stripeDesc": "Ce bracelet en jaspe polychrome allie des pierres naturelles aux couleurs variées et vibrantes, créant un équilibre visuel harmonieux. Le jaspe est souvent associé à la stabilité émotionnelle, à la protection et à l’ancrage, aidant à apaiser le mental et à renforcer la confiance en soi. Parfait pour un usage quotidien, il apporte une touche bohème et énergétique à votre style tout en vous accompagnant dans votre quête de bien-être.",
-              "stripePriceId": "price_1UB9hpLOfCA5mATu6S3WiH2N",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UB9hpLOfCA5mATu44QE4WV6",
-              "stripe": "https://buy.stripe.com/14AbJ2ewq5Vz3skgWd2883A",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-feuille-d-argent-6-mm-mtjummlftph7",
+              "nom": "Bracelet jaspe feuille d'argent 6 mm",
+              "prix": 13.6,
+              "description": "Ce bracelet en jaspe feuille d'argent est un accessoire élégant et naturel, composé de perles rondes aux reflets dorés et argentés. Le jaspe est souvent associé à la vitalité, à l'équilibre émotionnel et à la protection, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Parfait pour une utilisation quotidienne, il allie beauté minérale et bien-être énergétique.",
+              "photo": "images/articles/bracelet-jaspe-feuille-d-argent-6-mm-mtjummlfnh5l.jpg",
+              "prixBoutique": 12.9,
+              "stock": 6
             }
           ]
         }

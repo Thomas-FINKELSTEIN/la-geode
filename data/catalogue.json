@@ -4458,16 +4458,25 @@
               "photo": "images/articles/bracelet-lapis-lazuli-8-mm-mtkacuu8x9w5.jpg",
               "prixBoutique": 19.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/8x24gA2NIes53skeO528846",
               "stripeProductId": "prod_VBdvCx1CY3xuHi",
+              "stripePriceId": "price_1UBGdnLOfCA5mATuC7fAw7yn",
+              "stripeLinkId": "plink_1UBGdnLOfCA5mATu4Yqw1ojv",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Bracelet lapis lazuli 8 mm",
               "stripeDesc": "Le lapis lazuli réduit le stress, atténue les migraines, allège les problèmes d' insomnie, aide à la communication, aussi pour les problèmes de peau( psyorasis, eczéma...)",
-              "stripePriceId": "price_1UBGdnLOfCA5mATuC7fAw7yn",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UBGdnLOfCA5mATu4Yqw1ojv",
-              "stripe": "https://buy.stripe.com/8x24gA2NIes53skeO528846",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-lapis-lazuli-6-mm-mtkajawo18a5",
+              "nom": "Bracelet lapis lazuli 6 mm",
+              "prix": 18.76,
+              "description": "Ce bracelet en perles de lapis lazuli profond apporte une touche élégante tout en offrant une énergie apaisante. Selon la lithothérapie, cette pierre bleue favorise la sérénité, aide à soulager les tensions et les migraines, et encourage un sommeil plus réparateur. Parfait pour ceux qui cherchent à équilibrer leurs émotions et à retrouver une parole plus fluide au quotidien.",
+              "photo": "images/articles/bracelet-lapis-lazuli-6-mm-mtkajawo83u3.jpg",
+              "prixBoutique": 17.9,
+              "stock": 3
             }
           ]
         }

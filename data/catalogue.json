@@ -4001,7 +4001,17 @@
               "description": "Le quartz rutile est une pierre reconnue pour stimuler la confiance en soi? chasser les énergies négatives et favoriser l'élan pour passer à l'action.",
               "photo": "images/articles/bracelet-quartz-rutile-8-mm-mtjwdujw8law.jpg",
               "prixBoutique": 19.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBXc9BNhwG87wP",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet quartz rutile 8 mm",
+              "stripeDesc": "Le quartz rutile est une pierre reconnue pour stimuler la confiance en soi? chasser les énergies négatives et favoriser l'élan pour passer à l'action.",
+              "stripePriceId": "price_1UBAXILOfCA5mATuIDp95W7G",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UBAXILOfCA5mATuugHJcHub",
+              "stripe": "https://buy.stripe.com/8x2fZi5ZU83H4wodK12883G",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

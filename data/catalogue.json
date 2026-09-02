@@ -3887,7 +3887,17 @@
               "description": "Ce bracelet en jaspe polychrome allie des pierres naturelles aux couleurs variées et vibrantes, créant un équilibre visuel harmonieux. Le jaspe est souvent associé à la stabilité émotionnelle, à la protection et à l’ancrage, aidant à apaiser le mental et à renforcer la confiance en soi. Parfait pour un usage quotidien, il apporte une touche bohème et énergétique à votre style tout en vous accompagnant dans votre quête de bien-être.",
               "photo": "images/articles/bracelet-jaspe-polychrome-8-mm-mtjuhjarfjd2.jpg",
               "prixBoutique": 9.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBWlLTbCQNGub8",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe polychrome 8 mm",
+              "stripeDesc": "Ce bracelet en jaspe polychrome allie des pierres naturelles aux couleurs variées et vibrantes, créant un équilibre visuel harmonieux. Le jaspe est souvent associé à la stabilité émotionnelle, à la protection et à l’ancrage, aidant à apaiser le mental et à renforcer la confiance en soi. Parfait pour un usage quotidien, il apporte une touche bohème et énergétique à votre style tout en vous accompagnant dans votre quête de bien-être.",
+              "stripePriceId": "price_1UB9hpLOfCA5mATu6S3WiH2N",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UB9hpLOfCA5mATu44QE4WV6",
+              "stripe": "https://buy.stripe.com/14AbJ2ewq5Vz3skgWd2883A",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

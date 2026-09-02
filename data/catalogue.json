@@ -4457,7 +4457,17 @@
               "description": "Le lapis lazuli réduit le stress, atténue les migraines, allège les problèmes d' insomnie, aide à la communication, aussi pour les problèmes de peau( psyorasis, eczéma...)",
               "photo": "images/articles/bracelet-lapis-lazuli-8-mm-mtkacuu8x9w5.jpg",
               "prixBoutique": 19.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VBdvCx1CY3xuHi",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet lapis lazuli 8 mm",
+              "stripeDesc": "Le lapis lazuli réduit le stress, atténue les migraines, allège les problèmes d' insomnie, aide à la communication, aussi pour les problèmes de peau( psyorasis, eczéma...)",
+              "stripePriceId": "price_1UBGdnLOfCA5mATuC7fAw7yn",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UBGdnLOfCA5mATu4Yqw1ojv",
+              "stripe": "https://buy.stripe.com/8x24gA2NIes53skeO528846",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

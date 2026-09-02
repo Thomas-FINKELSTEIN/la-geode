@@ -3698,16 +3698,25 @@
               "photo": "images/articles/bracelet-jaspe-k2-6-mm-mtjtkd4k7626.jpg",
               "prixBoutique": 17.5,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/bJe8wQbke2Jn0g8axP2883q",
               "stripeProductId": "prod_VBWLHMlMYzDkBk",
+              "stripePriceId": "price_1UB9IqLOfCA5mATuwbi01r1m",
+              "stripeLinkId": "plink_1UB9IrLOfCA5mATup1PMSK5e",
+              "stripePrix": 18.35,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe k2 6 mm",
               "stripeDesc": "Le jaspe k2 est associé au chakra de la gorge , c'est un minéral naturel protégeant tout le système respiratoire repoussant les allergies et autres infections .",
-              "stripePriceId": "price_1UB9IqLOfCA5mATuwbi01r1m",
-              "stripePrix": 18.35,
-              "stripeLinkId": "plink_1UB9IrLOfCA5mATup1PMSK5e",
-              "stripe": "https://buy.stripe.com/bJe8wQbke2Jn0g8axP2883q",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-paysage-4-mm-mtjtnze3yeta",
+              "nom": "Bracelet Jaspe paysage 4 mm",
+              "prix": 5.95,
+              "description": "Ce bracelet en jaspe paysage est un accessoire naturel et élégant qui apporte une touche boisée et apaisante à votre quotidien. Le jaspe paysage est souvent associé à la stabilité émotionnelle, à la patience et à la connexion avec la nature, aidant à ancrer les énergies et à favoriser un sentiment de sécurité intérieure. Parfait pour un port quotidien, il allie beauté minérale et bien-être énergétique.",
+              "photo": "images/articles/bracelet-jaspe-paysage-4-mm-mtjtnze383st.jpg",
+              "prixBoutique": 5.5,
+              "stock": 4
             }
           ]
         }

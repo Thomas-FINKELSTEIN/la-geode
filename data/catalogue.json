@@ -4173,16 +4173,25 @@
               "photo": "images/articles/bracelet-quartz-fume-4-mm-mtk3wxo5frrc.jpg",
               "prixBoutique": 7.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/dRmeVefAufw90g8bBT2883R",
               "stripeProductId": "prod_VBb17t1ITjzpEf",
+              "stripePriceId": "price_1UBDpaLOfCA5mATu2EqG08r0",
+              "stripeLinkId": "plink_1UBDpaLOfCA5mATu3W5CEb46",
+              "stripePrix": 8.43,
               "stripeMode": "live",
               "stripeNom": "Bracelet quartz fumé 4 mm",
               "stripeDesc": "Ce bracelet en quartz fumé, aux reflets élégants et profonds, est une pièce raffinée pour sublimer votre quotidien. Le quartz fumé est souvent utilisé en lithothérapie pour son influence apaisante sur les émotions et son pouvoir de stabilisation énergétique. Parfait pour une touche minimaliste et pleine de douceur, il est idéal pour accompagner vos moments de détente ou de méditation.",
-              "stripePriceId": "price_1UBDpaLOfCA5mATu2EqG08r0",
-              "stripePrix": 8.43,
-              "stripeLinkId": "plink_1UBDpaLOfCA5mATu3W5CEb46",
-              "stripe": "https://buy.stripe.com/dRmeVefAufw90g8bBT2883R",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-nacre-10-mm-mtk40vnfjqxe",
+              "nom": "Bracelet Nacre 10 mm",
+              "prix": 16.03,
+              "description": "Ce bracelet en nacre de 10 mm de diamètre est une pièce élégante et intemporelle, appréciée pour sa douceur et son éclat subtil. En lithothérapie, la nacre est souvent associée à la protection et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. Elle est aussi utilisée pour renforcer la confiance en soi et favoriser une énergie positive au quotidien.",
+              "photo": "images/articles/bracelet-nacre-10-mm-mtk40vnfcv8n.jpg",
+              "prixBoutique": 15.25,
+              "stock": 1
             }
           ]
         }

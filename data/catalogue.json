@@ -3830,7 +3830,17 @@
               "description": "Ce bracelet en jaspe arc en ciel allie les couleurs vibrantes de cette pierre naturelle pour un effet à la fois esthétique et harmonisant. Le jaspe est souvent utilisé en lithothérapie pour renforcer la vitalité, équilibrer les émotions et apporter une énergie positive au quotidien. Parfait pour un usage personnel ou en cadeau, il se porte comme un symbole de dynamisme et de protection.",
               "photo": "images/articles/bracelet-jaspe-arc-en-ciel-8-mm-mtju6yks13kx.jpg",
               "prixBoutique": 15.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBWdlqrLtTiaJT",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe arc en ciel 8 mm",
+              "stripeDesc": "Ce bracelet en jaspe arc en ciel allie les couleurs vibrantes de cette pierre naturelle pour un effet à la fois esthétique et harmonisant. Le jaspe est souvent utilisé en lithothérapie pour renforcer la vitalité, équilibrer les émotions et apporter une énergie positive au quotidien. Parfait pour un usage personnel ou en cadeau, il se porte comme un symbole de dynamisme et de protection.",
+              "stripePriceId": "price_1UB9ZtLOfCA5mATuhimPBKnL",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1UB9ZuLOfCA5mATuFtbq2EWZ",
+              "stripe": "https://buy.stripe.com/5kQeVe73Yes54wo21j2883x",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

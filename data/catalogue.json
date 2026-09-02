@@ -4039,7 +4039,17 @@
               "description": "Ce bracelet en quartz rutile est un allié puissant pour dynamiser votre énergie et renforcer votre vitalité. Associé traditionnellement à la motivation et à la détermination, cette pierre naturelle stimule la concentration et aide à surmonter les obstacles du quotidien. Parfait pour porter au quotidien, il apporte une touche élégante tout en vous accompagnant dans vos projets ambitieux.",
               "photo": "images/articles/bracelet-quartz-rutile-6-mm-mtjwrrhwkgwu.jpg",
               "prixBoutique": 16.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBXnqip1t7YwRC",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet quartz rutile 6 mm",
+              "stripeDesc": "Ce bracelet en quartz rutile est un allié puissant pour dynamiser votre énergie et renforcer votre vitalité. Associé traditionnellement à la motivation et à la détermination, cette pierre naturelle stimule la concentration et aide à surmonter les obstacles du quotidien. Parfait pour porter au quotidien, il apporte une touche élégante tout en vous accompagnant dans vos projets ambitieux.",
+              "stripePriceId": "price_1UBAhjLOfCA5mATu6XAl2HoB",
+              "stripePrix": 17.73,
+              "stripeLinkId": "plink_1UBAhjLOfCA5mATubdyVDelE",
+              "stripe": "https://buy.stripe.com/bJe4gAcoibfTaUM7lD2883I",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

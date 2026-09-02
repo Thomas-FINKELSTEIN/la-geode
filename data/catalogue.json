@@ -4363,16 +4363,25 @@
               "photo": "images/articles/bracelet-hematite-4-mm-mtk5yy8ql09m.jpg",
               "prixBoutique": 4.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa3cw9c6gAd2og8pH28841",
               "stripeProductId": "prod_VBbwmUvTtatdDg",
+              "stripePriceId": "price_1UBEiwLOfCA5mATuz0SPyeYW",
+              "stripeLinkId": "plink_1UBEiwLOfCA5mATuooG53W6a",
+              "stripePrix": 5.33,
               "stripeMode": "live",
               "stripeNom": "Bracelet hématite 4 mm",
               "stripeDesc": "Ce bracelet en hématite de 4mm est un accessoire élégant et intemporel, composé de perles naturelles aux reflets métalliques profonds. L'hématite est souvent utilisée en lithothérapie pour renforcer la concentration, équilibrer les énergies et apporter une sensation de stabilité émotionnelle. Porté au quotidien, il est idéal pour ceux qui cherchent à ancrer leur énergie et à cultiver un état de calme intérieur.",
-              "stripePriceId": "price_1UBEiwLOfCA5mATuz0SPyeYW",
-              "stripePrix": 5.33,
-              "stripeLinkId": "plink_1UBEiwLOfCA5mATuooG53W6a",
-              "stripe": "https://buy.stripe.com/aFa3cw9c6gAd2og8pH28841",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-hematite-6-mm-mtk617pm0605",
+              "nom": "Bracelet hématite 6 mm",
+              "prix": 14.63,
+              "description": "Ce bracelet en hématite est composé de perles lisses et brillantes, parfait pour un style sobre et élégant. L'hématite est une pierre souvent utilisée en lithothérapie pour renforcer la concentration et équilibrer les énergies. Elle est aussi réputée pour ses vertus apaisantes et son pouvoir de protection, idéale pour le quotidien ou les moments de stress.",
+              "photo": "images/articles/bracelet-hematite-6-mm-mtk617pmsf32.jpg",
+              "prixBoutique": 13.9,
+              "stock": 8
             }
           ]
         }

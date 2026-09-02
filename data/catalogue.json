@@ -3659,7 +3659,17 @@
               "description": "Le jaspe paysage est une pierre d' ancrage, elle favorise la créativité et régule les émotions",
               "photo": "images/articles/bracelet-jaspe-paysage-6-mm-mtjt5qphrsmn.jpg",
               "prixBoutique": 6.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBWAfYArhY3Btd",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe paysage 6 mm",
+              "stripeDesc": "Le jaspe paysage est une pierre d' ancrage, elle favorise la créativité et régule les émotions",
+              "stripePriceId": "price_1UB97vLOfCA5mATuaLM5O4Ze",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1UB97vLOfCA5mATu8JR8JVWM",
+              "stripe": "https://buy.stripe.com/9B69AUagaabP1kcfS92883o",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

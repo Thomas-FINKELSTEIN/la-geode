@@ -3792,7 +3792,17 @@
               "description": "La jaspe mokaite offre à son porteur la protection et l' apaisement, elle agit sur le chakra racine.",
               "photo": "images/articles/bracelet-jaspe-mokaite-4-mm-mtju07gkvbgr.jpg",
               "prixBoutique": 8.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBWXPak3PgXyYr",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe mokaite 4 mm",
+              "stripeDesc": "La jaspe mokaite offre à son porteur la protection et l' apaisement, elle agit sur le chakra racine.",
+              "stripePriceId": "price_1UB9UlLOfCA5mATusMRJBbzd",
+              "stripePrix": 9.46,
+              "stripeLinkId": "plink_1UB9UlLOfCA5mATulrdn0BXR",
+              "stripe": "https://buy.stripe.com/4gM4gA5ZUgAdbYQ5dv2883v",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

@@ -4248,7 +4248,17 @@
               "description": "Pierre de protection puissante, la pyrite repousse les énergies négatives et les pollutions énergétiques",
               "photo": "images/articles/bracelet-pyrite-6-mm-mtk4q47vevrp.jpg",
               "prixBoutique": 11.9,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VBbN2tkhSKkRuM",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet pyrite  6 mm",
+              "stripeDesc": "Pierre de protection puissante, la pyrite repousse les énergies négatives et les pollutions énergétiques",
+              "stripePriceId": "price_1UBEBDLOfCA5mATuSt9qHDJy",
+              "stripePrix": 12.56,
+              "stripeLinkId": "plink_1UBEBDLOfCA5mATulLGkSGQA",
+              "stripe": "https://buy.stripe.com/bJeaEY9c63Nr6Ew21j2883V",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

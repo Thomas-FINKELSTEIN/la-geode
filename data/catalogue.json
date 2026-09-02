@@ -3812,16 +3812,25 @@
               "photo": "images/articles/bracelet-il-de-taureau-4-mm-mtju30hpp0fe.jpg",
               "prixBoutique": 7.5,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/3cI6oIewqes54wofS92883w",
               "stripeProductId": "prod_VBWa5Men3Glt5k",
+              "stripePriceId": "price_1UB9WvLOfCA5mATu2KEgOqqP",
+              "stripeLinkId": "plink_1UB9WvLOfCA5mATuzPwcsChP",
+              "stripePrix": 8.02,
               "stripeMode": "live",
               "stripeNom": "Bracelet Œil de taureau 4 mm",
               "stripeDesc": "Ce bracelet en œil de taureau, aussi appelé pierre de soleil, est composé de perles rondes et lumineuses qui captent la lumière pour créer un effet hypnotique. Selon la lithothérapie, cette pierre est souvent associée à la vitalité, à la protection et à l'équilibre énergétique, aidant à renforcer la confiance en soi et à apporter une énergie positive au quotidien. Parfait pour être porté au poignet, il s’accorde aussi bien avec des tenues décontractées que plus habillées.",
-              "stripePriceId": "price_1UB9WvLOfCA5mATu2KEgOqqP",
-              "stripePrix": 8.02,
-              "stripeLinkId": "plink_1UB9WvLOfCA5mATuzPwcsChP",
-              "stripe": "https://buy.stripe.com/3cI6oIewqes54wofS92883w",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-arc-en-ciel-8-mm-mtju6yksfswd",
+              "nom": "Bracelet jaspe arc en ciel 8 mm",
+              "prix": 16.7,
+              "description": "Ce bracelet en jaspe arc en ciel allie les couleurs vibrantes de cette pierre naturelle pour un effet à la fois esthétique et harmonisant. Le jaspe est souvent utilisé en lithothérapie pour renforcer la vitalité, équilibrer les émotions et apporter une énergie positive au quotidien. Parfait pour un usage personnel ou en cadeau, il se porte comme un symbole de dynamisme et de protection.",
+              "photo": "images/articles/bracelet-jaspe-arc-en-ciel-8-mm-mtju6yks13kx.jpg",
+              "prixBoutique": 15.9,
+              "stock": 1
             }
           ]
         }

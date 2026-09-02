@@ -3907,16 +3907,25 @@
               "photo": "images/articles/bracelet-jaspe-feuille-d-argent-6-mm-mtjummlfnh5l.jpg",
               "prixBoutique": 12.9,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/bJe7sMbkecjXd2U9tL2883B",
               "stripeProductId": "prod_VBWpzh2w3dbg6x",
+              "stripePriceId": "price_1UB9lgLOfCA5mATuhhn6ddVI",
+              "stripeLinkId": "plink_1UB9lgLOfCA5mATuqa3aLg7E",
+              "stripePrix": 13.6,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe feuille d'argent 6 mm",
               "stripeDesc": "Ce bracelet en jaspe feuille d'argent est un accessoire élégant et naturel, composé de perles rondes aux reflets dorés et argentés. Le jaspe est souvent associé à la vitalité, à l'équilibre émotionnel et à la protection, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Parfait pour une utilisation quotidienne, il allie beauté minérale et bien-être énergétique.",
-              "stripePriceId": "price_1UB9lgLOfCA5mATuhhn6ddVI",
-              "stripePrix": 13.6,
-              "stripeLinkId": "plink_1UB9lgLOfCA5mATuqa3aLg7E",
-              "stripe": "https://buy.stripe.com/bJe7sMbkecjXd2U9tL2883B",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-feuille-d-argent-10-mm-mtjuy6j8fy6g",
+              "nom": "Bracelet jaspe feuille d'argent 10 mm",
+              "prix": 15.25,
+              "description": "Ce bracelet en jaspe feuille d'argent est un accessoire élégant et naturel qui allie beauté et bien-être. Le jaspe, pierre de terre riche en énergie, est souvent utilisé en lithothérapie pour apaiser les émotions et favoriser la stabilité intérieure. Parfait pour un usage quotidien, il apporte une touche de douceur et de sérénité à votre quotidien.",
+              "photo": "images/articles/bracelet-jaspe-feuille-d-argent-10-mm-mtjuy6j8493r.jpg",
+              "prixBoutique": 14.5,
+              "stock": 2
             }
           ]
         }

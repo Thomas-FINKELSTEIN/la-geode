@@ -3678,7 +3678,17 @@
               "description": "",
               "photo": null,
               "prixBoutique": 6.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBWCV2r53uFgT8",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe héliotrope 6 mm",
+              "stripeDesc": "",
+              "stripePriceId": "price_1UB9AQLOfCA5mATuZYsRIe8q",
+              "stripePrix": 7.4,
+              "stripeLinkId": "plink_1UB9AQLOfCA5mATuKSYCF1vn",
+              "stripe": "https://buy.stripe.com/cNicN60FAcjX1kcbBT2883p",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

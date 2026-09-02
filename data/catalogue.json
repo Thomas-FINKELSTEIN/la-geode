@@ -4495,7 +4495,17 @@
               "description": "Ce bracelet en quartz rutile à facettes allie élégance et énergie positive. Le quartz rutile est souvent associé à une augmentation de la vitalité et de la motivation, aidant à dynamiser le corps et l’esprit. Porté au quotidien, il est idéal pour ceux qui cherchent à retrouver un équilibre énergétique et une meilleure concentration.",
               "photo": "images/articles/bracelet-quartz-rutile-a-facette-mtkbq86gn2eq.jpg",
               "prixBoutique": 14.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBeYN1VIuYl3XF",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet quartz rutile à facette",
+              "stripeDesc": "Ce bracelet en quartz rutile à facettes allie élégance et énergie positive. Le quartz rutile est souvent associé à une augmentation de la vitalité et de la motivation, aidant à dynamiser le corps et l’esprit. Porté au quotidien, il est idéal pour ceux qui cherchent à retrouver un équilibre énergétique et une meilleure concentration.",
+              "stripePriceId": "price_1UBHEuLOfCA5mATuSp7SeGGv",
+              "stripePrix": 15.25,
+              "stripeLinkId": "plink_1UBHEvLOfCA5mATuyhdkrGGK",
+              "stripe": "https://buy.stripe.com/6oU3cw73YabP7IAbBT28900",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -4343,7 +4343,17 @@
               "description": "Ce bracelet en hématite baroque est un accessoire élégant et intemporel, composé de pierres naturelles aux reflets métalliques profonds. L'hématite est souvent utilisée en lithothérapie pour renforcer la vitalité, ancrer l'énergie et favoriser un sentiment de stabilité émotionnelle. Porté au quotidien, il apporte une touche sophistiquée tout en harmonisant le flux énergétique.",
               "photo": "images/articles/bracelet-hematite-baroque-mtk5wslvopc7.jpg",
               "prixBoutique": 3.5,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBbvf3tjFai3qK",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet hématite baroque",
+              "stripeDesc": "Ce bracelet en hématite baroque est un accessoire élégant et intemporel, composé de pierres naturelles aux reflets métalliques profonds. L'hématite est souvent utilisée en lithothérapie pour renforcer la vitalité, ancrer l'énergie et favoriser un sentiment de stabilité émotionnelle. Porté au quotidien, il apporte une touche sophistiquée tout en harmonisant le flux énergétique.",
+              "stripePriceId": "price_1UBEhRLOfCA5mATuxCQKN6mM",
+              "stripePrix": 3.88,
+              "stripeLinkId": "plink_1UBEhSLOfCA5mATuY8PF6PGF",
+              "stripe": "https://buy.stripe.com/9B6bJ23RMfw91kc7lD28840",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

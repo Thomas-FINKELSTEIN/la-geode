@@ -4305,7 +4305,17 @@
               "description": "Le rubis sur zoizite est une pierre naturelle qui associe le vert de la zoizite et le rouge du rubis, ce qui permet à son porteur , des vertus d' équilibre entre vitalité et apaisement.",
               "photo": "images/articles/bracelet-rubis-sur-zoizite-baroque-mtk5n4n6w3os.jpg",
               "prixBoutique": 15,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VBbnnUaANZ34aM",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet rubis sur zoizite baroque",
+              "stripeDesc": "Le rubis sur zoizite est une pierre naturelle qui associe le vert de la zoizite et le rouge du rubis, ce qui permet à son porteur , des vertus d' équilibre entre vitalité et apaisement.",
+              "stripePriceId": "price_1UBEa0LOfCA5mATu0lPe88Oe",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UBEa0LOfCA5mATuBEzbD9ls",
+              "stripe": "https://buy.stripe.com/3cI00kagaes59QIcFX2883Y",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

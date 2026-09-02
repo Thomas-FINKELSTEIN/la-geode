@@ -4059,16 +4059,25 @@
               "photo": "images/articles/bracelet-iolite-baroque-mtjwxz6jw6y4.jpg",
               "prixBoutique": 14.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIeVedsmbfTgf6axP2883J",
               "stripeProductId": "prod_VBXszCFxSy27Cd",
+              "stripePriceId": "price_1UBAmQLOfCA5mATupTJNtFvD",
+              "stripeLinkId": "plink_1UBAmQLOfCA5mATu2Z2hmTk1",
+              "stripePrix": 15.25,
               "stripeMode": "live",
               "stripeNom": "Bracelet iolite baroque",
               "stripeDesc": "Ce bracelet en iolite baroque allie élégance et énergie apaisante. La iolite, aussi appelée pierre du voyageur, est réputée pour favoriser la clarté mentale et renforcer la confiance en soi. Parfaite pour accompagner votre quotidien, elle est souvent utilisée pour équilibrer les émotions et stimuler la concentration.",
-              "stripePriceId": "price_1UBAmQLOfCA5mATupTJNtFvD",
-              "stripePrix": 15.25,
-              "stripeLinkId": "plink_1UBAmQLOfCA5mATu2Z2hmTk1",
-              "stripe": "https://buy.stripe.com/3cIeVedsmbfTgf6axP2883J",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-heliotrope-6-mm-mtjx12jfpm27",
+              "nom": "Bracelet Jaspe héliotrope 6 mm",
+              "prix": 13.6,
+              "description": "Ce bracelet en jaspe héliotrope allie la douceur des pierres naturelles et une touche de couleur verte apaisante. Le jaspe héliotrope est souvent utilisé en lithothérapie pour favoriser l'équilibre émotionnel, renforcer la vitalité et stimuler la créativité. Parfait pour un port quotidien, il apporte une énergie harmonieuse et une protection bienveillante au quotidien.",
+              "photo": "images/articles/bracelet-jaspe-heliotrope-6-mm-mtjx12jg1tjd.jpg",
+              "prixBoutique": 12.9,
+              "stock": 2
             }
           ]
         }

@@ -4116,16 +4116,25 @@
               "photo": "images/articles/bracelet-quartz-fume-6-mm-mtk3l3wm3n9w.jpg",
               "prixBoutique": 12.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/dRm3cwaga5Vz2og5dv2883M",
               "stripeProductId": "prod_VBasnctqo0cP5n",
+              "stripePriceId": "price_1UBDgMLOfCA5mATuALxlDsfh",
+              "stripeLinkId": "plink_1UBDgNLOfCA5mATuzCxbdjPp",
+              "stripePrix": 13.6,
               "stripeMode": "live",
               "stripeNom": "Bracelet quartz fumé 6 mm",
               "stripeDesc": "Ce bracelet en quartz fumé 6 mm est un accessoire élégant et intemporel, composé de perles lisses et brillantes aux reflets dorés. En lithothérapie, le quartz fumé est souvent associé à la protection énergétique et à l’ancrage, aidant à stabiliser les émotions et à renforcer la concentration. Porté au quotidien, il est aussi apprécié pour ses propriétés harmonisantes, favorisant un équilibre entre le corps et l’esprit.",
-              "stripePriceId": "price_1UBDgMLOfCA5mATuALxlDsfh",
-              "stripePrix": 13.6,
-              "stripeLinkId": "plink_1UBDgNLOfCA5mATuzCxbdjPp",
-              "stripe": "https://buy.stripe.com/dRm3cwaga5Vz2og5dv2883M",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-quartz-fume-baroques-et-pierres-mtk3r4erkebk",
+              "nom": "Bracelet quartz fumé baroques et pierres",
+              "prix": 16.7,
+              "description": "Ce bracelet en quartz fumé allie élégance et harmonie grâce à ses pierres baroques et naturelles. Le quartz fumé est réputé pour ses propriétés apaisantes et équilibrantes, aidant à purifier l’énergie et à favoriser la concentration. Parfait pour un usage quotidien, il apporte une touche sophistiquée tout en soutenant le bien-être émotionnel et spirituel.",
+              "photo": "images/articles/bracelet-quartz-fume-baroques-et-pierres-mtk3r4erm60y.jpg",
+              "prixBoutique": 15.9,
+              "stock": 1
             }
           ]
         }

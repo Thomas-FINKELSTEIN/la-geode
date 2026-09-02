@@ -4324,7 +4324,17 @@
               "description": "Ce bracelet en pierres naturelles associe la douceur du rubis et la profondeur du saphir pour une harmonie visuelle et énergétique. Traditionnellement, le rubis est associé à la vitalité et à la passion, tandis que le saphir symbolise la sagesse et la protection. Parfait pour apporter équilibre et énergie positive au quotidien, ce bracelet est idéal pour ceux qui cherchent à renforcer leur confiance et leur bien-être émotionnel.",
               "photo": "images/articles/bracelet-rubis-saphir-roule-mtk5roqjzpzz.jpg",
               "prixBoutique": 15.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VBbrohuM3vGJaT",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet rubis saphir roulé",
+              "stripeDesc": "Ce bracelet en pierres naturelles associe la douceur du rubis et la profondeur du saphir pour une harmonie visuelle et énergétique. Traditionnellement, le rubis est associé à la vitalité et à la passion, tandis que le saphir symbolise la sagesse et la protection. Parfait pour apporter équilibre et énergie positive au quotidien, ce bracelet est idéal pour ceux qui cherchent à renforcer leur confiance et leur bien-être émotionnel.",
+              "stripePriceId": "price_1UBEdTLOfCA5mATuSWw7I2dY",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1UBEdTLOfCA5mATu0KqrvdFM",
+              "stripe": "https://buy.stripe.com/8x228sfAufw9d2UcFX2883Z",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

@@ -4192,16 +4192,25 @@
               "photo": "images/articles/bracelet-nacre-10-mm-mtk40vnfcv8n.jpg",
               "prixBoutique": 15.25,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM6oIewqgAdbYQcFX2883S",
               "stripeProductId": "prod_VBb44gU5D7um8y",
+              "stripePriceId": "price_1UBDsKLOfCA5mATu09qrVNu3",
+              "stripeLinkId": "plink_1UBDsKLOfCA5mATuEnOSYTrU",
+              "stripePrix": 16.03,
               "stripeMode": "live",
               "stripeNom": "Bracelet Nacre 10 mm",
               "stripeDesc": "Ce bracelet en nacre de 10 mm de diamètre est une pièce élégante et intemporelle, appréciée pour sa douceur et son éclat subtil. En lithothérapie, la nacre est souvent associée à la protection et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. Elle est aussi utilisée pour renforcer la confiance en soi et favoriser une énergie positive au quotidien.",
-              "stripePriceId": "price_1UBDsKLOfCA5mATu09qrVNu3",
-              "stripePrix": 16.03,
-              "stripeLinkId": "plink_1UBDsKLOfCA5mATuEnOSYTrU",
-              "stripe": "https://buy.stripe.com/4gM6oIewqgAdbYQcFX2883S",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-rubellite-et-tourmaline-baroque-mtk48vlvi1uu",
+              "nom": "Bracelet rubellite et tourmaline baroque",
+              "prix": 15.66,
+              "description": "Traditionnellement associée au chakra du coeur , la rubellite symbolise la douceur émotionnelle, l' amour de soi et l' équilibre affectif.",
+              "photo": "images/articles/bracelet-rubellite-et-tourmaline-baroque-mtk48vlvbhvr.jpg",
+              "prixBoutique": 14.9,
+              "stock": 1
             }
           ]
         }

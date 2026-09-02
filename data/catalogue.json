@@ -4419,7 +4419,17 @@
               "description": "La malachite aide à soulager les maux de dos, et associer une pierre de lune elles soulagent la  polyarthrite, tensions musculaires, articulations et tendons.",
               "photo": "images/articles/bracelet-malachite-8-mm-mtk6buczu0ig.jpg",
               "prixBoutique": 27.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VBc7GlAZCB48fb",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet malachite 8 mm",
+              "stripeDesc": "La malachite aide à soulager les maux de dos, et associer une pierre de lune elles soulagent la  polyarthrite, tensions musculaires, articulations et tendons.",
+              "stripePriceId": "price_1UBEsrLOfCA5mATugsx6T0zp",
+              "stripePrix": 29.1,
+              "stripeLinkId": "plink_1UBEsrLOfCA5mATuTXlevTTT",
+              "stripe": "https://buy.stripe.com/6oU4gAfAu3Nr2ogcFX28844",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

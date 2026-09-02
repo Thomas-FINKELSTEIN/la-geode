@@ -3945,16 +3945,25 @@
               "photo": "images/articles/bracelet-jaspe-feuille-d-argent-4-mm-mtjv006tvtxa.jpg",
               "prixBoutique": 8.5,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/9B614oaga0Bf8ME5dv2883D",
               "stripeProductId": "prod_VBWzg0FW4yjoWr",
+              "stripePriceId": "price_1UB9vjLOfCA5mATu60f0yzCa",
+              "stripeLinkId": "plink_1UB9vkLOfCA5mATu8pY3vLnq",
+              "stripePrix": 9.05,
               "stripeMode": "live",
               "stripeNom": "Bracelet Jaspe feuille d'argent 4 mm",
               "stripeDesc": "Ce bracelet en jaspe feuille d'argent est un accessoire élégant et naturel, parfait pour sublimer votre style au quotidien. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel et à la protection, aidant à apaiser les tensions et à renforcer la confiance en soi. Ses reflets argentés et ses motifs organiques en font un allié idéal pour harmoniser l'énergie et favoriser la sérénité.",
-              "stripePriceId": "price_1UB9vjLOfCA5mATu60f0yzCa",
-              "stripePrix": 9.05,
-              "stripeLinkId": "plink_1UB9vkLOfCA5mATu8pY3vLnq",
-              "stripe": "https://buy.stripe.com/9B614oaga0Bf8ME5dv2883D",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-rouge-4-mm-mtjve4ezr3k5",
+              "nom": "Bracelet Jaspe rouge 4 mm",
+              "prix": 9.46,
+              "description": "Ce bracelet en jaspe rouge, composé de perles lisses et harmonieuses, est un accessoire à la fois élégant et chargé d'énergie positive. Le jaspe rouge est traditionnellement associé à la vitalité, à la force et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'endurance. Parfait pour un usage quotidien, il apporte une touche naturelle et apaisante à votre style tout en vous accompagnant dans vos moments de besoin énergétique.",
+              "photo": "images/articles/bracelet-jaspe-rouge-4-mm-mtjve4ezdejm.jpg",
+              "prixBoutique": 8.9,
+              "stock": 3
             }
           ]
         }

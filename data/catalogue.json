@@ -3982,7 +3982,17 @@
               "description": "Le quartz rose est symbole d'amour et de sincérité, elle accompagne le couple dans la relation seine, ce minéral possède des vertus apaisantes elle aide à réduire le stress et minimise les effets néfastes sur le corps.",
               "photo": "images/articles/bracelet-quartz-rose-8-mm-mtjw3xetlfzs.jpg",
               "prixBoutique": 15.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VBXUCBV0o8MNVu",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet quartz rose 8 mm",
+              "stripeDesc": "Le quartz rose est symbole d'amour et de sincérité, elle accompagne le couple dans la relation seine, ce minéral possède des vertus apaisantes elle aide à réduire le stress et minimise les effets néfastes sur le corps.",
+              "stripePriceId": "price_1UBAPoLOfCA5mATugckHkYtl",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1UBAPpLOfCA5mATudy2AIyE7",
+              "stripe": "https://buy.stripe.com/cNi00k0FAfw9d2UbBT2883F",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

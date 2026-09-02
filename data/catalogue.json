@@ -4400,7 +4400,17 @@
               "description": "Ce bracelet en hématite de 8 mm est un accessoire élégant et intemporel, composé de perles naturelles aux reflets métalliques profonds. L'hématite est souvent utilisée en lithothérapie pour renforcer la concentration, ancrer l'énergie et apaiser les émotions. Porté au quotidien, il est réputé pour favoriser la stabilité mentale et le bien-être physique.",
               "photo": "images/articles/bracelet-hematite-8-mm-mtk6554qnvs2.jpg",
               "prixBoutique": 14.9,
-              "stock": 8
+              "stock": 8,
+              "stripeProductId": "prod_VBc1WWmDN7mtgZ",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet hématite 8 mm",
+              "stripeDesc": "Ce bracelet en hématite de 8 mm est un accessoire élégant et intemporel, composé de perles naturelles aux reflets métalliques profonds. L'hématite est souvent utilisée en lithothérapie pour renforcer la concentration, ancrer l'énergie et apaiser les émotions. Porté au quotidien, il est réputé pour favoriser la stabilité mentale et le bien-être physique.",
+              "stripePriceId": "price_1UBEnfLOfCA5mATuO14q95Uh",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UBEngLOfCA5mATuN2pQEVU7",
+              "stripe": "https://buy.stripe.com/7sY00k1JE5Vze6Y5dv28843",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         }

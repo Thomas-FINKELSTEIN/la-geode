@@ -4077,7 +4077,17 @@
               "description": "Ce bracelet en jaspe héliotrope allie la douceur des pierres naturelles et une touche de couleur verte apaisante. Le jaspe héliotrope est souvent utilisé en lithothérapie pour favoriser l'équilibre émotionnel, renforcer la vitalité et stimuler la créativité. Parfait pour un port quotidien, il apporte une énergie harmonieuse et une protection bienveillante au quotidien.",
               "photo": "images/articles/bracelet-jaspe-heliotrope-6-mm-mtjx12jg1tjd.jpg",
               "prixBoutique": 12.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBXuI2yZaSn1U4",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Jaspe héliotrope 6 mm",
+              "stripeDesc": "Ce bracelet en jaspe héliotrope allie la douceur des pierres naturelles et une touche de couleur verte apaisante. Le jaspe héliotrope est souvent utilisé en lithothérapie pour favoriser l'équilibre émotionnel, renforcer la vitalité et stimuler la créativité. Parfait pour un port quotidien, il apporte une énergie harmonieuse et une protection bienveillante au quotidien.",
+              "stripePriceId": "price_1UBAoiLOfCA5mATuxG3Z23i4",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1UBAoiLOfCA5mATuMvQa4y8R",
+              "stripe": "https://buy.stripe.com/eVq14oewq83H2og35n2883K",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

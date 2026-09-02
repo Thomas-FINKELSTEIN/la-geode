@@ -3944,7 +3944,17 @@
               "description": "Ce bracelet en jaspe feuille d'argent est un accessoire élégant et naturel, parfait pour sublimer votre style au quotidien. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel et à la protection, aidant à apaiser les tensions et à renforcer la confiance en soi. Ses reflets argentés et ses motifs organiques en font un allié idéal pour harmoniser l'énergie et favoriser la sérénité.",
               "photo": "images/articles/bracelet-jaspe-feuille-d-argent-4-mm-mtjv006tvtxa.jpg",
               "prixBoutique": 8.5,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBWzg0FW4yjoWr",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Jaspe feuille d'argent 4 mm",
+              "stripeDesc": "Ce bracelet en jaspe feuille d'argent est un accessoire élégant et naturel, parfait pour sublimer votre style au quotidien. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel et à la protection, aidant à apaiser les tensions et à renforcer la confiance en soi. Ses reflets argentés et ses motifs organiques en font un allié idéal pour harmoniser l'énergie et favoriser la sérénité.",
+              "stripePriceId": "price_1UB9vjLOfCA5mATu60f0yzCa",
+              "stripePrix": 9.05,
+              "stripeLinkId": "plink_1UB9vkLOfCA5mATu8pY3vLnq",
+              "stripe": "https://buy.stripe.com/9B614oaga0Bf8ME5dv2883D",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

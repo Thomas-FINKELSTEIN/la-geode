@@ -3831,16 +3831,25 @@
               "photo": "images/articles/bracelet-jaspe-arc-en-ciel-8-mm-mtju6yks13kx.jpg",
               "prixBoutique": 15.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQeVe73Yes54wo21j2883x",
               "stripeProductId": "prod_VBWdlqrLtTiaJT",
+              "stripePriceId": "price_1UB9ZtLOfCA5mATuhimPBKnL",
+              "stripeLinkId": "plink_1UB9ZuLOfCA5mATuFtbq2EWZ",
+              "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe arc en ciel 8 mm",
               "stripeDesc": "Ce bracelet en jaspe arc en ciel allie les couleurs vibrantes de cette pierre naturelle pour un effet à la fois esthétique et harmonisant. Le jaspe est souvent utilisé en lithothérapie pour renforcer la vitalité, équilibrer les émotions et apporter une énergie positive au quotidien. Parfait pour un usage personnel ou en cadeau, il se porte comme un symbole de dynamisme et de protection.",
-              "stripePriceId": "price_1UB9ZtLOfCA5mATuhimPBKnL",
-              "stripePrix": 16.7,
-              "stripeLinkId": "plink_1UB9ZuLOfCA5mATuFtbq2EWZ",
-              "stripe": "https://buy.stripe.com/5kQeVe73Yes54wo21j2883x",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-arc-en-ciel-6-mm-mtjueivo13aa",
+              "nom": "Bracelet Jaspe arc en ciel 6 mm",
+              "prix": 15.66,
+              "description": "Ce bracelet en jaspe arc en ciel est un accessoire élégant et coloré qui apporte une touche de vitalité à votre quotidien. Le jaspe arc en ciel est souvent associé à l'équilibre émotionnel et à la connexion avec les énergies de la vie, aidant à renforcer la confiance en soi et à harmoniser les émotions. Parfait pour un port quotidien, il allie beauté naturelle et bien-être énergétique.",
+              "photo": "images/articles/bracelet-jaspe-arc-en-ciel-6-mm-mtjueivohn9w.jpg",
+              "prixBoutique": 14.9,
+              "stock": 3
             }
           ]
         }

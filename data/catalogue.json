@@ -4477,16 +4477,25 @@
               "photo": "images/articles/bracelet-lapis-lazuli-6-mm-mtkajawo83u3.jpg",
               "prixBoutique": 17.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/28E5kE4VQ6ZD2ogfS928847",
               "stripeProductId": "prod_VBe0A4dHbEPBpx",
+              "stripePriceId": "price_1UBGicLOfCA5mATuQv4b8gy7",
+              "stripeLinkId": "plink_1UBGicLOfCA5mATuZmdubzsp",
+              "stripePrix": 18.76,
               "stripeMode": "live",
               "stripeNom": "Bracelet lapis lazuli 6 mm",
               "stripeDesc": "Ce bracelet en perles de lapis lazuli profond apporte une touche élégante tout en offrant une énergie apaisante. Selon la lithothérapie, cette pierre bleue favorise la sérénité, aide à soulager les tensions et les migraines, et encourage un sommeil plus réparateur. Parfait pour ceux qui cherchent à équilibrer leurs émotions et à retrouver une parole plus fluide au quotidien.",
-              "stripePriceId": "price_1UBGicLOfCA5mATuQv4b8gy7",
-              "stripePrix": 18.76,
-              "stripeLinkId": "plink_1UBGicLOfCA5mATuZmdubzsp",
-              "stripe": "https://buy.stripe.com/28E5kE4VQ6ZD2ogfS928847",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-quartz-rutile-a-facette-mtkbq86gym0r",
+              "nom": "Bracelet quartz rutile à facette",
+              "prix": 15.25,
+              "description": "Ce bracelet en quartz rutile à facettes allie élégance et énergie positive. Le quartz rutile est souvent associé à une augmentation de la vitalité et de la motivation, aidant à dynamiser le corps et l’esprit. Porté au quotidien, il est idéal pour ceux qui cherchent à retrouver un équilibre énergétique et une meilleure concentration.",
+              "photo": "images/articles/bracelet-quartz-rutile-a-facette-mtkbq86gn2eq.jpg",
+              "prixBoutique": 14.5,
+              "stock": 1
             }
           ]
         }

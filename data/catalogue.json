@@ -4096,7 +4096,17 @@
               "description": "Ce bracelet en quartz fumé, aussi appelé quartz morion, est composé de perles rondes et lisses qui captent parfaitement la lumière. Cette pierre est souvent utilisée en lithothérapie pour son énergie apaisante et stabilisatrice, aidant à équilibrer les émotions et à renforcer la concentration. Parfait pour un port quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver un état de calme intérieur.",
               "photo": "images/articles/bracelet-quartz-fume-8-mm-mtjx4iv82jnu.jpg",
               "prixBoutique": 14.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VBXxTWm2Wf1vI0",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Quartz fumé 8 mm",
+              "stripeDesc": "Ce bracelet en quartz fumé, aussi appelé quartz morion, est composé de perles rondes et lisses qui captent parfaitement la lumière. Cette pierre est souvent utilisée en lithothérapie pour son énergie apaisante et stabilisatrice, aidant à équilibrer les émotions et à renforcer la concentration. Parfait pour un port quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver un état de calme intérieur.",
+              "stripePriceId": "price_1UBArNLOfCA5mATufRLc1eUX",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UBArNLOfCA5mATuM3YWn0Y7",
+              "stripe": "https://buy.stripe.com/fZueVe9c60Bf9QI6hz2883L",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

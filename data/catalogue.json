@@ -3754,7 +3754,17 @@
               "description": "Ce bracelet en jaspe paysage, aux teintes douces et variées, est un véritable trésor de la lithothérapie. Cette pierre naturelle, aux motifs rappelant les paysages terrestres, est souvent associée à l'ancrage, à la stabilité émotionnelle et à la connexion avec la nature. Porté au quotidien, il favorise un sentiment de calme et d'équilibre, tout en renforçant la confiance en soi.",
               "photo": "images/articles/bracelet-jaspe-paysage-10-mm-mtjtrzpvgnak.jpg",
               "prixBoutique": 8.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBWRgJHjolFvSI",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Jaspe paysage 10 mm",
+              "stripeDesc": "Ce bracelet en jaspe paysage, aux teintes douces et variées, est un véritable trésor de la lithothérapie. Cette pierre naturelle, aux motifs rappelant les paysages terrestres, est souvent associée à l'ancrage, à la stabilité émotionnelle et à la connexion avec la nature. Porté au quotidien, il favorise un sentiment de calme et d'équilibre, tout en renforçant la confiance en soi.",
+              "stripePriceId": "price_1UB9OdLOfCA5mATuVCJLNpTG",
+              "stripePrix": 9.46,
+              "stripeLinkId": "plink_1UB9OdLOfCA5mATuGoYlIWPi",
+              "stripe": "https://buy.stripe.com/14AeVedsm0Bf2ogdK12883t",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

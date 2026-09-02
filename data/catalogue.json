@@ -3963,7 +3963,17 @@
               "description": "Ce bracelet en jaspe rouge, composé de perles lisses et harmonieuses, est un accessoire à la fois élégant et chargé d'énergie positive. Le jaspe rouge est traditionnellement associé à la vitalité, à la force et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'endurance. Parfait pour un usage quotidien, il apporte une touche naturelle et apaisante à votre style tout en vous accompagnant dans vos moments de besoin énergétique.",
               "photo": "images/articles/bracelet-jaspe-rouge-4-mm-mtjve4ezdejm.jpg",
               "prixBoutique": 8.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VBXAuZ9geEaqFq",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Jaspe rouge 4 mm",
+              "stripeDesc": "Ce bracelet en jaspe rouge, composé de perles lisses et harmonieuses, est un accessoire à la fois élégant et chargé d'énergie positive. Le jaspe rouge est traditionnellement associé à la vitalité, à la force et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'endurance. Parfait pour un usage quotidien, il apporte une touche naturelle et apaisante à votre style tout en vous accompagnant dans vos moments de besoin énergétique.",
+              "stripePriceId": "price_1UBA6MLOfCA5mATubMZfvTs5",
+              "stripePrix": 9.46,
+              "stripeLinkId": "plink_1UBA6MLOfCA5mATuhVn8URS9",
+              "stripe": "https://buy.stripe.com/3cI6oIdsmfw95As6hz2883E",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

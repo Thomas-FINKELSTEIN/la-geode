@@ -3621,7 +3621,17 @@
               "description": "La jaspe héliotrope active la circulation du sang, elle lutte contre l'acidité et renforce l' immunité, elle lutte contre contre les états inflammatoires et infectieux.",
               "photo": "images/articles/bracelet-jaspe-heliotrope-4-mm-mtjsn64dqozs.jpg",
               "prixBoutique": 5.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VBVv4ZRKzog6hf",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe héliotrope 4 mm",
+              "stripeDesc": "La jaspe héliotrope active la circulation du sang, elle lutte contre l'acidité et renforce l' immunité, elle lutte contre contre les états inflammatoires et infectieux.",
+              "stripePriceId": "price_1UB8ttLOfCA5mATu4djLncHt",
+              "stripePrix": 6.36,
+              "stripeLinkId": "plink_1UB8tuLOfCA5mATuStkVzpOs",
+              "stripe": "https://buy.stripe.com/cNi8wQ73Ydo1fb2gWd2883m",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

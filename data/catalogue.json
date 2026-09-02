@@ -3983,16 +3983,25 @@
               "photo": "images/articles/bracelet-quartz-rose-8-mm-mtjw3xetlfzs.jpg",
               "prixBoutique": 15.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/cNi00k0FAfw9d2UbBT2883F",
               "stripeProductId": "prod_VBXUCBV0o8MNVu",
+              "stripePriceId": "price_1UBAPoLOfCA5mATugckHkYtl",
+              "stripeLinkId": "plink_1UBAPpLOfCA5mATudy2AIyE7",
+              "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet quartz rose 8 mm",
               "stripeDesc": "Le quartz rose est symbole d'amour et de sincérité, elle accompagne le couple dans la relation seine, ce minéral possède des vertus apaisantes elle aide à réduire le stress et minimise les effets néfastes sur le corps.",
-              "stripePriceId": "price_1UBAPoLOfCA5mATugckHkYtl",
-              "stripePrix": 16.7,
-              "stripeLinkId": "plink_1UBAPpLOfCA5mATudy2AIyE7",
-              "stripe": "https://buy.stripe.com/cNi00k0FAfw9d2UbBT2883F",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-quartz-rutile-8-mm-mtjwdujwpp85",
+              "nom": "Bracelet quartz rutile 8 mm",
+              "prix": 20.83,
+              "description": "Le quartz rutile est une pierre reconnue pour stimuler la confiance en soi? chasser les énergies négatives et favoriser l'élan pour passer à l'action.",
+              "photo": "images/articles/bracelet-quartz-rutile-8-mm-mtjwdujw8law.jpg",
+              "prixBoutique": 19.9,
+              "stock": 2
             }
           ]
         }

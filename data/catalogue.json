@@ -4381,7 +4381,17 @@
               "description": "Ce bracelet en hématite est composé de perles lisses et brillantes, parfait pour un style sobre et élégant. L'hématite est une pierre souvent utilisée en lithothérapie pour renforcer la concentration et équilibrer les énergies. Elle est aussi réputée pour ses vertus apaisantes et son pouvoir de protection, idéale pour le quotidien ou les moments de stress.",
               "photo": "images/articles/bracelet-hematite-6-mm-mtk617pmsf32.jpg",
               "prixBoutique": 13.9,
-              "stock": 8
+              "stock": 8,
+              "stripeProductId": "prod_VBbyrMOsTn0pcC",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet hématite 6 mm",
+              "stripeDesc": "Ce bracelet en hématite est composé de perles lisses et brillantes, parfait pour un style sobre et élégant. L'hématite est une pierre souvent utilisée en lithothérapie pour renforcer la concentration et équilibrer les énergies. Elle est aussi réputée pour ses vertus apaisantes et son pouvoir de protection, idéale pour le quotidien ou les moments de stress.",
+              "stripePriceId": "price_1UBEkeLOfCA5mATuMvVVGnBB",
+              "stripePrix": 14.63,
+              "stripeLinkId": "plink_1UBEkeLOfCA5mATubMHjpzFF",
+              "stripe": "https://buy.stripe.com/9B6cN65ZUbfT7IAbBT28842",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         }

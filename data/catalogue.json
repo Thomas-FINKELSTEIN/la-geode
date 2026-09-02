@@ -4134,7 +4134,17 @@
               "description": "Ce bracelet en quartz fumé allie élégance et harmonie grâce à ses pierres baroques et naturelles. Le quartz fumé est réputé pour ses propriétés apaisantes et équilibrantes, aidant à purifier l’énergie et à favoriser la concentration. Parfait pour un usage quotidien, il apporte une touche sophistiquée tout en soutenant le bien-être émotionnel et spirituel.",
               "photo": "images/articles/bracelet-quartz-fume-baroques-et-pierres-mtk3r4erm60y.jpg",
               "prixBoutique": 15.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBawm31LS7mq9m",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet quartz fumé baroques et pierres",
+              "stripeDesc": "Ce bracelet en quartz fumé allie élégance et harmonie grâce à ses pierres baroques et naturelles. Le quartz fumé est réputé pour ses propriétés apaisantes et équilibrantes, aidant à purifier l’énergie et à favoriser la concentration. Parfait pour un usage quotidien, il apporte une touche sophistiquée tout en soutenant le bien-être émotionnel et spirituel.",
+              "stripePriceId": "price_1UBDkuLOfCA5mATuHgUtGluy",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1UBDkuLOfCA5mATuIBPaGDdd",
+              "stripe": "https://buy.stripe.com/eVq3cwagaabPgf6bBT2883N",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -4249,16 +4249,25 @@
               "photo": "images/articles/bracelet-pyrite-6-mm-mtk4q47vevrp.jpg",
               "prixBoutique": 11.9,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/bJeaEY9c63Nr6Ew21j2883V",
               "stripeProductId": "prod_VBbN2tkhSKkRuM",
+              "stripePriceId": "price_1UBEBDLOfCA5mATuSt9qHDJy",
+              "stripeLinkId": "plink_1UBEBDLOfCA5mATulLGkSGQA",
+              "stripePrix": 12.56,
               "stripeMode": "live",
               "stripeNom": "Bracelet pyrite  6 mm",
               "stripeDesc": "Pierre de protection puissante, la pyrite repousse les énergies négatives et les pollutions énergétiques",
-              "stripePriceId": "price_1UBEBDLOfCA5mATuSt9qHDJy",
-              "stripePrix": 12.56,
-              "stripeLinkId": "plink_1UBEBDLOfCA5mATulLGkSGQA",
-              "stripe": "https://buy.stripe.com/bJeaEY9c63Nr6Ew21j2883V",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "bracelet-pyrite-8-mm-mtk4vseyd335",
+              "nom": "Bracelet pyrite 8 mm",
+              "prix": 13.6,
+              "description": "Ce bracelet en pyrite est composé de perles rondes et brillantes qui captent la lumière pour apporter une énergie positive et dynamisante. La pyrite, souvent appelée pierre de l'abondance, est traditionnellement utilisée pour renforcer la confiance en soi et attirer la prospérité. Un accessoire élégant et puissant pour le quotidien, idéal pour stimuler motivation et vitalité.",
+              "photo": "images/articles/bracelet-pyrite-8-mm-mtk4vseyb3c7.jpg",
+              "prixBoutique": 12.9,
+              "stock": 2
             }
           ]
         }

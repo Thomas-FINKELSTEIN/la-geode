@@ -5293,7 +5293,17 @@
               "description": "Ce bracelet en obsidienne est composé de perles noires et lisses, parfait pour un style élégant et mystérieux. L'obsidienne est souvent utilisée en lithothérapie pour ses propriétés de protection et de renforcement de la volonté. Elle aide à libérer les émotions négatives et à apaiser l'esprit, tout en apportant une énergie apaisante au quotidien.",
               "photo": "images/articles/bracelet-obsidienne-6-mm-mtlmzlcd8b49.jpg",
               "prixBoutique": 12.9,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VBztPkEdVg8AvU",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet obsidienne 6 mm",
+              "stripeDesc": "Ce bracelet en obsidienne est composé de perles noires et lisses, parfait pour un style élégant et mystérieux. L'obsidienne est souvent utilisée en lithothérapie pour ses propriétés de protection et de renforcement de la volonté. Elle aide à libérer les émotions négatives et à apaiser l'esprit, tout en apportant une énergie apaisante au quotidien.",
+              "stripePriceId": "price_1UBbtNLOfCA5mATuZkbj93eN",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1UBbtNLOfCA5mATuOaeiTp9K",
+              "stripe": "https://buy.stripe.com/8x29AUfAugAd9QI9tL2890G",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

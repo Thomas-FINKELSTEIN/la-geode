@@ -4647,7 +4647,17 @@
               "description": "La tourmaline quartz blanc offre à son porteur ancrage et protection.",
               "photo": "images/articles/bracelet-quartz-blanc-et-tourmaline-6-mm-mtl6pagrw3px.jpg",
               "prixBoutique": 11.9,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VBsXjvq3b3pvpM",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet quartz blanc et tourmaline 6 mm",
+              "stripeDesc": "La tourmaline quartz blanc offre à son porteur ancrage et protection.",
+              "stripePriceId": "price_1UBUmKLOfCA5mATu9QeQnT2q",
+              "stripePrix": 12.56,
+              "stripeLinkId": "plink_1UBUmKLOfCA5mATuucgsVCRQ",
+              "stripe": "https://buy.stripe.com/dRm3cwewqcjXbYQ35n28908",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

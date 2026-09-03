@@ -5218,16 +5218,25 @@
               "photo": "images/articles/bracelet-jade-grosses-pierres-mtlmitjjcglg.jpg",
               "prixBoutique": 29.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/28EcN673YcjX5As9tL2890C",
               "stripeProductId": "prod_VBzgG3nsTS3qAD",
+              "stripePriceId": "price_1UBbgiLOfCA5mATuf3CWUBWC",
+              "stripeLinkId": "plink_1UBbgiLOfCA5mATuScpYryCx",
+              "stripePrix": 31.17,
               "stripeMode": "live",
               "stripeNom": "Bracelet jade grosses pierres",
               "stripeDesc": "Le jade vert agit sur le chakra du coeur et chakra plexus solaire, et aussi sur le système immunitaire.",
-              "stripePriceId": "price_1UBbgiLOfCA5mATuf3CWUBWC",
-              "stripePrix": 31.17,
-              "stripeLinkId": "plink_1UBbgiLOfCA5mATuScpYryCx",
-              "stripe": "https://buy.stripe.com/28EcN673YcjX5As9tL2890C",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jade-vert-8-mm-mtlmpibgfwfl",
+              "nom": "Bracelet jade vert 8 mm",
+              "prix": 10.55,
+              "description": "Ce bracelet en jade vert est un accessoire élégant et intemporel, composé de perles lisses et harmonieuses. Le jade est souvent associé à la chance, à la sérénité et à l'équilibre émotionnel, aidant à apaiser le stress et à renforcer la connexion à la nature. Porté au quotidien, il apporte une énergie apaisante et une touche de douceur dans votre vie.",
+              "photo": "images/articles/bracelet-jade-vert-8-mm-mtlmpibgm9xm.jpg",
+              "prixBoutique": 9.95,
+              "stock": 2
             }
           ]
         }

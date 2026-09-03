@@ -4534,16 +4534,25 @@
               "photo": "images/articles/bracelet-cornaline-8-mm-mtl5ezyleypv.jpg",
               "prixBoutique": 12.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/cNi8wQ9c6do12ogaxP28902",
               "stripeProductId": "prod_VBrxBAHhKIBJAO",
+              "stripePriceId": "price_1UBUDCLOfCA5mATuQV3zSl0f",
+              "stripeLinkId": "plink_1UBUDDLOfCA5mATu2Nq61K5E",
+              "stripePrix": 13.6,
               "stripeMode": "live",
               "stripeNom": "Bracelet cornaline 8 mm",
               "stripeDesc": "La cornaline réquilibre les émotions en diminuant les grosses colères incontrolables , elle stimule la vitalité, le courage et l' équilibre émotionnel, redonne la confiance en soi, la motivation.",
-              "stripePriceId": "price_1UBUDCLOfCA5mATuQV3zSl0f",
-              "stripePrix": 13.6,
-              "stripeLinkId": "plink_1UBUDDLOfCA5mATu2Nq61K5E",
-              "stripe": "https://buy.stripe.com/cNi8wQ9c6do12ogaxP28902",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-cornaline-6-mm-mtl5ldr2mbv3",
+              "nom": "Bracelet cornaline 6 mm",
+              "prix": 12.56,
+              "description": "La cornaline permet d' équilibrer les émotions, de calmer les colères excessives, et d' obtenir une grande confiance en soi",
+              "photo": "images/articles/bracelet-cornaline-6-mm-mtl5ldr2d9z0.jpg",
+              "prixBoutique": 11.9,
+              "stock": 3
             }
           ]
         }

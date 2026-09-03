@@ -4933,16 +4933,25 @@
               "photo": "images/articles/bracelet-obsidienne-acajou-4-mm-mtljpanipq2w.jpg",
               "prixBoutique": 6.7,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/fZufZicoi83H5AsbBT2890n",
               "stripeProductId": "prod_VByP7amj63NfU6",
+              "stripePriceId": "price_1UBaSCLOfCA5mATuffS9gBsf",
+              "stripeLinkId": "plink_1UBaSCLOfCA5mATua2vFT4OF",
+              "stripePrix": 7.19,
               "stripeMode": "live",
               "stripeNom": "Bracelet obsidienne acajou 4 mm",
               "stripeDesc": "L' obsidienne acajou est une pierre avant tout de protection, elle renforce aussi les défenses énergétiques.",
-              "stripePriceId": "price_1UBaSCLOfCA5mATuffS9gBsf",
-              "stripePrix": 7.19,
-              "stripeLinkId": "plink_1UBaSCLOfCA5mATua2vFT4OF",
-              "stripe": "https://buy.stripe.com/fZufZicoi83H5AsbBT2890n",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-obsidienne-acajou-baroque-mtljt1yk4kmo",
+              "nom": "Bracelet obsidienne acajou baroque",
+              "prix": 6.36,
+              "description": "Pierre de protection et de défenses énergétiques.",
+              "photo": "images/articles/bracelet-obsidienne-acajou-baroque-mtljt1yk4wvl.jpg",
+              "prixBoutique": 5.9,
+              "stock": 2
             }
           ]
         }

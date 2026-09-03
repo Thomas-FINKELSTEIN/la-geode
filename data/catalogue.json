@@ -4799,7 +4799,17 @@
               "description": "Ce bracelet en rhodonite est un accessoire élégant et apaisant, composé de perles naturelles aux reflets roses et bruns. La rhodonite est souvent associée à la compassion, à la guérison émotionnelle et à l'ouverture du cœur, aidant à surmonter les blessures et à renforcer la confiance en soi. Porté au quotidien, il favorise un sentiment de calme et d'harmonie intérieure.",
               "photo": "images/articles/bracelet-rhodonite-4-mm-mtlc4whnwhqi.jpg",
               "prixBoutique": 5.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBuzZZhWbXqyrz",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Rhodonite 4 mm",
+              "stripeDesc": "Ce bracelet en rhodonite est un accessoire élégant et apaisant, composé de perles naturelles aux reflets roses et bruns. La rhodonite est souvent associée à la compassion, à la guérison émotionnelle et à l'ouverture du cœur, aidant à surmonter les blessures et à renforcer la confiance en soi. Porté au quotidien, il favorise un sentiment de calme et d'harmonie intérieure.",
+              "stripePriceId": "price_1UBX9CLOfCA5mATu1mEA9KrZ",
+              "stripePrix": 6.36,
+              "stripeLinkId": "plink_1UBX9CLOfCA5mATu0d0eissU",
+              "stripe": "https://buy.stripe.com/9B64gA3RM0Bf4wogWd2890g",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

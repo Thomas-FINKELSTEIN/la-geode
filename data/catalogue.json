@@ -4780,7 +4780,17 @@
               "description": "Ce bracelet en libérite, pierre rare aux reflets profonds et élégants, est un allié précieux pour apaiser les tensions et favoriser la libération des émotions négatives. Associée à la sérénité et à l’équilibre énergétique, cette pierre naturelle est idéale pour ceux qui cherchent à retrouver calme et clarté mentale au quotidien. Parfait pour être porté en continu ou utilisé en lithothérapie, il s’intègre harmonieusement dans une collection de minéraux bien-être.",
               "photo": "images/articles/bracelet-liberite-10-mm-mtlbgg8akzmy.jpg",
               "prixBoutique": 10.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBugFCEv4Zyy4U",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Libérite 10 mm",
+              "stripeDesc": "Ce bracelet en libérite, pierre rare aux reflets profonds et élégants, est un allié précieux pour apaiser les tensions et favoriser la libération des émotions négatives. Associée à la sérénité et à l’équilibre énergétique, cette pierre naturelle est idéale pour ceux qui cherchent à retrouver calme et clarté mentale au quotidien. Parfait pour être porté en continu ou utilisé en lithothérapie, il s’intègre harmonieusement dans une collection de minéraux bien-être.",
+              "stripePriceId": "price_1UBWr8LOfCA5mATuxYtn0rq5",
+              "stripePrix": 11.53,
+              "stripeLinkId": "plink_1UBWr8LOfCA5mATuhPnsly95",
+              "stripe": "https://buy.stripe.com/14A00k882bfT6EwfS92890f",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

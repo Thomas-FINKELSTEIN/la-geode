@@ -4876,16 +4876,25 @@
               "photo": "images/articles/bracelet-larvikite-8-mm-mtlirk7umrb6.jpg",
               "prixBoutique": 9.9,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/bJe28sewq4RvaUM5dv2890k",
               "stripeProductId": "prod_VBxziPT8yEc1iJ",
+              "stripePriceId": "price_1UBa32LOfCA5mATuYK8naWud",
+              "stripeLinkId": "plink_1UBa32LOfCA5mATubjrJ8Eui",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet larvikite 8 mm",
               "stripeDesc": "La larvikite est une pierre de vision et d' ancrage? elle était utilisée par les vikings autrefois, pour éclairer leurs voyages , cette pierre permet de voir au delà des apparences, des personnes et des situations.",
-              "stripePriceId": "price_1UBa32LOfCA5mATuYK8naWud",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UBa32LOfCA5mATubjrJ8Eui",
-              "stripe": "https://buy.stripe.com/bJe28sewq4RvaUM5dv2890k",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "bracelet-liberite-4-mm-mtlj4gzpu1a0",
+              "nom": "Bracelet libérite 4 mm",
+              "prix": 7.4,
+              "description": "La libérite est une pierre de paix et d'évolution personnelle.",
+              "photo": "images/articles/bracelet-liberite-4-mm-mtlj4gzpli6h.jpg",
+              "prixBoutique": 6.9,
+              "stock": 2
             }
           ]
         }

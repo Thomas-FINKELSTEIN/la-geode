@@ -5369,7 +5369,17 @@
               "description": "Ce bracelet en oeil de tigre est composé de perles rondes et lisses, parfait pour un style sobre et élégant. La pierre oeil de tigre est souvent associée à la protection, au courage et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Porté régulièrement, il est censé stimuler l'énergie positive et favoriser la clarté mentale.",
               "photo": "images/articles/bracelet-oeil-de-tigre-4-mm-mtlnl4scqjdx.jpg",
               "prixBoutique": 9.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VC09tiUu02NHwC",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de tigre 4 mm",
+              "stripeDesc": "Ce bracelet en oeil de tigre est composé de perles rondes et lisses, parfait pour un style sobre et élégant. La pierre oeil de tigre est souvent associée à la protection, au courage et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Porté régulièrement, il est censé stimuler l'énergie positive et favoriser la clarté mentale.",
+              "stripePriceId": "price_1UBc9SLOfCA5mATu3Bc86fwn",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UBc9SLOfCA5mATuRW6kqImw",
+              "stripe": "https://buy.stripe.com/28EbJ2dsmfw9aUM49r2890K",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

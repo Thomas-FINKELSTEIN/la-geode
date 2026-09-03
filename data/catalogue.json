@@ -4819,16 +4819,25 @@
               "photo": "images/articles/bracelet-liberite-6-mm-mtlcp5nmuswo.jpg",
               "prixBoutique": 9.9,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/fZudRa4VQes58MEbBT2890h",
               "stripeProductId": "prod_VBvEkOzKfysocU",
+              "stripePriceId": "price_1UBXOTLOfCA5mATulJhdhgmS",
+              "stripeLinkId": "plink_1UBXOULOfCA5mATuo5mpP4Kh",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet Libérite 6 mm",
               "stripeDesc": "Ce bracelet en libérite est un allié précieux pour ceux qui cherchent à retrouver équilibre et sérénité. Cette pierre rare, aux reflets profonds et mystérieux, est souvent associée à la purification des énergies et à l’apaisement des tensions émotionnelles. Parfaite pour porter au quotidien, elle favorise la connexion à soi et aide à libérer les blocages intérieurs.",
-              "stripePriceId": "price_1UBXOTLOfCA5mATulJhdhgmS",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UBXOULOfCA5mATuo5mpP4Kh",
-              "stripe": "https://buy.stripe.com/fZudRa4VQes58MEbBT2890h",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "bracelet-liberite-8-mm-mtld1v4as10h",
+              "nom": "Bracelet Libérite 8 mm",
+              "prix": 11.53,
+              "description": "Ce bracelet en libérite, pierre rare et puissante, est un allié précieux pour ceux qui cherchent à retrouver équilibre et sérénité. Associée traditionnellement à la purification des énergies et à l’ouverture du cœur, elle aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Parfait pour un port quotidien, il accompagne aussi bien les moments de méditation que les transitions de la vie.",
+              "photo": "images/articles/bracelet-liberite-8-mm-mtld1v4a1sn8.jpg",
+              "prixBoutique": 10.9,
+              "stock": 3
             }
           ]
         }

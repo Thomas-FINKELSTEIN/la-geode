@@ -5085,16 +5085,25 @@
               "photo": "images/articles/bracelet-unakite-6-mm-mtlljl5gxp9u.jpg",
               "prixBoutique": 7.5,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/aFa4gA2NI97L4wobBT2890v",
               "stripeProductId": "prod_VBzEjbwx5eyobv",
+              "stripePriceId": "price_1UBbG4LOfCA5mATuxS5dWHD6",
+              "stripeLinkId": "plink_1UBbG4LOfCA5mATuvqdF5Bdw",
+              "stripePrix": 8.02,
               "stripeMode": "live",
               "stripeNom": "Bracelet Unakite 6 mm",
               "stripeDesc": "Ce bracelet en unakite, aux belles teintes vertes et rouges, est une pièce naturelle et élégante qui apporte harmonie et équilibre. L'unakite est souvent utilisée en lithothérapie pour stimuler la vitalité et renforcer la confiance en soi. Parfait pour un port quotidien, ce bracelet allie beauté et bien-être énergétique.",
-              "stripePriceId": "price_1UBbG4LOfCA5mATuxS5dWHD6",
-              "stripePrix": 8.02,
-              "stripeLinkId": "plink_1UBbG4LOfCA5mATuvqdF5Bdw",
-              "stripe": "https://buy.stripe.com/aFa4gA2NI97L4wobBT2890v",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-unakite-4-mm-mtllm2783z4u",
+              "nom": "Bracelet Unakite 4 mm",
+              "prix": 6.98,
+              "description": "Ce bracelet en unakite, pierre aux reflets verts et roses, est un véritable symbole d'équilibre et d'harmonie. Connue pour ses propriétés apaisantes, l'unakite favorise la connexion entre le cœur et l'esprit, aidant à libérer les émotions bloquées et à renforcer la confiance en soi. Parfait pour une utilisation quotidienne, ce bracelet est idéal pour ceux qui cherchent à apaiser leur énergie et à retrouver un sentiment de sérénité.",
+              "photo": "images/articles/bracelet-unakite-4-mm-mtllm2785vbe.jpg",
+              "prixBoutique": 6.5,
+              "stock": 1
             }
           ]
         }

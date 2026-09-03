@@ -5179,7 +5179,17 @@
               "description": "Ce bracelet en obsidienne neige est une pièce élégante et mystérieuse, composée de perles rondes et lisses. L'obsidienne neige est souvent associée à une énergie apaisante et protectrice, aidant à purifier les émotions et à renforcer la confiance en soi. Elle est idéale pour ceux qui cherchent à équilibrer leur énergie et à favoriser un état de calme intérieur.",
               "photo": "images/articles/bracelet-obsidienne-neige-10-mm-mtllz8nwy4lg.jpg",
               "prixBoutique": 14.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBzQgRhox4lSjF",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet obsidienne neige 10 mm",
+              "stripeDesc": "Ce bracelet en obsidienne neige est une pièce élégante et mystérieuse, composée de perles rondes et lisses. L'obsidienne neige est souvent associée à une énergie apaisante et protectrice, aidant à purifier les émotions et à renforcer la confiance en soi. Elle est idéale pour ceux qui cherchent à équilibrer leur énergie et à favoriser un état de calme intérieur.",
+              "stripePriceId": "price_1UBbRrLOfCA5mATun1tDrDRr",
+              "stripePrix": 15.25,
+              "stripeLinkId": "plink_1UBbRsLOfCA5mATuUcccP088",
+              "stripe": "https://buy.stripe.com/7sY6oI8821Fj0g87lD2890A",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

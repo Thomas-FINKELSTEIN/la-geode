@@ -4514,7 +4514,17 @@
               "description": "La phrénite est un excellent cristal de guérison, pierre d' amour, elle offre protection contre les émotions et sentiments du passé qui hante le quotidien.",
               "photo": "images/articles/bracelet-phrenite-6-mm-mtl5680dgr0x.jpg",
               "prixBoutique": 14.5,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBrq0AP4eQ5saY",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet phrénite 6 mm",
+              "stripeDesc": "La phrénite est un excellent cristal de guérison, pierre d' amour, elle offre protection contre les émotions et sentiments du passé qui hante le quotidien.",
+              "stripePriceId": "price_1UBU6XLOfCA5mATum6AudQkw",
+              "stripePrix": 15.25,
+              "stripeLinkId": "plink_1UBU6XLOfCA5mATulX3wA7hf",
+              "stripe": "https://buy.stripe.com/3cI00kcoi83H2og9tL28901",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

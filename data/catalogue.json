@@ -4686,16 +4686,25 @@
               "photo": "images/articles/bracelet-tanzanite-baroque-mtl75pgjzv6y.jpg",
               "prixBoutique": 10.9,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/aFa6oIdsmfw93skfS92890a",
               "stripeProductId": "prod_VBsjr4HLZACqIt",
+              "stripePriceId": "price_1UBUyPLOfCA5mATuy3pPQWtX",
+              "stripeLinkId": "plink_1UBUyPLOfCA5mATucIayH06H",
+              "stripePrix": 11.53,
               "stripeMode": "live",
               "stripeNom": "Bracelet tanzanite baroque",
               "stripeDesc": "Ce bracelet en tanzanite baroque allie élégance et énergie apaisante. La tanzanite, pierre rare aux reflets bleutés et violets, est réputée pour favoriser la sérénité, ouvrir le cœur et renforcer la confiance en soi. Parfaite pour un usage quotidien, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à cultiver une énergie positive.",
-              "stripePriceId": "price_1UBUyPLOfCA5mATuy3pPQWtX",
-              "stripePrix": 11.53,
-              "stripeLinkId": "plink_1UBUyPLOfCA5mATucIayH06H",
-              "stripe": "https://buy.stripe.com/aFa6oIdsmfw93skfS92890a",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "bracelet-serpentine-6-mm-mtl79879ff73",
+              "nom": "Bracelet serpentine 6 mm",
+              "prix": 16.7,
+              "description": "Ce bracelet en serpentine est un accessoire élégant et naturel, composé de perles rondes et lisses. La serpentine est souvent associée à la protection et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Porté au quotidien, il apporte une énergie apaisante et favorise la sérénité.",
+              "photo": "images/articles/bracelet-serpentine-6-mm-mtl798798q2c.jpg",
+              "prixBoutique": 15.9,
+              "stock": 1
             }
           ]
         }

@@ -5084,7 +5084,17 @@
               "description": "Ce bracelet en unakite, aux belles teintes vertes et rouges, est une pièce naturelle et élégante qui apporte harmonie et équilibre. L'unakite est souvent utilisée en lithothérapie pour stimuler la vitalité et renforcer la confiance en soi. Parfait pour un port quotidien, ce bracelet allie beauté et bien-être énergétique.",
               "photo": "images/articles/bracelet-unakite-6-mm-mtlljl5gxp9u.jpg",
               "prixBoutique": 7.5,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VBzEjbwx5eyobv",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Unakite 6 mm",
+              "stripeDesc": "Ce bracelet en unakite, aux belles teintes vertes et rouges, est une pièce naturelle et élégante qui apporte harmonie et équilibre. L'unakite est souvent utilisée en lithothérapie pour stimuler la vitalité et renforcer la confiance en soi. Parfait pour un port quotidien, ce bracelet allie beauté et bien-être énergétique.",
+              "stripePriceId": "price_1UBbG4LOfCA5mATuxS5dWHD6",
+              "stripePrix": 8.02,
+              "stripeLinkId": "plink_1UBbG4LOfCA5mATuvqdF5Bdw",
+              "stripe": "https://buy.stripe.com/aFa4gA2NI97L4wobBT2890v",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

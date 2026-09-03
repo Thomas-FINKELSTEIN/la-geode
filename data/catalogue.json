@@ -4609,7 +4609,17 @@
               "description": "Ce bracelet en quartz et tourmaline roulée allie élégance et bien-être. Les pierres naturelles, harmonisées dans une même pièce, sont réputées pour équilibrer les énergies et favoriser la sérénité au quotidien. Parfait pour accompagner vos moments de détente ou pour porter une touche de douceur minérale au poignet.",
               "photo": "images/articles/bracelet-quartz-et-tourmaline-roulee-mtl6degm7q2e.jpg",
               "prixBoutique": 9.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBsNVg2xlb0N0L",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet quartz et tourmaline roulée",
+              "stripeDesc": "Ce bracelet en quartz et tourmaline roulée allie élégance et bien-être. Les pierres naturelles, harmonisées dans une même pièce, sont réputées pour équilibrer les énergies et favoriser la sérénité au quotidien. Parfait pour accompagner vos moments de détente ou pour porter une touche de douceur minérale au poignet.",
+              "stripePriceId": "price_1UBUd8LOfCA5mATuOmmXPmhn",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UBUd9LOfCA5mATuCo09nVgA",
+              "stripe": "https://buy.stripe.com/fZu14obkecjXe6YfS928906",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

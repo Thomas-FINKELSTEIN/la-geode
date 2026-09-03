@@ -5275,16 +5275,25 @@
               "photo": "images/articles/bracelet-obsidienne-8-mm-mtlmtc5wxzkc.jpg",
               "prixBoutique": 14.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/dRm5kE2NI1Fj3sk5dv2890F",
               "stripeProductId": "prod_VBzoLuwNK5MHB7",
+              "stripePriceId": "price_1UBbocLOfCA5mATuHSdRINFC",
+              "stripeLinkId": "plink_1UBbocLOfCA5mATu5bHLdR06",
+              "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet Obsidienne 8 mm",
               "stripeDesc": "Ce bracelet en obsidienne, composé de perles noires et brillantes, est une pièce raffinée pour sublimer votre style tout en apportant une énergie protectrice. Connue pour ses propriétés de purification et de renforcement émotionnel, l'obsidienne aide à libérer les blocages et à apaiser l'esprit. Parfaite pour une utilisation quotidienne, elle est idéale pour ceux qui cherchent à retrouver un équilibre intérieur et une connexion profonde avec leurs émotions.",
-              "stripePriceId": "price_1UBbocLOfCA5mATuHSdRINFC",
-              "stripePrix": 15.66,
-              "stripeLinkId": "plink_1UBbocLOfCA5mATu5bHLdR06",
-              "stripe": "https://buy.stripe.com/dRm5kE2NI1Fj3sk5dv2890F",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-obsidienne-6-mm-mtlmzlcdzl55",
+              "nom": "Bracelet obsidienne 6 mm",
+              "prix": 13.6,
+              "description": "Ce bracelet en obsidienne est composé de perles noires et lisses, parfait pour un style élégant et mystérieux. L'obsidienne est souvent utilisée en lithothérapie pour ses propriétés de protection et de renforcement de la volonté. Elle aide à libérer les émotions négatives et à apaiser l'esprit, tout en apportant une énergie apaisante au quotidien.",
+              "photo": "images/articles/bracelet-obsidienne-6-mm-mtlmzlcd8b49.jpg",
+              "prixBoutique": 12.9,
+              "stock": 5
             }
           ]
         }

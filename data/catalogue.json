@@ -4989,7 +4989,17 @@
               "description": "Ce bracelet en oeil de tigre est composé de perles rondes et lisses, parfait pour un port quotidien. La pierre oeil de tigre est souvent utilisée en lithothérapie pour renforcer la confiance en soi, équilibrer les émotions et apporter une énergie protectrice. Son aspect chaleureux et ses motifs en forme de tigre en font un accessoire à la fois élégant et porteur de symboles de force et de stabilité.",
               "photo": "images/articles/bracelet-oeil-de-tigre-10-mm-mtlk7vn9pqc5.jpg",
               "prixBoutique": 15.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VByd22nprNvXhf",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de tigre 10 mm",
+              "stripeDesc": "Ce bracelet en oeil de tigre est composé de perles rondes et lisses, parfait pour un port quotidien. La pierre oeil de tigre est souvent utilisée en lithothérapie pour renforcer la confiance en soi, équilibrer les émotions et apporter une énergie protectrice. Son aspect chaleureux et ses motifs en forme de tigre en font un accessoire à la fois élégant et porteur de symboles de force et de stabilité.",
+              "stripePriceId": "price_1UBagCLOfCA5mATuz6FAY3yd",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1UBagDLOfCA5mATupjJwxAix",
+              "stripe": "https://buy.stripe.com/28E7sM73YgAd5As0Xf2890q",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

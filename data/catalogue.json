@@ -4895,16 +4895,25 @@
               "photo": "images/articles/bracelet-liberite-4-mm-mtlj4gzpli6h.jpg",
               "prixBoutique": 6.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/bJe3cw4VQcjX1kceO52890l",
               "stripeProductId": "prod_VBy8HcgpG06oW4",
+              "stripePriceId": "price_1UBaCZLOfCA5mATuH99JCHfS",
+              "stripeLinkId": "plink_1UBaCaLOfCA5mATu7nerbrQo",
+              "stripePrix": 7.4,
               "stripeMode": "live",
               "stripeNom": "Bracelet libérite 4 mm",
               "stripeDesc": "La libérite est une pierre de paix et d'évolution personnelle.",
-              "stripePriceId": "price_1UBaCZLOfCA5mATuH99JCHfS",
-              "stripePrix": 7.4,
-              "stripeLinkId": "plink_1UBaCaLOfCA5mATu7nerbrQo",
-              "stripe": "https://buy.stripe.com/bJe3cw4VQcjX1kceO52890l",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-obsidienne-acajou-6-mm-mtljheiuw70o",
+              "nom": "Bracelet obsidienne acajou 6 mm",
+              "prix": 9.46,
+              "description": "L' obsidienne acajou est avant tout une pierre de protection, elle renforce aussi les défenses énergétiques.",
+              "photo": "images/articles/bracelet-obsidienne-acajou-6-mm-mtljheiuavfu.jpg",
+              "prixBoutique": 8.9,
+              "stock": 2
             }
           ]
         }

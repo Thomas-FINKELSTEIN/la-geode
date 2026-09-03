@@ -4515,16 +4515,25 @@
               "photo": "images/articles/bracelet-phrenite-6-mm-mtl5680dgr0x.jpg",
               "prixBoutique": 14.5,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/3cI00kcoi83H2og9tL28901",
               "stripeProductId": "prod_VBrq0AP4eQ5saY",
+              "stripePriceId": "price_1UBU6XLOfCA5mATum6AudQkw",
+              "stripeLinkId": "plink_1UBU6XLOfCA5mATulX3wA7hf",
+              "stripePrix": 15.25,
               "stripeMode": "live",
               "stripeNom": "Bracelet phrénite 6 mm",
               "stripeDesc": "La phrénite est un excellent cristal de guérison, pierre d' amour, elle offre protection contre les émotions et sentiments du passé qui hante le quotidien.",
-              "stripePriceId": "price_1UBU6XLOfCA5mATum6AudQkw",
-              "stripePrix": 15.25,
-              "stripeLinkId": "plink_1UBU6XLOfCA5mATulX3wA7hf",
-              "stripe": "https://buy.stripe.com/3cI00kcoi83H2og9tL28901",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-cornaline-8-mm-mtl5ezyl17y7",
+              "nom": "Bracelet cornaline 8 mm",
+              "prix": 13.6,
+              "description": "La cornaline réquilibre les émotions en diminuant les grosses colères incontrolables , elle stimule la vitalité, le courage et l' équilibre émotionnel, redonne la confiance en soi, la motivation.",
+              "photo": "images/articles/bracelet-cornaline-8-mm-mtl5ezyleypv.jpg",
+              "prixBoutique": 12.9,
+              "stock": 3
             }
           ]
         }

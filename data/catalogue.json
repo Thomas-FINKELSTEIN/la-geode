@@ -4800,16 +4800,25 @@
               "photo": "images/articles/bracelet-rhodonite-4-mm-mtlc4whnwhqi.jpg",
               "prixBoutique": 5.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B64gA3RM0Bf4wogWd2890g",
               "stripeProductId": "prod_VBuzZZhWbXqyrz",
+              "stripePriceId": "price_1UBX9CLOfCA5mATu1mEA9KrZ",
+              "stripeLinkId": "plink_1UBX9CLOfCA5mATu0d0eissU",
+              "stripePrix": 6.36,
               "stripeMode": "live",
               "stripeNom": "Bracelet Rhodonite 4 mm",
               "stripeDesc": "Ce bracelet en rhodonite est un accessoire élégant et apaisant, composé de perles naturelles aux reflets roses et bruns. La rhodonite est souvent associée à la compassion, à la guérison émotionnelle et à l'ouverture du cœur, aidant à surmonter les blessures et à renforcer la confiance en soi. Porté au quotidien, il favorise un sentiment de calme et d'harmonie intérieure.",
-              "stripePriceId": "price_1UBX9CLOfCA5mATu1mEA9KrZ",
-              "stripePrix": 6.36,
-              "stripeLinkId": "plink_1UBX9CLOfCA5mATu0d0eissU",
-              "stripe": "https://buy.stripe.com/9B64gA3RM0Bf4wogWd2890g",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-liberite-6-mm-mtlcp5nmchd0",
+              "nom": "Bracelet Libérite 6 mm",
+              "prix": 10.5,
+              "description": "Ce bracelet en libérite est un allié précieux pour ceux qui cherchent à retrouver équilibre et sérénité. Cette pierre rare, aux reflets profonds et mystérieux, est souvent associée à la purification des énergies et à l’apaisement des tensions émotionnelles. Parfaite pour porter au quotidien, elle favorise la connexion à soi et aide à libérer les blocages intérieurs.",
+              "photo": "images/articles/bracelet-liberite-6-mm-mtlcp5nmuswo.jpg",
+              "prixBoutique": 9.9,
+              "stock": 6
             }
           ]
         }

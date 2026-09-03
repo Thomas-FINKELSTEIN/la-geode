@@ -4667,16 +4667,25 @@
               "photo": "images/articles/bracelet-lepidolite-dark-qualite-aaa-10--mtl6zvhwoukt.jpg",
               "prixBoutique": 25,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/8x23cwgEy1Fjd2U49r28909",
               "stripeProductId": "prod_VBsf236gz7jNhP",
+              "stripePriceId": "price_1UBUu1LOfCA5mATuCrsaGp85",
+              "stripeLinkId": "plink_1UBUu1LOfCA5mATui6KZFLh6",
+              "stripePrix": 26.1,
               "stripeMode": "live",
               "stripeNom": "Bracelet lépidolite dark qualité AAA 10 mm",
               "stripeDesc": "Ce bracelet en lépidolite dark de qualité AAA offre une élégance naturelle avec ses pierres aux reflets violets profonds. La lépidolite est souvent utilisée en lithothérapie pour apaiser les émotions, réduire le stress et favoriser un équilibre mental. Parfait pour accompagner votre quotidien, ce bracelet est idéal pour ceux qui cherchent à cultiver la sérénité et la paix intérieure.",
-              "stripePriceId": "price_1UBUu1LOfCA5mATuCrsaGp85",
-              "stripePrix": 26.1,
-              "stripeLinkId": "plink_1UBUu1LOfCA5mATui6KZFLh6",
-              "stripe": "https://buy.stripe.com/8x23cwgEy1Fjd2U49r28909",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-tanzanite-baroque-mtl75pgjk8b4",
+              "nom": "Bracelet tanzanite baroque",
+              "prix": 11.53,
+              "description": "Ce bracelet en tanzanite baroque allie élégance et énergie apaisante. La tanzanite, pierre rare aux reflets bleutés et violets, est réputée pour favoriser la sérénité, ouvrir le cœur et renforcer la confiance en soi. Parfaite pour un usage quotidien, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à cultiver une énergie positive.",
+              "photo": "images/articles/bracelet-tanzanite-baroque-mtl75pgjzv6y.jpg",
+              "prixBoutique": 10.9,
+              "stock": 6
             }
           ]
         }

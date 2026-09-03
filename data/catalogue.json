@@ -4705,16 +4705,25 @@
               "photo": "images/articles/bracelet-serpentine-6-mm-mtl798798q2c.jpg",
               "prixBoutique": 15.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe5kE2NI6ZD6Ew9tL2890b",
               "stripeProductId": "prod_VBsmKpLPGIra57",
+              "stripePriceId": "price_1UBV12LOfCA5mATuypTMDtIO",
+              "stripeLinkId": "plink_1UBV12LOfCA5mATu24eDcZpT",
+              "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet serpentine 6 mm",
               "stripeDesc": "Ce bracelet en serpentine est un accessoire élégant et naturel, composé de perles rondes et lisses. La serpentine est souvent associée à la protection et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Porté au quotidien, il apporte une énergie apaisante et favorise la sérénité.",
-              "stripePriceId": "price_1UBV12LOfCA5mATuypTMDtIO",
-              "stripePrix": 16.7,
-              "stripeLinkId": "plink_1UBV12LOfCA5mATu24eDcZpT",
-              "stripe": "https://buy.stripe.com/bJe5kE2NI6ZD6Ew9tL2890b",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-charoite-baroque-mtl7kd0dcyu2",
+              "nom": "Bracelet charoite baroque",
+              "prix": 16.7,
+              "description": "Ce bracelet en charoite baroque allie élégance et énergie apaisante. La charoite, pierre aux reflets violets et noirs, est réputée pour son pouvoir de protection et d'ouverture du cœur, aidant à transformer les émotions négatives en paix intérieure. Parfait pour un port quotidien, il apporte une touche mystique et une harmonie subtile à votre quotidien.",
+              "photo": "images/articles/bracelet-charoite-baroque-mtl7kd0dtxy0.jpg",
+              "prixBoutique": 15.9,
+              "stock": 1
             }
           ]
         }

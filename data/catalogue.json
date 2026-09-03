@@ -4970,7 +4970,17 @@
               "description": "Ce bracelet en néphrite, pierre douce et apaisante, est un allié précieux pour le bien-être au quotidien. Associée traditionnellement à la sérénité et à l'équilibre émotionnel, elle aide à calmer les tensions et à renforcer la connexion à soi-même. Parfait pour une utilisation continue, il accompagne aussi bien les moments de méditation que les journées chargées.",
               "photo": "images/articles/bracelet-nephrite-8-mm-mtljxzd3ow6m.jpg",
               "prixBoutique": 14.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VByVkyTV5GaNsJ",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet néphrite 8 mm",
+              "stripeDesc": "Ce bracelet en néphrite, pierre douce et apaisante, est un allié précieux pour le bien-être au quotidien. Associée traditionnellement à la sérénité et à l'équilibre émotionnel, elle aide à calmer les tensions et à renforcer la connexion à soi-même. Parfait pour une utilisation continue, il accompagne aussi bien les moments de méditation que les journées chargées.",
+              "stripePriceId": "price_1UBaYjLOfCA5mATuTXzSB0ts",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UBaYkLOfCA5mATuZWV3JAyO",
+              "stripe": "https://buy.stripe.com/3cI3cwfAu4Rv4wo49r2890p",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

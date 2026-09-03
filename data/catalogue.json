@@ -4590,7 +4590,17 @@
               "description": "La séraphinite dégage une énergie chaude et aide à relâcher la pression notamment au niveau du cou. ce minéral a un effet bénéfique sur le foi et les reins",
               "photo": "images/articles/bracelet-seraphinite-baroque-mtl65eyljtp4.jpg",
               "prixBoutique": 12.95,
-              "stock": 9
+              "stock": 9,
+              "stripeProductId": "prod_VBsHBagtCHg8qw",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet  séraphinite baroque",
+              "stripeDesc": "La séraphinite dégage une énergie chaude et aide à relâcher la pression notamment au niveau du cou. ce minéral a un effet bénéfique sur le foi et les reins",
+              "stripePriceId": "price_1UBUX5LOfCA5mATuMRTnWNh6",
+              "stripePrix": 13.65,
+              "stripeLinkId": "plink_1UBUX5LOfCA5mATuZ2HNVHkL",
+              "stripe": "https://buy.stripe.com/28E28scoigAdd2UbBT28905",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         }

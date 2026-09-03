@@ -5047,16 +5047,25 @@
               "photo": "images/articles/bracelet-trio-hematite-obs-oeil-tigre-4--mtlkilvaou57.jpg",
               "prixBoutique": 10.9,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/8x200kdsm0Bf0g821j2890t",
               "stripeProductId": "prod_VBylm9L2o5JW3q",
+              "stripePriceId": "price_1UBaoJLOfCA5mATueTZbTbc9",
+              "stripeLinkId": "plink_1UBaoJLOfCA5mATuVAOgpd5z",
+              "stripePrix": 11.53,
               "stripeMode": "live",
               "stripeNom": "Bracelet trio hématite obs oeil tigre 4 mm",
               "stripeDesc": "Ce bracelet harmonieux associe trois pierres puissantes: l'hématite, l'obsidienne et l'œil-de-tigre. Parfait pour équilibrer les énergies et renforcer la détermination, il est idéal pour ceux qui cherchent à renforcer leur confiance et leur ancrage. Ses perles lisses et son design élégant en font un accessoire à la fois esthétique et bénéfique pour le bien-être au quotidien.",
-              "stripePriceId": "price_1UBaoJLOfCA5mATueTZbTbc9",
-              "stripePrix": 11.53,
-              "stripeLinkId": "plink_1UBaoJLOfCA5mATuVAOgpd5z",
-              "stripe": "https://buy.stripe.com/8x200kdsm0Bf0g821j2890t",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "bracelet-unakite-10-mm-mtll56euhep2",
+              "nom": "Bracelet unakite 10 mm",
+              "prix": 12.15,
+              "description": "Ce bracelet en unakite allie des reflets noirs profonds et des éclats dorés pour un équilibre visuel harmonieux. La pierre unakite est souvent associée à la stabilité émotionnelle et à la protection, aidant à apaiser les tensions et à renforcer la confiance en soi. Parfait pour une utilisation quotidienne, ce bracelet apporte une touche élégante tout en favorisant un sentiment de calme et de sérénité.",
+              "photo": "images/articles/bracelet-unakite-10-mm-mtll56eucv8u.jpg",
+              "prixBoutique": 11.5,
+              "stock": 3
             }
           ]
         }

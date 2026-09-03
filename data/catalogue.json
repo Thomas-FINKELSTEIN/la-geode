@@ -4837,7 +4837,17 @@
               "description": "Ce bracelet en libérite, pierre rare et puissante, est un allié précieux pour ceux qui cherchent à retrouver équilibre et sérénité. Associée traditionnellement à la purification des énergies et à l’ouverture du cœur, elle aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Parfait pour un port quotidien, il accompagne aussi bien les moments de méditation que les transitions de la vie.",
               "photo": "images/articles/bracelet-liberite-8-mm-mtld1v4a1sn8.jpg",
               "prixBoutique": 10.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VBvORzvyfQEp4X",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Libérite 8 mm",
+              "stripeDesc": "Ce bracelet en libérite, pierre rare et puissante, est un allié précieux pour ceux qui cherchent à retrouver équilibre et sérénité. Associée traditionnellement à la purification des énergies et à l’ouverture du cœur, elle aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Parfait pour un port quotidien, il accompagne aussi bien les moments de méditation que les transitions de la vie.",
+              "stripePriceId": "price_1UBXY3LOfCA5mATuDjFSF7RY",
+              "stripePrix": 11.53,
+              "stripeLinkId": "plink_1UBXY3LOfCA5mATu3Qu2UpM9",
+              "stripe": "https://buy.stripe.com/00w3cw1JEcjXbYQgWd2890i",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

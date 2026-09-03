@@ -4666,7 +4666,17 @@
               "description": "Ce bracelet en lépidolite dark de qualité AAA offre une élégance naturelle avec ses pierres aux reflets violets profonds. La lépidolite est souvent utilisée en lithothérapie pour apaiser les émotions, réduire le stress et favoriser un équilibre mental. Parfait pour accompagner votre quotidien, ce bracelet est idéal pour ceux qui cherchent à cultiver la sérénité et la paix intérieure.",
               "photo": "images/articles/bracelet-lepidolite-dark-qualite-aaa-10--mtl6zvhwoukt.jpg",
               "prixBoutique": 25,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBsf236gz7jNhP",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet lépidolite dark qualité AAA 10 mm",
+              "stripeDesc": "Ce bracelet en lépidolite dark de qualité AAA offre une élégance naturelle avec ses pierres aux reflets violets profonds. La lépidolite est souvent utilisée en lithothérapie pour apaiser les émotions, réduire le stress et favoriser un équilibre mental. Parfait pour accompagner votre quotidien, ce bracelet est idéal pour ceux qui cherchent à cultiver la sérénité et la paix intérieure.",
+              "stripePriceId": "price_1UBUu1LOfCA5mATuCrsaGp85",
+              "stripePrix": 26.1,
+              "stripeLinkId": "plink_1UBUu1LOfCA5mATui6KZFLh6",
+              "stripe": "https://buy.stripe.com/8x23cwgEy1Fjd2U49r28909",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

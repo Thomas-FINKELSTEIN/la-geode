@@ -4572,16 +4572,25 @@
               "photo": "images/articles/bracelet-serpentine-10-mm-mtl5vomu6k9s.jpg",
               "prixBoutique": 15.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq4gAcoi97Lgf649r28904",
               "stripeProductId": "prod_VBsAGZPjtbss5o",
+              "stripePriceId": "price_1UBUPjLOfCA5mATuRUd0ByoB",
+              "stripeLinkId": "plink_1UBUPjLOfCA5mATuVMXWAx8d",
+              "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet serpentine 10 mm",
               "stripeDesc": "En lithothérapie, la serpentine est considérée comme un bouclier de protection et un puissant agent d' apaisement pour le corps et l'esprit, elle permet aussi un lâcher-prise",
-              "stripePriceId": "price_1UBUPjLOfCA5mATuRUd0ByoB",
-              "stripePrix": 16.7,
-              "stripeLinkId": "plink_1UBUPjLOfCA5mATuVMXWAx8d",
-              "stripe": "https://buy.stripe.com/eVq4gAcoi97Lgf649r28904",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-seraphinite-baroque-mtl65eyl8iz9",
+              "nom": "Bracelet  séraphinite baroque",
+              "prix": 13.65,
+              "description": "La séraphinite dégage une énergie chaude et aide à relâcher la pression notamment au niveau du cou. ce minéral a un effet bénéfique sur le foi et les reins",
+              "photo": "images/articles/bracelet-seraphinite-baroque-mtl65eyljtp4.jpg",
+              "prixBoutique": 12.95,
+              "stock": 9
             }
           ]
         }

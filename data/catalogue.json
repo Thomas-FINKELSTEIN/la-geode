@@ -5331,7 +5331,17 @@
               "description": "Ce bracelet en pierres naturelles associe les énergies puissantes du tigre, du taureau et du fer pour renforcer la détermination et la vitalité. Parfait pour ceux qui cherchent à stimuler leur courage et leur ancrage, il est idéal au quotidien pour une protection énergétique et une harmonie retrouvée. Ses pierres, choisies pour leurs propriétés dynamisantes, en font un allié précieux pour affronter les défis avec confiance.",
               "photo": "images/articles/bracelet-trio-tigre-taureau-fer-8-mm-mtlnaq5f99l8.jpg",
               "prixBoutique": 15.9,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_VC01W0nfcZw39f",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet trio tigre taureau fer 8 mm",
+              "stripeDesc": "Ce bracelet en pierres naturelles associe les énergies puissantes du tigre, du taureau et du fer pour renforcer la détermination et la vitalité. Parfait pour ceux qui cherchent à stimuler leur courage et leur ancrage, il est idéal au quotidien pour une protection énergétique et une harmonie retrouvée. Ses pierres, choisies pour leurs propriétés dynamisantes, en font un allié précieux pour affronter les défis avec confiance.",
+              "stripePriceId": "price_1UBc1aLOfCA5mATuiYqt3Rm4",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1UBc1aLOfCA5mATu07C95J2r",
+              "stripe": "https://buy.stripe.com/00wdRa73Ydo18MEaxP2890I",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

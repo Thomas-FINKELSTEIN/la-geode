@@ -5046,7 +5046,17 @@
               "description": "Ce bracelet harmonieux associe trois pierres puissantes: l'hématite, l'obsidienne et l'œil-de-tigre. Parfait pour équilibrer les énergies et renforcer la détermination, il est idéal pour ceux qui cherchent à renforcer leur confiance et leur ancrage. Ses perles lisses et son design élégant en font un accessoire à la fois esthétique et bénéfique pour le bien-être au quotidien.",
               "photo": "images/articles/bracelet-trio-hematite-obs-oeil-tigre-4--mtlkilvaou57.jpg",
               "prixBoutique": 10.9,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_VBylm9L2o5JW3q",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet trio hématite obs oeil tigre 4 mm",
+              "stripeDesc": "Ce bracelet harmonieux associe trois pierres puissantes: l'hématite, l'obsidienne et l'œil-de-tigre. Parfait pour équilibrer les énergies et renforcer la détermination, il est idéal pour ceux qui cherchent à renforcer leur confiance et leur ancrage. Ses perles lisses et son design élégant en font un accessoire à la fois esthétique et bénéfique pour le bien-être au quotidien.",
+              "stripePriceId": "price_1UBaoJLOfCA5mATueTZbTbc9",
+              "stripePrix": 11.53,
+              "stripeLinkId": "plink_1UBaoJLOfCA5mATuVAOgpd5z",
+              "stripe": "https://buy.stripe.com/8x200kdsm0Bf0g821j2890t",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

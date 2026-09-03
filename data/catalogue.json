@@ -5217,7 +5217,17 @@
               "description": "Le jade vert agit sur le chakra du coeur et chakra plexus solaire, et aussi sur le système immunitaire.",
               "photo": "images/articles/bracelet-jade-grosses-pierres-mtlmitjjcglg.jpg",
               "prixBoutique": 29.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBzgG3nsTS3qAD",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jade grosses pierres",
+              "stripeDesc": "Le jade vert agit sur le chakra du coeur et chakra plexus solaire, et aussi sur le système immunitaire.",
+              "stripePriceId": "price_1UBbgiLOfCA5mATuf3CWUBWC",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UBbgiLOfCA5mATuScpYryCx",
+              "stripe": "https://buy.stripe.com/28EcN673YcjX5As9tL2890C",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

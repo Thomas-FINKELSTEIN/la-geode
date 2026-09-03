@@ -5407,7 +5407,17 @@
               "description": "Ce bracelet en turquoise africaine roulée est un véritable symbole de protection et d'équilibre énergétique. La turquoise, pierre sacrée depuis des siècles, est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la clarté mentale. Parfait pour un usage quotidien, il apporte une touche d'élégance naturelle tout en vous connectant à une énergie apaisante et positive.",
               "photo": "images/articles/bracelet-turquoise-africaine-roule-mtlnuqgkq88v.jpg",
               "prixBoutique": 7.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VC0Hm2aIBNY549",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet turquoise africaine roulé",
+              "stripeDesc": "Ce bracelet en turquoise africaine roulée est un véritable symbole de protection et d'équilibre énergétique. La turquoise, pierre sacrée depuis des siècles, est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la clarté mentale. Parfait pour un usage quotidien, il apporte une touche d'élégance naturelle tout en vous connectant à une énergie apaisante et positive.",
+              "stripePriceId": "price_1UBcGjLOfCA5mATuyO5KFVhX",
+              "stripePrix": 8.43,
+              "stripeLinkId": "plink_1UBcGjLOfCA5mATuQSk8LFCV",
+              "stripe": "https://buy.stripe.com/5kQfZi2NI5Vz1kc5dv2890M",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

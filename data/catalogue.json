@@ -4628,7 +4628,17 @@
               "description": "L a tourmaline quartz blanc offre à son porteur protection et ancrage.",
               "photo": "images/articles/bracelet-quartz-tourmaline-4-mm-mtl6lt8mv6xy.jpg",
               "prixBoutique": 10.5,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBsUEt8KDOrThD",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet quartz tourmaline 4 mm",
+              "stripeDesc": "L a tourmaline quartz blanc offre à son porteur protection et ancrage.",
+              "stripePriceId": "price_1UBUjRLOfCA5mATuJsQ0PIyf",
+              "stripePrix": 11.12,
+              "stripeLinkId": "plink_1UBUjRLOfCA5mATulwn1VIBS",
+              "stripe": "https://buy.stripe.com/cNibJ21JEcjXfb2axP28907",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

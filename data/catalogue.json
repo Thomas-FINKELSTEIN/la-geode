@@ -4990,16 +4990,25 @@
               "photo": "images/articles/bracelet-oeil-de-tigre-10-mm-mtlk7vn9pqc5.jpg",
               "prixBoutique": 15.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/28E7sM73YgAd5As0Xf2890q",
               "stripeProductId": "prod_VByd22nprNvXhf",
+              "stripePriceId": "price_1UBagCLOfCA5mATuz6FAY3yd",
+              "stripeLinkId": "plink_1UBagDLOfCA5mATupjJwxAix",
+              "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet oeil de tigre 10 mm",
               "stripeDesc": "Ce bracelet en oeil de tigre est composé de perles rondes et lisses, parfait pour un port quotidien. La pierre oeil de tigre est souvent utilisée en lithothérapie pour renforcer la confiance en soi, équilibrer les émotions et apporter une énergie protectrice. Son aspect chaleureux et ses motifs en forme de tigre en font un accessoire à la fois élégant et porteur de symboles de force et de stabilité.",
-              "stripePriceId": "price_1UBagCLOfCA5mATuz6FAY3yd",
-              "stripePrix": 16.7,
-              "stripeLinkId": "plink_1UBagDLOfCA5mATupjJwxAix",
-              "stripe": "https://buy.stripe.com/28E7sM73YgAd5As0Xf2890q",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-oeil-de-tigre-8-mm-mtlka9vrw4y8",
+              "nom": "Bracelet oeil de tigre 8 mm",
+              "prix": 15.66,
+              "description": "Ce bracelet en oeil de tigre est composé de perles rondes et lisses, parfait pour un style à la fois élégant et naturel. La pierre oeil de tigre est souvent utilisée en lithothérapie pour renforcer la confiance en soi, équilibrer les émotions et apporter une énergie protectrice au quotidien. Idéal pour être porté au poignet, il allie beauté et bien-être pour un accessoire minéral unique.",
+              "photo": "images/articles/bracelet-oeil-de-tigre-8-mm-mtlka9vrp1o7.jpg",
+              "prixBoutique": 14.9,
+              "stock": 6
             }
           ]
         }

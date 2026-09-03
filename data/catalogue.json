@@ -4553,16 +4553,25 @@
               "photo": "images/articles/bracelet-cornaline-6-mm-mtl5ldr2d9z0.jpg",
               "prixBoutique": 11.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/bJe28sewq5Vz0g849r28903",
               "stripeProductId": "prod_VBs25xS9WZLYyq",
+              "stripePriceId": "price_1UBUI6LOfCA5mATuh7Y7Zb2T",
+              "stripeLinkId": "plink_1UBUI6LOfCA5mATu4EnFdFhN",
+              "stripePrix": 12.56,
               "stripeMode": "live",
               "stripeNom": "Bracelet cornaline 6 mm",
               "stripeDesc": "La cornaline permet d' équilibrer les émotions, de calmer les colères excessives, et d' obtenir une grande confiance en soi",
-              "stripePriceId": "price_1UBUI6LOfCA5mATuh7Y7Zb2T",
-              "stripePrix": 12.56,
-              "stripeLinkId": "plink_1UBUI6LOfCA5mATu4EnFdFhN",
-              "stripe": "https://buy.stripe.com/bJe28sewq5Vz0g849r28903",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-serpentine-10-mm-mtl5vomuamoi",
+              "nom": "Bracelet serpentine 10 mm",
+              "prix": 16.7,
+              "description": "En lithothérapie, la serpentine est considérée comme un bouclier de protection et un puissant agent d' apaisement pour le corps et l'esprit, elle permet aussi un lâcher-prise",
+              "photo": "images/articles/bracelet-serpentine-10-mm-mtl5vomu6k9s.jpg",
+              "prixBoutique": 15.9,
+              "stock": 1
             }
           ]
         }

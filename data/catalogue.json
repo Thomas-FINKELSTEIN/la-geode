@@ -5350,7 +5350,17 @@
               "description": "Ce bracelet en pierres naturelles associe les énergies puissantes du trio tigre, du fer et du faucon pour un équilibre harmonieux. Traditionnellement utilisé en lithothérapie pour renforcer la détermination, la vitalité et la protection, il est idéal pour ceux qui cherchent à stimuler leur courage et leur force intérieure. Ses pierres aux reflets uniques apportent une touche d'élégance et d'énergie positive au quotidien.",
               "photo": "images/articles/bracelet-trio-tigre-fer-faucon-6-mm-mtlnfvl07tep.jpg",
               "prixBoutique": 14.9,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_VC05c2E6FU5DtX",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet trio tigre fer faucon 6 mm",
+              "stripeDesc": "Ce bracelet en pierres naturelles associe les énergies puissantes du trio tigre, du fer et du faucon pour un équilibre harmonieux. Traditionnellement utilisé en lithothérapie pour renforcer la détermination, la vitalité et la protection, il est idéal pour ceux qui cherchent à stimuler leur courage et leur force intérieure. Ses pierres aux reflets uniques apportent une touche d'élégance et d'énergie positive au quotidien.",
+              "stripePriceId": "price_1UBc5ZLOfCA5mATuy1mHzLH0",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UBc5ZLOfCA5mATusfRFbwpz",
+              "stripe": "https://buy.stripe.com/7sY00kbkebfTfb2dK12890J",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

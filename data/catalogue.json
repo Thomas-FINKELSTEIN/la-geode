@@ -4856,7 +4856,17 @@
               "description": "Ce bracelet en larvikite, aux reflets bleutés et scintillants, est une pièce élégante et raffinée pour sublimer votre quotidien. La larvikite est souvent associée à une énergie apaisante et protectrice, aidant à équilibrer les émotions et à favoriser la sérénité. Porté régulièrement, il est censé renforcer la confiance en soi et attirer la prospérité dans votre vie.",
               "photo": "images/articles/bracelet-larvikite-6-mm-mtlij3vbj3hn.jpg",
               "prixBoutique": 6.9,
-              "stock": 7
+              "stock": 7,
+              "stripeProductId": "prod_VBxsRYNvA2nKiB",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet larvikite 6 mm",
+              "stripeDesc": "Ce bracelet en larvikite, aux reflets bleutés et scintillants, est une pièce élégante et raffinée pour sublimer votre quotidien. La larvikite est souvent associée à une énergie apaisante et protectrice, aidant à équilibrer les émotions et à favoriser la sérénité. Porté régulièrement, il est censé renforcer la confiance en soi et attirer la prospérité dans votre vie.",
+              "stripePriceId": "price_1UBZwRLOfCA5mATuan9eNH2I",
+              "stripePrix": 7.4,
+              "stripeLinkId": "plink_1UBZwSLOfCA5mATuHL3Kbh8v",
+              "stripe": "https://buy.stripe.com/aFa6oIbke83Hgf6eO52890j",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         }

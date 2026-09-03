@@ -4648,16 +4648,25 @@
               "photo": "images/articles/bracelet-quartz-blanc-et-tourmaline-6-mm-mtl6pagrw3px.jpg",
               "prixBoutique": 11.9,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/dRm3cwewqcjXbYQ35n28908",
               "stripeProductId": "prod_VBsXjvq3b3pvpM",
+              "stripePriceId": "price_1UBUmKLOfCA5mATu9QeQnT2q",
+              "stripeLinkId": "plink_1UBUmKLOfCA5mATuucgsVCRQ",
+              "stripePrix": 12.56,
               "stripeMode": "live",
               "stripeNom": "Bracelet quartz blanc et tourmaline 6 mm",
               "stripeDesc": "La tourmaline quartz blanc offre à son porteur ancrage et protection.",
-              "stripePriceId": "price_1UBUmKLOfCA5mATu9QeQnT2q",
-              "stripePrix": 12.56,
-              "stripeLinkId": "plink_1UBUmKLOfCA5mATuucgsVCRQ",
-              "stripe": "https://buy.stripe.com/dRm3cwewqcjXbYQ35n28908",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "bracelet-lepidolite-dark-qualite-aaa-10--mtl6zvhw8q4f",
+              "nom": "Bracelet lépidolite dark qualité AAA 10 mm",
+              "prix": 26.1,
+              "description": "Ce bracelet en lépidolite dark de qualité AAA offre une élégance naturelle avec ses pierres aux reflets violets profonds. La lépidolite est souvent utilisée en lithothérapie pour apaiser les émotions, réduire le stress et favoriser un équilibre mental. Parfait pour accompagner votre quotidien, ce bracelet est idéal pour ceux qui cherchent à cultiver la sérénité et la paix intérieure.",
+              "photo": "images/articles/bracelet-lepidolite-dark-qualite-aaa-10--mtl6zvhwoukt.jpg",
+              "prixBoutique": 25,
+              "stock": 1
             }
           ]
         }

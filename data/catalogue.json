@@ -5122,7 +5122,17 @@
               "description": "Ce bracelet en onyx de 4 mm est un accessoire élégant et intemporel, composé de perles noires brillantes. L'onyx est souvent utilisé en lithothérapie pour renforcer la volonté, apporter stabilité et protection, tout en aidant à ancrer les énergies. Parfait pour un usage quotidien, il est idéal pour ceux qui cherchent à renforcer leur confiance et leur détermination.",
               "photo": "images/articles/bracelet-onyx-4-mm-mtllnr3o5xht.jpg",
               "prixBoutique": 8.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VBzHV1X1eeppNo",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Onyx 4 mm",
+              "stripeDesc": "Ce bracelet en onyx de 4 mm est un accessoire élégant et intemporel, composé de perles noires brillantes. L'onyx est souvent utilisé en lithothérapie pour renforcer la volonté, apporter stabilité et protection, tout en aidant à ancrer les énergies. Parfait pour un usage quotidien, il est idéal pour ceux qui cherchent à renforcer leur confiance et leur détermination.",
+              "stripePriceId": "price_1UBbJNLOfCA5mATu53XZ2Vwy",
+              "stripePrix": 9.46,
+              "stripeLinkId": "plink_1UBbJNLOfCA5mATuacW8gUmO",
+              "stripe": "https://buy.stripe.com/28E14o4VQ5Vz8MEaxP2890x",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

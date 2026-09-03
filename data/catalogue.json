@@ -4724,16 +4724,25 @@
               "photo": "images/articles/bracelet-charoite-baroque-mtl7kd0dtxy0.jpg",
               "prixBoutique": 15.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00waEY4VQdo18ME6hz2890c",
               "stripeProductId": "prod_VBsvQFqq9RPpMD",
+              "stripePriceId": "price_1UBV9SLOfCA5mATuYvUN2zBw",
+              "stripeLinkId": "plink_1UBV9SLOfCA5mATuz1L5OISL",
+              "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet charoite baroque",
               "stripeDesc": "Ce bracelet en charoite baroque allie élégance et énergie apaisante. La charoite, pierre aux reflets violets et noirs, est réputée pour son pouvoir de protection et d'ouverture du cœur, aidant à transformer les émotions négatives en paix intérieure. Parfait pour un port quotidien, il apporte une touche mystique et une harmonie subtile à votre quotidien.",
-              "stripePriceId": "price_1UBV9SLOfCA5mATuYvUN2zBw",
-              "stripePrix": 16.7,
-              "stripeLinkId": "plink_1UBV9SLOfCA5mATuz1L5OISL",
-              "stripe": "https://buy.stripe.com/00waEY4VQdo18ME6hz2890c",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-kunzite-baroque-mtl7m3yq5arv",
+              "nom": "Bracelet kunzite baroque",
+              "prix": 17.32,
+              "description": "Ce bracelet en kunzite baroque allie élégance et douceur grâce à ses pierres aux reflets rosés et translucides. La kunzite, pierre de douceur et de compassion, est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la sérénité. Parfait pour un quotidien harmonieux, il est idéal pour ceux qui cherchent à cultiver la paix intérieure et à renforcer leur connexion avec une énergie bienveillante.",
+              "photo": "images/articles/bracelet-kunzite-baroque-mtl7m3yrd7un.jpg",
+              "prixBoutique": 16.5,
+              "stock": 1
             }
           ]
         }

@@ -4951,7 +4951,17 @@
               "description": "Pierre de protection et de défenses énergétiques.",
               "photo": "images/articles/bracelet-obsidienne-acajou-baroque-mtljt1yk4wvl.jpg",
               "prixBoutique": 5.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VBySaqWizUGN2z",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet obsidienne acajou baroque",
+              "stripeDesc": "Pierre de protection et de défenses énergétiques.",
+              "stripePriceId": "price_1UBaVMLOfCA5mATucdVxBxjI",
+              "stripePrix": 6.36,
+              "stripeLinkId": "plink_1UBaVMLOfCA5mATunOgsSriC",
+              "stripe": "https://buy.stripe.com/fZudRadsm2Jn1kc9tL2890o",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

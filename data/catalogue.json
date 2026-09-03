@@ -5160,7 +5160,17 @@
               "description": "Ce bracelet en obsidienne neige est composé de perles rondes et lisses, parfait pour un style élégant et naturel. L'obsidienne neige est souvent utilisée en lithothérapie pour apaiser les émotions, favoriser la protection énergétique et aider à clarifier les pensées. Idéal pour porter au quotidien, il apporte une touche de sérénité et de bien-être.",
               "photo": "images/articles/bracelet-obsidienne-neige-6-mm-mtllvjgkunon.jpg",
               "prixBoutique": 7.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VBzNuzhtORB9nt",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet obsidienne neige 6 mm",
+              "stripeDesc": "Ce bracelet en obsidienne neige est composé de perles rondes et lisses, parfait pour un style élégant et naturel. L'obsidienne neige est souvent utilisée en lithothérapie pour apaiser les émotions, favoriser la protection énergétique et aider à clarifier les pensées. Idéal pour porter au quotidien, il apporte une touche de sérénité et de bien-être.",
+              "stripePriceId": "price_1UBbP4LOfCA5mATu00153Tfo",
+              "stripePrix": 8.43,
+              "stripeLinkId": "plink_1UBbP5LOfCA5mATuwhBkghNB",
+              "stripe": "https://buy.stripe.com/6oUdRaagado12og49r2890z",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

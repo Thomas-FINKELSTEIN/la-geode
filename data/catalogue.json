@@ -4857,16 +4857,25 @@
               "photo": "images/articles/bracelet-larvikite-6-mm-mtlij3vbj3hn.jpg",
               "prixBoutique": 6.9,
               "stock": 7,
+              "stripe": "https://buy.stripe.com/aFa6oIbke83Hgf6eO52890j",
               "stripeProductId": "prod_VBxsRYNvA2nKiB",
+              "stripePriceId": "price_1UBZwRLOfCA5mATuan9eNH2I",
+              "stripeLinkId": "plink_1UBZwSLOfCA5mATuHL3Kbh8v",
+              "stripePrix": 7.4,
               "stripeMode": "live",
               "stripeNom": "Bracelet larvikite 6 mm",
               "stripeDesc": "Ce bracelet en larvikite, aux reflets bleutés et scintillants, est une pièce élégante et raffinée pour sublimer votre quotidien. La larvikite est souvent associée à une énergie apaisante et protectrice, aidant à équilibrer les émotions et à favoriser la sérénité. Porté régulièrement, il est censé renforcer la confiance en soi et attirer la prospérité dans votre vie.",
-              "stripePriceId": "price_1UBZwRLOfCA5mATuan9eNH2I",
-              "stripePrix": 7.4,
-              "stripeLinkId": "plink_1UBZwSLOfCA5mATuHL3Kbh8v",
-              "stripe": "https://buy.stripe.com/aFa6oIbke83Hgf6eO52890j",
               "stripeStock": 7,
               "epuise": false
+            },
+            {
+              "id": "bracelet-larvikite-8-mm-mtlirk7ufbfh",
+              "nom": "Bracelet larvikite 8 mm",
+              "prix": 10.5,
+              "description": "La larvikite est une pierre de vision et d' ancrage? elle était utilisée par les vikings autrefois, pour éclairer leurs voyages , cette pierre permet de voir au delà des apparences, des personnes et des situations.",
+              "photo": "images/articles/bracelet-larvikite-8-mm-mtlirk7umrb6.jpg",
+              "prixBoutique": 9.9,
+              "stock": 5
             }
           ]
         }

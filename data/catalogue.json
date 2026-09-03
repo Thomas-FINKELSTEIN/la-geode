@@ -4743,16 +4743,25 @@
               "photo": "images/articles/bracelet-kunzite-baroque-mtl7m3yrd7un.jpg",
               "prixBoutique": 16.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6fZiagacjX6Ew5dv2890d",
               "stripeProductId": "prod_VBswV8ppXuC1AK",
+              "stripePriceId": "price_1UBVAhLOfCA5mATuf9wu2WQw",
+              "stripeLinkId": "plink_1UBVAhLOfCA5mATuWIROFAnD",
+              "stripePrix": 17.32,
               "stripeMode": "live",
               "stripeNom": "Bracelet kunzite baroque",
               "stripeDesc": "Ce bracelet en kunzite baroque allie élégance et douceur grâce à ses pierres aux reflets rosés et translucides. La kunzite, pierre de douceur et de compassion, est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la sérénité. Parfait pour un quotidien harmonieux, il est idéal pour ceux qui cherchent à cultiver la paix intérieure et à renforcer leur connexion avec une énergie bienveillante.",
-              "stripePriceId": "price_1UBVAhLOfCA5mATuf9wu2WQw",
-              "stripePrix": 17.32,
-              "stripeLinkId": "plink_1UBVAhLOfCA5mATuWIROFAnD",
-              "stripe": "https://buy.stripe.com/9B6fZiagacjX6Ew5dv2890d",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-pierre-de-soleil-10-mm-mtl7p217p623",
+              "nom": "Bracelet pierre de soleil 10 mm",
+              "prix": 22.9,
+              "description": "Ce bracelet en pierre de soleil est composé de perles naturelles aux reflets dorés et translucides, parfait pour apporter une touche de lumière et de positivité à votre quotidien. En lithothérapie, cette pierre est souvent associée à la vitalité, à la joie et à l’harmonisation des énergies, aidant à dissoudre les tensions et à stimuler la confiance en soi. Un accessoire élégant et porteur d’une énergie rayonnante, idéal pour être porté au quotidien ou offert en cadeau bienveillant.",
+              "photo": "images/articles/bracelet-pierre-de-soleil-10-mm-mtl7p217dniv.jpg",
+              "prixBoutique": 21.9,
+              "stock": 3
             }
           ]
         }

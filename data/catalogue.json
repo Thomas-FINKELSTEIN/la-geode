@@ -4571,7 +4571,17 @@
               "description": "En lithothérapie, la serpentine est considérée comme un bouclier de protection et un puissant agent d' apaisement pour le corps et l'esprit, elle permet aussi un lâcher-prise",
               "photo": "images/articles/bracelet-serpentine-10-mm-mtl5vomu6k9s.jpg",
               "prixBoutique": 15.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBsAGZPjtbss5o",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet serpentine 10 mm",
+              "stripeDesc": "En lithothérapie, la serpentine est considérée comme un bouclier de protection et un puissant agent d' apaisement pour le corps et l'esprit, elle permet aussi un lâcher-prise",
+              "stripePriceId": "price_1UBUPjLOfCA5mATuRUd0ByoB",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1UBUPjLOfCA5mATuVMXWAx8d",
+              "stripe": "https://buy.stripe.com/eVq4gAcoi97Lgf649r28904",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

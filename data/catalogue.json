@@ -5370,16 +5370,25 @@
               "photo": "images/articles/bracelet-oeil-de-tigre-4-mm-mtlnl4scqjdx.jpg",
               "prixBoutique": 9.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/28EbJ2dsmfw9aUM49r2890K",
               "stripeProductId": "prod_VC09tiUu02NHwC",
+              "stripePriceId": "price_1UBc9SLOfCA5mATu3Bc86fwn",
+              "stripeLinkId": "plink_1UBc9SLOfCA5mATuRW6kqImw",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet oeil de tigre 4 mm",
               "stripeDesc": "Ce bracelet en oeil de tigre est composé de perles rondes et lisses, parfait pour un style sobre et élégant. La pierre oeil de tigre est souvent associée à la protection, au courage et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Porté régulièrement, il est censé stimuler l'énergie positive et favoriser la clarté mentale.",
-              "stripePriceId": "price_1UBc9SLOfCA5mATu3Bc86fwn",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UBc9SLOfCA5mATuRW6kqImw",
-              "stripe": "https://buy.stripe.com/28EbJ2dsmfw9aUM49r2890K",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-turquoise-africaine-4-mm-mtlnrsqk105a",
+              "nom": "Bracelet turquoise africaine 4 mm",
+              "prix": 7.4,
+              "description": "Ce bracelet en turquoise africaine allie élégance et énergie positive. La turquoise est souvent associée à la protection, à la communication et à l'apaisement des émotions, favorisant ainsi un équilibre intérieur. Parfait pour un usage quotidien, il apporte une touche naturelle et apaisante à votre style.",
+              "photo": "images/articles/bracelet-turquoise-africaine-4-mm-mtlnrsqkbr4i.jpg",
+              "prixBoutique": 6.9,
+              "stock": 2
             }
           ]
         }

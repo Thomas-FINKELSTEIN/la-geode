@@ -5180,16 +5180,25 @@
               "photo": "images/articles/bracelet-obsidienne-neige-10-mm-mtllz8nwy4lg.jpg",
               "prixBoutique": 14.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY6oI8821Fj0g87lD2890A",
               "stripeProductId": "prod_VBzQgRhox4lSjF",
+              "stripePriceId": "price_1UBbRrLOfCA5mATun1tDrDRr",
+              "stripeLinkId": "plink_1UBbRsLOfCA5mATuUcccP088",
+              "stripePrix": 15.25,
               "stripeMode": "live",
               "stripeNom": "Bracelet obsidienne neige 10 mm",
               "stripeDesc": "Ce bracelet en obsidienne neige est une pièce élégante et mystérieuse, composée de perles rondes et lisses. L'obsidienne neige est souvent associée à une énergie apaisante et protectrice, aidant à purifier les émotions et à renforcer la confiance en soi. Elle est idéale pour ceux qui cherchent à équilibrer leur énergie et à favoriser un état de calme intérieur.",
-              "stripePriceId": "price_1UBbRrLOfCA5mATun1tDrDRr",
-              "stripePrix": 15.25,
-              "stripeLinkId": "plink_1UBbRsLOfCA5mATuUcccP088",
-              "stripe": "https://buy.stripe.com/7sY6oI8821Fj0g87lD2890A",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-turquoise-africaine-baroque-mtlma7nghknr",
+              "nom": "Bracelet turquoise africaine baroque",
+              "prix": 10.5,
+              "description": "Ce bracelet en turquoise africaine baroque allie élégance et énergie positive. La turquoise est souvent associée à la protection, à la chance et à l'équilibre émotionnel, aidant à apaiser le mental et à renforcer la confiance en soi. Parfait pour un usage quotidien, il apporte une touche naturelle et spirituelle à votre style.",
+              "photo": "images/articles/bracelet-turquoise-africaine-baroque-mtlma7ng82a0.jpg",
+              "prixBoutique": 9.9,
+              "stock": 3
             }
           ]
         }

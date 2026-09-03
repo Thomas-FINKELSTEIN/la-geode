@@ -5198,7 +5198,17 @@
               "description": "Ce bracelet en turquoise africaine baroque allie élégance et énergie positive. La turquoise est souvent associée à la protection, à la chance et à l'équilibre émotionnel, aidant à apaiser le mental et à renforcer la confiance en soi. Parfait pour un usage quotidien, il apporte une touche naturelle et spirituelle à votre style.",
               "photo": "images/articles/bracelet-turquoise-africaine-baroque-mtlma7ng82a0.jpg",
               "prixBoutique": 9.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VBzZRhOVKeMh46",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet turquoise africaine baroque",
+              "stripeDesc": "Ce bracelet en turquoise africaine baroque allie élégance et énergie positive. La turquoise est souvent associée à la protection, à la chance et à l'équilibre émotionnel, aidant à apaiser le mental et à renforcer la confiance en soi. Parfait pour un usage quotidien, il apporte une touche naturelle et spirituelle à votre style.",
+              "stripePriceId": "price_1UBbaBLOfCA5mATuX4viuN5L",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UBbaBLOfCA5mATuTGIrCPOf",
+              "stripe": "https://buy.stripe.com/eVq00k4VQ2Jnfb235n2890B",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

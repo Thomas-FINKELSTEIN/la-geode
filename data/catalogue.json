@@ -5351,16 +5351,25 @@
               "photo": "images/articles/bracelet-trio-tigre-fer-faucon-6-mm-mtlnfvl07tep.jpg",
               "prixBoutique": 14.9,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/7sY00kbkebfTfb2dK12890J",
               "stripeProductId": "prod_VC05c2E6FU5DtX",
+              "stripePriceId": "price_1UBc5ZLOfCA5mATuy1mHzLH0",
+              "stripeLinkId": "plink_1UBc5ZLOfCA5mATusfRFbwpz",
+              "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet trio tigre fer faucon 6 mm",
               "stripeDesc": "Ce bracelet en pierres naturelles associe les énergies puissantes du trio tigre, du fer et du faucon pour un équilibre harmonieux. Traditionnellement utilisé en lithothérapie pour renforcer la détermination, la vitalité et la protection, il est idéal pour ceux qui cherchent à stimuler leur courage et leur force intérieure. Ses pierres aux reflets uniques apportent une touche d'élégance et d'énergie positive au quotidien.",
-              "stripePriceId": "price_1UBc5ZLOfCA5mATuy1mHzLH0",
-              "stripePrix": 15.66,
-              "stripeLinkId": "plink_1UBc5ZLOfCA5mATusfRFbwpz",
-              "stripe": "https://buy.stripe.com/7sY00kbkebfTfb2dK12890J",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "bracelet-oeil-de-tigre-4-mm-mtlnl4sc7dqt",
+              "nom": "Bracelet oeil de tigre 4 mm",
+              "prix": 10.5,
+              "description": "Ce bracelet en oeil de tigre est composé de perles rondes et lisses, parfait pour un style sobre et élégant. La pierre oeil de tigre est souvent associée à la protection, au courage et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Porté régulièrement, il est censé stimuler l'énergie positive et favoriser la clarté mentale.",
+              "photo": "images/articles/bracelet-oeil-de-tigre-4-mm-mtlnl4scqjdx.jpg",
+              "prixBoutique": 9.9,
+              "stock": 4
             }
           ]
         }

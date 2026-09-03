@@ -4723,7 +4723,17 @@
               "description": "Ce bracelet en charoite baroque allie élégance et énergie apaisante. La charoite, pierre aux reflets violets et noirs, est réputée pour son pouvoir de protection et d'ouverture du cœur, aidant à transformer les émotions négatives en paix intérieure. Parfait pour un port quotidien, il apporte une touche mystique et une harmonie subtile à votre quotidien.",
               "photo": "images/articles/bracelet-charoite-baroque-mtl7kd0dtxy0.jpg",
               "prixBoutique": 15.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VBsvQFqq9RPpMD",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet charoite baroque",
+              "stripeDesc": "Ce bracelet en charoite baroque allie élégance et énergie apaisante. La charoite, pierre aux reflets violets et noirs, est réputée pour son pouvoir de protection et d'ouverture du cœur, aidant à transformer les émotions négatives en paix intérieure. Parfait pour un port quotidien, il apporte une touche mystique et une harmonie subtile à votre quotidien.",
+              "stripePriceId": "price_1UBV9SLOfCA5mATuYvUN2zBw",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1UBV9SLOfCA5mATuz1L5OISL",
+              "stripe": "https://buy.stripe.com/00waEY4VQdo18ME6hz2890c",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

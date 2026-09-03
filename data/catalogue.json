@@ -5388,7 +5388,17 @@
               "description": "Ce bracelet en turquoise africaine allie élégance et énergie positive. La turquoise est souvent associée à la protection, à la communication et à l'apaisement des émotions, favorisant ainsi un équilibre intérieur. Parfait pour un usage quotidien, il apporte une touche naturelle et apaisante à votre style.",
               "photo": "images/articles/bracelet-turquoise-africaine-4-mm-mtlnrsqkbr4i.jpg",
               "prixBoutique": 6.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VC0E658aJnQYX0",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet turquoise africaine 4 mm",
+              "stripeDesc": "Ce bracelet en turquoise africaine allie élégance et énergie positive. La turquoise est souvent associée à la protection, à la communication et à l'apaisement des émotions, favorisant ainsi un équilibre intérieur. Parfait pour un usage quotidien, il apporte une touche naturelle et apaisante à votre style.",
+              "stripePriceId": "price_1UBcETLOfCA5mATuGomu5KrV",
+              "stripePrix": 7.4,
+              "stripeLinkId": "plink_1UBcEULOfCA5mATuXsbjXZcP",
+              "stripe": "https://buy.stripe.com/dRm8wQ9c61Fj5As7lD2890L",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

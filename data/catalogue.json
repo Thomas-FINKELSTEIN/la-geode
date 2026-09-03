@@ -5009,16 +5009,25 @@
               "photo": "images/articles/bracelet-oeil-de-tigre-8-mm-mtlka9vrp1o7.jpg",
               "prixBoutique": 14.9,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/8x2aEY2NI1Fj3sk21j2890r",
               "stripeProductId": "prod_VByfSKN2ppc8TH",
+              "stripePriceId": "price_1UBai1LOfCA5mATufIev4hVr",
+              "stripeLinkId": "plink_1UBai1LOfCA5mATuTgOFWBMU",
+              "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet oeil de tigre 8 mm",
               "stripeDesc": "Ce bracelet en oeil de tigre est composé de perles rondes et lisses, parfait pour un style à la fois élégant et naturel. La pierre oeil de tigre est souvent utilisée en lithothérapie pour renforcer la confiance en soi, équilibrer les émotions et apporter une énergie protectrice au quotidien. Idéal pour être porté au poignet, il allie beauté et bien-être pour un accessoire minéral unique.",
-              "stripePriceId": "price_1UBai1LOfCA5mATufIev4hVr",
-              "stripePrix": 15.66,
-              "stripeLinkId": "plink_1UBai1LOfCA5mATuTgOFWBMU",
-              "stripe": "https://buy.stripe.com/8x2aEY2NI1Fj3sk21j2890r",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "bracelet-oeil-de-tigre-4-mm-mtlkd48db149",
+              "nom": "Bracelet oeil de tigre 4 mm",
+              "prix": 10.5,
+              "description": "Ce bracelet en oeil de tigre est composé de perles rondes et lisses, parfait pour un style élégant et naturel. L'oeil de tigre est souvent utilisé en lithothérapie pour renforcer la confiance en soi, apporter de la stabilité émotionnelle et protéger contre les énergies négatives. Un accessoire idéal pour accompagner votre quotidien avec une touche de bien-être et de sérénité.",
+              "photo": "images/articles/bracelet-oeil-de-tigre-4-mm-mtlkd48dgl4z.jpg",
+              "prixBoutique": 9.9,
+              "stock": 5
             }
           ]
         }

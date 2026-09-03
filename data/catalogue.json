@@ -4875,7 +4875,17 @@
               "description": "La larvikite est une pierre de vision et d' ancrage? elle était utilisée par les vikings autrefois, pour éclairer leurs voyages , cette pierre permet de voir au delà des apparences, des personnes et des situations.",
               "photo": "images/articles/bracelet-larvikite-8-mm-mtlirk7umrb6.jpg",
               "prixBoutique": 9.9,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VBxziPT8yEc1iJ",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet larvikite 8 mm",
+              "stripeDesc": "La larvikite est une pierre de vision et d' ancrage? elle était utilisée par les vikings autrefois, pour éclairer leurs voyages , cette pierre permet de voir au delà des apparences, des personnes et des situations.",
+              "stripePriceId": "price_1UBa32LOfCA5mATuYK8naWud",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UBa32LOfCA5mATubjrJ8Eui",
+              "stripe": "https://buy.stripe.com/bJe28sewq4RvaUM5dv2890k",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

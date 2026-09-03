@@ -4952,16 +4952,25 @@
               "photo": "images/articles/bracelet-obsidienne-acajou-baroque-mtljt1yk4wvl.jpg",
               "prixBoutique": 5.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/fZudRadsm2Jn1kc9tL2890o",
               "stripeProductId": "prod_VBySaqWizUGN2z",
+              "stripePriceId": "price_1UBaVMLOfCA5mATucdVxBxjI",
+              "stripeLinkId": "plink_1UBaVMLOfCA5mATunOgsSriC",
+              "stripePrix": 6.36,
               "stripeMode": "live",
               "stripeNom": "Bracelet obsidienne acajou baroque",
               "stripeDesc": "Pierre de protection et de défenses énergétiques.",
-              "stripePriceId": "price_1UBaVMLOfCA5mATucdVxBxjI",
-              "stripePrix": 6.36,
-              "stripeLinkId": "plink_1UBaVMLOfCA5mATunOgsSriC",
-              "stripe": "https://buy.stripe.com/fZudRadsm2Jn1kc9tL2890o",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-nephrite-8-mm-mtljxzd3asvy",
+              "nom": "Bracelet néphrite 8 mm",
+              "prix": 15.66,
+              "description": "Ce bracelet en néphrite, pierre douce et apaisante, est un allié précieux pour le bien-être au quotidien. Associée traditionnellement à la sérénité et à l'équilibre émotionnel, elle aide à calmer les tensions et à renforcer la connexion à soi-même. Parfait pour une utilisation continue, il accompagne aussi bien les moments de méditation que les journées chargées.",
+              "photo": "images/articles/bracelet-nephrite-8-mm-mtljxzd3ow6m.jpg",
+              "prixBoutique": 14.9,
+              "stock": 1
             }
           ]
         }

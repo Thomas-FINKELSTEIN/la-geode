@@ -4913,7 +4913,17 @@
               "description": "L' obsidienne acajou est avant tout une pierre de protection, elle renforce aussi les défenses énergétiques.",
               "photo": "images/articles/bracelet-obsidienne-acajou-6-mm-mtljheiuavfu.jpg",
               "prixBoutique": 8.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VByIQKrh4a6SJo",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet obsidienne acajou 6 mm",
+              "stripeDesc": "L' obsidienne acajou est avant tout une pierre de protection, elle renforce aussi les défenses énergétiques.",
+              "stripePriceId": "price_1UBaMFLOfCA5mATufLri0Mvu",
+              "stripePrix": 9.46,
+              "stripeLinkId": "plink_1UBaMFLOfCA5mATuOh8T6ytC",
+              "stripe": "https://buy.stripe.com/5kQ5kE0FA1Fj3sk5dv2890m",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

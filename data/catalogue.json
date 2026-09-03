@@ -5237,16 +5237,25 @@
               "photo": "images/articles/bracelet-jade-vert-8-mm-mtlmpibgm9xm.jpg",
               "prixBoutique": 9.95,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/bJe28s73YgAd1kc5dv2890D",
               "stripeProductId": "prod_VBzlcSha1gl9I9",
+              "stripePriceId": "price_1UBblvLOfCA5mATuSiuyxcHy",
+              "stripeLinkId": "plink_1UBblvLOfCA5mATuMLLpnIft",
+              "stripePrix": 10.55,
               "stripeMode": "live",
               "stripeNom": "Bracelet jade vert 8 mm",
               "stripeDesc": "Ce bracelet en jade vert est un accessoire élégant et intemporel, composé de perles lisses et harmonieuses. Le jade est souvent associé à la chance, à la sérénité et à l'équilibre émotionnel, aidant à apaiser le stress et à renforcer la connexion à la nature. Porté au quotidien, il apporte une énergie apaisante et une touche de douceur dans votre vie.",
-              "stripePriceId": "price_1UBblvLOfCA5mATuSiuyxcHy",
-              "stripePrix": 10.55,
-              "stripeLinkId": "plink_1UBblvLOfCA5mATuMLLpnIft",
-              "stripe": "https://buy.stripe.com/bJe28s73YgAd1kc5dv2890D",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jade-vert-6-mm-mtlmr61oht94",
+              "nom": "Bracelet jade vert 6 mm",
+              "prix": 9.05,
+              "description": "Ce bracelet en jade vert est composé de perles lisses et harmonieuses, parfait pour un style élégant et naturel. Le jade est souvent associé à la chance, à la sérénité et à l'équilibre émotionnel, aidant à apaiser le mental et à renforcer la connexion à soi. Porté au quotidien, il apporte une énergie apaisante et favorise la concentration.",
+              "photo": "images/articles/bracelet-jade-vert-6-mm-mtlmr61o135d.jpg",
+              "prixBoutique": 8.5,
+              "stock": 1
             }
           ]
         }

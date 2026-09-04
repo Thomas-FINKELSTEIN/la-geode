@@ -5920,7 +5920,17 @@
               "description": "Ce bracelet en œil de faucon roulée est une pièce raffinée et élégante, composée de pierres naturelles aux reflets profonds et mystérieux. En lithothérapie, l’œil de faucon est souvent associé à la protection, à la concentration et à l’équilibre des énergies, aidant à renforcer la confiance en soi et à clarifier les pensées. Parfait pour un port quotidien, il apporte une touche d’énergie positive et de sérénité au quotidien.",
               "photo": "images/articles/bracelet-oeil-de-faucon-roulee-mtmydo6fqkuu.jpg",
               "prixBoutique": 9.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VCLHc0H70RuHDQ",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de faucon roulée",
+              "stripeDesc": "Ce bracelet en œil de faucon roulée est une pièce raffinée et élégante, composée de pierres naturelles aux reflets profonds et mystérieux. En lithothérapie, l’œil de faucon est souvent associé à la protection, à la concentration et à l’équilibre des énergies, aidant à renforcer la confiance en soi et à clarifier les pensées. Parfait pour un port quotidien, il apporte une touche d’énergie positive et de sérénité au quotidien.",
+              "stripePriceId": "price_1UBwb6LOfCA5mATuEBbkLakl",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UBwb6LOfCA5mATuaOERI8VT",
+              "stripe": "https://buy.stripe.com/dRm8wQaga5Vzgf60Xf2891e",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

@@ -6035,16 +6035,25 @@
               "photo": "images/articles/bracelet-cristal-de-roche-mtn3ph6dzegp.jpg",
               "prixBoutique": 21,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYfZicoi4Rv2og0Xf2891k",
               "stripeProductId": "prod_VCNgm67FFsxvJ5",
+              "stripePriceId": "price_1UByvRLOfCA5mATuFRlVvnZs",
+              "stripeLinkId": "plink_1UByvRLOfCA5mATuwlVrihMj",
+              "stripePrix": 21.97,
               "stripeMode": "live",
               "stripeNom": "Bracelet cristal de roche",
               "stripeDesc": "Ce bracelet en cristal de roche allie élégance et pureté énergétique. Le cristal de roche, pierre de lumière par excellence, est souvent utilisé en lithothérapie pour amplifier les intentions positives, clarifier l’esprit et renforcer la connexion à son énergie intérieure. Parfait pour un usage quotidien, il apporte une touche de sérénité et d’harmonie à votre quotidien.",
-              "stripePriceId": "price_1UByvRLOfCA5mATuFRlVvnZs",
-              "stripePrix": 21.97,
-              "stripeLinkId": "plink_1UByvRLOfCA5mATuwlVrihMj",
-              "stripe": "https://buy.stripe.com/7sYfZicoi4Rv2og0Xf2891k",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-fantaisie-mtn41vrh7w8u",
+              "nom": "Bracelet fantaisie",
+              "prix": 3.36,
+              "description": "Bracelet fantaisie pierre obsidienne  ou hématite",
+              "photo": "images/articles/bracelet-fantaisie-mtn41vrhznna.jpg",
+              "prixBoutique": 3,
+              "stock": 11
             }
           ]
         }

@@ -5522,16 +5522,25 @@
               "photo": "images/articles/bracelet-oeil-de-taureau-baroque-mtmnnb4xt7xt.jpg",
               "prixBoutique": 4.5,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/7sY14oewqdo1aUM35n2890S",
               "stripeProductId": "prod_VCGR6EnDjxaJ5b",
+              "stripePriceId": "price_1UBruLLOfCA5mATujm0bzlf7",
+              "stripeLinkId": "plink_1UBruMLOfCA5mATuKtShPw3j",
+              "stripePrix": 4.91,
               "stripeMode": "live",
               "stripeNom": "Bracelet oeil de taureau baroque",
               "stripeDesc": "Ce bracelet en pierres naturelles aux reflets profonds et aux formes organiques apporte une touche d'élégance mystique à votre quotidien. Composé de pierres aux teintes chaudes et terreuses, il est souvent associé en lithothérapie à un ancrage énergétique et à une protection spirituelle. Parfait pour ceux qui cherchent à renforcer leur confiance et leur stabilité émotionnelle, il se porte aussi bien au quotidien qu'en méditation.",
-              "stripePriceId": "price_1UBruLLOfCA5mATujm0bzlf7",
-              "stripePrix": 4.91,
-              "stripeLinkId": "plink_1UBruMLOfCA5mATuKtShPw3j",
-              "stripe": "https://buy.stripe.com/7sY14oewqdo1aUM35n2890S",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-tourmaline-8-mm-mtmnvuu8yeh3",
+              "nom": "Bracelet Tourmaline 8 mm",
+              "prix": 19.8,
+              "description": "Ce bracelet en tourmaline noire est un accessoire élégant et intemporel, composé de perles lisses et brillantes. La tourmaline est souvent associée à la protection énergétique et à l'équilibre émotionnel, aidant à apaiser le stress et à renforcer la concentration. Porté au quotidien, il est aussi apprécié pour ses vertus purificatrices et son harmonie avec les énergies environnantes.",
+              "photo": "images/articles/bracelet-tourmaline-8-mm-mtmnvuu8w4c7.jpg",
+              "prixBoutique": 18.9,
+              "stock": 2
             }
           ]
         }

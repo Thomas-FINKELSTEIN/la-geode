@@ -5559,7 +5559,17 @@
               "description": "Ce bracelet en tourmaline noire est un accessoire élégant et raffiné, composé de perles lisses et brillantes. La tourmaline est souvent associée à la protection énergétique et à l'ancrage, aidant à stabiliser les émotions et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent un allié bien-être et une pierre aux vertus apaisantes.",
               "photo": "images/articles/bracelet-tourmaline-4-mm-mtmo0g080eou.jpg",
               "prixBoutique": 12.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VCGb7VM7qGF2fJ",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Tourmaline 4 mm",
+              "stripeDesc": "Ce bracelet en tourmaline noire est un accessoire élégant et raffiné, composé de perles lisses et brillantes. La tourmaline est souvent associée à la protection énergétique et à l'ancrage, aidant à stabiliser les émotions et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent un allié bien-être et une pierre aux vertus apaisantes.",
+              "stripePriceId": "price_1UBs4ELOfCA5mATuFChpNrGP",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1UBs4ELOfCA5mATuTHhcPNzC",
+              "stripe": "https://buy.stripe.com/4gM00kfAubfT0g85dv2890U",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

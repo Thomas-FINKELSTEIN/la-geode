@@ -5997,16 +5997,25 @@
               "photo": "images/articles/bracelet-10-perles-jaspe-paysage-6-mm-mtn0szhcx6ay.jpg",
               "prixBoutique": 21,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMcN6bke6ZD5As5dv2891i",
               "stripeProductId": "prod_VCMNMCUuBRlxng",
+              "stripePriceId": "price_1UBxemLOfCA5mATuxLchajlt",
+              "stripeLinkId": "plink_1UBxemLOfCA5mATuTjm3eRUp",
+              "stripePrix": 21.97,
               "stripeMode": "live",
               "stripeNom": "Bracelet 10 perles jaspe paysage 6 mm",
               "stripeDesc": "Ce bracelet en jaspe paysage associe des perles naturelles aux couleurs douces et apaisantes, parfait pour un équilibre émotionnel au quotidien. Le jaspe paysage est souvent utilisé en lithothérapie pour renforcer la stabilité intérieure, favoriser la patience et apaiser les tensions. Idéal pour une touche bohème et bienveillante, il se porte aussi bien au travail qu’en méditation.",
-              "stripePriceId": "price_1UBxemLOfCA5mATuxLchajlt",
-              "stripePrix": 21.97,
-              "stripeLinkId": "plink_1UBxemLOfCA5mATuTjm3eRUp",
-              "stripe": "https://buy.stripe.com/4gMcN6bke6ZD5As5dv2891i",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-agate-grise-facetee-mtn3ol2eu190",
+              "nom": "Bracelet Agate grise facetée",
+              "prix": 21.97,
+              "description": "Ce bracelet en agate grise facetée allie élégance et douceur. L'agate est souvent associée à un apaisement des émotions et à un renforcement de la stabilité intérieure, aidant à retrouver calme et équilibre dans le quotidien. Porté au poignet, il diffuse une énergie harmonieuse et favorise la concentration, tout en restant discret pour une touche naturelle au quotidien.",
+              "photo": "images/articles/bracelet-agate-grise-facetee-mtn3ol2eoemp.jpg",
+              "prixBoutique": 21,
+              "stock": 1
             }
           ]
         }

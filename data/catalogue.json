@@ -5806,7 +5806,17 @@
               "description": "Ce bracelet en obsidienne est un accessoire puissant et élégant, composé de perles naturelles aux reflets profonds et mystérieux. Selon la lithothérapie, cette pierre volcanique est réputée pour ses propriétés de protection et de purification, aidant à libérer les énergies négatives et à apaiser les émotions. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent à renforcer leur ancrage et leur intuition.",
               "photo": "images/articles/bracelet-obsidienne-mtmqmyxrjat6.jpg",
               "prixBoutique": 32,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VCHnxpSnkP6H3T",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet obsidienne",
+              "stripeDesc": "Ce bracelet en obsidienne est un accessoire puissant et élégant, composé de perles naturelles aux reflets profonds et mystérieux. Selon la lithothérapie, cette pierre volcanique est réputée pour ses propriétés de protection et de purification, aidant à libérer les énergies négatives et à apaiser les émotions. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent à renforcer leur ancrage et leur intuition.",
+              "stripePriceId": "price_1UBtDTLOfCA5mATuCqVUnPC3",
+              "stripePrix": 33.34,
+              "stripeLinkId": "plink_1UBtDTLOfCA5mATuGiTRWLrU",
+              "stripe": "https://buy.stripe.com/00w28sbkegAd1kc49r28917",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

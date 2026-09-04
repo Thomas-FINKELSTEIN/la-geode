@@ -5731,16 +5731,25 @@
               "photo": "images/articles/bracelet-shungite-4-mm-mtmq5zdsunwf.jpg",
               "prixBoutique": 14.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMcN6dsm1Fjd2UaxP28913",
               "stripeProductId": "prod_VCHZX7Q5Pk1wZ6",
+              "stripePriceId": "price_1UBt0aLOfCA5mATuYzk7rhfC",
+              "stripeLinkId": "plink_1UBt0aLOfCA5mATub3YsYaBM",
+              "stripePrix": 15.25,
               "stripeMode": "live",
               "stripeNom": "Bracelet shungite 4 mm",
               "stripeDesc": "Ce bracelet en shungite est composé de perles noires et lisses, parfait pour un style sobre et élégant. La shungite est une pierre naturelle réputée pour ses propriétés protectrices et équilibrantes, idéale pour absorber les énergies négatives et favoriser un bien-être intérieur. Porté au quotidien, il aide à apaiser le stress et à renforcer la connexion à la terre.",
-              "stripePriceId": "price_1UBt0aLOfCA5mATuYzk7rhfC",
-              "stripePrix": 15.25,
-              "stripeLinkId": "plink_1UBt0aLOfCA5mATub3YsYaBM",
-              "stripe": "https://buy.stripe.com/4gMcN6dsm1Fjd2UaxP28913",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-shungite-baroque-mtmq99lc893r",
+              "nom": "Bracelet shungite baroque",
+              "prix": 21.87,
+              "description": "Ce bracelet en shungite baroque allie élégance et bien-être grâce à ses pierres aux reflets profonds et mystérieux. La shungite est réputée pour ses propriétés protectrices et équilibrantes, aidant à purifier l’énergie environnante et à apaiser les tensions du quotidien. Parfait pour une utilisation au quotidien, il se porte aussi bien pour ses vertus énergétiques que pour son style unique et raffiné.",
+              "photo": "images/articles/bracelet-shungite-baroque-mtmq99lcgf8r.jpg",
+              "prixBoutique": 20.9,
+              "stock": 6
             }
           ]
         }

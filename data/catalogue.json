@@ -5845,16 +5845,25 @@
               "photo": "images/articles/bracelet-oeil-de-faucon-4-mm-mtmxs033dyur.jpg",
               "prixBoutique": 12.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/5kQdRa5ZU3Nr4wocFX2891a",
               "stripeProductId": "prod_VCL0WNclfoiN4j",
+              "stripePriceId": "price_1UBwKmLOfCA5mATuNcV6EMUz",
+              "stripeLinkId": "plink_1UBwKmLOfCA5mATuwK73FGNJ",
+              "stripePrix": 13.6,
               "stripeMode": "live",
               "stripeNom": "Bracelet oeil de faucon 4 mm",
               "stripeDesc": "Ce bracelet en perles d'oeil de faucon est un accessoire élégant et raffiné, composé de pierres naturelles aux reflets profonds et mystérieux. En lithothérapie, l'oeil de faucon est souvent associé à la protection, à l'intuition et à la clarté mentale, aidant à renforcer la confiance en soi et à apaiser les émotions. Parfait pour un usage quotidien, il apporte une touche d'énergie positive et de sérénité au quotidien.",
-              "stripePriceId": "price_1UBwKmLOfCA5mATuNcV6EMUz",
-              "stripePrix": 13.6,
-              "stripeLinkId": "plink_1UBwKmLOfCA5mATuwK73FGNJ",
-              "stripe": "https://buy.stripe.com/5kQdRa5ZU3Nr4wocFX2891a",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-oeil-de-faucon-4-mm-mtmxtftiodfi",
+              "nom": "Bracelet oeil de faucon 4 mm",
+              "prix": 13.6,
+              "description": "Ce bracelet en oeil de faucon est un accessoire élégant et raffiné, composé de perles naturelles aux reflets dorés et profonds. En lithothérapie, l'oeil de faucon est souvent associé à la protection, à la concentration et à l'équilibre des énergies. Porté au quotidien, il est censé renforcer la confiance en soi et favoriser une vision claire des objectifs.",
+              "photo": "images/articles/bracelet-oeil-de-faucon-4-mm-mtmxtftil7mk.jpg",
+              "prixBoutique": 12.9,
+              "stock": 4
             }
           ]
         }

@@ -5521,7 +5521,17 @@
               "description": "Ce bracelet en pierres naturelles aux reflets profonds et aux formes organiques apporte une touche d'élégance mystique à votre quotidien. Composé de pierres aux teintes chaudes et terreuses, il est souvent associé en lithothérapie à un ancrage énergétique et à une protection spirituelle. Parfait pour ceux qui cherchent à renforcer leur confiance et leur stabilité émotionnelle, il se porte aussi bien au quotidien qu'en méditation.",
               "photo": "images/articles/bracelet-oeil-de-taureau-baroque-mtmnnb4xt7xt.jpg",
               "prixBoutique": 4.5,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VCGR6EnDjxaJ5b",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de taureau baroque",
+              "stripeDesc": "Ce bracelet en pierres naturelles aux reflets profonds et aux formes organiques apporte une touche d'élégance mystique à votre quotidien. Composé de pierres aux teintes chaudes et terreuses, il est souvent associé en lithothérapie à un ancrage énergétique et à une protection spirituelle. Parfait pour ceux qui cherchent à renforcer leur confiance et leur stabilité émotionnelle, il se porte aussi bien au quotidien qu'en méditation.",
+              "stripePriceId": "price_1UBruLLOfCA5mATujm0bzlf7",
+              "stripePrix": 4.91,
+              "stripeLinkId": "plink_1UBruMLOfCA5mATuKtShPw3j",
+              "stripe": "https://buy.stripe.com/7sY14oewqdo1aUM35n2890S",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

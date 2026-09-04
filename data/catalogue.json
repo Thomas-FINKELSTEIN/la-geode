@@ -5788,16 +5788,25 @@
               "photo": "images/articles/bracelet-obsidienne-dore-4-mm-mtmqkbw0dyih.jpg",
               "prixBoutique": 10.5,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/fZu8wQfAu83Hd2UaxP28916",
               "stripeProductId": "prod_VCHkhit0SgEVif",
+              "stripePriceId": "price_1UBtBOLOfCA5mATuKc2vmCG0",
+              "stripeLinkId": "plink_1UBtBOLOfCA5mATulNzP1UUQ",
+              "stripePrix": 11.12,
               "stripeMode": "live",
               "stripeNom": "Bracelet obsidienne doré 4 mm",
               "stripeDesc": "Ce bracelet en obsidienne doré allie élégance et énergie protectrice. L'obsidienne, pierre volcanique aux reflets dorés, est réputée pour absorber les énergies négatives et renforcer la confiance en soi. Parfait pour un port quotidien, il apporte un équilibre émotionnel et une connexion à la terre.",
-              "stripePriceId": "price_1UBtBOLOfCA5mATuKc2vmCG0",
-              "stripePrix": 11.12,
-              "stripeLinkId": "plink_1UBtBOLOfCA5mATulNzP1UUQ",
-              "stripe": "https://buy.stripe.com/fZu8wQfAu83Hd2UaxP28916",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "bracelet-obsidienne-mtmqmyxrz6g5",
+              "nom": "Bracelet obsidienne",
+              "prix": 33.34,
+              "description": "Ce bracelet en obsidienne est un accessoire puissant et élégant, composé de perles naturelles aux reflets profonds et mystérieux. Selon la lithothérapie, cette pierre volcanique est réputée pour ses propriétés de protection et de purification, aidant à libérer les énergies négatives et à apaiser les émotions. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent à renforcer leur ancrage et leur intuition.",
+              "photo": "images/articles/bracelet-obsidienne-mtmqmyxrjat6.jpg",
+              "prixBoutique": 32,
+              "stock": 3
             }
           ]
         }

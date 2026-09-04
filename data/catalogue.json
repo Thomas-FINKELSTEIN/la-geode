@@ -6092,16 +6092,25 @@
               "photo": "images/articles/bracelet-saphir-6-mm-mtn6np169nht.jpg",
               "prixBoutique": 99.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/fZucN6coi6ZDbYQaxP2891n",
               "stripeProductId": "prod_VCP1hHxRrxkWgi",
+              "stripePriceId": "price_1UC0DJLOfCA5mATuh8beLEbp",
+              "stripeLinkId": "plink_1UC0DKLOfCA5mATuUx7crLyj",
+              "stripePrix": 103.52,
               "stripeMode": "live",
               "stripeNom": "Bracelet saphir 6 mm",
               "stripeDesc": "Le saphir multicolore soulage les migraines, régénère la peau, les cheveux et les ongles, stimule la vitalité, apaise la colère, favorise les rêves, pierre de la sagesse, de la clarté mentale et de la paix intérieure.",
-              "stripePriceId": "price_1UC0DJLOfCA5mATuh8beLEbp",
-              "stripePrix": 103.52,
-              "stripeLinkId": "plink_1UC0DKLOfCA5mATuUx7crLyj",
-              "stripe": "https://buy.stripe.com/fZucN6coi6ZDbYQaxP2891n",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-larimar-8-mm-mtn72oair3fy",
+              "nom": "Bracelet larimar 8 mm",
+              "prix": 99.38,
+              "description": "Le larimar est une pierred'une rare variété de pectolite bleue qui provient de république dominicaine, elle apporte calme et sérénité, elle pacifie les émotions, réduit le stress, favorise la communication, pierre qui équilibre le corps et l'esprit, idéale en ca de maladie grave.",
+              "photo": "images/articles/bracelet-larimar-8-mm-mtn72oaiu0k8.jpg",
+              "prixBoutique": 95.9,
+              "stock": 1
             }
           ]
         }

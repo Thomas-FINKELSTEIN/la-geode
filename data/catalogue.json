@@ -5635,7 +5635,17 @@
               "description": "Ce bracelet en pierre de lave, originaire d'Indonésie, est un accessoire naturel aux propriétés énergétiques uniques. Utilisée en lithothérapie, cette pierre noire est réputée pour absorber les énergies négatives et favoriser la stabilité émotionnelle. Parfait pour un usage quotidien, il apporte équilibre et protection tout en restant discret et élégant.",
               "photo": "images/articles/bracelet-pierre-de-lave-8-mm-mtmpgjc9iufr.jpg",
               "prixBoutique": 6.9,
-              "stock": 7
+              "stock": 7,
+              "stripeProductId": "prod_VCHFw3EhT9ReVG",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet pierre de lave 8 mm",
+              "stripeDesc": "Ce bracelet en pierre de lave, originaire d'Indonésie, est un accessoire naturel aux propriétés énergétiques uniques. Utilisée en lithothérapie, cette pierre noire est réputée pour absorber les énergies négatives et favoriser la stabilité émotionnelle. Parfait pour un usage quotidien, il apporte équilibre et protection tout en restant discret et élégant.",
+              "stripePriceId": "price_1UBshRLOfCA5mATuFck2GOii",
+              "stripePrix": 7.4,
+              "stripeLinkId": "plink_1UBshRLOfCA5mATuDGZwTonv",
+              "stripe": "https://buy.stripe.com/9B6aEYfAu5Vz5AsaxP2890Y",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         }

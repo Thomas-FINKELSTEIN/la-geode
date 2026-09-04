@@ -5598,16 +5598,25 @@
               "photo": "images/articles/bracelet-spinelle-8-mm-mtmorhyop7yn.jpg",
               "prixBoutique": 32,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/4gM8wQ0FAfw93skeO52890W",
               "stripeProductId": "prod_VCGwxmO0Q7lwVH",
+              "stripePriceId": "price_1UBsObLOfCA5mATu9Zr0QmfG",
+              "stripeLinkId": "plink_1UBsOcLOfCA5mATuMnj2AtFr",
+              "stripePrix": 33.34,
               "stripeMode": "live",
               "stripeNom": "Bracelet spinelle 8 mm",
               "stripeDesc": "En neutralisant les énergies négatives , la spinelle aide à lutter contre les effets physiques du stress, tremblements, tensions musculaires.",
-              "stripePriceId": "price_1UBsObLOfCA5mATu9Zr0QmfG",
-              "stripePrix": 33.34,
-              "stripeLinkId": "plink_1UBsOcLOfCA5mATuMnj2AtFr",
-              "stripe": "https://buy.stripe.com/4gM8wQ0FAfw93skeO52890W",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-pierre-de-lave-4-mm-mtmpbvmgahbn",
+              "nom": "Bracelet pierre de lave 4 mm",
+              "prix": 6.36,
+              "description": "Ce bracelet en pierre de lave est un accessoire naturel et élégant, composé de perles volcaniques aux textures uniques. En lithothérapie, la pierre de lave est souvent utilisée pour son pouvoir de protection et de stabilisation émotionnelle, aidant à ancrer l’énergie et à apaiser le mental. Parfait pour une utilisation quotidienne, il apporte une touche mystique et une énergie terreuse à votre style.",
+              "photo": "images/articles/bracelet-pierre-de-lave-4-mm-mtmpbvmgg76e.jpg",
+              "prixBoutique": 5.9,
+              "stock": 3
             }
           ]
         }

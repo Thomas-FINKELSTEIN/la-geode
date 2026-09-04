@@ -5579,16 +5579,25 @@
               "photo": "images/articles/bracelet-tourmaline-roule-mtmo2ww8svjg.jpg",
               "prixBoutique": 9.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi3cwewqes5e6Y5dv2890V",
               "stripeProductId": "prod_VCGd0PQI8oniYE",
+              "stripePriceId": "price_1UBs64LOfCA5mATu8BY0saiY",
+              "stripeLinkId": "plink_1UBs64LOfCA5mATu7MuEJLFm",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet tourmaline roulé",
               "stripeDesc": "Ce bracelet en tourmaline roulée est une pièce élégante et naturelle, composée de pierres aux reflets profonds et captivants. La tourmaline est souvent associée à l'équilibre énergétique, aidant à apaiser les émotions et à renforcer la connexion à soi-même. Porté au poignet, il est idéal pour une protection subtile et une harmonie au quotidien.",
-              "stripePriceId": "price_1UBs64LOfCA5mATu8BY0saiY",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UBs64LOfCA5mATu7MuEJLFm",
-              "stripe": "https://buy.stripe.com/cNi3cwewqes5e6Y5dv2890V",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-spinelle-8-mm-mtmorhyotvk1",
+              "nom": "Bracelet spinelle 8 mm",
+              "prix": 33.34,
+              "description": "En neutralisant les énergies négatives , la spinelle aide à lutter contre les effets physiques du stress, tremblements, tensions musculaires.",
+              "photo": "images/articles/bracelet-spinelle-8-mm-mtmorhyop7yn.jpg",
+              "prixBoutique": 32,
+              "stock": 2
             }
           ]
         }

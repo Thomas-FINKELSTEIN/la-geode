@@ -5445,7 +5445,17 @@
               "description": "l e jaspe sang de dragon apporte ancrage confiance en soi , courage et volonté face aux épreuves de la vie.",
               "photo": "images/articles/bracelet-jaspe-sang-de-dragon-6-mm-mtmm91cg3eqe.jpg",
               "prixBoutique": 14.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VCFoLuLtsgTKmB",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe sang de dragon 6 mm",
+              "stripeDesc": "l e jaspe sang de dragon apporte ancrage confiance en soi , courage et volonté face aux épreuves de la vie.",
+              "stripePriceId": "price_1UBrIjLOfCA5mATuoVsMCexb",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UBrIjLOfCA5mATuPcuMLzlI",
+              "stripe": "https://buy.stripe.com/eVq28s2NI97L9QIbBT2890O",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

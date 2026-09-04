@@ -5464,7 +5464,17 @@
               "description": "Cette pierre amène la clairvoyance , stimule l'esprit , et élimine le mal être.",
               "photo": "images/articles/bracelet-pietersite-8-mm-mtmmj2dtj1y9.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCFvGVoKwQxOoK",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet piétersite 8 mm",
+              "stripeDesc": "Cette pierre amène la clairvoyance , stimule l'esprit , et élimine le mal être.",
+              "stripePriceId": "price_1UBrQ5LOfCA5mATub15JYArI",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UBrQ5LOfCA5mATuiklXRlbB",
+              "stripe": "https://buy.stripe.com/28EcN6gEydo12ogeO52890P",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

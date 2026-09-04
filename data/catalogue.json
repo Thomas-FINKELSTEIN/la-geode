@@ -5749,7 +5749,17 @@
               "description": "Ce bracelet en shungite baroque allie élégance et bien-être grâce à ses pierres aux reflets profonds et mystérieux. La shungite est réputée pour ses propriétés protectrices et équilibrantes, aidant à purifier l’énergie environnante et à apaiser les tensions du quotidien. Parfait pour une utilisation au quotidien, il se porte aussi bien pour ses vertus énergétiques que pour son style unique et raffiné.",
               "photo": "images/articles/bracelet-shungite-baroque-mtmq99lcgf8r.jpg",
               "prixBoutique": 20.9,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_VCHcyzKpz33mm8",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet shungite baroque",
+              "stripeDesc": "Ce bracelet en shungite baroque allie élégance et bien-être grâce à ses pierres aux reflets profonds et mystérieux. La shungite est réputée pour ses propriétés protectrices et équilibrantes, aidant à purifier l’énergie environnante et à apaiser les tensions du quotidien. Parfait pour une utilisation au quotidien, il se porte aussi bien pour ses vertus énergétiques que pour son style unique et raffiné.",
+              "stripePriceId": "price_1UBt38LOfCA5mATuVcjALiqP",
+              "stripePrix": 21.87,
+              "stripeLinkId": "plink_1UBt39LOfCA5mATuEUEsI7CR",
+              "stripe": "https://buy.stripe.com/7sY00k4VQ2Jngf68pH28914",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

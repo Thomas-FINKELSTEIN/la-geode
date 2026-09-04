@@ -5426,7 +5426,17 @@
               "description": "Le jaspe sang de dragon apporte des bienfaits sur le plan mental et émotionnel, courage et volonté, ça renforce la détermination face aux épreuves et aide à atteindre les objectifs, l'ancrage et la confiance en soi.",
               "photo": "images/articles/bracelet-jaspe-sang-de-dragon-4-mm-mtmm44sqrnot.jpg",
               "prixBoutique": 11.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VCFktvzZF76Hcr",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe sang de dragon 4 mm",
+              "stripeDesc": "Le jaspe sang de dragon apporte des bienfaits sur le plan mental et émotionnel, courage et volonté, ça renforce la détermination face aux épreuves et aide à atteindre les objectifs, l'ancrage et la confiance en soi.",
+              "stripePriceId": "price_1UBrF5LOfCA5mATu0P3UxEXP",
+              "stripePrix": 12.56,
+              "stripeLinkId": "plink_1UBrF6LOfCA5mATuYDX4clLu",
+              "stripe": "https://buy.stripe.com/6oU3cwewqbfTaUMaxP2890N",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

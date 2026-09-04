@@ -5654,7 +5654,17 @@
               "description": "",
               "photo": "images/articles/bracelet-oeil-de-fer-mtmpl969rgan.jpg",
               "prixBoutique": 8.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VCHJ8AtHUTmlDZ",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de fer",
+              "stripeDesc": "",
+              "stripePriceId": "price_1UBsl0LOfCA5mATuFDOACuFO",
+              "stripePrix": 9.46,
+              "stripeLinkId": "plink_1UBsl1LOfCA5mATuczuVr9Bc",
+              "stripe": "https://buy.stripe.com/bJe5kE2NI5Vz5As6hz2890Z",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

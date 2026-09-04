@@ -5541,16 +5541,25 @@
               "photo": "images/articles/bracelet-tourmaline-8-mm-mtmnvuu8w4c7.jpg",
               "prixBoutique": 18.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/00w4gA3RMes59QI8pH2890T",
               "stripeProductId": "prod_VCGXPlmJ5zZIhQ",
+              "stripePriceId": "price_1UBs0kLOfCA5mATuuqeQ9rta",
+              "stripeLinkId": "plink_1UBs0lLOfCA5mATuRIYSURNL",
+              "stripePrix": 19.8,
               "stripeMode": "live",
               "stripeNom": "Bracelet Tourmaline 8 mm",
               "stripeDesc": "Ce bracelet en tourmaline noire est un accessoire élégant et intemporel, composé de perles lisses et brillantes. La tourmaline est souvent associée à la protection énergétique et à l'équilibre émotionnel, aidant à apaiser le stress et à renforcer la concentration. Porté au quotidien, il est aussi apprécié pour ses vertus purificatrices et son harmonie avec les énergies environnantes.",
-              "stripePriceId": "price_1UBs0kLOfCA5mATuuqeQ9rta",
-              "stripePrix": 19.8,
-              "stripeLinkId": "plink_1UBs0lLOfCA5mATuRIYSURNL",
-              "stripe": "https://buy.stripe.com/00w4gA3RMes59QI8pH2890T",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-tourmaline-4-mm-mtmo0g08gf6n",
+              "nom": "Bracelet Tourmaline 4 mm",
+              "prix": 13.6,
+              "description": "Ce bracelet en tourmaline noire est un accessoire élégant et raffiné, composé de perles lisses et brillantes. La tourmaline est souvent associée à la protection énergétique et à l'ancrage, aidant à stabiliser les émotions et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent un allié bien-être et une pierre aux vertus apaisantes.",
+              "photo": "images/articles/bracelet-tourmaline-4-mm-mtmo0g080eou.jpg",
+              "prixBoutique": 12.9,
+              "stock": 2
             }
           ]
         }

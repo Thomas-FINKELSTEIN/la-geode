@@ -5503,16 +5503,25 @@
               "photo": "images/articles/bracelet-oeil-de-taureau-4-mm-mtmn6wqicy9v.jpg",
               "prixBoutique": 7.5,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/28E8wQ5ZU1Fjgf6fS92890R",
               "stripeProductId": "prod_VCGE8R5T6mhcyK",
+              "stripePriceId": "price_1UBri0LOfCA5mATuhcExtswj",
+              "stripeLinkId": "plink_1UBri1LOfCA5mATu7LK5sZig",
+              "stripePrix": 8.02,
               "stripeMode": "live",
               "stripeNom": "Bracelet oeil de taureau 4 mm",
               "stripeDesc": "Ancrage , protection , vitalité, force.",
-              "stripePriceId": "price_1UBri0LOfCA5mATuhcExtswj",
-              "stripePrix": 8.02,
-              "stripeLinkId": "plink_1UBri1LOfCA5mATu7LK5sZig",
-              "stripe": "https://buy.stripe.com/28E8wQ5ZU1Fjgf6fS92890R",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-oeil-de-taureau-baroque-mtmnnb4x4sua",
+              "nom": "Bracelet oeil de taureau baroque",
+              "prix": 4.91,
+              "description": "Ce bracelet en pierres naturelles aux reflets profonds et aux formes organiques apporte une touche d'élégance mystique à votre quotidien. Composé de pierres aux teintes chaudes et terreuses, il est souvent associé en lithothérapie à un ancrage énergétique et à une protection spirituelle. Parfait pour ceux qui cherchent à renforcer leur confiance et leur stabilité émotionnelle, il se porte aussi bien au quotidien qu'en méditation.",
+              "photo": "images/articles/bracelet-oeil-de-taureau-baroque-mtmnnb4xt7xt.jpg",
+              "prixBoutique": 4.5,
+              "stock": 3
             }
           ]
         }

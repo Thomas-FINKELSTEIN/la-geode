@@ -5674,16 +5674,25 @@
               "photo": "images/articles/bracelet-shungite-10-mm-mtmpucm7ub9i.jpg",
               "prixBoutique": 35.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/3cI9AU5ZUes50g85dv28910",
               "stripeProductId": "prod_VCHQJiuPyq8tfC",
+              "stripePriceId": "price_1UBsrtLOfCA5mATuEEuSDl4F",
+              "stripeLinkId": "plink_1UBsrtLOfCA5mATuQrRORJlp",
+              "stripePrix": 37.37,
               "stripeMode": "live",
               "stripeNom": "Bracelet shungite 10 mm",
               "stripeDesc": "Ce bracelet en shungite est composé de perles noires et brillantes, parfait pour un style sobre et élégant. La shungite est réputée pour ses propriétés protectrices et équilibrantes, aidant à absorber les énergies négatives et à favoriser un bien-être intérieur. Idéal pour un usage quotidien, il se porte aussi bien au travail qu’en méditation pour une sensation de calme et de sérénité.",
-              "stripePriceId": "price_1UBsrtLOfCA5mATuEEuSDl4F",
-              "stripePrix": 37.37,
-              "stripeLinkId": "plink_1UBsrtLOfCA5mATuQrRORJlp",
-              "stripe": "https://buy.stripe.com/3cI9AU5ZUes50g85dv28910",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-shungite-8-mm-mtmpxl7l24ak",
+              "nom": "Bracelet shungite 8 mm",
+              "prix": 21.35,
+              "description": "Ce bracelet en shungite est composé de perles noires et brillantes, parfait pour un style élégant et naturel. La shungite est réputée pour ses propriétés purificatrices et protectrices, aidant à absorber les énergies négatives et à équilibrer le corps. Porté au quotidien, il favorise le bien-être et la détente, tout en apportant une touche d'harmonie à votre quotidien.",
+              "photo": "images/articles/bracelet-shungite-8-mm-mtmpxl7lmfmf.jpg",
+              "prixBoutique": 20.4,
+              "stock": 2
             }
           ]
         }

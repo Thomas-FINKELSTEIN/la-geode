@@ -5844,7 +5844,17 @@
               "description": "Ce bracelet en pierres oeil de faucon de qualité AAA est un accessoire élégant et raffiné. Les pierres, aux reflets dorés et noirs captivants, sont réputées pour renforcer la confiance en soi et apporter une énergie protectrice. En lithothérapie, elles sont souvent utilisées pour stimuler la vitalité et équilibrer les émotions, tout en offrant une touche de sophistication au quotidien.",
               "photo": "images/articles/bracelet-oeil-de-faucon-qualite-aaa-4-mm-mtmxne20xh09.jpg",
               "prixBoutique": 9.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VCKx0rXhmI6E9s",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de faucon qualité AAA 4 mm",
+              "stripeDesc": "Ce bracelet en pierres oeil de faucon de qualité AAA est un accessoire élégant et raffiné. Les pierres, aux reflets dorés et noirs captivants, sont réputées pour renforcer la confiance en soi et apporter une énergie protectrice. En lithothérapie, elles sont souvent utilisées pour stimuler la vitalité et équilibrer les émotions, tout en offrant une touche de sophistication au quotidien.",
+              "stripePriceId": "price_1UBwHHLOfCA5mATuRaRrdI3o",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UBwHHLOfCA5mATuZnY7X8Mt",
+              "stripe": "https://buy.stripe.com/8x2eVefAu3Nr9QI7lD28919",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

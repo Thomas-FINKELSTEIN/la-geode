@@ -6091,7 +6091,17 @@
               "description": "Le saphir multicolore soulage les migraines, régénère la peau, les cheveux et les ongles, stimule la vitalité, apaise la colère, favorise les rêves, pierre de la sagesse, de la clarté mentale et de la paix intérieure.",
               "photo": "images/articles/bracelet-saphir-6-mm-mtn6np169nht.jpg",
               "prixBoutique": 99.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VCP1hHxRrxkWgi",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet saphir 6 mm",
+              "stripeDesc": "Le saphir multicolore soulage les migraines, régénère la peau, les cheveux et les ongles, stimule la vitalité, apaise la colère, favorise les rêves, pierre de la sagesse, de la clarté mentale et de la paix intérieure.",
+              "stripePriceId": "price_1UC0DJLOfCA5mATuh8beLEbp",
+              "stripePrix": 103.52,
+              "stripeLinkId": "plink_1UC0DKLOfCA5mATuUx7crLyj",
+              "stripe": "https://buy.stripe.com/fZucN6coi6ZDbYQaxP2891n",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

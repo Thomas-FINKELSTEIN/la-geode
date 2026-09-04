@@ -5769,16 +5769,25 @@
               "photo": "images/articles/bracelet-jade-4-mm-mtmqf8ltnoal.jpg",
               "prixBoutique": 6.95,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00wdRa73YgAd5AsaxP28915",
               "stripeProductId": "prod_VCHgmvfqtj6LqS",
+              "stripePriceId": "price_1UBt7VLOfCA5mATux2o4k2Wn",
+              "stripeLinkId": "plink_1UBt7WLOfCA5mATuxsWPWz2a",
+              "stripePrix": 7.45,
               "stripeMode": "live",
               "stripeNom": "Bracelet jade 4 mm",
               "stripeDesc": "Ce bracelet en jade, composé de perles lisses et douces, est un accessoire raffiné pour sublimer votre quotidien. En lithothérapie, le jade est souvent associé à l’harmonie émotionnelle, à la sérénité et à l’équilibre énergétique. Porté régulièrement, il est censé favoriser la patience, la sagesse et renforcer la connexion à la nature.",
-              "stripePriceId": "price_1UBt7VLOfCA5mATux2o4k2Wn",
-              "stripePrix": 7.45,
-              "stripeLinkId": "plink_1UBt7WLOfCA5mATuxsWPWz2a",
-              "stripe": "https://buy.stripe.com/00wdRa73YgAd5AsaxP28915",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-obsidienne-dore-4-mm-mtmqkbw0z6xh",
+              "nom": "Bracelet obsidienne doré 4 mm",
+              "prix": 11.12,
+              "description": "Ce bracelet en obsidienne doré allie élégance et énergie protectrice. L'obsidienne, pierre volcanique aux reflets dorés, est réputée pour absorber les énergies négatives et renforcer la confiance en soi. Parfait pour un port quotidien, il apporte un équilibre émotionnel et une connexion à la terre.",
+              "photo": "images/articles/bracelet-obsidienne-dore-4-mm-mtmqkbw0dyih.jpg",
+              "prixBoutique": 10.5,
+              "stock": 6
             }
           ]
         }

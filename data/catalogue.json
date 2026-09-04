@@ -5560,16 +5560,25 @@
               "photo": "images/articles/bracelet-tourmaline-4-mm-mtmo0g080eou.jpg",
               "prixBoutique": 12.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/4gM00kfAubfT0g85dv2890U",
               "stripeProductId": "prod_VCGb7VM7qGF2fJ",
+              "stripePriceId": "price_1UBs4ELOfCA5mATuFChpNrGP",
+              "stripeLinkId": "plink_1UBs4ELOfCA5mATuTHhcPNzC",
+              "stripePrix": 13.6,
               "stripeMode": "live",
               "stripeNom": "Bracelet Tourmaline 4 mm",
               "stripeDesc": "Ce bracelet en tourmaline noire est un accessoire élégant et raffiné, composé de perles lisses et brillantes. La tourmaline est souvent associée à la protection énergétique et à l'ancrage, aidant à stabiliser les émotions et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent un allié bien-être et une pierre aux vertus apaisantes.",
-              "stripePriceId": "price_1UBs4ELOfCA5mATuFChpNrGP",
-              "stripePrix": 13.6,
-              "stripeLinkId": "plink_1UBs4ELOfCA5mATuTHhcPNzC",
-              "stripe": "https://buy.stripe.com/4gM00kfAubfT0g85dv2890U",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-tourmaline-roule-mtmo2ww83cka",
+              "nom": "Bracelet tourmaline roulé",
+              "prix": 10.5,
+              "description": "Ce bracelet en tourmaline roulée est une pièce élégante et naturelle, composée de pierres aux reflets profonds et captivants. La tourmaline est souvent associée à l'équilibre énergétique, aidant à apaiser les émotions et à renforcer la connexion à soi-même. Porté au poignet, il est idéal pour une protection subtile et une harmonie au quotidien.",
+              "photo": "images/articles/bracelet-tourmaline-roule-mtmo2ww8svjg.jpg",
+              "prixBoutique": 9.9,
+              "stock": 1
             }
           ]
         }

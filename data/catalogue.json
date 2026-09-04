@@ -5939,7 +5939,17 @@
               "description": "Bouclier à part entière, la labradorite est personnellement une bonne pierre de protection pour les personnes ayant trop d' ampathie,",
               "photo": "images/articles/bracelet-labradorite-facetee-mtmyk83j8l12.jpg",
               "prixBoutique": 14.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCLMpjbFAUCDWY",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet labradorite facetée",
+              "stripeDesc": "Bouclier à part entière, la labradorite est personnellement une bonne pierre de protection pour les personnes ayant trop d' ampathie,",
+              "stripePriceId": "price_1UBwg0LOfCA5mATuT2gIpA2E",
+              "stripePrix": 15.25,
+              "stripeLinkId": "plink_1UBwg0LOfCA5mATufE8RuOmz",
+              "stripe": "https://buy.stripe.com/fZu3cw9c61Fj7IA8pH2891f",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

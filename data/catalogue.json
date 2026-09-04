@@ -5901,7 +5901,17 @@
               "description": "",
               "photo": "images/articles/bracelet-oeil-de-faucon-6-mm-mtmy5xnjcnpz.jpg",
               "prixBoutique": 15.9,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_VCLBmIvMLit1Qt",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de faucon 6 mm",
+              "stripeDesc": "",
+              "stripePriceId": "price_1UBwVbLOfCA5mATuo9XSuf8c",
+              "stripePrix": 16.7,
+              "stripeLinkId": "plink_1UBwVbLOfCA5mATuaZ4TejyV",
+              "stripe": "https://buy.stripe.com/fZu8wQ5ZUes5gf68pH2891d",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

@@ -6015,7 +6015,17 @@
               "description": "Ce bracelet en agate grise facetée allie élégance et douceur. L'agate est souvent associée à un apaisement des émotions et à un renforcement de la stabilité intérieure, aidant à retrouver calme et équilibre dans le quotidien. Porté au poignet, il diffuse une énergie harmonieuse et favorise la concentration, tout en restant discret pour une touche naturelle au quotidien.",
               "photo": "images/articles/bracelet-agate-grise-facetee-mtn3ol2eoemp.jpg",
               "prixBoutique": 21,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCNgrL9PMDyFSf",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Agate grise facetée",
+              "stripeDesc": "Ce bracelet en agate grise facetée allie élégance et douceur. L'agate est souvent associée à un apaisement des émotions et à un renforcement de la stabilité intérieure, aidant à retrouver calme et équilibre dans le quotidien. Porté au poignet, il diffuse une énergie harmonieuse et favorise la concentration, tout en restant discret pour une touche naturelle au quotidien.",
+              "stripePriceId": "price_1UByulLOfCA5mATudfZrFU09",
+              "stripePrix": 21.97,
+              "stripeLinkId": "plink_1UByulLOfCA5mATuJCEyOTZu",
+              "stripe": "https://buy.stripe.com/aFa3cwdsm0BfbYQcFX2891j",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

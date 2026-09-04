@@ -5940,16 +5940,25 @@
               "photo": "images/articles/bracelet-labradorite-facetee-mtmyk83j8l12.jpg",
               "prixBoutique": 14.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu3cw9c61Fj7IA8pH2891f",
               "stripeProductId": "prod_VCLMpjbFAUCDWY",
+              "stripePriceId": "price_1UBwg0LOfCA5mATuT2gIpA2E",
+              "stripeLinkId": "plink_1UBwg0LOfCA5mATufE8RuOmz",
+              "stripePrix": 15.25,
               "stripeMode": "live",
               "stripeNom": "Bracelet labradorite facetée",
               "stripeDesc": "Bouclier à part entière, la labradorite est personnellement une bonne pierre de protection pour les personnes ayant trop d' ampathie,",
-              "stripePriceId": "price_1UBwg0LOfCA5mATuT2gIpA2E",
-              "stripePrix": 15.25,
-              "stripeLinkId": "plink_1UBwg0LOfCA5mATufE8RuOmz",
-              "stripe": "https://buy.stripe.com/fZu3cw9c61Fj7IA8pH2891f",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-en-acier-et-cornaline-reglable--mtn041mwqdw7",
+              "nom": "Bracelet en acier et cornaline réglable 8 mm",
+              "prix": 23,
+              "description": "La pierre cornaline lutte contre les toxines du corps. Elle assiste les reins, le foie et la vésicule biliaire dans leur travail de drainage et de filtrage.  elle amène la confiance en soi, elle calme la colère , la jalousie et la rancoeur? elle stimule l'imagination, aide les artistes, et chasse la tristesse.",
+              "photo": "images/articles/bracelet-en-acier-et-cornaline-reglable--mtn041mwyw64.jpg",
+              "prixBoutique": 22,
+              "stock": 1
             }
           ]
         }

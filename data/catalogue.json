@@ -5996,7 +5996,17 @@
               "description": "Ce bracelet en jaspe paysage associe des perles naturelles aux couleurs douces et apaisantes, parfait pour un équilibre émotionnel au quotidien. Le jaspe paysage est souvent utilisé en lithothérapie pour renforcer la stabilité intérieure, favoriser la patience et apaiser les tensions. Idéal pour une touche bohème et bienveillante, il se porte aussi bien au travail qu’en méditation.",
               "photo": "images/articles/bracelet-10-perles-jaspe-paysage-6-mm-mtn0szhcx6ay.jpg",
               "prixBoutique": 21,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCMNMCUuBRlxng",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet 10 perles jaspe paysage 6 mm",
+              "stripeDesc": "Ce bracelet en jaspe paysage associe des perles naturelles aux couleurs douces et apaisantes, parfait pour un équilibre émotionnel au quotidien. Le jaspe paysage est souvent utilisé en lithothérapie pour renforcer la stabilité intérieure, favoriser la patience et apaiser les tensions. Idéal pour une touche bohème et bienveillante, il se porte aussi bien au travail qu’en méditation.",
+              "stripePriceId": "price_1UBxemLOfCA5mATuxLchajlt",
+              "stripePrix": 21.97,
+              "stripeLinkId": "plink_1UBxemLOfCA5mATuTjm3eRUp",
+              "stripe": "https://buy.stripe.com/4gMcN6bke6ZD5As5dv2891i",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

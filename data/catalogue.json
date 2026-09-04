@@ -5616,7 +5616,17 @@
               "description": "Ce bracelet en pierre de lave est un accessoire naturel et élégant, composé de perles volcaniques aux textures uniques. En lithothérapie, la pierre de lave est souvent utilisée pour son pouvoir de protection et de stabilisation émotionnelle, aidant à ancrer l’énergie et à apaiser le mental. Parfait pour une utilisation quotidienne, il apporte une touche mystique et une énergie terreuse à votre style.",
               "photo": "images/articles/bracelet-pierre-de-lave-4-mm-mtmpbvmgg76e.jpg",
               "prixBoutique": 5.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VCHCkHfVu2kDgF",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet pierre de lave 4 mm",
+              "stripeDesc": "Ce bracelet en pierre de lave est un accessoire naturel et élégant, composé de perles volcaniques aux textures uniques. En lithothérapie, la pierre de lave est souvent utilisée pour son pouvoir de protection et de stabilisation émotionnelle, aidant à ancrer l’énergie et à apaiser le mental. Parfait pour une utilisation quotidienne, il apporte une touche mystique et une énergie terreuse à votre style.",
+              "stripePriceId": "price_1UBsdwLOfCA5mATulYTzpALM",
+              "stripePrix": 6.36,
+              "stripeLinkId": "plink_1UBsdwLOfCA5mATuryHbifFH",
+              "stripe": "https://buy.stripe.com/14AbJ24VQgAdfb2eO52890X",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

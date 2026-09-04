@@ -6054,16 +6054,25 @@
               "photo": "images/articles/bracelet-fantaisie-mtn41vrhznna.jpg",
               "prixBoutique": 3,
               "stock": 11,
+              "stripe": "https://buy.stripe.com/7sYaEYcoido18MEbBT2891l",
               "stripeProductId": "prod_VCNqUrlweWT7VN",
+              "stripePriceId": "price_1UBz4jLOfCA5mATuLBWz9irI",
+              "stripeLinkId": "plink_1UBz4jLOfCA5mATuOEYy9jsS",
+              "stripePrix": 3.36,
               "stripeMode": "live",
               "stripeNom": "Bracelet fantaisie",
               "stripeDesc": "Bracelet fantaisie pierre obsidienne  ou hématite",
-              "stripePriceId": "price_1UBz4jLOfCA5mATuLBWz9irI",
-              "stripePrix": 3.36,
-              "stripeLinkId": "plink_1UBz4jLOfCA5mATuOEYy9jsS",
-              "stripe": "https://buy.stripe.com/7sYaEYcoido18MEbBT2891l",
               "stripeStock": 11,
               "epuise": false
+            },
+            {
+              "id": "bracelet-variscite-8-mm-qualite-aaa-mtn6ewte92et",
+              "nom": "Bracelet variscite 8 mm qualité AAA",
+              "prix": 58.66,
+              "description": "Les bienfaits de la variscite sur le plan physique , elle aide à réguler l' activité du foie, à apaiser les tensions du foie dues à une surcharge, elle aide aussi aux rhumatismes et aux ulcères. c'est une excellente pierre stimulante et énergisante.",
+              "photo": null,
+              "prixBoutique": 56.5,
+              "stock": 1
             }
           ]
         }

@@ -5692,7 +5692,17 @@
               "description": "Ce bracelet en shungite est composé de perles noires et brillantes, parfait pour un style élégant et naturel. La shungite est réputée pour ses propriétés purificatrices et protectrices, aidant à absorber les énergies négatives et à équilibrer le corps. Porté au quotidien, il favorise le bien-être et la détente, tout en apportant une touche d'harmonie à votre quotidien.",
               "photo": "images/articles/bracelet-shungite-8-mm-mtmpxl7lmfmf.jpg",
               "prixBoutique": 20.4,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VCHT4ZCAgQWbth",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet shungite 8 mm",
+              "stripeDesc": "Ce bracelet en shungite est composé de perles noires et brillantes, parfait pour un style élégant et naturel. La shungite est réputée pour ses propriétés purificatrices et protectrices, aidant à absorber les énergies négatives et à équilibrer le corps. Porté au quotidien, il favorise le bien-être et la détente, tout en apportant une touche d'harmonie à votre quotidien.",
+              "stripePriceId": "price_1UBsuILOfCA5mATuwxvQXTYc",
+              "stripePrix": 21.35,
+              "stripeLinkId": "plink_1UBsuILOfCA5mATuGwizBVRZ",
+              "stripe": "https://buy.stripe.com/5kQfZi2NIfw97IAdK128911",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

@@ -5958,7 +5958,17 @@
               "description": "La pierre cornaline lutte contre les toxines du corps. Elle assiste les reins, le foie et la vésicule biliaire dans leur travail de drainage et de filtrage.  elle amène la confiance en soi, elle calme la colère , la jalousie et la rancoeur? elle stimule l'imagination, aide les artistes, et chasse la tristesse.",
               "photo": "images/articles/bracelet-en-acier-et-cornaline-reglable--mtn041mwyw64.jpg",
               "prixBoutique": 22,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCM4Y6L0RyVuJd",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en acier et cornaline réglable 8 mm",
+              "stripeDesc": "La pierre cornaline lutte contre les toxines du corps. Elle assiste les reins, le foie et la vésicule biliaire dans leur travail de drainage et de filtrage.  elle amène la confiance en soi, elle calme la colère , la jalousie et la rancoeur? elle stimule l'imagination, aide les artistes, et chasse la tristesse.",
+              "stripePriceId": "price_1UBxM3LOfCA5mATukRUxxFJr",
+              "stripePrix": 23,
+              "stripeLinkId": "plink_1UBxM3LOfCA5mATuitZfAk5h",
+              "stripe": "https://buy.stripe.com/fZubJ20FA6ZD6Ew0Xf2891g",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

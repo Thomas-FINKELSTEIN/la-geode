@@ -5597,7 +5597,17 @@
               "description": "En neutralisant les énergies négatives , la spinelle aide à lutter contre les effets physiques du stress, tremblements, tensions musculaires.",
               "photo": "images/articles/bracelet-spinelle-8-mm-mtmorhyop7yn.jpg",
               "prixBoutique": 32,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VCGwxmO0Q7lwVH",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet spinelle 8 mm",
+              "stripeDesc": "En neutralisant les énergies négatives , la spinelle aide à lutter contre les effets physiques du stress, tremblements, tensions musculaires.",
+              "stripePriceId": "price_1UBsObLOfCA5mATu9Zr0QmfG",
+              "stripePrix": 33.34,
+              "stripeLinkId": "plink_1UBsOcLOfCA5mATuMnj2AtFr",
+              "stripe": "https://buy.stripe.com/4gM8wQ0FAfw93skeO52890W",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

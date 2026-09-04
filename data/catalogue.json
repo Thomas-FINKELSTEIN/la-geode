@@ -5883,16 +5883,25 @@
               "photo": "images/articles/bracelet-oeil-de-faucon-8-mm-mtmxzvrynjhx.jpg",
               "prixBoutique": 14.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/4gMfZigEygAdaUM49r2891c",
               "stripeProductId": "prod_VCL6oSMGNU2Kpk",
+              "stripePriceId": "price_1UBwQhLOfCA5mATuzmYnxtG7",
+              "stripeLinkId": "plink_1UBwQhLOfCA5mATukVWM3KZp",
+              "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet oeil de faucon 8 mm",
               "stripeDesc": "Ce bracelet en perles d'oeil de faucon est un accessoire élégant et raffiné, composé de pierres naturelles aux reflets profonds et mystérieux. En lithothérapie, l'oeil de faucon est souvent associé à une énergie protectrice et à une ouverture spirituelle, aidant à renforcer la confiance en soi et à clarifier les pensées. Parfait pour un port quotidien, il apporte une touche d'élégance tout en invitant à une connexion plus profonde avec son intuition.",
-              "stripePriceId": "price_1UBwQhLOfCA5mATuzmYnxtG7",
-              "stripePrix": 15.66,
-              "stripeLinkId": "plink_1UBwQhLOfCA5mATukVWM3KZp",
-              "stripe": "https://buy.stripe.com/4gMfZigEygAdaUM49r2891c",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "bracelet-oeil-de-faucon-6-mm-mtmy5xnjej9b",
+              "nom": "Bracelet oeil de faucon 6 mm",
+              "prix": 16.7,
+              "description": "",
+              "photo": "images/articles/bracelet-oeil-de-faucon-6-mm-mtmy5xnjcnpz.jpg",
+              "prixBoutique": 15.9,
+              "stock": 6
             }
           ]
         }

@@ -5977,7 +5977,17 @@
               "description": "Ce bracelet réglable met en valeur une boule de labradorite, pierre aux reflets magiques et changeants qui captivent le regard. En lithothérapie, la labradorite est souvent associée à une énergie protectrice et à une connexion renforcée avec l’intuition, aidant à clarifier les pensées et à renforcer la confiance en soi. Parfait pour un port quotidien, il apporte une touche de mystère et de bien-être au quotidien.",
               "photo": "images/articles/bracelet-boule-labradorite-reglable-mtn0d1jl2kzg.jpg",
               "prixBoutique": 21,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VCMBNROFgyavMo",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet boule labradorite réglable",
+              "stripeDesc": "Ce bracelet réglable met en valeur une boule de labradorite, pierre aux reflets magiques et changeants qui captivent le regard. En lithothérapie, la labradorite est souvent associée à une énergie protectrice et à une connexion renforcée avec l’intuition, aidant à clarifier les pensées et à renforcer la confiance en soi. Parfait pour un port quotidien, il apporte une touche de mystère et de bien-être au quotidien.",
+              "stripePriceId": "price_1UBxSoLOfCA5mATuVmEh8Iji",
+              "stripePrix": 21.97,
+              "stripeLinkId": "plink_1UBxSoLOfCA5mATuNOhdlbJr",
+              "stripe": "https://buy.stripe.com/aFa28scoicjXe6YdK12891h",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

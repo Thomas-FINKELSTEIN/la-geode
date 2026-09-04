@@ -5711,7 +5711,17 @@
               "description": "Ce bracelet en shungite est composé de perles noires et lisses, parfait pour un style sobre et élégant. La shungite est une pierre naturelle réputée pour ses propriétés purificatrices et protectrices, idéale pour absorber les énergies négatives et favoriser un bien-être intérieur. Porté au quotidien, il aide à équilibrer les émotions et à renforcer la connexion à son énergie vitale.",
               "photo": "images/articles/bracelet-shungite-6-mm-mtmq28bch7rn.jpg",
               "prixBoutique": 18.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VCHW7subVvlrbx",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet shungite 6 mm",
+              "stripeDesc": "Ce bracelet en shungite est composé de perles noires et lisses, parfait pour un style sobre et élégant. La shungite est une pierre naturelle réputée pour ses propriétés purificatrices et protectrices, idéale pour absorber les énergies négatives et favoriser un bien-être intérieur. Porté au quotidien, il aide à équilibrer les émotions et à renforcer la connexion à son énergie vitale.",
+              "stripePriceId": "price_1UBsxlLOfCA5mATuaExbW1qz",
+              "stripePrix": 19.8,
+              "stripeLinkId": "plink_1UBsxlLOfCA5mATuX1no5U80",
+              "stripe": "https://buy.stripe.com/00w3cw5ZU2Jn6Ew35n28912",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

@@ -5502,7 +5502,17 @@
               "description": "Ancrage , protection , vitalité, force.",
               "photo": "images/articles/bracelet-oeil-de-taureau-4-mm-mtmn6wqicy9v.jpg",
               "prixBoutique": 7.5,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VCGE8R5T6mhcyK",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de taureau 4 mm",
+              "stripeDesc": "Ancrage , protection , vitalité, force.",
+              "stripePriceId": "price_1UBri0LOfCA5mATuhcExtswj",
+              "stripePrix": 8.02,
+              "stripeLinkId": "plink_1UBri1LOfCA5mATu7LK5sZig",
+              "stripe": "https://buy.stripe.com/28E8wQ5ZU1Fjgf6fS92890R",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

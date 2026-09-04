@@ -6072,7 +6072,17 @@
               "description": "Les bienfaits de la variscite sur le plan physique , elle aide à réguler l' activité du foie, à apaiser les tensions du foie dues à une surcharge, elle aide aussi aux rhumatismes et aux ulcères. c'est une excellente pierre stimulante et énergisante.",
               "photo": null,
               "prixBoutique": 56.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCOu0SE3ZjD6xH",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet variscite 8 mm qualité AAA",
+              "stripeDesc": "Les bienfaits de la variscite sur le plan physique , elle aide à réguler l' activité du foie, à apaiser les tensions du foie dues à une surcharge, elle aide aussi aux rhumatismes et aux ulcères. c'est une excellente pierre stimulante et énergisante.",
+              "stripePriceId": "price_1UC06jLOfCA5mATudPJxMZ2i",
+              "stripePrix": 58.66,
+              "stripeLinkId": "plink_1UC06jLOfCA5mATuHIGYgxdu",
+              "stripe": "https://buy.stripe.com/dRm14obke0Bf5As0Xf2891m",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

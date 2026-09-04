@@ -5807,16 +5807,25 @@
               "photo": "images/articles/bracelet-obsidienne-mtmqmyxrjat6.jpg",
               "prixBoutique": 32,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/00w28sbkegAd1kc49r28917",
               "stripeProductId": "prod_VCHnxpSnkP6H3T",
+              "stripePriceId": "price_1UBtDTLOfCA5mATuCqVUnPC3",
+              "stripeLinkId": "plink_1UBtDTLOfCA5mATuGiTRWLrU",
+              "stripePrix": 33.34,
               "stripeMode": "live",
               "stripeNom": "Bracelet obsidienne",
               "stripeDesc": "Ce bracelet en obsidienne est un accessoire puissant et élégant, composé de perles naturelles aux reflets profonds et mystérieux. Selon la lithothérapie, cette pierre volcanique est réputée pour ses propriétés de protection et de purification, aidant à libérer les énergies négatives et à apaiser les émotions. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent à renforcer leur ancrage et leur intuition.",
-              "stripePriceId": "price_1UBtDTLOfCA5mATuCqVUnPC3",
-              "stripePrix": 33.34,
-              "stripeLinkId": "plink_1UBtDTLOfCA5mATuGiTRWLrU",
-              "stripe": "https://buy.stripe.com/00w28sbkegAd1kc49r28917",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "bracelet-oeil-de-faucon-4-mm-mtmqpmfrtoqz",
+              "nom": "Bracelet oeil de faucon 4 mm",
+              "prix": 10.5,
+              "description": "Ce bracelet en pierres oeil de faucon de 4 mm est un accessoire élégant et raffiné, composé de perles naturelles aux reflets dorés et noirs. En lithothérapie, cette pierre est souvent associée à la protection, à l'équilibre énergétique et à l'harmonisation des émotions, aidant à renforcer la confiance en soi et à apaiser le mental. Parfait pour un usage quotidien, il apporte une touche de douceur et de sérénité dans votre quotidien.",
+              "photo": "images/articles/bracelet-oeil-de-faucon-4-mm-mtmqpmfrfmhj.jpg",
+              "prixBoutique": 9.9,
+              "stock": 4
             }
           ]
         }

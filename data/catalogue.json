@@ -5484,16 +5484,25 @@
               "photo": "images/articles/bracelet-pietersite-6-mm-mtmmpp61txrm.jpg",
               "prixBoutique": 27.9,
               "stock": 7,
+              "stripe": "https://buy.stripe.com/fZu4gAaga3Nr7IA21j2890Q",
               "stripeProductId": "prod_VCG18hfDPlehd8",
+              "stripePriceId": "price_1UBrV4LOfCA5mATuYBFAFAtx",
+              "stripeLinkId": "plink_1UBrV4LOfCA5mATujp75zpRa",
+              "stripePrix": 29.1,
               "stripeMode": "live",
               "stripeNom": "Bracelet piétersite 6 mm",
               "stripeDesc": "Ma piétersite stimule l' esprit , élimine le mal être et amène la clairvoyance .",
-              "stripePriceId": "price_1UBrV4LOfCA5mATuYBFAFAtx",
-              "stripePrix": 29.1,
-              "stripeLinkId": "plink_1UBrV4LOfCA5mATujp75zpRa",
-              "stripe": "https://buy.stripe.com/fZu4gAaga3Nr7IA21j2890Q",
               "stripeStock": 7,
               "epuise": false
+            },
+            {
+              "id": "bracelet-oeil-de-taureau-4-mm-mtmn6wqihlhq",
+              "nom": "Bracelet oeil de taureau 4 mm",
+              "prix": 8.02,
+              "description": "Ancrage , protection , vitalité, force.",
+              "photo": "images/articles/bracelet-oeil-de-taureau-4-mm-mtmn6wqicy9v.jpg",
+              "prixBoutique": 7.5,
+              "stock": 3
             }
           ]
         }

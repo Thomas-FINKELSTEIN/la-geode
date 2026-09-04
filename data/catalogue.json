@@ -5863,7 +5863,17 @@
               "description": "Ce bracelet en oeil de faucon est un accessoire élégant et raffiné, composé de perles naturelles aux reflets dorés et profonds. En lithothérapie, l'oeil de faucon est souvent associé à la protection, à la concentration et à l'équilibre des énergies. Porté au quotidien, il est censé renforcer la confiance en soi et favoriser une vision claire des objectifs.",
               "photo": "images/articles/bracelet-oeil-de-faucon-4-mm-mtmxtftil7mk.jpg",
               "prixBoutique": 12.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VCL1Fk3yh7l66Y",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de faucon 4 mm",
+              "stripeDesc": "Ce bracelet en oeil de faucon est un accessoire élégant et raffiné, composé de perles naturelles aux reflets dorés et profonds. En lithothérapie, l'oeil de faucon est souvent associé à la protection, à la concentration et à l'équilibre des énergies. Porté au quotidien, il est censé renforcer la confiance en soi et favoriser une vision claire des objectifs.",
+              "stripePriceId": "price_1UBwLrLOfCA5mATuNLcSyVXo",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1UBwLrLOfCA5mATu1OpWtGnN",
+              "stripe": "https://buy.stripe.com/aFa00k2NI6ZD2og7lD2891b",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

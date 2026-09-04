@@ -5959,16 +5959,25 @@
               "photo": "images/articles/bracelet-en-acier-et-cornaline-reglable--mtn041mwyw64.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/fZubJ20FA6ZD6Ew0Xf2891g",
               "stripeProductId": "prod_VCM4Y6L0RyVuJd",
+              "stripePriceId": "price_1UBxM3LOfCA5mATukRUxxFJr",
+              "stripeLinkId": "plink_1UBxM3LOfCA5mATuitZfAk5h",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Bracelet en acier et cornaline réglable 8 mm",
               "stripeDesc": "La pierre cornaline lutte contre les toxines du corps. Elle assiste les reins, le foie et la vésicule biliaire dans leur travail de drainage et de filtrage.  elle amène la confiance en soi, elle calme la colère , la jalousie et la rancoeur? elle stimule l'imagination, aide les artistes, et chasse la tristesse.",
-              "stripePriceId": "price_1UBxM3LOfCA5mATukRUxxFJr",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UBxM3LOfCA5mATuitZfAk5h",
-              "stripe": "https://buy.stripe.com/fZubJ20FA6ZD6Ew0Xf2891g",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-boule-labradorite-reglable-mtn0d1jkycsw",
+              "nom": "Bracelet boule labradorite réglable",
+              "prix": 21.97,
+              "description": "Ce bracelet réglable met en valeur une boule de labradorite, pierre aux reflets magiques et changeants qui captivent le regard. En lithothérapie, la labradorite est souvent associée à une énergie protectrice et à une connexion renforcée avec l’intuition, aidant à clarifier les pensées et à renforcer la confiance en soi. Parfait pour un port quotidien, il apporte une touche de mystère et de bien-être au quotidien.",
+              "photo": "images/articles/bracelet-boule-labradorite-reglable-mtn0d1jl2kzg.jpg",
+              "prixBoutique": 21,
+              "stock": 2
             }
           ]
         }

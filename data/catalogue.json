@@ -6053,7 +6053,17 @@
               "description": "Bracelet fantaisie pierre obsidienne  ou hématite",
               "photo": "images/articles/bracelet-fantaisie-mtn41vrhznna.jpg",
               "prixBoutique": 3,
-              "stock": 11
+              "stock": 11,
+              "stripeProductId": "prod_VCNqUrlweWT7VN",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet fantaisie",
+              "stripeDesc": "Bracelet fantaisie pierre obsidienne  ou hématite",
+              "stripePriceId": "price_1UBz4jLOfCA5mATuLBWz9irI",
+              "stripePrix": 3.36,
+              "stripeLinkId": "plink_1UBz4jLOfCA5mATuOEYy9jsS",
+              "stripe": "https://buy.stripe.com/7sYaEYcoido18MEbBT2891l",
+              "stripeStock": 11,
+              "epuise": false
             }
           ]
         }

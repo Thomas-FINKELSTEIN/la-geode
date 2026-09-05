@@ -6509,7 +6509,17 @@
               "description": "Le larimar, aussi appelé pierre de l’Atlantide, est une pierre rare aux reflets bleutés et turquoise qui évoque la sérénité des océans. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la communication et renforcer la connexion avec son intuition. Ce bracelet en larimar roulée est idéal pour porter au quotidien, que ce soit pour se ressourcer ou simplement pour profiter de son éclat unique.",
               "photo": "images/articles/bracelet-larimar-roulee-mtof1uz08qu8.jpg",
               "prixBoutique": 115,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCj4ySXGbLglLv",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet larimar roulée",
+              "stripeDesc": "Le larimar, aussi appelé pierre de l’Atlantide, est une pierre rare aux reflets bleutés et turquoise qui évoque la sérénité des océans. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la communication et renforcer la connexion avec son intuition. Ce bracelet en larimar roulée est idéal pour porter au quotidien, que ce soit pour se ressourcer ou simplement pour profiter de son éclat unique.",
+              "stripePriceId": "price_1UCJbxLOfCA5mATugzr4Hh5C",
+              "stripePrix": 119.13,
+              "stripeLinkId": "plink_1UCJbyLOfCA5mATunuRuwLWC",
+              "stripe": "https://buy.stripe.com/6oU9AU4VQgAd6EwcFX2891K",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

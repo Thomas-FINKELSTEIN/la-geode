@@ -6376,7 +6376,17 @@
               "description": "Ce bracelet en macramé pierre améthyste contre le stress et l' anxiété, elle vous accompagne en cas de deuil, ou d'addiction.",
               "photo": "images/articles/bracelet-en-macrame-pierre-amethyste-mto4mdjstzzg.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCeMs456AJnX93",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en macramé pierre améthyste",
+              "stripeDesc": "Ce bracelet en macramé pierre améthyste contre le stress et l' anxiété, elle vous accompagne en cas de deuil, ou d'addiction.",
+              "stripePriceId": "price_1UCF3RLOfCA5mATuz8jMAXTC",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UCF3RLOfCA5mATuhNiOUe2w",
+              "stripe": "https://buy.stripe.com/6oUbJ2882abP0g86hz2891D",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -6263,16 +6263,25 @@
               "photo": "images/articles/bracelet-macrame-pierre-oeil-de-fer-mto3tjow83l4.jpg",
               "prixBoutique": 12,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNiaEY3RM2JnbYQbBT2891w",
               "stripeProductId": "prod_VCdzkTqrSg9elm",
+              "stripePriceId": "price_1UCEhgLOfCA5mATuG72OctXy",
+              "stripeLinkId": "plink_1UCEhgLOfCA5mATuSRVcRe7e",
+              "stripePrix": 12.67,
               "stripeMode": "live",
               "stripeNom": "Bracelet macramé pierre oeil de fer",
               "stripeDesc": "Ce bracelet en macramé avec une pierre oeil de fer vous offre une protection mais surtout une grande confiance en soi",
-              "stripePriceId": "price_1UCEhgLOfCA5mATuG72OctXy",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1UCEhgLOfCA5mATuSRVcRe7e",
-              "stripe": "https://buy.stripe.com/cNiaEY3RM2JnbYQbBT2891w",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-macrame-avec-galet-de-rubis-sur-mto3wnqu5np3",
+              "nom": "Bracelet macramé avec galet de rubis sur zoizite",
+              "prix": 12.67,
+              "description": "Ce bracelet en macramé  avec une pierre de rubis sur zoizite vous procure un équilibre et surtout une grande protection.",
+              "photo": "images/articles/bracelet-macrame-avec-galet-de-rubis-sur-mto3wnqufz7t.jpg",
+              "prixBoutique": 12,
+              "stock": 1
             }
           ]
         }

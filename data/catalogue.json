@@ -6205,7 +6205,17 @@
               "description": "C'est un bracelet original , un bracelet de bras idéal pour des soirées entre amies et de paraitre différente , élégante et particulière, bracelet entourée d'améthyste qui vous mettra en toute confiance et sans stress dans toute situation.",
               "photo": "images/articles/bracelet-de-bras-en-amethyste-mto2cjlttgaq.jpg",
               "prixBoutique": 25,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCdKEsGpMFy3ZA",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet de bras en amethyste",
+              "stripeDesc": "C'est un bracelet original , un bracelet de bras idéal pour des soirées entre amies et de paraitre différente , élégante et particulière, bracelet entourée d'améthyste qui vous mettra en toute confiance et sans stress dans toute situation.",
+              "stripePriceId": "price_1UCE3rLOfCA5mATuGhrwteJo",
+              "stripePrix": 26.1,
+              "stripeLinkId": "plink_1UCE3rLOfCA5mATuro8raeo8",
+              "stripe": "https://buy.stripe.com/9B64gA1JE3Nr4wofS92891t",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

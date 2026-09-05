@@ -6540,7 +6540,17 @@
               "description": "Pendule de 10 cm environ en bronze, idéal pour les personnes ayant beaucoup d'années de pratique",
               "photo": "images/articles/pendule-en-bronze-mtohoyqukp4d.jpg",
               "prixBoutique": 37.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VCkGWLTW023p53",
+              "stripeMode": "live",
+              "stripeNom": "Pendule en bronze",
+              "stripeDesc": "Pendule de 10 cm environ en bronze, idéal pour les personnes ayant beaucoup d'années de pratique",
+              "stripePriceId": "price_1UCKlWLOfCA5mATuLJP6XiAF",
+              "stripePrix": 39.44,
+              "stripeLinkId": "plink_1UCKlWLOfCA5mATudUs9dCqH",
+              "stripe": "https://buy.stripe.com/eVq5kE73Y2Jngf6dK12891L",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

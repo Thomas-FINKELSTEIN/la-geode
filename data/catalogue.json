@@ -6187,16 +6187,25 @@
               "photo": "images/articles/bracelet-cyanite-8-mm-mto25tu2397o.jpg",
               "prixBoutique": 49.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/28EfZi73Ydo1aUM7lD2891s",
               "stripeProductId": "prod_VCdFXfmAq9viKJ",
+              "stripePriceId": "price_1UCDyoLOfCA5mATuSFxlgQxo",
+              "stripeLinkId": "plink_1UCDyoLOfCA5mATua02C9Hkn",
+              "stripePrix": 51.84,
               "stripeMode": "live",
               "stripeNom": "Bracelet cyanite 8 mm",
               "stripeDesc": "La cyanite incite les hyperactifs à ralentir leur rythme effréné, elle contribue à neutraliser l'anxiété, à calmer les peurs et à chasser les idées noires.",
-              "stripePriceId": "price_1UCDyoLOfCA5mATuSFxlgQxo",
-              "stripePrix": 51.84,
-              "stripeLinkId": "plink_1UCDyoLOfCA5mATua02C9Hkn",
-              "stripe": "https://buy.stripe.com/28EfZi73Ydo1aUM7lD2891s",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-de-bras-en-amethyste-mto2cjltkqcj",
+              "nom": "Bracelet de bras en amethyste",
+              "prix": 26.1,
+              "description": "C'est un bracelet original , un bracelet de bras idéal pour des soirées entre amies et de paraitre différente , élégante et particulière, bracelet entourée d'améthyste qui vous mettra en toute confiance et sans stress dans toute situation.",
+              "photo": "images/articles/bracelet-de-bras-en-amethyste-mto2cjlttgaq.jpg",
+              "prixBoutique": 25,
+              "stock": 1
             }
           ]
         }

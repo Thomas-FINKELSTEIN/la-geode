@@ -6472,16 +6472,25 @@
               "photo": "images/articles/bracelet-en-spinelle-4-mm-mto7p5ue30sm.jpg",
               "prixBoutique": 9.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/8x27sMaga83H7IA35n2891I",
               "stripeProductId": "prod_VCfknc7XRH9AwD",
+              "stripePriceId": "price_1UCGOnLOfCA5mATu8dNtpCQH",
+              "stripeLinkId": "plink_1UCGOnLOfCA5mATuFvrflmgW",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet en spinelle 4 mm",
               "stripeDesc": "Ce bracelet en spinelle, composé de perles noires aux facettes brillantes, est une pièce élégante et raffinée. En lithothérapie, le spinelle est souvent associé à la transformation et à la libération des blocages émotionnels, aidant à retrouver équilibre et confiance en soi. Parfait pour un usage quotidien, il apporte une énergie dynamique et protège contre les influences négatives.",
-              "stripePriceId": "price_1UCGOnLOfCA5mATu8dNtpCQH",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UCGOnLOfCA5mATuFvrflmgW",
-              "stripe": "https://buy.stripe.com/8x27sMaga83H7IA35n2891I",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-larimar-baroque-extra-mtof0djw7tn1",
+              "nom": "Bracelet larimar baroque EXTRA",
+              "prix": 278.3,
+              "description": "Ce bracelet en larimar baroque EXTRA est une pièce unique alliant beauté et énergie apaisante. La larimar, pierre de la mer des Caraïbes, est réputée pour ses vertus calmantes et son influence sur l'expression des émotions, aidant à trouver un équilibre intérieur. Parfait pour sublimer votre style tout en bénéficiant de ses propriétés harmonisantes, ce bracelet est idéal pour un usage quotidien ou comme cadeau bien-être.",
+              "photo": "images/articles/bracelet-larimar-baroque-extra-mtof0djwwqpg.jpg",
+              "prixBoutique": 269,
+              "stock": 1
             }
           ]
         }

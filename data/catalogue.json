@@ -6692,7 +6692,17 @@
               "description": "Pendule  3 cm",
               "photo": "images/articles/pendule-en-bronze-mtok8zme5p00.jpg",
               "prixBoutique": 22.5,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VClPnsui7c6wjS",
+              "stripeMode": "live",
+              "stripeNom": "Pendule en bronze",
+              "stripeDesc": "Pendule  3 cm",
+              "stripePriceId": "price_1UCLsnLOfCA5mATu3UH1EG6L",
+              "stripePrix": 23.52,
+              "stripeLinkId": "plink_1UCLsnLOfCA5mATuWS3Bjfgu",
+              "stripe": "https://buy.stripe.com/cNi4gAaga2Jnd2UaxP2891T",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

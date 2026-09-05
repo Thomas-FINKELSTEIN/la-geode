@@ -6168,16 +6168,25 @@
               "photo": "images/articles/bracelet-argent-mto20sq9u8fc.jpg",
               "prixBoutique": 15,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQbJ2fAucjX0g8eO52891r",
               "stripeProductId": "prod_VCdBdjyRR4sqWt",
+              "stripePriceId": "price_1UCDuxLOfCA5mATuljLDUtyj",
+              "stripeLinkId": "plink_1UCDuyLOfCA5mATuPEGq6gHU",
+              "stripePrix": 15.77,
               "stripeMode": "live",
               "stripeNom": "Bracelet argent",
               "stripeDesc": "Bracelet large en argent",
-              "stripePriceId": "price_1UCDuxLOfCA5mATuljLDUtyj",
-              "stripePrix": 15.77,
-              "stripeLinkId": "plink_1UCDuyLOfCA5mATuPEGq6gHU",
-              "stripe": "https://buy.stripe.com/5kQbJ2fAucjX0g8eO52891r",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-cyanite-8-mm-mto25tu20ysj",
+              "nom": "Bracelet cyanite 8 mm",
+              "prix": 51.84,
+              "description": "La cyanite incite les hyperactifs à ralentir leur rythme effréné, elle contribue à neutraliser l'anxiété, à calmer les peurs et à chasser les idées noires.",
+              "photo": "images/articles/bracelet-cyanite-8-mm-mto25tu2397o.jpg",
+              "prixBoutique": 49.9,
+              "stock": 1
             }
           ]
         }

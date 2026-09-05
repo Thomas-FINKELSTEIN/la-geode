@@ -6655,16 +6655,25 @@
               "photo": "images/articles/pendule-en-bronze-3-cm-mtoj9327yrex.jpg",
               "prixBoutique": 22.5,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/bJe8wQbkedo1bYQ0Xf2891R",
               "stripeProductId": "prod_VCkxJlbtFGDp0w",
+              "stripePriceId": "price_1UCLRmLOfCA5mATuTC85u9P9",
+              "stripeLinkId": "plink_1UCLRmLOfCA5mATuaVabUC2P",
+              "stripePrix": 23.52,
               "stripeMode": "live",
               "stripeNom": "Pendule en bronze 3 cm",
               "stripeDesc": "Pendule en bronze 3 cm dévissable",
-              "stripePriceId": "price_1UCLRmLOfCA5mATuTC85u9P9",
-              "stripePrix": 23.52,
-              "stripeLinkId": "plink_1UCLRmLOfCA5mATuaVabUC2P",
-              "stripe": "https://buy.stripe.com/bJe8wQbkedo1bYQ0Xf2891R",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendule-en-bronze-devissable-sur-3-palie-mtojkuq62zfn",
+              "nom": "Pendule en bronze dévissable sur 3 paliers 5 cm",
+              "prix": 20.83,
+              "description": "Pendule en bronze dévissable sur 3 paliers 5 cm",
+              "photo": "images/articles/pendule-en-bronze-devissable-sur-3-palie-mtojkuq6p6gu.jpg",
+              "prixBoutique": 19.9,
+              "stock": 1
             }
           ]
         },

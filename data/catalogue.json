@@ -6711,7 +6711,17 @@
               "description": "Pendule en bronze dévissable en verre",
               "photo": "images/articles/pendule-en-bronze-mtokboh1vq5l.jpg",
               "prixBoutique": 22.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VClR2yHhUT0KOF",
+              "stripeMode": "live",
+              "stripeNom": "Pendule en bronze",
+              "stripeDesc": "Pendule en bronze dévissable en verre",
+              "stripePriceId": "price_1UCLupLOfCA5mATuYmOk7yRX",
+              "stripePrix": 23.52,
+              "stripeLinkId": "plink_1UCLupLOfCA5mATuQNhbpE45",
+              "stripe": "https://buy.stripe.com/28E4gA8821Fjgf6cFX2891U",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

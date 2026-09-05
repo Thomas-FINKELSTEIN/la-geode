@@ -6453,16 +6453,25 @@
               "photo": "images/articles/bracelet-kunzite-10-mm-mto7mxothq9d.jpg",
               "prixBoutique": 65.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/5kQeVe5ZUes52og7lD2891H",
               "stripeProductId": "prod_VCfi3ggu29RMCK",
+              "stripePriceId": "price_1UCGN6LOfCA5mATuVPaacSv3",
+              "stripeLinkId": "plink_1UCGN7LOfCA5mATu4ppE8cAE",
+              "stripePrix": 68.38,
               "stripeMode": "live",
               "stripeNom": "Bracelet kunzite 10 mm",
               "stripeDesc": "Ce bracelet en kunzite, aux perles douces et lumineuses aux reflets violets, est une pièce délicate et raffinée. La kunzite est souvent associée à l'ouverture du cœur et à l'harmonisation des émotions, aidant à apaiser les tensions et à favoriser la compassion. Porté au poignet, il diffuse une énergie apaisante et encourage la connexion à soi-même et aux autres.",
-              "stripePriceId": "price_1UCGN6LOfCA5mATuVPaacSv3",
-              "stripePrix": 68.38,
-              "stripeLinkId": "plink_1UCGN7LOfCA5mATu4ppE8cAE",
-              "stripe": "https://buy.stripe.com/5kQeVe5ZUes52og7lD2891H",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-en-spinelle-4-mm-mto7p5ue7a1l",
+              "nom": "Bracelet en spinelle 4 mm",
+              "prix": 10.5,
+              "description": "Ce bracelet en spinelle, composé de perles noires aux facettes brillantes, est une pièce élégante et raffinée. En lithothérapie, le spinelle est souvent associé à la transformation et à la libération des blocages émotionnels, aidant à retrouver équilibre et confiance en soi. Parfait pour un usage quotidien, il apporte une énergie dynamique et protège contre les influences négatives.",
+              "photo": "images/articles/bracelet-en-spinelle-4-mm-mto7p5ue30sm.jpg",
+              "prixBoutique": 9.9,
+              "stock": 1
             }
           ]
         }

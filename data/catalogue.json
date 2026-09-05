@@ -6186,7 +6186,17 @@
               "description": "La cyanite incite les hyperactifs à ralentir leur rythme effréné, elle contribue à neutraliser l'anxiété, à calmer les peurs et à chasser les idées noires.",
               "photo": "images/articles/bracelet-cyanite-8-mm-mto25tu2397o.jpg",
               "prixBoutique": 49.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCdFXfmAq9viKJ",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet cyanite 8 mm",
+              "stripeDesc": "La cyanite incite les hyperactifs à ralentir leur rythme effréné, elle contribue à neutraliser l'anxiété, à calmer les peurs et à chasser les idées noires.",
+              "stripePriceId": "price_1UCDyoLOfCA5mATuSFxlgQxo",
+              "stripePrix": 51.84,
+              "stripeLinkId": "plink_1UCDyoLOfCA5mATua02C9Hkn",
+              "stripe": "https://buy.stripe.com/28EfZi73Ydo1aUM7lD2891s",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

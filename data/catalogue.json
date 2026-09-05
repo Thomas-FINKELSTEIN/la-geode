@@ -6300,7 +6300,17 @@
               "description": "Ce bracelet en macramé qui retient un cristal de roche vous permet de garder les pieds sur terre, il offre sérénité à son porteur car le cristal de roche permet l' ancrage.",
               "photo": "images/articles/bracelet-en-macrame-avec-cristal-de-roch-mto419f2mh0i.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCe5jUCKCglXFr",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en macramé avec cristal de roche",
+              "stripeDesc": "Ce bracelet en macramé qui retient un cristal de roche vous permet de garder les pieds sur terre, il offre sérénité à son porteur car le cristal de roche permet l' ancrage.",
+              "stripePriceId": "price_1UCEnTLOfCA5mATuMyV9ZDUX",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UCEnTLOfCA5mATuZPy3TmQ0",
+              "stripe": "https://buy.stripe.com/fZu14o1JE4Rv2og0Xf2891y",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

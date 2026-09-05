@@ -6129,7 +6129,17 @@
               "description": "L' hémimorphite est une pierre de motivation et d' autodiscipline, elle aide à lutter contre la procrastination, facilite l' expression émotionnelle , elle accompagne la perte de poids et le soulagement de la douleur d'origine osseuse ou cartilagineuse.",
               "photo": "images/articles/bracelet-hemimorphite-6-mm-mto1u0xmfrgy.jpg",
               "prixBoutique": 59,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCd6Rz18HNSJn5",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet hémimorphite 6 mm",
+              "stripeDesc": "L' hémimorphite est une pierre de motivation et d' autodiscipline, elle aide à lutter contre la procrastination, facilite l' expression émotionnelle , elle accompagne la perte de poids et le soulagement de la douleur d'origine osseuse ou cartilagineuse.",
+              "stripePriceId": "price_1UCDprLOfCA5mATuGdEJxvfK",
+              "stripePrix": 61.25,
+              "stripeLinkId": "plink_1UCDpsLOfCA5mATuhCKYExut",
+              "stripe": "https://buy.stripe.com/3cI9AU0FA6ZD8ME6hz2891p",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -6414,7 +6414,17 @@
               "description": "Bracelet en macramé pierre hématite  procure à son porteur le pouvoir d'atténuer les migraines et les symptômes de spasmophilie , l'anxiété ou les crampes.",
               "photo": "images/articles/bracelet-hematite-en-macrame-mto7fgqgqsjk.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCfcAU42skdQeD",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet hématite en macramé",
+              "stripeDesc": "Bracelet en macramé pierre hématite  procure à son porteur le pouvoir d'atténuer les migraines et les symptômes de spasmophilie , l'anxiété ou les crampes.",
+              "stripePriceId": "price_1UCGHTLOfCA5mATuldvzqPyQ",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UCGHTLOfCA5mATuSkdSEzWl",
+              "stripe": "https://buy.stripe.com/aFa5kEbke5Vze6YbBT2891F",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

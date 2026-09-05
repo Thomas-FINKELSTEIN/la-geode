@@ -6434,16 +6434,25 @@
               "photo": "images/articles/bracelet-en-macrame-pierre-jaspe-heliotr-mto7k02eef8f.jpg",
               "prixBoutique": 12,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYfZi5ZUabP0g8dK12891G",
               "stripeProductId": "prod_VCfgkrpckuYMuO",
+              "stripePriceId": "price_1UCGKtLOfCA5mATulgQicArh",
+              "stripeLinkId": "plink_1UCGKtLOfCA5mATuPltXdUS4",
+              "stripePrix": 12.67,
               "stripeMode": "live",
               "stripeNom": "Bracelet en macramé pierre jaspe héliotrope",
               "stripeDesc": "Ce bracelet macramé avec jaspe héliotrope permet à son porteur de vivre en parfaite harmonie sans avoir des pressions et élever ses émotions afin d'avoir un mal être certain, pierre d' équilibre au niveau émotionnel.",
-              "stripePriceId": "price_1UCGKtLOfCA5mATulgQicArh",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1UCGKtLOfCA5mATuPltXdUS4",
-              "stripe": "https://buy.stripe.com/7sYfZi5ZUabP0g8dK12891G",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-kunzite-10-mm-mto7mxotferk",
+              "nom": "Bracelet kunzite 10 mm",
+              "prix": 68.38,
+              "description": "Ce bracelet en kunzite, aux perles douces et lumineuses aux reflets violets, est une pièce délicate et raffinée. La kunzite est souvent associée à l'ouverture du cœur et à l'harmonisation des émotions, aidant à apaiser les tensions et à favoriser la compassion. Porté au poignet, il diffuse une énergie apaisante et encourage la connexion à soi-même et aux autres.",
+              "photo": "images/articles/bracelet-kunzite-10-mm-mto7mxothq9d.jpg",
+              "prixBoutique": 65.9,
+              "stock": 2
             }
           ]
         }

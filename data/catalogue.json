@@ -6541,16 +6541,25 @@
               "photo": "images/articles/pendule-en-bronze-mtohoyqukp4d.jpg",
               "prixBoutique": 37.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/eVq5kE73Y2Jngf6dK12891L",
               "stripeProductId": "prod_VCkGWLTW023p53",
+              "stripePriceId": "price_1UCKlWLOfCA5mATuLJP6XiAF",
+              "stripeLinkId": "plink_1UCKlWLOfCA5mATudUs9dCqH",
+              "stripePrix": 39.44,
               "stripeMode": "live",
               "stripeNom": "Pendule en bronze",
               "stripeDesc": "Pendule de 10 cm environ en bronze, idéal pour les personnes ayant beaucoup d'années de pratique",
-              "stripePriceId": "price_1UCKlWLOfCA5mATuLJP6XiAF",
-              "stripePrix": 39.44,
-              "stripeLinkId": "plink_1UCKlWLOfCA5mATudUs9dCqH",
-              "stripe": "https://buy.stripe.com/eVq5kE73Y2Jngf6dK12891L",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "pendule-en-bronze-devissable-mtoi7gnbm89p",
+              "nom": "Pendule en bronze dévissable",
+              "prix": 23.52,
+              "description": "Pendule en bronze 6 cm dévissable",
+              "photo": "images/articles/pendule-en-bronze-devissable-mtoi7gnbf8e0.jpg",
+              "prixBoutique": 22.5,
+              "stock": 2
             }
           ]
         },

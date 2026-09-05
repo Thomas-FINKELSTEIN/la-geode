@@ -6731,16 +6731,25 @@
               "photo": "images/articles/pendule-spirale-mtolj14cjc1t.jpg",
               "prixBoutique": 24.5,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/9B66oIfAu0Bf8ME0Xf2891V",
               "stripeProductId": "prod_VClzukCbYMKQT1",
+              "stripePriceId": "price_1UCMRQLOfCA5mATuHSqo6PmH",
+              "stripeLinkId": "plink_1UCMRQLOfCA5mATuRIVP00IE",
+              "stripePrix": 25.59,
               "stripeMode": "live",
               "stripeNom": "Pendule spirale",
               "stripeDesc": "Pendule en spirale 8 cm",
-              "stripePriceId": "price_1UCMRQLOfCA5mATuHSqo6PmH",
-              "stripePrix": 25.59,
-              "stripeLinkId": "plink_1UCMRQLOfCA5mATuRIVP00IE",
-              "stripe": "https://buy.stripe.com/9B66oIfAu0Bf8ME0Xf2891V",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "pendule-mtolyu27e3o5",
+              "nom": "Pendule",
+              "prix": 20.83,
+              "description": "Pendule",
+              "photo": "images/articles/pendule-mtolyu272k1i.jpg",
+              "prixBoutique": 19.9,
+              "stock": 2
             }
           ]
         },

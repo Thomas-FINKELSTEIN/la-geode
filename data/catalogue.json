@@ -6749,7 +6749,17 @@
               "description": "Pendule",
               "photo": "images/articles/pendule-mtolyu272k1i.jpg",
               "prixBoutique": 19.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VCmBnMQZ7EZMAJ",
+              "stripeMode": "live",
+              "stripeNom": "Pendule",
+              "stripeDesc": "Pendule",
+              "stripePriceId": "price_1UCMdKLOfCA5mATu1wsJ8CFa",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UCMdKLOfCA5mATurfzg8JkR",
+              "stripe": "https://buy.stripe.com/5kQ3cwgEy6ZDd2U5dv2891W",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

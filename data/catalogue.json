@@ -6225,16 +6225,25 @@
               "photo": "images/articles/bracelet-de-bras-pierre-malachite-mto388yhgozc.jpg",
               "prixBoutique": 25,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00w6oI73Y6ZDbYQ0Xf2891u",
               "stripeProductId": "prod_VCdjKCVUtBNeR7",
+              "stripePriceId": "price_1UCERgLOfCA5mATuo17KItgh",
+              "stripeLinkId": "plink_1UCERgLOfCA5mATuj6ADXaZ8",
+              "stripePrix": 26.1,
               "stripeMode": "live",
               "stripeNom": "Bracelet de bras pierre malachite",
               "stripeDesc": "Bracelet de bras, élégant pour des soirées entre amies, pour sortir de l' ordinaire .",
-              "stripePriceId": "price_1UCERgLOfCA5mATuo17KItgh",
-              "stripePrix": 26.1,
-              "stripeLinkId": "plink_1UCERgLOfCA5mATuj6ADXaZ8",
-              "stripe": "https://buy.stripe.com/00w6oI73Y6ZDbYQ0Xf2891u",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-en-macrame-rubis-sur-zoisite-mto3j4xi9i4l",
+              "nom": "Bracelet en macramé rubis sur zoisite",
+              "prix": 12.67,
+              "description": "Ce bracelet original en macramé avec rubis sur zoisite amène la sécurité et la protection",
+              "photo": "images/articles/bracelet-en-macrame-rubis-sur-zoisite-mto3j4xi3xlt.jpg",
+              "prixBoutique": 12,
+              "stock": 1
             }
           ]
         }

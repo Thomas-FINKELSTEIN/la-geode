@@ -6338,7 +6338,17 @@
               "description": "Bracelet en macramé avec oeil céleste vous accompagnera en toute sécurité tout au long de votre parcours avec forte protection et courage.",
               "photo": "images/articles/bracelet-en-macrame-avec-obsidienne-oeil-mto4bp0nk8j7.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCeDvQVQqY5pmP",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en macramé avec obsidienne oeil céleste",
+              "stripeDesc": "Bracelet en macramé avec oeil céleste vous accompagnera en toute sécurité tout au long de votre parcours avec forte protection et courage.",
+              "stripePriceId": "price_1UCEvNLOfCA5mATuJQJ8DJLR",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UCEvNLOfCA5mATunfwsDGCg",
+              "stripe": "https://buy.stripe.com/fZu5kEcoiabP6Ew35n2891A",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -6262,7 +6262,17 @@
               "description": "Ce bracelet en macramé avec une pierre oeil de fer vous offre une protection mais surtout une grande confiance en soi",
               "photo": "images/articles/bracelet-macrame-pierre-oeil-de-fer-mto3tjow83l4.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCdzkTqrSg9elm",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet macramé pierre oeil de fer",
+              "stripeDesc": "Ce bracelet en macramé avec une pierre oeil de fer vous offre une protection mais surtout une grande confiance en soi",
+              "stripePriceId": "price_1UCEhgLOfCA5mATuG72OctXy",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UCEhgLOfCA5mATuSRVcRe7e",
+              "stripe": "https://buy.stripe.com/cNiaEY3RM2JnbYQbBT2891w",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

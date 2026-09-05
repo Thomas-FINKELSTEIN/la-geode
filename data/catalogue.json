@@ -6395,7 +6395,17 @@
               "description": "L'agate bostwana est une pierre qui contribue à calmer le système nerveux central , elle lutte contre le stress physique.",
               "photo": "images/articles/bracelet-macrame-avec-pierre-agate-bostw-mto4zq7c6t69.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCeWelYE4iQpev",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet macramé avec pierre agate bostwana",
+              "stripeDesc": "L'agate bostwana est une pierre qui contribue à calmer le système nerveux central , elle lutte contre le stress physique.",
+              "stripePriceId": "price_1UCFDULOfCA5mATu1GCIZQvr",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UCFDULOfCA5mATuKJwLxovR",
+              "stripe": "https://buy.stripe.com/8x26oI73Y2Jn3sk8pH2891E",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

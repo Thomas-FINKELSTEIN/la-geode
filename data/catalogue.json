@@ -6224,7 +6224,17 @@
               "description": "Bracelet de bras, élégant pour des soirées entre amies, pour sortir de l' ordinaire .",
               "photo": "images/articles/bracelet-de-bras-pierre-malachite-mto388yhgozc.jpg",
               "prixBoutique": 25,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCdjKCVUtBNeR7",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet de bras pierre malachite",
+              "stripeDesc": "Bracelet de bras, élégant pour des soirées entre amies, pour sortir de l' ordinaire .",
+              "stripePriceId": "price_1UCERgLOfCA5mATuo17KItgh",
+              "stripePrix": 26.1,
+              "stripeLinkId": "plink_1UCERgLOfCA5mATuj6ADXaZ8",
+              "stripe": "https://buy.stripe.com/00w6oI73Y6ZDbYQ0Xf2891u",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

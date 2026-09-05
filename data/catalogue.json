@@ -6635,7 +6635,17 @@
               "description": "Pendule en bronze 5 cm dévissable",
               "photo": "images/articles/pendule-en-bronze-5-cm-mtoj1yfeewlh.jpg",
               "prixBoutique": 22.5,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VCkslOMMG0nJTx",
+              "stripeMode": "live",
+              "stripeNom": "Pendule en bronze 5 cm",
+              "stripeDesc": "Pendule en bronze 5 cm dévissable",
+              "stripePriceId": "price_1UCLMOLOfCA5mATuoe58O8bv",
+              "stripePrix": 23.52,
+              "stripeLinkId": "plink_1UCLMPLOfCA5mATuvjNYkH5X",
+              "stripe": "https://buy.stripe.com/eVq00k2NI83Hd2UcFX2891Q",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

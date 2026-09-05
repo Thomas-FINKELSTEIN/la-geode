@@ -6243,7 +6243,17 @@
               "description": "Ce bracelet original en macramé avec rubis sur zoisite amène la sécurité et la protection",
               "photo": "images/articles/bracelet-en-macrame-rubis-sur-zoisite-mto3j4xi3xlt.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCdrs6VgskRBYf",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en macramé rubis sur zoisite",
+              "stripeDesc": "Ce bracelet original en macramé avec rubis sur zoisite amène la sécurité et la protection",
+              "stripePriceId": "price_1UCEZsLOfCA5mATuEJc4Ts1K",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UCEZsLOfCA5mATugsOCGG3S",
+              "stripe": "https://buy.stripe.com/00waEY9c6bfT5As0Xf2891v",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

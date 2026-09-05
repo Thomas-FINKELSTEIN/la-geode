@@ -6281,7 +6281,17 @@
               "description": "Ce bracelet en macramé  avec une pierre de rubis sur zoizite vous procure un équilibre et surtout une grande protection.",
               "photo": "images/articles/bracelet-macrame-avec-galet-de-rubis-sur-mto3wnqufz7t.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCe2DxFBj48CBG",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet macramé avec galet de rubis sur zoizite",
+              "stripeDesc": "Ce bracelet en macramé  avec une pierre de rubis sur zoizite vous procure un équilibre et surtout une grande protection.",
+              "stripePriceId": "price_1UCEk5LOfCA5mATu63CBwU4h",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UCEk5LOfCA5mATuaELAcOqH",
+              "stripe": "https://buy.stripe.com/cNi28s0FA0Bf1kcgWd2891x",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

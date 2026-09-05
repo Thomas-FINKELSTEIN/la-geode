@@ -6730,7 +6730,17 @@
               "description": "Pendule en spirale 8 cm",
               "photo": "images/articles/pendule-spirale-mtolj14cjc1t.jpg",
               "prixBoutique": 24.5,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VClzukCbYMKQT1",
+              "stripeMode": "live",
+              "stripeNom": "Pendule spirale",
+              "stripeDesc": "Pendule en spirale 8 cm",
+              "stripePriceId": "price_1UCMRQLOfCA5mATuHSqo6PmH",
+              "stripePrix": 25.59,
+              "stripeLinkId": "plink_1UCMRQLOfCA5mATuRIVP00IE",
+              "stripe": "https://buy.stripe.com/9B66oIfAu0Bf8ME0Xf2891V",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

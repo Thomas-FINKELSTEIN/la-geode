@@ -6357,7 +6357,17 @@
               "description": "Bracelet macramé quartz blanc et tourmaline apporte grande protection  et équilibre physique.",
               "photo": "images/articles/bracelet-macrame-quartz-blanc-tourmaline-mto4idhagjpi.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCeIp4DabKSMi1",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet macramé quartz blanc tourmaline",
+              "stripeDesc": "Bracelet macramé quartz blanc et tourmaline apporte grande protection  et équilibre physique.",
+              "stripePriceId": "price_1UCF0NLOfCA5mATu66HlIIby",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UCF0OLOfCA5mATu7J58dzH2",
+              "stripe": "https://buy.stripe.com/dRm4gA88283H7IA8pH2891C",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -6433,7 +6433,17 @@
               "description": "Ce bracelet macramé avec jaspe héliotrope permet à son porteur de vivre en parfaite harmonie sans avoir des pressions et élever ses émotions afin d'avoir un mal être certain, pierre d' équilibre au niveau émotionnel.",
               "photo": "images/articles/bracelet-en-macrame-pierre-jaspe-heliotr-mto7k02eef8f.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCfgkrpckuYMuO",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en macramé pierre jaspe héliotrope",
+              "stripeDesc": "Ce bracelet macramé avec jaspe héliotrope permet à son porteur de vivre en parfaite harmonie sans avoir des pressions et élever ses émotions afin d'avoir un mal être certain, pierre d' équilibre au niveau émotionnel.",
+              "stripePriceId": "price_1UCGKtLOfCA5mATulgQicArh",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UCGKtLOfCA5mATuPltXdUS4",
+              "stripe": "https://buy.stripe.com/7sYfZi5ZUabP0g8dK12891G",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

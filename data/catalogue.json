@@ -6490,7 +6490,17 @@
               "description": "Ce bracelet en larimar baroque EXTRA est une pièce unique alliant beauté et énergie apaisante. La larimar, pierre de la mer des Caraïbes, est réputée pour ses vertus calmantes et son influence sur l'expression des émotions, aidant à trouver un équilibre intérieur. Parfait pour sublimer votre style tout en bénéficiant de ses propriétés harmonisantes, ce bracelet est idéal pour un usage quotidien ou comme cadeau bien-être.",
               "photo": "images/articles/bracelet-larimar-baroque-extra-mtof0djwwqpg.jpg",
               "prixBoutique": 269,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCj2Zl4elGLUEd",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet larimar baroque EXTRA",
+              "stripeDesc": "Ce bracelet en larimar baroque EXTRA est une pièce unique alliant beauté et énergie apaisante. La larimar, pierre de la mer des Caraïbes, est réputée pour ses vertus calmantes et son influence sur l'expression des émotions, aidant à trouver un équilibre intérieur. Parfait pour sublimer votre style tout en bénéficiant de ses propriétés harmonisantes, ce bracelet est idéal pour un usage quotidien ou comme cadeau bien-être.",
+              "stripePriceId": "price_1UCJaqLOfCA5mATu8Zc4IAPe",
+              "stripePrix": 278.3,
+              "stripeLinkId": "plink_1UCJaqLOfCA5mATutjUiTlRz",
+              "stripe": "https://buy.stripe.com/fZubJ2aga5Vz6Ew8pH2891J",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

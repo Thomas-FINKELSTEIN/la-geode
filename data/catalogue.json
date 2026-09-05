@@ -6320,16 +6320,25 @@
               "photo": "images/articles/bracelet-macrame-avec-pierre-de-soleil-mto43ylziab3.jpg",
               "prixBoutique": 12,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqfZigEy3Nr0g849r2891z",
               "stripeProductId": "prod_VCe7JX3GCWEXUZ",
+              "stripePriceId": "price_1UCEpZLOfCA5mATua5lJqPSG",
+              "stripeLinkId": "plink_1UCEpZLOfCA5mATuKqd6SuXQ",
+              "stripePrix": 12.67,
               "stripeMode": "live",
               "stripeNom": "Bracelet macramé avec pierre de soleil",
               "stripeDesc": "Ce beau bracelet en macramé avec pierre de soleil procure à son porteur de la chance , il enlève la dépression et la tristesse.",
-              "stripePriceId": "price_1UCEpZLOfCA5mATua5lJqPSG",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1UCEpZLOfCA5mATuKqd6SuXQ",
-              "stripe": "https://buy.stripe.com/eVqfZigEy3Nr0g849r2891z",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-en-macrame-avec-obsidienne-oeil-mto4bp0nsrp1",
+              "nom": "Bracelet en macramé avec obsidienne oeil céleste",
+              "prix": 12.67,
+              "description": "Bracelet en macramé avec oeil céleste vous accompagnera en toute sécurité tout au long de votre parcours avec forte protection et courage.",
+              "photo": "images/articles/bracelet-en-macrame-avec-obsidienne-oeil-mto4bp0nk8j7.jpg",
+              "prixBoutique": 12,
+              "stock": 1
             }
           ]
         }

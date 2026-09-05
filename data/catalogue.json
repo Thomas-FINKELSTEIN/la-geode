@@ -6167,7 +6167,17 @@
               "description": "Bracelet large en argent",
               "photo": "images/articles/bracelet-argent-mto20sq9u8fc.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VCdBdjyRR4sqWt",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet argent",
+              "stripeDesc": "Bracelet large en argent",
+              "stripePriceId": "price_1UCDuxLOfCA5mATuljLDUtyj",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UCDuyLOfCA5mATuPEGq6gHU",
+              "stripe": "https://buy.stripe.com/5kQbJ2fAucjX0g8eO52891r",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -6722,6 +6722,15 @@
               "stripeDesc": "Pendule en bronze dévissable en verre",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendule-spirale-mtolj14cawzn",
+              "nom": "Pendule spirale",
+              "prix": 25.59,
+              "description": "Pendule en spirale 8 cm",
+              "photo": "images/articles/pendule-spirale-mtolj14cjc1t.jpg",
+              "prixBoutique": 24.5,
+              "stock": 3
             }
           ]
         },

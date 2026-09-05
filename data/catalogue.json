@@ -6149,16 +6149,25 @@
               "photo": "images/articles/bracelet-seraphinite-8mm-mto1yjbmfu8c.jpg",
               "prixBoutique": 72,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/bJeaEYbkeabPgf6eO52891q",
               "stripeProductId": "prod_VCd938lltknXX2",
+              "stripePriceId": "price_1UCDtILOfCA5mATuDPBj5JYt",
+              "stripeLinkId": "plink_1UCDtILOfCA5mATuqpSpwH44",
+              "stripePrix": 74.68,
               "stripeMode": "live",
               "stripeNom": "Bracelet séraphinite 8mm",
               "stripeDesc": "Cette pierre dégage une énergie chaude et aide à relâcher les tensions, notamment au niveau du coup. ce minéral a un effet bénéfique sur les reins ,le foie et tout le tube digestif.",
-              "stripePriceId": "price_1UCDtILOfCA5mATuDPBj5JYt",
-              "stripePrix": 74.68,
-              "stripeLinkId": "plink_1UCDtILOfCA5mATuqpSpwH44",
-              "stripe": "https://buy.stripe.com/bJeaEYbkeabPgf6eO52891q",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-argent-mto20sq9gd25",
+              "nom": "Bracelet argent",
+              "prix": 15.77,
+              "description": "Bracelet large en argent",
+              "photo": "images/articles/bracelet-argent-mto20sq9u8fc.jpg",
+              "prixBoutique": 15,
+              "stock": 1
             }
           ]
         }

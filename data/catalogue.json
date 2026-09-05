@@ -6206,16 +6206,25 @@
               "photo": "images/articles/bracelet-de-bras-en-amethyste-mto2cjlttgaq.jpg",
               "prixBoutique": 25,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B64gA1JE3Nr4wofS92891t",
               "stripeProductId": "prod_VCdKEsGpMFy3ZA",
+              "stripePriceId": "price_1UCE3rLOfCA5mATuGhrwteJo",
+              "stripeLinkId": "plink_1UCE3rLOfCA5mATuro8raeo8",
+              "stripePrix": 26.1,
               "stripeMode": "live",
               "stripeNom": "Bracelet de bras en amethyste",
               "stripeDesc": "C'est un bracelet original , un bracelet de bras idéal pour des soirées entre amies et de paraitre différente , élégante et particulière, bracelet entourée d'améthyste qui vous mettra en toute confiance et sans stress dans toute situation.",
-              "stripePriceId": "price_1UCE3rLOfCA5mATuGhrwteJo",
-              "stripePrix": 26.1,
-              "stripeLinkId": "plink_1UCE3rLOfCA5mATuro8raeo8",
-              "stripe": "https://buy.stripe.com/9B64gA1JE3Nr4wofS92891t",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-de-bras-pierre-malachite-mto388yhhctt",
+              "nom": "Bracelet de bras pierre malachite",
+              "prix": 26.1,
+              "description": "Bracelet de bras, élégant pour des soirées entre amies, pour sortir de l' ordinaire .",
+              "photo": "images/articles/bracelet-de-bras-pierre-malachite-mto388yhgozc.jpg",
+              "prixBoutique": 25,
+              "stock": 1
             }
           ]
         }

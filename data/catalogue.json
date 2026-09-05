@@ -6560,16 +6560,25 @@
               "photo": "images/articles/pendule-en-bronze-devissable-mtoi7gnbf8e0.jpg",
               "prixBoutique": 22.5,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/eVqeVe4VQ2Jngf6bBT2891M",
               "stripeProductId": "prod_VCkUvsPNWKs9Zy",
+              "stripePriceId": "price_1UCKzRLOfCA5mATugYdXrGpI",
+              "stripeLinkId": "plink_1UCKzSLOfCA5mATu2fJx1cyF",
+              "stripePrix": 23.52,
               "stripeMode": "live",
               "stripeNom": "Pendule en bronze dévissable",
               "stripeDesc": "Pendule en bronze 6 cm dévissable",
-              "stripePriceId": "price_1UCKzRLOfCA5mATugYdXrGpI",
-              "stripePrix": 23.52,
-              "stripeLinkId": "plink_1UCKzSLOfCA5mATu2fJx1cyF",
-              "stripe": "https://buy.stripe.com/eVqeVe4VQ2Jngf6bBT2891M",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendule-en-bronze-7-cm-mtoiejr2bnot",
+              "nom": "Pendule en bronze 7 cm",
+              "prix": 23.52,
+              "description": "Pendule en bronze 7 cm",
+              "photo": "images/articles/pendule-en-bronze-7-cm-mtoiejr2mvjh.jpg",
+              "prixBoutique": 22.5,
+              "stock": 2
             }
           ]
         },

@@ -6654,7 +6654,17 @@
               "description": "Pendule en bronze 3 cm dévissable",
               "photo": "images/articles/pendule-en-bronze-3-cm-mtoj9327yrex.jpg",
               "prixBoutique": 22.5,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VCkxJlbtFGDp0w",
+              "stripeMode": "live",
+              "stripeNom": "Pendule en bronze 3 cm",
+              "stripeDesc": "Pendule en bronze 3 cm dévissable",
+              "stripePriceId": "price_1UCLRmLOfCA5mATuTC85u9P9",
+              "stripePrix": 23.52,
+              "stripeLinkId": "plink_1UCLRmLOfCA5mATuaVabUC2P",
+              "stripe": "https://buy.stripe.com/bJe8wQbkedo1bYQ0Xf2891R",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

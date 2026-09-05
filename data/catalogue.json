@@ -6491,16 +6491,25 @@
               "photo": "images/articles/bracelet-larimar-baroque-extra-mtof0djwwqpg.jpg",
               "prixBoutique": 269,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/fZubJ2aga5Vz6Ew8pH2891J",
               "stripeProductId": "prod_VCj2Zl4elGLUEd",
+              "stripePriceId": "price_1UCJaqLOfCA5mATu8Zc4IAPe",
+              "stripeLinkId": "plink_1UCJaqLOfCA5mATutjUiTlRz",
+              "stripePrix": 278.3,
               "stripeMode": "live",
               "stripeNom": "Bracelet larimar baroque EXTRA",
               "stripeDesc": "Ce bracelet en larimar baroque EXTRA est une pièce unique alliant beauté et énergie apaisante. La larimar, pierre de la mer des Caraïbes, est réputée pour ses vertus calmantes et son influence sur l'expression des émotions, aidant à trouver un équilibre intérieur. Parfait pour sublimer votre style tout en bénéficiant de ses propriétés harmonisantes, ce bracelet est idéal pour un usage quotidien ou comme cadeau bien-être.",
-              "stripePriceId": "price_1UCJaqLOfCA5mATu8Zc4IAPe",
-              "stripePrix": 278.3,
-              "stripeLinkId": "plink_1UCJaqLOfCA5mATutjUiTlRz",
-              "stripe": "https://buy.stripe.com/fZubJ2aga5Vz6Ew8pH2891J",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bracelet-larimar-roulee-mtof1uz0l3c2",
+              "nom": "Bracelet larimar roulée",
+              "prix": 119.13,
+              "description": "Le larimar, aussi appelé pierre de l’Atlantide, est une pierre rare aux reflets bleutés et turquoise qui évoque la sérénité des océans. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la communication et renforcer la connexion avec son intuition. Ce bracelet en larimar roulée est idéal pour porter au quotidien, que ce soit pour se ressourcer ou simplement pour profiter de son éclat unique.",
+              "photo": "images/articles/bracelet-larimar-roulee-mtof1uz08qu8.jpg",
+              "prixBoutique": 115,
+              "stock": 1
             }
           ]
         }

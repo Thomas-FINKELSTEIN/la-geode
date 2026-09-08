@@ -6864,16 +6864,25 @@
               "photo": "images/articles/pendule-tourmaline-brute-mtscgmo57kpb.jpg",
               "prixBoutique": 19.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/aFacN6fAues52oggWd28922",
               "stripeProductId": "prod_VDkuAeaOMUQjoS",
+              "stripePriceId": "price_1UDJOtLOfCA5mATuhAzuaTkb",
+              "stripeLinkId": "plink_1UDJOtLOfCA5mATuFRFb43Zn",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendule tourmaline brute",
               "stripeDesc": "Pendule tourmaline brute 3 cm pierre de protection",
-              "stripePriceId": "price_1UDJOtLOfCA5mATuhAzuaTkb",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UDJOtLOfCA5mATuFRFb43Zn",
-              "stripe": "https://buy.stripe.com/aFacN6fAues52oggWd28922",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "pendule-pyrite-5-cm-mtscy8umhyod",
+              "nom": "Pendule pyrite 5 cm",
+              "prix": 20.83,
+              "description": "Pendule en pyrite 5 cm",
+              "photo": "images/articles/pendule-pyrite-5-cm-mtscy8um6k4l.jpg",
+              "prixBoutique": 19.9,
+              "stock": 1
             }
           ]
         },

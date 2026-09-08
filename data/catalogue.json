@@ -6863,7 +6863,17 @@
               "description": "Pendule tourmaline brute 3 cm pierre de protection",
               "photo": "images/articles/pendule-tourmaline-brute-mtscgmo57kpb.jpg",
               "prixBoutique": 19.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VDkuAeaOMUQjoS",
+              "stripeMode": "live",
+              "stripeNom": "Pendule tourmaline brute",
+              "stripeDesc": "Pendule tourmaline brute 3 cm pierre de protection",
+              "stripePriceId": "price_1UDJOtLOfCA5mATuhAzuaTkb",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UDJOtLOfCA5mATuFRFb43Zn",
+              "stripe": "https://buy.stripe.com/aFacN6fAues52oggWd28922",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

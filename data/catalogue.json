@@ -7054,16 +7054,25 @@
               "photo": "images/articles/pendule-obsidienne-oeil-celeste-4-cm-mtspxg6f2eiz.jpg",
               "prixBoutique": 38,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B600k2NI3Nr7IA8pH2892k",
               "stripeProductId": "prod_VDqznCdWxckZOR",
+              "stripePriceId": "price_1UDPHjLOfCA5mATutmHYh1pe",
+              "stripeLinkId": "plink_1UDPHjLOfCA5mATuBL64ioCu",
+              "stripePrix": 39.54,
               "stripeMode": "live",
               "stripeNom": "Pendule obsidienne oeil celeste 4 cm",
               "stripeDesc": "Pendule obsidienne oeil céleste 4 cm",
-              "stripePriceId": "price_1UDPHjLOfCA5mATutmHYh1pe",
-              "stripePrix": 39.54,
-              "stripeLinkId": "plink_1UDPHjLOfCA5mATuBL64ioCu",
-              "stripe": "https://buy.stripe.com/9B600k2NI3Nr7IA8pH2892k",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendule-oeil-de-taureau-mtspzorcgpof",
+              "nom": "Pendule oeil de taureau",
+              "prix": 20.83,
+              "description": "Pendule oeil de taureau 4 cm",
+              "photo": "images/articles/pendule-oeil-de-taureau-mtspzorc0xqf.jpg",
+              "prixBoutique": 19.9,
+              "stock": 1
             }
           ]
         },

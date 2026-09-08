@@ -6788,16 +6788,25 @@
               "photo": "images/articles/pendule-obsidienne-mtsbnx8s9i6s.jpg",
               "prixBoutique": 32,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa5kE8824RvaUM35n2891Y",
               "stripeProductId": "prod_VDkY2XjwYsol5c",
+              "stripePriceId": "price_1UDJ3ILOfCA5mATuyF1qPa9X",
+              "stripeLinkId": "plink_1UDJ3JLOfCA5mATubkXVI9HB",
+              "stripePrix": 33.34,
               "stripeMode": "live",
               "stripeNom": "Pendule obsidienne",
               "stripeDesc": "Pendule obsidienne 5 cm",
-              "stripePriceId": "price_1UDJ3ILOfCA5mATuyF1qPa9X",
-              "stripePrix": 33.34,
-              "stripeLinkId": "plink_1UDJ3JLOfCA5mATubkXVI9HB",
-              "stripe": "https://buy.stripe.com/aFa5kE8824RvaUM35n2891Y",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendule-obsidienne-doree-mtsbx6an0dvy",
+              "nom": "Pendule obsidienne dorée",
+              "prix": 44.19,
+              "description": "Pendule obsidienne dorée 8 cm",
+              "photo": "images/articles/pendule-obsidienne-doree-mtsbx6anax8d.jpg",
+              "prixBoutique": 42.5,
+              "stock": 1
             }
           ]
         },

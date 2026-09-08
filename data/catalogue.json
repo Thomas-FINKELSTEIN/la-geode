@@ -7073,16 +7073,25 @@
               "photo": "images/articles/pendule-oeil-de-taureau-mtspzorc0xqf.jpg",
               "prixBoutique": 19.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/28E7sM3RMabP8MEfS92892l",
               "stripeProductId": "prod_VDr1cKyhN27gSB",
+              "stripePriceId": "price_1UDPJQLOfCA5mATurJmO4tPC",
+              "stripeLinkId": "plink_1UDPJQLOfCA5mATu39ZM4c16",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendule oeil de taureau",
               "stripeDesc": "Pendule oeil de taureau 4 cm",
-              "stripePriceId": "price_1UDPJQLOfCA5mATurJmO4tPC",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UDPJQLOfCA5mATu39ZM4c16",
-              "stripe": "https://buy.stripe.com/28E7sM3RMabP8MEfS92892l",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendule-amethyste-4-cm-mtsq6fjdhl4r",
+              "nom": "Pendule améthyste 4 cm",
+              "prix": 26,
+              "description": "Pendule améthyste 4 cm",
+              "photo": "images/articles/pendule-amethyste-4-cm-mtsq6fjdh6sp.jpg",
+              "prixBoutique": 24.9,
+              "stock": 7
             }
           ]
         },

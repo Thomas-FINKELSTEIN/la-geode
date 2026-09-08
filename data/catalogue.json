@@ -6996,7 +6996,17 @@
               "description": "Pendule générateur tourmaline noire 7 cm",
               "photo": "images/articles/pendule-generateur-tourmaline-noire-7-cm-mtsewggn9n71.jpg",
               "prixBoutique": 23.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VDm1ybhodm7dcc",
+              "stripeMode": "live",
+              "stripeNom": "Pendule générateur tourmaline noire 7 cm",
+              "stripeDesc": "Pendule générateur tourmaline noire 7 cm",
+              "stripePriceId": "price_1UDKTYLOfCA5mATu4fDKU8HS",
+              "stripePrix": 24.97,
+              "stripeLinkId": "plink_1UDKTYLOfCA5mATuXCFX8JUX",
+              "stripe": "https://buy.stripe.com/00w5kE0FA6ZD3sk35n2892b",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

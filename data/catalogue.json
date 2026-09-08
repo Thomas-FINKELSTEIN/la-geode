@@ -6826,16 +6826,25 @@
               "photo": "images/articles/pendule-jaspe-heliotrope-5-cm-mtsc8tgncjdg.jpg",
               "prixBoutique": 19.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/28E7sMcoi97L0g88pH28920",
               "stripeProductId": "prod_VDkovFkWpjbJ7p",
+              "stripePriceId": "price_1UDJJ2LOfCA5mATuo8DwASrv",
+              "stripeLinkId": "plink_1UDJJ2LOfCA5mATusCQKaJvt",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendule jaspe héliotrope 5 cm",
               "stripeDesc": "Pendule",
-              "stripePriceId": "price_1UDJJ2LOfCA5mATuo8DwASrv",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UDJJ2LOfCA5mATusCQKaJvt",
-              "stripe": "https://buy.stripe.com/28E7sMcoi97L0g88pH28920",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendule-obsidienne-oeil-celeste-3-cm-mtscb7rgwe9w",
+              "nom": "Pendule obsidienne oeil céleste 3 cm",
+              "prix": 39.54,
+              "description": "Pendule obsidienne céleste forte protection pour certaines demandes spéciales.",
+              "photo": "images/articles/pendule-obsidienne-oeil-celeste-3-cm-mtscb7rgx9m4.jpg",
+              "prixBoutique": 38,
+              "stock": 1
             }
           ]
         },

@@ -6760,6 +6760,15 @@
               "stripe": "https://buy.stripe.com/5kQ3cwgEy6ZDd2U5dv2891W",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendule-en-spirale-mtsbctmlc037",
+              "nom": "Pendule en spirale",
+              "prix": 19.9,
+              "description": "Pendule en spirale 4 cm",
+              "photo": "images/articles/pendule-en-spirale-mtsbctmlnxtx.jpg",
+              "prixBoutique": 19,
+              "stock": 1
             }
           ]
         },

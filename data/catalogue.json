@@ -6977,7 +6977,17 @@
               "description": "Pendule générateur en cristal de roche 7 cm",
               "photo": "images/articles/pendule-generateur-cristal-de-roche-7-cm-mtsekxfhp94i.jpg",
               "prixBoutique": 23.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VDlskycrqJ1aq8",
+              "stripeMode": "live",
+              "stripeNom": "Pendule générateur cristal de roche 7 cm",
+              "stripeDesc": "Pendule générateur en cristal de roche 7 cm",
+              "stripePriceId": "price_1UDKKbLOfCA5mATutSw1Nlsv",
+              "stripePrix": 24.97,
+              "stripeLinkId": "plink_1UDKKbLOfCA5mATuVkPClqf9",
+              "stripe": "https://buy.stripe.com/28E4gA9c697L0g821j2892a",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

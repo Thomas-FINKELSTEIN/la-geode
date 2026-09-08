@@ -6927,7 +6927,7 @@
               "stripeLinkId": "plink_1UDJmGLOfCA5mATuQ45wqAtp",
               "stripePrix": 20.83,
               "stripeMode": "live",
-              "stripeNom": "Pendule bronze dévissable",
+              "stripeNom": "Pendule bronze dévissable 3 cm",
               "stripeDesc": "Pendule bronze dévissable 3 cm",
               "stripeStock": 1,
               "epuise": false
@@ -6958,7 +6958,17 @@
               "description": "Pendule générateur shungite 7 cm",
               "photo": "images/articles/pendule-generateur-sunghite-7-cm-mtse1nj21osr.jpg",
               "prixBoutique": 23.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VDldyrGCwuGl0e",
+              "stripeMode": "live",
+              "stripeNom": "Pendule générateur sunghite 7 cm",
+              "stripeDesc": "Pendule générateur shungite 7 cm",
+              "stripePriceId": "price_1UDK5lLOfCA5mATup6i066IJ",
+              "stripePrix": 24.97,
+              "stripeLinkId": "plink_1UDK5lLOfCA5mATuSc9Ptpyy",
+              "stripe": "https://buy.stripe.com/3cIdRafAuabP1kc6hz28928",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

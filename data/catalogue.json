@@ -6996,7 +6996,17 @@
               "description": "Pendule générateur quartz rose 7 cm",
               "photo": "images/articles/generateur-quartz-rose-7-cm-mtsotszctcej.jpg",
               "prixBoutique": 23.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VDqUoNtmxF8vta",
+              "stripeMode": "live",
+              "stripeNom": "Générateur quartz rose 7 cm",
+              "stripeDesc": "Pendule générateur quartz rose 7 cm",
+              "stripePriceId": "price_1UDOnuLOfCA5mATuym7Fe3yh",
+              "stripePrix": 24.97,
+              "stripeLinkId": "plink_1UDOnuLOfCA5mATutu67nyq7",
+              "stripe": "https://buy.stripe.com/eVq8wQfAugAd8MEbBT2892h",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

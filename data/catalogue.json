@@ -7035,16 +7035,25 @@
               "photo": "images/articles/pendule-spirale-argent-6-cm-mtspq5mxpe1w.jpg",
               "prixBoutique": 24.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRmfZi3RM5Vz7IAdK12892j",
               "stripeProductId": "prod_VDquZdu2gyzDRe",
+              "stripePriceId": "price_1UDPCDLOfCA5mATu5Ri9b7Vv",
+              "stripeLinkId": "plink_1UDPCELOfCA5mATuwm3HGtXT",
+              "stripePrix": 25.59,
               "stripeMode": "live",
               "stripeNom": "Pendule spirale argent 6 cm",
               "stripeDesc": "Pendule argent 6 cm spirale",
-              "stripePriceId": "price_1UDPCDLOfCA5mATu5Ri9b7Vv",
-              "stripePrix": 25.59,
-              "stripeLinkId": "plink_1UDPCELOfCA5mATuwm3HGtXT",
-              "stripe": "https://buy.stripe.com/dRmfZi3RM5Vz7IAdK12892j",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendule-obsidienne-oeil-celeste-4-cm-mtspxg6foxmf",
+              "nom": "Pendule obsidienne oeil celeste 4 cm",
+              "prix": 39.54,
+              "description": "Pendule obsidienne oeil céleste 4 cm",
+              "photo": "images/articles/pendule-obsidienne-oeil-celeste-4-cm-mtspxg6f2eiz.jpg",
+              "prixBoutique": 38,
+              "stock": 1
             }
           ]
         },

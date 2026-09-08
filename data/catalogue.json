@@ -6769,16 +6769,25 @@
               "photo": "images/articles/pendule-en-spirale-mtsbctmlnxtx.jpg",
               "prixBoutique": 19,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2aEY0FAes5fb2fS92891X",
               "stripeProductId": "prod_VDkQUrRmUjwmaX",
+              "stripePriceId": "price_1UDIvTLOfCA5mATuamXm4PvC",
+              "stripeLinkId": "plink_1UDIvTLOfCA5mATuaUw1apt6",
+              "stripePrix": 19.9,
               "stripeMode": "live",
               "stripeNom": "Pendule en spirale",
               "stripeDesc": "Pendule en spirale 4 cm",
-              "stripePriceId": "price_1UDIvTLOfCA5mATuamXm4PvC",
-              "stripePrix": 19.9,
-              "stripeLinkId": "plink_1UDIvTLOfCA5mATuaUw1apt6",
-              "stripe": "https://buy.stripe.com/8x2aEY0FAes5fb2fS92891X",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendule-obsidienne-mtsbnx8s0a2f",
+              "nom": "Pendule obsidienne",
+              "prix": 33.34,
+              "description": "Pendule obsidienne 5 cm",
+              "photo": "images/articles/pendule-obsidienne-mtsbnx8s9i6s.jpg",
+              "prixBoutique": 32,
+              "stock": 1
             }
           ]
         },

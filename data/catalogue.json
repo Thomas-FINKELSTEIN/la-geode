@@ -7110,7 +7110,17 @@
               "description": "Pendule jaspe arc en ciel 4 mm",
               "photo": "images/articles/pendule-jaspe-arc-en-ciel-mtsr5xm7k2sc.jpg",
               "prixBoutique": 23.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VDrYOpaUAWr8yr",
+              "stripeMode": "live",
+              "stripeNom": "Pendule jaspe arc en ciel",
+              "stripeDesc": "Pendule jaspe arc en ciel 4 mm",
+              "stripePriceId": "price_1UDPpDLOfCA5mATuZvUVt3EE",
+              "stripePrix": 24.97,
+              "stripeLinkId": "plink_1UDPpDLOfCA5mATunoQb7zw0",
+              "stripe": "https://buy.stripe.com/dRm7sM3RM3Nr7IA6hz2892n",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

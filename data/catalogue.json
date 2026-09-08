@@ -7015,7 +7015,17 @@
               "description": "Générateur saphir 6 cm",
               "photo": "images/articles/pendule-generateur-saphir-6-cm-mtspe9r3il23.jpg",
               "prixBoutique": 23.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VDqk8cs83wQnr3",
+              "stripeMode": "live",
+              "stripeNom": "Pendule générateur saphir 6 cm",
+              "stripeDesc": "Générateur saphir 6 cm",
+              "stripePriceId": "price_1UDP3GLOfCA5mATu37h3F79I",
+              "stripePrix": 24.97,
+              "stripeLinkId": "plink_1UDP3GLOfCA5mATuBD5Yjukq",
+              "stripe": "https://buy.stripe.com/00w8wQcoigAde6YdK12892i",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

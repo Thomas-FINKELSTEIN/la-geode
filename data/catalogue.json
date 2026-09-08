@@ -6825,7 +6825,17 @@
               "description": "Pendule",
               "photo": "images/articles/pendule-jaspe-heliotrope-5-cm-mtsc8tgncjdg.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VDkovFkWpjbJ7p",
+              "stripeMode": "live",
+              "stripeNom": "Pendule jaspe héliotrope 5 cm",
+              "stripeDesc": "Pendule",
+              "stripePriceId": "price_1UDJJ2LOfCA5mATuo8DwASrv",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UDJJ2LOfCA5mATusCQKaJvt",
+              "stripe": "https://buy.stripe.com/28E7sMcoi97L0g88pH28920",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -7016,16 +7016,25 @@
               "photo": "images/articles/pendule-generateur-saphir-6-cm-mtspe9r3il23.jpg",
               "prixBoutique": 23.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00w8wQcoigAde6YdK12892i",
               "stripeProductId": "prod_VDqk8cs83wQnr3",
+              "stripePriceId": "price_1UDP3GLOfCA5mATu37h3F79I",
+              "stripeLinkId": "plink_1UDP3GLOfCA5mATuBD5Yjukq",
+              "stripePrix": 24.97,
               "stripeMode": "live",
               "stripeNom": "Pendule générateur saphir 6 cm",
               "stripeDesc": "Générateur saphir 6 cm",
-              "stripePriceId": "price_1UDP3GLOfCA5mATu37h3F79I",
-              "stripePrix": 24.97,
-              "stripeLinkId": "plink_1UDP3GLOfCA5mATuBD5Yjukq",
-              "stripe": "https://buy.stripe.com/00w8wQcoigAde6YdK12892i",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendule-spirale-argent-6-cm-mtspq5mxhz23",
+              "nom": "Pendule spirale argent 6 cm",
+              "prix": 25.59,
+              "description": "Pendule argent 6 cm spirale",
+              "photo": "images/articles/pendule-spirale-argent-6-cm-mtspq5mxpe1w.jpg",
+              "prixBoutique": 24.5,
+              "stock": 1
             }
           ]
         },

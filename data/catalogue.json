@@ -6844,7 +6844,17 @@
               "description": "Pendule obsidienne céleste forte protection pour certaines demandes spéciales.",
               "photo": "images/articles/pendule-obsidienne-oeil-celeste-3-cm-mtscb7rgx9m4.jpg",
               "prixBoutique": 38,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VDkqqPrMxHOur9",
+              "stripeMode": "live",
+              "stripeNom": "Pendule obsidienne oeil céleste 3 cm",
+              "stripeDesc": "Pendule obsidienne céleste forte protection pour certaines demandes spéciales.",
+              "stripePriceId": "price_1UDJKqLOfCA5mATuT5qtzQ0V",
+              "stripePrix": 39.54,
+              "stripeLinkId": "plink_1UDJKrLOfCA5mATuq8O9ur9T",
+              "stripe": "https://buy.stripe.com/9B68wQ9c683H7IAaxP28921",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

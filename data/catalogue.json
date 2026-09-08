@@ -6920,7 +6920,17 @@
               "description": "Pendule bronze 3 cm",
               "photo": "images/articles/pendule-bronze-mtsdbpg53ahd.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VDlI2JTY5pf7FK",
+              "stripeMode": "live",
+              "stripeNom": "Pendule bronze",
+              "stripeDesc": "Pendule bronze 3 cm",
+              "stripePriceId": "price_1UDJmFLOfCA5mATuiDxKqR79",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UDJmGLOfCA5mATuQ45wqAtp",
+              "stripe": "https://buy.stripe.com/00w5kEfAubfT9QI21j28926",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

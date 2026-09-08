@@ -6893,6 +6893,15 @@
               "stripeDesc": "Pendule en pyrite 5 cm",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendule-en-bois-mtsd9lf2ra9o",
+              "nom": "Pendule en bois",
+              "prix": 20.83,
+              "description": "Pendule en bois 9 cm",
+              "photo": "images/articles/pendule-en-bois-mtsd9lf2vgks.jpg",
+              "prixBoutique": 19.9,
+              "stock": 1
             }
           ]
         },

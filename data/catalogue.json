@@ -6958,7 +6958,17 @@
               "description": "Pendule tourmaline noire 7 cm",
               "photo": "images/articles/pendule-tourmaline-noire-5-cm-mtsm6pu3bv4w.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VDpIG4ICTlB7rB",
+              "stripeMode": "live",
+              "stripeNom": "Pendule tourmaline noire  5 cm",
+              "stripeDesc": "Pendule tourmaline noire 7 cm",
+              "stripePriceId": "price_1UDNeJLOfCA5mATu2aWlmy1f",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UDNeJLOfCA5mATuRyZIyfZb",
+              "stripe": "https://buy.stripe.com/8x23cw73Yes57IAbBT2892e",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -7092,16 +7092,25 @@
               "photo": "images/articles/pendule-amethyste-4-cm-mtsq6fjdh6sp.jpg",
               "prixBoutique": 24.9,
               "stock": 7,
+              "stripe": "https://buy.stripe.com/00wfZi2NIbfT0g835n2892m",
               "stripeProductId": "prod_VDr6IaNeekTUPZ",
+              "stripePriceId": "price_1UDPOULOfCA5mATuA7bBm6FG",
+              "stripeLinkId": "plink_1UDPOVLOfCA5mATuoZjVZZME",
+              "stripePrix": 26,
               "stripeMode": "live",
               "stripeNom": "Pendule améthyste 4 cm",
               "stripeDesc": "Pendule améthyste 4 cm",
-              "stripePriceId": "price_1UDPOULOfCA5mATuA7bBm6FG",
-              "stripePrix": 26,
-              "stripeLinkId": "plink_1UDPOVLOfCA5mATuoZjVZZME",
-              "stripe": "https://buy.stripe.com/00wfZi2NIbfT0g835n2892m",
               "stripeStock": 7,
               "epuise": false
+            },
+            {
+              "id": "pendule-jaspe-arc-en-ciel-mtsr5xm714vp",
+              "nom": "Pendule jaspe arc en ciel",
+              "prix": 24.97,
+              "description": "Pendule jaspe arc en ciel 4 mm",
+              "photo": "images/articles/pendule-jaspe-arc-en-ciel-mtsr5xm7k2sc.jpg",
+              "prixBoutique": 23.9,
+              "stock": 1
             }
           ]
         },

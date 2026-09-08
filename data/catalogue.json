@@ -7091,7 +7091,17 @@
               "description": "Pendule améthyste 4 cm",
               "photo": "images/articles/pendule-amethyste-4-cm-mtsq6fjdh6sp.jpg",
               "prixBoutique": 24.9,
-              "stock": 7
+              "stock": 7,
+              "stripeProductId": "prod_VDr6IaNeekTUPZ",
+              "stripeMode": "live",
+              "stripeNom": "Pendule améthyste 4 cm",
+              "stripeDesc": "Pendule améthyste 4 cm",
+              "stripePriceId": "price_1UDPOULOfCA5mATuA7bBm6FG",
+              "stripePrix": 26,
+              "stripeLinkId": "plink_1UDPOVLOfCA5mATuoZjVZZME",
+              "stripe": "https://buy.stripe.com/00wfZi2NIbfT0g835n2892m",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         },

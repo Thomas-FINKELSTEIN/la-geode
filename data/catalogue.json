@@ -6977,7 +6977,17 @@
               "description": "Pendule tourmaline cristal de roche 7 cm",
               "photo": "images/articles/pendule-tourmaline-noire-et-cristal-de-r-mtsmuwbeyj5z.jpg",
               "prixBoutique": 23.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VDpbYt2hnNHTiS",
+              "stripeMode": "live",
+              "stripeNom": "Pendule tourmaline noire et cristal de roche 7 cm",
+              "stripeDesc": "Pendule tourmaline cristal de roche 7 cm",
+              "stripePriceId": "price_1UDNwZLOfCA5mATuKWvL2aQx",
+              "stripePrix": 24.97,
+              "stripeLinkId": "plink_1UDNwaLOfCA5mATuverybHvV",
+              "stripe": "https://buy.stripe.com/8x2bJ2aga2Jnd2U0Xf2892f",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

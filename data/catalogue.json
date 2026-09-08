@@ -6997,16 +6997,25 @@
               "photo": "images/articles/generateur-quartz-rose-7-cm-mtsotszctcej.jpg",
               "prixBoutique": 23.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq8wQfAugAd8MEbBT2892h",
               "stripeProductId": "prod_VDqUoNtmxF8vta",
+              "stripePriceId": "price_1UDOnuLOfCA5mATuym7Fe3yh",
+              "stripeLinkId": "plink_1UDOnuLOfCA5mATutu67nyq7",
+              "stripePrix": 24.97,
               "stripeMode": "live",
               "stripeNom": "Générateur quartz rose 7 cm",
               "stripeDesc": "Pendule générateur quartz rose 7 cm",
-              "stripePriceId": "price_1UDOnuLOfCA5mATuym7Fe3yh",
-              "stripePrix": 24.97,
-              "stripeLinkId": "plink_1UDOnuLOfCA5mATutu67nyq7",
-              "stripe": "https://buy.stripe.com/eVq8wQfAugAd8MEbBT2892h",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendule-generateur-saphir-6-cm-mtspe9r3q1ym",
+              "nom": "Pendule générateur saphir 6 cm",
+              "prix": 24.97,
+              "description": "Générateur saphir 6 cm",
+              "photo": "images/articles/pendule-generateur-saphir-6-cm-mtspe9r3il23.jpg",
+              "prixBoutique": 23.9,
+              "stock": 1
             }
           ]
         },

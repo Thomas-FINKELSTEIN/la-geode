@@ -2455,7 +2455,17 @@
               "description": "Ce pendentif en amethyste offre une élégance naturelle grâce à sa teinte douce et apaisante. En lithothérapie, l'amethyste est souvent utilisée pour favoriser la sérénité, renforcer la concentration et équilibrer les émotions. Porté au quotidien, il est idéal pour créer une ambiance de calme et de bien-être.",
               "photo": "images/articles/pendentif-amethyste-mtu7a252qvb3.jpg",
               "prixBoutique": 24.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEF5iKxHCPclHS",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif amethyste",
+              "stripeDesc": "Ce pendentif en amethyste offre une élégance naturelle grâce à sa teinte douce et apaisante. En lithothérapie, l'amethyste est souvent utilisée pour favoriser la sérénité, renforcer la concentration et équilibrer les émotions. Porté au quotidien, il est idéal pour créer une ambiance de calme et de bien-être.",
+              "stripePriceId": "price_1UDmb4LOfCA5mATurCPlr7LJ",
+              "stripePrix": 26,
+              "stripeLinkId": "plink_1UDmb4LOfCA5mATu6wezJqAP",
+              "stripe": "https://buy.stripe.com/7sY14ocoifw99QI6hz2892S",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

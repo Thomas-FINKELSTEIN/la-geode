@@ -7167,7 +7167,17 @@
               "description": "Pendule quartz blanc tourmaline noire 5 cm",
               "photo": "images/articles/pendule-quartz-blanc-tourmaline-noire-mtttjxa3zx0s.jpg",
               "prixBoutique": 19.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VE8sLXEre8u2KT",
+              "stripeMode": "live",
+              "stripeNom": "Pendule quartz blanc tourmaline noire",
+              "stripeDesc": "Pendule quartz blanc tourmaline noire 5 cm",
+              "stripePriceId": "price_1UDgbCLOfCA5mATuhdlPrfKa",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UDgbCLOfCA5mATuBqDYqAGZ",
+              "stripe": "https://buy.stripe.com/cNicN63RM4Rv4wo6hz2892s",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

@@ -2152,16 +2152,25 @@
               "photo": "images/articles/pendentif-cristal-de-roche-en-cercle-mttx6apvzh9w.jpg",
               "prixBoutique": 24,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/28EaEYgEy97L3skcFX2892C",
               "stripeProductId": "prod_VEAWowDjYzakoS",
+              "stripePriceId": "price_1UDiBGLOfCA5mATu7zt7H7tj",
+              "stripeLinkId": "plink_1UDiBHLOfCA5mATuzJvNFFVK",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif cristal de roche en cercle",
               "stripeDesc": "",
-              "stripePriceId": "price_1UDiBGLOfCA5mATu7zt7H7tj",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UDiBHLOfCA5mATuzJvNFFVK",
-              "stripe": "https://buy.stripe.com/28EaEYgEy97L3skcFX2892C",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendentif-om-cristal-de-roche-mtu3qwmddzwl",
+              "nom": "Pendentif OM cristal de roche",
+              "prix": 23,
+              "description": "Ce pendentif en cristal de roche représente le symbole sacré OM, porteur de vibrations universelles. En lithothérapie, le cristal de roche est souvent associé à la pureté énergétique et à l’harmonisation des chakras, aidant à clarifier les pensées et à renforcer la connexion spirituelle. Un accessoire élégant et apaisant pour méditer ou porter au quotidien.",
+              "photo": "images/articles/pendentif-om-cristal-de-roche-mtu3qwmddf8k.jpg",
+              "prixBoutique": 22,
+              "stock": 1
             }
           ]
         },

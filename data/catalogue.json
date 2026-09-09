@@ -2057,16 +2057,25 @@
               "photo": "images/articles/pendentif-cristal-de-roche-brut-mttwhzw84nf0.jpg",
               "prixBoutique": 19,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/8x26oI0FA3Nr8ME7lD2892x",
               "stripeProductId": "prod_VEADbplpK47OXg",
+              "stripePriceId": "price_1UDht1LOfCA5mATucdrzq9Ol",
+              "stripeLinkId": "plink_1UDht1LOfCA5mATuNK0e0cMX",
+              "stripePrix": 19.9,
               "stripeMode": "live",
               "stripeNom": "Pendentif cristal de roche brut",
               "stripeDesc": "Ce pendentif en cristal de roche brut est une pièce naturelle et pure, aux reflets translucides et aux facettes irrégulières. Le cristal de roche est souvent utilisé en lithothérapie pour amplifier les énergies positives, favoriser la clarté mentale et renforcer la connexion à son intuition. Parfait pour une utilisation quotidienne, il apporte une touche minérale élégante tout en invitant à l'harmonie et à la sérénité.",
-              "stripePriceId": "price_1UDht1LOfCA5mATucdrzq9Ol",
-              "stripePrix": 19.9,
-              "stripeLinkId": "plink_1UDht1LOfCA5mATuNK0e0cMX",
-              "stripe": "https://buy.stripe.com/8x26oI0FA3Nr8ME7lD2892x",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-deux-pointes-de-cristal-de-roc-mttwl45c4tph",
+              "nom": "Pendentif deux pointes de cristal de roche",
+              "prix": 26.1,
+              "description": "Ce pendentif en cristal de roche se compose de deux pointes élégantes et lumineuses, parfait pour apporter clarté et équilibre énergétique. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les intentions positives, purifier l’aura et favoriser la concentration. Un accessoire raffiné qui allie beauté naturelle et bien-être au quotidien. Pierre d'ancrage .",
+              "photo": "images/articles/pendentif-deux-pointes-de-cristal-de-roc-mttwl45ce47n.jpg",
+              "prixBoutique": 25,
+              "stock": 1
             }
           ]
         },

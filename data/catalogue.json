@@ -2323,16 +2323,25 @@
               "photo": "images/articles/pendentif-cristal-de-roche-mtu4nu4ffnko.jpg",
               "prixBoutique": 21,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/28E14o5ZUgAd3skeO52892L",
               "stripeProductId": "prod_VEDtoVXrrhpkaN",
+              "stripePriceId": "price_1UDlSALOfCA5mATuEZwqeqxt",
+              "stripeLinkId": "plink_1UDlSALOfCA5mATuYHhO1gbe",
+              "stripePrix": 21.97,
               "stripeMode": "live",
               "stripeNom": "Pendentif cristal de roche",
               "stripeDesc": "Ce pendentif en cristal de roche est une pièce lumineuse et pure, idéale pour apporter clarté et énergie positive dans votre quotidien. Selon la lithothérapie, cette pierre est souvent associée à la purification des émotions et à l’harmonisation des chakras, favorisant ainsi un état de sérénité et de bien-être. Parfait pour être porté au quotidien, il peut aussi servir de support méditatif pour recentrer votre esprit.",
-              "stripePriceId": "price_1UDlSALOfCA5mATuEZwqeqxt",
-              "stripePrix": 21.97,
-              "stripeLinkId": "plink_1UDlSALOfCA5mATuYHhO1gbe",
-              "stripe": "https://buy.stripe.com/28E14o5ZUgAd3skeO52892L",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cristal-de-roche-avec-pointe-d-mtu4pksoh0do",
+              "nom": "Pendentif cristal de roche avec pointe de cristal",
+              "prix": 26.1,
+              "description": "Ce pendentif en cristal de roche est une pièce raffinée et lumineuse, idéale pour apporter clarté et énergie positive à votre quotidien. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les intentions, purifier l’aura et favoriser la concentration. Il est parfait pour être porté au quotidien, que ce soit pour ses vertus apaisantes ou pour son éclat naturel qui sublime tout style vestimentaire.",
+              "photo": "images/articles/pendentif-cristal-de-roche-avec-pointe-d-mtu4pkso6di8.jpg",
+              "prixBoutique": 25,
+              "stock": 1
             }
           ]
         },

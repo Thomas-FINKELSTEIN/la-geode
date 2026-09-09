@@ -2721,7 +2721,17 @@
               "description": "Ce pendentif en calcédoine brute offre une énergie apaisante et harmonieuse, idéale pour équilibrer les émotions et favoriser la sérénité au quotidien. Utilisée en lithothérapie, cette pierre douce et aux reflets nacrés est souvent associée à la protection et à la connexion avec la nature. Parfaite pour être portée près du cœur, elle aide à apaiser les tensions et à renforcer la confiance en soi.",
               "photo": "images/articles/pendentif-calcedoine-brute-mtuaecb1dmco.jpg",
               "prixBoutique": 26,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEGUzAPV6zhUmO",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif calcédoine brute",
+              "stripeDesc": "Ce pendentif en calcédoine brute offre une énergie apaisante et harmonieuse, idéale pour équilibrer les émotions et favoriser la sérénité au quotidien. Utilisée en lithothérapie, cette pierre douce et aux reflets nacrés est souvent associée à la protection et à la connexion avec la nature. Parfaite pour être portée près du cœur, elle aide à apaiser les tensions et à renforcer la confiance en soi.",
+              "stripePriceId": "price_1UDnxYLOfCA5mATuTgtb3o2G",
+              "stripePrix": 27.14,
+              "stripeLinkId": "plink_1UDnxYLOfCA5mATuMZY4fKzW",
+              "stripe": "https://buy.stripe.com/8x2eVe5ZU4Rv1kcaxP28937",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

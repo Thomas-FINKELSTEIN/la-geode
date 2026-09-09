@@ -2550,7 +2550,17 @@
               "description": "Ce pendentif en citrine brute est une pièce naturelle et unique, enveloppée dans un tissu artisanal pour préserver son énergie. La citrine est souvent associée à la joie, à l'abondance et à une énergie positive, aidant à éclaircir les émotions et à attirer la prospérité dans la vie quotidienne. Parfaite pour une utilisation en lithothérapie ou comme élément décoratif, elle apporte une touche de lumière et de bien-être à votre quotidien.",
               "photo": "images/articles/pendentif-citrine-brute-mtu8xs2qknlg.jpg",
               "prixBoutique": 22,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEFpdnHgBDTtmv",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif citrine brute",
+              "stripeDesc": "Ce pendentif en citrine brute est une pièce naturelle et unique, enveloppée dans un tissu artisanal pour préserver son énergie. La citrine est souvent associée à la joie, à l'abondance et à une énergie positive, aidant à éclaircir les émotions et à attirer la prospérité dans la vie quotidienne. Parfaite pour une utilisation en lithothérapie ou comme élément décoratif, elle apporte une touche de lumière et de bien-être à votre quotidien.",
+              "stripePriceId": "price_1UDnK0LOfCA5mATu5u09aZ4U",
+              "stripePrix": 23,
+              "stripeLinkId": "plink_1UDnK1LOfCA5mATu75KFbViw",
+              "stripe": "https://buy.stripe.com/14AdRa3RMbfT8MEcFX2892X",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -2113,7 +2113,17 @@
               "description": "Ce pendentif allie la pureté lumineuse du cristal de roche à la puissance ancrante de la tourmaline noire. Le cristal de roche est souvent utilisé pour amplifier les énergies positives et favoriser la clarté mentale, tandis que la tourmaline noire est réputée pour protéger contre les énergies négatives et équilibrer les émotions. Un accessoire élégant et harmonisant, idéal pour porter au quotidien ou méditer.",
               "photo": "images/articles/pendentif-cristal-de-roche-pointe-de-tou-mttwy51o5lwm.jpg",
               "prixBoutique": 21,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEAP5Nt2JLZT0s",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cristal de roche pointe de tourmaline noire",
+              "stripeDesc": "Ce pendentif allie la pureté lumineuse du cristal de roche à la puissance ancrante de la tourmaline noire. Le cristal de roche est souvent utilisé pour amplifier les énergies positives et favoriser la clarté mentale, tandis que la tourmaline noire est réputée pour protéger contre les énergies négatives et équilibrer les émotions. Un accessoire élégant et harmonisant, idéal pour porter au quotidien ou méditer.",
+              "stripePriceId": "price_1UDi59LOfCA5mATu8y5WU9O2",
+              "stripePrix": 21.97,
+              "stripeLinkId": "plink_1UDi5ALOfCA5mATuVQfpigpW",
+              "stripe": "https://buy.stripe.com/3cI14obke97L5As9tL2892A",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

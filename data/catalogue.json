@@ -2379,7 +2379,17 @@
               "description": "Ce pendentif en quartz rose est une pierre douce et apaisante, souvent appelée la pierre de l'amour et de la compassion. En lithothérapie, elle est réputée pour favoriser l'harmonie émotionnelle, renforcer les liens affectifs et apaiser les tensions du cœur. Porté au quotidien, il est idéal pour cultiver la tendresse et la bienveillance envers soi-même et les autres.",
               "photo": "images/articles/pendentif-quartz-rose-mtu6ojlf0mdn.jpg",
               "prixBoutique": 32,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEEolVgYtEMuwP",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz rose",
+              "stripeDesc": "Ce pendentif en quartz rose est une pierre douce et apaisante, souvent appelée la pierre de l'amour et de la compassion. En lithothérapie, elle est réputée pour favoriser l'harmonie émotionnelle, renforcer les liens affectifs et apaiser les tensions du cœur. Porté au quotidien, il est idéal pour cultiver la tendresse et la bienveillance envers soi-même et les autres.",
+              "stripePriceId": "price_1UDmKrLOfCA5mATuJWcgYeZ3",
+              "stripePrix": 33.34,
+              "stripeLinkId": "plink_1UDmKsLOfCA5mATury3HwiGp",
+              "stripe": "https://buy.stripe.com/14A7sM0FA4Rv7IA9tL2892O",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

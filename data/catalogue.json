@@ -2588,7 +2588,17 @@
               "description": "Ce pendentif en citrine brute est un véritable trésor de la nature, enveloppé dans un sac en corde naturelle pour préserver son énergie pure. La citrine est souvent appelée la pierre de la joie et de l'abondance, idéale pour attirer la prospérité et éclaircir les émotions négatives. Portée en bijou ou utilisée en lithothérapie, elle aide à renforcer la confiance en soi et à apporter une douce lumière dans votre quotidien.",
               "photo": "images/articles/pendentif-citrine-brute-mtu921mfah5q.jpg",
               "prixBoutique": 22,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEFsGuevtAFNJq",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif citrine brute",
+              "stripeDesc": "Ce pendentif en citrine brute est un véritable trésor de la nature, enveloppé dans un sac en corde naturelle pour préserver son énergie pure. La citrine est souvent appelée la pierre de la joie et de l'abondance, idéale pour attirer la prospérité et éclaircir les émotions négatives. Portée en bijou ou utilisée en lithothérapie, elle aide à renforcer la confiance en soi et à apporter une douce lumière dans votre quotidien.",
+              "stripePriceId": "price_1UDnNDLOfCA5mATufzGsqkPe",
+              "stripePrix": 23,
+              "stripeLinkId": "plink_1UDnNDLOfCA5mATuVzKt4Mij",
+              "stripe": "https://buy.stripe.com/8x200k2NIes5d2U5dv2892Z",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

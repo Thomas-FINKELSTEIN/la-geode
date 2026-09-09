@@ -2703,16 +2703,25 @@
               "photo": "images/articles/pendentif-quartz-rose-brut-mtua23sikg5s.jpg",
               "prixBoutique": 16,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm4gAdsmabP0g8bBT28936",
               "stripeProductId": "prod_VEGLnjdx2vLHTa",
+              "stripePriceId": "price_1UDnoLLOfCA5mATuQt5lktly",
+              "stripeLinkId": "plink_1UDnoMLOfCA5mATuB1W3nQzT",
+              "stripePrix": 16.8,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz rose brut",
               "stripeDesc": "Ce pendentif en quartz rose brut est une pièce naturelle et apaisante, idéale pour apporter douceur et harmonie dans votre quotidien. En lithothérapie, le quartz rose est souvent associé à l’ouverture du cœur, favorisant l’amour, la compassion et la guérison émotionnelle. Parfait pour porter au quotidien, il est aussi utilisé pour équilibrer les énergies et cultiver une attitude bienveillante.",
-              "stripePriceId": "price_1UDnoLLOfCA5mATuQt5lktly",
-              "stripePrix": 16.8,
-              "stripeLinkId": "plink_1UDnoMLOfCA5mATuB1W3nQzT",
-              "stripe": "https://buy.stripe.com/dRm4gAdsmabP0g8bBT28936",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-calcedoine-brute-mtuaecb1qc3d",
+              "nom": "Pendentif calcédoine brute",
+              "prix": 27.14,
+              "description": "Ce pendentif en calcédoine brute offre une énergie apaisante et harmonieuse, idéale pour équilibrer les émotions et favoriser la sérénité au quotidien. Utilisée en lithothérapie, cette pierre douce et aux reflets nacrés est souvent associée à la protection et à la connexion avec la nature. Parfaite pour être portée près du cœur, elle aide à apaiser les tensions et à renforcer la confiance en soi.",
+              "photo": "images/articles/pendentif-calcedoine-brute-mtuaecb1dmco.jpg",
+              "prixBoutique": 26,
+              "stock": 1
             }
           ]
         },

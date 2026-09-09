@@ -2626,7 +2626,17 @@
               "description": "Ce pendentif en calcédoine, pierre aux reflets irisés et apaisants, est un allié précieux pour retrouver calme et sérénité au quotidien. En lithothérapie, la calcédoine est souvent utilisée pour équilibrer les émotions, renforcer la patience et favoriser la connexion à son intuition. Son énergie douce en fait un compagnon idéal pour méditer ou simplement porter en journée pour un effet harmonisant.",
               "photo": "images/articles/pendentif-calcedoine-mtu97mfk79l5.jpg",
               "prixBoutique": 26,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEFxc9VU8aQVf1",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif calcédoine",
+              "stripeDesc": "Ce pendentif en calcédoine, pierre aux reflets irisés et apaisants, est un allié précieux pour retrouver calme et sérénité au quotidien. En lithothérapie, la calcédoine est souvent utilisée pour équilibrer les émotions, renforcer la patience et favoriser la connexion à son intuition. Son énergie douce en fait un compagnon idéal pour méditer ou simplement porter en journée pour un effet harmonisant.",
+              "stripePriceId": "price_1UDnRQLOfCA5mATu9gH32UDR",
+              "stripePrix": 27.14,
+              "stripeLinkId": "plink_1UDnRQLOfCA5mATu7Wg8oDcD",
+              "stripe": "https://buy.stripe.com/fZudRa8823Nr5AsgWd28931",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

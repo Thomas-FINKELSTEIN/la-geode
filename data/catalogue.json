@@ -2570,16 +2570,25 @@
               "photo": "images/articles/pendentif-citrine-brute-mtu907950hu5.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI00k73Ydo19QI8pH2892Y",
               "stripeProductId": "prod_VEFrTz6tHblZby",
+              "stripePriceId": "price_1UDnLsLOfCA5mATubex14Mr6",
+              "stripeLinkId": "plink_1UDnLsLOfCA5mATurNgMnPlc",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Pendentif citrine brute",
               "stripeDesc": "Ce pendentif en citrine brute capture l'énergie solaire et la chaleur de la pierre, symbole de vitalité et de joie. En lithothérapie, la citrine est souvent utilisée pour attirer la prospérité, renforcer la confiance en soi et éclaircir les émotions négatives. Parfait pour une touche naturelle et positive au quotidien, ce bijou s’accorde avec une énergie rayonnante et optimiste.",
-              "stripePriceId": "price_1UDnLsLOfCA5mATubex14Mr6",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UDnLsLOfCA5mATurNgMnPlc",
-              "stripe": "https://buy.stripe.com/3cI00k73Ydo19QI8pH2892Y",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-citrine-brute-mtu921mfs4jr",
+              "nom": "Pendentif citrine brute",
+              "prix": 23,
+              "description": "Ce pendentif en citrine brute est un véritable trésor de la nature, enveloppé dans un sac en corde naturelle pour préserver son énergie pure. La citrine est souvent appelée la pierre de la joie et de l'abondance, idéale pour attirer la prospérité et éclaircir les émotions négatives. Portée en bijou ou utilisée en lithothérapie, elle aide à renforcer la confiance en soi et à apporter une douce lumière dans votre quotidien.",
+              "photo": "images/articles/pendentif-citrine-brute-mtu921mfah5q.jpg",
+              "prixBoutique": 22,
+              "stock": 1
             }
           ]
         },

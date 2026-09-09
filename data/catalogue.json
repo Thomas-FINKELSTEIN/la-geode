@@ -2247,16 +2247,25 @@
               "photo": "images/articles/pendentif-hermiker-extra-mtu457cu0fk2.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm28s2NIfw94wo8pH2892H",
               "stripeProductId": "prod_VEDf9dlgDocWS3",
+              "stripePriceId": "price_1UDlE8LOfCA5mATuMcltI0vs",
+              "stripeLinkId": "plink_1UDlE8LOfCA5mATuGZ2SGnyY",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif hermiker extra",
               "stripeDesc": "Ce pendentif en hermiker extra est une pièce unique alliant beauté naturelle et énergie apaisante. Le hermiker, pierre rare aux reflets dorés et transparents, est traditionnellement utilisé pour renforcer la confiance en soi et équilibrer les émotions. Parfait pour une touche élégante et spirituelle, il attire une énergie positive et favorise la sérénité au quotidien.",
-              "stripePriceId": "price_1UDlE8LOfCA5mATuMcltI0vs",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UDlE8LOfCA5mATuGZ2SGnyY",
-              "stripe": "https://buy.stripe.com/dRm28s2NIfw94wo8pH2892H",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cristal-de-roche-mtu46prq34w0",
+              "nom": "Pendentif cristal de roche",
+              "prix": 25.07,
+              "description": "Ce pendentif en cristal de roche est une pièce lumineuse et pure, souvent utilisée pour amplifier les énergies positives et favoriser la clarté mentale. En lithothérapie, il est réputé pour renforcer la connexion à son intuition et apporter une sensation de sérénité au quotidien. Parfait pour être porté en méditation ou simplement comme talisman de bien-être.",
+              "photo": "images/articles/pendentif-cristal-de-roche-mtu46prqf2eu.jpg",
+              "prixBoutique": 24,
+              "stock": 3
             }
           ]
         },

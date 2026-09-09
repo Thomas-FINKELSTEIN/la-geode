@@ -7187,16 +7187,25 @@
               "photo": "images/articles/pendule-jaspe-heliotrope-mtttuxg0o822.jpg",
               "prixBoutique": 19.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/9B6eVeaga0Bf1kcfS92892t",
               "stripeProductId": "prod_VE91nsTvMhGkCb",
+              "stripePriceId": "price_1UDgjRLOfCA5mATur3VEQWDk",
+              "stripeLinkId": "plink_1UDgjSLOfCA5mATutvYTmAyB",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendule jaspe héliotrope",
               "stripeDesc": "Pendule jaspe héliotrope 5 cm",
-              "stripePriceId": "price_1UDgjRLOfCA5mATur3VEQWDk",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UDgjSLOfCA5mATutvYTmAyB",
-              "stripe": "https://buy.stripe.com/9B6eVeaga0Bf1kcfS92892t",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendule-cristal-de-roche-mtttzsrfnkm3",
+              "nom": "Pendule cristal de roche",
+              "prix": 20.83,
+              "description": "Pendule générateur cristal de roche 8 cm",
+              "photo": "images/articles/pendule-cristal-de-roche-mtttzsrf33mb.jpg",
+              "prixBoutique": 19.9,
+              "stock": 1
             }
           ]
         },

@@ -2266,16 +2266,25 @@
               "photo": "images/articles/pendentif-cristal-de-roche-mtu46prqf2eu.jpg",
               "prixBoutique": 24,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/cNi8wQewq4Rv5AsdK12892I",
               "stripeProductId": "prod_VEDgWMMYfGSOTH",
+              "stripePriceId": "price_1UDlFXLOfCA5mATuX2GkqMRk",
+              "stripeLinkId": "plink_1UDlFXLOfCA5mATuEaGqfcBS",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif cristal de roche",
               "stripeDesc": "Ce pendentif en cristal de roche est une pièce lumineuse et pure, souvent utilisée pour amplifier les énergies positives et favoriser la clarté mentale. En lithothérapie, il est réputé pour renforcer la connexion à son intuition et apporter une sensation de sérénité au quotidien. Parfait pour être porté en méditation ou simplement comme talisman de bien-être.",
-              "stripePriceId": "price_1UDlFXLOfCA5mATuX2GkqMRk",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UDlFXLOfCA5mATuEaGqfcBS",
-              "stripe": "https://buy.stripe.com/cNi8wQewq4Rv5AsdK12892I",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cristal-de-roche-mtu4avg7d93e",
+              "nom": "Pendentif cristal de roche",
+              "prix": 25.07,
+              "description": "Ce pendentif en cristal de roche est une pièce lumineuse et pure, idéale pour apporter clarté et équilibre dans votre quotidien. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les énergies positives et favoriser la concentration. Parfait à porter au quotidien, il est aussi un excellent outil pour purifier les espaces et renforcer la connexion à son intuition.",
+              "photo": "images/articles/pendentif-cristal-de-roche-mtu4avg7sfmo.jpg",
+              "prixBoutique": 24,
+              "stock": 5
             }
           ]
         },

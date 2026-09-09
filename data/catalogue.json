@@ -2075,7 +2075,17 @@
               "description": "Ce pendentif en cristal de roche se compose de deux pointes élégantes et lumineuses, parfait pour apporter clarté et équilibre énergétique. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les intentions positives, purifier l’aura et favoriser la concentration. Un accessoire raffiné qui allie beauté naturelle et bien-être au quotidien. Pierre d'ancrage .",
               "photo": "images/articles/pendentif-deux-pointes-de-cristal-de-roc-mttwl45ce47n.jpg",
               "prixBoutique": 25,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEAFW4vjieShTd",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif deux pointes de cristal de roche",
+              "stripeDesc": "Ce pendentif en cristal de roche se compose de deux pointes élégantes et lumineuses, parfait pour apporter clarté et équilibre énergétique. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les intentions positives, purifier l’aura et favoriser la concentration. Un accessoire raffiné qui allie beauté naturelle et bien-être au quotidien. Pierre d'ancrage .",
+              "stripePriceId": "price_1UDhvMLOfCA5mATu3SJRrfyW",
+              "stripePrix": 26.1,
+              "stripeLinkId": "plink_1UDhvMLOfCA5mATuqMdwjAHg",
+              "stripe": "https://buy.stripe.com/4gMbJ29c683H9QI35n2892y",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

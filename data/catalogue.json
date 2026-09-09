@@ -2589,16 +2589,25 @@
               "photo": "images/articles/pendentif-citrine-brute-mtu921mfah5q.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/8x200k2NIes5d2U5dv2892Z",
               "stripeProductId": "prod_VEFsGuevtAFNJq",
+              "stripePriceId": "price_1UDnNDLOfCA5mATufzGsqkPe",
+              "stripeLinkId": "plink_1UDnNDLOfCA5mATuVzKt4Mij",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Pendentif citrine brute",
               "stripeDesc": "Ce pendentif en citrine brute est un véritable trésor de la nature, enveloppé dans un sac en corde naturelle pour préserver son énergie pure. La citrine est souvent appelée la pierre de la joie et de l'abondance, idéale pour attirer la prospérité et éclaircir les émotions négatives. Portée en bijou ou utilisée en lithothérapie, elle aide à renforcer la confiance en soi et à apporter une douce lumière dans votre quotidien.",
-              "stripePriceId": "price_1UDnNDLOfCA5mATufzGsqkPe",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UDnNDLOfCA5mATuVzKt4Mij",
-              "stripe": "https://buy.stripe.com/8x200k2NIes5d2U5dv2892Z",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-lapis-lazuli-mtu94vi046ps",
+              "nom": "Pendentif lapis lazuli",
+              "prix": 33.34,
+              "description": "Ce pendentif en lapis-lazuli est une pièce élégante et mystique, souvent associée à la sagesse et à la communication. Dans la lithothérapie, cette pierre bleue profonde est réputée pour les voies respiratoires le stress et les problèmes de peau. Parfaite pour être portée au quotidien, elle attire aussi la confiance et aide à exprimer ses idées avec aisance.",
+              "photo": "images/articles/pendentif-lapis-lazuli-mtu94vi1rkkn.jpg",
+              "prixBoutique": 32,
+              "stock": 1
             }
           ]
         },

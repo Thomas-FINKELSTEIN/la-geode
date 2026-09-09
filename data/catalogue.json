@@ -2531,7 +2531,17 @@
               "description": "Ce pendentif en quartz fumé est une pierre aux énergies apaisantes et équilibrantes, idéale pour favoriser la concentration et la sérénité au quotidien. Souvent utilisée en lithothérapie pour son pouvoir de protection et de stabilisation émotionnelle, elle aide à ancrer les pensées et à renforcer la confiance en soi. Parfait pour une utilisation en méditation ou portée comme accessoire bien-être, il apporte une touche élégante tout en diffusant une énergie positive.",
               "photo": "images/articles/pendentif-quartz-fume-mtu8vlb4tj26.jpg",
               "prixBoutique": 19,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEFnoNiicHZYHe",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz fumé",
+              "stripeDesc": "Ce pendentif en quartz fumé est une pierre aux énergies apaisantes et équilibrantes, idéale pour favoriser la concentration et la sérénité au quotidien. Souvent utilisée en lithothérapie pour son pouvoir de protection et de stabilisation émotionnelle, elle aide à ancrer les pensées et à renforcer la confiance en soi. Parfait pour une utilisation en méditation ou portée comme accessoire bien-être, il apporte une touche élégante tout en diffusant une énergie positive.",
+              "stripePriceId": "price_1UDnIMLOfCA5mATuNqxt1km7",
+              "stripePrix": 19.9,
+              "stripeLinkId": "plink_1UDnIMLOfCA5mATujZHcd2Y0",
+              "stripe": "https://buy.stripe.com/9B614oagabfTaUMbBT2892W",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

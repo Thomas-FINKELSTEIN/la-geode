@@ -2342,16 +2342,25 @@
               "photo": "images/articles/pendentif-cristal-de-roche-avec-pointe-d-mtu4pkso6di8.jpg",
               "prixBoutique": 25,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa5kEfAu83H2ogaxP2892M",
               "stripeProductId": "prod_VEDvo0bnst9k5I",
+              "stripePriceId": "price_1UDlTTLOfCA5mATu4MO9m1To",
+              "stripeLinkId": "plink_1UDlTTLOfCA5mATuz9BK9Czu",
+              "stripePrix": 26.1,
               "stripeMode": "live",
               "stripeNom": "Pendentif cristal de roche avec pointe de cristal",
               "stripeDesc": "Ce pendentif en cristal de roche est une pièce raffinée et lumineuse, idéale pour apporter clarté et énergie positive à votre quotidien. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les intentions, purifier l’aura et favoriser la concentration. Il est parfait pour être porté au quotidien, que ce soit pour ses vertus apaisantes ou pour son éclat naturel qui sublime tout style vestimentaire.",
-              "stripePriceId": "price_1UDlTTLOfCA5mATu4MO9m1To",
-              "stripePrix": 26.1,
-              "stripeLinkId": "plink_1UDlTTLOfCA5mATuz9BK9Czu",
-              "stripe": "https://buy.stripe.com/aFa5kEfAu83H2ogaxP2892M",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-quartz-rose-mtu6ckj0zapb",
+              "nom": "Pendentif quartz rose",
+              "prix": 33.34,
+              "description": "Ce pendentif en quartz rose est une pièce délicate et apaisante, idéale pour apporter douceur et sérénité au quotidien. En lithothérapie, cette pierre est souvent associée à l'ouverture du cœur, favorisant l'amour, la compassion et la guérison émotionnelle. Parfaite pour être portée près du cœur, elle est aussi utilisée pour équilibrer les énergies et renforcer les relations.",
+              "photo": "images/articles/pendentif-quartz-rose-mtu6ckj1xepv.jpg",
+              "prixBoutique": 32,
+              "stock": 1
             }
           ]
         },

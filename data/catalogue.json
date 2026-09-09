@@ -2760,16 +2760,25 @@
               "photo": "images/articles/pendentif-calcedoine-brute-mtuahl6kbtdp.jpg",
               "prixBoutique": 26,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQdRa0FAes52ogbBT28939",
               "stripeProductId": "prod_VEGXYjzc8yZpbx",
+              "stripePriceId": "price_1UDnzxLOfCA5mATuheMylHLo",
+              "stripeLinkId": "plink_1UDnzxLOfCA5mATu6va8lM06",
+              "stripePrix": 27.14,
               "stripeMode": "live",
               "stripeNom": "Pendentif calcédoine brute",
               "stripeDesc": "Ce pendentif en calcédoine brute est une pièce unique aux reflets doux et aux nuances apaisantes. La calcédoine est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les émotions et renforcer la connexion à soi. Elle est idéale pour accompagner votre quotidien et vous aider à trouver un état de calme intérieur.",
-              "stripePriceId": "price_1UDnzxLOfCA5mATuheMylHLo",
-              "stripePrix": 27.14,
-              "stripeLinkId": "plink_1UDnzxLOfCA5mATu6va8lM06",
-              "stripe": "https://buy.stripe.com/5kQdRa0FAes52ogbBT28939",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-calcedoine-brute-mtuakac3yolo",
+              "nom": "Pendentif calcédoine brute",
+              "prix": 27.14,
+              "description": "Ce pendentif en calcédoine brute offre une énergie apaisante et harmonieuse, idéale pour équilibrer les émotions et favoriser la sérénité au quotidien. Utilisée en lithothérapie, cette pierre naturelle est souvent associée à la connexion avec la nature et à la purification des énergies. Parfait pour être porté près du cœur, il est apprécié pour ses vertus calmantes et son influence positive sur le bien-être général.",
+              "photo": "images/articles/pendentif-calcedoine-brute-mtuakac3g79z.jpg",
+              "prixBoutique": 26,
+              "stock": 1
             }
           ]
         },

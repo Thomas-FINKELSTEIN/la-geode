@@ -2513,16 +2513,25 @@
               "photo": "images/articles/pendentif-amethyste-grosse-goutte-mtu7prkdu4tt.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIdRa0FAdo1d2UbBT2892V",
               "stripeProductId": "prod_VEFHEGF8aXp9aR",
+              "stripePriceId": "price_1UDmmrLOfCA5mATuveRrVPOJ",
+              "stripeLinkId": "plink_1UDmmrLOfCA5mATufFgjIA1M",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif améthyste grosse goutte",
               "stripeDesc": "Ce pendentif en améthyste grosse goutte est une pièce élégante et apaisante, idéale pour apporter sérénité et calme au quotidien. L'améthyste est souvent associée à la purification des énergies et à l'équilibre émotionnel, aidant à apaiser l'esprit et à favoriser un sommeil réparateur. Parfait pour une utilisation en lithothérapie ou simplement comme accessoire raffiné, il peut être porté en collier pour bénéficier de ses vertus harmonisantes tout au long de la journée.",
-              "stripePriceId": "price_1UDmmrLOfCA5mATuveRrVPOJ",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UDmmrLOfCA5mATufFgjIA1M",
-              "stripe": "https://buy.stripe.com/3cIdRa0FAdo1d2UbBT2892V",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-quartz-fume-mtu8vlb4my3n",
+              "nom": "Pendentif quartz fumé",
+              "prix": 19.9,
+              "description": "Ce pendentif en quartz fumé est une pierre aux énergies apaisantes et équilibrantes, idéale pour favoriser la concentration et la sérénité au quotidien. Souvent utilisée en lithothérapie pour son pouvoir de protection et de stabilisation émotionnelle, elle aide à ancrer les pensées et à renforcer la confiance en soi. Parfait pour une utilisation en méditation ou portée comme accessoire bien-être, il apporte une touche élégante tout en diffusant une énergie positive.",
+              "photo": "images/articles/pendentif-quartz-fume-mtu8vlb4tj26.jpg",
+              "prixBoutique": 19,
+              "stock": 1
             }
           ]
         },

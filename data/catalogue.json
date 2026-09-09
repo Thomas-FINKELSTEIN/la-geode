@@ -7206,16 +7206,25 @@
               "photo": "images/articles/pendule-cristal-de-roche-mtttzsrf33mb.jpg",
               "prixBoutique": 19.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm8wQ1JE5Vz0g835n2892u",
               "stripeProductId": "prod_VE95BnMZiQM7FB",
+              "stripePriceId": "price_1UDgn7LOfCA5mATuUW5qQBVu",
+              "stripeLinkId": "plink_1UDgn7LOfCA5mATuLUiH2ABm",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendule cristal de roche",
               "stripeDesc": "Pendule générateur cristal de roche 8 cm",
-              "stripePriceId": "price_1UDgn7LOfCA5mATuUW5qQBVu",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UDgn7LOfCA5mATuLUiH2ABm",
-              "stripe": "https://buy.stripe.com/dRm8wQ1JE5Vz0g835n2892u",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendule-generateur-quartz-rose-mttu9z9wafem",
+              "nom": "Pendule générateur quartz rose",
+              "prix": 24.97,
+              "description": "Pendule générateur quartz rose 7 cm",
+              "photo": "images/articles/pendule-generateur-quartz-rose-mttu9z9xj3yp.jpg",
+              "prixBoutique": 23.9,
+              "stock": 1
             }
           ]
         },

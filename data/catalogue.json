@@ -2418,16 +2418,25 @@
               "photo": "images/articles/pendentif-quartz-rose-mtu6tqb1d4kp.jpg",
               "prixBoutique": 32,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi8wQ1JE5Vz2og21j2892Q",
               "stripeProductId": "prod_VEEsJy8xYWgoLa",
+              "stripePriceId": "price_1UDmOjLOfCA5mATu3qAn3DH9",
+              "stripeLinkId": "plink_1UDmOjLOfCA5mATuGOS2hdoc",
+              "stripePrix": 33.34,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz rose",
               "stripeDesc": "Ce pendentif en quartz rose est une pierre douce et apaisante, souvent utilisée pour favoriser l'harmonie émotionnelle et renforcer les liens affectifs. En lithothérapie, elle est réputée pour son pouvoir de calmer les tensions et d'ouvrir le cœur à l'amour et à la compassion. Un allié précieux pour cultiver la sérénité au quotidien.",
-              "stripePriceId": "price_1UDmOjLOfCA5mATu3qAn3DH9",
-              "stripePrix": 33.34,
-              "stripeLinkId": "plink_1UDmOjLOfCA5mATuGOS2hdoc",
-              "stripe": "https://buy.stripe.com/cNi8wQ1JE5Vz2og21j2892Q",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-amethyste-brut-mtu70kca7ejy",
+              "nom": "Pendentif améthyste brut",
+              "prix": 23,
+              "description": "Ce pendentif en améthyste brute offre une énergie apaisante et spirituelle, idéale pour favoriser la sérénité et la concentration. Utilisée depuis longtemps en lithothérapie, l'améthyste est réputée pour ses vertus calmantes et son pouvoir de protection, aidant à équilibrer les émotions et à favoriser un sommeil réparateur. Parfait pour une touche naturelle et mystique à votre quotidien, ce bijou s’accorde avec les intentions de paix intérieure et de clarté mentale.",
+              "photo": "images/articles/pendentif-amethyste-brut-mtu70kcari4b.jpg",
+              "prixBoutique": 22,
+              "stock": 1
             }
           ]
         },

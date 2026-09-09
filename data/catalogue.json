@@ -2741,16 +2741,25 @@
               "photo": "images/articles/pendentif-calcedoine-brute-mtuag1fgfq19.jpg",
               "prixBoutique": 26,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi14obke97L6Ew8pH28938",
               "stripeProductId": "prod_VEGVsboxMzcnXK",
+              "stripePriceId": "price_1UDnyqLOfCA5mATuPEUOAH58",
+              "stripeLinkId": "plink_1UDnyrLOfCA5mATuNBpX5a93",
+              "stripePrix": 27.14,
               "stripeMode": "live",
               "stripeNom": "Pendentif calcédoine brute",
               "stripeDesc": "Ce pendentif en calcédoine brute met en valeur la beauté naturelle et organique de cette pierre aux reflets irisés. Appelée pierre de sagesse, elle est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la sérénité. Portée au quotidien, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à renforcer leur connexion à la terre.",
-              "stripePriceId": "price_1UDnyqLOfCA5mATuPEUOAH58",
-              "stripePrix": 27.14,
-              "stripeLinkId": "plink_1UDnyrLOfCA5mATuNBpX5a93",
-              "stripe": "https://buy.stripe.com/cNi14obke97L6Ew8pH28938",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-calcedoine-brute-mtuahl6kzvj2",
+              "nom": "Pendentif calcédoine brute",
+              "prix": 27.14,
+              "description": "Ce pendentif en calcédoine brute est une pièce unique aux reflets doux et aux nuances apaisantes. La calcédoine est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les émotions et renforcer la connexion à soi. Elle est idéale pour accompagner votre quotidien et vous aider à trouver un état de calme intérieur.",
+              "photo": "images/articles/pendentif-calcedoine-brute-mtuahl6kbtdp.jpg",
+              "prixBoutique": 26,
+              "stock": 1
             }
           ]
         },

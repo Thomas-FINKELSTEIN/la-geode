@@ -2646,16 +2646,25 @@
               "photo": "images/articles/pendentif-pyrite-mtu98h9no11l.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/14AeVeaga3Nr4wo5dv28932",
               "stripeProductId": "prod_VEFxbL9vJZ8i2t",
+              "stripePriceId": "price_1UDnS3LOfCA5mATuf3MS32M7",
+              "stripeLinkId": "plink_1UDnS3LOfCA5mATuZ2AtSfXN",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif pyrite",
               "stripeDesc": "Ce pendentif en pyrite brille d’un éclat doré et métallique, attirant l’attention et apportant une touche de puissance à votre quotidien. En lithothérapie, la pyrite est souvent associée à la prospérité, à la confiance en soi et à une énergie protectrice, aidant à renforcer la motivation et à attirer l’abondance. Parfait pour être porté au quotidien, ce bijou naturel s’accorde aussi bien avec des tenues élégantes que décontractées.",
-              "stripePriceId": "price_1UDnS3LOfCA5mATuf3MS32M7",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UDnS3LOfCA5mATuZ2AtSfXN",
-              "stripe": "https://buy.stripe.com/14AeVeaga3Nr4wo5dv28932",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-citrine-goutte-mtu9c4tk0we4",
+              "nom": "Pendentif citrine goutte",
+              "prix": 20.83,
+              "description": "Ce pendentif en citrine, pierre de lumière et d'énergie positive, est une alliée précieuse pour attirer la joie et la prospérité. En lithothérapie, la citrine est souvent utilisée pour renforcer la confiance en soi et éclaircir les pensées négatives. Parfait pour un port quotidien, ce bijou en pierre naturelle apporte une touche de chaleur et d'optimisme à votre quotidien.",
+              "photo": "images/articles/pendentif-citrine-goutte-mtu9c4tkp50g.jpg",
+              "prixBoutique": 19.9,
+              "stock": 1
             }
           ]
         },

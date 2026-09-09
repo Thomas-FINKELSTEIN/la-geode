@@ -2627,16 +2627,25 @@
               "photo": "images/articles/pendentif-calcedoine-mtu97mfk79l5.jpg",
               "prixBoutique": 26,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/fZudRa8823Nr5AsgWd28931",
               "stripeProductId": "prod_VEFxc9VU8aQVf1",
+              "stripePriceId": "price_1UDnRQLOfCA5mATu9gH32UDR",
+              "stripeLinkId": "plink_1UDnRQLOfCA5mATu7Wg8oDcD",
+              "stripePrix": 27.14,
               "stripeMode": "live",
               "stripeNom": "Pendentif calcédoine",
               "stripeDesc": "Ce pendentif en calcédoine, pierre aux reflets irisés et apaisants, est un allié précieux pour retrouver calme et sérénité au quotidien. En lithothérapie, la calcédoine est souvent utilisée pour équilibrer les émotions, renforcer la patience et favoriser la connexion à son intuition. Son énergie douce en fait un compagnon idéal pour méditer ou simplement porter en journée pour un effet harmonisant.",
-              "stripePriceId": "price_1UDnRQLOfCA5mATu9gH32UDR",
-              "stripePrix": 27.14,
-              "stripeLinkId": "plink_1UDnRQLOfCA5mATu7Wg8oDcD",
-              "stripe": "https://buy.stripe.com/fZudRa8823Nr5AsgWd28931",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-pyrite-mtu98h9n376g",
+              "nom": "Pendentif pyrite",
+              "prix": 25.07,
+              "description": "Ce pendentif en pyrite brille d’un éclat doré et métallique, attirant l’attention et apportant une touche de puissance à votre quotidien. En lithothérapie, la pyrite est souvent associée à la prospérité, à la confiance en soi et à une énergie protectrice, aidant à renforcer la motivation et à attirer l’abondance. Parfait pour être porté au quotidien, ce bijou naturel s’accorde aussi bien avec des tenues élégantes que décontractées.",
+              "photo": "images/articles/pendentif-pyrite-mtu98h9no11l.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

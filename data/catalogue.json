@@ -2114,16 +2114,25 @@
               "photo": "images/articles/pendentif-cristal-de-roche-pointe-de-tou-mttwy51o5lwm.jpg",
               "prixBoutique": 21,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI14obke97L5As9tL2892A",
               "stripeProductId": "prod_VEAP5Nt2JLZT0s",
+              "stripePriceId": "price_1UDi59LOfCA5mATu8y5WU9O2",
+              "stripeLinkId": "plink_1UDi5ALOfCA5mATuVQfpigpW",
+              "stripePrix": 21.97,
               "stripeMode": "live",
               "stripeNom": "Pendentif cristal de roche pointe de tourmaline noire",
               "stripeDesc": "Ce pendentif allie la pureté lumineuse du cristal de roche à la puissance ancrante de la tourmaline noire. Le cristal de roche est souvent utilisé pour amplifier les énergies positives et favoriser la clarté mentale, tandis que la tourmaline noire est réputée pour protéger contre les énergies négatives et équilibrer les émotions. Un accessoire élégant et harmonisant, idéal pour porter au quotidien ou méditer.",
-              "stripePriceId": "price_1UDi59LOfCA5mATu8y5WU9O2",
-              "stripePrix": 21.97,
-              "stripeLinkId": "plink_1UDi5ALOfCA5mATuVQfpigpW",
-              "stripe": "https://buy.stripe.com/3cI14obke97L5As9tL2892A",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cristal-de-roche-goutte-mttx02hu8e2f",
+              "nom": "Pendentif cristal de roche goutte",
+              "prix": 18.87,
+              "description": "Ce pendentif en cristal de roche goutte est une pièce élégante et intemporelle qui capte la lumière pour créer une douce énergie apaisante. En lithothérapie, le cristal de roche est souvent associé à l’amplification des intentions, à la purification des énergies et à l’harmonisation des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur connexion spirituelle ou simplement à ajouter une touche de pureté et de clarté à leur quotidien.",
+              "photo": "images/articles/pendentif-cristal-de-roche-goutte-mttx02humes7.jpg",
+              "prixBoutique": 18,
+              "stock": 3
             }
           ]
         },

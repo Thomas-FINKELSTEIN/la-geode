@@ -7148,7 +7148,17 @@
               "description": "Pendule jaspe rouge 4 cm",
               "photo": "images/articles/pendule-jaspe-rouge-mttqp3pln2y8.jpg",
               "prixBoutique": 19.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VE7aWfNyGQP7lT",
+              "stripeMode": "live",
+              "stripeNom": "Pendule jaspe rouge",
+              "stripeDesc": "Pendule jaspe rouge 4 cm",
+              "stripePriceId": "price_1UDfLmLOfCA5mATuQ7INoRrn",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UDfLnLOfCA5mATu6cb7lkoG",
+              "stripe": "https://buy.stripe.com/bJecN6fAudo13sk5dv2892p",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

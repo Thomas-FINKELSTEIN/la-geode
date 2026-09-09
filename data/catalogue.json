@@ -2151,7 +2151,17 @@
               "description": "",
               "photo": "images/articles/pendentif-cristal-de-roche-en-cercle-mttx6apvzh9w.jpg",
               "prixBoutique": 24,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VEAWowDjYzakoS",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cristal de roche en cercle",
+              "stripeDesc": "",
+              "stripePriceId": "price_1UDiBGLOfCA5mATu7zt7H7tj",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UDiBHLOfCA5mATuzJvNFFVK",
+              "stripe": "https://buy.stripe.com/28EaEYgEy97L3skcFX2892C",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

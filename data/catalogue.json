@@ -2208,7 +2208,17 @@
               "description": "Ce pendentif en cristal de roche brut est une pièce unique et naturelle, idéale pour apporter une touche d'énergie pure et apaisante à votre quotidien. Le cristal de roche est souvent utilisé en lithothérapie pour amplifier les intentions positives, clarifier l'esprit et favoriser la connexion à son intuition. Parfait pour être porté au quotidien, il est aussi un excellent outil pour méditer ou créer un espace harmonieux dans votre environnement.",
               "photo": "images/articles/pendentif-cristal-de-roche-brut-mtu3w0adt87s.jpg",
               "prixBoutique": 12,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VEDYjpot515IaA",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cristal de roche brut",
+              "stripeDesc": "Ce pendentif en cristal de roche brut est une pièce unique et naturelle, idéale pour apporter une touche d'énergie pure et apaisante à votre quotidien. Le cristal de roche est souvent utilisé en lithothérapie pour amplifier les intentions positives, clarifier l'esprit et favoriser la connexion à son intuition. Parfait pour être porté au quotidien, il est aussi un excellent outil pour méditer ou créer un espace harmonieux dans votre environnement.",
+              "stripePriceId": "price_1UDl7KLOfCA5mATu60EFcIYy",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UDl7KLOfCA5mATuDPd46Ycd",
+              "stripe": "https://buy.stripe.com/dRm4gA5ZU5Vzd2UeO52892F",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

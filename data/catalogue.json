@@ -2683,7 +2683,17 @@
               "description": "Ce pendentif en aventurine verte brute est une pièce unique et naturelle, parfaite pour apporter une touche d'énergie positive au quotidien. L'aventurine est souvent associée à la chance, à la prospérité et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Idéal pour être porté près du cœur, il est aussi utilisé en lithothérapie pour favoriser la sérénité et attirer la bonne fortune.",
               "photo": "images/articles/pendentif-aventurine-verte-brute-mtua00jnv3vn.jpg",
               "prixBoutique": 19,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEGJ2rfvBYsKVa",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif aventurine verte brute",
+              "stripeDesc": "Ce pendentif en aventurine verte brute est une pièce unique et naturelle, parfaite pour apporter une touche d'énergie positive au quotidien. L'aventurine est souvent associée à la chance, à la prospérité et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Idéal pour être porté près du cœur, il est aussi utilisé en lithothérapie pour favoriser la sérénité et attirer la bonne fortune.",
+              "stripePriceId": "price_1UDnmkLOfCA5mATuq4vYJrkk",
+              "stripePrix": 19.9,
+              "stripeLinkId": "plink_1UDnmkLOfCA5mATucf0dba0z",
+              "stripe": "https://buy.stripe.com/eVqaEY0FAabPfb235n28934",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

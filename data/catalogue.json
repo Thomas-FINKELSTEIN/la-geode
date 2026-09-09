@@ -2190,16 +2190,25 @@
               "photo": "images/articles/pendentif-hermiker-extra-mtu3t4zqna7a.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00w8wQgEy83H9QIbBT2892E",
               "stripeProductId": "prod_VEDW6hNHFO7zgl",
+              "stripePriceId": "price_1UDl51LOfCA5mATuphgtg4Ev",
+              "stripeLinkId": "plink_1UDl51LOfCA5mATuh5Xl5Ojl",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif hermiker extra",
               "stripeDesc": "Ce pendentif en hermiker extra est une pièce unique alliant beauté minérale et énergie apaisante. Le hermiker, aussi appelé quartz lacté, est réputé pour ses propriétés purifiantes et harmonisantes, aidant à apaiser les émotions et à clarifier les pensées. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent à équilibrer leur énergie et à favoriser un état de calme intérieur.",
-              "stripePriceId": "price_1UDl51LOfCA5mATuphgtg4Ev",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UDl51LOfCA5mATuh5Xl5Ojl",
-              "stripe": "https://buy.stripe.com/00w8wQgEy83H9QIbBT2892E",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cristal-de-roche-brut-mtu3w0adtb9a",
+              "nom": "Pendentif cristal de roche brut",
+              "prix": 12.67,
+              "description": "Ce pendentif en cristal de roche brut est une pièce unique et naturelle, idéale pour apporter une touche d'énergie pure et apaisante à votre quotidien. Le cristal de roche est souvent utilisé en lithothérapie pour amplifier les intentions positives, clarifier l'esprit et favoriser la connexion à son intuition. Parfait pour être porté au quotidien, il est aussi un excellent outil pour méditer ou créer un espace harmonieux dans votre environnement.",
+              "photo": "images/articles/pendentif-cristal-de-roche-brut-mtu3w0adt87s.jpg",
+              "prixBoutique": 12,
+              "stock": 3
             }
           ]
         },

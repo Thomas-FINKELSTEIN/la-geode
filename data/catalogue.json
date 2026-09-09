@@ -2664,7 +2664,17 @@
               "description": "Ce pendentif en citrine, pierre de lumière et d'énergie positive, est une alliée précieuse pour attirer la joie et la prospérité. En lithothérapie, la citrine est souvent utilisée pour renforcer la confiance en soi et éclaircir les pensées négatives. Parfait pour un port quotidien, ce bijou en pierre naturelle apporte une touche de chaleur et d'optimisme à votre quotidien.",
               "photo": "images/articles/pendentif-citrine-goutte-mtu9c4tkp50g.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEG0UxUqvim2E2",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif citrine goutte",
+              "stripeDesc": "Ce pendentif en citrine, pierre de lumière et d'énergie positive, est une alliée précieuse pour attirer la joie et la prospérité. En lithothérapie, la citrine est souvent utilisée pour renforcer la confiance en soi et éclaircir les pensées négatives. Parfait pour un port quotidien, ce bijou en pierre naturelle apporte une touche de chaleur et d'optimisme à votre quotidien.",
+              "stripePriceId": "price_1UDnUnLOfCA5mATu440VTFMD",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UDnUnLOfCA5mATuD5LQpEUF",
+              "stripe": "https://buy.stripe.com/aFa6oI8821Fjd2U5dv28933",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

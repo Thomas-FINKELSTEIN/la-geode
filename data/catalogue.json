@@ -2171,16 +2171,25 @@
               "photo": "images/articles/pendentif-om-cristal-de-roche-mtu3qwmddf8k.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYfZi2NI0Bf2ogcFX2892D",
               "stripeProductId": "prod_VEDUBrhLFYWmkr",
+              "stripePriceId": "price_1UDl3LLOfCA5mATuPgm39EZ6",
+              "stripeLinkId": "plink_1UDl3MLOfCA5mATuXEVlcO02",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Pendentif OM cristal de roche",
               "stripeDesc": "Ce pendentif en cristal de roche représente le symbole sacré OM, porteur de vibrations universelles. En lithothérapie, le cristal de roche est souvent associé à la pureté énergétique et à l’harmonisation des chakras, aidant à clarifier les pensées et à renforcer la connexion spirituelle. Un accessoire élégant et apaisant pour méditer ou porter au quotidien.",
-              "stripePriceId": "price_1UDl3LLOfCA5mATuPgm39EZ6",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UDl3MLOfCA5mATuXEVlcO02",
-              "stripe": "https://buy.stripe.com/7sYfZi2NI0Bf2ogcFX2892D",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-hermiker-extra-mtu3t4zq2dte",
+              "nom": "Pendentif hermiker extra",
+              "prix": 25.07,
+              "description": "Ce pendentif en hermiker extra est une pièce unique alliant beauté minérale et énergie apaisante. Le hermiker, aussi appelé quartz lacté, est réputé pour ses propriétés purifiantes et harmonisantes, aidant à apaiser les émotions et à clarifier les pensées. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent à équilibrer leur énergie et à favoriser un état de calme intérieur.",
+              "photo": "images/articles/pendentif-hermiker-extra-mtu3t4zqna7a.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

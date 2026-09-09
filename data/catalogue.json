@@ -2474,7 +2474,17 @@
               "description": "Ce pendentif en améthyste brute offre une énergie apaisante et spirituelle, idéale pour favoriser la sérénité et la concentration. Utilisée depuis des siècles en lithothérapie, cette pierre est réputée pour ses vertus calmantes et son influence positive sur les émotions. Parfaite pour être portée au quotidien, elle est aussi un excellent outil pour méditer ou décorer votre intérieur avec une touche naturelle et mystique.",
               "photo": "images/articles/pendentif-amethyste-brute-mtu7chesdlv1.jpg",
               "prixBoutique": 19,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEF7LdGLmk7zNH",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif améthyste brute",
+              "stripeDesc": "Ce pendentif en améthyste brute offre une énergie apaisante et spirituelle, idéale pour favoriser la sérénité et la concentration. Utilisée depuis des siècles en lithothérapie, cette pierre est réputée pour ses vertus calmantes et son influence positive sur les émotions. Parfaite pour être portée au quotidien, elle est aussi un excellent outil pour méditer ou décorer votre intérieur avec une touche naturelle et mystique.",
+              "stripePriceId": "price_1UDmcrLOfCA5mATuPI7fndvC",
+              "stripePrix": 19.9,
+              "stripeLinkId": "plink_1UDmcrLOfCA5mATuO9msUCf6",
+              "stripe": "https://buy.stripe.com/00w4gAcoi3Nr2og9tL2892T",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

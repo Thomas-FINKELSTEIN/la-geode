@@ -7168,16 +7168,25 @@
               "photo": "images/articles/pendule-quartz-blanc-tourmaline-noire-mtttjxa3zx0s.jpg",
               "prixBoutique": 19.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/cNicN63RM4Rv4wo6hz2892s",
               "stripeProductId": "prod_VE8sLXEre8u2KT",
+              "stripePriceId": "price_1UDgbCLOfCA5mATuhdlPrfKa",
+              "stripeLinkId": "plink_1UDgbCLOfCA5mATuBqDYqAGZ",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendule quartz blanc tourmaline noire",
               "stripeDesc": "Pendule quartz blanc tourmaline noire 5 cm",
-              "stripePriceId": "price_1UDgbCLOfCA5mATuhdlPrfKa",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UDgbCLOfCA5mATuBqDYqAGZ",
-              "stripe": "https://buy.stripe.com/cNicN63RM4Rv4wo6hz2892s",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendule-jaspe-heliotrope-mtttuxg0ikpe",
+              "nom": "Pendule jaspe héliotrope",
+              "prix": 20.83,
+              "description": "Pendule jaspe héliotrope 5 cm",
+              "photo": "images/articles/pendule-jaspe-heliotrope-mtttuxg0o822.jpg",
+              "prixBoutique": 19.9,
+              "stock": 2
             }
           ]
         },

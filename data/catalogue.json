@@ -2094,7 +2094,17 @@
               "description": "Ce pendentif en merkaba au cristal de roche est une pièce unique alliant géométrie sacrée et pureté minérale. Le cristal de roche, symbole de clarté mentale et d'énergie pure, est réputé pour amplifier les intentions et favoriser la connexion spirituelle. Parfait pour méditation ou port quotidien, il apporte équilibre et sérénité selon les croyances en lithothérapie. Le merkaba est une protection et le cristal de roche un ancrage profond a la terre et au moment présent.",
               "photo": "images/articles/pendentif-merkaba-cristal-de-roche-mttwsdr75rv2.jpg",
               "prixBoutique": 16,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VEAL1dVu7Ty5Y9",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif merkaba cristal de roche",
+              "stripeDesc": "Ce pendentif en merkaba au cristal de roche est une pièce unique alliant géométrie sacrée et pureté minérale. Le cristal de roche, symbole de clarté mentale et d'énergie pure, est réputé pour amplifier les intentions et favoriser la connexion spirituelle. Parfait pour méditation ou port quotidien, il apporte équilibre et sérénité selon les croyances en lithothérapie. Le merkaba est une protection et le cristal de roche un ancrage profond a la terre et au moment présent.",
+              "stripePriceId": "price_1UDi1BLOfCA5mATuPHdv45gK",
+              "stripePrix": 16.8,
+              "stripeLinkId": "plink_1UDi1CLOfCA5mATuwbIdZsWU",
+              "stripe": "https://buy.stripe.com/5kQ4gA3RMes51kc8pH2892z",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

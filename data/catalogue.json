@@ -2702,7 +2702,17 @@
               "description": "Ce pendentif en quartz rose brut est une pièce naturelle et apaisante, idéale pour apporter douceur et harmonie dans votre quotidien. En lithothérapie, le quartz rose est souvent associé à l’ouverture du cœur, favorisant l’amour, la compassion et la guérison émotionnelle. Parfait pour porter au quotidien, il est aussi utilisé pour équilibrer les énergies et cultiver une attitude bienveillante.",
               "photo": "images/articles/pendentif-quartz-rose-brut-mtua23sikg5s.jpg",
               "prixBoutique": 16,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEGLnjdx2vLHTa",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz rose brut",
+              "stripeDesc": "Ce pendentif en quartz rose brut est une pièce naturelle et apaisante, idéale pour apporter douceur et harmonie dans votre quotidien. En lithothérapie, le quartz rose est souvent associé à l’ouverture du cœur, favorisant l’amour, la compassion et la guérison émotionnelle. Parfait pour porter au quotidien, il est aussi utilisé pour équilibrer les énergies et cultiver une attitude bienveillante.",
+              "stripePriceId": "price_1UDnoLLOfCA5mATuQt5lktly",
+              "stripePrix": 16.8,
+              "stripeLinkId": "plink_1UDnoMLOfCA5mATuB1W3nQzT",
+              "stripe": "https://buy.stripe.com/dRm4gAdsmabP0g8bBT28936",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -2798,25 +2798,6 @@
               "epuise": false
             },
             {
-              "id": "bracelet-labradorite-4-mm-mtektdb971m7",
-              "nom": "Bracelet labradorite 4 mm",
-              "prix": 11.53,
-              "description": "Ce bracelet en labradorite est composé de perles aux reflets bleutés et dorés, captivants et changeants selon la lumière. La labradorite est souvent appelée pierre de magie et de transformation, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Porté au quotidien, il favorise l'équilibre émotionnel et stimule la créativité.",
-              "photo": "images/articles/bracelet-labradorite-4-mm-mtektdb9wepp.jpg",
-              "prixBoutique": 10.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/eVqdRadsm0Bf2og7lD2882F",
-              "stripeProductId": "prod_VA97UycM3AvMb7",
-              "stripePriceId": "price_1U9opULOfCA5mATufcOSlSUe",
-              "stripeLinkId": "plink_1U9opULOfCA5mATuWlnko5Bc",
-              "stripePrix": 11.53,
-              "stripeMode": "live",
-              "stripeNom": "Bracelet labradorite 4 mm",
-              "stripeDesc": "Ce bracelet en labradorite est composé de perles aux reflets bleutés et dorés, captivants et changeants selon la lumière. La labradorite est souvent appelée pierre de magie et de transformation, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Porté au quotidien, il favorise l'équilibre émotionnel et stimule la créativité.",
-              "stripeStock": 1,
-              "epuise": false
-            },
-            {
               "id": "bracelet-labradorite-blanche-4-mm-mtekxuulf4cq",
               "nom": "Bracelet labradorite blanche 4 mm",
               "prix": 13.6,
@@ -5876,25 +5857,6 @@
               "epuise": false
             },
             {
-              "id": "bracelet-labradorite-facetee-mtmyk83jc7q1",
-              "nom": "Bracelet labradorite facetée",
-              "prix": 15.25,
-              "description": "Bouclier à part entière, la labradorite est personnellement une bonne pierre de protection pour les personnes ayant trop d' ampathie,",
-              "photo": "images/articles/bracelet-labradorite-facetee-mtmyk83j8l12.jpg",
-              "prixBoutique": 14.5,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/fZu3cw9c61Fj7IA8pH2891f",
-              "stripeProductId": "prod_VCLMpjbFAUCDWY",
-              "stripePriceId": "price_1UBwg0LOfCA5mATuT2gIpA2E",
-              "stripeLinkId": "plink_1UBwg0LOfCA5mATufE8RuOmz",
-              "stripePrix": 15.25,
-              "stripeMode": "live",
-              "stripeNom": "Bracelet labradorite facetée",
-              "stripeDesc": "Bouclier à part entière, la labradorite est personnellement une bonne pierre de protection pour les personnes ayant trop d' ampathie,",
-              "stripeStock": 1,
-              "epuise": false
-            },
-            {
               "id": "bracelet-en-acier-et-cornaline-reglable--mtn041mwqdw7",
               "nom": "Bracelet en acier et cornaline réglable 8 mm",
               "prix": 23,
@@ -7187,16 +7149,25 @@
               "photo": "images/articles/pendule-aventurine-mttrvzq85np9.jpg",
               "prixBoutique": 19.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/14A14ocoi3NrbYQaxP2892r",
               "stripeProductId": "prod_VE88Wf32D31G3a",
+              "stripePriceId": "price_1UDfs4LOfCA5mATuxBaPTEm7",
+              "stripeLinkId": "plink_1UDfs4LOfCA5mATupLJJHax5",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendule aventurine",
               "stripeDesc": "Pendule aventurine 5 cm",
-              "stripePriceId": "price_1UDfs4LOfCA5mATuxBaPTEm7",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UDfs4LOfCA5mATupLJJHax5",
-              "stripe": "https://buy.stripe.com/14A14ocoi3NrbYQaxP2892r",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendule-quartz-blanc-tourmaline-noire-mtttjxa3q4xt",
+              "nom": "Pendule quartz blanc tourmaline noire",
+              "prix": 20.83,
+              "description": "Pendule quartz blanc tourmaline noire 5 cm",
+              "photo": "images/articles/pendule-quartz-blanc-tourmaline-noire-mtttjxa3zx0s.jpg",
+              "prixBoutique": 19.9,
+              "stock": 2
             }
           ]
         },

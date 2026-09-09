@@ -2437,16 +2437,25 @@
               "photo": "images/articles/pendentif-amethyste-brut-mtu70kcari4b.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqaEYcoibfTgf68pH2892R",
               "stripeProductId": "prod_VEExKLKzhrfoYT",
+              "stripePriceId": "price_1UDmTtLOfCA5mATu0M5CSiJK",
+              "stripeLinkId": "plink_1UDmTtLOfCA5mATuT7XOumGJ",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Pendentif améthyste brut",
               "stripeDesc": "Ce pendentif en améthyste brute offre une énergie apaisante et spirituelle, idéale pour favoriser la sérénité et la concentration. Utilisée depuis longtemps en lithothérapie, l'améthyste est réputée pour ses vertus calmantes et son pouvoir de protection, aidant à équilibrer les émotions et à favoriser un sommeil réparateur. Parfait pour une touche naturelle et mystique à votre quotidien, ce bijou s’accorde avec les intentions de paix intérieure et de clarté mentale.",
-              "stripePriceId": "price_1UDmTtLOfCA5mATu0M5CSiJK",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UDmTtLOfCA5mATuT7XOumGJ",
-              "stripe": "https://buy.stripe.com/eVqaEYcoibfTgf68pH2892R",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-amethyste-mtu7a251wi7l",
+              "nom": "Pendentif amethyste",
+              "prix": 26,
+              "description": "Ce pendentif en amethyste offre une élégance naturelle grâce à sa teinte douce et apaisante. En lithothérapie, l'amethyste est souvent utilisée pour favoriser la sérénité, renforcer la concentration et équilibrer les émotions. Porté au quotidien, il est idéal pour créer une ambiance de calme et de bien-être.",
+              "photo": "images/articles/pendentif-amethyste-mtu7a252qvb3.jpg",
+              "prixBoutique": 24.9,
+              "stock": 1
             }
           ]
         },

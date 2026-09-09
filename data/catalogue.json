@@ -2132,7 +2132,17 @@
               "description": "Ce pendentif en cristal de roche goutte est une pièce élégante et intemporelle qui capte la lumière pour créer une douce énergie apaisante. En lithothérapie, le cristal de roche est souvent associé à l’amplification des intentions, à la purification des énergies et à l’harmonisation des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur connexion spirituelle ou simplement à ajouter une touche de pureté et de clarté à leur quotidien.",
               "photo": "images/articles/pendentif-cristal-de-roche-goutte-mttx02humes7.jpg",
               "prixBoutique": 18,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VEARqD7e50wmTQ",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cristal de roche goutte",
+              "stripeDesc": "Ce pendentif en cristal de roche goutte est une pièce élégante et intemporelle qui capte la lumière pour créer une douce énergie apaisante. En lithothérapie, le cristal de roche est souvent associé à l’amplification des intentions, à la purification des énergies et à l’harmonisation des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur connexion spirituelle ou simplement à ajouter une touche de pureté et de clarté à leur quotidien.",
+              "stripePriceId": "price_1UDi6cLOfCA5mATuRyDxyVcU",
+              "stripePrix": 18.87,
+              "stripeLinkId": "plink_1UDi6cLOfCA5mATuEYnMiBri",
+              "stripe": "https://buy.stripe.com/aFa7sM0FA0Bf0g8cFX2892B",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

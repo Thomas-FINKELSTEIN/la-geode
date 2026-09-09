@@ -2246,7 +2246,17 @@
               "description": "Ce pendentif en hermiker extra est une pièce unique alliant beauté naturelle et énergie apaisante. Le hermiker, pierre rare aux reflets dorés et transparents, est traditionnellement utilisé pour renforcer la confiance en soi et équilibrer les émotions. Parfait pour une touche élégante et spirituelle, il attire une énergie positive et favorise la sérénité au quotidien.",
               "photo": "images/articles/pendentif-hermiker-extra-mtu457cu0fk2.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEDf9dlgDocWS3",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif hermiker extra",
+              "stripeDesc": "Ce pendentif en hermiker extra est une pièce unique alliant beauté naturelle et énergie apaisante. Le hermiker, pierre rare aux reflets dorés et transparents, est traditionnellement utilisé pour renforcer la confiance en soi et équilibrer les émotions. Parfait pour une touche élégante et spirituelle, il attire une énergie positive et favorise la sérénité au quotidien.",
+              "stripePriceId": "price_1UDlE8LOfCA5mATuMcltI0vs",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UDlE8LOfCA5mATuGZ2SGnyY",
+              "stripe": "https://buy.stripe.com/dRm28s2NIfw94wo8pH2892H",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

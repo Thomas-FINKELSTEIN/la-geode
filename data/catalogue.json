@@ -2494,16 +2494,25 @@
               "photo": "images/articles/pendentif-om-namaste-argent-mtu7m40um61k.jpg",
               "prixBoutique": 12,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNieVeaga5Vz4wo7lD2892U",
               "stripeProductId": "prod_VEFESx5d7Mtdje",
+              "stripePriceId": "price_1UDmkFLOfCA5mATuZwEfExi7",
+              "stripeLinkId": "plink_1UDmkGLOfCA5mATue13r031E",
+              "stripePrix": 12.67,
               "stripeMode": "live",
               "stripeNom": "Pendentif OM namasté argent",
               "stripeDesc": "Pendentif OM namasté",
-              "stripePriceId": "price_1UDmkFLOfCA5mATuZwEfExi7",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1UDmkGLOfCA5mATue13r031E",
-              "stripe": "https://buy.stripe.com/cNieVeaga5Vz4wo7lD2892U",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-amethyste-grosse-goutte-mtu7prkdk28u",
+              "nom": "Pendentif améthyste grosse goutte",
+              "prix": 28.17,
+              "description": "Ce pendentif en améthyste grosse goutte est une pièce élégante et apaisante, idéale pour apporter sérénité et calme au quotidien. L'améthyste est souvent associée à la purification des énergies et à l'équilibre émotionnel, aidant à apaiser l'esprit et à favoriser un sommeil réparateur. Parfait pour une utilisation en lithothérapie ou simplement comme accessoire raffiné, il peut être porté en collier pour bénéficier de ses vertus harmonisantes tout au long de la journée.",
+              "photo": "images/articles/pendentif-amethyste-grosse-goutte-mtu7prkdu4tt.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         },

@@ -2189,7 +2189,17 @@
               "description": "Ce pendentif en hermiker extra est une pièce unique alliant beauté minérale et énergie apaisante. Le hermiker, aussi appelé quartz lacté, est réputé pour ses propriétés purifiantes et harmonisantes, aidant à apaiser les émotions et à clarifier les pensées. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent à équilibrer leur énergie et à favoriser un état de calme intérieur.",
               "photo": "images/articles/pendentif-hermiker-extra-mtu3t4zqna7a.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEDW6hNHFO7zgl",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif hermiker extra",
+              "stripeDesc": "Ce pendentif en hermiker extra est une pièce unique alliant beauté minérale et énergie apaisante. Le hermiker, aussi appelé quartz lacté, est réputé pour ses propriétés purifiantes et harmonisantes, aidant à apaiser les émotions et à clarifier les pensées. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent à équilibrer leur énergie et à favoriser un état de calme intérieur.",
+              "stripePriceId": "price_1UDl51LOfCA5mATuphgtg4Ev",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UDl51LOfCA5mATuh5Xl5Ojl",
+              "stripe": "https://buy.stripe.com/00w8wQgEy83H9QIbBT2892E",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

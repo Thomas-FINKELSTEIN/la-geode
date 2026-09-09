@@ -2684,16 +2684,25 @@
               "photo": "images/articles/pendentif-aventurine-verte-brute-mtua00jnv3vn.jpg",
               "prixBoutique": 19,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqaEY0FAabPfb235n28934",
               "stripeProductId": "prod_VEGJ2rfvBYsKVa",
+              "stripePriceId": "price_1UDnmkLOfCA5mATuq4vYJrkk",
+              "stripeLinkId": "plink_1UDnmkLOfCA5mATucf0dba0z",
+              "stripePrix": 19.9,
               "stripeMode": "live",
               "stripeNom": "Pendentif aventurine verte brute",
               "stripeDesc": "Ce pendentif en aventurine verte brute est une pièce unique et naturelle, parfaite pour apporter une touche d'énergie positive au quotidien. L'aventurine est souvent associée à la chance, à la prospérité et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Idéal pour être porté près du cœur, il est aussi utilisé en lithothérapie pour favoriser la sérénité et attirer la bonne fortune.",
-              "stripePriceId": "price_1UDnmkLOfCA5mATuq4vYJrkk",
-              "stripePrix": 19.9,
-              "stripeLinkId": "plink_1UDnmkLOfCA5mATucf0dba0z",
-              "stripe": "https://buy.stripe.com/eVqaEY0FAabPfb235n28934",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-quartz-rose-brut-mtua23si4qnt",
+              "nom": "Pendentif quartz rose brut",
+              "prix": 16.8,
+              "description": "Ce pendentif en quartz rose brut est une pièce naturelle et apaisante, idéale pour apporter douceur et harmonie dans votre quotidien. En lithothérapie, le quartz rose est souvent associé à l’ouverture du cœur, favorisant l’amour, la compassion et la guérison émotionnelle. Parfait pour porter au quotidien, il est aussi utilisé pour équilibrer les énergies et cultiver une attitude bienveillante.",
+              "photo": "images/articles/pendentif-quartz-rose-brut-mtua23sikg5s.jpg",
+              "prixBoutique": 16,
+              "stock": 1
             }
           ]
         },

@@ -2303,7 +2303,17 @@
               "description": "Ce pendentif en cristal de roche est une pièce élégante et lumineuse, parfaite pour apporter clarté et énergie positive au quotidien. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les intentions, purifier l’aura et favoriser la concentration. Son éclat naturel en fait aussi un accessoire raffiné pour sublimer votre style tout en bénéficiant de ses vertus harmonisantes.",
               "photo": "images/articles/pendentif-cristal-de-roche-avec-pointe-d-mtu4kkgwu10e.jpg",
               "prixBoutique": 25,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEDrMYwpB0qw8X",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cristal de roche avec pointe de cristal",
+              "stripeDesc": "Ce pendentif en cristal de roche est une pièce élégante et lumineuse, parfaite pour apporter clarté et énergie positive au quotidien. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les intentions, purifier l’aura et favoriser la concentration. Son éclat naturel en fait aussi un accessoire raffiné pour sublimer votre style tout en bénéficiant de ses vertus harmonisantes.",
+              "stripePriceId": "price_1UDlPlLOfCA5mATujzhXahM0",
+              "stripePrix": 26.1,
+              "stripeLinkId": "plink_1UDlPlLOfCA5mATuPuvc1nxI",
+              "stripe": "https://buy.stripe.com/fZu28s0FAgAdaUM35n2892K",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

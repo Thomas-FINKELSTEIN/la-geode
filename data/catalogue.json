@@ -3158,7 +3158,17 @@
               "description": "Ce pendentif en obsidienne oeil céleste est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur intuition et leur connexion avec l'invisible. En lithothérapie, elle est souvent utilisée pour apaiser les émotions et favoriser la protection énergétique au quotidien. Son énergie puissante en fait un allié précieux pour les personnes en quête de sérénité et de clarté mentale.",
               "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvkf1rozxba.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEbG47NkSwwIQN",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne oeil céleste",
+              "stripeDesc": "Ce pendentif en obsidienne oeil céleste est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur intuition et leur connexion avec l'invisible. En lithothérapie, elle est souvent utilisée pour apaiser les émotions et favoriser la protection énergétique au quotidien. Son énergie puissante en fait un allié précieux pour les personnes en quête de sérénité et de clarté mentale.",
+              "stripePriceId": "price_1UE84ELOfCA5mATu7VPwJqOj",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UE84ELOfCA5mATuWrmTfOlD",
+              "stripe": "https://buy.stripe.com/dRmeVecoiabP7IAdK12893z",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -3348,7 +3348,17 @@
               "description": "Ce pendentif en onyx vert allie élégance et douceur, avec une finition soignée qui met en valeur sa teinte apaisante. En lithothérapie, l'onyx vert est souvent associé à la sérénité et à l'équilibre émotionnel, aidant à apaiser les tensions et à favoriser une énergie harmonieuse au quotidien. Parfait pour être porté près du cœur, il est idéal pour ceux qui cherchent à cultiver calme et bien-être dans leur vie.",
               "photo": "images/articles/pendentif-onyx-vert-mtvlj8c5qup7.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEbmvQaiXrALen",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif onyx vert",
+              "stripeDesc": "Ce pendentif en onyx vert allie élégance et douceur, avec une finition soignée qui met en valeur sa teinte apaisante. En lithothérapie, l'onyx vert est souvent associé à la sérénité et à l'équilibre émotionnel, aidant à apaiser les tensions et à favoriser une énergie harmonieuse au quotidien. Parfait pour être porté près du cœur, il est idéal pour ceux qui cherchent à cultiver calme et bien-être dans leur vie.",
+              "stripePriceId": "price_1UE8YTLOfCA5mATuwsrX2Sij",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UE8YULOfCA5mATu4rpVNHwx",
+              "stripe": "https://buy.stripe.com/3cIbJ28822JnbYQ7lD2893K",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

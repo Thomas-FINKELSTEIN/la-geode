@@ -3197,16 +3197,25 @@
               "photo": "images/articles/pendentif-quartz-rutile-mtvl61jffc1l.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa5kEfAugAd1kcbBT2893B",
               "stripeProductId": "prod_VEbb5trvsqrHJz",
+              "stripePriceId": "price_1UE8OZLOfCA5mATuFho6h0tL",
+              "stripeLinkId": "plink_1UE8OZLOfCA5mATuDdOpuH8A",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz rutile",
               "stripeDesc": "Ce pendentif en quartz rutile est une pierre aux reflets dorés et énergétiques, idéale pour stimuler la vitalité et renforcer la concentration. En lithothérapie, elle est souvent utilisée pour dynamiser le corps et l’esprit, tout en favorisant un sentiment de confiance et de motivation au quotidien. Son éclat lumineux en fait aussi un accessoire élégant et porte-bonheur.",
-              "stripePriceId": "price_1UE8OZLOfCA5mATuFho6h0tL",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UE8OZLOfCA5mATuDdOpuH8A",
-              "stripe": "https://buy.stripe.com/aFa5kEfAugAd1kcbBT2893B",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-quartz-blanc-tourmaline-noire-mtvl7pis0w7a",
+              "nom": "Pendentif quartz blanc tourmaline noire",
+              "prix": 21.97,
+              "description": "Ce pendentif associe la pureté et l'énergie apaisante du quartz blanc, souvent utilisé pour favoriser la clarté mentale et la protection énergétique. La tourmaline noire, quant à elle, est réputée pour absorber les énergies négatives et renforcer la stabilité émotionnelle. Parfait pour un port quotidien, il apporte équilibre et sérénité au quotidien.",
+              "photo": "images/articles/pendentif-quartz-blanc-tourmaline-noire-mtvl7pisk5nj.jpg",
+              "prixBoutique": 21,
+              "stock": 1
             }
           ]
         },

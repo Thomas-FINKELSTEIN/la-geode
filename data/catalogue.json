@@ -3899,7 +3899,17 @@
               "description": "Ce pendentif en jaspe brechique est une pierre aux reflets riches et variés, mêlant des teintes chaudes et des motifs organiques captivants. En lithothérapie, le jaspe brechique est souvent associé à la stabilité émotionnelle et à la connexion avec la terre, aidant à ancrer les énergies et à renforcer la confiance en soi. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent un équilibre entre force intérieure et sérénité.",
               "photo": "images/articles/pendentif-jaspe-brechnique-mtvqehz5zl5a.jpg",
               "prixBoutique": 25,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEdyp4y7VVsi5O",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe brechnique",
+              "stripeDesc": "Ce pendentif en jaspe brechique est une pierre aux reflets riches et variés, mêlant des teintes chaudes et des motifs organiques captivants. En lithothérapie, le jaspe brechique est souvent associé à la stabilité émotionnelle et à la connexion avec la terre, aidant à ancrer les énergies et à renforcer la confiance en soi. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent un équilibre entre force intérieure et sérénité.",
+              "stripePriceId": "price_1UEAgNLOfCA5mATuNq1hAK8a",
+              "stripePrix": 26.1,
+              "stripeLinkId": "plink_1UEAgNLOfCA5mATu2luo8cPE",
+              "stripe": "https://buy.stripe.com/00w4gA2NI0BfbYQ7lD28a0f",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

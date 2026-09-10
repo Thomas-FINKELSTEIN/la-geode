@@ -3311,16 +3311,25 @@
               "photo": "images/articles/pendentif-quartz-rutile-merkaba-mtvlfjwn3m2z.jpg",
               "prixBoutique": 16,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe5kEfAudo15AscFX2893I",
               "stripeProductId": "prod_VEbjEFt9zhdbm7",
+              "stripePriceId": "price_1UE8VmLOfCA5mATu9AOXol4Q",
+              "stripeLinkId": "plink_1UE8VmLOfCA5mATuHTsSWlKH",
+              "stripePrix": 16.8,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz rutile merkaba",
               "stripeDesc": "Ce pendentif en quartz rutile Merkaba est une pièce unique alliant beauté minérale et énergie puissante. Le quartz rutile est réputé pour renforcer la vitalité, stimuler la concentration et équilibrer les chakras, tout en apportant une protection énergétique subtile. Parfait pour une utilisation quotidienne, il se porte en collier pour bénéficier de ses propriétés harmonisantes et dynamisantes.",
-              "stripePriceId": "price_1UE8VmLOfCA5mATu9AOXol4Q",
-              "stripePrix": 16.8,
-              "stripeLinkId": "plink_1UE8VmLOfCA5mATuHTsSWlKH",
-              "stripe": "https://buy.stripe.com/bJe5kEfAudo15AscFX2893I",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-quartz-rutile-mtvlhimkpery",
+              "nom": "Pendentif quartz rutile",
+              "prix": 25.07,
+              "description": "Ce pendentif en quartz rutile est une pierre aux reflets dorés et énergétiques, idéale pour dynamiser votre quotidien. En lithothérapie, il est souvent utilisé pour renforcer la vitalité, stimuler la motivation et équilibrer les émotions. Parfait à porter près du cœur ou à méditer avec, il apporte une touche de lumière et d’optimisme.",
+              "photo": "images/articles/pendentif-quartz-rutile-mtvlhimk7v4r.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

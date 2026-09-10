@@ -3406,16 +3406,25 @@
               "photo": "images/articles/pendentif-shungite-mtvm4z19zjur.jpg",
               "prixBoutique": 29.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa3cwaga83Hd2UgWd2893N",
               "stripeProductId": "prod_VEc2zo0hQvtIjB",
+              "stripePriceId": "price_1UE8osLOfCA5mATuAwnb48rB",
+              "stripeLinkId": "plink_1UE8otLOfCA5mATunMRkIgTk",
+              "stripePrix": 31.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif shungite",
               "stripeDesc": "Le pendentif en shungite est un accessoire élégant et mystérieux, apprécié pour ses propriétés énergétiques uniques. Selon la lithothérapie, cette pierre noire absorberait les ondes électromagnétiques et purifierait l’énergie environnante, favorisant ainsi un équilibre intérieur et une protection subtile. Idéal pour accompagner votre quotidien, il se porte près de la peau pour en bénéficier pleinement.",
-              "stripePriceId": "price_1UE8osLOfCA5mATuAwnb48rB",
-              "stripePrix": 31.17,
-              "stripeLinkId": "plink_1UE8otLOfCA5mATunMRkIgTk",
-              "stripe": "https://buy.stripe.com/aFa3cwaga83Hd2UgWd2893N",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-shungite-mtvm6xmmxusa",
+              "nom": "Pendentif shungite",
+              "prix": 28.17,
+              "description": "Ce pendentif en shungite est une pièce unique alliant élégance et propriétés énergétiques remarquables. La shungite est réputée pour ses vertus purificatrices, aidant à absorber les ondes électromagnétiques et à équilibrer l’énergie du corps. Parfaite pour une utilisation quotidienne, elle est idéale pour ceux qui recherchent un bien-être accru et une protection subtile dans leur quotidien.",
+              "photo": "images/articles/pendentif-shungite-mtvm6xmmi5bt.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         },

@@ -3215,7 +3215,17 @@
               "description": "Ce pendentif associe la pureté et l'énergie apaisante du quartz blanc, souvent utilisé pour favoriser la clarté mentale et la protection énergétique. La tourmaline noire, quant à elle, est réputée pour absorber les énergies négatives et renforcer la stabilité émotionnelle. Parfait pour un port quotidien, il apporte équilibre et sérénité au quotidien.",
               "photo": "images/articles/pendentif-quartz-blanc-tourmaline-noire-mtvl7pisk5nj.jpg",
               "prixBoutique": 21,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEbdzxxuYWYAyK",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz blanc tourmaline noire",
+              "stripeDesc": "Ce pendentif associe la pureté et l'énergie apaisante du quartz blanc, souvent utilisé pour favoriser la clarté mentale et la protection énergétique. La tourmaline noire, quant à elle, est réputée pour absorber les énergies négatives et renforcer la stabilité émotionnelle. Parfait pour un port quotidien, il apporte équilibre et sérénité au quotidien.",
+              "stripePriceId": "price_1UE8PoLOfCA5mATuwpzd7tMa",
+              "stripePrix": 21.97,
+              "stripeLinkId": "plink_1UE8PpLOfCA5mATuBJxAo8Tn",
+              "stripe": "https://buy.stripe.com/bJe3cw0FA97Ld2U5dv2893C",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -3083,16 +3083,25 @@
               "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvjybis4u4g.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq14o73YcjX4wo8pH2893v",
               "stripeProductId": "prod_VEb3xFbBFq95kg",
+              "stripePriceId": "price_1UE7rcLOfCA5mATu2jphIeM2",
+              "stripeLinkId": "plink_1UE7rdLOfCA5mATuyJ43BsLH",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne oeil céleste",
               "stripeDesc": "Ce pendentif en obsidienne oeil céleste est une pièce unique aux reflets profonds et mystérieux. L'obsidienne est souvent utilisée en lithothérapie pour ses propriétés de protection et de renforcement de la confiance en soi. Elle aide à libérer les blocages émotionnels et favorise une connexion plus forte avec son intuition, tout en apportant une énergie apaisante et équilibrante au quotidien.",
-              "stripePriceId": "price_1UE7rcLOfCA5mATu2jphIeM2",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UE7rdLOfCA5mATuyJ43BsLH",
-              "stripe": "https://buy.stripe.com/eVq14o73YcjX4wo8pH2893v",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-mtvk0mxhmjha",
+              "nom": "Pendentif obsidienne",
+              "prix": 40.57,
+              "description": "Ce pendentif en obsidienne, pierre aux reflets profonds et mystérieux, est un allié puissant pour ceux qui cherchent à apaiser les émotions et à libérer les tensions intérieures. Utilisée en lithothérapie pour son énergie protectrice et équilibrante, l'obsidienne aide à transformer les peines en force et favorise une meilleure connexion avec soi-même. Parfait pour être porté au quotidien, il attire aussi la chance et renforce la confiance en ses choix.",
+              "photo": "images/articles/pendentif-obsidienne-mtvk0mxhb25i.jpg",
+              "prixBoutique": 39,
+              "stock": 1
             }
           ]
         },

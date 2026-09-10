@@ -3690,7 +3690,17 @@
               "description": "Ce collier en hématite est un accessoire élégant et intemporel, composé de perles noires et de pierres naturelles aux reflets dorés. L'hématite est souvent utilisée en lithothérapie pour ses propriétés équilibrantes, aidant à ancrer l'énergie et à renforcer la concentration. Porté au quotidien, il est idéal pour ceux qui cherchent à apaiser le mental et à retrouver un sentiment de stabilité émotionnelle.",
               "photo": "images/articles/pendentif-collier-hematite-mtvol8culxl3.jpg",
               "prixBoutique": 12.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEd944WmkThaOi",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif collier hématite",
+              "stripeDesc": "Ce collier en hématite est un accessoire élégant et intemporel, composé de perles noires et de pierres naturelles aux reflets dorés. L'hématite est souvent utilisée en lithothérapie pour ses propriétés équilibrantes, aidant à ancrer l'énergie et à renforcer la concentration. Porté au quotidien, il est idéal pour ceux qui cherchent à apaiser le mental et à retrouver un sentiment de stabilité émotionnelle.",
+              "stripePriceId": "price_1UE9tGLOfCA5mATu8jCOn57q",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1UE9tGLOfCA5mATuQeVdHMei",
+              "stripe": "https://buy.stripe.com/cNidRagEy3NraUM49r28945",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -2845,16 +2845,25 @@
               "photo": "images/articles/pendentif-om-namaste-mtv8eu3zi9nv.jpg",
               "prixBoutique": 15,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm4gA0FA4Rv3sk9tL2893e",
               "stripeProductId": "prod_VEVqJFyTaPD7kJ",
+              "stripePriceId": "price_1UE2owLOfCA5mATujtHFlpJG",
+              "stripeLinkId": "plink_1UE2owLOfCA5mATuUv8WIMIa",
+              "stripePrix": 15.77,
               "stripeMode": "live",
               "stripeNom": "Pendentif OM namasté",
               "stripeDesc": "Pendentif argent OM namasté argent",
-              "stripePriceId": "price_1UE2owLOfCA5mATujtHFlpJG",
-              "stripePrix": 15.77,
-              "stripeLinkId": "plink_1UE2owLOfCA5mATuUv8WIMIa",
-              "stripe": "https://buy.stripe.com/dRm4gA0FA4Rv3sk9tL2893e",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-7-chakras-mtv8pmuvu5ob",
+              "nom": "Pendentif 7 chakras",
+              "prix": 13.18,
+              "description": "Pendentif 7 chakras",
+              "photo": "images/articles/pendentif-7-chakras-mtv8pmuvlowq.jpg",
+              "prixBoutique": 12.5,
+              "stock": 2
             }
           ]
         },

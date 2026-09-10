@@ -3026,16 +3026,25 @@
               "photo": "images/articles/pendentif-obsidienne-mtvjn96kmo5d.jpg",
               "prixBoutique": 22,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/fZu4gAcoiabPgf6cFX2893r",
               "stripeProductId": "prod_VEavq7maJQ9Kjw",
+              "stripePriceId": "price_1UE7jMLOfCA5mATuYrTF1598",
+              "stripeLinkId": "plink_1UE7jMLOfCA5mATugPy0ZAkB",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne",
               "stripeDesc": "Ce pendentif en obsidienne est une pièce puissante et mystérieuse, souvent utilisée pour ses propriétés protectrices et équilibrantes. Selon la lithothérapie, cette pierre volcanique noire aide à libérer les blocages émotionnels et favorise une connexion profonde avec son intuition. Parfaite pour ceux qui cherchent à renforcer leur énergie spirituelle et à apaiser l’esprit, elle est idéale à porter au quotidien pour un bien-être intérieur renforcé.",
-              "stripePriceId": "price_1UE7jMLOfCA5mATuYrTF1598",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UE7jMLOfCA5mATugPy0ZAkB",
-              "stripe": "https://buy.stripe.com/fZu4gAcoiabPgf6cFX2893r",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-mtvjqd1vom5r",
+              "nom": "Pendentif obsidienne",
+              "prix": 25.07,
+              "description": "Ce pendentif en obsidienne est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur protection énergétique. En lithothérapie, l'obsidienne est souvent utilisée pour absorber les énergies négatives et favoriser la stabilité émotionnelle. Elle aide aussi à clarifier les pensées et à renforcer la confiance en soi, tout en apportant une touche élégante et spirituelle à votre quotidien.",
+              "photo": "images/articles/pendentif-obsidienne-mtvjqd1vd0gg.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

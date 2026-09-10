@@ -2950,16 +2950,25 @@
               "photo": "images/articles/pendentif-obsidienne-doree-mtvboudgxi7o.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu8wQcoi1Fjd2U6hz2893l",
               "stripeProductId": "prod_VEXKwA9XCxg0bA",
+              "stripePriceId": "price_1UE4FlLOfCA5mATu7HqDvAWS",
+              "stripeLinkId": "plink_1UE4FlLOfCA5mATuRW6zPuGU",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne dorée",
               "stripeDesc": "Ce pendentif en obsidienne dorée est une pièce élégante et mystérieuse, idéale pour apporter une touche d'énergie protectrice à vos tenues. L'obsidienne est souvent utilisée en lithothérapie pour ses propriétés de purification et de renforcement spirituel, aidant à libérer les blocages émotionnels et à favoriser un retour à l'équilibre intérieur. Son éclat profond en fait aussi un accessoire raffiné pour sublimer votre style au quotidien.",
-              "stripePriceId": "price_1UE4FlLOfCA5mATu7HqDvAWS",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UE4FlLOfCA5mATuRW6zPuGU",
-              "stripe": "https://buy.stripe.com/fZu8wQcoi1Fjd2U6hz2893l",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-noire-mtvbs48d6x38",
+              "nom": "Pendentif obsidienne noire",
+              "prix": 25.07,
+              "description": "Ce pendentif en obsidienne noire est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur protection énergétique. En lithothérapie, l'obsidienne noire est souvent utilisée pour absorber les énergies négatives et favoriser la stabilité émotionnelle. Elle est aussi appréciée pour son pouvoir de purification et de recentrage, aidant à retrouver un équilibre intérieur.",
+              "photo": "images/articles/pendentif-obsidienne-noire-mtvbs48d7w05.jpg",
+              "prixBoutique": 24,
+              "stock": 7
             }
           ]
         },

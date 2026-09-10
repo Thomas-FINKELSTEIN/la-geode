@@ -3558,16 +3558,25 @@
               "photo": "images/articles/pendentif-obsidienne-mtvn7mp7a5ki.jpg",
               "prixBoutique": 29,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/14AcN64VQ2Jne6Y9tL2893X",
               "stripeProductId": "prod_VEcXR8ssCRo0QR",
+              "stripePriceId": "price_1UE9I4LOfCA5mATug5LYMNNE",
+              "stripeLinkId": "plink_1UE9I4LOfCA5mATu1TvlGKMy",
+              "stripePrix": 30.24,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne",
               "stripeDesc": "Ce pendentif en obsidienne est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur protection énergétique. Utilisée en lithothérapie pour apaiser les émotions et favoriser la stabilité intérieure, elle aide à libérer les tensions et à retrouver un équilibre mental. Parfaite pour être portée au quotidien, elle accompagne aussi bien les moments de méditation que les transitions de la vie.",
-              "stripePriceId": "price_1UE9I4LOfCA5mATug5LYMNNE",
-              "stripePrix": 30.24,
-              "stripeLinkId": "plink_1UE9I4LOfCA5mATu1TvlGKMy",
-              "stripe": "https://buy.stripe.com/14AcN64VQ2Jne6Y9tL2893X",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-shungite-mtvn9g5gecj3",
+              "nom": "Pendentif shungite",
+              "prix": 30.24,
+              "description": "Ce pendentif en shungite est un allié précieux pour protéger votre énergie au quotidien. La shungite est réputée pour ses propriétés purificatrices et équilibrantes, aidant à absorber les ondes négatives et à renforcer le bien-être émotionnel. Parfait pour une utilisation en lithothérapie, il peut être porté en collier ou simplement tenu en méditation pour favoriser la détente et la connexion à soi.",
+              "photo": "images/articles/pendentif-shungite-mtvn9g5gw6n3.jpg",
+              "prixBoutique": 29,
+              "stock": 2
             }
           ]
         },

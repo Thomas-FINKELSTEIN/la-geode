@@ -3500,7 +3500,17 @@
               "description": "Ce pendentif en oeil de tigre brut est une pièce unique et naturelle, aux reflets dorés et aux motifs organiques captivants. En lithothérapie, l’oeil de tigre est souvent associé à la protection, au courage et à l’équilibre des énergies, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Parfait pour une décoration bohème ou un accessoire spirituel, il apporte une touche d’authenticité et de puissance positive au quotidien.",
               "photo": "images/articles/pendentif-oeil-de-tigre-brut-mtvn2sqbs0n5.jpg",
               "prixBoutique": 14,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEcTs7IrrEUW1G",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif oeil de tigre brut",
+              "stripeDesc": "Ce pendentif en oeil de tigre brut est une pièce unique et naturelle, aux reflets dorés et aux motifs organiques captivants. En lithothérapie, l’oeil de tigre est souvent associé à la protection, au courage et à l’équilibre des énergies, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Parfait pour une décoration bohème ou un accessoire spirituel, il apporte une touche d’authenticité et de puissance positive au quotidien.",
+              "stripePriceId": "price_1UE9EKLOfCA5mATuA120I2kK",
+              "stripePrix": 14.73,
+              "stripeLinkId": "plink_1UE9ELLOfCA5mATusj1HMwSD",
+              "stripe": "https://buy.stripe.com/14A5kEdsm1Fj1kc8pH2893U",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

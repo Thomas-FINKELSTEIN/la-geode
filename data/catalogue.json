@@ -3272,7 +3272,17 @@
               "description": "Ce pendentif en quartz rutile allie élégance et énergie positive. Le quartz rutile est réputé pour renforcer la vitalité, stimuler la concentration et équilibrer les émotions. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent à dynamiser leur journée tout en apportant une touche de raffinement à leur tenue.",
               "photo": "images/articles/pendentif-quartz-rutile-mtvlchdwanxa.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEbgYvs9kuyxWN",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz rutile",
+              "stripeDesc": "Ce pendentif en quartz rutile allie élégance et énergie positive. Le quartz rutile est réputé pour renforcer la vitalité, stimuler la concentration et équilibrer les émotions. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent à dynamiser leur journée tout en apportant une touche de raffinement à leur tenue.",
+              "stripePriceId": "price_1UE8TPLOfCA5mATuU12zNn3n",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UE8TPLOfCA5mATulv9Y9QDd",
+              "stripe": "https://buy.stripe.com/00w8wQ1JEgAd7IA8pH2893G",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

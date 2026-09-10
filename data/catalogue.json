@@ -3482,16 +3482,25 @@
               "photo": "images/articles/pendentif-croix-en-grenat-mtvn111oca6k.jpg",
               "prixBoutique": 28,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNiaEYcoiabPe6YfS92893T",
               "stripeProductId": "prod_VEcRf85hEa0AiE",
+              "stripePriceId": "price_1UE9D2LOfCA5mATu7mW7aQIv",
+              "stripeLinkId": "plink_1UE9D2LOfCA5mATus1L9b5wa",
+              "stripePrix": 29.2,
               "stripeMode": "live",
               "stripeNom": "Pendentif croix en grenat",
               "stripeDesc": "",
-              "stripePriceId": "price_1UE9D2LOfCA5mATu7mW7aQIv",
-              "stripePrix": 29.2,
-              "stripeLinkId": "plink_1UE9D2LOfCA5mATus1L9b5wa",
-              "stripe": "https://buy.stripe.com/cNiaEYcoiabPe6YfS92893T",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-oeil-de-tigre-brut-mtvn2sqblk4s",
+              "nom": "Pendentif oeil de tigre brut",
+              "prix": 14.73,
+              "description": "Ce pendentif en oeil de tigre brut est une pièce unique et naturelle, aux reflets dorés et aux motifs organiques captivants. En lithothérapie, l’oeil de tigre est souvent associé à la protection, au courage et à l’équilibre des énergies, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Parfait pour une décoration bohème ou un accessoire spirituel, il apporte une touche d’authenticité et de puissance positive au quotidien.",
+              "photo": "images/articles/pendentif-oeil-de-tigre-brut-mtvn2sqbs0n5.jpg",
+              "prixBoutique": 14,
+              "stock": 1
             }
           ]
         },

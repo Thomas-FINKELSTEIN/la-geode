@@ -3519,7 +3519,17 @@
               "description": "Ce pendentif en cornaline brute est une pierre naturelle aux reflets chauds et aux teintes variées, offrant une énergie vitale et stimulante. En lithothérapie, elle est souvent associée à la confiance en soi, à la motivation et à la protection contre les énergies négatives. Parfaite pour porter au quotidien, elle est idéale pour ceux qui cherchent à renforcer leur vitalité et leur courage.",
               "photo": "images/articles/pendentif-cornaline-brut-mtvn4ucsrn8o.jpg",
               "prixBoutique": 19,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEcUjBYrgvMHyS",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cornaline brut",
+              "stripeDesc": "Ce pendentif en cornaline brute est une pierre naturelle aux reflets chauds et aux teintes variées, offrant une énergie vitale et stimulante. En lithothérapie, elle est souvent associée à la confiance en soi, à la motivation et à la protection contre les énergies négatives. Parfaite pour porter au quotidien, elle est idéale pour ceux qui cherchent à renforcer leur vitalité et leur courage.",
+              "stripePriceId": "price_1UE9FrLOfCA5mATuE4BiYC6b",
+              "stripePrix": 19.9,
+              "stripeLinkId": "plink_1UE9FrLOfCA5mATuXVAZWbUL",
+              "stripe": "https://buy.stripe.com/14AdRa9c61Fjgf67lD2893V",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

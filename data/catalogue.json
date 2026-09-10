@@ -3785,7 +3785,17 @@
               "description": "Ce pendentif en citrine est une pièce élégante et lumineuse qui capte immédiatement l'attention. La citrine est souvent appelée la pierre de la joie et de la prospérité, idéale pour apporter énergie positive et optimisme au quotidien. En lithothérapie, elle est utilisée pour renforcer la confiance en soi, attirer l'abondance et éclaircir les pensées, tout en apaisant les émotions.",
               "photo": "images/articles/pendentif-citrine-mtvp3rnqtup4.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEdOGpfyjlMYJQ",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif citrine",
+              "stripeDesc": "Ce pendentif en citrine est une pièce élégante et lumineuse qui capte immédiatement l'attention. La citrine est souvent appelée la pierre de la joie et de la prospérité, idéale pour apporter énergie positive et optimisme au quotidien. En lithothérapie, elle est utilisée pour renforcer la confiance en soi, attirer l'abondance et éclaircir les pensées, tout en apaisant les émotions.",
+              "stripePriceId": "price_1UEA7HLOfCA5mATuzSDpuxx5",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UEA7ILOfCA5mATuMeZUzrwN",
+              "stripe": "https://buy.stripe.com/28E8wQfAu4Rv7IAaxP28a04",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

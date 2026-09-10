@@ -3729,16 +3729,25 @@
               "photo": "images/articles/pend-collier-quartz-fume-nacre-mtvoxicf9gzk.jpg",
               "prixBoutique": 13.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/bJedRa2NI1Fjd2UdK128a01",
               "stripeProductId": "prod_VEdJ2AhanCLB0D",
+              "stripePriceId": "price_1UEA2VLOfCA5mATuVWd49YOc",
+              "stripeLinkId": "plink_1UEA2WLOfCA5mATuaBu8Oa1T",
+              "stripePrix": 14.22,
               "stripeMode": "live",
               "stripeNom": "Pend Collier quartz fumé nacre",
               "stripeDesc": "Ce collier en quartz fumé nacre allie l'élégance des perles nacrées et l'énergie apaisante du quartz fumé. Traditionnellement utilisé pour purifier l'énergie et favoriser la concentration, il est idéal pour ceux qui cherchent à équilibrer leurs émotions et à renforcer leur ancrage. Parfait pour un usage quotidien, il apporte une touche sophistiquée tout en offrant un bien-être intérieur.",
-              "stripePriceId": "price_1UEA2VLOfCA5mATuVWd49YOc",
-              "stripePrix": 14.22,
-              "stripeLinkId": "plink_1UEA2WLOfCA5mATuaBu8Oa1T",
-              "stripe": "https://buy.stripe.com/bJedRa2NI1Fjd2UdK128a01",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "collier-en-rhodonite-baroque-mtvp0tg0ce02",
+              "nom": "Collier en rhodonite baroque",
+              "prix": 26,
+              "description": "Ce bracelet en rhodonite baroque allie élégance et douceur grâce à ses pierres aux reflets roses et noirs. La rhodonite est souvent appelée la pierre du réconfort, aidant à apaiser les émotions et à renforcer la compassion envers soi-même et les autres. Porté au quotidien, il favorise l'équilibre émotionnel et une énergie positive, tout en rappelant la beauté des contrastes dans la vie.",
+              "photo": "images/articles/collier-en-rhodonite-baroque-mtvp0tg0k7le.jpg",
+              "prixBoutique": 24.9,
+              "stock": 1
             }
           ]
         },

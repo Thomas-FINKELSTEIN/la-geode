@@ -3975,7 +3975,17 @@
               "description": "Ce pendentif en tourmaline noire est une pierre aux énergies puissantes, souvent utilisée pour absorber les énergies négatives et protéger l'aura. En lithothérapie, elle est réputée pour favoriser la stabilité émotionnelle et renforcer la confiance en soi. Parfaite pour un port quotidien, elle accompagne aussi bien les moments de stress que les recherches de recentrage et d'équilibre intérieur.",
               "photo": "images/articles/pendentif-tourmaline-noire-mtvqx3rmr3t0.jpg",
               "prixBoutique": 29,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEeCLvMhZQpuq5",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif tourmaline noire",
+              "stripeDesc": "Ce pendentif en tourmaline noire est une pierre aux énergies puissantes, souvent utilisée pour absorber les énergies négatives et protéger l'aura. En lithothérapie, elle est réputée pour favoriser la stabilité émotionnelle et renforcer la confiance en soi. Parfaite pour un port quotidien, elle accompagne aussi bien les moments de stress que les recherches de recentrage et d'équilibre intérieur.",
+              "stripePriceId": "price_1UEAuPLOfCA5mATusyUcIJaR",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UEAuPLOfCA5mATujCfJ7dJt",
+              "stripe": "https://buy.stripe.com/8x2dRa1JEabPe6Y49r28a0k",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -3178,16 +3178,25 @@
               "photo": "images/articles/pendentif-obsidienne-mtvkgr45izgf.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/fZufZi882cjX7IA0Xf2893A",
               "stripeProductId": "prod_VEbI2muUbv32Fa",
+              "stripePriceId": "price_1UE85YLOfCA5mATuib4rXsXx",
+              "stripeLinkId": "plink_1UE85YLOfCA5mATuY11giAwH",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne",
               "stripeDesc": "Ce pendentif en obsidienne, pierre de protection et de purification, est un allié puissant pour apaiser les émotions et renforcer la stabilité intérieure. Utilisée depuis des siècles en lithothérapie, l'obsidienne absorbe les énergies négatives et favorise un retour à l'équilibre. Parfaite pour être portée au quotidien, elle aide aussi à canaliser les pensées et à renforcer la confiance en soi.",
-              "stripePriceId": "price_1UE85YLOfCA5mATuib4rXsXx",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UE85YLOfCA5mATuY11giAwH",
-              "stripe": "https://buy.stripe.com/fZufZi882cjX7IA0Xf2893A",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-quartz-rutile-mtvl61jfccgf",
+              "nom": "Pendentif quartz rutile",
+              "prix": 25.07,
+              "description": "Ce pendentif en quartz rutile est une pierre aux reflets dorés et énergétiques, idéale pour stimuler la vitalité et renforcer la concentration. En lithothérapie, elle est souvent utilisée pour dynamiser le corps et l’esprit, tout en favorisant un sentiment de confiance et de motivation au quotidien. Son éclat lumineux en fait aussi un accessoire élégant et porte-bonheur.",
+              "photo": "images/articles/pendentif-quartz-rutile-mtvl61jffc1l.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

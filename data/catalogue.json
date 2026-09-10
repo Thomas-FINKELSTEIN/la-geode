@@ -3006,7 +3006,17 @@
               "description": "Ce pendentif en obsidienne est une pierre aux énergies puissantes et protectrices, souvent utilisée pour absorber les énergies négatives et favoriser la stabilité émotionnelle. Son éclat profond en fait un allié idéal pour renforcer la confiance en soi et apaiser les esprits tourmentés. Parfaite pour une utilisation quotidienne, elle est aussi prisée pour ses propriétés de purification et de recentrage.",
               "photo": "images/articles/pendentif-obsidienne-mtvc6w14kdrn.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEXY473ca6OjUm",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne",
+              "stripeDesc": "Ce pendentif en obsidienne est une pierre aux énergies puissantes et protectrices, souvent utilisée pour absorber les énergies négatives et favoriser la stabilité émotionnelle. Son éclat profond en fait un allié idéal pour renforcer la confiance en soi et apaiser les esprits tourmentés. Parfaite pour une utilisation quotidienne, elle est aussi prisée pour ses propriétés de purification et de recentrage.",
+              "stripePriceId": "price_1UE4TMLOfCA5mATuwN4fpFFn",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UE4TNLOfCA5mATuWd08rXTI",
+              "stripe": "https://buy.stripe.com/bJe5kEcoiabP9QI6hz2893p",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

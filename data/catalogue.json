@@ -2892,7 +2892,17 @@
               "description": "Pendentif oeil céleste triangulaire",
               "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvbhnli4410.jpg",
               "prixBoutique": 22,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEXEYPKGx67nn2",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne oeil céleste",
+              "stripeDesc": "Pendentif oeil céleste triangulaire",
+              "stripePriceId": "price_1UE4ANLOfCA5mATu8M1wETD9",
+              "stripePrix": 23,
+              "stripeLinkId": "plink_1UE4ANLOfCA5mATu9FSwcSAT",
+              "stripe": "https://buy.stripe.com/4gM9AU8823Nr8MEgWd2893i",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

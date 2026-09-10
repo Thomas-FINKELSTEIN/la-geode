@@ -3994,7 +3994,17 @@
               "description": "Ce pendentif en jaspe rouge goutte est une pierre naturelle aux reflets profonds et apaisants. Associée traditionnellement à la stabilité émotionnelle et à la vitalité, elle est souvent utilisée pour renforcer la confiance en soi et équilibrer les énergies. Parfaite pour une touche élégante et porteuse de bien-être au quotidien, elle s’intègre aussi bien dans une tenue habillée que dans une ambiance zen.",
               "photo": "images/articles/pendentif-jaspe-rouge-goutte-mtvqycqzef5x.jpg",
               "prixBoutique": 18,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VEeDRpvG4DjgXl",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe rouge goutte",
+              "stripeDesc": "Ce pendentif en jaspe rouge goutte est une pierre naturelle aux reflets profonds et apaisants. Associée traditionnellement à la stabilité émotionnelle et à la vitalité, elle est souvent utilisée pour renforcer la confiance en soi et équilibrer les énergies. Parfaite pour une touche élégante et porteuse de bien-être au quotidien, elle s’intègre aussi bien dans une tenue habillée que dans une ambiance zen.",
+              "stripePriceId": "price_1UEAvMLOfCA5mATuZNCdfEZ1",
+              "stripePrix": 18.87,
+              "stripeLinkId": "plink_1UEAvMLOfCA5mATu0fsVFL8q",
+              "stripe": "https://buy.stripe.com/eVq7sM882cjX5As6hz28a0l",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

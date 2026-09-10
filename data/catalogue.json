@@ -2829,15 +2829,6 @@
               "epuise": false
             },
             {
-              "id": "pendentif-om-namaste-mtv8dkq8l59x",
-              "nom": "Pendentif OM namaste",
-              "prix": null,
-              "description": "",
-              "photo": null,
-              "prixBoutique": null,
-              "stock": null
-            },
-            {
               "id": "pendentif-om-namaste-mtv8eu3zb6ru",
               "nom": "Pendentif OM namasté",
               "prix": 15.77,
@@ -2874,6 +2865,15 @@
               "stripeDesc": "Pendentif 7 chakras",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-mtvbf3rwlwga",
+              "nom": "Pendentif obsidienne",
+              "prix": 28.17,
+              "description": "Pendentif obsidienne 6 cm",
+              "photo": "images/articles/pendentif-obsidienne-mtvbf3rw14b5.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         },

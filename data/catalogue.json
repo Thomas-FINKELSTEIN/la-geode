@@ -3804,7 +3804,17 @@
               "description": "Collier en coquillage fantaisie",
               "photo": "images/articles/collier-coquillage-mtvp5v9qhb9r.jpg",
               "prixBoutique": 9.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VEdPo2S65lytOy",
+              "stripeMode": "live",
+              "stripeNom": "Collier coquillage",
+              "stripeDesc": "Collier en coquillage fantaisie",
+              "stripePriceId": "price_1UEA8pLOfCA5mATuzmbDKmwe",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UEA8pLOfCA5mATuo65h1x1h",
+              "stripe": "https://buy.stripe.com/fZudRa4VQbfTbYQaxP28a05",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

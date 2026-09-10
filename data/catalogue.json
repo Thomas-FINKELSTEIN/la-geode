@@ -3633,7 +3633,17 @@
               "description": "Ce pendentif en shungite, une pierre rare aux reflets mystérieux, est un allié précieux pour protéger votre énergie au quotidien. Reconnue pour ses propriétés absorbantes et équilibrantes, la shungite aide à purifier l’environnement électromagnétique et favorise un état de calme intérieur. Parfait pour être porté en collier ou offert en cadeau bienveillant, il s’intègre facilement dans une routine de bien-être ou de méditation.",
               "photo": "images/articles/pendentif-canon-en-shungite-mtvnhmxgw24v.jpg",
               "prixBoutique": 29,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VEcetDrRMpYP75",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif canon en shungite",
+              "stripeDesc": "Ce pendentif en shungite, une pierre rare aux reflets mystérieux, est un allié précieux pour protéger votre énergie au quotidien. Reconnue pour ses propriétés absorbantes et équilibrantes, la shungite aide à purifier l’environnement électromagnétique et favorise un état de calme intérieur. Parfait pour être porté en collier ou offert en cadeau bienveillant, il s’intègre facilement dans une routine de bien-être ou de méditation.",
+              "stripePriceId": "price_1UE9PVLOfCA5mATujjYt6gve",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UE9PVLOfCA5mATuqhZ5wE8q",
+              "stripe": "https://buy.stripe.com/3cIaEYfAu4RvbYQ7lD28942",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

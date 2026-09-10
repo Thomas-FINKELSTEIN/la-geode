@@ -3424,7 +3424,17 @@
               "description": "Ce pendentif en shungite est une pièce unique alliant élégance et propriétés énergétiques remarquables. La shungite est réputée pour ses vertus purificatrices, aidant à absorber les ondes électromagnétiques et à équilibrer l’énergie du corps. Parfaite pour une utilisation quotidienne, elle est idéale pour ceux qui recherchent un bien-être accru et une protection subtile dans leur quotidien.",
               "photo": "images/articles/pendentif-shungite-mtvm6xmmi5bt.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEc4zdO5sN1fDt",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif shungite",
+              "stripeDesc": "Ce pendentif en shungite est une pièce unique alliant élégance et propriétés énergétiques remarquables. La shungite est réputée pour ses vertus purificatrices, aidant à absorber les ondes électromagnétiques et à équilibrer l’énergie du corps. Parfaite pour une utilisation quotidienne, elle est idéale pour ceux qui recherchent un bien-être accru et une protection subtile dans leur quotidien.",
+              "stripePriceId": "price_1UE8qMLOfCA5mATuAF9vyxlf",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UE8qNLOfCA5mATuDvORAvkr",
+              "stripe": "https://buy.stripe.com/5kQ9AUewq4Rv0g849r2893O",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

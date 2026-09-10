@@ -3862,16 +3862,25 @@
               "photo": "images/articles/pendentif-jade-limon-mtvqa0b4llkg.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm14o9c6fw9aUM21j28a0d",
               "stripeProductId": "prod_VEdu0J6HrC43qJ",
+              "stripePriceId": "price_1UEAd0LOfCA5mATuWHNlLn3T",
+              "stripeLinkId": "plink_1UEAd0LOfCA5mATuiMrFCmPV",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif jade limon",
               "stripeDesc": "Ce pendentif en jade limon apporte une douce énergie apaisante et harmonieuse. Associé traditionnellement à la sérénité et à l'équilibre émotionnel, cette pierre naturelle favorise la connexion à soi et aide à relâcher les tensions du quotidien. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à cultiver une attitude positive et un état d'esprit calme.",
-              "stripePriceId": "price_1UEAd0LOfCA5mATuWHNlLn3T",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UEAd0LOfCA5mATuiMrFCmPV",
-              "stripe": "https://buy.stripe.com/dRm14o9c6fw9aUM21j28a0d",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-jaspe-brechnique-mtvqd175td34",
+              "nom": "Pendentif jaspe brechnique",
+              "prix": 26.1,
+              "description": "Ce pendentif en jaspe brechique est une pierre naturelle aux reflets profonds et aux nuances chaudes, idéale pour apporter stabilité et ancrage. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi et favoriser un sentiment de sécurité intérieure. Parfaite pour une utilisation quotidienne, elle peut être portée comme un talisman pour équilibrer les énergies et apaiser les émotions.",
+              "photo": "images/articles/pendentif-jaspe-brechnique-mtvqd175099s.jpg",
+              "prixBoutique": 25,
+              "stock": 1
             }
           ]
         },

@@ -3501,16 +3501,25 @@
               "photo": "images/articles/pendentif-oeil-de-tigre-brut-mtvn2sqbs0n5.jpg",
               "prixBoutique": 14,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/14A5kEdsm1Fj1kc8pH2893U",
               "stripeProductId": "prod_VEcTs7IrrEUW1G",
+              "stripePriceId": "price_1UE9EKLOfCA5mATuA120I2kK",
+              "stripeLinkId": "plink_1UE9ELLOfCA5mATusj1HMwSD",
+              "stripePrix": 14.73,
               "stripeMode": "live",
               "stripeNom": "Pendentif oeil de tigre brut",
               "stripeDesc": "Ce pendentif en oeil de tigre brut est une pièce unique et naturelle, aux reflets dorés et aux motifs organiques captivants. En lithothérapie, l’oeil de tigre est souvent associé à la protection, au courage et à l’équilibre des énergies, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Parfait pour une décoration bohème ou un accessoire spirituel, il apporte une touche d’authenticité et de puissance positive au quotidien.",
-              "stripePriceId": "price_1UE9EKLOfCA5mATuA120I2kK",
-              "stripePrix": 14.73,
-              "stripeLinkId": "plink_1UE9ELLOfCA5mATusj1HMwSD",
-              "stripe": "https://buy.stripe.com/14A5kEdsm1Fj1kc8pH2893U",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cornaline-brut-mtvn4ucsi0st",
+              "nom": "Pendentif cornaline brut",
+              "prix": 19.9,
+              "description": "Ce pendentif en cornaline brute est une pierre naturelle aux reflets chauds et aux teintes variées, offrant une énergie vitale et stimulante. En lithothérapie, elle est souvent associée à la confiance en soi, à la motivation et à la protection contre les énergies négatives. Parfaite pour porter au quotidien, elle est idéale pour ceux qui cherchent à renforcer leur vitalité et leur courage.",
+              "photo": "images/articles/pendentif-cornaline-brut-mtvn4ucsrn8o.jpg",
+              "prixBoutique": 19,
+              "stock": 1
             }
           ]
         },

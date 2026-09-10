@@ -3596,16 +3596,25 @@
               "photo": "images/articles/pendentif-shungite-mtvndc84io1b.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe4gA73YabP9QIgWd28940",
               "stripeProductId": "prod_VEcb4Cgg7yNdvn",
+              "stripePriceId": "price_1UE9MDLOfCA5mATu699U2Q8B",
+              "stripeLinkId": "plink_1UE9MDLOfCA5mATuXd22Avf8",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Pendentif shungite",
               "stripeDesc": "Le pendentif en shungite est une pierre naturelle aux propriétés énergétiques remarquables. Selon la lithothérapie, elle est réputée pour absorber les ondes électromagnétiques et favoriser un équilibre énergétique harmonieux. Parfaite pour accompagner votre quotidien, elle est souvent utilisée pour ses vertus protectrices et apaisantes.",
-              "stripePriceId": "price_1UE9MDLOfCA5mATu699U2Q8B",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UE9MDLOfCA5mATuXd22Avf8",
-              "stripe": "https://buy.stripe.com/bJe4gA73YabP9QIgWd28940",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-shungite-mtvnf1bfgad0",
+              "nom": "Pendentif shungite",
+              "prix": 30.24,
+              "description": "Ce pendentif en shungite est une pièce unique alliant élégance et propriétés énergétiques remarquables. La shungite est réputée pour ses vertus purificatrices, aidant à absorber les ondes électromagnétiques et à équilibrer l’énergie du corps. Porté en bijou, il favorise la détente et le bien-être au quotidien, tout en renforçant la connexion à une énergie apaisante et protectrice.",
+              "photo": "images/articles/pendentif-shungite-mtvnf1bfc81k.jpg",
+              "prixBoutique": 29,
+              "stock": 1
             }
           ]
         },

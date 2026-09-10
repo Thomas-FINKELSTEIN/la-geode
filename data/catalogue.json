@@ -3672,16 +3672,25 @@
               "photo": "images/articles/pendentif-numite-mtvnljf9j5zj.jpg",
               "prixBoutique": 28,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/8x28wQ2NIcjX1kcfS928944",
               "stripeProductId": "prod_VEchv2njCLiw4F",
+              "stripePriceId": "price_1UE9SNLOfCA5mATuhDClsfp7",
+              "stripeLinkId": "plink_1UE9SOLOfCA5mATuuoWIjbTA",
+              "stripePrix": 29.2,
               "stripeMode": "live",
               "stripeNom": "Pendentif numite",
               "stripeDesc": "Le numite est une pierre rare aux reflets mystérieux et profonds, souvent utilisée pour ses propriétés apaisantes et protectrices. En lithothérapie, elle est réputée pour aider à équilibrer les émotions et favoriser une énergie stable, tout en renforçant la confiance en soi. Ce pendentif élégant et discret est idéal pour accompagner votre quotidien avec sérénité.",
-              "stripePriceId": "price_1UE9SNLOfCA5mATuhDClsfp7",
-              "stripePrix": 29.2,
-              "stripeLinkId": "plink_1UE9SOLOfCA5mATuuoWIjbTA",
-              "stripe": "https://buy.stripe.com/8x28wQ2NIcjX1kcfS928944",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-collier-hematite-mtvol8cuh3k9",
+              "nom": "Pendentif collier hématite",
+              "prix": 13.6,
+              "description": "Ce collier en hématite est un accessoire élégant et intemporel, composé de perles noires et de pierres naturelles aux reflets dorés. L'hématite est souvent utilisée en lithothérapie pour ses propriétés équilibrantes, aidant à ancrer l'énergie et à renforcer la concentration. Porté au quotidien, il est idéal pour ceux qui cherchent à apaiser le mental et à retrouver un sentiment de stabilité émotionnelle.",
+              "photo": "images/articles/pendentif-collier-hematite-mtvol8culxl3.jpg",
+              "prixBoutique": 12.9,
+              "stock": 1
             }
           ]
         },

@@ -3235,16 +3235,25 @@
               "photo": "images/articles/pendentif-quartz-rutile-mtvl9c6kx1ne.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqaEY1JEes5d2U35n2893D",
               "stripeProductId": "prod_VEbeOwqbKnalJs",
+              "stripePriceId": "price_1UE8RALOfCA5mATu1SQ4vmZa",
+              "stripeLinkId": "plink_1UE8RALOfCA5mATunySdNHuQ",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz rutile",
               "stripeDesc": "Ce pendentif en quartz rutile est une pierre aux reflets dorés et lumineux, idéale pour attirer l'énergie positive et renforcer la vitalité. En lithothérapie, elle est souvent utilisée pour stimuler la motivation, la confiance en soi et l'équilibre émotionnel. Parfait pour une touche élégante et énergétique au quotidien, ce minéral apporte une harmonie subtile entre le corps et l'esprit.",
-              "stripePriceId": "price_1UE8RALOfCA5mATu1SQ4vmZa",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UE8RALOfCA5mATunySdNHuQ",
-              "stripe": "https://buy.stripe.com/eVqaEY1JEes5d2U35n2893D",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-quartz-rutile-mtvlayvqxkm3",
+              "nom": "Pendentif quartz rutile",
+              "prix": 25.07,
+              "description": "Ce pendentif en quartz rutile est une pierre aux reflets dorés et lumineux, idéale pour attirer la prospérité et renforcer la confiance en soi. En lithothérapie, il est souvent utilisé pour stimuler l'énergie vitale et favoriser l'équilibre émotionnel. Parfait pour une touche élégante et porte-bonheur au quotidien.",
+              "photo": "images/articles/pendentif-quartz-rutile-mtvlayvqd3zn.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

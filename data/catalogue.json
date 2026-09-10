@@ -3520,16 +3520,25 @@
               "photo": "images/articles/pendentif-cornaline-brut-mtvn4ucsrn8o.jpg",
               "prixBoutique": 19,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/14AdRa9c61Fjgf67lD2893V",
               "stripeProductId": "prod_VEcUjBYrgvMHyS",
+              "stripePriceId": "price_1UE9FrLOfCA5mATuE4BiYC6b",
+              "stripeLinkId": "plink_1UE9FrLOfCA5mATuXVAZWbUL",
+              "stripePrix": 19.9,
               "stripeMode": "live",
               "stripeNom": "Pendentif cornaline brut",
               "stripeDesc": "Ce pendentif en cornaline brute est une pierre naturelle aux reflets chauds et aux teintes variées, offrant une énergie vitale et stimulante. En lithothérapie, elle est souvent associée à la confiance en soi, à la motivation et à la protection contre les énergies négatives. Parfaite pour porter au quotidien, elle est idéale pour ceux qui cherchent à renforcer leur vitalité et leur courage.",
-              "stripePriceId": "price_1UE9FrLOfCA5mATuE4BiYC6b",
-              "stripePrix": 19.9,
-              "stripeLinkId": "plink_1UE9FrLOfCA5mATuXVAZWbUL",
-              "stripe": "https://buy.stripe.com/14AdRa9c61Fjgf67lD2893V",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-mtvn68o3z9g8",
+              "nom": "Pendentif obsidienne",
+              "prix": 23,
+              "description": "Ce pendentif en obsidienne est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur intuition et leur connexion avec l’inconscient. Utilisée en lithothérapie pour apaiser les émotions et favoriser la protection énergétique, elle aide à libérer les blocages et à retrouver un équilibre intérieur. Parfaite pour une utilisation quotidienne, elle peut être portée comme un talisman de sagesse et de transformation.",
+              "photo": "images/articles/pendentif-obsidienne-mtvn68o3vai6.jpg",
+              "prixBoutique": 22,
+              "stock": 1
             }
           ]
         },

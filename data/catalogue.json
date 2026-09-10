@@ -3710,16 +3710,25 @@
               "photo": "images/articles/pendentif-howlite-mtvovtzrlbzx.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/14AaEYdsmcjX4wo35n28a00",
               "stripeProductId": "prod_VEdHDU2zJLSaMB",
+              "stripePriceId": "price_1UEA1DLOfCA5mATuhJvZ8LTi",
+              "stripeLinkId": "plink_1UEA1DLOfCA5mATuA0DGadwA",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif howlite",
               "stripeDesc": "Ce pendentif en howlite se distingue par ses motifs élégants et ses veines délicates qui rappellent la douceur de la nature. Cette pierre apaisante est souvent utilisée en lithothérapie pour favoriser la sérénité et aider à calmer les émotions intenses. Portée près du cœur ou du poignet, elle est idéale pour ceux qui cherchent à retrouver un équilibre intérieur et une connexion harmonieuse avec leur environnement.",
-              "stripePriceId": "price_1UEA1DLOfCA5mATuhJvZ8LTi",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UEA1DLOfCA5mATuA0DGadwA",
-              "stripe": "https://buy.stripe.com/14AaEYdsmcjX4wo35n28a00",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pend-collier-quartz-fume-nacre-mtvoxicfjza4",
+              "nom": "Pend Collier quartz fumé nacre",
+              "prix": 14.22,
+              "description": "Ce collier en quartz fumé nacre allie l'élégance des perles nacrées et l'énergie apaisante du quartz fumé. Traditionnellement utilisé pour purifier l'énergie et favoriser la concentration, il est idéal pour ceux qui cherchent à équilibrer leurs émotions et à renforcer leur ancrage. Parfait pour un usage quotidien, il apporte une touche sophistiquée tout en offrant un bien-être intérieur.",
+              "photo": "images/articles/pend-collier-quartz-fume-nacre-mtvoxicf9gzk.jpg",
+              "prixBoutique": 13.5,
+              "stock": 1
             }
           ]
         },

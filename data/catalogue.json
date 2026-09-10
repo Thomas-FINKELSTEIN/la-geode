@@ -2874,16 +2874,25 @@
               "photo": "images/articles/pendentif-obsidienne-mtvbf3rw14b5.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq14o1JE6ZD5As49r2893h",
               "stripeProductId": "prod_VEXCYWK0HJtIHW",
+              "stripePriceId": "price_1UE48SLOfCA5mATuoE9qCTes",
+              "stripeLinkId": "plink_1UE48SLOfCA5mATuYHAI4JPS",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne",
               "stripeDesc": "Pendentif obsidienne 6 cm",
-              "stripePriceId": "price_1UE48SLOfCA5mATuoE9qCTes",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UE48SLOfCA5mATuYHAI4JPS",
-              "stripe": "https://buy.stripe.com/eVq14o1JE6ZD5As49r2893h",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-oeil-celeste-mtvbhnliy0hl",
+              "nom": "Pendentif obsidienne oeil céleste",
+              "prix": 23,
+              "description": "Pendentif oeil céleste triangulaire",
+              "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvbhnli4410.jpg",
+              "prixBoutique": 22,
+              "stock": 1
             }
           ]
         },

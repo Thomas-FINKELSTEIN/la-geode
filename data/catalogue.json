@@ -3805,16 +3805,25 @@
               "photo": "images/articles/collier-coquillage-mtvp5v9qhb9r.jpg",
               "prixBoutique": 9.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/fZudRa4VQbfTbYQaxP28a05",
               "stripeProductId": "prod_VEdPo2S65lytOy",
+              "stripePriceId": "price_1UEA8pLOfCA5mATuzmbDKmwe",
+              "stripeLinkId": "plink_1UEA8pLOfCA5mATuo65h1x1h",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Collier coquillage",
               "stripeDesc": "Collier en coquillage fantaisie",
-              "stripePriceId": "price_1UEA8pLOfCA5mATuzmbDKmwe",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UEA8pLOfCA5mATuo65h1x1h",
-              "stripe": "https://buy.stripe.com/fZudRa4VQbfTbYQaxP28a05",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "collier-coquillage-acier-mtvp7fv3mnty",
+              "nom": "Collier coquillage acier",
+              "prix": 15.66,
+              "description": "Collier en coquillage  acier fantaisie",
+              "photo": "images/articles/collier-coquillage-acier-mtvp7fv3d0of.jpg",
+              "prixBoutique": 14.9,
+              "stock": 1
             }
           ]
         },

@@ -2844,7 +2844,17 @@
               "description": "Pendentif argent OM namasté argent",
               "photo": "images/articles/pendentif-om-namaste-mtv8eu3zi9nv.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEVqJFyTaPD7kJ",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif OM namasté",
+              "stripeDesc": "Pendentif argent OM namasté argent",
+              "stripePriceId": "price_1UE2owLOfCA5mATujtHFlpJG",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UE2owLOfCA5mATuUv8WIMIa",
+              "stripe": "https://buy.stripe.com/dRm4gA0FA4Rv3sk9tL2893e",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

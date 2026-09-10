@@ -3634,16 +3634,25 @@
               "photo": "images/articles/pendentif-canon-en-shungite-mtvnhmxgw24v.jpg",
               "prixBoutique": 29,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/3cIaEYfAu4RvbYQ7lD28942",
               "stripeProductId": "prod_VEcetDrRMpYP75",
+              "stripePriceId": "price_1UE9PVLOfCA5mATujjYt6gve",
+              "stripeLinkId": "plink_1UE9PVLOfCA5mATuqhZ5wE8q",
+              "stripePrix": 30.24,
               "stripeMode": "live",
               "stripeNom": "Pendentif canon en shungite",
               "stripeDesc": "Ce pendentif en shungite, une pierre rare aux reflets mystérieux, est un allié précieux pour protéger votre énergie au quotidien. Reconnue pour ses propriétés absorbantes et équilibrantes, la shungite aide à purifier l’environnement électromagnétique et favorise un état de calme intérieur. Parfait pour être porté en collier ou offert en cadeau bienveillant, il s’intègre facilement dans une routine de bien-être ou de méditation.",
-              "stripePriceId": "price_1UE9PVLOfCA5mATujjYt6gve",
-              "stripePrix": 30.24,
-              "stripeLinkId": "plink_1UE9PVLOfCA5mATuqhZ5wE8q",
-              "stripe": "https://buy.stripe.com/3cIaEYfAu4RvbYQ7lD28942",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendentif-shungite-chouette-en-argent-mtvnk3d2igph",
+              "nom": "Pendentif shungite chouette en argent",
+              "prix": 19.9,
+              "description": "Ce pendentif en shungite, associé à une délicate gravure de chouette en argent, est un allié précieux pour absorber les énergies négatives et protéger votre espace vital. La shungite, pierre aux propriétés purificatrices, est souvent utilisée pour équilibrer le corps et l’esprit, favorisant ainsi un bien-être profond. Parfait pour être porté au quotidien, il apporte une touche de mystère et de sérénité à votre style.",
+              "photo": "images/articles/pendentif-shungite-chouette-en-argent-mtvnk3d2shmk.jpg",
+              "prixBoutique": 19,
+              "stock": 1
             }
           ]
         },

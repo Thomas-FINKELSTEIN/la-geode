@@ -3140,16 +3140,25 @@
               "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvkd91xnzv7.jpg",
               "prixBoutique": 29,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI5kEdsm3Nrgf6eO52893y",
               "stripeProductId": "prod_VEbFAYBtwa8MR2",
+              "stripePriceId": "price_1UE82tLOfCA5mATuf80lG5mQ",
+              "stripeLinkId": "plink_1UE82tLOfCA5mATuXdmpUTGu",
+              "stripePrix": 30.24,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne oeil céleste",
               "stripeDesc": "Ce pendentif en obsidienne oeil céleste est une pierre aux reflets mystérieux et profonds, souvent utilisée pour ses propriétés protectrices et son influence sur l'intuition. Selon la lithothérapie, elle aide à renforcer la confiance en soi et à apaiser les émotions perturbées, tout en favorisant un équilibre énergétique. Parfaite pour une utilisation quotidienne, elle peut être portée comme un talisman pour se sentir ancré et en harmonie avec son environnement.",
-              "stripePriceId": "price_1UE82tLOfCA5mATuf80lG5mQ",
-              "stripePrix": 30.24,
-              "stripeLinkId": "plink_1UE82tLOfCA5mATuXdmpUTGu",
-              "stripe": "https://buy.stripe.com/3cI5kEdsm3Nrgf6eO52893y",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-oeil-celeste-mtvkf1roi0ru",
+              "nom": "Pendentif obsidienne oeil céleste",
+              "prix": 25.07,
+              "description": "Ce pendentif en obsidienne oeil céleste est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur intuition et leur connexion avec l'invisible. En lithothérapie, elle est souvent utilisée pour apaiser les émotions et favoriser la protection énergétique au quotidien. Son énergie puissante en fait un allié précieux pour les personnes en quête de sérénité et de clarté mentale.",
+              "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvkf1rozxba.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

@@ -3748,16 +3748,25 @@
               "photo": "images/articles/collier-en-rhodonite-baroque-mtvp0tg0k7le.jpg",
               "prixBoutique": 24.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/fZubJ2ewq2Jn7IA8pH28a02",
               "stripeProductId": "prod_VEdLkLWPSBNYN4",
+              "stripePriceId": "price_1UEA53LOfCA5mATuFSWQCEGq",
+              "stripeLinkId": "plink_1UEA54LOfCA5mATuMfh3R1Wf",
+              "stripePrix": 26,
               "stripeMode": "live",
               "stripeNom": "Collier en rhodonite baroque",
               "stripeDesc": "Ce bracelet en rhodonite baroque allie élégance et douceur grâce à ses pierres aux reflets roses et noirs. La rhodonite est souvent appelée la pierre du réconfort, aidant à apaiser les émotions et à renforcer la compassion envers soi-même et les autres. Porté au quotidien, il favorise l'équilibre émotionnel et une énergie positive, tout en rappelant la beauté des contrastes dans la vie.",
-              "stripePriceId": "price_1UEA53LOfCA5mATuFSWQCEGq",
-              "stripePrix": 26,
-              "stripeLinkId": "plink_1UEA54LOfCA5mATuMfh3R1Wf",
-              "stripe": "https://buy.stripe.com/fZubJ2ewq2Jn7IA8pH28a02",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "collier-nacre-mtvp2cqv9ppq",
+              "nom": "Collier nacre",
+              "prix": 10.5,
+              "description": "Ce pendentif en nacre irisée apporte une touche d'élégance et de douceur à vos tenues. En lithothérapie, la nacre est souvent associée à la protection et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. Elle favorise aussi la connexion avec les énergies positives et peut être utilisée pour renforcer la confiance en soi et la sérénité au quotidien.",
+              "photo": "images/articles/collier-nacre-mtvp2cqvnk5h.jpg",
+              "prixBoutique": 9.9,
+              "stock": 1
             }
           ]
         },

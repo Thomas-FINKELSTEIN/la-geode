@@ -3918,7 +3918,17 @@
               "description": "",
               "photo": "images/articles/pendentif-jaspe-rouge-imperial-mtvqfwtea3ym.jpg",
               "prixBoutique": 25,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEdzsJDxM8aEY2",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe rouge imperial",
+              "stripeDesc": "",
+              "stripePriceId": "price_1UEAhVLOfCA5mATuxN76TQhV",
+              "stripePrix": 26.1,
+              "stripeLinkId": "plink_1UEAhVLOfCA5mATuiVWSGyZJ",
+              "stripe": "https://buy.stripe.com/eVqfZi3RMbfTe6YaxP28a0g",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

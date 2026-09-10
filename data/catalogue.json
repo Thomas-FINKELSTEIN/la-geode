@@ -3956,7 +3956,17 @@
               "description": "Ce pendentif en jaspe rouge brut est une pierre naturelle aux reflets chauds et aux teintes profondes. Connue pour ses propriétés apaisantes et dynamisantes, elle est souvent utilisée en lithothérapie pour renforcer la vitalité et équilibrer les émotions. Parfaite pour une touche naturelle et énergétique au quotidien, elle attire aussi bien les amateurs de minéraux que ceux cherchant à harmoniser leur énergie.",
               "photo": "images/articles/pendentif-jaspe-rouge-brut-mtvqugnr1yqn.jpg",
               "prixBoutique": 19,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEeAob9iWTEeaI",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe rouge brut",
+              "stripeDesc": "Ce pendentif en jaspe rouge brut est une pierre naturelle aux reflets chauds et aux teintes profondes. Connue pour ses propriétés apaisantes et dynamisantes, elle est souvent utilisée en lithothérapie pour renforcer la vitalité et équilibrer les émotions. Parfaite pour une touche naturelle et énergétique au quotidien, elle attire aussi bien les amateurs de minéraux que ceux cherchant à harmoniser leur énergie.",
+              "stripePriceId": "price_1UEAsPLOfCA5mATuwIQxiSeJ",
+              "stripePrix": 19.9,
+              "stripeLinkId": "plink_1UEAsQLOfCA5mATuWRCxhw9V",
+              "stripe": "https://buy.stripe.com/00w9AUbke1Fje6Y0Xf28a0j",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

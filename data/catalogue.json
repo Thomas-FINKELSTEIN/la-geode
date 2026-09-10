@@ -2931,16 +2931,25 @@
               "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvbn5to25r0.jpg",
               "prixBoutique": 29,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi9AU73Y6ZDe6Y35n2893k",
               "stripeProductId": "prod_VEXJdPWvQsvkmL",
+              "stripePriceId": "price_1UE4EYLOfCA5mATusy4hbFdU",
+              "stripeLinkId": "plink_1UE4EYLOfCA5mATuvZvtOyHC",
+              "stripePrix": 30.24,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne oeil céleste",
               "stripeDesc": "Ce pendentif en obsidienne oeil céleste est une pièce unique aux reflets profonds et mystérieux. L'obsidienne est souvent associée à la protection, à la purification des énergies négatives et à l'ancrage spirituel, aidant à renforcer la confiance en soi et à apaiser les émotions. Parfait pour une utilisation quotidienne, ce bijou en pierre naturelle apporte une touche élégante tout en offrant un soutien subtil pour l'équilibre intérieur.",
-              "stripePriceId": "price_1UE4EYLOfCA5mATusy4hbFdU",
-              "stripePrix": 30.24,
-              "stripeLinkId": "plink_1UE4EYLOfCA5mATuvZvtOyHC",
-              "stripe": "https://buy.stripe.com/cNi9AU73Y6ZDe6Y35n2893k",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-doree-mtvboudgz8j0",
+              "nom": "Pendentif obsidienne dorée",
+              "prix": 23,
+              "description": "Ce pendentif en obsidienne dorée est une pièce élégante et mystérieuse, idéale pour apporter une touche d'énergie protectrice à vos tenues. L'obsidienne est souvent utilisée en lithothérapie pour ses propriétés de purification et de renforcement spirituel, aidant à libérer les blocages émotionnels et à favoriser un retour à l'équilibre intérieur. Son éclat profond en fait aussi un accessoire raffiné pour sublimer votre style au quotidien.",
+              "photo": "images/articles/pendentif-obsidienne-doree-mtvboudgxi7o.jpg",
+              "prixBoutique": 22,
+              "stock": 1
             }
           ]
         },

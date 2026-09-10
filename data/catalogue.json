@@ -2873,7 +2873,17 @@
               "description": "Pendentif obsidienne 6 cm",
               "photo": "images/articles/pendentif-obsidienne-mtvbf3rw14b5.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEXCYWK0HJtIHW",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne",
+              "stripeDesc": "Pendentif obsidienne 6 cm",
+              "stripePriceId": "price_1UE48SLOfCA5mATuoE9qCTes",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UE48SLOfCA5mATuYHAI4JPS",
+              "stripe": "https://buy.stripe.com/eVq14o1JE6ZD5As49r2893h",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

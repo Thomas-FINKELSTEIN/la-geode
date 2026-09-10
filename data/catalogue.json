@@ -2816,7 +2816,17 @@
               "description": "Pendentif croix 7 chakras 7 cm",
               "photo": "images/articles/pendentif-croix-7-chakras-mtv89u0dlqvs.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEVmwnp2fQyqYy",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif croix 7 chakras",
+              "stripeDesc": "Pendentif croix 7 chakras 7 cm",
+              "stripePriceId": "price_1UE2lCLOfCA5mATuc52QQ8jl",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UE2lCLOfCA5mATu5D1Igg1z",
+              "stripe": "https://buy.stripe.com/8x2bJ25ZU1FjaUM35n2893d",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

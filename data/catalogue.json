@@ -3709,7 +3709,17 @@
               "description": "Ce pendentif en howlite se distingue par ses motifs élégants et ses veines délicates qui rappellent la douceur de la nature. Cette pierre apaisante est souvent utilisée en lithothérapie pour favoriser la sérénité et aider à calmer les émotions intenses. Portée près du cœur ou du poignet, elle est idéale pour ceux qui cherchent à retrouver un équilibre intérieur et une connexion harmonieuse avec leur environnement.",
               "photo": "images/articles/pendentif-howlite-mtvovtzrlbzx.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEdHDU2zJLSaMB",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif howlite",
+              "stripeDesc": "Ce pendentif en howlite se distingue par ses motifs élégants et ses veines délicates qui rappellent la douceur de la nature. Cette pierre apaisante est souvent utilisée en lithothérapie pour favoriser la sérénité et aider à calmer les émotions intenses. Portée près du cœur ou du poignet, elle est idéale pour ceux qui cherchent à retrouver un équilibre intérieur et une connexion harmonieuse avec leur environnement.",
+              "stripePriceId": "price_1UEA1DLOfCA5mATuhJvZ8LTi",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UEA1DLOfCA5mATuA0DGadwA",
+              "stripe": "https://buy.stripe.com/14AaEYdsmcjX4wo35n28a00",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

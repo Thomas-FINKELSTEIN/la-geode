@@ -3557,7 +3557,17 @@
               "description": "Ce pendentif en obsidienne est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur protection énergétique. Utilisée en lithothérapie pour apaiser les émotions et favoriser la stabilité intérieure, elle aide à libérer les tensions et à retrouver un équilibre mental. Parfaite pour être portée au quotidien, elle accompagne aussi bien les moments de méditation que les transitions de la vie.",
               "photo": "images/articles/pendentif-obsidienne-mtvn7mp7a5ki.jpg",
               "prixBoutique": 29,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEcXR8ssCRo0QR",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne",
+              "stripeDesc": "Ce pendentif en obsidienne est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur protection énergétique. Utilisée en lithothérapie pour apaiser les émotions et favoriser la stabilité intérieure, elle aide à libérer les tensions et à retrouver un équilibre mental. Parfaite pour être portée au quotidien, elle accompagne aussi bien les moments de méditation que les transitions de la vie.",
+              "stripePriceId": "price_1UE9I4LOfCA5mATug5LYMNNE",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UE9I4LOfCA5mATu1TvlGKMy",
+              "stripe": "https://buy.stripe.com/14AcN64VQ2Jne6Y9tL2893X",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

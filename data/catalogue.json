@@ -3652,7 +3652,17 @@
               "description": "Ce pendentif en shungite, associé à une délicate gravure de chouette en argent, est un allié précieux pour absorber les énergies négatives et protéger votre espace vital. La shungite, pierre aux propriétés purificatrices, est souvent utilisée pour équilibrer le corps et l’esprit, favorisant ainsi un bien-être profond. Parfait pour être porté au quotidien, il apporte une touche de mystère et de sérénité à votre style.",
               "photo": "images/articles/pendentif-shungite-chouette-en-argent-mtvnk3d2shmk.jpg",
               "prixBoutique": 19,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEcgaXiLDeFlZU",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif shungite chouette en argent",
+              "stripeDesc": "Ce pendentif en shungite, associé à une délicate gravure de chouette en argent, est un allié précieux pour absorber les énergies négatives et protéger votre espace vital. La shungite, pierre aux propriétés purificatrices, est souvent utilisée pour équilibrer le corps et l’esprit, favorisant ainsi un bien-être profond. Parfait pour être porté au quotidien, il apporte une touche de mystère et de sérénité à votre style.",
+              "stripePriceId": "price_1UE9RKLOfCA5mATuIrcsUFv9",
+              "stripePrix": 19.9,
+              "stripeLinkId": "plink_1UE9RKLOfCA5mATusLsHb9iI",
+              "stripe": "https://buy.stripe.com/28E8wQdsm2Jnfb29tL28943",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

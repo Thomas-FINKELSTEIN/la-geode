@@ -3766,7 +3766,17 @@
               "description": "Ce pendentif en nacre irisée apporte une touche d'élégance et de douceur à vos tenues. En lithothérapie, la nacre est souvent associée à la protection et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. Elle favorise aussi la connexion avec les énergies positives et peut être utilisée pour renforcer la confiance en soi et la sérénité au quotidien.",
               "photo": "images/articles/collier-nacre-mtvp2cqvnk5h.jpg",
               "prixBoutique": 9.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEdMp4H4GqA6WU",
+              "stripeMode": "live",
+              "stripeNom": "Collier nacre",
+              "stripeDesc": "Ce pendentif en nacre irisée apporte une touche d'élégance et de douceur à vos tenues. En lithothérapie, la nacre est souvent associée à la protection et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. Elle favorise aussi la connexion avec les énergies positives et peut être utilisée pour renforcer la confiance en soi et la sérénité au quotidien.",
+              "stripePriceId": "price_1UEA6ELOfCA5mATuz97BLddJ",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UEA6ELOfCA5mATuQBzIRay4",
+              "stripe": "https://buy.stripe.com/14A9AUbke2Jn1kcbBT28a03",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

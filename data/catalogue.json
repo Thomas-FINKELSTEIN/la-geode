@@ -3823,7 +3823,17 @@
               "description": "Collier en coquillage  acier fantaisie",
               "photo": "images/articles/collier-coquillage-acier-mtvp7fv3d0of.jpg",
               "prixBoutique": 14.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEdQ355UvVr4PL",
+              "stripeMode": "live",
+              "stripeNom": "Collier coquillage acier",
+              "stripeDesc": "Collier en coquillage  acier fantaisie",
+              "stripePriceId": "price_1UEAA0LOfCA5mATuxk3UVmff",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UEAA0LOfCA5mATuC0FkVi6Y",
+              "stripe": "https://buy.stripe.com/00w14oewq6ZD3sk9tL28a06",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -3405,7 +3405,17 @@
               "description": "Le pendentif en shungite est un accessoire élégant et mystérieux, apprécié pour ses propriétés énergétiques uniques. Selon la lithothérapie, cette pierre noire absorberait les ondes électromagnétiques et purifierait l’énergie environnante, favorisant ainsi un équilibre intérieur et une protection subtile. Idéal pour accompagner votre quotidien, il se porte près de la peau pour en bénéficier pleinement.",
               "photo": "images/articles/pendentif-shungite-mtvm4z19zjur.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEc2zo0hQvtIjB",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif shungite",
+              "stripeDesc": "Le pendentif en shungite est un accessoire élégant et mystérieux, apprécié pour ses propriétés énergétiques uniques. Selon la lithothérapie, cette pierre noire absorberait les ondes électromagnétiques et purifierait l’énergie environnante, favorisant ainsi un équilibre intérieur et une protection subtile. Idéal pour accompagner votre quotidien, il se porte près de la peau pour en bénéficier pleinement.",
+              "stripePriceId": "price_1UE8osLOfCA5mATuAwnb48rB",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UE8otLOfCA5mATunMRkIgTk",
+              "stripe": "https://buy.stripe.com/aFa3cwaga83Hd2UgWd2893N",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

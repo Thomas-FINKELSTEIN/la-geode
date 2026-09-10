@@ -3976,16 +3976,25 @@
               "photo": "images/articles/pendentif-tourmaline-noire-mtvqx3rmr3t0.jpg",
               "prixBoutique": 29,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2dRa1JEabPe6Y49r28a0k",
               "stripeProductId": "prod_VEeCLvMhZQpuq5",
+              "stripePriceId": "price_1UEAuPLOfCA5mATusyUcIJaR",
+              "stripeLinkId": "plink_1UEAuPLOfCA5mATujCfJ7dJt",
+              "stripePrix": 30.24,
               "stripeMode": "live",
               "stripeNom": "Pendentif tourmaline noire",
               "stripeDesc": "Ce pendentif en tourmaline noire est une pierre aux énergies puissantes, souvent utilisée pour absorber les énergies négatives et protéger l'aura. En lithothérapie, elle est réputée pour favoriser la stabilité émotionnelle et renforcer la confiance en soi. Parfaite pour un port quotidien, elle accompagne aussi bien les moments de stress que les recherches de recentrage et d'équilibre intérieur.",
-              "stripePriceId": "price_1UEAuPLOfCA5mATusyUcIJaR",
-              "stripePrix": 30.24,
-              "stripeLinkId": "plink_1UEAuPLOfCA5mATujCfJ7dJt",
-              "stripe": "https://buy.stripe.com/8x2dRa1JEabPe6Y49r28a0k",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-jaspe-rouge-goutte-mtvqycqze7sd",
+              "nom": "Pendentif jaspe rouge goutte",
+              "prix": 18.87,
+              "description": "Ce pendentif en jaspe rouge goutte est une pierre naturelle aux reflets profonds et apaisants. Associée traditionnellement à la stabilité émotionnelle et à la vitalité, elle est souvent utilisée pour renforcer la confiance en soi et équilibrer les énergies. Parfaite pour une touche élégante et porteuse de bien-être au quotidien, elle s’intègre aussi bien dans une tenue habillée que dans une ambiance zen.",
+              "photo": "images/articles/pendentif-jaspe-rouge-goutte-mtvqycqzef5x.jpg",
+              "prixBoutique": 18,
+              "stock": 2
             }
           ]
         },

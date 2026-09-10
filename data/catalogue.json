@@ -2912,16 +2912,25 @@
               "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvbjtku2q0a.jpg",
               "prixBoutique": 29,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu3cw4VQ1Fjfb20Xf2893j",
               "stripeProductId": "prod_VEXGND8TyzBqgB",
+              "stripePriceId": "price_1UE4C6LOfCA5mATupC765erJ",
+              "stripeLinkId": "plink_1UE4C6LOfCA5mATuP2vWDNa6",
+              "stripePrix": 30.24,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne oeil céleste",
               "stripeDesc": "Ce pendentif en obsidienne oeil céleste est une pièce unique alliant beauté et énergie protectrice. L'obsidienne, pierre de transformation et de purification, est souvent utilisée pour libérer les blocages émotionnels et renforcer la confiance en soi. Son éclat mystérieux en fait un allié précieux pour ceux qui cherchent à harmoniser leur énergie et à se reconnecter à leur force intérieure.",
-              "stripePriceId": "price_1UE4C6LOfCA5mATupC765erJ",
-              "stripePrix": 30.24,
-              "stripeLinkId": "plink_1UE4C6LOfCA5mATuP2vWDNa6",
-              "stripe": "https://buy.stripe.com/fZu3cw4VQ1Fjfb20Xf2893j",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-oeil-celeste-mtvbn5toa21c",
+              "nom": "Pendentif obsidienne oeil céleste",
+              "prix": 30.24,
+              "description": "Ce pendentif en obsidienne oeil céleste est une pièce unique aux reflets profonds et mystérieux. L'obsidienne est souvent associée à la protection, à la purification des énergies négatives et à l'ancrage spirituel, aidant à renforcer la confiance en soi et à apaiser les émotions. Parfait pour une utilisation quotidienne, ce bijou en pierre naturelle apporte une touche élégante tout en offrant un soutien subtil pour l'équilibre intérieur.",
+              "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvbn5to25r0.jpg",
+              "prixBoutique": 29,
+              "stock": 1
             }
           ]
         },

@@ -3842,7 +3842,17 @@
               "description": "Ce pendentif en pointe de jaspe rouge est une pièce élégante et énergétique, idéale pour stimuler la vitalité et renforcer la confiance en soi. Le jaspe rouge est souvent associé à la force physique et émotionnelle, aidant à ancrer les intentions et à apporter une protection bienveillante au quotidien. Parfait pour être porté près du cœur ou du troisième œil, il favorise également une circulation harmonieuse de l'énergie vitale.",
               "photo": "images/articles/pendentif-pointe-de-jaspe-rouge-mtvpu7ip8lbl.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEdiMM1gD3injB",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif pointe de jaspe rouge",
+              "stripeDesc": "Ce pendentif en pointe de jaspe rouge est une pièce élégante et énergétique, idéale pour stimuler la vitalité et renforcer la confiance en soi. Le jaspe rouge est souvent associé à la force physique et émotionnelle, aidant à ancrer les intentions et à apporter une protection bienveillante au quotidien. Parfait pour être porté près du cœur ou du troisième œil, il favorise également une circulation harmonieuse de l'énergie vitale.",
+              "stripePriceId": "price_1UEAR8LOfCA5mATuxypqNG82",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEAR8LOfCA5mATuBejY28wc",
+              "stripe": "https://buy.stripe.com/5kQaEYbke2Jn9QIbBT28a0c",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

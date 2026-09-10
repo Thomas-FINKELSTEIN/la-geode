@@ -3481,7 +3481,17 @@
               "description": "",
               "photo": "images/articles/pendentif-croix-en-grenat-mtvn111oca6k.jpg",
               "prixBoutique": 28,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEcRf85hEa0AiE",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif croix en grenat",
+              "stripeDesc": "",
+              "stripePriceId": "price_1UE9D2LOfCA5mATu7mW7aQIv",
+              "stripePrix": 29.2,
+              "stripeLinkId": "plink_1UE9D2LOfCA5mATus1L9b5wa",
+              "stripe": "https://buy.stripe.com/cNiaEYcoiabPe6YfS92893T",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

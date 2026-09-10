@@ -2930,7 +2930,17 @@
               "description": "Ce pendentif en obsidienne oeil céleste est une pièce unique aux reflets profonds et mystérieux. L'obsidienne est souvent associée à la protection, à la purification des énergies négatives et à l'ancrage spirituel, aidant à renforcer la confiance en soi et à apaiser les émotions. Parfait pour une utilisation quotidienne, ce bijou en pierre naturelle apporte une touche élégante tout en offrant un soutien subtil pour l'équilibre intérieur.",
               "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvbn5to25r0.jpg",
               "prixBoutique": 29,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEXJdPWvQsvkmL",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne oeil céleste",
+              "stripeDesc": "Ce pendentif en obsidienne oeil céleste est une pièce unique aux reflets profonds et mystérieux. L'obsidienne est souvent associée à la protection, à la purification des énergies négatives et à l'ancrage spirituel, aidant à renforcer la confiance en soi et à apaiser les émotions. Parfait pour une utilisation quotidienne, ce bijou en pierre naturelle apporte une touche élégante tout en offrant un soutien subtil pour l'équilibre intérieur.",
+              "stripePriceId": "price_1UE4EYLOfCA5mATusy4hbFdU",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UE4EYLOfCA5mATuvZvtOyHC",
+              "stripe": "https://buy.stripe.com/cNi9AU73Y6ZDe6Y35n2893k",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

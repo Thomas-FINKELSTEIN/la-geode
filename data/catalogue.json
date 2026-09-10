@@ -2968,7 +2968,17 @@
               "description": "Ce pendentif en obsidienne noire est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur protection énergétique. En lithothérapie, l'obsidienne noire est souvent utilisée pour absorber les énergies négatives et favoriser la stabilité émotionnelle. Elle est aussi appréciée pour son pouvoir de purification et de recentrage, aidant à retrouver un équilibre intérieur.",
               "photo": "images/articles/pendentif-obsidienne-noire-mtvbs48d7w05.jpg",
               "prixBoutique": 24,
-              "stock": 7
+              "stock": 7,
+              "stripeProductId": "prod_VEXNHhGMqQkh9u",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne noire",
+              "stripeDesc": "Ce pendentif en obsidienne noire est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur protection énergétique. En lithothérapie, l'obsidienne noire est souvent utilisée pour absorber les énergies négatives et favoriser la stabilité émotionnelle. Elle est aussi appréciée pour son pouvoir de purification et de recentrage, aidant à retrouver un équilibre intérieur.",
+              "stripePriceId": "price_1UE4IGLOfCA5mATuf36fzUUv",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UE4IGLOfCA5mATuHp0wNUve",
+              "stripe": "https://buy.stripe.com/14A8wQcoi4Rv7IAfS92893m",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         },

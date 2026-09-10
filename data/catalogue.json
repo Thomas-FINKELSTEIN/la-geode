@@ -3900,16 +3900,25 @@
               "photo": "images/articles/pendentif-jaspe-brechnique-mtvqehz5zl5a.jpg",
               "prixBoutique": 25,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00w4gA2NI0BfbYQ7lD28a0f",
               "stripeProductId": "prod_VEdyp4y7VVsi5O",
+              "stripePriceId": "price_1UEAgNLOfCA5mATuNq1hAK8a",
+              "stripeLinkId": "plink_1UEAgNLOfCA5mATu2luo8cPE",
+              "stripePrix": 26.1,
               "stripeMode": "live",
               "stripeNom": "Pendentif jaspe brechnique",
               "stripeDesc": "Ce pendentif en jaspe brechique est une pierre aux reflets riches et variés, mêlant des teintes chaudes et des motifs organiques captivants. En lithothérapie, le jaspe brechique est souvent associé à la stabilité émotionnelle et à la connexion avec la terre, aidant à ancrer les énergies et à renforcer la confiance en soi. Parfait pour une utilisation quotidienne, il est idéal pour ceux qui cherchent un équilibre entre force intérieure et sérénité.",
-              "stripePriceId": "price_1UEAgNLOfCA5mATuNq1hAK8a",
-              "stripePrix": 26.1,
-              "stripeLinkId": "plink_1UEAgNLOfCA5mATu2luo8cPE",
-              "stripe": "https://buy.stripe.com/00w4gA2NI0BfbYQ7lD28a0f",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-jaspe-rouge-imperial-mtvqfwte5azp",
+              "nom": "Pendentif jaspe rouge imperial",
+              "prix": 26.1,
+              "description": "",
+              "photo": "images/articles/pendentif-jaspe-rouge-imperial-mtvqfwtea3ym.jpg",
+              "prixBoutique": 25,
+              "stock": 1
             }
           ]
         },

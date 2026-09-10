@@ -2949,7 +2949,17 @@
               "description": "Ce pendentif en obsidienne dorée est une pièce élégante et mystérieuse, idéale pour apporter une touche d'énergie protectrice à vos tenues. L'obsidienne est souvent utilisée en lithothérapie pour ses propriétés de purification et de renforcement spirituel, aidant à libérer les blocages émotionnels et à favoriser un retour à l'équilibre intérieur. Son éclat profond en fait aussi un accessoire raffiné pour sublimer votre style au quotidien.",
               "photo": "images/articles/pendentif-obsidienne-doree-mtvboudgxi7o.jpg",
               "prixBoutique": 22,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEXKwA9XCxg0bA",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne dorée",
+              "stripeDesc": "Ce pendentif en obsidienne dorée est une pièce élégante et mystérieuse, idéale pour apporter une touche d'énergie protectrice à vos tenues. L'obsidienne est souvent utilisée en lithothérapie pour ses propriétés de purification et de renforcement spirituel, aidant à libérer les blocages émotionnels et à favoriser un retour à l'équilibre intérieur. Son éclat profond en fait aussi un accessoire raffiné pour sublimer votre style au quotidien.",
+              "stripePriceId": "price_1UE4FlLOfCA5mATu7HqDvAWS",
+              "stripePrix": 23,
+              "stripeLinkId": "plink_1UE4FlLOfCA5mATuRW6zPuGU",
+              "stripe": "https://buy.stripe.com/fZu8wQcoi1Fjd2U6hz2893l",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

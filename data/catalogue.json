@@ -3386,7 +3386,17 @@
               "description": "Ce pendentif en shungite est un accessoire naturel aux propriétés énergétiques remarquables. La shungite est réputée pour absorber les ondes électromagnétiques et favoriser un environnement apaisant. Porté au quotidien, il est souvent utilisé pour équilibrer les émotions et renforcer le bien-être général.",
               "photo": "images/articles/pendentif-shungite-mtvm2mrypjuz.jpg",
               "prixBoutique": 29,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VEc1wQfpTiUCWr",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif shungite",
+              "stripeDesc": "Ce pendentif en shungite est un accessoire naturel aux propriétés énergétiques remarquables. La shungite est réputée pour absorber les ondes électromagnétiques et favoriser un environnement apaisant. Porté au quotidien, il est souvent utilisé pour équilibrer les émotions et renforcer le bien-être général.",
+              "stripePriceId": "price_1UE8n7LOfCA5mATuOsKWMcu8",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UE8n7LOfCA5mATu5A6Ns702",
+              "stripe": "https://buy.stripe.com/dRm00k2NIcjX9QIcFX2893M",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

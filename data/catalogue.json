@@ -3310,7 +3310,17 @@
               "description": "Ce pendentif en quartz rutile Merkaba est une pièce unique alliant beauté minérale et énergie puissante. Le quartz rutile est réputé pour renforcer la vitalité, stimuler la concentration et équilibrer les chakras, tout en apportant une protection énergétique subtile. Parfait pour une utilisation quotidienne, il se porte en collier pour bénéficier de ses propriétés harmonisantes et dynamisantes.",
               "photo": "images/articles/pendentif-quartz-rutile-merkaba-mtvlfjwn3m2z.jpg",
               "prixBoutique": 16,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEbjEFt9zhdbm7",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz rutile merkaba",
+              "stripeDesc": "Ce pendentif en quartz rutile Merkaba est une pièce unique alliant beauté minérale et énergie puissante. Le quartz rutile est réputé pour renforcer la vitalité, stimuler la concentration et équilibrer les chakras, tout en apportant une protection énergétique subtile. Parfait pour une utilisation quotidienne, il se porte en collier pour bénéficier de ses propriétés harmonisantes et dynamisantes.",
+              "stripePriceId": "price_1UE8VmLOfCA5mATu9AOXol4Q",
+              "stripePrix": 16.8,
+              "stripeLinkId": "plink_1UE8VmLOfCA5mATuHTsSWlKH",
+              "stripe": "https://buy.stripe.com/bJe5kEfAudo15AscFX2893I",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

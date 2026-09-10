@@ -2893,16 +2893,25 @@
               "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvbhnli4410.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM9AU8823Nr8MEgWd2893i",
               "stripeProductId": "prod_VEXEYPKGx67nn2",
+              "stripePriceId": "price_1UE4ANLOfCA5mATu8M1wETD9",
+              "stripeLinkId": "plink_1UE4ANLOfCA5mATu9FSwcSAT",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne oeil céleste",
               "stripeDesc": "Pendentif oeil céleste triangulaire",
-              "stripePriceId": "price_1UE4ANLOfCA5mATu8M1wETD9",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UE4ANLOfCA5mATu9FSwcSAT",
-              "stripe": "https://buy.stripe.com/4gM9AU8823Nr8MEgWd2893i",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-oeil-celeste-mtvbjtkue00m",
+              "nom": "Pendentif obsidienne oeil céleste",
+              "prix": 30.24,
+              "description": "Ce pendentif en obsidienne oeil céleste est une pièce unique alliant beauté et énergie protectrice. L'obsidienne, pierre de transformation et de purification, est souvent utilisée pour libérer les blocages émotionnels et renforcer la confiance en soi. Son éclat mystérieux en fait un allié précieux pour ceux qui cherchent à harmoniser leur énergie et à se reconnecter à leur force intérieure.",
+              "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvbjtku2q0a.jpg",
+              "prixBoutique": 29,
+              "stock": 1
             }
           ]
         },

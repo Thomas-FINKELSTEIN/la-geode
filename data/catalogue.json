@@ -3121,16 +3121,25 @@
               "photo": "images/articles/pendentif-quartz-fume-mtvk4c9o3f62.jpg",
               "prixBoutique": 18,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/aFa00k73YgAd5AsbBT2893x",
               "stripeProductId": "prod_VEb8OCKhmFHDu0",
+              "stripePriceId": "price_1UE7wCLOfCA5mATuVreMEtqR",
+              "stripeLinkId": "plink_1UE7wCLOfCA5mATu1Xpm00D9",
+              "stripePrix": 18.87,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz fumé",
               "stripeDesc": "Ce pendentif en quartz fumé est une pierre aux reflets profonds et élégants, idéale pour apporter une touche sophistiquée à vos tenues. En lithothérapie, le quartz fumé est souvent utilisé pour son influence sur l'énergie et la concentration, aidant à ancrer les intentions et à renforcer la volonté. Il est aussi apprécié pour son effet apaisant sur les émotions et pour favoriser la stabilité intérieure.",
-              "stripePriceId": "price_1UE7wCLOfCA5mATuVreMEtqR",
-              "stripePrix": 18.87,
-              "stripeLinkId": "plink_1UE7wCLOfCA5mATu1Xpm00D9",
-              "stripe": "https://buy.stripe.com/aFa00k73YgAd5AsbBT2893x",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-oeil-celeste-mtvkd91x91zu",
+              "nom": "Pendentif obsidienne oeil céleste",
+              "prix": 30.24,
+              "description": "Ce pendentif en obsidienne oeil céleste est une pierre aux reflets mystérieux et profonds, souvent utilisée pour ses propriétés protectrices et son influence sur l'intuition. Selon la lithothérapie, elle aide à renforcer la confiance en soi et à apaiser les émotions perturbées, tout en favorisant un équilibre énergétique. Parfaite pour une utilisation quotidienne, elle peut être portée comme un talisman pour se sentir ancré et en harmonie avec son environnement.",
+              "photo": "images/articles/pendentif-obsidienne-oeil-celeste-mtvkd91xnzv7.jpg",
+              "prixBoutique": 29,
+              "stock": 1
             }
           ]
         },

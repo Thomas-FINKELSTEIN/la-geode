@@ -4811,7 +4811,17 @@
               "description": "Ce pendentif en obsidienne dorée est un objet puissant pour ceux qui cherchent à renforcer leur protection énergétique. L'obsidienne, pierre de transformation et de purification, est souvent utilisée pour libérer les blocages émotionnels et favoriser une profonde introspection. Parfait pour accompagner votre quotidien, elle aide à canaliser les énergies négatives et à retrouver un équilibre intérieur.",
               "photo": "images/articles/pendentif-obsidienne-doree-mtx3rlm9idz3.jpg",
               "prixBoutique": 36,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VF0GtasQ4AuAve",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne dorée",
+              "stripeDesc": "Ce pendentif en obsidienne dorée est un objet puissant pour ceux qui cherchent à renforcer leur protection énergétique. L'obsidienne, pierre de transformation et de purification, est souvent utilisée pour libérer les blocages émotionnels et favoriser une profonde introspection. Parfait pour accompagner votre quotidien, elle aide à canaliser les énergies négatives et à retrouver un équilibre intérieur.",
+              "stripePriceId": "price_1UEWFkLOfCA5mATu98Evumkv",
+              "stripePrix": 37.47,
+              "stripeLinkId": "plink_1UEWFlLOfCA5mATuG6eIaTTg",
+              "stripe": "https://buy.stripe.com/8x26oIgEyfw9bYQ21j28a17",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

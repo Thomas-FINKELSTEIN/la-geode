@@ -4793,16 +4793,25 @@
               "photo": "images/articles/pendentif-obsidienne-namaste-mtx3pnr3gasu.jpg",
               "prixBoutique": 36,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY5kEagabfTaUM21j28a16",
               "stripeProductId": "prod_VF0E9dD0VWJ7Zq",
+              "stripePriceId": "price_1UEWEJLOfCA5mATulSqIZgSR",
+              "stripeLinkId": "plink_1UEWEJLOfCA5mATufIY7Egyo",
+              "stripePrix": 37.47,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne namasté",
               "stripeDesc": "Ce pendentif en obsidienne présente un motif gracieux de fleur de lotus gravé, symbolisant la pureté et l’éveil spirituel. L’obsidienne est souvent utilisée en lithothérapie pour ses propriétés protectrices et son influence sur l’équilibre émotionnel, aidant à libérer les blocages et à renforcer la confiance en soi. Parfait pour une utilisation quotidienne, ce bijou apporte une touche élégante tout en favorisant un sentiment de calme intérieur.",
-              "stripePriceId": "price_1UEWEJLOfCA5mATulSqIZgSR",
-              "stripePrix": 37.47,
-              "stripeLinkId": "plink_1UEWEJLOfCA5mATufIY7Egyo",
-              "stripe": "https://buy.stripe.com/7sY5kEagabfTaUM21j28a16",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-doree-mtx3rlm9abdc",
+              "nom": "Pendentif obsidienne dorée",
+              "prix": 37.47,
+              "description": "Ce pendentif en obsidienne dorée est un objet puissant pour ceux qui cherchent à renforcer leur protection énergétique. L'obsidienne, pierre de transformation et de purification, est souvent utilisée pour libérer les blocages émotionnels et favoriser une profonde introspection. Parfait pour accompagner votre quotidien, elle aide à canaliser les énergies négatives et à retrouver un équilibre intérieur.",
+              "photo": "images/articles/pendentif-obsidienne-doree-mtx3rlm9idz3.jpg",
+              "prixBoutique": 36,
+              "stock": 1
             }
           ]
         },

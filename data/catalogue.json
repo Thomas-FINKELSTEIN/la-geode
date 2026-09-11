@@ -4071,16 +4071,25 @@
               "photo": "images/articles/pendentif-oeil-de-tigre-mtwmdywwc1e3.jpg",
               "prixBoutique": 18.5,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/14A3cwgEy6ZD4wobBT28a0t",
               "stripeProductId": "prod_VEsPBocYOR0ixO",
+              "stripePriceId": "price_1UEOerLOfCA5mATuWGGsgsPx",
+              "stripeLinkId": "plink_1UEOesLOfCA5mATuAoMvVsxS",
+              "stripePrix": 19.38,
               "stripeMode": "live",
               "stripeNom": "Pendentif oeil de tigre",
               "stripeDesc": "Ce bracelet en oeil de tigre est un accessoire naturel et élégant qui apporte une touche d'énergie positive à votre quotidien. Selon la lithothérapie, cette pierre est souvent associée à la protection, au courage et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler la vitalité. Parfait pour un port au quotidien, il allie beauté et bien-être naturel.",
-              "stripePriceId": "price_1UEOerLOfCA5mATuWGGsgsPx",
-              "stripePrix": 19.38,
-              "stripeLinkId": "plink_1UEOesLOfCA5mATuAoMvVsxS",
-              "stripe": "https://buy.stripe.com/14A3cwgEy6ZD4wobBT28a0t",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendentif-quartz-fume-mtwmfxialmyr",
+              "nom": "Pendentif quartz fumé",
+              "prix": 19.9,
+              "description": "Ce pendentif en quartz fumé est une pierre aux énergies apaisantes et équilibrantes, idéale pour calmer le stress et favoriser la concentration. Utilisée en lithothérapie, elle est souvent appelée la pierre des mystiques grâce à sa capacité à renforcer l’intuition et la sagesse. Parfait pour une utilisation quotidienne, il peut être porté en collier ou simplement gardé dans un espace de travail ou de méditation pour en tirer ses bienfaits.",
+              "photo": "images/articles/pendentif-quartz-fume-mtwmfxiaq7z3.jpg",
+              "prixBoutique": 19,
+              "stock": 1
             }
           ]
         },

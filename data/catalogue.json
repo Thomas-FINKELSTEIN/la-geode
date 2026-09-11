@@ -4849,7 +4849,17 @@
               "description": "Ce pendentif en obsidienne représente un bouddha assis en méditation, symbole de paix et de sérénité. L'obsidienne est souvent utilisée en lithothérapie pour absorber les énergies négatives et renforcer la protection spirituelle. Parfait pour accompagner vos moments de détente ou de méditation, il apporte un équilibre émotionnel et une connexion profonde à soi-même.",
               "photo": "images/articles/pendentif-bouddha-obsidienne-mtx3ypt513ca.jpg",
               "prixBoutique": 29.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VF0L9gztuFUz7X",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif bouddha obsidienne",
+              "stripeDesc": "Ce pendentif en obsidienne représente un bouddha assis en méditation, symbole de paix et de sérénité. L'obsidienne est souvent utilisée en lithothérapie pour absorber les énergies négatives et renforcer la protection spirituelle. Parfait pour accompagner vos moments de détente ou de méditation, il apporte un équilibre émotionnel et une connexion profonde à soi-même.",
+              "stripePriceId": "price_1UEWL5LOfCA5mATu69U1Q96s",
+              "stripePrix": 30.75,
+              "stripeLinkId": "plink_1UEWL6LOfCA5mATusdrn7Ege",
+              "stripe": "https://buy.stripe.com/fZucN61JE3NrbYQ5dv28a19",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

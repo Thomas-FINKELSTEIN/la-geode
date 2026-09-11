@@ -4299,16 +4299,25 @@
               "photo": "images/articles/pendentif-jaspe-dendritique-mtwn5xj7kt4b.jpg",
               "prixBoutique": 19.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00w5kE9c62Jn5As35n28a0F",
               "stripeProductId": "prod_VEslyQibGqEu0G",
+              "stripePriceId": "price_1UEP05LOfCA5mATuhjqXa7hr",
+              "stripeLinkId": "plink_1UEP06LOfCA5mATuHM2Mfl0x",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendentif jaspe dendritique",
               "stripeDesc": "Ce pendentif en jaspe dendritique est une pièce unique aux motifs organiques et apaisants. Le jaspe dendritique est souvent associé à la protection énergétique et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la stabilité intérieure. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver un sentiment de sérénité.",
-              "stripePriceId": "price_1UEP05LOfCA5mATuhjqXa7hr",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UEP06LOfCA5mATuHM2Mfl0x",
-              "stripe": "https://buy.stripe.com/00w5kE9c62Jn5As35n28a0F",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-jaspe-dendritique-mtwn82pvb8cq",
+              "nom": "Pendentif jaspe dendritique",
+              "prix": 20.83,
+              "description": "Ce pendentif en jaspe dendritique met en valeur des motifs organiques uniques rappelant des branches ou des feuilles, créant une pièce naturelle et élégante. Le jaspe dendritique est souvent associé à la stabilité émotionnelle, à la protection et à l'ancrage, aidant à apaiser les esprits agités et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent un équilibre entre énergie positive et sérénité.",
+              "photo": "images/articles/pendentif-jaspe-dendritique-mtwn82pvzz7k.jpg",
+              "prixBoutique": 19.9,
+              "stock": 1
             }
           ]
         },

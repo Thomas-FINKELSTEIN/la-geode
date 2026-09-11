@@ -4033,16 +4033,25 @@
               "photo": "images/articles/pendentif-orgonite-mtwm9kg1kmnc.jpg",
               "prixBoutique": 23.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/28E7sM4VQbfT7IAcFX28a0r",
               "stripeProductId": "prod_VEsMCKvOtvCl0u",
+              "stripePriceId": "price_1UEObaLOfCA5mATuUhDufThN",
+              "stripeLinkId": "plink_1UEObbLOfCA5mATuqv73kUGI",
+              "stripePrix": 24.97,
               "stripeMode": "live",
               "stripeNom": "Pendentif orgonite",
               "stripeDesc": "Ce pendentif en orgonite est un objet protecteur et purificateur, souvent utilisé pour équilibrer les énergies négatives autour de soi. Composé de résine et de métaux, il est réputé pour absorber les ondes électromagnétiques et favoriser un environnement harmonieux. Idéal pour le porter au quotidien, il apporte une sensation de calme et de bien-être, tout en renforçant la connexion à une énergie positive.",
-              "stripePriceId": "price_1UEObaLOfCA5mATuUhDufThN",
-              "stripePrix": 24.97,
-              "stripeLinkId": "plink_1UEObbLOfCA5mATuqv73kUGI",
-              "stripe": "https://buy.stripe.com/28E7sM4VQbfT7IAcFX28a0r",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-jaspe-dendritique-mtwmc3u82zu6",
+              "nom": "Pendentif jaspe dendritique",
+              "prix": 25.07,
+              "description": "Ce pendentif en jaspe dendritique est une pièce unique aux motifs organiques et apaisants. Cette pierre naturelle, aux reflets doux et aux veines sombres, est souvent associée à la stabilité émotionnelle et à la connexion avec la nature. En lithothérapie, elle est utilisée pour favoriser la sérénité, renforcer la confiance en soi et équilibrer les énergies.",
+              "photo": "images/articles/pendentif-jaspe-dendritique-mtwmc3u81k75.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

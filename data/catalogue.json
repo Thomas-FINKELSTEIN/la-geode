@@ -4735,7 +4735,17 @@
               "description": "Ce talon en obsidienne extra est une pièce puissante et mystérieuse, souvent utilisée pour ses propriétés de protection et de renforcement spirituel. L'obsidienne est réputée pour aider à libérer les blocages émotionnels et à favoriser une connexion profonde avec son intuition. Parfaite pour ceux qui cherchent à équilibrer leurs énergies et à renforcer leur ancrage dans le quotidien.",
               "photo": "images/articles/pendentif-obsidienne-extra-mtx31ie60wkl.jpg",
               "prixBoutique": 69,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEzvl452nalgpr",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne extra",
+              "stripeDesc": "Ce talon en obsidienne extra est une pièce puissante et mystérieuse, souvent utilisée pour ses propriétés de protection et de renforcement spirituel. L'obsidienne est réputée pour aider à libérer les blocages émotionnels et à favoriser une connexion profonde avec son intuition. Parfaite pour ceux qui cherchent à équilibrer leurs énergies et à renforcer leur ancrage dans le quotidien.",
+              "stripePriceId": "price_1UEVw6LOfCA5mATuB7YkbyiX",
+              "stripePrix": 71.58,
+              "stripeLinkId": "plink_1UEVw6LOfCA5mATuPbL1MCUm",
+              "stripe": "https://buy.stripe.com/fZufZibkeabP9QIfS928a13",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

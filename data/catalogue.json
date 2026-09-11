@@ -4394,16 +4394,25 @@
               "photo": "images/articles/pendentif-organite-mtwoq4ku3m59.jpg",
               "prixBoutique": 23.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI00k5ZUabP7IA6hz28a0L",
               "stripeProductId": "prod_VEtTr1DIuuGMP8",
+              "stripePriceId": "price_1UEPgILOfCA5mATulBJ3MrN1",
+              "stripeLinkId": "plink_1UEPgILOfCA5mATuULfiOSiE",
+              "stripePrix": 24.97,
               "stripeMode": "live",
               "stripeNom": "Pendentif organite",
               "stripeDesc": "Ce pendentif en organite est une pierre naturelle aux reflets doux et apaisants, souvent utilisée pour son énergie harmonieuse. En lithothérapie, elle est réputée pour favoriser la sérénité et équilibrer les émotions, aidant à apaiser les tensions du quotidien. Parfaite pour une utilisation en méditation ou portée au quotidien, elle est idéale pour ceux qui cherchent à cultiver un état de calme intérieur.",
-              "stripePriceId": "price_1UEPgILOfCA5mATulBJ3MrN1",
-              "stripePrix": 24.97,
-              "stripeLinkId": "plink_1UEPgILOfCA5mATuULfiOSiE",
-              "stripe": "https://buy.stripe.com/3cI00k5ZUabP7IA6hz28a0L",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-coeur-oeil-de-tigre-mtwot0t389ye",
+              "nom": "Pendentif coeur oeil de tigre",
+              "prix": 26.1,
+              "description": "Ce pendentif en forme de cœur abrite un oeil de tigre, une pierre aux reflets dorés et chauds, réputée pour apporter force et protection. En lithothérapie, il est souvent utilisé pour stimuler la confiance en soi et équilibrer les émotions. Parfait pour une touche d'énergie positive au quotidien, ce bijou s'accorde aussi bien avec un style bohème qu'avec des tenues élégantes.",
+              "photo": "images/articles/pendentif-coeur-oeil-de-tigre-mtwot0t32ee0.jpg",
+              "prixBoutique": 25,
+              "stock": 1
             }
           ]
         },

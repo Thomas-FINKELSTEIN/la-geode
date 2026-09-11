@@ -4945,16 +4945,25 @@
               "photo": "images/articles/pendentif-oeil-de-tigre-mtx4mut0kbpe.jpg",
               "prixBoutique": 34,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6dRacoifw9bYQcFX28a1f",
               "stripeProductId": "prod_VF0eFPOjNBfQuE",
+              "stripePriceId": "price_1UEWdBLOfCA5mATulyMwi4id",
+              "stripeLinkId": "plink_1UEWdCLOfCA5mATuikwAIXGJ",
+              "stripePrix": 35.41,
               "stripeMode": "live",
               "stripeNom": "Pendentif oeil de tigre",
               "stripeDesc": "Ce pendentif en oeil de tigre est une pièce unique aux reflets dorés et aux motifs en bandes captivants. Selon la lithothérapie, cette pierre est souvent associée à la vitalité, à la protection et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'énergie positive. Parfait pour être porté au quotidien, il apporte une touche d'élégance naturelle tout en invitant à une harmonie intérieure.",
-              "stripePriceId": "price_1UEWdBLOfCA5mATulyMwi4id",
-              "stripePrix": 35.41,
-              "stripeLinkId": "plink_1UEWdCLOfCA5mATuikwAIXGJ",
-              "stripe": "https://buy.stripe.com/9B6dRacoifw9bYQcFX28a1f",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-mtx4tprm2pxo",
+              "nom": "Pendentif obsidienne",
+              "prix": 35.41,
+              "description": "Ce pendentif en obsidienne, pierre de protection et de purification, est un allié puissant pour apaiser les émotions et renforcer la stabilité intérieure. Ses reflets sombres et ses bandes lumineuses captent les énergies négatives pour les transformer en force positive. Porté au quotidien, il favorise la concentration et aide à retrouver un équilibre émotionnel profond.",
+              "photo": "images/articles/pendentif-obsidienne-mtx4tprm74rr.jpg",
+              "prixBoutique": 34,
+              "stock": 1
             }
           ]
         },

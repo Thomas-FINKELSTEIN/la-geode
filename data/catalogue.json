@@ -4697,7 +4697,17 @@
               "description": "Ce pendentif en aventurine verte est une pièce élégante et apaisante, souvent utilisée pour favoriser la croissance personnelle et l’harmonie émotionnelle. Selon la lithothérapie, cette pierre douce et lumineuse est réputée pour apporter sérénité, chance et équilibre dans la vie quotidienne. Parfaite pour être portée au quotidien, elle est idéale pour ceux qui cherchent à renforcer leur confiance et leur bien-être naturel.",
               "photo": "images/articles/pendentif-aventurine-verte-mtx2gvcmfv0t.jpg",
               "prixBoutique": 22.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VEzfJBkrQ28urg",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif aventurine verte",
+              "stripeDesc": "Ce pendentif en aventurine verte est une pièce élégante et apaisante, souvent utilisée pour favoriser la croissance personnelle et l’harmonie émotionnelle. Selon la lithothérapie, cette pierre douce et lumineuse est réputée pour apporter sérénité, chance et équilibre dans la vie quotidienne. Parfaite pour être portée au quotidien, elle est idéale pour ceux qui cherchent à renforcer leur confiance et leur bien-être naturel.",
+              "stripePriceId": "price_1UEVgVLOfCA5mATuvaDv1rXM",
+              "stripePrix": 23.93,
+              "stripeLinkId": "plink_1UEVgWLOfCA5mATuhSiZvgac",
+              "stripe": "https://buy.stripe.com/dRm4gAewq2Jn0g8cFX28a11",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

@@ -4166,16 +4166,25 @@
               "photo": "images/articles/pendentif-calcite-jaune-mtwmr5buglsk.jpg",
               "prixBoutique": 9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQdRa9c66ZDfb29tL28a0y",
               "stripeProductId": "prod_VEsZ1ERceK9h1O",
+              "stripePriceId": "price_1UEOopLOfCA5mATuoH5fAdqA",
+              "stripeLinkId": "plink_1UEOopLOfCA5mATuyHIjmQ64",
+              "stripePrix": 9.57,
               "stripeMode": "live",
               "stripeNom": "Pendentif calcite jaune",
               "stripeDesc": "Ce pendentif en calcite jaune est une pierre douce et apaisante, idéale pour équilibrer les énergies et apporter une touche de lumière dans votre quotidien. En lithothérapie, elle est souvent utilisée pour stimuler la joie et la positivité, tout en favorisant la clarté mentale et la concentration. Parfaite à porter près du cœur ou sur le troisième œil, elle aide à dissoudre les tensions et à renforcer la confiance en soi.",
-              "stripePriceId": "price_1UEOopLOfCA5mATuoH5fAdqA",
-              "stripePrix": 9.57,
-              "stripeLinkId": "plink_1UEOopLOfCA5mATuyHIjmQ64",
-              "stripe": "https://buy.stripe.com/5kQdRa9c66ZDfb29tL28a0y",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-orgonite-mtwmslbe50k6",
+              "nom": "Pendentif orgonite",
+              "prix": 24.97,
+              "description": "Ce pendentif en orgonite est une pièce unique alliant esthétique et bien-être énergétique. Composé de résine transparente et de fils métalliques en spirale, il est souvent utilisé pour purifier les espaces et harmoniser les énergies ambiantes. En lithothérapie, l’orgonite est réputée pour son action apaisante et protectrice, aidant à équilibrer les émotions et à créer une atmosphère sereine.",
+              "photo": "images/articles/pendentif-orgonite-mtwmslbeu843.jpg",
+              "prixBoutique": 23.9,
+              "stock": 1
             }
           ]
         },

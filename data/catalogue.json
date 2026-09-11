@@ -4089,7 +4089,17 @@
               "description": "Ce pendentif en quartz fumé est une pierre aux énergies apaisantes et équilibrantes, idéale pour calmer le stress et favoriser la concentration. Utilisée en lithothérapie, elle est souvent appelée la pierre des mystiques grâce à sa capacité à renforcer l’intuition et la sagesse. Parfait pour une utilisation quotidienne, il peut être porté en collier ou simplement gardé dans un espace de travail ou de méditation pour en tirer ses bienfaits.",
               "photo": "images/articles/pendentif-quartz-fume-mtwmfxiaq7z3.jpg",
               "prixBoutique": 19,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEsRPCFw7KIGes",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz fumé",
+              "stripeDesc": "Ce pendentif en quartz fumé est une pierre aux énergies apaisantes et équilibrantes, idéale pour calmer le stress et favoriser la concentration. Utilisée en lithothérapie, elle est souvent appelée la pierre des mystiques grâce à sa capacité à renforcer l’intuition et la sagesse. Parfait pour une utilisation quotidienne, il peut être porté en collier ou simplement gardé dans un espace de travail ou de méditation pour en tirer ses bienfaits.",
+              "stripePriceId": "price_1UEOgKLOfCA5mATuhkZw99W8",
+              "stripePrix": 19.9,
+              "stripeLinkId": "plink_1UEOgKLOfCA5mATuVBFOuUhx",
+              "stripe": "https://buy.stripe.com/4gM3cw3RM5Vz0g86hz28a0u",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

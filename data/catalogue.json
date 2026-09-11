@@ -4185,16 +4185,25 @@
               "photo": "images/articles/pendentif-orgonite-mtwmslbeu843.jpg",
               "prixBoutique": 23.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQaEYcoibfT6EwgWd28a0z",
               "stripeProductId": "prod_VEsbVsL85AokJa",
+              "stripePriceId": "price_1UEOpvLOfCA5mATupNihqvk1",
+              "stripeLinkId": "plink_1UEOpvLOfCA5mATuIuxJr09W",
+              "stripePrix": 24.97,
               "stripeMode": "live",
               "stripeNom": "Pendentif orgonite",
               "stripeDesc": "Ce pendentif en orgonite est une pièce unique alliant esthétique et bien-être énergétique. Composé de résine transparente et de fils métalliques en spirale, il est souvent utilisé pour purifier les espaces et harmoniser les énergies ambiantes. En lithothérapie, l’orgonite est réputée pour son action apaisante et protectrice, aidant à équilibrer les émotions et à créer une atmosphère sereine.",
-              "stripePriceId": "price_1UEOpvLOfCA5mATupNihqvk1",
-              "stripePrix": 24.97,
-              "stripeLinkId": "plink_1UEOpvLOfCA5mATuIuxJr09W",
-              "stripe": "https://buy.stripe.com/5kQaEYcoibfT6EwgWd28a0z",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-selenite-mtwmu0vuo22a",
+              "nom": "Pendentif sélénite",
+              "prix": 15.77,
+              "description": "Le pendentif en sélénite est une pièce unique et lumineuse qui capte la lumière pour créer une ambiance apaisante. Cette pierre aux reflets laiteux est souvent utilisée en lithothérapie pour favoriser la connexion à l’énergie spirituelle et apaiser l’esprit. Idéale pour méditer ou simplement porter au quotidien, elle est réputée pour purifier les chakras et favoriser la clarté mentale.",
+              "photo": "images/articles/pendentif-selenite-mtwmu0vunp75.jpg",
+              "prixBoutique": 15,
+              "stock": 1
             }
           ]
         },

@@ -4204,16 +4204,25 @@
               "photo": "images/articles/pendentif-selenite-mtwmu0vunp75.jpg",
               "prixBoutique": 15,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU4gAdsmes50g8bBT28a0A",
               "stripeProductId": "prod_VEscIQIZUhOual",
+              "stripePriceId": "price_1UEOqyLOfCA5mATuqZS73eaX",
+              "stripeLinkId": "plink_1UEOqyLOfCA5mATunR3b9iuR",
+              "stripePrix": 15.77,
               "stripeMode": "live",
               "stripeNom": "Pendentif sélénite",
               "stripeDesc": "Le pendentif en sélénite est une pièce unique et lumineuse qui capte la lumière pour créer une ambiance apaisante. Cette pierre aux reflets laiteux est souvent utilisée en lithothérapie pour favoriser la connexion à l’énergie spirituelle et apaiser l’esprit. Idéale pour méditer ou simplement porter au quotidien, elle est réputée pour purifier les chakras et favoriser la clarté mentale.",
-              "stripePriceId": "price_1UEOqyLOfCA5mATuqZS73eaX",
-              "stripePrix": 15.77,
-              "stripeLinkId": "plink_1UEOqyLOfCA5mATunR3b9iuR",
-              "stripe": "https://buy.stripe.com/6oU4gAdsmes50g8bBT28a0A",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-orgonite-mtwmvblf8mnz",
+              "nom": "Pendentif orgonite",
+              "prix": 24.97,
+              "description": "Ce pendentif en orgonite est un objet puissant pour purifier et équilibrer les énergies autour de vous. Traditionnellement utilisé en lithothérapie, il est réputé pour absorber les ondes négatives et favoriser un environnement harmonieux. Parfait pour porter au quotidien, il apporte une sensation de bien-être et de protection énergétique.",
+              "photo": "images/articles/pendentif-orgonite-mtwmvblftlb9.jpg",
+              "prixBoutique": 23.9,
+              "stock": 2
             }
           ]
         },

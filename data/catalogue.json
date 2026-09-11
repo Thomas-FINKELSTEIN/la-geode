@@ -4678,7 +4678,17 @@
               "description": "Ce pendentif en howlite se distingue par son design élégant représentant un arbre aux branches chargées de feuilles délicates. La howlite, souvent appelée pierre de calme, est réputée pour apaiser les émotions et favoriser la sérénité. Elle est idéale pour ceux qui cherchent à équilibrer leurs énergies et à trouver un état de paix intérieure au quotidien.",
               "photo": "images/articles/pendentif-howlite-mtx2cqnx4uwd.jpg",
               "prixBoutique": 22.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VEzcpxghmFD4rF",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif howlite",
+              "stripeDesc": "Ce pendentif en howlite se distingue par son design élégant représentant un arbre aux branches chargées de feuilles délicates. La howlite, souvent appelée pierre de calme, est réputée pour apaiser les émotions et favoriser la sérénité. Elle est idéale pour ceux qui cherchent à équilibrer leurs énergies et à trouver un état de paix intérieure au quotidien.",
+              "stripePriceId": "price_1UEVdVLOfCA5mATu8gdP2P8Z",
+              "stripePrix": 23.93,
+              "stripeLinkId": "plink_1UEVdVLOfCA5mATuFoAS68bD",
+              "stripe": "https://buy.stripe.com/bJe7sMdsm97L1kccFX28a10",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

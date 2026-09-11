@@ -4584,16 +4584,25 @@
               "photo": "images/articles/pendentif-cristal-de-roche-mtwrosemvi3a.jpg",
               "prixBoutique": 22.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/3cIeVe2NI97Ld2U5dv28a0V",
               "stripeProductId": "prod_VEuonTAh08hykw",
+              "stripePriceId": "price_1UEQyVLOfCA5mATuymejXg3k",
+              "stripeLinkId": "plink_1UEQyVLOfCA5mATu5lWKlEK7",
+              "stripePrix": 23.93,
               "stripeMode": "live",
               "stripeNom": "Pendentif cristal de roche",
               "stripeDesc": "Ce pendentif en cristal de roche est une pièce élégante et intemporelle, souvent utilisée pour ses propriétés purificatrices et équilibrantes. En lithothérapie, le cristal de roche est réputé pour amplifier les énergies positives, clarifier l’esprit et favoriser la concentration. Parfait pour un usage quotidien, il peut être porté comme un talisman de protection et de sérénité.",
-              "stripePriceId": "price_1UEQyVLOfCA5mATuymejXg3k",
-              "stripePrix": 23.93,
-              "stripeLinkId": "plink_1UEQyVLOfCA5mATu5lWKlEK7",
-              "stripe": "https://buy.stripe.com/3cIeVe2NI97Ld2U5dv28a0V",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "pendentif-turquoise-arbre-de-vie-mtwrzdn2l10v",
+              "nom": "Pendentif turquoise arbre de vie",
+              "prix": 23.93,
+              "description": "Ce pendentif en turquoise représente un arbre de vie, symbole de croissance, de connexion et de vitalité. La turquoise est souvent associée à la protection, à la sérénité et à l'équilibre émotionnel, aidant à apaiser le mental et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à attirer des influences positives dans leur vie.",
+              "photo": "images/articles/pendentif-turquoise-arbre-de-vie-mtwrzdn2wh96.jpg",
+              "prixBoutique": 22.9,
+              "stock": 3
             }
           ]
         },

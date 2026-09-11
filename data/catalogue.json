@@ -4641,16 +4641,25 @@
               "photo": "images/articles/pendentif-arbre-de-vie-mtws4be662nx.jpg",
               "prixBoutique": 22.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/14A28s8825Vz7IA35n28a0Y",
               "stripeProductId": "prod_VEv0zIIZSbzixp",
+              "stripePriceId": "price_1UERADLOfCA5mATumA56G8Q5",
+              "stripeLinkId": "plink_1UERADLOfCA5mATuNxzGVhiC",
+              "stripePrix": 23.93,
               "stripeMode": "live",
               "stripeNom": "Pendentif arbre de vie",
               "stripeDesc": "Ce pendentif en forme d'arbre de vie symbolise la croissance, la connexion avec la nature et l'équilibre des énergies. Selon la lithothérapie, il est souvent associé à la vitalité, à la stabilité émotionnelle et à la renaissance. Un accessoire idéal pour porter au quotidien et s'imprégner de ses bienfaits apaisants.",
-              "stripePriceId": "price_1UERADLOfCA5mATumA56G8Q5",
-              "stripePrix": 23.93,
-              "stripeLinkId": "plink_1UERADLOfCA5mATuNxzGVhiC",
-              "stripe": "https://buy.stripe.com/14A28s8825Vz7IA35n28a0Y",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "pendentif-amethyste-mtwsjc60ca3u",
+              "nom": "Pendentif améthyste",
+              "prix": 23.93,
+              "description": "Ce pendentif en améthyste est un bijou élégant et intemporel, mettant en valeur les magnifiques facettes violettes de cette pierre précieuse. En lithothérapie, l'améthyste est souvent associée à la sérénité, à la paix intérieure et à une aide précieuse pour apaiser les émotions. Elle est aussi réputée pour favoriser la concentration et renforcer la connexion spirituelle, ce qui en fait un allié de choix pour le bien-être au quotidien.",
+              "photo": "images/articles/pendentif-amethyste-mtwsjc603lkt.jpg",
+              "prixBoutique": 22.9,
+              "stock": 5
             }
           ]
         },

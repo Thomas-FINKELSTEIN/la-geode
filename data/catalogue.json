@@ -4831,16 +4831,25 @@
               "photo": "images/articles/pendentif-obsidienne-doree-mtx3vni8uaox.jpg",
               "prixBoutique": 36,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00w9AU5ZU0Bf4wo49r28a18",
               "stripeProductId": "prod_VF0J6cbyFG6aCD",
+              "stripePriceId": "price_1UEWIgLOfCA5mATujUUySC99",
+              "stripeLinkId": "plink_1UEWIgLOfCA5mATur0rrNMm9",
+              "stripePrix": 37.47,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne dorée",
               "stripeDesc": "Ce pendentif en obsidienne dorée est une pièce unique alliant élégance et énergie protectrice. L'obsidienne, pierre volcanique aux reflets sombres et profonds, est souvent utilisée en lithothérapie pour absorber les énergies négatives et renforcer la stabilité émotionnelle. Parfait pour être porté au quotidien, il apporte un équilibre intérieur et une protection subtile, tout en ajoutant une touche mystérieuse et raffinée à vos tenues.",
-              "stripePriceId": "price_1UEWIgLOfCA5mATujUUySC99",
-              "stripePrix": 37.47,
-              "stripeLinkId": "plink_1UEWIgLOfCA5mATur0rrNMm9",
-              "stripe": "https://buy.stripe.com/00w9AU5ZU0Bf4wo49r28a18",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-bouddha-obsidienne-mtx3ypt57iqc",
+              "nom": "Pendentif bouddha obsidienne",
+              "prix": 30.75,
+              "description": "Ce pendentif en obsidienne représente un bouddha assis en méditation, symbole de paix et de sérénité. L'obsidienne est souvent utilisée en lithothérapie pour absorber les énergies négatives et renforcer la protection spirituelle. Parfait pour accompagner vos moments de détente ou de méditation, il apporte un équilibre émotionnel et une connexion profonde à soi-même.",
+              "photo": "images/articles/pendentif-bouddha-obsidienne-mtx3ypt513ca.jpg",
+              "prixBoutique": 29.5,
+              "stock": 1
             }
           ]
         },

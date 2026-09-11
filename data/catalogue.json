@@ -4431,7 +4431,17 @@
               "description": "Ce pendentif en forme de cœur est composé d’orgonite, un matériau naturel aux propriétés énergétiques réputées. Selon la lithothérapie, il favoriserait l’équilibre émotionnel et la protection contre les énergies négatives. Idéal pour porter au quotidien, il est souvent utilisé pour apaiser le stress et renforcer la connexion à son énergie intérieure.",
               "photo": "images/articles/pendentif-orgonite-mtwougfie5v0.jpg",
               "prixBoutique": 23.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEtWEzWL387RT3",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif orgonite",
+              "stripeDesc": "Ce pendentif en forme de cœur est composé d’orgonite, un matériau naturel aux propriétés énergétiques réputées. Selon la lithothérapie, il favoriserait l’équilibre émotionnel et la protection contre les énergies négatives. Idéal pour porter au quotidien, il est souvent utilisé pour apaiser le stress et renforcer la connexion à son énergie intérieure.",
+              "stripePriceId": "price_1UEPjULOfCA5mATu1bQSuvwS",
+              "stripePrix": 24.97,
+              "stripeLinkId": "plink_1UEPjULOfCA5mATuVzIBcDNh",
+              "stripe": "https://buy.stripe.com/8x26oIgEyabP7IA8pH28a0N",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

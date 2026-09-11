@@ -4944,7 +4944,17 @@
               "description": "Ce pendentif en oeil de tigre est une pièce unique aux reflets dorés et aux motifs en bandes captivants. Selon la lithothérapie, cette pierre est souvent associée à la vitalité, à la protection et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'énergie positive. Parfait pour être porté au quotidien, il apporte une touche d'élégance naturelle tout en invitant à une harmonie intérieure.",
               "photo": "images/articles/pendentif-oeil-de-tigre-mtx4mut0kbpe.jpg",
               "prixBoutique": 34,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VF0eFPOjNBfQuE",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif oeil de tigre",
+              "stripeDesc": "Ce pendentif en oeil de tigre est une pièce unique aux reflets dorés et aux motifs en bandes captivants. Selon la lithothérapie, cette pierre est souvent associée à la vitalité, à la protection et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'énergie positive. Parfait pour être porté au quotidien, il apporte une touche d'élégance naturelle tout en invitant à une harmonie intérieure.",
+              "stripePriceId": "price_1UEWdBLOfCA5mATulyMwi4id",
+              "stripePrix": 35.41,
+              "stripeLinkId": "plink_1UEWdCLOfCA5mATuikwAIXGJ",
+              "stripe": "https://buy.stripe.com/9B6dRacoifw9bYQcFX28a1f",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

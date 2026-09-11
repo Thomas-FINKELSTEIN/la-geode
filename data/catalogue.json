@@ -4184,7 +4184,17 @@
               "description": "Ce pendentif en orgonite est une pièce unique alliant esthétique et bien-être énergétique. Composé de résine transparente et de fils métalliques en spirale, il est souvent utilisé pour purifier les espaces et harmoniser les énergies ambiantes. En lithothérapie, l’orgonite est réputée pour son action apaisante et protectrice, aidant à équilibrer les émotions et à créer une atmosphère sereine.",
               "photo": "images/articles/pendentif-orgonite-mtwmslbeu843.jpg",
               "prixBoutique": 23.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEsbVsL85AokJa",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif orgonite",
+              "stripeDesc": "Ce pendentif en orgonite est une pièce unique alliant esthétique et bien-être énergétique. Composé de résine transparente et de fils métalliques en spirale, il est souvent utilisé pour purifier les espaces et harmoniser les énergies ambiantes. En lithothérapie, l’orgonite est réputée pour son action apaisante et protectrice, aidant à équilibrer les émotions et à créer une atmosphère sereine.",
+              "stripePriceId": "price_1UEOpvLOfCA5mATupNihqvk1",
+              "stripePrix": 24.97,
+              "stripeLinkId": "plink_1UEOpvLOfCA5mATuIuxJr09W",
+              "stripe": "https://buy.stripe.com/5kQaEYcoibfT6EwgWd28a0z",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

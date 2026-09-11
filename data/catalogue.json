@@ -4507,7 +4507,17 @@
               "description": "Ce pendentif en quartz rose est une pièce délicate et apaisante, souvent utilisée pour favoriser l'harmonie émotionnelle et l'amour bienveillant. Selon la lithothérapie, cette pierre douce et énergétique aide à ouvrir le cœur, à apaiser les tensions et à renforcer les relations. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver la sérénité et la compassion.",
               "photo": "images/articles/pendentif-quartz-rose-mtwr742gpzdt.jpg",
               "prixBoutique": 18.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEuaWb468UlEZw",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz rose",
+              "stripeDesc": "Ce pendentif en quartz rose est une pièce délicate et apaisante, souvent utilisée pour favoriser l'harmonie émotionnelle et l'amour bienveillant. Selon la lithothérapie, cette pierre douce et énergétique aide à ouvrir le cœur, à apaiser les tensions et à renforcer les relations. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver la sérénité et la compassion.",
+              "stripePriceId": "price_1UEQlBLOfCA5mATuKCBnLhkO",
+              "stripePrix": 19.8,
+              "stripeLinkId": "plink_1UEQlCLOfCA5mATum4IBxCf5",
+              "stripe": "https://buy.stripe.com/aFa4gAewqabPaUM6hz28a0R",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -4356,16 +4356,25 @@
               "photo": "images/articles/pendentif-jaspe-mokaite-mtwncotyw24t.jpg",
               "prixBoutique": 25,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ28s4VQdo10g86hz28a0I",
               "stripeProductId": "prod_VEsquo4S7HPbK5",
+              "stripePriceId": "price_1UEP50LOfCA5mATuFRxFJHcc",
+              "stripeLinkId": "plink_1UEP51LOfCA5mATunwC22VD7",
+              "stripePrix": 26.1,
               "stripeMode": "live",
               "stripeNom": "Pendentif jaspe mokaite",
               "stripeDesc": "Ce pendentif en jaspe mokaite se distingue par ses veines dorées et ses reflets chauds, offrant une touche d'élégance naturelle. En lithothérapie, cette pierre est souvent associée à la stabilité émotionnelle et à la protection, aidant à apaiser les tensions et à renforcer la confiance en soi. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent un allié discret mais puissant pour équilibrer leur énergie.",
-              "stripePriceId": "price_1UEP50LOfCA5mATuFRxFJHcc",
-              "stripePrix": 26.1,
-              "stripeLinkId": "plink_1UEP51LOfCA5mATunwC22VD7",
-              "stripe": "https://buy.stripe.com/5kQ28s4VQdo10g86hz28a0I",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-citrine-cercler-mtwnoxxnke8e",
+              "nom": "Pendentif citrine cercler",
+              "prix": 25.07,
+              "description": "Ce pendentif en citrine, entouré d’un fin cercle élégant, est une pierre aux reflets dorés apaisants. En lithothérapie, la citrine est souvent associée à la joie et à la confiance en soi, aidant à éclaircir les énergies négatives et à attirer la prospérité. Porté au quotidien, il est idéal pour stimuler l’optimisme et apporter une touche de lumière chaleureuse à votre style.",
+              "photo": "images/articles/pendentif-citrine-cercler-mtwnoxxn24kw.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

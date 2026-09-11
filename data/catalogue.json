@@ -4754,7 +4754,17 @@
               "description": "Ce pendentif en obsidienne extra oeil céleste est une pierre aux énergies puissantes et protectrices. Traditionnellement utilisée en lithothérapie pour renforcer la confiance en soi et apaiser les émotions, elle aide à libérer les blocages intérieurs et favorise un retour à l'équilibre. Parfaite pour être portée au quotidien, elle est idéale pour ceux qui cherchent à renforcer leur intuition et leur connexion spirituelle.",
               "photo": "images/articles/pendentif-obsidienne-extra-oeil-celeste-mtx337q6da9d.jpg",
               "prixBoutique": 69,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEzxEIRkAEdsaI",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne extra oeil céleste",
+              "stripeDesc": "Ce pendentif en obsidienne extra oeil céleste est une pierre aux énergies puissantes et protectrices. Traditionnellement utilisée en lithothérapie pour renforcer la confiance en soi et apaiser les émotions, elle aide à libérer les blocages intérieurs et favorise un retour à l'équilibre. Parfaite pour être portée au quotidien, elle est idéale pour ceux qui cherchent à renforcer leur intuition et leur connexion spirituelle.",
+              "stripePriceId": "price_1UEVxLLOfCA5mATuMvejRcpN",
+              "stripePrix": 71.58,
+              "stripeLinkId": "plink_1UEVxLLOfCA5mATuJX9EXLv6",
+              "stripe": "https://buy.stripe.com/14AdRa2NIcjX7IA8pH28a14",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

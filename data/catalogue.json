@@ -4660,16 +4660,25 @@
               "photo": "images/articles/pendentif-amethyste-mtwsjc603lkt.jpg",
               "prixBoutique": 22.9,
               "stock": 5,
+              "stripe": "https://buy.stripe.com/bJebJ20FA0BfaUM21j28a0Z",
               "stripeProductId": "prod_VEvBu0sgM2w5GJ",
+              "stripePriceId": "price_1UERLVLOfCA5mATuVNn75WHh",
+              "stripeLinkId": "plink_1UERLVLOfCA5mATu3kUgstro",
+              "stripePrix": 23.93,
               "stripeMode": "live",
               "stripeNom": "Pendentif améthyste",
               "stripeDesc": "Ce pendentif en améthyste est un bijou élégant et intemporel, mettant en valeur les magnifiques facettes violettes de cette pierre précieuse. En lithothérapie, l'améthyste est souvent associée à la sérénité, à la paix intérieure et à une aide précieuse pour apaiser les émotions. Elle est aussi réputée pour favoriser la concentration et renforcer la connexion spirituelle, ce qui en fait un allié de choix pour le bien-être au quotidien.",
-              "stripePriceId": "price_1UERLVLOfCA5mATuVNn75WHh",
-              "stripePrix": 23.93,
-              "stripeLinkId": "plink_1UERLVLOfCA5mATu3kUgstro",
-              "stripe": "https://buy.stripe.com/bJebJ20FA0BfaUM21j28a0Z",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "pendentif-howlite-mtx2cqnxd5x6",
+              "nom": "Pendentif howlite",
+              "prix": 23.93,
+              "description": "Ce pendentif en howlite se distingue par son design élégant représentant un arbre aux branches chargées de feuilles délicates. La howlite, souvent appelée pierre de calme, est réputée pour apaiser les émotions et favoriser la sérénité. Elle est idéale pour ceux qui cherchent à équilibrer leurs énergies et à trouver un état de paix intérieure au quotidien.",
+              "photo": "images/articles/pendentif-howlite-mtx2cqnx4uwd.jpg",
+              "prixBoutique": 22.9,
+              "stock": 4
             }
           ]
         },

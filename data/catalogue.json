@@ -4127,7 +4127,17 @@
               "description": "Ce pendentif en agate plaque est une pièce naturelle aux reflets dorés et aux nuances apaisantes. L’agate plaque est souvent associée à la stabilité émotionnelle et à l’équilibre énergétique, aidant à apaiser les tensions du quotidien. Portée en bijou, elle est idéale pour ceux qui cherchent à renforcer leur calme intérieur et leur ancrage.",
               "photo": "images/articles/pendentif-agate-plaque-mtwmji7lzcwb.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEsUUL1ZO0MbNo",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif agate plaque",
+              "stripeDesc": "Ce pendentif en agate plaque est une pièce naturelle aux reflets dorés et aux nuances apaisantes. L’agate plaque est souvent associée à la stabilité émotionnelle et à l’équilibre énergétique, aidant à apaiser les tensions du quotidien. Portée en bijou, elle est idéale pour ceux qui cherchent à renforcer leur calme intérieur et leur ancrage.",
+              "stripePriceId": "price_1UEOj4LOfCA5mATufSUxFc3E",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UEOj5LOfCA5mATuOO2SMHkb",
+              "stripe": "https://buy.stripe.com/3cI4gA0FA3Nr9QIgWd28a0w",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

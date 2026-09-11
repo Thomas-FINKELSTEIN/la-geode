@@ -4698,16 +4698,25 @@
               "photo": "images/articles/pendentif-aventurine-verte-mtx2gvcmfv0t.jpg",
               "prixBoutique": 22.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/dRm4gAewq2Jn0g8cFX28a11",
               "stripeProductId": "prod_VEzfJBkrQ28urg",
+              "stripePriceId": "price_1UEVgVLOfCA5mATuvaDv1rXM",
+              "stripeLinkId": "plink_1UEVgWLOfCA5mATuhSiZvgac",
+              "stripePrix": 23.93,
               "stripeMode": "live",
               "stripeNom": "Pendentif aventurine verte",
               "stripeDesc": "Ce pendentif en aventurine verte est une pièce élégante et apaisante, souvent utilisée pour favoriser la croissance personnelle et l’harmonie émotionnelle. Selon la lithothérapie, cette pierre douce et lumineuse est réputée pour apporter sérénité, chance et équilibre dans la vie quotidienne. Parfaite pour être portée au quotidien, elle est idéale pour ceux qui cherchent à renforcer leur confiance et leur bien-être naturel.",
-              "stripePriceId": "price_1UEVgVLOfCA5mATuvaDv1rXM",
-              "stripePrix": 23.93,
-              "stripeLinkId": "plink_1UEVgWLOfCA5mATuhSiZvgac",
-              "stripe": "https://buy.stripe.com/dRm4gAewq2Jn0g8cFX28a11",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-extra-mtx2zuq0cur3",
+              "nom": "Pendentif obsidienne extra",
+              "prix": 71.58,
+              "description": "Ce pendentif en obsidienne extra est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur protection énergétique. En lithothérapie, l'obsidienne est souvent utilisée pour purifier les énergies négatives et favoriser un ancrage spirituel apaisant. Parfaite à porter au quotidien, elle aide aussi à canaliser les émotions et à retrouver un équilibre intérieur.",
+              "photo": "images/articles/pendentif-obsidienne-extra-mtx2zuq0ubnk.jpg",
+              "prixBoutique": 69,
+              "stock": 1
             }
           ]
         },

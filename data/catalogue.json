@@ -4773,7 +4773,17 @@
               "description": "Ce pendentif en obsidienne extra est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur protection énergétique. En lithothérapie, l'obsidienne est souvent utilisée pour absorber les énergies négatives et favoriser un retour à l'équilibre émotionnel. Elle est aussi appréciée pour son pouvoir de purification et d'ancrage, aidant à clarifier les pensées et à renforcer la confiance en soi.",
               "photo": "images/articles/pendentif-obsidienne-extra-mtx3b74vmllj.jpg",
               "prixBoutique": 69,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VF03E1X0Hv10DP",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne extra",
+              "stripeDesc": "Ce pendentif en obsidienne extra est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur protection énergétique. En lithothérapie, l'obsidienne est souvent utilisée pour absorber les énergies négatives et favoriser un retour à l'équilibre émotionnel. Elle est aussi appréciée pour son pouvoir de purification et d'ancrage, aidant à clarifier les pensées et à renforcer la confiance en soi.",
+              "stripePriceId": "price_1UEW3MLOfCA5mATu4GV4c5bV",
+              "stripePrix": 71.58,
+              "stripeLinkId": "plink_1UEW3MLOfCA5mATuSkF5ql14",
+              "stripe": "https://buy.stripe.com/9B6bJ2aga83H5AsgWd28a15",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

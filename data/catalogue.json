@@ -4128,16 +4128,25 @@
               "photo": "images/articles/pendentif-agate-plaque-mtwmji7lzcwb.jpg",
               "prixBoutique": 19.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI4gA0FA3Nr9QIgWd28a0w",
               "stripeProductId": "prod_VEsUUL1ZO0MbNo",
+              "stripePriceId": "price_1UEOj4LOfCA5mATufSUxFc3E",
+              "stripeLinkId": "plink_1UEOj5LOfCA5mATuOO2SMHkb",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendentif agate plaque",
               "stripeDesc": "Ce pendentif en agate plaque est une pièce naturelle aux reflets dorés et aux nuances apaisantes. L’agate plaque est souvent associée à la stabilité émotionnelle et à l’équilibre énergétique, aidant à apaiser les tensions du quotidien. Portée en bijou, elle est idéale pour ceux qui cherchent à renforcer leur calme intérieur et leur ancrage.",
-              "stripePriceId": "price_1UEOj4LOfCA5mATufSUxFc3E",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UEOj5LOfCA5mATuOO2SMHkb",
-              "stripe": "https://buy.stripe.com/3cI4gA0FA3Nr9QIgWd28a0w",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-saut-de-salomon-mtwmlil6l3c5",
+              "nom": "Pendentif saut de salomon",
+              "prix": 19.9,
+              "description": "Ce pendentif en saut de salomon est une pièce unique aux reflets violets et translucides, captivante par sa forme géométrique naturelle. Selon la lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel et à la purification énergétique, aidant à apaiser les tensions et à favoriser la clarté mentale. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à renforcer leur connexion spirituelle.",
+              "photo": "images/articles/pendentif-saut-de-salomon-mtwmlil6ire1.jpg",
+              "prixBoutique": 19,
+              "stock": 1
             }
           ]
         },

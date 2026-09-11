@@ -4792,7 +4792,17 @@
               "description": "Ce pendentif en obsidienne présente un motif gracieux de fleur de lotus gravé, symbolisant la pureté et l’éveil spirituel. L’obsidienne est souvent utilisée en lithothérapie pour ses propriétés protectrices et son influence sur l’équilibre émotionnel, aidant à libérer les blocages et à renforcer la confiance en soi. Parfait pour une utilisation quotidienne, ce bijou apporte une touche élégante tout en favorisant un sentiment de calme intérieur.",
               "photo": "images/articles/pendentif-obsidienne-namaste-mtx3pnr3gasu.jpg",
               "prixBoutique": 36,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VF0E9dD0VWJ7Zq",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne namasté",
+              "stripeDesc": "Ce pendentif en obsidienne présente un motif gracieux de fleur de lotus gravé, symbolisant la pureté et l’éveil spirituel. L’obsidienne est souvent utilisée en lithothérapie pour ses propriétés protectrices et son influence sur l’équilibre émotionnel, aidant à libérer les blocages et à renforcer la confiance en soi. Parfait pour une utilisation quotidienne, ce bijou apporte une touche élégante tout en favorisant un sentiment de calme intérieur.",
+              "stripePriceId": "price_1UEWEJLOfCA5mATulSqIZgSR",
+              "stripePrix": 37.47,
+              "stripeLinkId": "plink_1UEWEJLOfCA5mATufIY7Egyo",
+              "stripe": "https://buy.stripe.com/7sY5kEagabfTaUM21j28a16",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

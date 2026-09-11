@@ -4014,16 +4014,25 @@
               "photo": "images/articles/pendentif-shungite-mtwm7aj51toa.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU7sM4VQ1Fj4wodK128a0q",
               "stripeProductId": "prod_VEsKZoNoyAUlxT",
+              "stripePriceId": "price_1UEOZrLOfCA5mATuct41Qgap",
+              "stripeLinkId": "plink_1UEOZsLOfCA5mATuLbWyBOss",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Pendentif shungite",
               "stripeDesc": "Ce pendentif en shungite est un accessoire élégant et mystérieux, apprécié pour ses propriétés énergétiques uniques. Selon la lithothérapie, la shungite est réputée pour absorber les ondes négatives et protéger l’énergie vitale, favorisant ainsi un équilibre émotionnel et une sérénité au quotidien. Parfait pour être porté en collier, il allie beauté et bien-être naturel.",
-              "stripePriceId": "price_1UEOZrLOfCA5mATuct41Qgap",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UEOZsLOfCA5mATuLbWyBOss",
-              "stripe": "https://buy.stripe.com/6oU7sM4VQ1Fj4wodK128a0q",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-orgonite-mtwm9kg1igcp",
+              "nom": "Pendentif orgonite",
+              "prix": 24.97,
+              "description": "Ce pendentif en orgonite est un objet protecteur et purificateur, souvent utilisé pour équilibrer les énergies négatives autour de soi. Composé de résine et de métaux, il est réputé pour absorber les ondes électromagnétiques et favoriser un environnement harmonieux. Idéal pour le porter au quotidien, il apporte une sensation de calme et de bien-être, tout en renforçant la connexion à une énergie positive.",
+              "photo": "images/articles/pendentif-orgonite-mtwm9kg1kmnc.jpg",
+              "prixBoutique": 23.9,
+              "stock": 1
             }
           ]
         },

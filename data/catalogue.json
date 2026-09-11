@@ -4032,7 +4032,17 @@
               "description": "Ce pendentif en orgonite est un objet protecteur et purificateur, souvent utilisé pour équilibrer les énergies négatives autour de soi. Composé de résine et de métaux, il est réputé pour absorber les ondes électromagnétiques et favoriser un environnement harmonieux. Idéal pour le porter au quotidien, il apporte une sensation de calme et de bien-être, tout en renforçant la connexion à une énergie positive.",
               "photo": "images/articles/pendentif-orgonite-mtwm9kg1kmnc.jpg",
               "prixBoutique": 23.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEsMCKvOtvCl0u",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif orgonite",
+              "stripeDesc": "Ce pendentif en orgonite est un objet protecteur et purificateur, souvent utilisé pour équilibrer les énergies négatives autour de soi. Composé de résine et de métaux, il est réputé pour absorber les ondes électromagnétiques et favoriser un environnement harmonieux. Idéal pour le porter au quotidien, il apporte une sensation de calme et de bien-être, tout en renforçant la connexion à une énergie positive.",
+              "stripePriceId": "price_1UEObaLOfCA5mATuUhDufThN",
+              "stripePrix": 24.97,
+              "stripeLinkId": "plink_1UEObbLOfCA5mATuqv73kUGI",
+              "stripe": "https://buy.stripe.com/28E7sM4VQbfT7IAcFX28a0r",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

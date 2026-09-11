@@ -4603,16 +4603,25 @@
               "photo": "images/articles/pendentif-turquoise-arbre-de-vie-mtwrzdn2wh96.jpg",
               "prixBoutique": 22.9,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/4gMcN673YabP7IA0Xf28a0W",
               "stripeProductId": "prod_VEuw3ulIUHygAx",
+              "stripePriceId": "price_1UER6SLOfCA5mATuIWP5vjAN",
+              "stripeLinkId": "plink_1UER6TLOfCA5mATup5r4LhbV",
+              "stripePrix": 23.93,
               "stripeMode": "live",
               "stripeNom": "Pendentif turquoise arbre de vie",
               "stripeDesc": "Ce pendentif en turquoise représente un arbre de vie, symbole de croissance, de connexion et de vitalité. La turquoise est souvent associée à la protection, à la sérénité et à l'équilibre émotionnel, aidant à apaiser le mental et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à attirer des influences positives dans leur vie.",
-              "stripePriceId": "price_1UER6SLOfCA5mATuIWP5vjAN",
-              "stripePrix": 23.93,
-              "stripeLinkId": "plink_1UER6TLOfCA5mATup5r4LhbV",
-              "stripe": "https://buy.stripe.com/4gMcN673YabP7IA0Xf28a0W",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "pendentif-lapis-lazuli-arbre-de-vie-mtws1momeew3",
+              "nom": "Pendentif lapis lazuli arbre de vie",
+              "prix": 23.93,
+              "description": "Ce pendentif en lapis-lazuli représente un arbre de vie élégant et symbolique, parfait pour porter au quotidien. Le lapis-lazuli est une pierre précieuse réputée pour favoriser la sagesse, la communication et l'équilibre émotionnel. Selon la lithothérapie, il aide à apaiser l'esprit et à renforcer la confiance en soi, tout en apportant une énergie positive et protectrice.",
+              "photo": "images/articles/pendentif-lapis-lazuli-arbre-de-vie-mtws1moml7ir.jpg",
+              "prixBoutique": 22.9,
+              "stock": 4
             }
           ]
         },

@@ -4317,7 +4317,17 @@
               "description": "Ce pendentif en jaspe dendritique met en valeur des motifs organiques uniques rappelant des branches ou des feuilles, créant une pièce naturelle et élégante. Le jaspe dendritique est souvent associé à la stabilité émotionnelle, à la protection et à l'ancrage, aidant à apaiser les esprits agités et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent un équilibre entre énergie positive et sérénité.",
               "photo": "images/articles/pendentif-jaspe-dendritique-mtwn82pvzz7k.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEsnXSVsyl4fq2",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe dendritique",
+              "stripeDesc": "Ce pendentif en jaspe dendritique met en valeur des motifs organiques uniques rappelant des branches ou des feuilles, créant une pièce naturelle et élégante. Le jaspe dendritique est souvent associé à la stabilité émotionnelle, à la protection et à l'ancrage, aidant à apaiser les esprits agités et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent un équilibre entre énergie positive et sérénité.",
+              "stripePriceId": "price_1UEP1YLOfCA5mATutZizscsI",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UEP1YLOfCA5mATu1GD58Yxd",
+              "stripe": "https://buy.stripe.com/cNi14oewq2Jn8ME0Xf28a0G",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

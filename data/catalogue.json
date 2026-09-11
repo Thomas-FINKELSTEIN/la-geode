@@ -4260,7 +4260,17 @@
               "description": "Ce pendentif en orgonite est un objet puissant pour équilibrer les énergies négatives autour de vous. Composé de résine et de métaux, il est souvent utilisé pour purifier les espaces et apaiser les tensions émotionnelles. Idéal pour une utilisation quotidienne, il peut être porté ou placé dans un lieu pour favoriser un environnement harmonieux.",
               "photo": "images/articles/pendentif-orgonite-mtwn2ltu51se.jpg",
               "prixBoutique": 23.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VEsiYhyk23OW4V",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif orgonite",
+              "stripeDesc": "Ce pendentif en orgonite est un objet puissant pour équilibrer les énergies négatives autour de vous. Composé de résine et de métaux, il est souvent utilisé pour purifier les espaces et apaiser les tensions émotionnelles. Idéal pour une utilisation quotidienne, il peut être porté ou placé dans un lieu pour favoriser un environnement harmonieux.",
+              "stripePriceId": "price_1UEOxTLOfCA5mATuemoPZCSi",
+              "stripePrix": 24.97,
+              "stripeLinkId": "plink_1UEOxTLOfCA5mATunlxu6SBw",
+              "stripe": "https://buy.stripe.com/cNi9AU5ZUbfT5AsgWd28a0D",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

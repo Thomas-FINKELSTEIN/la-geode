@@ -4527,16 +4527,25 @@
               "photo": "images/articles/pendentif-coeur-oeil-de-tigre-mtwr9jfhfv78.jpg",
               "prixBoutique": 16.9,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/9B66oI9c65Vz6EwdK128a0S",
               "stripeProductId": "prod_VEuc3Hf2abchjF",
+              "stripePriceId": "price_1UEQn2LOfCA5mATuUflnkUJE",
+              "stripeLinkId": "plink_1UEQn2LOfCA5mATuyWE6OBe1",
+              "stripePrix": 17.73,
               "stripeMode": "live",
               "stripeNom": "Pendentif coeur oeil de tigre",
               "stripeDesc": "Ce pendentif en forme de coeur est taillé dans un oeil de tigre, une pierre aux reflets dorés et chauds qui attire le regard. En lithothérapie, l'oeil de tigre est souvent associé à la protection, au courage et à l'équilibre des énergies. Porté au quotidien, il est censé renforcer la confiance en soi et apporter une sensation de sécurité tout en harmonie avec les émotions.",
-              "stripePriceId": "price_1UEQn2LOfCA5mATuUflnkUJE",
-              "stripePrix": 17.73,
-              "stripeLinkId": "plink_1UEQn2LOfCA5mATuyWE6OBe1",
-              "stripe": "https://buy.stripe.com/9B66oI9c65Vz6EwdK128a0S",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendentif-oeil-de-tigre-mtwrdtbcipgp",
+              "nom": "Pendentif oeil de tigre",
+              "prix": 20.83,
+              "description": "Ce pendentif en oeil de tigre est une pièce élégante et naturelle qui capte immédiatement l'attention grâce à ses reflets dorés et ses motifs uniques. En lithothérapie, cette pierre est souvent associée à la vitalité, la protection et l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'énergie positive. Parfait pour être porté au quotidien, il apporte une touche de puissance et de sérénité à votre style.",
+              "photo": "images/articles/pendentif-oeil-de-tigre-mtwrdtbc7fe9.jpg",
+              "prixBoutique": 19.9,
+              "stock": 3
             }
           ]
         },

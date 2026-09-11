@@ -4337,16 +4337,25 @@
               "photo": "images/articles/pendentif-jaspe-dendritique-mtwna43ge6ip.jpg",
               "prixBoutique": 19.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2cN65ZU3Nr4woeO528a0H",
               "stripeProductId": "prod_VEsoUog5HYyCBo",
+              "stripePriceId": "price_1UEP36LOfCA5mATu4Aa6UvoJ",
+              "stripeLinkId": "plink_1UEP37LOfCA5mATu03DhsQV7",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendentif jaspe dendritique",
               "stripeDesc": "Ce pendentif en jaspe dendritique est une pièce unique aux motifs organiques et apaisants, où les veines sombres rappellent la nature et ses secrets. En lithothérapie, cette pierre est souvent associée à la stabilité émotionnelle, aidant à ancrer les énergies et à apaiser les tensions du quotidien. Parfait pour une utilisation quotidienne, il peut être porté comme un talisman pour favoriser la sérénité et renforcer la connexion à la terre.",
-              "stripePriceId": "price_1UEP36LOfCA5mATu4Aa6UvoJ",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UEP37LOfCA5mATu03DhsQV7",
-              "stripe": "https://buy.stripe.com/8x2cN65ZU3Nr4woeO528a0H",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-jaspe-mokaite-mtwncotysjs5",
+              "nom": "Pendentif jaspe mokaite",
+              "prix": 26.1,
+              "description": "Ce pendentif en jaspe mokaite se distingue par ses veines dorées et ses reflets chauds, offrant une touche d'élégance naturelle. En lithothérapie, cette pierre est souvent associée à la stabilité émotionnelle et à la protection, aidant à apaiser les tensions et à renforcer la confiance en soi. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent un allié discret mais puissant pour équilibrer leur énergie.",
+              "photo": "images/articles/pendentif-jaspe-mokaite-mtwncotyw24t.jpg",
+              "prixBoutique": 25,
+              "stock": 1
             }
           ]
         },

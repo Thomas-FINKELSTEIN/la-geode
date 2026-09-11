@@ -4146,7 +4146,17 @@
               "description": "Ce pendentif en saut de salomon est une pièce unique aux reflets violets et translucides, captivante par sa forme géométrique naturelle. Selon la lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel et à la purification énergétique, aidant à apaiser les tensions et à favoriser la clarté mentale. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à renforcer leur connexion spirituelle.",
               "photo": "images/articles/pendentif-saut-de-salomon-mtwmlil6ire1.jpg",
               "prixBoutique": 19,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEsVH6FnSVqN3t",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif saut de salomon",
+              "stripeDesc": "Ce pendentif en saut de salomon est une pièce unique aux reflets violets et translucides, captivante par sa forme géométrique naturelle. Selon la lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel et à la purification énergétique, aidant à apaiser les tensions et à favoriser la clarté mentale. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à renforcer leur connexion spirituelle.",
+              "stripePriceId": "price_1UEOkcLOfCA5mATuXSA0JS0y",
+              "stripePrix": 19.9,
+              "stripeLinkId": "plink_1UEOkdLOfCA5mATuxxCpslu2",
+              "stripe": "https://buy.stripe.com/cNi4gA8823Nr3sk8pH28a0x",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -4488,7 +4488,17 @@
               "description": "Ce pendentif en forme de coeur est taillé dans un quartz rose d'une douceur apaisante. Associé traditionnellement à l'ouverture du cœur et à l'harmonie émotionnelle, cette pierre douce favorise la compassion et aide à apaiser les tensions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver des relations sereines et un état d'esprit positif.",
               "photo": "images/articles/pendentif-coeur-quartz-rose-mtwr5b441fdg.jpg",
               "prixBoutique": 14.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VEuYDsGY6vos3W",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif coeur quartz rose",
+              "stripeDesc": "Ce pendentif en forme de coeur est taillé dans un quartz rose d'une douceur apaisante. Associé traditionnellement à l'ouverture du cœur et à l'harmonie émotionnelle, cette pierre douce favorise la compassion et aide à apaiser les tensions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver des relations sereines et un état d'esprit positif.",
+              "stripePriceId": "price_1UEQjrLOfCA5mATu3z8wECL7",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UEQjrLOfCA5mATu9BSsDRfA",
+              "stripe": "https://buy.stripe.com/dRm6oIcoifw94wobBT28a0Q",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

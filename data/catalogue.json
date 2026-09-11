@@ -4051,7 +4051,17 @@
               "description": "Ce pendentif en jaspe dendritique est une pièce unique aux motifs organiques et apaisants. Cette pierre naturelle, aux reflets doux et aux veines sombres, est souvent associée à la stabilité émotionnelle et à la connexion avec la nature. En lithothérapie, elle est utilisée pour favoriser la sérénité, renforcer la confiance en soi et équilibrer les énergies.",
               "photo": "images/articles/pendentif-jaspe-dendritique-mtwmc3u81k75.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEsO14FCcIV37Z",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe dendritique",
+              "stripeDesc": "Ce pendentif en jaspe dendritique est une pièce unique aux motifs organiques et apaisants. Cette pierre naturelle, aux reflets doux et aux veines sombres, est souvent associée à la stabilité émotionnelle et à la connexion avec la nature. En lithothérapie, elle est utilisée pour favoriser la sérénité, renforcer la confiance en soi et équilibrer les énergies.",
+              "stripePriceId": "price_1UEOdULOfCA5mATuWSN14XS5",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UEOdVLOfCA5mATuTSMY4A0y",
+              "stripe": "https://buy.stripe.com/00w14o3RMbfT8MEbBT28a0s",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

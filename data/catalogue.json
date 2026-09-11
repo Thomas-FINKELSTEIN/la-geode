@@ -4508,16 +4508,25 @@
               "photo": "images/articles/pendentif-quartz-rose-mtwr742gpzdt.jpg",
               "prixBoutique": 18.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa4gAewqabPaUM6hz28a0R",
               "stripeProductId": "prod_VEuaWb468UlEZw",
+              "stripePriceId": "price_1UEQlBLOfCA5mATuKCBnLhkO",
+              "stripeLinkId": "plink_1UEQlCLOfCA5mATum4IBxCf5",
+              "stripePrix": 19.8,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz rose",
               "stripeDesc": "Ce pendentif en quartz rose est une pièce délicate et apaisante, souvent utilisée pour favoriser l'harmonie émotionnelle et l'amour bienveillant. Selon la lithothérapie, cette pierre douce et énergétique aide à ouvrir le cœur, à apaiser les tensions et à renforcer les relations. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver la sérénité et la compassion.",
-              "stripePriceId": "price_1UEQlBLOfCA5mATuKCBnLhkO",
-              "stripePrix": 19.8,
-              "stripeLinkId": "plink_1UEQlCLOfCA5mATum4IBxCf5",
-              "stripe": "https://buy.stripe.com/aFa4gAewqabPaUM6hz28a0R",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-coeur-oeil-de-tigre-mtwr9jfgkxyu",
+              "nom": "Pendentif coeur oeil de tigre",
+              "prix": 17.73,
+              "description": "Ce pendentif en forme de coeur est taillé dans un oeil de tigre, une pierre aux reflets dorés et chauds qui attire le regard. En lithothérapie, l'oeil de tigre est souvent associé à la protection, au courage et à l'équilibre des énergies. Porté au quotidien, il est censé renforcer la confiance en soi et apporter une sensation de sécurité tout en harmonie avec les émotions.",
+              "photo": "images/articles/pendentif-coeur-oeil-de-tigre-mtwr9jfhfv78.jpg",
+              "prixBoutique": 16.9,
+              "stock": 2
             }
           ]
         },

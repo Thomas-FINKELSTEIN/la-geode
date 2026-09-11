@@ -4413,16 +4413,25 @@
               "photo": "images/articles/pendentif-coeur-oeil-de-tigre-mtwot0t32ee0.jpg",
               "prixBoutique": 25,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6eVe1JE4Rv6Ew49r28a0M",
               "stripeProductId": "prod_VEtVRmflVxNs2d",
+              "stripePriceId": "price_1UEPiPLOfCA5mATuQuvxXh6G",
+              "stripeLinkId": "plink_1UEPiQLOfCA5mATuKwIRWhUG",
+              "stripePrix": 26.1,
               "stripeMode": "live",
               "stripeNom": "Pendentif coeur oeil de tigre",
               "stripeDesc": "Ce pendentif en forme de cœur abrite un oeil de tigre, une pierre aux reflets dorés et chauds, réputée pour apporter force et protection. En lithothérapie, il est souvent utilisé pour stimuler la confiance en soi et équilibrer les émotions. Parfait pour une touche d'énergie positive au quotidien, ce bijou s'accorde aussi bien avec un style bohème qu'avec des tenues élégantes.",
-              "stripePriceId": "price_1UEPiPLOfCA5mATuQuvxXh6G",
-              "stripePrix": 26.1,
-              "stripeLinkId": "plink_1UEPiQLOfCA5mATuKwIRWhUG",
-              "stripe": "https://buy.stripe.com/9B6eVe1JE4Rv6Ew49r28a0M",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-orgonite-mtwougfi4phc",
+              "nom": "Pendentif orgonite",
+              "prix": 24.97,
+              "description": "Ce pendentif en forme de cœur est composé d’orgonite, un matériau naturel aux propriétés énergétiques réputées. Selon la lithothérapie, il favoriserait l’équilibre émotionnel et la protection contre les énergies négatives. Idéal pour porter au quotidien, il est souvent utilisé pour apaiser le stress et renforcer la connexion à son énergie intérieure.",
+              "photo": "images/articles/pendentif-orgonite-mtwougfie5v0.jpg",
+              "prixBoutique": 23.9,
+              "stock": 1
             }
           ]
         },

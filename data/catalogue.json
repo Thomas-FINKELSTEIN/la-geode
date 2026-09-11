@@ -4583,7 +4583,17 @@
               "description": "Ce pendentif en cristal de roche est une pièce élégante et intemporelle, souvent utilisée pour ses propriétés purificatrices et équilibrantes. En lithothérapie, le cristal de roche est réputé pour amplifier les énergies positives, clarifier l’esprit et favoriser la concentration. Parfait pour un usage quotidien, il peut être porté comme un talisman de protection et de sérénité.",
               "photo": "images/articles/pendentif-cristal-de-roche-mtwrosemvi3a.jpg",
               "prixBoutique": 22.9,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VEuonTAh08hykw",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cristal de roche",
+              "stripeDesc": "Ce pendentif en cristal de roche est une pièce élégante et intemporelle, souvent utilisée pour ses propriétés purificatrices et équilibrantes. En lithothérapie, le cristal de roche est réputé pour amplifier les énergies positives, clarifier l’esprit et favoriser la concentration. Parfait pour un usage quotidien, il peut être porté comme un talisman de protection et de sérénité.",
+              "stripePriceId": "price_1UEQyVLOfCA5mATuymejXg3k",
+              "stripePrix": 23.93,
+              "stripeLinkId": "plink_1UEQyVLOfCA5mATu5lWKlEK7",
+              "stripe": "https://buy.stripe.com/3cIeVe2NI97Ld2U5dv28a0V",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

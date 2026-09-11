@@ -4565,16 +4565,25 @@
               "photo": "images/articles/pendentif-oeil-de-tigre-arbre-de-vie-mtwrg9lg01qf.jpg",
               "prixBoutique": 22.9,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/bJe3cwgEy3Nr7IA21j28a0U",
               "stripeProductId": "prod_VEuhtcirJABYoL",
+              "stripePriceId": "price_1UEQs5LOfCA5mATuaIrWN14D",
+              "stripeLinkId": "plink_1UEQs5LOfCA5mATuJ9DiM6zn",
+              "stripePrix": 23.93,
               "stripeMode": "live",
               "stripeNom": "Pendentif oeil de tigre arbre de vie",
               "stripeDesc": "Ce pendentif élégant allie l'énergie puissante de l'oeil de tigre et la symbolique protectrice de l'arbre de vie. L'oeil de tigre est souvent utilisé pour renforcer la confiance en soi, stimuler la vitalité et protéger contre les énergies négatives. Parfait pour une utilisation quotidienne, il apporte équilibre et harmonie tout en restant un accessoire raffiné.",
-              "stripePriceId": "price_1UEQs5LOfCA5mATuaIrWN14D",
-              "stripePrix": 23.93,
-              "stripeLinkId": "plink_1UEQs5LOfCA5mATuJ9DiM6zn",
-              "stripe": "https://buy.stripe.com/bJe3cwgEy3Nr7IA21j28a0U",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cristal-de-roche-mtwrosem6lns",
+              "nom": "Pendentif cristal de roche",
+              "prix": 23.93,
+              "description": "Ce pendentif en cristal de roche est une pièce élégante et intemporelle, souvent utilisée pour ses propriétés purificatrices et équilibrantes. En lithothérapie, le cristal de roche est réputé pour amplifier les énergies positives, clarifier l’esprit et favoriser la concentration. Parfait pour un usage quotidien, il peut être porté comme un talisman de protection et de sérénité.",
+              "photo": "images/articles/pendentif-cristal-de-roche-mtwrosemvi3a.jpg",
+              "prixBoutique": 22.9,
+              "stock": 4
             }
           ]
         },

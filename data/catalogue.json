@@ -4717,16 +4717,25 @@
               "photo": "images/articles/pendentif-obsidienne-extra-mtx2zuq0ubnk.jpg",
               "prixBoutique": 69,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYeVegEy0Bf7IA21j28a12",
               "stripeProductId": "prod_VEzu4bHixPDdT9",
+              "stripePriceId": "price_1UEVunLOfCA5mATuM4G9d02S",
+              "stripeLinkId": "plink_1UEVuoLOfCA5mATuT41pxn9P",
+              "stripePrix": 71.58,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne extra",
               "stripeDesc": "Ce pendentif en obsidienne extra est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur protection énergétique. En lithothérapie, l'obsidienne est souvent utilisée pour purifier les énergies négatives et favoriser un ancrage spirituel apaisant. Parfaite à porter au quotidien, elle aide aussi à canaliser les émotions et à retrouver un équilibre intérieur.",
-              "stripePriceId": "price_1UEVunLOfCA5mATuM4G9d02S",
-              "stripePrix": 71.58,
-              "stripeLinkId": "plink_1UEVuoLOfCA5mATuT41pxn9P",
-              "stripe": "https://buy.stripe.com/7sYeVegEy0Bf7IA21j28a12",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-obsidienne-extra-mtx31ie6giyt",
+              "nom": "Pendentif obsidienne extra",
+              "prix": 71.58,
+              "description": "Ce talon en obsidienne extra est une pièce puissante et mystérieuse, souvent utilisée pour ses propriétés de protection et de renforcement spirituel. L'obsidienne est réputée pour aider à libérer les blocages émotionnels et à favoriser une connexion profonde avec son intuition. Parfaite pour ceux qui cherchent à équilibrer leurs énergies et à renforcer leur ancrage dans le quotidien.",
+              "photo": "images/articles/pendentif-obsidienne-extra-mtx31ie60wkl.jpg",
+              "prixBoutique": 69,
+              "stock": 1
             }
           ]
         },

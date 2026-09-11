@@ -4090,16 +4090,25 @@
               "photo": "images/articles/pendentif-quartz-fume-mtwmfxiaq7z3.jpg",
               "prixBoutique": 19,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM3cw3RM5Vz0g86hz28a0u",
               "stripeProductId": "prod_VEsRPCFw7KIGes",
+              "stripePriceId": "price_1UEOgKLOfCA5mATuhkZw99W8",
+              "stripeLinkId": "plink_1UEOgKLOfCA5mATuVBFOuUhx",
+              "stripePrix": 19.9,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz fumé",
               "stripeDesc": "Ce pendentif en quartz fumé est une pierre aux énergies apaisantes et équilibrantes, idéale pour calmer le stress et favoriser la concentration. Utilisée en lithothérapie, elle est souvent appelée la pierre des mystiques grâce à sa capacité à renforcer l’intuition et la sagesse. Parfait pour une utilisation quotidienne, il peut être porté en collier ou simplement gardé dans un espace de travail ou de méditation pour en tirer ses bienfaits.",
-              "stripePriceId": "price_1UEOgKLOfCA5mATuhkZw99W8",
-              "stripePrix": 19.9,
-              "stripeLinkId": "plink_1UEOgKLOfCA5mATuVBFOuUhx",
-              "stripe": "https://buy.stripe.com/4gM3cw3RM5Vz0g86hz28a0u",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-agate-plaque-mtwmhbhunm9r",
+              "nom": "Pendentif agate plaque",
+              "prix": 20.83,
+              "description": "Ce pendentif en agate plaque est une pièce naturelle aux reflets doux et aux motifs organiques apaisants. L'agate est souvent utilisée en lithothérapie pour favoriser la stabilité émotionnelle et renforcer la confiance en soi. Son énergie harmonieuse en fait un allié idéal pour apaiser le mental et équilibrer les émotions au quotidien.",
+              "photo": "images/articles/pendentif-agate-plaque-mtwmhbhumk7i.jpg",
+              "prixBoutique": 19.9,
+              "stock": 1
             }
           ]
         },

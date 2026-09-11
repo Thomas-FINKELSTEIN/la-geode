@@ -4470,16 +4470,25 @@
               "photo": "images/articles/pendentif-orgonite-mtwoxnkvfcuh.jpg",
               "prixBoutique": 23.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFadRa1JEfw9d2U21j28a0P",
               "stripeProductId": "prod_VEtZWau8m5FMHt",
+              "stripePriceId": "price_1UEPltLOfCA5mATuNhVyngPD",
+              "stripeLinkId": "plink_1UEPluLOfCA5mATuIEKjP6G8",
+              "stripePrix": 24.97,
               "stripeMode": "live",
               "stripeNom": "Pendentif orgonite",
               "stripeDesc": "Ce pendentif en orgonite est un objet puissant pour purifier les énergies négatives autour de vous. Composé de résines et de métaux, il est souvent utilisé pour équilibrer les espaces de vie et favoriser un bien-être harmonieux. Idéal pour les personnes sensibles aux ambiances énergétiques ou celles souhaitant protéger leur environnement quotidien.",
-              "stripePriceId": "price_1UEPltLOfCA5mATuNhVyngPD",
-              "stripePrix": 24.97,
-              "stripeLinkId": "plink_1UEPluLOfCA5mATuIEKjP6G8",
-              "stripe": "https://buy.stripe.com/aFadRa1JEfw9d2U21j28a0P",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-coeur-quartz-rose-mtwr5b44urze",
+              "nom": "Pendentif coeur quartz rose",
+              "prix": 15.66,
+              "description": "Ce pendentif en forme de coeur est taillé dans un quartz rose d'une douceur apaisante. Associé traditionnellement à l'ouverture du cœur et à l'harmonie émotionnelle, cette pierre douce favorise la compassion et aide à apaiser les tensions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver des relations sereines et un état d'esprit positif.",
+              "photo": "images/articles/pendentif-coeur-quartz-rose-mtwr5b441fdg.jpg",
+              "prixBoutique": 14.9,
+              "stock": 3
             }
           ]
         },

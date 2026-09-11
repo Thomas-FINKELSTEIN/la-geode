@@ -4165,7 +4165,17 @@
               "description": "Ce pendentif en calcite jaune est une pierre douce et apaisante, idéale pour équilibrer les énergies et apporter une touche de lumière dans votre quotidien. En lithothérapie, elle est souvent utilisée pour stimuler la joie et la positivité, tout en favorisant la clarté mentale et la concentration. Parfaite à porter près du cœur ou sur le troisième œil, elle aide à dissoudre les tensions et à renforcer la confiance en soi.",
               "photo": "images/articles/pendentif-calcite-jaune-mtwmr5buglsk.jpg",
               "prixBoutique": 9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEsZ1ERceK9h1O",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif calcite jaune",
+              "stripeDesc": "Ce pendentif en calcite jaune est une pierre douce et apaisante, idéale pour équilibrer les énergies et apporter une touche de lumière dans votre quotidien. En lithothérapie, elle est souvent utilisée pour stimuler la joie et la positivité, tout en favorisant la clarté mentale et la concentration. Parfaite à porter près du cœur ou sur le troisième œil, elle aide à dissoudre les tensions et à renforcer la confiance en soi.",
+              "stripePriceId": "price_1UEOopLOfCA5mATuoH5fAdqA",
+              "stripePrix": 9.57,
+              "stripeLinkId": "plink_1UEOopLOfCA5mATuyHIjmQ64",
+              "stripe": "https://buy.stripe.com/5kQdRa9c66ZDfb29tL28a0y",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -4374,7 +4374,17 @@
               "description": "Ce pendentif en citrine, entouré d’un fin cercle élégant, est une pierre aux reflets dorés apaisants. En lithothérapie, la citrine est souvent associée à la joie et à la confiance en soi, aidant à éclaircir les énergies négatives et à attirer la prospérité. Porté au quotidien, il est idéal pour stimuler l’optimisme et apporter une touche de lumière chaleureuse à votre style.",
               "photo": "images/articles/pendentif-citrine-cercler-mtwnoxxn24kw.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEt0khZb7BxAvR",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif citrine cercler",
+              "stripeDesc": "Ce pendentif en citrine, entouré d’un fin cercle élégant, est une pierre aux reflets dorés apaisants. En lithothérapie, la citrine est souvent associée à la joie et à la confiance en soi, aidant à éclaircir les énergies négatives et à attirer la prospérité. Porté au quotidien, il est idéal pour stimuler l’optimisme et apporter une touche de lumière chaleureuse à votre style.",
+              "stripePriceId": "price_1UEPEHLOfCA5mATuWOqopRAU",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UEPEHLOfCA5mATuBJ3MyScz",
+              "stripe": "https://buy.stripe.com/4gMeVecoigAd6Ew8pH28a0J",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

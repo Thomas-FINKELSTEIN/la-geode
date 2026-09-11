@@ -4203,7 +4203,17 @@
               "description": "Le pendentif en sélénite est une pièce unique et lumineuse qui capte la lumière pour créer une ambiance apaisante. Cette pierre aux reflets laiteux est souvent utilisée en lithothérapie pour favoriser la connexion à l’énergie spirituelle et apaiser l’esprit. Idéale pour méditer ou simplement porter au quotidien, elle est réputée pour purifier les chakras et favoriser la clarté mentale.",
               "photo": "images/articles/pendentif-selenite-mtwmu0vunp75.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEscIQIZUhOual",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif sélénite",
+              "stripeDesc": "Le pendentif en sélénite est une pièce unique et lumineuse qui capte la lumière pour créer une ambiance apaisante. Cette pierre aux reflets laiteux est souvent utilisée en lithothérapie pour favoriser la connexion à l’énergie spirituelle et apaiser l’esprit. Idéale pour méditer ou simplement porter au quotidien, elle est réputée pour purifier les chakras et favoriser la clarté mentale.",
+              "stripePriceId": "price_1UEOqyLOfCA5mATuqZS73eaX",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEOqyLOfCA5mATunR3b9iuR",
+              "stripe": "https://buy.stripe.com/6oU4gAdsmes50g8bBT28a0A",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

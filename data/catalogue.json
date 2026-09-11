@@ -4412,7 +4412,17 @@
               "description": "Ce pendentif en forme de cœur abrite un oeil de tigre, une pierre aux reflets dorés et chauds, réputée pour apporter force et protection. En lithothérapie, il est souvent utilisé pour stimuler la confiance en soi et équilibrer les émotions. Parfait pour une touche d'énergie positive au quotidien, ce bijou s'accorde aussi bien avec un style bohème qu'avec des tenues élégantes.",
               "photo": "images/articles/pendentif-coeur-oeil-de-tigre-mtwot0t32ee0.jpg",
               "prixBoutique": 25,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VEtVRmflVxNs2d",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif coeur oeil de tigre",
+              "stripeDesc": "Ce pendentif en forme de cœur abrite un oeil de tigre, une pierre aux reflets dorés et chauds, réputée pour apporter force et protection. En lithothérapie, il est souvent utilisé pour stimuler la confiance en soi et équilibrer les émotions. Parfait pour une touche d'énergie positive au quotidien, ce bijou s'accorde aussi bien avec un style bohème qu'avec des tenues élégantes.",
+              "stripePriceId": "price_1UEPiPLOfCA5mATuQuvxXh6G",
+              "stripePrix": 26.1,
+              "stripeLinkId": "plink_1UEPiQLOfCA5mATuKwIRWhUG",
+              "stripe": "https://buy.stripe.com/9B6eVe1JE4Rv6Ew49r28a0M",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

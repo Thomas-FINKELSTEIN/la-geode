@@ -5476,7 +5476,17 @@
               "description": "Ce pendentif en larvikite, enveloppé dans un joli macramé artisanal, est une pierre aux reflets bleutés et scintillants qui attire l'attention. En lithothérapie, la larvikite est souvent associée à la sérénité et à l'apaisement des émotions, aidant à dissoudre les tensions et à favoriser un état de calme intérieur. Parfaite pour ceux qui cherchent à harmoniser leur énergie et à cultiver une ambiance paisible, cette pierre peut être portée au quotidien ou utilisée en méditation.",
               "photo": "images/articles/collier-macrame-avec-larvikite-mtyetgrcezs7.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLVkTUYLnvtu0",
+              "stripeMode": "live",
+              "stripeNom": "Collier macramé avec larvikite",
+              "stripeDesc": "Ce pendentif en larvikite, enveloppé dans un joli macramé artisanal, est une pierre aux reflets bleutés et scintillants qui attire l'attention. En lithothérapie, la larvikite est souvent associée à la sérénité et à l'apaisement des émotions, aidant à dissoudre les tensions et à favoriser un état de calme intérieur. Parfaite pour ceux qui cherchent à harmoniser leur énergie et à cultiver une ambiance paisible, cette pierre peut être portée au quotidien ou utilisée en méditation.",
+              "stripePriceId": "price_1UEqoILOfCA5mATunkFht43E",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEqoJLOfCA5mATu5vu1Dcyj",
+              "stripe": "https://buy.stripe.com/14A3cw3RM83H6Ew8pH28a1O",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -5819,16 +5819,25 @@
               "photo": "images/articles/collier-macrame-lapis-lazuli-mtyjsgixqo6c.jpg",
               "prixBoutique": 15,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/14AfZigEy1Fj5As8pH28a26",
               "stripeProductId": "prod_VFNk8Gu9h7NLzB",
+              "stripePriceId": "price_1UEsyzLOfCA5mATuyPnzZi4S",
+              "stripeLinkId": "plink_1UEsyzLOfCA5mATukMXlaUoQ",
+              "stripePrix": 15.77,
               "stripeMode": "live",
               "stripeNom": "Collier macramé lapis lazuli",
               "stripeDesc": "Ce collier macramé met en valeur une pierre de lapis lazuli, connue pour ses propriétés apaisantes et protectrices. Traditionnellement utilisée en lithothérapie, cette pierre favorise la clarté mentale, l'équilibre émotionnel et aide à renforcer la confiance en soi. Son bleu profond apporte une énergie calme et harmonieuse, idéale pour méditer ou porter au quotidien.",
-              "stripePriceId": "price_1UEsyzLOfCA5mATuyPnzZi4S",
-              "stripePrix": 15.77,
-              "stripeLinkId": "plink_1UEsyzLOfCA5mATukMXlaUoQ",
-              "stripe": "https://buy.stripe.com/14AfZigEy1Fj5As8pH28a26",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-arbre-de-vie-mtyk57cp3yck",
+              "nom": "Pendentif arbre de vie",
+              "prix": 18.35,
+              "description": "Ce pendentif en forme d'arbre de vie symbolise la croissance, la stabilité et la connexion entre les racines et les cieux. Selon la lithothérapie, il est souvent associé à l'équilibre émotionnel et à la force intérieure, aidant à ancrer les énergies positives. Un accessoire élégant et porteur de sens pour harmoniser le quotidien.",
+              "photo": "images/articles/pendentif-arbre-de-vie-mtyk57cpb7pn.jpg",
+              "prixBoutique": 17.5,
+              "stock": 13
             }
           ]
         },

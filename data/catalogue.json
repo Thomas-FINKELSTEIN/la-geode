@@ -5001,7 +5001,17 @@
               "description": "Ce bracelet aux sept pierres colorées représente les sept chakras principaux du corps énergétique. Chaque pierre, alignée avec les centres d'énergie traditionnels, est censée favoriser l'équilibre physique, émotionnel et spirituel. Porté au quotidien, il aide à harmoniser les flux énergétiques et à renforcer la connexion entre le corps et l'esprit.",
               "photo": "images/articles/pendentif-7-chakras-mty11fxzn38p.jpg",
               "prixBoutique": 129.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFFH9pM8xixU9H",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif 7 chakras",
+              "stripeDesc": "Ce bracelet aux sept pierres colorées représente les sept chakras principaux du corps énergétique. Chaque pierre, alignée avec les centres d'énergie traditionnels, est censée favoriser l'équilibre physique, émotionnel et spirituel. Porté au quotidien, il aide à harmoniser les flux énergétiques et à renforcer la connexion entre le corps et l'esprit.",
+              "stripePriceId": "price_1UEkn0LOfCA5mATuoPw0AO9b",
+              "stripePrix": 134.53,
+              "stripeLinkId": "plink_1UEkn0LOfCA5mATuSQ3ENOJ7",
+              "stripe": "https://buy.stripe.com/6oU00k3RMdo11kc9tL28a1m",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

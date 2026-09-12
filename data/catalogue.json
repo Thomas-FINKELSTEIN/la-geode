@@ -5343,7 +5343,17 @@
               "description": "Ce pendentif en cristal de roche, suspendu dans un macramé élégant, est une pièce raffinée pour sublimer vos tenues tout en bénéficiant des vertus apaisantes de cette pierre. Le cristal de roche est souvent utilisé en lithothérapie pour amplifier l’énergie positive, clarifier l’esprit et favoriser la concentration. Idéal pour une touche naturelle et lumineuse, il apporte harmonie et sérénité au quotidien.",
               "photo": "images/articles/collier-macrame-cristal-de-roche-mty5x2vpol5l.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFHU5w4naadIkH",
+              "stripeMode": "live",
+              "stripeNom": "Collier macramé cristal de roche",
+              "stripeDesc": "Ce pendentif en cristal de roche, suspendu dans un macramé élégant, est une pièce raffinée pour sublimer vos tenues tout en bénéficiant des vertus apaisantes de cette pierre. Le cristal de roche est souvent utilisé en lithothérapie pour amplifier l’énergie positive, clarifier l’esprit et favoriser la concentration. Idéal pour une touche naturelle et lumineuse, il apporte harmonie et sérénité au quotidien.",
+              "stripePriceId": "price_1UEmvELOfCA5mATuXmq5HXKw",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEmvFLOfCA5mATutyEeSQ2a",
+              "stripe": "https://buy.stripe.com/5kQ9AUgEy5VzaUM9tL28a1H",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

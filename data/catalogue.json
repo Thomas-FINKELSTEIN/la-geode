@@ -5457,7 +5457,17 @@
               "description": "Ce collier macramé met en valeur une belle fluorite aux teintes vibrantes, enfermée dans un pendentif artisanal. La fluorite est souvent associée à une énergie apaisante et équilibrante, aidant à clarifier les pensées et à renforcer la concentration. Parfait pour ceux qui cherchent à harmoniser leur environnement énergétique et à cultiver une attitude positive au quotidien.",
               "photo": "images/articles/collier-macrame-avec-fluorite-multicolor-mtyeruc8lah6.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLUW09ntlmCVt",
+              "stripeMode": "live",
+              "stripeNom": "Collier macramé avec fluorite multicolore",
+              "stripeDesc": "Ce collier macramé met en valeur une belle fluorite aux teintes vibrantes, enfermée dans un pendentif artisanal. La fluorite est souvent associée à une énergie apaisante et équilibrante, aidant à clarifier les pensées et à renforcer la concentration. Parfait pour ceux qui cherchent à harmoniser leur environnement énergétique et à cultiver une attitude positive au quotidien.",
+              "stripePriceId": "price_1UEqn6LOfCA5mATuVP0YKMhU",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEqn7LOfCA5mATujuQVRwpg",
+              "stripe": "https://buy.stripe.com/9B65kE3RM4Rv3skcFX28a1N",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

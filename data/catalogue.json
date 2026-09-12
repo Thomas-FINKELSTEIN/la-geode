@@ -5362,7 +5362,17 @@
               "description": "Ce pendentif en cristal de roche est suspendu à un élégant collier macramé, alliant douceur artisanale et pureté minérale. Le cristal de roche, pierre de lumière par excellence, est réputé pour amplifier les énergies positives, clarifier l’esprit et favoriser la connexion à son intuition. Parfait pour une touche bohème et apaisante au quotidien, il est idéal pour ceux qui cherchent à équilibrer leurs émotions et à attirer la sérénité.",
               "photo": "images/articles/collier-macrame-cristal-de-roche-mty68vimxdhf.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFHdNTuA1SW2PT",
+              "stripeMode": "live",
+              "stripeNom": "Collier macramé cristal de roche",
+              "stripeDesc": "Ce pendentif en cristal de roche est suspendu à un élégant collier macramé, alliant douceur artisanale et pureté minérale. Le cristal de roche, pierre de lumière par excellence, est réputé pour amplifier les énergies positives, clarifier l’esprit et favoriser la connexion à son intuition. Parfait pour une touche bohème et apaisante au quotidien, il est idéal pour ceux qui cherchent à équilibrer leurs émotions et à attirer la sérénité.",
+              "stripePriceId": "price_1UEn45LOfCA5mATuJ9DvfJ4I",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEn45LOfCA5mATuuEeigN8H",
+              "stripe": "https://buy.stripe.com/dRm00kewq2Jn6EweO528a1I",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

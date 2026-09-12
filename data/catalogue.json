@@ -5230,16 +5230,25 @@
               "photo": "images/articles/pendentif-labradorite-extra-gravee-mty2xhv6kkdq.jpg",
               "prixBoutique": 95,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm4gA9c6cjXaUMaxP28a1B",
               "stripeProductId": "prod_VFG8smD5KBLBtl",
+              "stripePriceId": "price_1UElcHLOfCA5mATu9VeyrTVX",
+              "stripeLinkId": "plink_1UElcHLOfCA5mATuNIQlcolf",
+              "stripePrix": 98.45,
               "stripeMode": "live",
               "stripeNom": "Pendentif labradorite extra gravée",
               "stripeDesc": "Ce pendentif en labradorite extra gravée est une pièce unique alliant beauté et énergie. La labradorite, pierre de transformation et de protection, est réputée pour renforcer la confiance en soi et ouvrir les chakras à une connexion spirituelle plus profonde. Parfait pour porter au quotidien, il attire également la lumière divine et aide à clarifier les pensées pour une meilleure sérénité.",
-              "stripePriceId": "price_1UElcHLOfCA5mATu9VeyrTVX",
-              "stripePrix": 98.45,
-              "stripeLinkId": "plink_1UElcHLOfCA5mATuNIQlcolf",
-              "stripe": "https://buy.stripe.com/dRm4gA9c6cjXaUMaxP28a1B",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-labradorite-extra-mty33edgqfyi",
+              "nom": "Pendentif labradorite extra",
+              "prix": 181.14,
+              "description": "Ce pendentif en labradorite extra capte la lumière pour révéler ses reflets bleutés et dorés, créant un jeu de couleurs hypnotique. La labradorite est souvent appelée la pierre de magie et de protection, idéale pour renforcer la confiance en soi et attirer les énergies positives. Porté au quotidien, il est réputé pour aider à équilibrer les émotions et à stimuler la clarté mentale.",
+              "photo": "images/articles/pendentif-labradorite-extra-mty33edgak90.jpg",
+              "prixBoutique": 175,
+              "stock": 1
             }
           ]
         },

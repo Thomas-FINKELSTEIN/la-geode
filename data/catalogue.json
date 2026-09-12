@@ -5781,16 +5781,25 @@
               "photo": "images/articles/chaine-argente-agate-crazy-lace-mtyj95vjw2qb.jpg",
               "prixBoutique": 17.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa8wQgEyfw95AsgWd28a24",
               "stripeProductId": "prod_VFNVpOMuDb57p2",
+              "stripePriceId": "price_1UEskULOfCA5mATu9TotPlin",
+              "stripeLinkId": "plink_1UEskULOfCA5mATuEsXLojG7",
+              "stripePrix": 18.76,
               "stripeMode": "live",
               "stripeNom": "Chaîne argenté agate crazy lace",
               "stripeDesc": "Ce pendentif en agate crazy lace est une pièce unique qui attire l'attention par ses motifs tourbillonnants et ses couleurs douces. Selon les croyances en lithothérapie, cette pierre est souvent associée à la racine et au chakra racine, favorisant la stabilité, la sécurité et l'équilibre émotionnel. Elle est idéale pour ceux qui cherchent à renforcer leur ancrage à la terre et à harmoniser leur énergie pour un quotidien plus serein.",
-              "stripePriceId": "price_1UEskULOfCA5mATu9TotPlin",
-              "stripePrix": 18.76,
-              "stripeLinkId": "plink_1UEskULOfCA5mATuEsXLojG7",
-              "stripe": "https://buy.stripe.com/aFa8wQgEyfw95AsgWd28a24",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "chaine-doree-shungite-mtyjj5l3lguo",
+              "nom": "Chaîne dorée shungite",
+              "prix": 23,
+              "description": "La shungite est une pierre naturelle aux propriétés purifiantes et protectrices très recherchées. Selon la lithothérapie, elle aide à purifier l’eau des boissons et protège des ondes électromagnétiques, offrant ainsi un ancrage énergétique bénéfique. Parfaite pour ceux qui cherchent à équilibrer leur environnement et à renforcer leur bien-être au quotidien.",
+              "photo": "images/articles/chaine-doree-shungite-mtyjj5l3ryyi.jpg",
+              "prixBoutique": 22,
+              "stock": 1
             }
           ]
         },

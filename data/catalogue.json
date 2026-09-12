@@ -5438,7 +5438,17 @@
               "description": "Ce pendentif en macramé met en valeur une belle pierre amazonite, aux reflets verts apaisants et légèrement bleutés. Selon la lithothérapie, l'amazonite est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les tensions et à favoriser la clarté mentale. Parfait pour porter au quotidien, ce bijou naturel apporte une touche bohème et une énergie harmonieuse.",
               "photo": "images/articles/collier-en-macrame-avec-pierre-amazonite-mtyemwehzk54.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLQ5E8zXhZhA1",
+              "stripeMode": "live",
+              "stripeNom": "Collier en macramé avec pierre amazonite",
+              "stripeDesc": "Ce pendentif en macramé met en valeur une belle pierre amazonite, aux reflets verts apaisants et légèrement bleutés. Selon la lithothérapie, l'amazonite est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les tensions et à favoriser la clarté mentale. Parfait pour porter au quotidien, ce bijou naturel apporte une touche bohème et une énergie harmonieuse.",
+              "stripePriceId": "price_1UEqjNLOfCA5mATuyaR2W8nA",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEqjOLOfCA5mATuzl7xKuRQ",
+              "stripe": "https://buy.stripe.com/aFa28s9c6cjXaUMaxP28a1M",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

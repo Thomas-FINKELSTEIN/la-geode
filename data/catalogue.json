@@ -5400,7 +5400,17 @@
               "description": "Ce penditif en macramé met en valeur une belle pierre de rhodonite, connue pour ses teintes douces et apaisantes. La rhodonite est souvent utilisée en lithothérapie pour favoriser la guérison émotionnelle, apaiser les chagrins et renforcer la confiance en soi. Son énergie bienveillante en fait un allié idéal pour retrouver un équilibre intérieur et une sérénité au quotidien.",
               "photo": "images/articles/collier-en-macrame-pierre-rhodonite-mtyehfjjyjy0.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLLgvkQbLmlkH",
+              "stripeMode": "live",
+              "stripeNom": "Collier en macramé pierre rhodonite",
+              "stripeDesc": "Ce penditif en macramé met en valeur une belle pierre de rhodonite, connue pour ses teintes douces et apaisantes. La rhodonite est souvent utilisée en lithothérapie pour favoriser la guérison émotionnelle, apaiser les chagrins et renforcer la confiance en soi. Son énergie bienveillante en fait un allié idéal pour retrouver un équilibre intérieur et une sérénité au quotidien.",
+              "stripePriceId": "price_1UEqfGLOfCA5mATuIISkKDhN",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEqfHLOfCA5mATuYKK1pTwG",
+              "stripe": "https://buy.stripe.com/7sYbJ2coifw9gf621j28a1K",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -5609,7 +5609,17 @@
               "description": "Ce pendentif en jaspe dalmatien, travaillé en macramé, allie élégance et énergie positive. Le jaspe dalmatien est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle, apporter équilibre et confiance en soi. Parfait pour une touche naturelle et apaisante au quotidien, il se porte aussi bien en collier qu’en accessoire décoratif.",
               "photo": "images/articles/collier-en-macrame-avec-pierre-jaspe-dal-mtyfckyemmaf.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLk8BjWWRskRk",
+              "stripeMode": "live",
+              "stripeNom": "Collier en macramé avec pierre jaspe dalmatien",
+              "stripeDesc": "Ce pendentif en jaspe dalmatien, travaillé en macramé, allie élégance et énergie positive. Le jaspe dalmatien est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle, apporter équilibre et confiance en soi. Parfait pour une touche naturelle et apaisante au quotidien, il se porte aussi bien en collier qu’en accessoire décoratif.",
+              "stripePriceId": "price_1UEr2iLOfCA5mATuFIJTd9R6",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEr2jLOfCA5mATuJmyeUPPw",
+              "stripe": "https://buy.stripe.com/7sYbJ2gEyfw97IA49r28a1V",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -10257,7 +10257,17 @@
               "description": "Cette baguette de soin en cristal de roche est un outil puissant pour équilibrer les énergies et favoriser la clarté mentale. Utilisée en lithothérapie, elle aide à purifier l'espace et à renforcer la concentration. Parfaite pour les méditations ou les rituels de guérison, elle amplifie les intentions positives.",
               "photo": "images/articles/baguette-de-soin-cristal-de-roche-16-cm-mty1893r22f1.jpg",
               "prixBoutique": 330,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFFMFO6mHse3BI",
+              "stripeMode": "live",
+              "stripeNom": "Baguette de soin cristal de roche 16 cm",
+              "stripeDesc": "Cette baguette de soin en cristal de roche est un outil puissant pour équilibrer les énergies et favoriser la clarté mentale. Utilisée en lithothérapie, elle aide à purifier l'espace et à renforcer la concentration. Parfaite pour les méditations ou les rituels de guérison, elle amplifie les intentions positives.",
+              "stripePriceId": "price_1UEksBLOfCA5mATuLrIR9lEL",
+              "stripePrix": 341.35,
+              "stripeLinkId": "plink_1UEksBLOfCA5mATuQkGKCJDR",
+              "stripe": "https://buy.stripe.com/6oUbJ2fAu0Bf1kcgWd28a1n",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

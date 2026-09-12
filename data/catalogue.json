@@ -10245,7 +10245,17 @@
               "description": "Ce pendule en cristal de roche est un outil puissant pour harmoniser les énergies des 7 chakras. Traditionnellement utilisé en lithothérapie, il aide à équilibrer le corps et l’esprit, favorisant ainsi le bien-être général et la sérénité. Idéal pour les méditations ou les rituels de guérison, il apporte clarté et énergie positive au quotidien.",
               "photo": "images/articles/pendule-cristal-de-roche-7-chakras-mty1dxsneyvj.jpg",
               "prixBoutique": 225,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFFRamtb5ApOKE",
+              "stripeMode": "live",
+              "stripeNom": "Pendule cristal de roche 7 chakras",
+              "stripeDesc": "Ce pendule en cristal de roche est un outil puissant pour harmoniser les énergies des 7 chakras. Traditionnellement utilisé en lithothérapie, il aide à équilibrer le corps et l’esprit, favorisant ainsi le bien-être général et la sérénité. Idéal pour les méditations ou les rituels de guérison, il apporte clarté et énergie positive au quotidien.",
+              "stripePriceId": "price_1UEkwULOfCA5mATueRwdNaNE",
+              "stripePrix": 232.82,
+              "stripeLinkId": "plink_1UEkwVLOfCA5mATuh2hO4lKF",
+              "stripe": "https://buy.stripe.com/fZu28s5ZU3Nr1kc7lD28a1p",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

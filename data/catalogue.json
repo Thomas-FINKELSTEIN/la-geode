@@ -5097,16 +5097,25 @@
               "photo": "images/articles/pendentif-larimar-6-cm-mty21lr5b6mq.jpg",
               "prixBoutique": 460,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY7sMewqabPaUM5dv28a1u",
               "stripeProductId": "prod_VFFjJNRU8TYqcM",
+              "stripePriceId": "price_1UElEGLOfCA5mATuIXWJe0B3",
+              "stripeLinkId": "plink_1UElEGLOfCA5mATuGUi6DsQW",
+              "stripePrix": 475.72,
               "stripeMode": "live",
               "stripeNom": "Pendentif Larimar 6 cm",
               "stripeDesc": "Le Larimar est une pierre rare aux reflets bleutés apaisants, souvent appelée la pierre des sirènes. Porté en pendentif, il est réputé pour favoriser la sérénité, apaiser les émotions et renforcer la connexion à son intuition. Idéal pour ceux qui cherchent à équilibrer leur énergie et à cultiver une profonde paix intérieure.",
-              "stripePriceId": "price_1UElEGLOfCA5mATuIXWJe0B3",
-              "stripePrix": 475.72,
-              "stripeLinkId": "plink_1UElEGLOfCA5mATuGUi6DsQW",
-              "stripe": "https://buy.stripe.com/7sY7sMewqabPaUM5dv28a1u",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-larimar-extra-6-cm-mty275s8dic2",
+              "nom": "Pendentif Larimar extra 6 cm",
+              "prix": 432.3,
+              "description": "Ce pendentif en Larimar extra est une pièce unique aux reflets bleutés et turquoise, inspirée par les profondeurs des océans. La Larimar est souvent associée à la sérénité, à la communication apaisée et à l’ouverture du cœur, aidant à apaiser les émotions et à favoriser la connexion avec soi-même. Parfait pour porter au quotidien, il diffuse une énergie calme et protectrice, idéale pour ceux qui cherchent à harmoniser leur esprit.",
+              "photo": "images/articles/pendentif-larimar-extra-6-cm-mty275s8923g.jpg",
+              "prixBoutique": 418,
+              "stock": 1
             }
           ]
         },

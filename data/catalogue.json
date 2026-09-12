@@ -5856,7 +5856,17 @@
               "description": "Ce pendentif en forme de croix en acier est un symbole universel de protection et de spiritualité. Porté au quotidien, il est souvent associé à un ancrage énergétique et une connexion avec des valeurs de sérénité et de force intérieure. Idéal pour ceux qui recherchent un accessoire à la fois élégant et porteur de sens, il s’intègre parfaitement dans une tenue tout en rappelant des valeurs de paix et de résilience.",
               "photo": "images/articles/pendentif-croix-acier-3-cm-mtykn81udtuo.jpg",
               "prixBoutique": 9.9,
-              "stock": 29
+              "stock": 29,
+              "stripeProductId": "prod_VFO88kg30ojkSa",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif croix acier 3 cm",
+              "stripeDesc": "Ce pendentif en forme de croix en acier est un symbole universel de protection et de spiritualité. Porté au quotidien, il est souvent associé à un ancrage énergétique et une connexion avec des valeurs de sérénité et de force intérieure. Idéal pour ceux qui recherchent un accessoire à la fois élégant et porteur de sens, il s’intègre parfaitement dans une tenue tout en rappelant des valeurs de paix et de résilience.",
+              "stripePriceId": "price_1UEtMALOfCA5mATucEQQYIvi",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UEtMALOfCA5mATuP616uvle",
+              "stripe": "https://buy.stripe.com/28EcN6fAuabP5As9tL28a29",
+              "stripeStock": 29,
+              "epuise": false
             }
           ]
         },

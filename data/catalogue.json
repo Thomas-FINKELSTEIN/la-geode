@@ -5762,16 +5762,25 @@
               "photo": "images/articles/chaine-argente-pierre-shungite-mtyj0iq5jof6.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/14A00kdsmes56EwcFX28a23",
               "stripeProductId": "prod_VFNOtkyf98bs5c",
+              "stripePriceId": "price_1UEsdwLOfCA5mATugvkxMATa",
+              "stripeLinkId": "plink_1UEsdxLOfCA5mATuhK01eT5z",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Chaîne argenté pierre shungite",
               "stripeDesc": "La shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent utilisée pour purifier l’énergie environnante et équilibrer les chakras. Son pouvoir absorbant est réputé pour éliminer les ondes négatives et favoriser un bien-être profond. Parfaite pour être portée au quotidien, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à renforcer leur connexion spirituelle.",
-              "stripePriceId": "price_1UEsdwLOfCA5mATugvkxMATa",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UEsdxLOfCA5mATuhK01eT5z",
-              "stripe": "https://buy.stripe.com/14A00kdsmes56EwcFX28a23",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "chaine-argente-agate-crazy-lace-mtyj95vj0l2t",
+              "nom": "Chaîne argenté agate crazy lace",
+              "prix": 18.76,
+              "description": "Ce pendentif en agate crazy lace est une pièce unique qui attire l'attention par ses motifs tourbillonnants et ses couleurs douces. Selon les croyances en lithothérapie, cette pierre est souvent associée à la racine et au chakra racine, favorisant la stabilité, la sécurité et l'équilibre émotionnel. Elle est idéale pour ceux qui cherchent à renforcer leur ancrage à la terre et à harmoniser leur énergie pour un quotidien plus serein.",
+              "photo": "images/articles/chaine-argente-agate-crazy-lace-mtyj95vjw2qb.jpg",
+              "prixBoutique": 17.9,
+              "stock": 1
             }
           ]
         },

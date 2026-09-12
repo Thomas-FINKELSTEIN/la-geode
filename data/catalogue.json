@@ -5069,6 +5069,15 @@
               "stripeDesc": "Ce pendentif aux sept pierres colorées représente les sept chakras principaux du corps énergétique. Chaque pierre correspond à un chakra spécifique, favorisant l'équilibre émotionnel et physique. Parfait pour méditer ou porter au quotidien, il aide à harmoniser les énergies et à renforcer le bien-être intérieur.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-larimar-extra-mty1xbqogjmt",
+              "nom": "Pendentif Larimar extra",
+              "prix": 319.64,
+              "description": "Ce pendentif en Larimar extra est une pièce unique alliant beauté et énergie apaisante. La Larimar, pierre rare aux reflets bleutés, est souvent associée à la sérénité, à la communication et à l'expression des émotions. Parfaite pour accompagner votre quotidien, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une connexion profonde avec leur intuition.",
+              "photo": "images/articles/pendentif-larimar-extra-mty1xbqox01y.jpg",
+              "prixBoutique": 309,
+              "stock": 1
             }
           ]
         },
@@ -9481,14 +9490,14 @@
               "photo": "images/articles/bague-larimar-extra-en-argent-mty1phfng10s.jpg",
               "prixBoutique": 280,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/14AfZicoibfT3skdK128a1s",
               "stripeProductId": "prod_VFFaRvFkpgnlNB",
+              "stripePriceId": "price_1UEl5ALOfCA5mATu0QYYDKZ6",
+              "stripeLinkId": "plink_1UEl5BLOfCA5mATuE0sGPlQ8",
+              "stripePrix": 289.67,
               "stripeMode": "live",
               "stripeNom": "Bague Larimar extra en argent",
               "stripeDesc": "La bague Larimar extra en argent met en valeur cette pierre rare aux reflets bleutés et turquoise, symbole de sérénité et de connexion avec l'élément eau. En lithothérapie, le Larimar est souvent utilisé pour apaiser les émotions, favoriser la communication et renforcer la confiance en soi. Idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une paix intérieure profonde.",
-              "stripePriceId": "price_1UEl5ALOfCA5mATu0QYYDKZ6",
-              "stripePrix": 289.67,
-              "stripeLinkId": "plink_1UEl5BLOfCA5mATuE0sGPlQ8",
-              "stripe": "https://buy.stripe.com/14AfZicoibfT3skdK128a1s",
               "stripeStock": 1,
               "epuise": false
             }

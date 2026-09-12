@@ -5571,7 +5571,17 @@
               "description": "Ce pendentif en macramé met en valeur une belle opale jaune, pierre lumineuse et énergétique. En lithothérapie, l'opale jaune est souvent associée à la joie, à la créativité et à une énergie revitalisante, aidant à éclaircir les pensées et à renforcer la confiance en soi. Parfait pour porter au quotidien, ce bijou apporte une touche naturelle et apaisante, tout en stimulant l'équilibre émotionnel.",
               "photo": "images/articles/collier-en-macrame-avec-opale-jaune-mtyfabrjpgpv.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLibYYviI0lmF",
+              "stripeMode": "live",
+              "stripeNom": "Collier en macramé avec opale jaune",
+              "stripeDesc": "Ce pendentif en macramé met en valeur une belle opale jaune, pierre lumineuse et énergétique. En lithothérapie, l'opale jaune est souvent associée à la joie, à la créativité et à une énergie revitalisante, aidant à éclaircir les pensées et à renforcer la confiance en soi. Parfait pour porter au quotidien, ce bijou apporte une touche naturelle et apaisante, tout en stimulant l'équilibre émotionnel.",
+              "stripePriceId": "price_1UEr13LOfCA5mATuHnpb9VLP",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEr13LOfCA5mATumtPnPofA",
+              "stripe": "https://buy.stripe.com/cNicN6gEyfw9d2U21j28a1T",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

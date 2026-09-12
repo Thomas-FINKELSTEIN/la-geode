@@ -5191,7 +5191,17 @@
               "description": "Ce pendentif en fleur d'améthyste est une pièce unique alliant beauté et énergie apaisante. L'améthyste, pierre de spiritualité et de calme, est souvent utilisée pour favoriser la sérénité, améliorer la concentration et équilibrer les émotions. Parfaite pour une touche élégante au quotidien, elle est idéale pour ceux qui cherchent à harmoniser leur énergie tout en sublimant leur style.",
               "photo": "images/articles/pend-fleur-d-amethyste-8-cm-mty2ssh0m16q.jpg",
               "prixBoutique": 237,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFG4BY3vvIWdag",
+              "stripeMode": "live",
+              "stripeNom": "Pend fleur d'améthyste 8 cm",
+              "stripeDesc": "Ce pendentif en fleur d'améthyste est une pièce unique alliant beauté et énergie apaisante. L'améthyste, pierre de spiritualité et de calme, est souvent utilisée pour favoriser la sérénité, améliorer la concentration et équilibrer les émotions. Parfaite pour une touche élégante au quotidien, elle est idéale pour ceux qui cherchent à harmoniser leur énergie tout en sublimant leur style.",
+              "stripePriceId": "price_1UElYlLOfCA5mATuCQxqmKUw",
+              "stripePrix": 245.22,
+              "stripeLinkId": "plink_1UElYlLOfCA5mATupV6Mi88O",
+              "stripe": "https://buy.stripe.com/6oU28s73Y2Jnd2UeO528a1z",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -5058,7 +5058,17 @@
               "description": "Ce pendentif aux sept pierres colorées représente les sept chakras principaux du corps énergétique. Chaque pierre correspond à un chakra spécifique, favorisant l'équilibre émotionnel et physique. Parfait pour méditer ou porter au quotidien, il aide à harmoniser les énergies et à renforcer le bien-être intérieur.",
               "photo": "images/articles/pendentif-7-chakras-6-cm-mty1l9tz2ne1.jpg",
               "prixBoutique": 129.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFFX0QFzpfu0om",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif 7 chakras 6 cm",
+              "stripeDesc": "Ce pendentif aux sept pierres colorées représente les sept chakras principaux du corps énergétique. Chaque pierre correspond à un chakra spécifique, favorisant l'équilibre émotionnel et physique. Parfait pour méditer ou porter au quotidien, il aide à harmoniser les énergies et à renforcer le bien-être intérieur.",
+              "stripePriceId": "price_1UEl1xLOfCA5mATuEoreeKTD",
+              "stripePrix": 134.53,
+              "stripeLinkId": "plink_1UEl1yLOfCA5mATuCeselbZG",
+              "stripe": "https://buy.stripe.com/3cI14o0FAfw9e6Y49r28a1r",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

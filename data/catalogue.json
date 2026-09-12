@@ -5648,16 +5648,25 @@
               "photo": "images/articles/collier-en-macrame-avec-une-pierre-jaspe-mtyffdnao0me.jpg",
               "prixBoutique": 15,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU14o1JEbfT5AsdK128a1X",
               "stripeProductId": "prod_VFLmyJoBvgJqmV",
+              "stripePriceId": "price_1UEr4nLOfCA5mATuLuped5jX",
+              "stripeLinkId": "plink_1UEr4oLOfCA5mATuJejxAysZ",
+              "stripePrix": 15.77,
               "stripeMode": "live",
               "stripeNom": "Collier en macramé avec une pierre jaspe héliotrope",
               "stripeDesc": "Ce pendentif en macramé met en valeur une belle pierre de jaspe héliotrope, aux reflets verts et rouges harmonieux. Symbole de vitalité et de protection, cette pierre est souvent utilisée en lithothérapie pour renforcer l'énergie vitale et favoriser l'équilibre émotionnel. Parfait pour une touche naturelle et apaisante au quotidien, il peut être porté en collier ou simplement admiré pour ses bienfaits énergétiques.",
-              "stripePriceId": "price_1UEr4nLOfCA5mATuLuped5jX",
-              "stripePrix": 15.77,
-              "stripeLinkId": "plink_1UEr4oLOfCA5mATuJejxAysZ",
-              "stripe": "https://buy.stripe.com/6oU14o1JEbfT5AsdK128a1X",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "collier-en-macrame-avec-pierre-obsidienn-mtyfglaexkav",
+              "nom": "Collier en macramé avec pierre obsidienne neige",
+              "prix": 15.77,
+              "description": "Ce pendentif en macramé met en valeur une pierre d'obsidienne neige, une variété rare et élégante de cette pierre volcanique. L'obsidienne neige est souvent associée à la purification, à l'apaisement des émotions et à la protection contre les énergies négatives. Elle favorise également la clarté mentale et aide à trouver un équilibre intérieur, tout en renforçant la connexion à son intuition.",
+              "photo": "images/articles/collier-en-macrame-avec-pierre-obsidienn-mtyfglaemokk.jpg",
+              "prixBoutique": 15,
+              "stock": 1
             }
           ]
         },

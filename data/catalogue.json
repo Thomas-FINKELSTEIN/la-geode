@@ -5031,6 +5031,15 @@
               "stripeDesc": "Ce pendentif en Larimar extra est une pièce unique aux reflets bleutés et turquoise, captivants comme les profondeurs de l'océan. La Larimar est souvent associée à la sérénité, à la communication apaisée et à l'expression des émotions profondes. Porté en bijou, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à se reconnecter à une paix intérieure.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-7-chakras-6-cm-mty1jawo5xbj",
+              "nom": "Pendentif 7 chakras 6 cm",
+              "prix": 134.53,
+              "description": "Ce pendentif aux sept pierres colorées représente une harmonie parfaite pour équilibrer les énergies des sept chakras. Chaque pierre, soigneusement choisie, favorise le bien-être physique et émotionnel en stimulant les centres énergétiques du corps. Idéal pour méditation, port quotidien ou cadeau spirituel, il apporte sérénité et alignement intérieur.",
+              "photo": "images/articles/pendentif-7-chakras-6-cm-mty1jawovbxv.jpg",
+              "prixBoutique": 129.9,
+              "stock": 1
             }
           ]
         },
@@ -10246,14 +10255,14 @@
               "photo": "images/articles/pendule-cristal-de-roche-7-chakras-mty1dxsneyvj.jpg",
               "prixBoutique": 225,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu28s5ZU3Nr1kc7lD28a1p",
               "stripeProductId": "prod_VFFRamtb5ApOKE",
+              "stripePriceId": "price_1UEkwULOfCA5mATueRwdNaNE",
+              "stripeLinkId": "plink_1UEkwVLOfCA5mATuh2hO4lKF",
+              "stripePrix": 232.82,
               "stripeMode": "live",
               "stripeNom": "Pendule cristal de roche 7 chakras",
               "stripeDesc": "Ce pendule en cristal de roche est un outil puissant pour harmoniser les énergies des 7 chakras. Traditionnellement utilisé en lithothérapie, il aide à équilibrer le corps et l’esprit, favorisant ainsi le bien-être général et la sérénité. Idéal pour les méditations ou les rituels de guérison, il apporte clarté et énergie positive au quotidien.",
-              "stripePriceId": "price_1UEkwULOfCA5mATueRwdNaNE",
-              "stripePrix": 232.82,
-              "stripeLinkId": "plink_1UEkwVLOfCA5mATuh2hO4lKF",
-              "stripe": "https://buy.stripe.com/fZu28s5ZU3Nr1kc7lD28a1p",
               "stripeStock": 1,
               "epuise": false
             }

@@ -5761,7 +5761,17 @@
               "description": "La shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent utilisée pour purifier l’énergie environnante et équilibrer les chakras. Son pouvoir absorbant est réputé pour éliminer les ondes négatives et favoriser un bien-être profond. Parfaite pour être portée au quotidien, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à renforcer leur connexion spirituelle.",
               "photo": "images/articles/chaine-argente-pierre-shungite-mtyj0iq5jof6.jpg",
               "prixBoutique": 22,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFNOtkyf98bs5c",
+              "stripeMode": "live",
+              "stripeNom": "Chaîne argenté pierre shungite",
+              "stripeDesc": "La shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent utilisée pour purifier l’énergie environnante et équilibrer les chakras. Son pouvoir absorbant est réputé pour éliminer les ondes négatives et favoriser un bien-être profond. Parfaite pour être portée au quotidien, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à renforcer leur connexion spirituelle.",
+              "stripePriceId": "price_1UEsdwLOfCA5mATugvkxMATa",
+              "stripePrix": 23,
+              "stripeLinkId": "plink_1UEsdxLOfCA5mATuhK01eT5z",
+              "stripe": "https://buy.stripe.com/14A00kdsmes56EwcFX28a23",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -5077,7 +5077,17 @@
               "description": "Ce pendentif en Larimar extra est une pièce unique alliant beauté et énergie apaisante. La Larimar, pierre rare aux reflets bleutés, est souvent associée à la sérénité, à la communication et à l'expression des émotions. Parfaite pour accompagner votre quotidien, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une connexion profonde avec leur intuition.",
               "photo": "images/articles/pendentif-larimar-extra-mty1xbqox01y.jpg",
               "prixBoutique": 309,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFFgSchzlvAB2B",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif Larimar extra",
+              "stripeDesc": "Ce pendentif en Larimar extra est une pièce unique alliant beauté et énergie apaisante. La Larimar, pierre rare aux reflets bleutés, est souvent associée à la sérénité, à la communication et à l'expression des émotions. Parfaite pour accompagner votre quotidien, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une connexion profonde avec leur intuition.",
+              "stripePriceId": "price_1UElB2LOfCA5mATu7UInC664",
+              "stripePrix": 319.64,
+              "stripeLinkId": "plink_1UElB2LOfCA5mATugnqcSrOP",
+              "stripe": "https://buy.stripe.com/5kQ9AU1JE6ZD5As35n28a1t",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

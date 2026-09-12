@@ -5305,7 +5305,17 @@
               "description": "Ce pendentif en labradorite AAA capture la lumière pour révéler ses reflets bleutés et verts, créant un jeu de couleurs hypnotique. La labradorite est souvent appelée la pierre de magie et de mystère, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Portée au quotidien, elle est réputée pour stimuler l'intuition et favoriser une connexion profonde avec son intuition intérieure.",
               "photo": "images/articles/pendentif-labradorite-aaa-mty3hcy4st8p.jpg",
               "prixBoutique": 185,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFGN5RXA41BOtp",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif labradorite AAA",
+              "stripeDesc": "Ce pendentif en labradorite AAA capture la lumière pour révéler ses reflets bleutés et verts, créant un jeu de couleurs hypnotique. La labradorite est souvent appelée la pierre de magie et de mystère, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Portée au quotidien, elle est réputée pour stimuler l'intuition et favoriser une connexion profonde avec son intuition intérieure.",
+              "stripePriceId": "price_1UElrDLOfCA5mATu9OQldH9k",
+              "stripePrix": 191.48,
+              "stripeLinkId": "plink_1UElrELOfCA5mATuklamsTVE",
+              "stripe": "https://buy.stripe.com/dRmfZiagafw91kccFX28a1F",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

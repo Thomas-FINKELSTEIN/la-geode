@@ -5381,7 +5381,17 @@
               "description": "Ce collier macramé met en valeur une pierre d'hématite, connue pour ses propriétés apaisantes et son influence sur l'équilibre émotionnel. En lithothérapie, l'hématite est souvent utilisée pour renforcer la concentration et ancrer l'énergie, aidant à calmer le mental. Parfait pour un usage quotidien, ce collier allie élégance naturelle et bien-être.",
               "photo": "images/articles/collier-macrame-hematite-mtyefpsuhexp.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLKL52WARkg9V",
+              "stripeMode": "live",
+              "stripeNom": "Collier macramé hématite",
+              "stripeDesc": "Ce collier macramé met en valeur une pierre d'hématite, connue pour ses propriétés apaisantes et son influence sur l'équilibre émotionnel. En lithothérapie, l'hématite est souvent utilisée pour renforcer la concentration et ancrer l'énergie, aidant à calmer le mental. Parfait pour un usage quotidien, ce collier allie élégance naturelle et bien-être.",
+              "stripePriceId": "price_1UEqdxLOfCA5mATuswP4u3k1",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEqdyLOfCA5mATuB3zRJXxn",
+              "stripe": "https://buy.stripe.com/dRm3cw9c66ZDd2UbBT28a1J",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

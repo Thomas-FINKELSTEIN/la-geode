@@ -5495,7 +5495,17 @@
               "description": "Ce pendentif en macramé met en valeur une pointe de cristal de roche, pierre d'une pureté lumineuse et d'une énergie apaisante. Associée traditionnellement à la clarté mentale et à l'harmonisation des émotions, elle est souvent utilisée pour purifier l'aura et renforcer la concentration. Parfait pour une touche naturelle et élégante, ce bijou s'intègre aussi bien dans un quotidien spirituel que dans une garde-robe minimaliste.",
               "photo": "images/articles/collier-macrame-avec-pointe-de-cristal-d-mtyeuu3yqnam.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLWdQNQmmS7nE",
+              "stripeMode": "live",
+              "stripeNom": "Collier macramé avec pointe de cristal de roche",
+              "stripeDesc": "Ce pendentif en macramé met en valeur une pointe de cristal de roche, pierre d'une pureté lumineuse et d'une énergie apaisante. Associée traditionnellement à la clarté mentale et à l'harmonisation des émotions, elle est souvent utilisée pour purifier l'aura et renforcer la concentration. Parfait pour une touche naturelle et élégante, ce bijou s'intègre aussi bien dans un quotidien spirituel que dans une garde-robe minimaliste.",
+              "stripePriceId": "price_1UEqpNLOfCA5mATu9T8a5IXV",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEqpOLOfCA5mATuR8vjQOcO",
+              "stripe": "https://buy.stripe.com/cNibJ273Y3Nr6Ew21j28a1P",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

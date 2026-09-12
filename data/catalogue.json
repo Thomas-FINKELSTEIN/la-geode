@@ -5647,7 +5647,17 @@
               "description": "Ce pendentif en macramé met en valeur une belle pierre de jaspe héliotrope, aux reflets verts et rouges harmonieux. Symbole de vitalité et de protection, cette pierre est souvent utilisée en lithothérapie pour renforcer l'énergie vitale et favoriser l'équilibre émotionnel. Parfait pour une touche naturelle et apaisante au quotidien, il peut être porté en collier ou simplement admiré pour ses bienfaits énergétiques.",
               "photo": "images/articles/collier-en-macrame-avec-une-pierre-jaspe-mtyffdnao0me.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLmyJoBvgJqmV",
+              "stripeMode": "live",
+              "stripeNom": "Collier en macramé avec une pierre jaspe héliotrope",
+              "stripeDesc": "Ce pendentif en macramé met en valeur une belle pierre de jaspe héliotrope, aux reflets verts et rouges harmonieux. Symbole de vitalité et de protection, cette pierre est souvent utilisée en lithothérapie pour renforcer l'énergie vitale et favoriser l'équilibre émotionnel. Parfait pour une touche naturelle et apaisante au quotidien, il peut être porté en collier ou simplement admiré pour ses bienfaits énergétiques.",
+              "stripePriceId": "price_1UEr4nLOfCA5mATuLuped5jX",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEr4oLOfCA5mATuJejxAysZ",
+              "stripe": "https://buy.stripe.com/6oU14o1JEbfT5AsdK128a1X",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

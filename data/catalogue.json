@@ -5078,16 +5078,25 @@
               "photo": "images/articles/pendentif-larimar-extra-mty1xbqox01y.jpg",
               "prixBoutique": 309,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ9AU1JE6ZD5As35n28a1t",
               "stripeProductId": "prod_VFFgSchzlvAB2B",
+              "stripePriceId": "price_1UElB2LOfCA5mATu7UInC664",
+              "stripeLinkId": "plink_1UElB2LOfCA5mATugnqcSrOP",
+              "stripePrix": 319.64,
               "stripeMode": "live",
               "stripeNom": "Pendentif Larimar extra",
               "stripeDesc": "Ce pendentif en Larimar extra est une pièce unique alliant beauté et énergie apaisante. La Larimar, pierre rare aux reflets bleutés, est souvent associée à la sérénité, à la communication et à l'expression des émotions. Parfaite pour accompagner votre quotidien, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une connexion profonde avec leur intuition.",
-              "stripePriceId": "price_1UElB2LOfCA5mATu7UInC664",
-              "stripePrix": 319.64,
-              "stripeLinkId": "plink_1UElB2LOfCA5mATugnqcSrOP",
-              "stripe": "https://buy.stripe.com/5kQ9AU1JE6ZD5As35n28a1t",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-larimar-6-cm-mty21lr5jnut",
+              "nom": "Pendentif Larimar 6 cm",
+              "prix": 475.72,
+              "description": "Le Larimar est une pierre rare aux reflets bleutés apaisants, souvent appelée la pierre des sirènes. Porté en pendentif, il est réputé pour favoriser la sérénité, apaiser les émotions et renforcer la connexion à son intuition. Idéal pour ceux qui cherchent à équilibrer leur énergie et à cultiver une profonde paix intérieure.",
+              "photo": "images/articles/pendentif-larimar-6-cm-mty21lr5b6mq.jpg",
+              "prixBoutique": 460,
+              "stock": 1
             }
           ]
         },

@@ -5667,16 +5667,25 @@
               "photo": "images/articles/collier-en-macrame-avec-pierre-obsidienn-mtyfglaemokk.jpg",
               "prixBoutique": 15,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B67sMgEygAd7IA8pH28a1Y",
               "stripeProductId": "prod_VFLnLbM744QCdw",
+              "stripePriceId": "price_1UEr5iLOfCA5mATuUrM4ZHhK",
+              "stripeLinkId": "plink_1UEr5iLOfCA5mATuxDyM60YS",
+              "stripePrix": 15.77,
               "stripeMode": "live",
               "stripeNom": "Collier en macramé avec pierre obsidienne neige",
               "stripeDesc": "Ce pendentif en macramé met en valeur une pierre d'obsidienne neige, une variété rare et élégante de cette pierre volcanique. L'obsidienne neige est souvent associée à la purification, à l'apaisement des émotions et à la protection contre les énergies négatives. Elle favorise également la clarté mentale et aide à trouver un équilibre intérieur, tout en renforçant la connexion à son intuition.",
-              "stripePriceId": "price_1UEr5iLOfCA5mATuUrM4ZHhK",
-              "stripePrix": 15.77,
-              "stripeLinkId": "plink_1UEr5iLOfCA5mATuxDyM60YS",
-              "stripe": "https://buy.stripe.com/9B67sMgEygAd7IA8pH28a1Y",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "chaine-doree-avec-pierre-shiva-lingham-mtyghf6ql7fh",
+              "nom": "Chaîne dorée avec pierre shiva lingham",
+              "prix": 18.76,
+              "description": "Ce shiva lingam, pierre sacrée d'Inde, est un symbole puissant d'union et de renouveau énergétique. En lithothérapie, il est souvent utilisé pour harmoniser le corps, l'esprit et la dimension spirituelle, en équilibrant les énergies yin et yang. Porté en pendentif, il favorise la connexion à soi-même et aide à retrouver un état de sérénité profonde.",
+              "photo": "images/articles/chaine-doree-avec-pierre-shiva-lingham-mtyghf6qxykw.jpg",
+              "prixBoutique": 17.9,
+              "stock": 1
             }
           ]
         },

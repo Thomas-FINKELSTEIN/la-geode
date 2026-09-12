@@ -9480,7 +9480,17 @@
               "description": "La bague Larimar extra en argent met en valeur cette pierre rare aux reflets bleutés et turquoise, symbole de sérénité et de connexion avec l'élément eau. En lithothérapie, le Larimar est souvent utilisé pour apaiser les émotions, favoriser la communication et renforcer la confiance en soi. Idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une paix intérieure profonde.",
               "photo": "images/articles/bague-larimar-extra-en-argent-mty1phfng10s.jpg",
               "prixBoutique": 280,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFFaRvFkpgnlNB",
+              "stripeMode": "live",
+              "stripeNom": "Bague Larimar extra en argent",
+              "stripeDesc": "La bague Larimar extra en argent met en valeur cette pierre rare aux reflets bleutés et turquoise, symbole de sérénité et de connexion avec l'élément eau. En lithothérapie, le Larimar est souvent utilisé pour apaiser les émotions, favoriser la communication et renforcer la confiance en soi. Idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une paix intérieure profonde.",
+              "stripePriceId": "price_1UEl5ALOfCA5mATu0QYYDKZ6",
+              "stripePrix": 289.67,
+              "stripeLinkId": "plink_1UEl5BLOfCA5mATuE0sGPlQ8",
+              "stripe": "https://buy.stripe.com/14AfZicoibfT3skdK128a1s",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

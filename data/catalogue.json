@@ -5287,16 +5287,25 @@
               "photo": "images/articles/pendentif-labradorite-aaa-mty3ezznbgfe.jpg",
               "prixBoutique": 185,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/8x214o2NI3Nr4woaxP28a1E",
               "stripeProductId": "prod_VFGM55HpU6w3In",
+              "stripePriceId": "price_1UElpQLOfCA5mATufFWpAh3W",
+              "stripeLinkId": "plink_1UElpQLOfCA5mATuqdxm0I8v",
+              "stripePrix": 191.48,
               "stripeMode": "live",
               "stripeNom": "Pendentif labradorite AAA",
               "stripeDesc": "Ce pendentif en labradorite AAA capture la magie des reflets bleutés et dorés, typiques de cette pierre aux éclats changeants. En lithothérapie, la labradorite est souvent associée à une protection énergétique et à l’ouverture des perceptions intuitives, aidant à renforcer la confiance en soi et à apaiser les émotions. Parfait pour une utilisation quotidienne, ce bijou en pierre naturelle s’intègre aussi bien dans une tenue élégante que dans une pratique spirituelle ou méditative.",
-              "stripePriceId": "price_1UElpQLOfCA5mATufFWpAh3W",
-              "stripePrix": 191.48,
-              "stripeLinkId": "plink_1UElpQLOfCA5mATuqdxm0I8v",
-              "stripe": "https://buy.stripe.com/8x214o2NI3Nr4woaxP28a1E",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-labradorite-aaa-mty3hcy4r7p5",
+              "nom": "Pendentif labradorite AAA",
+              "prix": 191.48,
+              "description": "Ce pendentif en labradorite AAA capture la lumière pour révéler ses reflets bleutés et verts, créant un jeu de couleurs hypnotique. La labradorite est souvent appelée la pierre de magie et de mystère, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Portée au quotidien, elle est réputée pour stimuler l'intuition et favoriser une connexion profonde avec son intuition intérieure.",
+              "photo": "images/articles/pendentif-labradorite-aaa-mty3hcy4st8p.jpg",
+              "prixBoutique": 185,
+              "stock": 1
             }
           ]
         },

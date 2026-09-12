@@ -5685,7 +5685,17 @@
               "description": "Ce shiva lingam, pierre sacrée d'Inde, est un symbole puissant d'union et de renouveau énergétique. En lithothérapie, il est souvent utilisé pour harmoniser le corps, l'esprit et la dimension spirituelle, en équilibrant les énergies yin et yang. Porté en pendentif, il favorise la connexion à soi-même et aide à retrouver un état de sérénité profonde.",
               "photo": "images/articles/chaine-doree-avec-pierre-shiva-lingham-mtyghf6qxykw.jpg",
               "prixBoutique": 17.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFMF7IlC03DL41",
+              "stripeMode": "live",
+              "stripeNom": "Chaîne dorée avec pierre shiva lingham",
+              "stripeDesc": "Ce shiva lingam, pierre sacrée d'Inde, est un symbole puissant d'union et de renouveau énergétique. En lithothérapie, il est souvent utilisé pour harmoniser le corps, l'esprit et la dimension spirituelle, en équilibrant les énergies yin et yang. Porté en pendentif, il favorise la connexion à soi-même et aide à retrouver un état de sérénité profonde.",
+              "stripePriceId": "price_1UErXQLOfCA5mATuQ49ikw92",
+              "stripePrix": 18.76,
+              "stripeLinkId": "plink_1UErXQLOfCA5mATuJkML4DjG",
+              "stripe": "https://buy.stripe.com/7sY4gAfAu6ZD4wodK128a1Z",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -5002,14 +5002,14 @@
               "photo": "images/articles/pendentif-7-chakras-mty11fxzn38p.jpg",
               "prixBoutique": 129.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU00k3RMdo11kc9tL28a1m",
               "stripeProductId": "prod_VFFH9pM8xixU9H",
+              "stripePriceId": "price_1UEkn0LOfCA5mATuoPw0AO9b",
+              "stripeLinkId": "plink_1UEkn0LOfCA5mATuSQ3ENOJ7",
+              "stripePrix": 134.53,
               "stripeMode": "live",
               "stripeNom": "Pendentif 7 chakras",
               "stripeDesc": "Ce bracelet aux sept pierres colorées représente les sept chakras principaux du corps énergétique. Chaque pierre, alignée avec les centres d'énergie traditionnels, est censée favoriser l'équilibre physique, émotionnel et spirituel. Porté au quotidien, il aide à harmoniser les flux énergétiques et à renforcer la connexion entre le corps et l'esprit.",
-              "stripePriceId": "price_1UEkn0LOfCA5mATuoPw0AO9b",
-              "stripePrix": 134.53,
-              "stripeLinkId": "plink_1UEkn0LOfCA5mATuSQ3ENOJ7",
-              "stripe": "https://buy.stripe.com/6oU00k3RMdo11kc9tL28a1m",
               "stripeStock": 1,
               "epuise": false
             }
@@ -10244,6 +10244,22 @@
           "nom": "Feng shui",
           "slogan": "Harmonie, énergie, santé, prospérité : le bien-être de votre foyer et de ses occupants.",
           "articles": []
+        },
+        {
+          "id": "soin-et-bien-etre-mty162fm1u6v",
+          "nom": "Soin et bien être",
+          "slogan": "soins énergétiques et rouleaux de massage pour le bien être",
+          "articles": [
+            {
+              "id": "baguette-de-soin-cristal-de-roche-16-cm-mty1893ruoh2",
+              "nom": "Baguette de soin cristal de roche 16 cm",
+              "prix": 341.35,
+              "description": "Cette baguette de soin en cristal de roche est un outil puissant pour équilibrer les énergies et favoriser la clarté mentale. Utilisée en lithothérapie, elle aide à purifier l'espace et à renforcer la concentration. Parfaite pour les méditations ou les rituels de guérison, elle amplifie les intentions positives.",
+              "photo": "images/articles/baguette-de-soin-cristal-de-roche-16-cm-mty1893r22f1.jpg",
+              "prixBoutique": 330,
+              "stock": 1
+            }
+          ]
         }
       ]
     },

@@ -5705,16 +5705,25 @@
               "photo": "images/articles/chaine-argente-shungite-mtygxsoalw2e.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMbJ29c66ZD1kcgWd28a20",
               "stripeProductId": "prod_VFMSiagri1C88U",
+              "stripePriceId": "price_1UErjkLOfCA5mATulQwqRgUi",
+              "stripeLinkId": "plink_1UErjkLOfCA5mATuZzeza0zO",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Chaine argente shungite",
               "stripeDesc": "Ce pendentif en shungite est une pièce unique alliant beauté et propriétés énergétiques exceptionnelles. La shungite, pierre rare aux reflets métalliques, est réputée pour ses vertus purificatrices et protectrices, aidant à absorber les ondes négatives et à équilibrer l’énergie du corps. Parfaite pour une utilisation quotidienne, elle apporte calme et bien-être, tout en renforçant la connexion à ses émotions.",
-              "stripePriceId": "price_1UErjkLOfCA5mATulQwqRgUi",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UErjkLOfCA5mATuZzeza0zO",
-              "stripe": "https://buy.stripe.com/4gMbJ29c66ZD1kcgWd28a20",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "chaine-doree-avec-agate-crazy-lace-mtyh0wc1gch8",
+              "nom": "Chaine dorée avec agate crazy lace",
+              "prix": 18.76,
+              "description": "Ce pendentif en agate crazy lace est une pièce unique et raffinée, alliant élégance et énergie positive. Cette pierre naturelle aux motifs tourbillonnants est souvent associée à la protection, à la stabilité émotionnelle et à l'équilibre des énergies. Parfaite pour être portée au quotidien, elle apporte une touche de douceur et de sérénité à votre style tout en vous accompagnant dans votre quête de bien-être.",
+              "photo": "images/articles/chaine-doree-avec-agate-crazy-lace-mtyh0wc1i6c5.jpg",
+              "prixBoutique": 17.9,
+              "stock": 1
             }
           ]
         },

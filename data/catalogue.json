@@ -5514,7 +5514,17 @@
               "description": "Ce collier macramé met en valeur un pendentif en œil de tigre, une pierre aux reflets dorés et chaleureux. Connue pour renforcer la confiance en soi et apporter équilibre et stabilité émotionnelle, elle est souvent utilisée pour stimuler la détermination et la force intérieure. Parfait pour une touche bohème et énergétique au quotidien, ce bijou allie artisanat et bien-être naturel.",
               "photo": "images/articles/collier-macrame-avec-oeil-de-tigre-mtyew0f47f20.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLXFXOfcMyyga",
+              "stripeMode": "live",
+              "stripeNom": "Collier macramé avec oeil de tigre",
+              "stripeDesc": "Ce collier macramé met en valeur un pendentif en œil de tigre, une pierre aux reflets dorés et chaleureux. Connue pour renforcer la confiance en soi et apporter équilibre et stabilité émotionnelle, elle est souvent utilisée pour stimuler la détermination et la force intérieure. Parfait pour une touche bohème et énergétique au quotidien, ce bijou allie artisanat et bien-être naturel.",
+              "stripePriceId": "price_1UEqqFLOfCA5mATuXPca3HEt",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEqqFLOfCA5mATuXvk85m2K",
+              "stripe": "https://buy.stripe.com/00w28s2NIbfT6Ew5dv28a1Q",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

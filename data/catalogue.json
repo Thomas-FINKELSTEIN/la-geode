@@ -5686,16 +5686,25 @@
               "photo": "images/articles/chaine-doree-avec-pierre-shiva-lingham-mtyghf6qxykw.jpg",
               "prixBoutique": 17.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY4gAfAu6ZD4wodK128a1Z",
               "stripeProductId": "prod_VFMF7IlC03DL41",
+              "stripePriceId": "price_1UErXQLOfCA5mATuQ49ikw92",
+              "stripeLinkId": "plink_1UErXQLOfCA5mATuJkML4DjG",
+              "stripePrix": 18.76,
               "stripeMode": "live",
               "stripeNom": "Chaîne dorée avec pierre shiva lingham",
               "stripeDesc": "Ce shiva lingam, pierre sacrée d'Inde, est un symbole puissant d'union et de renouveau énergétique. En lithothérapie, il est souvent utilisé pour harmoniser le corps, l'esprit et la dimension spirituelle, en équilibrant les énergies yin et yang. Porté en pendentif, il favorise la connexion à soi-même et aide à retrouver un état de sérénité profonde.",
-              "stripePriceId": "price_1UErXQLOfCA5mATuQ49ikw92",
-              "stripePrix": 18.76,
-              "stripeLinkId": "plink_1UErXQLOfCA5mATuJkML4DjG",
-              "stripe": "https://buy.stripe.com/7sY4gAfAu6ZD4wodK128a1Z",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "chaine-argente-shungite-mtygxsoa9ocd",
+              "nom": "Chaine argente shungite",
+              "prix": 23,
+              "description": "Ce pendentif en shungite est une pièce unique alliant beauté et propriétés énergétiques exceptionnelles. La shungite, pierre rare aux reflets métalliques, est réputée pour ses vertus purificatrices et protectrices, aidant à absorber les ondes négatives et à équilibrer l’énergie du corps. Parfaite pour une utilisation quotidienne, elle apporte calme et bien-être, tout en renforçant la connexion à ses émotions.",
+              "photo": "images/articles/chaine-argente-shungite-mtygxsoalw2e.jpg",
+              "prixBoutique": 22,
+              "stock": 1
             }
           ]
         },

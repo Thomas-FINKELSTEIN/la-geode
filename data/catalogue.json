@@ -5172,7 +5172,17 @@
               "description": "Ce pendentif en fleur d'améthyste est une pièce unique alliant beauté et énergie apaisante. L'améthyste, pierre de la sérénité, est traditionnellement utilisée pour favoriser la calme intérieur, renforcer la concentration et équilibrer les émotions. Parfait pour accompagner votre quotidien, il peut être porté comme un talisman pour un esprit plus clair et une connexion harmonieuse à vos intentions.",
               "photo": "images/articles/pendentif-fleur-d-amethyste-mty2pvmjgx2y.jpg",
               "prixBoutique": 237,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFG2ByJR7NPqFf",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif fleur d'améthyste",
+              "stripeDesc": "Ce pendentif en fleur d'améthyste est une pièce unique alliant beauté et énergie apaisante. L'améthyste, pierre de la sérénité, est traditionnellement utilisée pour favoriser la calme intérieur, renforcer la concentration et équilibrer les émotions. Parfait pour accompagner votre quotidien, il peut être porté comme un talisman pour un esprit plus clair et une connexion harmonieuse à vos intentions.",
+              "stripePriceId": "price_1UElWWLOfCA5mATuvMGLkVe4",
+              "stripePrix": 245.22,
+              "stripeLinkId": "plink_1UElWWLOfCA5mATuFj8o4GQG",
+              "stripe": "https://buy.stripe.com/6oUcN6bke4Rv4wo5dv28a1y",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

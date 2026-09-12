@@ -5059,14 +5059,14 @@
               "photo": "images/articles/pendentif-7-chakras-6-cm-mty1l9tz2ne1.jpg",
               "prixBoutique": 129.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI14o0FAfw9e6Y49r28a1r",
               "stripeProductId": "prod_VFFX0QFzpfu0om",
+              "stripePriceId": "price_1UEl1xLOfCA5mATuEoreeKTD",
+              "stripeLinkId": "plink_1UEl1yLOfCA5mATuCeselbZG",
+              "stripePrix": 134.53,
               "stripeMode": "live",
               "stripeNom": "Pendentif 7 chakras 6 cm",
               "stripeDesc": "Ce pendentif aux sept pierres colorées représente les sept chakras principaux du corps énergétique. Chaque pierre correspond à un chakra spécifique, favorisant l'équilibre émotionnel et physique. Parfait pour méditer ou porter au quotidien, il aide à harmoniser les énergies et à renforcer le bien-être intérieur.",
-              "stripePriceId": "price_1UEl1xLOfCA5mATuEoreeKTD",
-              "stripePrix": 134.53,
-              "stripeLinkId": "plink_1UEl1yLOfCA5mATuCeselbZG",
-              "stripe": "https://buy.stripe.com/3cI14o0FAfw9e6Y49r28a1r",
               "stripeStock": 1,
               "epuise": false
             }
@@ -9465,6 +9465,22 @@
               "stripeDesc": "Le larimar, aussi appelé pierre de l’Atlantide, est une pierre rare aux reflets bleutés et turquoise qui évoque la sérénité des océans. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la communication et renforcer la connexion avec son intuition. Ce bracelet en larimar roulée est idéal pour porter au quotidien, que ce soit pour se ressourcer ou simplement pour profiter de son éclat unique.",
               "stripeStock": 1,
               "epuise": false
+            }
+          ]
+        },
+        {
+          "id": "bague-mty1nhjcy11r",
+          "nom": "Bague",
+          "slogan": "Bague en argent avec pierre intégré",
+          "articles": [
+            {
+              "id": "bague-larimar-extra-en-argent-mty1phfmhfyn",
+              "nom": "Bague Larimar extra en argent",
+              "prix": 289.67,
+              "description": "La bague Larimar extra en argent met en valeur cette pierre rare aux reflets bleutés et turquoise, symbole de sérénité et de connexion avec l'élément eau. En lithothérapie, le Larimar est souvent utilisé pour apaiser les émotions, favoriser la communication et renforcer la confiance en soi. Idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une paix intérieure profonde.",
+              "photo": "images/articles/bague-larimar-extra-en-argent-mty1phfng10s.jpg",
+              "prixBoutique": 280,
+              "stock": 1
             }
           ]
         }

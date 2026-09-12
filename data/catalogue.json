@@ -5590,7 +5590,17 @@
               "description": "Ce collier macramé met en valeur un beau lapis-lazuli, pierre de sagesse et de protection selon la lithothérapie. Associée à la confiance en soi et à la communication apaisée, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à renforcer leur intuition. Parfait pour un style bohème et naturel, ce collier allie artisanat et énergie positive au quotidien.",
               "photo": "images/articles/collier-macrame-lapis-lazuli-mtyfbid9pkl2.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLjUFznXV716c",
+              "stripeMode": "live",
+              "stripeNom": "Collier macramé lapis lazuli",
+              "stripeDesc": "Ce collier macramé met en valeur un beau lapis-lazuli, pierre de sagesse et de protection selon la lithothérapie. Associée à la confiance en soi et à la communication apaisée, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à renforcer leur intuition. Parfait pour un style bohème et naturel, ce collier allie artisanat et énergie positive au quotidien.",
+              "stripePriceId": "price_1UEr1rLOfCA5mATu7G1ARlFR",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEr1sLOfCA5mATuSNuKiVcV",
+              "stripe": "https://buy.stripe.com/28EbJ25ZUbfT6Ew7lD28a1U",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

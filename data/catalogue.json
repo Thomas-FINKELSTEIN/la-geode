@@ -5363,16 +5363,25 @@
               "photo": "images/articles/collier-macrame-cristal-de-roche-mty68vimxdhf.jpg",
               "prixBoutique": 15,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm00kewq2Jn6EweO528a1I",
               "stripeProductId": "prod_VFHdNTuA1SW2PT",
+              "stripePriceId": "price_1UEn45LOfCA5mATuJ9DvfJ4I",
+              "stripeLinkId": "plink_1UEn45LOfCA5mATuuEeigN8H",
+              "stripePrix": 15.77,
               "stripeMode": "live",
               "stripeNom": "Collier macramé cristal de roche",
               "stripeDesc": "Ce pendentif en cristal de roche est suspendu à un élégant collier macramé, alliant douceur artisanale et pureté minérale. Le cristal de roche, pierre de lumière par excellence, est réputé pour amplifier les énergies positives, clarifier l’esprit et favoriser la connexion à son intuition. Parfait pour une touche bohème et apaisante au quotidien, il est idéal pour ceux qui cherchent à équilibrer leurs émotions et à attirer la sérénité.",
-              "stripePriceId": "price_1UEn45LOfCA5mATuJ9DvfJ4I",
-              "stripePrix": 15.77,
-              "stripeLinkId": "plink_1UEn45LOfCA5mATuuEeigN8H",
-              "stripe": "https://buy.stripe.com/dRm00kewq2Jn6EweO528a1I",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "collier-macrame-hematite-mtyefpsu5xvm",
+              "nom": "Collier macramé hématite",
+              "prix": 15.77,
+              "description": "Ce collier macramé met en valeur une pierre d'hématite, connue pour ses propriétés apaisantes et son influence sur l'équilibre émotionnel. En lithothérapie, l'hématite est souvent utilisée pour renforcer la concentration et ancrer l'énergie, aidant à calmer le mental. Parfait pour un usage quotidien, ce collier allie élégance naturelle et bien-être.",
+              "photo": "images/articles/collier-macrame-hematite-mtyefpsuhexp.jpg",
+              "prixBoutique": 15,
+              "stock": 1
             }
           ]
         },

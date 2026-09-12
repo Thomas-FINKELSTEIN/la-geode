@@ -5211,16 +5211,25 @@
               "photo": "images/articles/pend-fleur-d-amethyste-7-cm-mty2ubgr8cna.jpg",
               "prixBoutique": 237,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/8x28wQfAu97Lgf621j28a1A",
               "stripeProductId": "prod_VFG6wNKENALSWB",
+              "stripePriceId": "price_1UElZtLOfCA5mATunupsOd0E",
+              "stripeLinkId": "plink_1UElZtLOfCA5mATuYfIEZ6M9",
+              "stripePrix": 245.22,
               "stripeMode": "live",
               "stripeNom": "Pend fleur d'améthyste 7 cm",
               "stripeDesc": "Ce pendentif en forme de fleur d'améthyste est une pièce unique et élégante, parfaite pour sublimer vos tenues tout en bénéficiant de ses vertus apaisantes. L'améthyste est souvent associée à la sérénité, à la clarté mentale et à la protection contre les énergies négatives, aidant ainsi à équilibrer les émotions et à favoriser un esprit calme. Idéal pour une utilisation quotidienne, ce bijou en pierre naturelle apporte une touche de douceur et de spiritualité à votre quotidien.",
-              "stripePriceId": "price_1UElZtLOfCA5mATunupsOd0E",
-              "stripePrix": 245.22,
-              "stripeLinkId": "plink_1UElZtLOfCA5mATuYfIEZ6M9",
-              "stripe": "https://buy.stripe.com/8x28wQfAu97Lgf621j28a1A",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-labradorite-extra-gravee-mty2xhv6clnt",
+              "nom": "Pendentif labradorite extra gravée",
+              "prix": 98.45,
+              "description": "Ce pendentif en labradorite extra gravée est une pièce unique alliant beauté et énergie. La labradorite, pierre de transformation et de protection, est réputée pour renforcer la confiance en soi et ouvrir les chakras à une connexion spirituelle plus profonde. Parfait pour porter au quotidien, il attire également la lumière divine et aide à clarifier les pensées pour une meilleure sérénité.",
+              "photo": "images/articles/pendentif-labradorite-extra-gravee-mty2xhv6kkdq.jpg",
+              "prixBoutique": 95,
+              "stock": 1
             }
           ]
         },

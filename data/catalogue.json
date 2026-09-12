@@ -5628,7 +5628,17 @@
               "description": "Ce pendentif en macramé met en valeur une pierre émeraude aux reflets verts profonds et aux éclats lumineux. Associée traditionnellement à l'équilibre émotionnel et à la sérénité, cette pierre est souvent utilisée en lithothérapie pour favoriser la clarté mentale et renforcer la confiance en soi. Un accessoire élégant et porteur d'énergie apaisante, idéal pour le quotidien ou en méditation.",
               "photo": "images/articles/collier-en-macrame-avec-pierre-emeraude-mtyfdvdhr1ie.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLljmci6vcPex",
+              "stripeMode": "live",
+              "stripeNom": "Collier en macramé avec pierre émeraude",
+              "stripeDesc": "Ce pendentif en macramé met en valeur une pierre émeraude aux reflets verts profonds et aux éclats lumineux. Associée traditionnellement à l'équilibre émotionnel et à la sérénité, cette pierre est souvent utilisée en lithothérapie pour favoriser la clarté mentale et renforcer la confiance en soi. Un accessoire élégant et porteur d'énergie apaisante, idéal pour le quotidien ou en méditation.",
+              "stripePriceId": "price_1UEr3dLOfCA5mATuEnftLCS8",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEr3dLOfCA5mATuHz52zZDr",
+              "stripe": "https://buy.stripe.com/aFafZifAues5gf635n28a1W",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

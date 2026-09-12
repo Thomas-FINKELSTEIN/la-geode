@@ -5286,7 +5286,17 @@
               "description": "Ce pendentif en labradorite AAA capture la magie des reflets bleutés et dorés, typiques de cette pierre aux éclats changeants. En lithothérapie, la labradorite est souvent associée à une protection énergétique et à l’ouverture des perceptions intuitives, aidant à renforcer la confiance en soi et à apaiser les émotions. Parfait pour une utilisation quotidienne, ce bijou en pierre naturelle s’intègre aussi bien dans une tenue élégante que dans une pratique spirituelle ou méditative.",
               "photo": "images/articles/pendentif-labradorite-aaa-mty3ezznbgfe.jpg",
               "prixBoutique": 185,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFGM55HpU6w3In",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif labradorite AAA",
+              "stripeDesc": "Ce pendentif en labradorite AAA capture la magie des reflets bleutés et dorés, typiques de cette pierre aux éclats changeants. En lithothérapie, la labradorite est souvent associée à une protection énergétique et à l’ouverture des perceptions intuitives, aidant à renforcer la confiance en soi et à apaiser les émotions. Parfait pour une utilisation quotidienne, ce bijou en pierre naturelle s’intègre aussi bien dans une tenue élégante que dans une pratique spirituelle ou méditative.",
+              "stripePriceId": "price_1UElpQLOfCA5mATufFWpAh3W",
+              "stripePrix": 191.48,
+              "stripeLinkId": "plink_1UElpQLOfCA5mATuqdxm0I8v",
+              "stripe": "https://buy.stripe.com/8x214o2NI3Nr4woaxP28a1E",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

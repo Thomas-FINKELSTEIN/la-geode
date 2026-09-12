@@ -5533,7 +5533,17 @@
               "description": "Ce pendentif macramé met en valeur une pierre rubis sur zoizite, une combinaison puissante et rare en lithothérapie. Associée à l'énergie vitale et à la passion, cette pierre est souvent utilisée pour renforcer la confiance en soi et stimuler les émotions positives. Parfait pour une touche bohème et spirituelle, il apporte une harmonie entre le corps et l'esprit au quotidien.",
               "photo": "images/articles/collier-macrame-avec-pierre-rubis-sur-zo-mtyeym1e4no7.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLZgO3Y5Q4JSA",
+              "stripeMode": "live",
+              "stripeNom": "Collier macramé avec pierre rubis sur zoizite",
+              "stripeDesc": "Ce pendentif macramé met en valeur une pierre rubis sur zoizite, une combinaison puissante et rare en lithothérapie. Associée à l'énergie vitale et à la passion, cette pierre est souvent utilisée pour renforcer la confiance en soi et stimuler les émotions positives. Parfait pour une touche bohème et spirituelle, il apporte une harmonie entre le corps et l'esprit au quotidien.",
+              "stripePriceId": "price_1UEqsCLOfCA5mATuWx7Kgsky",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEqsCLOfCA5mATuywW9bwBF",
+              "stripe": "https://buy.stripe.com/9B66oIfAugAd8ME49r28a1R",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

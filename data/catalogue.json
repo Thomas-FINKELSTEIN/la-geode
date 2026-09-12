@@ -5268,16 +5268,25 @@
               "photo": "images/articles/pendentif-labradorite-extra-gravee-mty38e06ywim.jpg",
               "prixBoutique": 95,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm9AU73Y1Fj0g8dK128a1D",
               "stripeProductId": "prod_VFGHabR2ckYfu2",
+              "stripePriceId": "price_1UElkSLOfCA5mATuEMr7HXHk",
+              "stripeLinkId": "plink_1UElkTLOfCA5mATuKcYos67f",
+              "stripePrix": 98.45,
               "stripeMode": "live",
               "stripeNom": "Pendentif labradorite extra gravée",
               "stripeDesc": "Ce pendentif en labradorite extra gravée capte la lumière pour révéler des reflets magiques aux teintes bleutées et dorées. La labradorite est souvent appelée la pierre de magie et de protection, idéale pour renforcer la confiance en soi et attirer les énergies positives. Portée au quotidien, elle est réputée pour apaiser les émotions et favoriser une connexion spirituelle harmonieuse.",
-              "stripePriceId": "price_1UElkSLOfCA5mATuEMr7HXHk",
-              "stripePrix": 98.45,
-              "stripeLinkId": "plink_1UElkTLOfCA5mATuKcYos67f",
-              "stripe": "https://buy.stripe.com/dRm9AU73Y1Fj0g8dK128a1D",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-labradorite-aaa-mty3ezzn7tti",
+              "nom": "Pendentif labradorite AAA",
+              "prix": 191.48,
+              "description": "Ce pendentif en labradorite AAA capture la magie des reflets bleutés et dorés, typiques de cette pierre aux éclats changeants. En lithothérapie, la labradorite est souvent associée à une protection énergétique et à l’ouverture des perceptions intuitives, aidant à renforcer la confiance en soi et à apaiser les émotions. Parfait pour une utilisation quotidienne, ce bijou en pierre naturelle s’intègre aussi bien dans une tenue élégante que dans une pratique spirituelle ou méditative.",
+              "photo": "images/articles/pendentif-labradorite-aaa-mty3ezznbgfe.jpg",
+              "prixBoutique": 185,
+              "stock": 1
             }
           ]
         },

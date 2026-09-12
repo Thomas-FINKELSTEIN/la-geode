@@ -5192,16 +5192,25 @@
               "photo": "images/articles/pend-fleur-d-amethyste-8-cm-mty2ssh0m16q.jpg",
               "prixBoutique": 237,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU28s73Y2Jnd2UeO528a1z",
               "stripeProductId": "prod_VFG4BY3vvIWdag",
+              "stripePriceId": "price_1UElYlLOfCA5mATuCQxqmKUw",
+              "stripeLinkId": "plink_1UElYlLOfCA5mATupV6Mi88O",
+              "stripePrix": 245.22,
               "stripeMode": "live",
               "stripeNom": "Pend fleur d'améthyste 8 cm",
               "stripeDesc": "Ce pendentif en fleur d'améthyste est une pièce unique alliant beauté et énergie apaisante. L'améthyste, pierre de spiritualité et de calme, est souvent utilisée pour favoriser la sérénité, améliorer la concentration et équilibrer les émotions. Parfaite pour une touche élégante au quotidien, elle est idéale pour ceux qui cherchent à harmoniser leur énergie tout en sublimant leur style.",
-              "stripePriceId": "price_1UElYlLOfCA5mATuCQxqmKUw",
-              "stripePrix": 245.22,
-              "stripeLinkId": "plink_1UElYlLOfCA5mATupV6Mi88O",
-              "stripe": "https://buy.stripe.com/6oU28s73Y2Jnd2UeO528a1z",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pend-fleur-d-amethyste-7-cm-mty2ubgra7m3",
+              "nom": "Pend fleur d'améthyste 7 cm",
+              "prix": 245.22,
+              "description": "Ce pendentif en forme de fleur d'améthyste est une pièce unique et élégante, parfaite pour sublimer vos tenues tout en bénéficiant de ses vertus apaisantes. L'améthyste est souvent associée à la sérénité, à la clarté mentale et à la protection contre les énergies négatives, aidant ainsi à équilibrer les émotions et à favoriser un esprit calme. Idéal pour une utilisation quotidienne, ce bijou en pierre naturelle apporte une touche de douceur et de spiritualité à votre quotidien.",
+              "photo": "images/articles/pend-fleur-d-amethyste-7-cm-mty2ubgr8cna.jpg",
+              "prixBoutique": 237,
+              "stock": 1
             }
           ]
         },

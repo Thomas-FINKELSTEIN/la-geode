@@ -5800,16 +5800,25 @@
               "photo": "images/articles/chaine-doree-shungite-mtyjj5l3ryyi.jpg",
               "prixBoutique": 22,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi8wQ5ZUabPfb26hz28a25",
               "stripeProductId": "prod_VFNdN4G8RnnMoL",
+              "stripePriceId": "price_1UEsryLOfCA5mATudpzNUtsO",
+              "stripeLinkId": "plink_1UEsryLOfCA5mATuH7DLqDMY",
+              "stripePrix": 23,
               "stripeMode": "live",
               "stripeNom": "Chaîne dorée shungite",
               "stripeDesc": "La shungite est une pierre naturelle aux propriétés purifiantes et protectrices très recherchées. Selon la lithothérapie, elle aide à purifier l’eau des boissons et protège des ondes électromagnétiques, offrant ainsi un ancrage énergétique bénéfique. Parfaite pour ceux qui cherchent à équilibrer leur environnement et à renforcer leur bien-être au quotidien.",
-              "stripePriceId": "price_1UEsryLOfCA5mATudpzNUtsO",
-              "stripePrix": 23,
-              "stripeLinkId": "plink_1UEsryLOfCA5mATuH7DLqDMY",
-              "stripe": "https://buy.stripe.com/cNi8wQ5ZUabPfb26hz28a25",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "collier-macrame-lapis-lazuli-mtyjsgixrqai",
+              "nom": "Collier macramé lapis lazuli",
+              "prix": 15.77,
+              "description": "Ce collier macramé met en valeur une pierre de lapis lazuli, connue pour ses propriétés apaisantes et protectrices. Traditionnellement utilisée en lithothérapie, cette pierre favorise la clarté mentale, l'équilibre émotionnel et aide à renforcer la confiance en soi. Son bleu profond apporte une énergie calme et harmonieuse, idéale pour méditer ou porter au quotidien.",
+              "photo": "images/articles/collier-macrame-lapis-lazuli-mtyjsgixqo6c.jpg",
+              "prixBoutique": 15,
+              "stock": 1
             }
           ]
         },

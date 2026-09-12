@@ -5324,7 +5324,17 @@
               "description": "Ce pendentif en labradorite extra gravée est une pièce unique alliant beauté et énergie. La labradorite, pierre de transformation et de protection, est réputée pour renforcer la confiance en soi et stimuler l'intuition. Ses reflets bleutés et dorés en font un accessoire élégant, idéal pour porter au quotidien ou lors de méditations pour harmoniser les émotions.",
               "photo": "images/articles/pendentif-labradorite-extra-gravee-mty3npzvr4uc.jpg",
               "prixBoutique": 95,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFGS3FDGtCq9QH",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif labradorite extra gravée",
+              "stripeDesc": "Ce pendentif en labradorite extra gravée est une pièce unique alliant beauté et énergie. La labradorite, pierre de transformation et de protection, est réputée pour renforcer la confiance en soi et stimuler l'intuition. Ses reflets bleutés et dorés en font un accessoire élégant, idéal pour porter au quotidien ou lors de méditations pour harmoniser les émotions.",
+              "stripePriceId": "price_1UElvyLOfCA5mATu93VLQR2k",
+              "stripePrix": 98.45,
+              "stripeLinkId": "plink_1UElvyLOfCA5mATuIV252xnb",
+              "stripe": "https://buy.stripe.com/5kQaEYdsm5VzbYQ35n28a1G",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

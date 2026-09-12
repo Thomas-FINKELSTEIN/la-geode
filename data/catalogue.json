@@ -5021,14 +5021,14 @@
               "photo": "images/articles/pendentif-larimar-extra-6-cm-mty1bla75g14.jpg",
               "prixBoutique": 460,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ6oIdsm97Lfb29tL28a1o",
               "stripeProductId": "prod_VFFPMx4vLIOxVf",
+              "stripePriceId": "price_1UEkuhLOfCA5mATuoMZqon5p",
+              "stripeLinkId": "plink_1UEkuhLOfCA5mATuFKr6fQ1v",
+              "stripePrix": 475.72,
               "stripeMode": "live",
               "stripeNom": "Pendentif Larimar extra 6 cm",
               "stripeDesc": "Ce pendentif en Larimar extra est une pièce unique aux reflets bleutés et turquoise, captivants comme les profondeurs de l'océan. La Larimar est souvent associée à la sérénité, à la communication apaisée et à l'expression des émotions profondes. Porté en bijou, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à se reconnecter à une paix intérieure.",
-              "stripePriceId": "price_1UEkuhLOfCA5mATuoMZqon5p",
-              "stripePrix": 475.72,
-              "stripeLinkId": "plink_1UEkuhLOfCA5mATuFKr6fQ1v",
-              "stripe": "https://buy.stripe.com/5kQ6oIdsm97Lfb29tL28a1o",
               "stripeStock": 1,
               "epuise": false
             }
@@ -10237,6 +10237,15 @@
               "stripe": "https://buy.stripe.com/28EfZibkedo13sk0Xf2892v",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendule-cristal-de-roche-7-chakras-mty1dxsn1tdm",
+              "nom": "Pendule cristal de roche 7 chakras",
+              "prix": 232.82,
+              "description": "Ce pendule en cristal de roche est un outil puissant pour harmoniser les énergies des 7 chakras. Traditionnellement utilisé en lithothérapie, il aide à équilibrer le corps et l’esprit, favorisant ainsi le bien-être général et la sérénité. Idéal pour les méditations ou les rituels de guérison, il apporte clarté et énergie positive au quotidien.",
+              "photo": "images/articles/pendule-cristal-de-roche-7-chakras-mty1dxsneyvj.jpg",
+              "prixBoutique": 225,
+              "stock": 1
             }
           ]
         },

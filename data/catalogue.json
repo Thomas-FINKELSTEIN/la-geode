@@ -5552,7 +5552,17 @@
               "description": "Ce pendentif en macramé met en valeur une belle pierre d'unakite, une pierre naturelle aux reflets verts et bruns qui symbolise l'équilibre et l'harmonie. En lithothérapie, l'unakite est souvent utilisée pour apaiser les émotions et favoriser la connexion à la nature. Parfait pour une touche bohème et apaisante au quotidien, ce bijou peut être porté pour bénéficier de ses vertus énergétiques.",
               "photo": "images/articles/collier-en-macrame-avec-pierre-unakite-mtyf0cq7u3ml.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLa9KizqbGAje",
+              "stripeMode": "live",
+              "stripeNom": "Collier en macramé avec pierre unakite",
+              "stripeDesc": "Ce pendentif en macramé met en valeur une belle pierre d'unakite, une pierre naturelle aux reflets verts et bruns qui symbolise l'équilibre et l'harmonie. En lithothérapie, l'unakite est souvent utilisée pour apaiser les émotions et favoriser la connexion à la nature. Parfait pour une touche bohème et apaisante au quotidien, ce bijou peut être porté pour bénéficier de ses vertus énergétiques.",
+              "stripePriceId": "price_1UEqtZLOfCA5mATucupsi2q7",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEqtZLOfCA5mATubfdCktna",
+              "stripe": "https://buy.stripe.com/cNi6oIewq0Bf8MEcFX28a1S",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

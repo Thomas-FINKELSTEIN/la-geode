@@ -5115,7 +5115,17 @@
               "description": "Ce pendentif en Larimar extra est une pièce unique aux reflets bleutés et turquoise, inspirée par les profondeurs des océans. La Larimar est souvent associée à la sérénité, à la communication apaisée et à l’ouverture du cœur, aidant à apaiser les émotions et à favoriser la connexion avec soi-même. Parfait pour porter au quotidien, il diffuse une énergie calme et protectrice, idéale pour ceux qui cherchent à harmoniser leur esprit.",
               "photo": "images/articles/pendentif-larimar-extra-6-cm-mty275s8923g.jpg",
               "prixBoutique": 418,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFFokkcjVMzv6I",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif Larimar extra 6 cm",
+              "stripeDesc": "Ce pendentif en Larimar extra est une pièce unique aux reflets bleutés et turquoise, inspirée par les profondeurs des océans. La Larimar est souvent associée à la sérénité, à la communication apaisée et à l’ouverture du cœur, aidant à apaiser les émotions et à favoriser la connexion avec soi-même. Parfait pour porter au quotidien, il diffuse une énergie calme et protectrice, idéale pour ceux qui cherchent à harmoniser leur esprit.",
+              "stripePriceId": "price_1UElIWLOfCA5mATu8QHCoZss",
+              "stripePrix": 432.3,
+              "stripeLinkId": "plink_1UElIWLOfCA5mATuzsb84OQq",
+              "stripe": "https://buy.stripe.com/9B6fZigEy6ZDbYQ35n28a1v",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

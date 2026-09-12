@@ -5724,16 +5724,25 @@
               "photo": "images/articles/chaine-doree-avec-agate-crazy-lace-mtyh0wc1i6c5.jpg",
               "prixBoutique": 17.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUeVe1JE0Bf0g8dK128a21",
               "stripeProductId": "prod_VFMVveXhJ6bLbc",
+              "stripePriceId": "price_1UErm6LOfCA5mATuFMFhx54O",
+              "stripeLinkId": "plink_1UErm6LOfCA5mATuCNwpCh3B",
+              "stripePrix": 18.76,
               "stripeMode": "live",
               "stripeNom": "Chaine dorée avec agate crazy lace",
               "stripeDesc": "Ce pendentif en agate crazy lace est une pièce unique et raffinée, alliant élégance et énergie positive. Cette pierre naturelle aux motifs tourbillonnants est souvent associée à la protection, à la stabilité émotionnelle et à l'équilibre des énergies. Parfaite pour être portée au quotidien, elle apporte une touche de douceur et de sérénité à votre style tout en vous accompagnant dans votre quête de bien-être.",
-              "stripePriceId": "price_1UErm6LOfCA5mATuFMFhx54O",
-              "stripePrix": 18.76,
-              "stripeLinkId": "plink_1UErm6LOfCA5mATuCNwpCh3B",
-              "stripe": "https://buy.stripe.com/6oUeVe1JE0Bf0g8dK128a21",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "collier-macrame-jaspe-rouge-mtyh74iaospf",
+              "nom": "Collier macramé jaspe rouge",
+              "prix": 15.77,
+              "description": "Ce joli pendentif en jaspe rouge est un accessoire naturel et élégant qui apporte une touche d'énergie positive à votre quotidien. En lithothérapie, le jaspe rouge est souvent associé à la vitalité, au courage et à la détermination, aidant à renforcer la confiance en soi et à surmonter les défis. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à stimuler leur énergie et leur motivation.",
+              "photo": "images/articles/collier-macrame-jaspe-rouge-mtyh74iaxor5.jpg",
+              "prixBoutique": 15,
+              "stock": 1
             }
           ]
         },

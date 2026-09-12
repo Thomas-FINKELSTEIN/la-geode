@@ -5742,7 +5742,17 @@
               "description": "Ce joli pendentif en jaspe rouge est un accessoire naturel et élégant qui apporte une touche d'énergie positive à votre quotidien. En lithothérapie, le jaspe rouge est souvent associé à la vitalité, au courage et à la détermination, aidant à renforcer la confiance en soi et à surmonter les défis. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à stimuler leur énergie et leur motivation.",
               "photo": "images/articles/collier-macrame-jaspe-rouge-mtyh74iaxor5.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFMZB41ZHyrGtk",
+              "stripeMode": "live",
+              "stripeNom": "Collier macramé jaspe rouge",
+              "stripeDesc": "Ce joli pendentif en jaspe rouge est un accessoire naturel et élégant qui apporte une touche d'énergie positive à votre quotidien. En lithothérapie, le jaspe rouge est souvent associé à la vitalité, au courage et à la détermination, aidant à renforcer la confiance en soi et à surmonter les défis. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à stimuler leur énergie et leur motivation.",
+              "stripePriceId": "price_1UErqnLOfCA5mATuifHRCX0O",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UErqnLOfCA5mATuso2RXtJT",
+              "stripe": "https://buy.stripe.com/dRmaEYgEy1FjbYQ6hz28a22",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

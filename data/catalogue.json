@@ -5325,16 +5325,25 @@
               "photo": "images/articles/pendentif-labradorite-extra-gravee-mty3npzvr4uc.jpg",
               "prixBoutique": 95,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQaEYdsm5VzbYQ35n28a1G",
               "stripeProductId": "prod_VFGS3FDGtCq9QH",
+              "stripePriceId": "price_1UElvyLOfCA5mATu93VLQR2k",
+              "stripeLinkId": "plink_1UElvyLOfCA5mATuIV252xnb",
+              "stripePrix": 98.45,
               "stripeMode": "live",
               "stripeNom": "Pendentif labradorite extra gravée",
               "stripeDesc": "Ce pendentif en labradorite extra gravée est une pièce unique alliant beauté et énergie. La labradorite, pierre de transformation et de protection, est réputée pour renforcer la confiance en soi et stimuler l'intuition. Ses reflets bleutés et dorés en font un accessoire élégant, idéal pour porter au quotidien ou lors de méditations pour harmoniser les émotions.",
-              "stripePriceId": "price_1UElvyLOfCA5mATu93VLQR2k",
-              "stripePrix": 98.45,
-              "stripeLinkId": "plink_1UElvyLOfCA5mATuIV252xnb",
-              "stripe": "https://buy.stripe.com/5kQaEYdsm5VzbYQ35n28a1G",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "collier-macrame-cristal-de-roche-mty5x2vpbkdv",
+              "nom": "Collier macramé cristal de roche",
+              "prix": 15.77,
+              "description": "Ce pendentif en cristal de roche, suspendu dans un macramé élégant, est une pièce raffinée pour sublimer vos tenues tout en bénéficiant des vertus apaisantes de cette pierre. Le cristal de roche est souvent utilisé en lithothérapie pour amplifier l’énergie positive, clarifier l’esprit et favoriser la concentration. Idéal pour une touche naturelle et lumineuse, il apporte harmonie et sérénité au quotidien.",
+              "photo": "images/articles/collier-macrame-cristal-de-roche-mty5x2vpol5l.jpg",
+              "prixBoutique": 15,
+              "stock": 1
             }
           ]
         },

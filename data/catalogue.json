@@ -5572,16 +5572,25 @@
               "photo": "images/articles/collier-en-macrame-avec-opale-jaune-mtyfabrjpgpv.jpg",
               "prixBoutique": 15,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNicN6gEyfw9d2U21j28a1T",
               "stripeProductId": "prod_VFLibYYviI0lmF",
+              "stripePriceId": "price_1UEr13LOfCA5mATuHnpb9VLP",
+              "stripeLinkId": "plink_1UEr13LOfCA5mATumtPnPofA",
+              "stripePrix": 15.77,
               "stripeMode": "live",
               "stripeNom": "Collier en macramé avec opale jaune",
               "stripeDesc": "Ce pendentif en macramé met en valeur une belle opale jaune, pierre lumineuse et énergétique. En lithothérapie, l'opale jaune est souvent associée à la joie, à la créativité et à une énergie revitalisante, aidant à éclaircir les pensées et à renforcer la confiance en soi. Parfait pour porter au quotidien, ce bijou apporte une touche naturelle et apaisante, tout en stimulant l'équilibre émotionnel.",
-              "stripePriceId": "price_1UEr13LOfCA5mATuHnpb9VLP",
-              "stripePrix": 15.77,
-              "stripeLinkId": "plink_1UEr13LOfCA5mATumtPnPofA",
-              "stripe": "https://buy.stripe.com/cNicN6gEyfw9d2U21j28a1T",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "collier-macrame-lapis-lazuli-mtyfbid99jva",
+              "nom": "Collier macramé lapis lazuli",
+              "prix": 15.77,
+              "description": "Ce collier macramé met en valeur un beau lapis-lazuli, pierre de sagesse et de protection selon la lithothérapie. Associée à la confiance en soi et à la communication apaisée, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à renforcer leur intuition. Parfait pour un style bohème et naturel, ce collier allie artisanat et énergie positive au quotidien.",
+              "photo": "images/articles/collier-macrame-lapis-lazuli-mtyfbid9pkl2.jpg",
+              "prixBoutique": 15,
+              "stock": 1
             }
           ]
         },

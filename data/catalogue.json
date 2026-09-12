@@ -5419,7 +5419,17 @@
               "description": "Ce pendentif en macramé met en valeur une pierre de soleil aux reflets doux et apaisants. En lithothérapie, cette pierre est souvent associée à la vitalité, à la joie et à la reconnexion avec la lumière naturelle, aidant à éclaircir les émotions et à apporter une énergie positive au quotidien. Parfait pour une touche bohème et bienveillante dans votre quotidien.",
               "photo": "images/articles/collier-en-macrame-avec-pierre-de-soleil-mtyeiio7rdpx.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFLMt2hdPUvSLo",
+              "stripeMode": "live",
+              "stripeNom": "Collier en macramé avec pierre de soleil",
+              "stripeDesc": "Ce pendentif en macramé met en valeur une pierre de soleil aux reflets doux et apaisants. En lithothérapie, cette pierre est souvent associée à la vitalité, à la joie et à la reconnexion avec la lumière naturelle, aidant à éclaircir les émotions et à apporter une énergie positive au quotidien. Parfait pour une touche bohème et bienveillante dans votre quotidien.",
+              "stripePriceId": "price_1UEqg4LOfCA5mATuqxYj5ELO",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UEqg4LOfCA5mATubfaEfxfJ",
+              "stripe": "https://buy.stripe.com/9B6aEYbkecjX6EwcFX28a1L",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

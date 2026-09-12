@@ -5116,16 +5116,25 @@
               "photo": "images/articles/pendentif-larimar-extra-6-cm-mty275s8923g.jpg",
               "prixBoutique": 418,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6fZigEy6ZDbYQ35n28a1v",
               "stripeProductId": "prod_VFFokkcjVMzv6I",
+              "stripePriceId": "price_1UElIWLOfCA5mATu8QHCoZss",
+              "stripeLinkId": "plink_1UElIWLOfCA5mATuzsb84OQq",
+              "stripePrix": 432.3,
               "stripeMode": "live",
               "stripeNom": "Pendentif Larimar extra 6 cm",
               "stripeDesc": "Ce pendentif en Larimar extra est une pièce unique aux reflets bleutés et turquoise, inspirée par les profondeurs des océans. La Larimar est souvent associée à la sérénité, à la communication apaisée et à l’ouverture du cœur, aidant à apaiser les émotions et à favoriser la connexion avec soi-même. Parfait pour porter au quotidien, il diffuse une énergie calme et protectrice, idéale pour ceux qui cherchent à harmoniser leur esprit.",
-              "stripePriceId": "price_1UElIWLOfCA5mATu8QHCoZss",
-              "stripePrix": 432.3,
-              "stripeLinkId": "plink_1UElIWLOfCA5mATuzsb84OQq",
-              "stripe": "https://buy.stripe.com/9B6fZigEy6ZDbYQ35n28a1v",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-larimar-extra-mty294h5d7x9",
+              "nom": "Pendentif Larimar extra",
+              "prix": 364.09,
+              "description": "Ce pendentif en Larimar extra est une pièce unique aux reflets bleutés et turquoise, inspirée des profondeurs océaniques. La Larimar est souvent associée à la sérénité, à la communication apaisée et à l'expression des émotions profondes, aidant à trouver un équilibre intérieur. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver la paix et à renforcer leur connexion avec leur intuition.",
+              "photo": "images/articles/pendentif-larimar-extra-mty294h5ygya.jpg",
+              "prixBoutique": 352,
+              "stock": 1
             }
           ]
         },

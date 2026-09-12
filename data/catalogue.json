@@ -5439,16 +5439,25 @@
               "photo": "images/articles/collier-en-macrame-avec-pierre-amazonite-mtyemwehzk54.jpg",
               "prixBoutique": 15,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa28s9c6cjXaUMaxP28a1M",
               "stripeProductId": "prod_VFLQ5E8zXhZhA1",
+              "stripePriceId": "price_1UEqjNLOfCA5mATuyaR2W8nA",
+              "stripeLinkId": "plink_1UEqjOLOfCA5mATuzl7xKuRQ",
+              "stripePrix": 15.77,
               "stripeMode": "live",
               "stripeNom": "Collier en macramé avec pierre amazonite",
               "stripeDesc": "Ce pendentif en macramé met en valeur une belle pierre amazonite, aux reflets verts apaisants et légèrement bleutés. Selon la lithothérapie, l'amazonite est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les tensions et à favoriser la clarté mentale. Parfait pour porter au quotidien, ce bijou naturel apporte une touche bohème et une énergie harmonieuse.",
-              "stripePriceId": "price_1UEqjNLOfCA5mATuyaR2W8nA",
-              "stripePrix": 15.77,
-              "stripeLinkId": "plink_1UEqjOLOfCA5mATuzl7xKuRQ",
-              "stripe": "https://buy.stripe.com/aFa28s9c6cjXaUMaxP28a1M",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "collier-macrame-avec-fluorite-multicolor-mtyeruc7b8q5",
+              "nom": "Collier macramé avec fluorite multicolore",
+              "prix": 15.77,
+              "description": "Ce collier macramé met en valeur une belle fluorite aux teintes vibrantes, enfermée dans un pendentif artisanal. La fluorite est souvent associée à une énergie apaisante et équilibrante, aidant à clarifier les pensées et à renforcer la concentration. Parfait pour ceux qui cherchent à harmoniser leur environnement énergétique et à cultiver une attitude positive au quotidien.",
+              "photo": "images/articles/collier-macrame-avec-fluorite-multicolor-mtyeruc8lah6.jpg",
+              "prixBoutique": 15,
+              "stock": 1
             }
           ]
         },

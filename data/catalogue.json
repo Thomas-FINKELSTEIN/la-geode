@@ -5799,7 +5799,17 @@
               "description": "La shungite est une pierre naturelle aux propriétés purifiantes et protectrices très recherchées. Selon la lithothérapie, elle aide à purifier l’eau des boissons et protège des ondes électromagnétiques, offrant ainsi un ancrage énergétique bénéfique. Parfaite pour ceux qui cherchent à équilibrer leur environnement et à renforcer leur bien-être au quotidien.",
               "photo": "images/articles/chaine-doree-shungite-mtyjj5l3ryyi.jpg",
               "prixBoutique": 22,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VFNdN4G8RnnMoL",
+              "stripeMode": "live",
+              "stripeNom": "Chaîne dorée shungite",
+              "stripeDesc": "La shungite est une pierre naturelle aux propriétés purifiantes et protectrices très recherchées. Selon la lithothérapie, elle aide à purifier l’eau des boissons et protège des ondes électromagnétiques, offrant ainsi un ancrage énergétique bénéfique. Parfaite pour ceux qui cherchent à équilibrer leur environnement et à renforcer leur bien-être au quotidien.",
+              "stripePriceId": "price_1UEsryLOfCA5mATudpzNUtsO",
+              "stripePrix": 23,
+              "stripeLinkId": "plink_1UEsryLOfCA5mATuH7DLqDMY",
+              "stripe": "https://buy.stripe.com/cNi8wQ5ZUabPfb26hz28a25",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

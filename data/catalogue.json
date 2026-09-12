@@ -5837,7 +5837,17 @@
               "description": "Ce pendentif en forme d'arbre de vie symbolise la croissance, la stabilité et la connexion entre les racines et les cieux. Selon la lithothérapie, il est souvent associé à l'équilibre émotionnel et à la force intérieure, aidant à ancrer les énergies positives. Un accessoire élégant et porteur de sens pour harmoniser le quotidien.",
               "photo": "images/articles/pendentif-arbre-de-vie-mtyk57cpb7pn.jpg",
               "prixBoutique": 17.5,
-              "stock": 13
+              "stock": 13,
+              "stripeProductId": "prod_VFNuRKFAJInjSc",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif arbre de vie",
+              "stripeDesc": "Ce pendentif en forme d'arbre de vie symbolise la croissance, la stabilité et la connexion entre les racines et les cieux. Selon la lithothérapie, il est souvent associé à l'équilibre émotionnel et à la force intérieure, aidant à ancrer les énergies positives. Un accessoire élégant et porteur de sens pour harmoniser le quotidien.",
+              "stripePriceId": "price_1UEt8aLOfCA5mATuH7jWcvAy",
+              "stripePrix": 18.35,
+              "stripeLinkId": "plink_1UEt8aLOfCA5mATushoUl6dQ",
+              "stripe": "https://buy.stripe.com/3cI9AU3RMcjX8ME49r28a27",
+              "stripeStock": 13,
+              "epuise": false
             }
           ]
         },

@@ -5012,6 +5012,15 @@
               "stripeDesc": "Ce bracelet aux sept pierres colorées représente les sept chakras principaux du corps énergétique. Chaque pierre, alignée avec les centres d'énergie traditionnels, est censée favoriser l'équilibre physique, émotionnel et spirituel. Porté au quotidien, il aide à harmoniser les flux énergétiques et à renforcer la connexion entre le corps et l'esprit.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-larimar-extra-6-cm-mty1bla7q1cf",
+              "nom": "Pendentif Larimar extra 6 cm",
+              "prix": 475.72,
+              "description": "Ce pendentif en Larimar extra est une pièce unique aux reflets bleutés et turquoise, captivants comme les profondeurs de l'océan. La Larimar est souvent associée à la sérénité, à la communication apaisée et à l'expression des émotions profondes. Porté en bijou, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à se reconnecter à une paix intérieure.",
+              "photo": "images/articles/pendentif-larimar-extra-6-cm-mty1bla75g14.jpg",
+              "prixBoutique": 460,
+              "stock": 1
             }
           ]
         },
@@ -10258,14 +10267,14 @@
               "photo": "images/articles/baguette-de-soin-cristal-de-roche-16-cm-mty1893r22f1.jpg",
               "prixBoutique": 330,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUbJ2fAu0Bf1kcgWd28a1n",
               "stripeProductId": "prod_VFFMFO6mHse3BI",
+              "stripePriceId": "price_1UEksBLOfCA5mATuLrIR9lEL",
+              "stripeLinkId": "plink_1UEksBLOfCA5mATuQkGKCJDR",
+              "stripePrix": 341.35,
               "stripeMode": "live",
               "stripeNom": "Baguette de soin cristal de roche 16 cm",
               "stripeDesc": "Cette baguette de soin en cristal de roche est un outil puissant pour équilibrer les énergies et favoriser la clarté mentale. Utilisée en lithothérapie, elle aide à purifier l'espace et à renforcer la concentration. Parfaite pour les méditations ou les rituels de guérison, elle amplifie les intentions positives.",
-              "stripePriceId": "price_1UEksBLOfCA5mATuLrIR9lEL",
-              "stripePrix": 341.35,
-              "stripeLinkId": "plink_1UEksBLOfCA5mATuQkGKCJDR",
-              "stripe": "https://buy.stripe.com/6oUbJ2fAu0Bf1kcgWd28a1n",
               "stripeStock": 1,
               "epuise": false
             }

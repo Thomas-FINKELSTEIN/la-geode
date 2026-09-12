@@ -5154,16 +5154,25 @@
               "photo": "images/articles/pendentif-argent-7-chakras-mty2cvgr4o0f.jpg",
               "prixBoutique": 129.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi00k1JEfw96EwbBT28a1x",
               "stripeProductId": "prod_VFFstV8DDQL9r6",
+              "stripePriceId": "price_1UElMjLOfCA5mATubGs8GBqN",
+              "stripeLinkId": "plink_1UElMjLOfCA5mATuhnkxPCS4",
+              "stripePrix": 134.53,
               "stripeMode": "live",
               "stripeNom": "Pendentif argent 7 chakras",
               "stripeDesc": "Ce pendentif en argent représente les sept chakras majeurs du corps énergétique, symbolisés par des pierres naturelles aux couleurs variées. Traditionnellement utilisé en lithothérapie, il est conçu pour favoriser l'équilibre énergétique et le bien-être émotionnel. Porté au quotidien, il aide à harmoniser les flux d'énergie et à renforcer la connexion entre le corps et l'esprit.",
-              "stripePriceId": "price_1UElMjLOfCA5mATubGs8GBqN",
-              "stripePrix": 134.53,
-              "stripeLinkId": "plink_1UElMjLOfCA5mATuhnkxPCS4",
-              "stripe": "https://buy.stripe.com/cNi00k1JEfw96EwbBT28a1x",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-fleur-d-amethyste-mty2pvmjro7b",
+              "nom": "Pendentif fleur d'améthyste",
+              "prix": 245.22,
+              "description": "Ce pendentif en fleur d'améthyste est une pièce unique alliant beauté et énergie apaisante. L'améthyste, pierre de la sérénité, est traditionnellement utilisée pour favoriser la calme intérieur, renforcer la concentration et équilibrer les émotions. Parfait pour accompagner votre quotidien, il peut être porté comme un talisman pour un esprit plus clair et une connexion harmonieuse à vos intentions.",
+              "photo": "images/articles/pendentif-fleur-d-amethyste-mty2pvmjgx2y.jpg",
+              "prixBoutique": 237,
+              "stock": 1
             }
           ]
         },

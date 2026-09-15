@@ -6472,16 +6472,25 @@
               "photo": "images/articles/pendentif-aigue-marine-mu2uav4ogk05.jpg",
               "prixBoutique": 124,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/bJecN6agaabP5As6hz28a2S",
               "stripeProductId": "prod_VGVVzxhSMQ2Ikk",
+              "stripePriceId": "price_1UFyUqLOfCA5mATuhiG2aOBz",
+              "stripeLinkId": "plink_1UFyUqLOfCA5mATumRjpTpck",
+              "stripePrix": 128.43,
               "stripeMode": "live",
               "stripeNom": "Pendentif aigue - marine",
               "stripeDesc": "Cette boule d'aigue-marine capture la douceur des eaux profondes et la sérénité qu'elle inspire. En lithothérapie, cette pierre est souvent associée à la clarté mentale, à la protection et à l'apaisement des émotions. Idéale pour créer un espace harmonieux, elle est aussi utilisée pour renforcer la confiance en soi et favoriser une communication sereine.",
-              "stripePriceId": "price_1UFyUqLOfCA5mATuhiG2aOBz",
-              "stripePrix": 128.43,
-              "stripeLinkId": "plink_1UFyUqLOfCA5mATumRjpTpck",
-              "stripe": "https://buy.stripe.com/bJecN6agaabP5As6hz28a2S",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-aventurine-paillette-mu2udfrjyluu",
+              "nom": "Pendentif aventurine paillette",
+              "prix": 34.37,
+              "description": "Ce pendentif en aventurine paillette est une pièce lumineuse et harmonieuse, idéale pour apporter sérénité et équilibre dans votre quotidien. L'aventurine est souvent associée à la chance, à la douceur et à une énergie apaisante qui aide à calmer les émotions. Parfait pour être porté au quotidien, il est aussi un bel objet de décoration qui diffuse une énergie positive autour de lui.",
+              "photo": "images/articles/pendentif-aventurine-paillette-mu2udfrjxajq.jpg",
+              "prixBoutique": 33,
+              "stock": 1
             }
           ]
         },

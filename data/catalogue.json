@@ -6490,7 +6490,17 @@
               "description": "Ce pendentif en aventurine paillette est une pièce lumineuse et harmonieuse, idéale pour apporter sérénité et équilibre dans votre quotidien. L'aventurine est souvent associée à la chance, à la douceur et à une énergie apaisante qui aide à calmer les émotions. Parfait pour être porté au quotidien, il est aussi un bel objet de décoration qui diffuse une énergie positive autour de lui.",
               "photo": "images/articles/pendentif-aventurine-paillette-mu2udfrjxajq.jpg",
               "prixBoutique": 33,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGVXPpT02dhbFg",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif aventurine paillette",
+              "stripeDesc": "Ce pendentif en aventurine paillette est une pièce lumineuse et harmonieuse, idéale pour apporter sérénité et équilibre dans votre quotidien. L'aventurine est souvent associée à la chance, à la douceur et à une énergie apaisante qui aide à calmer les émotions. Parfait pour être porté au quotidien, il est aussi un bel objet de décoration qui diffuse une énergie positive autour de lui.",
+              "stripePriceId": "price_1UFyWmLOfCA5mATuR8Rd9f5L",
+              "stripePrix": 34.37,
+              "stripeLinkId": "plink_1UFyWmLOfCA5mATu45DdxiDp",
+              "stripe": "https://buy.stripe.com/4gM14ocoi3Nr0g849r28a2T",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -6243,7 +6243,17 @@
               "description": "Ce pendentif en fluorite aux bandes colorées apporte une énergie apaisante et équilibrée, idéale pour clarifier l'esprit et améliorer la concentration. Ses teintes variées symbolisent la diversité et aident à harmoniser les émotions tout en favorisant une communication plus fluide. Parfait pour un port quotidien, il est souvent utilisé en lithothérapie pour stimuler la créativité et faciliter les prises de décision.",
               "photo": "images/articles/pendentif-fluorite-multicolore-mu2osxhka0i3.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGT2WXfAyHJxk2",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif fluorite multicolore",
+              "stripeDesc": "Ce pendentif en fluorite aux bandes colorées apporte une énergie apaisante et équilibrée, idéale pour clarifier l'esprit et améliorer la concentration. Ses teintes variées symbolisent la diversité et aident à harmoniser les émotions tout en favorisant une communication plus fluide. Parfait pour un port quotidien, il est souvent utilisé en lithothérapie pour stimuler la créativité et faciliter les prises de décision.",
+              "stripePriceId": "price_1UFw5xLOfCA5mATuHV69s4gs",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UFw5yLOfCA5mATu9oA6uy91",
+              "stripe": "https://buy.stripe.com/14A28sbkees56Ew8pH28a2G",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -24,6 +24,22 @@
           "nom": "Bracelets",
           "slogan": "",
           "articles": []
+        },
+        {
+          "id": "geodes-pierres-roulees-mu2fbepso0qy",
+          "nom": "Géodes, pierres roulées",
+          "slogan": "",
+          "articles": [
+            {
+              "id": "petite-croix-en-oeil-de-tigre-mu2fcp5su0vr",
+              "nom": "Petite Croix en oeil de tigre",
+              "prix": 2.33,
+              "description": "Cette petite croix en oeil de tigre est un symbole puissant de protection et de connexion à la terre. L'oeil de tigre, pierre de courage et de confiance en soi, est souvent utilisé pour renforcer la détermination et apporter une énergie positive au quotidien. Parfait pour une utilisation en lithothérapie ou comme porte-bonheur discret, ce talisman peut être porté ou placé dans un espace de vie pour équilibrer les énergies.",
+              "photo": "images/articles/petite-croix-en-oeil-de-tigre-mu2fcp5s5jmm.jpg",
+              "prixBoutique": 2,
+              "stock": 2
+            }
+          ]
         }
       ]
     },
@@ -5933,14 +5949,14 @@
               "photo": "images/articles/pendentif-coeur-argente-avec-arbre-de-vi-mu2dxoklbees.jpg",
               "prixBoutique": 15.7,
               "stock": 15,
+              "stripe": "https://buy.stripe.com/9B6dRabkegAdaUMbBT28a2p",
               "stripeProductId": "prod_VGO72KQCCtlrUP",
+              "stripePriceId": "price_1UFrLULOfCA5mATu6yPLJ6o9",
+              "stripeLinkId": "plink_1UFrLVLOfCA5mATuqY2Nr881",
+              "stripePrix": 16.49,
               "stripeMode": "live",
               "stripeNom": "Pendentif coeur argenté avec arbre de vie",
               "stripeDesc": "Ce pendentif en forme de cœur, orné d’un arbre de vie élégant, est un symbole puissant de croissance spirituelle et d’équilibre émotionnel. En lithothérapie, il est souvent associé à l’harmonisation des énergies et à l’ancrage des intentions positives. Parfait pour porter au quotidien, il rappelle que chaque choix peut nourrir une vie riche et équilibrée.",
-              "stripePriceId": "price_1UFrLULOfCA5mATu6yPLJ6o9",
-              "stripePrix": 16.49,
-              "stripeLinkId": "plink_1UFrLVLOfCA5mATuqY2Nr881",
-              "stripe": "https://buy.stripe.com/9B6dRabkegAdaUMbBT28a2p",
               "stripeStock": 15,
               "epuise": false
             }

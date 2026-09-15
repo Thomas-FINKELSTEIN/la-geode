@@ -6319,7 +6319,17 @@
               "description": "Ce pendentif en quartz tourmaline allie élégance et énergie positive. Cette pierre naturelle est réputée pour son pouvoir équilibrant, aidant à apaiser les tensions et à renforcer la vitalité au quotidien. Parfaite pour une utilisation en lithothérapie, elle est souvent associée à la purification des émotions et à l’harmonisation des chakras.",
               "photo": "images/articles/pendentif-quartz-tourmaline-mu2p5tmxy1gy.jpg",
               "prixBoutique": 26,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGTCObtM5Qec0W",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz tourmaline",
+              "stripeDesc": "Ce pendentif en quartz tourmaline allie élégance et énergie positive. Cette pierre naturelle est réputée pour son pouvoir équilibrant, aidant à apaiser les tensions et à renforcer la vitalité au quotidien. Parfaite pour une utilisation en lithothérapie, elle est souvent associée à la purification des émotions et à l’harmonisation des chakras.",
+              "stripePriceId": "price_1UFwFhLOfCA5mATuNwvk6Eq4",
+              "stripePrix": 27.14,
+              "stripeLinkId": "plink_1UFwFiLOfCA5mATuT8e7dhsQ",
+              "stripe": "https://buy.stripe.com/14A3cwgEydo1fb2gWd28a2K",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

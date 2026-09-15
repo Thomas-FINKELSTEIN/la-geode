@@ -6187,16 +6187,25 @@
               "photo": "images/articles/pendentif-amethyste-4-cm-mu2okioh7nud.jpg",
               "prixBoutique": 29,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B628s9c64Rv0g8cFX28a2D",
               "stripeProductId": "prod_VGSvvEUSox5Cc4",
+              "stripePriceId": "price_1UFvzaLOfCA5mATuAX2bYm7u",
+              "stripeLinkId": "plink_1UFvzaLOfCA5mATukcmxh30l",
+              "stripePrix": 30.24,
               "stripeMode": "live",
               "stripeNom": "Pendentif améthyste 4 cm",
               "stripeDesc": "Ce pendentif en améthyste, pierre aux reflets violets apaisants, est un allié précieux pour favoriser la sérénité et l'équilibre émotionnel. Traditionnellement utilisée en lithothérapie pour apaiser le mental et stimuler la clarté d'esprit, elle est idéale pour méditer ou porter au quotidien. Son énergie douce et protectrice en fait un compagnon parfait pour les moments de stress ou de remise en question.",
-              "stripePriceId": "price_1UFvzaLOfCA5mATuAX2bYm7u",
-              "stripePrix": 30.24,
-              "stripeLinkId": "plink_1UFvzaLOfCA5mATukcmxh30l",
-              "stripe": "https://buy.stripe.com/9B628s9c64Rv0g8cFX28a2D",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-purpurite-5-cm-mu2on6mg3ki0",
+              "nom": "Pendentif purpurite 5 cm",
+              "prix": 37.47,
+              "description": "Ce pendentif en purpurite est une pièce unique aux reflets violets et dorés, captivants et mystérieux. La purpurite est souvent associée à une énergie apaisante et protectrice, aidant à équilibrer les émotions et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur esprit et à cultiver une sérénité intérieure.",
+              "photo": "images/articles/pendentif-purpurite-5-cm-mu2on6mhmedt.jpg",
+              "prixBoutique": 36,
+              "stock": 1
             }
           ]
         },

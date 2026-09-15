@@ -11260,16 +11260,25 @@
               "photo": "images/articles/porte-cles-elephant-en-bois-exotique-mu2ch5931xu1.jpg",
               "prixBoutique": 3.5,
               "stock": 6,
+              "stripe": "https://buy.stripe.com/cNi8wQaga2Jn6Ew35n28a2h",
               "stripeProductId": "prod_VGNSs9eFHZ22XI",
+              "stripePriceId": "price_1UFqhtLOfCA5mATuPAfMj89m",
+              "stripeLinkId": "plink_1UFqhuLOfCA5mATuE6qU83x4",
+              "stripePrix": 3.88,
               "stripeMode": "live",
               "stripeNom": "Porte - clés éléphant en bois exotique",
               "stripeDesc": "Porte - clés éléphant",
-              "stripePriceId": "price_1UFqhtLOfCA5mATuPAfMj89m",
-              "stripePrix": 3.88,
-              "stripeLinkId": "plink_1UFqhuLOfCA5mATuE6qU83x4",
-              "stripe": "https://buy.stripe.com/cNi8wQaga2Jn6Ew35n28a2h",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "porte-cles-en-pin-mu2ciydgfhi8",
+              "nom": "Porte - clés en pin",
+              "prix": 8.02,
+              "description": "Porte - clés en pin",
+              "photo": "images/articles/porte-cles-en-pin-mu2ciydh0j8o.jpg",
+              "prixBoutique": 7.5,
+              "stock": 9
             }
           ]
         }

@@ -6643,16 +6643,25 @@
               "photo": "images/articles/pendentif-spinelle-rouge-mu2v88ig9bue.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQbJ28824RvaUM35n28a31",
               "stripeProductId": "prod_VGVvKqgir6aFto",
+              "stripePriceId": "price_1UFytxLOfCA5mATuAcn0Cp9Y",
+              "stripeLinkId": "plink_1UFytyLOfCA5mATuCbmZ0KuJ",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif spinelle rouge",
               "stripeDesc": "Ce pendentif en spinelle rouge est une pierre précieuse aux reflets profonds et lumineux, souvent associée à la vitalité et à la passion. En lithothérapie, elle est réputée pour renforcer l'énergie vitale, stimuler la confiance en soi et apporter une touche de dynamisme au quotidien. Parfait pour sublimer une tenue tout en bénéficiant de ses propriétés harmonisantes.",
-              "stripePriceId": "price_1UFytxLOfCA5mATuAcn0Cp9Y",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UFytyLOfCA5mATuCbmZ0KuJ",
-              "stripe": "https://buy.stripe.com/5kQbJ28824RvaUM35n28a31",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-howlite-mu2vcsb6lt3e",
+              "nom": "Pendentif howlite",
+              "prix": 30.24,
+              "description": "Ce pendentif en howlite est une pierre douce et apaisante, idéale pour ceux qui recherchent un équilibre émotionnel. Connue pour ses vertus calmantes, elle aide à réduire le stress et favorise une sérénité profonde au quotidien. Parfaite à porter ou à placer près de soi, elle accompagne vers une paix intérieure et une communication plus harmonieuse.",
+              "photo": "images/articles/pendentif-howlite-mu2vcsb6hc2i.jpg",
+              "prixBoutique": 29,
+              "stock": 1
             }
           ]
         },

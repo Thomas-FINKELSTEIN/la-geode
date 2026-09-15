@@ -6586,16 +6586,25 @@
               "photo": "images/articles/pendentif-opale-dendrite-mu2uzr94m81l.jpg",
               "prixBoutique": 92,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/8x214obke4Rvd2UeO528a2Y",
               "stripeProductId": "prod_VGVpqvbcV3qg6t",
+              "stripePriceId": "price_1UFyncLOfCA5mATuMUdSbiiI",
+              "stripeLinkId": "plink_1UFyncLOfCA5mATujKREnPza",
+              "stripePrix": 95.35,
               "stripeMode": "live",
               "stripeNom": "Pendentif opale dendrite",
               "stripeDesc": "Ce pendentif en opale dendrite est une pièce unique alliant beauté et énergie apaisante. Les motifs en forme d'arbres cristallisés symbolisent la croissance, la connexion à la nature et l'équilibre émotionnel. En lithothérapie, l'opale dendrite est souvent utilisée pour favoriser la sérénité, renforcer la confiance en soi et attirer la prospérité.",
-              "stripePriceId": "price_1UFyncLOfCA5mATuMUdSbiiI",
-              "stripePrix": 95.35,
-              "stripeLinkId": "plink_1UFyncLOfCA5mATujKREnPza",
-              "stripe": "https://buy.stripe.com/8x214obke4Rvd2UeO528a2Y",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-opale-dendritique-mu2v1ksnfiby",
+              "nom": "Pendentif opale dendritique",
+              "prix": 81.92,
+              "description": "Ce pendentif en opale dendritique est une pièce unique alliant beauté et mystère. L'opale dendritique est souvent associée à une énergie apaisante et à une connexion profonde avec les émotions, aidant à équilibrer les chakras du cœur et du troisième œil. Porté au quotidien, il est idéal pour ceux qui cherchent à renforcer leur intuition et à cultiver une sérénité intérieure.",
+              "photo": "images/articles/pendentif-opale-dendritique-mu2v1ksn9s27.jpg",
+              "prixBoutique": 79,
+              "stock": 1
             }
           ]
         },

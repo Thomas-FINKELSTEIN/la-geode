@@ -6224,7 +6224,17 @@
               "description": "Ce pendentif en eudialyte capture des reflets magiques aux teintes vertes, roses et brunes, créant un jeu de lumière captivant. Pierre énergétique prisée en lithothérapie, elle aide à apaiser les émotions et à retrouver un équilibre intérieur. Parfaite pour accompagner votre quotidien, elle favorise aussi la confiance en soi et une attitude plus sereine.",
               "photo": "images/articles/pendentif-eudialyte-4-cm-mu2opzheqn7f.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGSzZaoOw1Wdy6",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif eudialyte 4 cm",
+              "stripeDesc": "Ce pendentif en eudialyte capture des reflets magiques aux teintes vertes, roses et brunes, créant un jeu de lumière captivant. Pierre énergétique prisée en lithothérapie, elle aide à apaiser les émotions et à retrouver un équilibre intérieur. Parfaite pour accompagner votre quotidien, elle favorise aussi la confiance en soi et une attitude plus sereine.",
+              "stripePriceId": "price_1UFw3fLOfCA5mATunXlsxwKK",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UFw3fLOfCA5mATu7tB5B2Sk",
+              "stripe": "https://buy.stripe.com/7sYaEY8820Bf4wo9tL28a2F",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

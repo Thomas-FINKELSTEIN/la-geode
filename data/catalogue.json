@@ -11202,7 +11202,17 @@
               "description": "Ce porte clé en lapis lazuli est un accessoire à la fois élégant et porteur de symboles puissants. Le lapis lazuli, pierre de sagesse et de protection, est traditionnellement utilisé pour favoriser la communication, la clarté mentale et l'équilibre émotionnel. Son bleu profond inspire la sérénité et peut aider à apaiser les tensions du quotidien, tout en renforçant la confiance en soi.",
               "photo": "images/articles/porte-cle-lapis-lazuli-mu2c96h10qoz.jpg",
               "prixBoutique": 8.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGNMyxYNarMhRh",
+              "stripeMode": "live",
+              "stripeNom": "Porte clé lapis lazuli",
+              "stripeDesc": "Ce porte clé en lapis lazuli est un accessoire à la fois élégant et porteur de symboles puissants. Le lapis lazuli, pierre de sagesse et de protection, est traditionnellement utilisé pour favoriser la communication, la clarté mentale et l'équilibre émotionnel. Son bleu profond inspire la sérénité et peut aider à apaiser les tensions du quotidien, tout en renforçant la confiance en soi.",
+              "stripePriceId": "price_1UFqbvLOfCA5mATurxqLitYD",
+              "stripePrix": 9.05,
+              "stripeLinkId": "plink_1UFqbvLOfCA5mATuzhJDq3Mp",
+              "stripe": "https://buy.stripe.com/00w4gA2NIcjX6Ew21j28a2d",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

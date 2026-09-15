@@ -6035,16 +6035,25 @@
               "photo": "images/articles/pendentif-jaspe-rouge-mu2gzs20bpv4.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU3cwbke0Bf9QIeO528a2u",
               "stripeProductId": "prod_VGPV4AvFUjEN6w",
+              "stripePriceId": "price_1UFsgpLOfCA5mATuKtTw9VG9",
+              "stripeLinkId": "plink_1UFsgpLOfCA5mATuFG2DJkCb",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif jaspe rouge",
               "stripeDesc": "Ce pendentif en jaspe rouge est une pierre naturelle aux reflets chauds et apaisants. Traditionnellement utilisée en lithothérapie pour renforcer la vitalité et stimuler l’énergie vitale, elle est souvent associée à la confiance en soi et à la stabilité émotionnelle. Parfait pour accompagner votre quotidien, il apporte une touche d’équilibre et de douceur.",
-              "stripePriceId": "price_1UFsgpLOfCA5mATuKtTw9VG9",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UFsgpLOfCA5mATuFG2DJkCb",
-              "stripe": "https://buy.stripe.com/6oU3cwbke0Bf9QIeO528a2u",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-goutte-jaspe-rouge-mu2h1ph4s2la",
+              "nom": "Pendentif goutte jaspe rouge",
+              "prix": 18.87,
+              "description": "Ce pendentif en jaspe rouge, sous forme de goutte élégante, est une pierre naturelle aux énergies apaisantes et dynamisantes. Traditionnellement utilisée en lithothérapie, elle est réputée pour renforcer la vitalité et aider à équilibrer les émotions, tout en apportant une touche de chaleur et de protection au quotidien. Parfait pour être porté en bijou ou utilisé en méditation pour ancrer ses intentions.",
+              "photo": "images/articles/pendentif-goutte-jaspe-rouge-mu2h1ph4klip.jpg",
+              "prixBoutique": 18,
+              "stock": 1
             }
           ]
         },

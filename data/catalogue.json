@@ -6320,16 +6320,25 @@
               "photo": "images/articles/pendentif-quartz-tourmaline-mu2p5tmxy1gy.jpg",
               "prixBoutique": 26,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/14A3cwgEydo1fb2gWd28a2K",
               "stripeProductId": "prod_VGTCObtM5Qec0W",
+              "stripePriceId": "price_1UFwFhLOfCA5mATuNwvk6Eq4",
+              "stripeLinkId": "plink_1UFwFiLOfCA5mATuT8e7dhsQ",
+              "stripePrix": 27.14,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz tourmaline",
               "stripeDesc": "Ce pendentif en quartz tourmaline allie élégance et énergie positive. Cette pierre naturelle est réputée pour son pouvoir équilibrant, aidant à apaiser les tensions et à renforcer la vitalité au quotidien. Parfaite pour une utilisation en lithothérapie, elle est souvent associée à la purification des émotions et à l’harmonisation des chakras.",
-              "stripePriceId": "price_1UFwFhLOfCA5mATuNwvk6Eq4",
-              "stripePrix": 27.14,
-              "stripeLinkId": "plink_1UFwFiLOfCA5mATuT8e7dhsQ",
-              "stripe": "https://buy.stripe.com/14A3cwgEydo1fb2gWd28a2K",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-emeraude-mu2p75bktb6g",
+              "nom": "Pendentif émeraude",
+              "prix": 26.1,
+              "description": "Ce pendentif en émeraude, pierre précieuse au vert profond et lumineux, est un symbole de renouveau et de croissance. En lithothérapie, elle est souvent associée à l'harmonie émotionnelle, à la paix intérieure et à une énergie revitalisante. Portée au quotidien, elle est censée renforcer la confiance en soi et attirer la prospérité.",
+              "photo": "images/articles/pendentif-emeraude-mu2p75bk1peh.jpg",
+              "prixBoutique": 25,
+              "stock": 1
             }
           ]
         },

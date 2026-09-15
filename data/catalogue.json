@@ -6509,7 +6509,17 @@
               "description": "Ce pendentif en forme de coeur associe la pureté et la clarté du cristal de roche à la puissance stabilisatrice de la tourmaline noire. Idéal pour apaiser les émotions et protéger contre les énergies négatives, il est souvent utilisé pour favoriser la concentration et renforcer la confiance en soi. Parfait pour une utilisation quotidienne, il apporte une touche élégante tout en offrant un soutien énergétique subtil.",
               "photo": "images/articles/pendentif-coeur-de-cristal-de-roche-et-t-mu2ug6ixwggk.jpg",
               "prixBoutique": 21,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGVaGMsEPwKMBX",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif coeur de cristal de roche et tourmaline noire",
+              "stripeDesc": "Ce pendentif en forme de coeur associe la pureté et la clarté du cristal de roche à la puissance stabilisatrice de la tourmaline noire. Idéal pour apaiser les émotions et protéger contre les énergies négatives, il est souvent utilisé pour favoriser la concentration et renforcer la confiance en soi. Parfait pour une utilisation quotidienne, il apporte une touche élégante tout en offrant un soutien énergétique subtil.",
+              "stripePriceId": "price_1UFyYrLOfCA5mATugFreUM79",
+              "stripePrix": 21.97,
+              "stripeLinkId": "plink_1UFyYrLOfCA5mATu1fmiLSpk",
+              "stripe": "https://buy.stripe.com/fZu3cw0FAbfT7IAbBT28a2U",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

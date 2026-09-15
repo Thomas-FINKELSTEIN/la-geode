@@ -6206,16 +6206,25 @@
               "photo": "images/articles/pendentif-purpurite-5-cm-mu2on6mhmedt.jpg",
               "prixBoutique": 36,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00wfZi9c6do17IAcFX28a2E",
               "stripeProductId": "prod_VGSxNL54rwaM5G",
+              "stripePriceId": "price_1UFw1bLOfCA5mATuxwMmPKmv",
+              "stripeLinkId": "plink_1UFw1cLOfCA5mATut6jFaKG1",
+              "stripePrix": 37.47,
               "stripeMode": "live",
               "stripeNom": "Pendentif purpurite 5 cm",
               "stripeDesc": "Ce pendentif en purpurite est une pièce unique aux reflets violets et dorés, captivants et mystérieux. La purpurite est souvent associée à une énergie apaisante et protectrice, aidant à équilibrer les émotions et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur esprit et à cultiver une sérénité intérieure.",
-              "stripePriceId": "price_1UFw1bLOfCA5mATuxwMmPKmv",
-              "stripePrix": 37.47,
-              "stripeLinkId": "plink_1UFw1cLOfCA5mATut6jFaKG1",
-              "stripe": "https://buy.stripe.com/00wfZi9c6do17IAcFX28a2E",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-eudialyte-4-cm-mu2opzhdidvv",
+              "nom": "Pendentif eudialyte 4 cm",
+              "prix": 28.17,
+              "description": "Ce pendentif en eudialyte capture des reflets magiques aux teintes vertes, roses et brunes, créant un jeu de lumière captivant. Pierre énergétique prisée en lithothérapie, elle aide à apaiser les émotions et à retrouver un équilibre intérieur. Parfaite pour accompagner votre quotidien, elle favorise aussi la confiance en soi et une attitude plus sereine.",
+              "photo": "images/articles/pendentif-eudialyte-4-cm-mu2opzheqn7f.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         },

@@ -6301,16 +6301,25 @@
               "photo": "images/articles/pendentif-en-cristal-de-roche-tourmaline-mu2p4jm1bp3s.jpg",
               "prixBoutique": 21,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm3cw3RM5Vzgf6dK128a2J",
               "stripeProductId": "prod_VGTAEwmDuX70Yn",
+              "stripePriceId": "price_1UFwEdLOfCA5mATuuXP0Nvuj",
+              "stripeLinkId": "plink_1UFwEdLOfCA5mATuQkYkq4NG",
+              "stripePrix": 21.97,
               "stripeMode": "live",
               "stripeNom": "Pendentif en cristal de roche tourmaline",
               "stripeDesc": "Ce pendentif en cristal de roche tourmaline allie pureté et énergie apaisante. Le cristal de roche amplifie les intentions et favorise la clarté mentale, tandis que la tourmaline équilibre les émotions et protège contre les énergies négatives. Parfait pour une utilisation quotidienne, il peut être porté comme talisman pour renforcer la concentration et apporter sérénité au quotidien.",
-              "stripePriceId": "price_1UFwEdLOfCA5mATuuXP0Nvuj",
-              "stripePrix": 21.97,
-              "stripeLinkId": "plink_1UFwEdLOfCA5mATuQkYkq4NG",
-              "stripe": "https://buy.stripe.com/dRm3cw3RM5Vzgf6dK128a2J",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-quartz-tourmaline-mu2p5tmx8loi",
+              "nom": "Pendentif quartz tourmaline",
+              "prix": 27.14,
+              "description": "Ce pendentif en quartz tourmaline allie élégance et énergie positive. Cette pierre naturelle est réputée pour son pouvoir équilibrant, aidant à apaiser les tensions et à renforcer la vitalité au quotidien. Parfaite pour une utilisation en lithothérapie, elle est souvent associée à la purification des émotions et à l’harmonisation des chakras.",
+              "photo": "images/articles/pendentif-quartz-tourmaline-mu2p5tmxy1gy.jpg",
+              "prixBoutique": 26,
+              "stock": 1
             }
           ]
         },

@@ -6604,7 +6604,17 @@
               "description": "Ce pendentif en opale dendritique est une pièce unique alliant beauté et mystère. L'opale dendritique est souvent associée à une énergie apaisante et à une connexion profonde avec les émotions, aidant à équilibrer les chakras du cœur et du troisième œil. Porté au quotidien, il est idéal pour ceux qui cherchent à renforcer leur intuition et à cultiver une sérénité intérieure.",
               "photo": "images/articles/pendentif-opale-dendritique-mu2v1ksn9s27.jpg",
               "prixBoutique": 79,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGVqJodyz7cSrY",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif opale dendritique",
+              "stripeDesc": "Ce pendentif en opale dendritique est une pièce unique alliant beauté et mystère. L'opale dendritique est souvent associée à une énergie apaisante et à une connexion profonde avec les émotions, aidant à équilibrer les chakras du cœur et du troisième œil. Porté au quotidien, il est idéal pour ceux qui cherchent à renforcer leur intuition et à cultiver une sérénité intérieure.",
+              "stripePriceId": "price_1UFyovLOfCA5mATuFjCsABfs",
+              "stripePrix": 81.92,
+              "stripeLinkId": "plink_1UFyowLOfCA5mATuRnrMIE8y",
+              "stripe": "https://buy.stripe.com/9B6fZi1JEes50g87lD28a2Z",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

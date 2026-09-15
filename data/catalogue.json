@@ -6016,16 +6016,25 @@
               "photo": "images/articles/pendentif-jaspe-mariam-mu2g5b039s4w.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY9AUbke97Lfb235n28a2t",
               "stripeProductId": "prod_VGP7vhs8GXcuYU",
+              "stripePriceId": "price_1UFsJMLOfCA5mATu2ywBj0nd",
+              "stripeLinkId": "plink_1UFsJMLOfCA5mATuzBFTwm5Q",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif jaspe mariam",
               "stripeDesc": "Ce pendentif en jaspe mariam est une pierre aux motifs en spirales captivants, souvent associée à la protection et à l'équilibre énergétique. En lithothérapie, elle est réputée pour renforcer la confiance en soi et favoriser la stabilité émotionnelle. Porté au quotidien, il peut aider à apaiser les tensions et à harmoniser les énergies.",
-              "stripePriceId": "price_1UFsJMLOfCA5mATu2ywBj0nd",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UFsJMLOfCA5mATuzBFTwm5Q",
-              "stripe": "https://buy.stripe.com/7sY9AUbke97Lfb235n28a2t",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-jaspe-rouge-mu2gzs20r379",
+              "nom": "Pendentif jaspe rouge",
+              "prix": 25.07,
+              "description": "Ce pendentif en jaspe rouge est une pierre naturelle aux reflets chauds et apaisants. Traditionnellement utilisée en lithothérapie pour renforcer la vitalité et stimuler l’énergie vitale, elle est souvent associée à la confiance en soi et à la stabilité émotionnelle. Parfait pour accompagner votre quotidien, il apporte une touche d’équilibre et de douceur.",
+              "photo": "images/articles/pendentif-jaspe-rouge-mu2gzs20bpv4.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

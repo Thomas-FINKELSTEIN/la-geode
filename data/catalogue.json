@@ -6737,7 +6737,17 @@
               "description": "Ce penditif en jaspe K2 est une pierre aux reflets doux et aux inclusions bleutées qui lui donnent une touche unique. En lithothérapie, le jaspe est souvent associé à la stabilité émotionnelle, à la protection et à l’ancrage dans le quotidien. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur énergie et leur confiance en soi.",
               "photo": "images/articles/pendentif-jaspe-k2-mu2w1qy5f0yo.jpg",
               "prixBoutique": 36,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGWIXV4jzFQAAn",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe k2",
+              "stripeDesc": "Ce penditif en jaspe K2 est une pierre aux reflets doux et aux inclusions bleutées qui lui donnent une touche unique. En lithothérapie, le jaspe est souvent associé à la stabilité émotionnelle, à la protection et à l’ancrage dans le quotidien. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur énergie et leur confiance en soi.",
+              "stripePriceId": "price_1UFzGCLOfCA5mATuvi9UUMCO",
+              "stripePrix": 37.47,
+              "stripeLinkId": "plink_1UFzGCLOfCA5mATu5uWHlhws",
+              "stripe": "https://buy.stripe.com/eVq14obke1Fj5AseO528a37",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

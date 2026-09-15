@@ -6414,7 +6414,17 @@
               "description": "Ce pendentif en malachite est une pièce naturelle aux reflets verts profonds et aux motifs organiques uniques. La malachite est souvent associée à la protection, à l'équilibre émotionnel et à la stimulation de la créativité. Porté en bijou, il est idéal pour apporter une touche de bien-être au quotidien et renforcer la connexion à l'énergie vitale. La malachite est aussi bénéfique pour le mal de dos , les articulations, les tendons et les muscles.",
               "photo": "images/articles/pendentif-malachite-6-cm-mu2rors54yok.jpg",
               "prixBoutique": 195,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGUK6D4TOriGgN",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif malachite 6 cm",
+              "stripeDesc": "Ce pendentif en malachite est une pièce naturelle aux reflets verts profonds et aux motifs organiques uniques. La malachite est souvent associée à la protection, à l'équilibre émotionnel et à la stimulation de la créativité. Porté en bijou, il est idéal pour apporter une touche de bien-être au quotidien et renforcer la connexion à l'énergie vitale. La malachite est aussi bénéfique pour le mal de dos , les articulations, les tendons et les muscles.",
+              "stripePriceId": "price_1UFxM1LOfCA5mATu1pdLbJOU",
+              "stripePrix": 201.81,
+              "stripeLinkId": "plink_1UFxM1LOfCA5mATu6u1doWao",
+              "stripe": "https://buy.stripe.com/bJebJ2bke0Bf4wo7lD28a2P",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

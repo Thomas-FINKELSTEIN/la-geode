@@ -5875,7 +5875,17 @@
               "description": "Ce pendentif en forme de grenouille est sculpté dans une belle cornaline aux reflets chauds et dorés. La cornaline est une pierre souvent associée à la vitalité, à la joie et à l'énergie positive, aidant à renforcer la confiance en soi et à stimuler les émotions. Porté en bijou, il est idéal pour ceux qui cherchent à s’entourer d’une énergie dynamique et bienveillante au quotidien.",
               "photo": "images/articles/pendentif-grenouille-cornaline-mu2c45i7hi01.jpg",
               "prixBoutique": 9.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGNJ1LskApVkvh",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif grenouille cornaline",
+              "stripeDesc": "Ce pendentif en forme de grenouille est sculpté dans une belle cornaline aux reflets chauds et dorés. La cornaline est une pierre souvent associée à la vitalité, à la joie et à l'énergie positive, aidant à renforcer la confiance en soi et à stimuler les émotions. Porté en bijou, il est idéal pour ceux qui cherchent à s’entourer d’une énergie dynamique et bienveillante au quotidien.",
+              "stripePriceId": "price_1UFqYjLOfCA5mATuPWHGW0uE",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UFqYjLOfCA5mATu6G3jZlZc",
+              "stripe": "https://buy.stripe.com/6oU5kE2NIbfTd2U9tL28a2c",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

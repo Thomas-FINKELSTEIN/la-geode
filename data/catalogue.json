@@ -6111,16 +6111,25 @@
               "photo": "images/articles/pendentif-citrine-mu2hpz74g4td.jpg",
               "prixBoutique": 48,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa7sMagafw98MEdK128a2y",
               "stripeProductId": "prod_VGPpGAjRe4KJ2P",
+              "stripePriceId": "price_1UFt03LOfCA5mATuvVutc34v",
+              "stripeLinkId": "plink_1UFt03LOfCA5mATuBJhLTb5U",
+              "stripePrix": 49.88,
               "stripeMode": "live",
               "stripeNom": "Pendentif citrine",
               "stripeDesc": "Ce pendentif en citrine est une boule lumineuse qui diffuse une énergie positive et apaisante. La citrine est souvent appelée la pierre de la joie et de l'abondance, idéale pour attirer la prospérité et renforcer la confiance en soi. Parfaite à porter au quotidien, elle aide aussi à éclaircir les pensées et à apaiser les émotions.",
-              "stripePriceId": "price_1UFt03LOfCA5mATuvVutc34v",
-              "stripePrix": 49.88,
-              "stripeLinkId": "plink_1UFt03LOfCA5mATuBJhLTb5U",
-              "stripe": "https://buy.stripe.com/aFa7sMagafw98MEdK128a2y",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-citrine-mu2hwartha5c",
+              "nom": "Pendentif citrine",
+              "prix": 49.88,
+              "description": "Ce pendentif en citrine est une pierre lumineuse aux reflets dorés, symbole de joie et de prospérité. En lithothérapie, elle est souvent utilisée pour attirer l'abondance, renforcer la confiance en soi et apaiser les tensions émotionnelles. Porté au quotidien, il est idéal pour illuminer votre énergie et favoriser un état d'esprit positif.",
+              "photo": "images/articles/pendentif-citrine-mu2hwartqzcg.jpg",
+              "prixBoutique": 48,
+              "stock": 1
             }
           ]
         },

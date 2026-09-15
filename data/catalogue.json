@@ -5997,16 +5997,25 @@
               "photo": "images/articles/pendentif-obsidienne-acajou-mu2g26bwgup9.jpg",
               "prixBoutique": 21,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFafZi2NI4Rv6Ew0Xf28a2s",
               "stripeProductId": "prod_VGP59CguQO4Ppo",
+              "stripePriceId": "price_1UFsGxLOfCA5mATuBkvVDbv0",
+              "stripeLinkId": "plink_1UFsGxLOfCA5mATuARC08nmN",
+              "stripePrix": 21.97,
               "stripeMode": "live",
               "stripeNom": "Pendentif obsidienne acajou",
               "stripeDesc": "Ce pendentif en obsidienne acajou est une pierre naturelle aux reflets chauds et aux motifs organiques captivants. En lithothérapie, l'obsidienne acajou est souvent utilisée pour renforcer la protection énergétique et favoriser la stabilité émotionnelle. Elle aide à libérer les blocages et à apaiser les tensions, tout en stimulant la confiance en soi et la résilience.",
-              "stripePriceId": "price_1UFsGxLOfCA5mATuBkvVDbv0",
-              "stripePrix": 21.97,
-              "stripeLinkId": "plink_1UFsGxLOfCA5mATuARC08nmN",
-              "stripe": "https://buy.stripe.com/aFafZi2NI4Rv6Ew0Xf28a2s",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-jaspe-mariam-mu2g5b030mxr",
+              "nom": "Pendentif jaspe mariam",
+              "prix": 28.17,
+              "description": "Ce pendentif en jaspe mariam est une pierre aux motifs en spirales captivants, souvent associée à la protection et à l'équilibre énergétique. En lithothérapie, elle est réputée pour renforcer la confiance en soi et favoriser la stabilité émotionnelle. Porté au quotidien, il peut aider à apaiser les tensions et à harmoniser les énergies.",
+              "photo": "images/articles/pendentif-jaspe-mariam-mu2g5b039s4w.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         },

@@ -6661,7 +6661,17 @@
               "description": "Ce pendentif en howlite est une pierre douce et apaisante, idéale pour ceux qui recherchent un équilibre émotionnel. Connue pour ses vertus calmantes, elle aide à réduire le stress et favorise une sérénité profonde au quotidien. Parfaite à porter ou à placer près de soi, elle accompagne vers une paix intérieure et une communication plus harmonieuse.",
               "photo": "images/articles/pendentif-howlite-mu2vcsb6hc2i.jpg",
               "prixBoutique": 29,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGVzpu6wF4KKJB",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif howlite",
+              "stripeDesc": "Ce pendentif en howlite est une pierre douce et apaisante, idéale pour ceux qui recherchent un équilibre émotionnel. Connue pour ses vertus calmantes, elle aide à réduire le stress et favorise une sérénité profonde au quotidien. Parfaite à porter ou à placer près de soi, elle accompagne vers une paix intérieure et une communication plus harmonieuse.",
+              "stripePriceId": "price_1UFyxRLOfCA5mATujdbJZmKo",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UFyxSLOfCA5mATu4Vvt1zL3",
+              "stripe": "https://buy.stripe.com/4gM5kEaga5VzaUMcFX28a32",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

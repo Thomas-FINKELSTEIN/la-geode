@@ -5996,7 +5996,17 @@
               "description": "Ce pendentif en obsidienne acajou est une pierre naturelle aux reflets chauds et aux motifs organiques captivants. En lithothérapie, l'obsidienne acajou est souvent utilisée pour renforcer la protection énergétique et favoriser la stabilité émotionnelle. Elle aide à libérer les blocages et à apaiser les tensions, tout en stimulant la confiance en soi et la résilience.",
               "photo": "images/articles/pendentif-obsidienne-acajou-mu2g26bwgup9.jpg",
               "prixBoutique": 21,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGP59CguQO4Ppo",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif obsidienne acajou",
+              "stripeDesc": "Ce pendentif en obsidienne acajou est une pierre naturelle aux reflets chauds et aux motifs organiques captivants. En lithothérapie, l'obsidienne acajou est souvent utilisée pour renforcer la protection énergétique et favoriser la stabilité émotionnelle. Elle aide à libérer les blocages et à apaiser les tensions, tout en stimulant la confiance en soi et la résilience.",
+              "stripePriceId": "price_1UFsGxLOfCA5mATuBkvVDbv0",
+              "stripePrix": 21.97,
+              "stripeLinkId": "plink_1UFsGxLOfCA5mATuARC08nmN",
+              "stripe": "https://buy.stripe.com/aFafZi2NI4Rv6Ew0Xf28a2s",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -6263,16 +6263,25 @@
               "photo": "images/articles/pendentif-fluorite-multicolore-mu2p11mwzrhq.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMeVe2NI97L1kcfS928a2H",
               "stripeProductId": "prod_VGT85KAjuzqWQI",
+              "stripePriceId": "price_1UFwC0LOfCA5mATuNbgbxTFb",
+              "stripeLinkId": "plink_1UFwC0LOfCA5mATuE2yYfwMM",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif fluorite multicolore",
               "stripeDesc": "Ce pendentif en fluorite multicolore est une pierre aux teintes vibrantes et apaisantes à la fois. En lithothérapie, elle est souvent associée à la stimulation de l'intellect, de la clarté mentale et de la communication. Porté au quotidien, il est idéal pour ceux qui cherchent à équilibrer leurs émotions et à renforcer leur concentration.",
-              "stripePriceId": "price_1UFwC0LOfCA5mATuNbgbxTFb",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UFwC0LOfCA5mATuE2yYfwMM",
-              "stripe": "https://buy.stripe.com/4gMeVe2NI97L1kcfS928a2H",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-fluorite-multicolore-mu2p28t5wx1d",
+              "nom": "Pendentif fluorite multicolore",
+              "prix": 28.17,
+              "description": "Ce pendentif en fluorite multicolore est une pièce unique alliant beauté et énergie positive. La fluorite, pierre de la clarté mentale, est réputée pour stimuler la concentration, équilibrer les émotions et renforcer la communication. Parfaite pour être portée au quotidien, elle attire aussi chance et harmonie dans votre environnement.",
+              "photo": "images/articles/pendentif-fluorite-multicolore-mu2p28t5tmcj.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         },

@@ -6376,7 +6376,17 @@
               "description": "La pietersite est une pierre aux reflets dorés et aux motifs uniques, souvent appelée pierre de l'abondance et de la prospérité. En lithothérapie, elle est réputée pour apporter harmonie et équilibre émotionnel, tout en stimulant la confiance en soi et la créativité. Portée en pendentif, elle est idéale pour ceux qui cherchent à attirer des énergies positives et à renforcer leur bien-être au quotidien.",
               "photo": "images/articles/pendentif-pietersite-mu2pjuc0c4aq.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGTMucSK6HsvyT",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif pietersite",
+              "stripeDesc": "La pietersite est une pierre aux reflets dorés et aux motifs uniques, souvent appelée pierre de l'abondance et de la prospérité. En lithothérapie, elle est réputée pour apporter harmonie et équilibre émotionnel, tout en stimulant la confiance en soi et la créativité. Portée en pendentif, elle est idéale pour ceux qui cherchent à attirer des énergies positives et à renforcer leur bien-être au quotidien.",
+              "stripePriceId": "price_1UFwQ4LOfCA5mATudvpU6SPh",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UFwQ5LOfCA5mATu0CzrWx3F",
+              "stripe": "https://buy.stripe.com/8x23cw73Y6ZD7IA21j28a2N",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

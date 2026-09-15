@@ -11222,16 +11222,25 @@
               "photo": "images/articles/porte-cles-citrine-namaste-mu2cbg5af796.jpg",
               "prixBoutique": 3.5,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/aFa7sM73Y4RvaUM9tL28a2f",
               "stripeProductId": "prod_VGNPM1lnlxRrwt",
+              "stripePriceId": "price_1UFqeWLOfCA5mATu8f0wTSce",
+              "stripeLinkId": "plink_1UFqeXLOfCA5mATum2Z4NdXp",
+              "stripePrix": 3.88,
               "stripeMode": "live",
               "stripeNom": "Porte - clés citrine namasté",
               "stripeDesc": "Ce porte-clés en forme de pendentif représente un symbole de paix et d'harmonie, inspiré du geste Namasté. La citrine, pierre de lumière et d'énergie positive, est traditionnellement associée à l'abondance, à la joie et à la purification des émotions. Idéal pour porter au quotidien, il attire la bonne fortune et renforce la confiance en soi tout en restant discret et élégant.",
-              "stripePriceId": "price_1UFqeWLOfCA5mATu8f0wTSce",
-              "stripePrix": 3.88,
-              "stripeLinkId": "plink_1UFqeXLOfCA5mATum2Z4NdXp",
-              "stripe": "https://buy.stripe.com/aFa7sM73Y4RvaUM9tL28a2f",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "porte-cles-dauphin-en-bois-mu2ceok6v5u9",
+              "nom": "Porte - clès dauphin en bois",
+              "prix": 3.88,
+              "description": "porte-clés en forme de dauphin en bois",
+              "photo": "images/articles/porte-cles-dauphin-en-bois-mu2ceok7tjoz.jpg",
+              "prixBoutique": 3.5,
+              "stock": 5
             }
           ]
         }

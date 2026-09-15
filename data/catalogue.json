@@ -6262,7 +6262,17 @@
               "description": "Ce pendentif en fluorite multicolore est une pierre aux teintes vibrantes et apaisantes à la fois. En lithothérapie, elle est souvent associée à la stimulation de l'intellect, de la clarté mentale et de la communication. Porté au quotidien, il est idéal pour ceux qui cherchent à équilibrer leurs émotions et à renforcer leur concentration.",
               "photo": "images/articles/pendentif-fluorite-multicolore-mu2p11mwzrhq.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGT85KAjuzqWQI",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif fluorite multicolore",
+              "stripeDesc": "Ce pendentif en fluorite multicolore est une pierre aux teintes vibrantes et apaisantes à la fois. En lithothérapie, elle est souvent associée à la stimulation de l'intellect, de la clarté mentale et de la communication. Porté au quotidien, il est idéal pour ceux qui cherchent à équilibrer leurs émotions et à renforcer leur concentration.",
+              "stripePriceId": "price_1UFwC0LOfCA5mATuNbgbxTFb",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UFwC0LOfCA5mATuE2yYfwMM",
+              "stripe": "https://buy.stripe.com/4gMeVe2NI97L1kcfS928a2H",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

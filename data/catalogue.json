@@ -5895,16 +5895,25 @@
               "photo": "images/articles/pendentif-arbre-de-vie-amethyste-mu2crz111kuc.jpg",
               "prixBoutique": 17.5,
               "stock": 4,
+              "stripe": "https://buy.stripe.com/4gM8wQ0FA97LbYQ49r28a2n",
               "stripeProductId": "prod_VGNb0WFNHPYchy",
+              "stripePriceId": "price_1UFqq2LOfCA5mATuBStIcwa9",
+              "stripeLinkId": "plink_1UFqq2LOfCA5mATubjD9tBqs",
+              "stripePrix": 18.35,
               "stripeMode": "live",
               "stripeNom": "Pendentif arbre de vie améthyste",
               "stripeDesc": "Ce pendentif en forme d'arbre de vie est orné de pierres d'améthyste aux reflets violets apaisants. Symbole de connexion entre le ciel et la terre, il est souvent utilisé pour équilibrer les émotions et favoriser la sérénité au quotidien. En lithothérapie, l'améthyste est réputée pour ses vertus calmantes et son influence positive sur la clarté mentale.",
-              "stripePriceId": "price_1UFqq2LOfCA5mATuBStIcwa9",
-              "stripePrix": 18.35,
-              "stripeLinkId": "plink_1UFqq2LOfCA5mATubjD9tBqs",
-              "stripe": "https://buy.stripe.com/4gM8wQ0FA97LbYQ49r28a2n",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "pendentif-arbre-de-vie-dore-et-argente-mu2cy1vyxbnd",
+              "nom": "Pendentif arbre de vie doré et argenté",
+              "prix": 16.28,
+              "description": "Ce pendentif en forme d'arbre de vie allie élégance et symbolisme fort. Associé à la croissance spirituelle et à l'équilibre émotionnel, il est souvent utilisé en lithothérapie pour renforcer la connexion à ses racines et favoriser une énergie positive. Parfait pour porter au quotidien, il apporte une touche de sérénité et de vitalité.",
+              "photo": "images/articles/pendentif-arbre-de-vie-dore-et-argente-mu2cy1vysxiy.jpg",
+              "prixBoutique": 15.5,
+              "stock": 5
             }
           ]
         },

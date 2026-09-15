@@ -6699,7 +6699,17 @@
               "description": "Ce pendentif en jaspe K2 est une pierre naturelle aux reflets doux et aux motifs organiques apaisants. Connue pour ses propriétés harmonisantes, elle favorise la stabilité émotionnelle et aide à ancrer les énergies positives dans le quotidien. Idéale pour porter au quotidien, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi et apaiser les tensions intérieures.",
               "photo": "images/articles/pendentif-jaspe-k2-mu2vyfq68ldt.jpg",
               "prixBoutique": 36,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGWGDytoBYfPnP",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe k2",
+              "stripeDesc": "Ce pendentif en jaspe K2 est une pierre naturelle aux reflets doux et aux motifs organiques apaisants. Connue pour ses propriétés harmonisantes, elle favorise la stabilité émotionnelle et aide à ancrer les énergies positives dans le quotidien. Idéale pour porter au quotidien, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi et apaiser les tensions intérieures.",
+              "stripePriceId": "price_1UFzDfLOfCA5mATudfYIXKRK",
+              "stripePrix": 37.47,
+              "stripeLinkId": "plink_1UFzDgLOfCA5mATuEKnn1dgn",
+              "stripe": "https://buy.stripe.com/9B628s8822JnaUM7lD28a35",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

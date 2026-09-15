@@ -6244,16 +6244,25 @@
               "photo": "images/articles/pendentif-fluorite-multicolore-mu2osxhka0i3.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/14A28sbkees56Ew8pH28a2G",
               "stripeProductId": "prod_VGT2WXfAyHJxk2",
+              "stripePriceId": "price_1UFw5xLOfCA5mATuHV69s4gs",
+              "stripeLinkId": "plink_1UFw5yLOfCA5mATu9oA6uy91",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif fluorite multicolore",
               "stripeDesc": "Ce pendentif en fluorite aux bandes colorées apporte une énergie apaisante et équilibrée, idéale pour clarifier l'esprit et améliorer la concentration. Ses teintes variées symbolisent la diversité et aident à harmoniser les émotions tout en favorisant une communication plus fluide. Parfait pour un port quotidien, il est souvent utilisé en lithothérapie pour stimuler la créativité et faciliter les prises de décision.",
-              "stripePriceId": "price_1UFw5xLOfCA5mATuHV69s4gs",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UFw5yLOfCA5mATu9oA6uy91",
-              "stripe": "https://buy.stripe.com/14A28sbkees56Ew8pH28a2G",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-fluorite-multicolore-mu2p11mwk6lt",
+              "nom": "Pendentif fluorite multicolore",
+              "prix": 28.17,
+              "description": "Ce pendentif en fluorite multicolore est une pierre aux teintes vibrantes et apaisantes à la fois. En lithothérapie, elle est souvent associée à la stimulation de l'intellect, de la clarté mentale et de la communication. Porté au quotidien, il est idéal pour ceux qui cherchent à équilibrer leurs émotions et à renforcer leur concentration.",
+              "photo": "images/articles/pendentif-fluorite-multicolore-mu2p11mwzrhq.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         },

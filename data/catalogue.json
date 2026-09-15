@@ -6225,16 +6225,25 @@
               "photo": "images/articles/pendentif-eudialyte-4-cm-mu2opzheqn7f.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYaEY8820Bf4wo9tL28a2F",
               "stripeProductId": "prod_VGSzZaoOw1Wdy6",
+              "stripePriceId": "price_1UFw3fLOfCA5mATunXlsxwKK",
+              "stripeLinkId": "plink_1UFw3fLOfCA5mATu7tB5B2Sk",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif eudialyte 4 cm",
               "stripeDesc": "Ce pendentif en eudialyte capture des reflets magiques aux teintes vertes, roses et brunes, créant un jeu de lumière captivant. Pierre énergétique prisée en lithothérapie, elle aide à apaiser les émotions et à retrouver un équilibre intérieur. Parfaite pour accompagner votre quotidien, elle favorise aussi la confiance en soi et une attitude plus sereine.",
-              "stripePriceId": "price_1UFw3fLOfCA5mATunXlsxwKK",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UFw3fLOfCA5mATu7tB5B2Sk",
-              "stripe": "https://buy.stripe.com/7sYaEY8820Bf4wo9tL28a2F",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-fluorite-multicolore-mu2osxhkcutk",
+              "nom": "Pendentif fluorite multicolore",
+              "prix": 28.17,
+              "description": "Ce pendentif en fluorite aux bandes colorées apporte une énergie apaisante et équilibrée, idéale pour clarifier l'esprit et améliorer la concentration. Ses teintes variées symbolisent la diversité et aident à harmoniser les émotions tout en favorisant une communication plus fluide. Parfait pour un port quotidien, il est souvent utilisé en lithothérapie pour stimuler la créativité et faciliter les prises de décision.",
+              "photo": "images/articles/pendentif-fluorite-multicolore-mu2osxhka0i3.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         },

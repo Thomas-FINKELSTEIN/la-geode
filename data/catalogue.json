@@ -6662,16 +6662,25 @@
               "photo": "images/articles/pendentif-howlite-mu2vcsb6hc2i.jpg",
               "prixBoutique": 29,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM5kEaga5VzaUMcFX28a32",
               "stripeProductId": "prod_VGVzpu6wF4KKJB",
+              "stripePriceId": "price_1UFyxRLOfCA5mATujdbJZmKo",
+              "stripeLinkId": "plink_1UFyxSLOfCA5mATu4Vvt1zL3",
+              "stripePrix": 30.24,
               "stripeMode": "live",
               "stripeNom": "Pendentif howlite",
               "stripeDesc": "Ce pendentif en howlite est une pierre douce et apaisante, idéale pour ceux qui recherchent un équilibre émotionnel. Connue pour ses vertus calmantes, elle aide à réduire le stress et favorise une sérénité profonde au quotidien. Parfaite à porter ou à placer près de soi, elle accompagne vers une paix intérieure et une communication plus harmonieuse.",
-              "stripePriceId": "price_1UFyxRLOfCA5mATujdbJZmKo",
-              "stripePrix": 30.24,
-              "stripeLinkId": "plink_1UFyxSLOfCA5mATu4Vvt1zL3",
-              "stripe": "https://buy.stripe.com/4gM5kEaga5VzaUMcFX28a32",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-aragonite-mu2vf9yfz1px",
+              "nom": "Pendentif aragonite",
+              "prix": 38.51,
+              "description": "Ce pendentif en aragonite est une pièce raffinée qui capte immédiatement l'attention grâce à ses douces nuances bleutées et ses reflets nacrés. En lithothérapie, l'aragonite est souvent associée à la douceur émotionnelle et à la protection, aidant à apaiser les tensions et à favoriser un état de calme intérieur. Elle est aussi réputée pour renforcer la confiance en soi et équilibrer les énergies, ce qui en fait un allié précieux pour le quotidien.",
+              "photo": "images/articles/pendentif-aragonite-mu2vf9yhg54z.jpg",
+              "prixBoutique": 37,
+              "stock": 1
             }
           ]
         },

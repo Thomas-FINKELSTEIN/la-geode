@@ -11336,16 +11336,25 @@
               "photo": "images/articles/porte-cles-en-tourmaline-brute-mu2cojvhnb49.jpg",
               "prixBoutique": 8.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFacN60FA2Jnd2UfS928a2l",
               "stripeProductId": "prod_VGNYzh62N4BbhG",
+              "stripePriceId": "price_1UFqnTLOfCA5mATuHHFwEVtG",
+              "stripeLinkId": "plink_1UFqnTLOfCA5mATuPv9wJA4X",
+              "stripePrix": 9.05,
               "stripeMode": "live",
               "stripeNom": "Porte - clés en tourmaline brute",
               "stripeDesc": "Ce porte-clés en tourmaline brute offre une touche naturelle et mystérieuse à votre quotidien. La tourmaline est souvent associée à l'équilibre des énergies, aidant à apaiser les émotions et à renforcer la connexion à soi-même. Son apparence sombre et organique en fait un accessoire unique pour ceux qui recherchent une pierre aux vertus protectrices et harmonisantes.",
-              "stripePriceId": "price_1UFqnTLOfCA5mATuHHFwEVtG",
-              "stripePrix": 9.05,
-              "stripeLinkId": "plink_1UFqnTLOfCA5mATuPv9wJA4X",
-              "stripe": "https://buy.stripe.com/aFacN60FA2Jnd2UfS928a2l",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "porte-cles-ambre-mu2cq5v9s9mf",
+              "nom": "Porte - clés ambre",
+              "prix": 9.05,
+              "description": "Ce porte-clés en ambre est un accessoire élégant et chaleureux, parfait pour allier style et bien-être au quotidien. L’ambre, pierre de lumière et de protection, est traditionnellement utilisée pour apaiser les émotions, renforcer la vitalité et attirer la joie. Son énergie positive en fait un compagnon idéal pour une journée sereine et équilibrée.",
+              "photo": "images/articles/porte-cles-ambre-mu2cq5v98ef3.jpg",
+              "prixBoutique": 8.5,
+              "stock": 7
             }
           ]
         }

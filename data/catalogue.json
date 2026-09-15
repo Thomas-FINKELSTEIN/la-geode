@@ -6300,7 +6300,17 @@
               "description": "Ce pendentif en cristal de roche tourmaline allie pureté et énergie apaisante. Le cristal de roche amplifie les intentions et favorise la clarté mentale, tandis que la tourmaline équilibre les émotions et protège contre les énergies négatives. Parfait pour une utilisation quotidienne, il peut être porté comme talisman pour renforcer la concentration et apporter sérénité au quotidien.",
               "photo": "images/articles/pendentif-en-cristal-de-roche-tourmaline-mu2p4jm1bp3s.jpg",
               "prixBoutique": 21,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGTAEwmDuX70Yn",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif en cristal de roche tourmaline",
+              "stripeDesc": "Ce pendentif en cristal de roche tourmaline allie pureté et énergie apaisante. Le cristal de roche amplifie les intentions et favorise la clarté mentale, tandis que la tourmaline équilibre les émotions et protège contre les énergies négatives. Parfait pour une utilisation quotidienne, il peut être porté comme talisman pour renforcer la concentration et apporter sérénité au quotidien.",
+              "stripePriceId": "price_1UFwEdLOfCA5mATuuXP0Nvuj",
+              "stripePrix": 21.97,
+              "stripeLinkId": "plink_1UFwEdLOfCA5mATuQkYkq4NG",
+              "stripe": "https://buy.stripe.com/dRm3cw3RM5Vzgf6dK128a2J",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

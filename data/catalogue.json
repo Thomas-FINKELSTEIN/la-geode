@@ -6452,7 +6452,17 @@
               "description": "Ce pendentif en aigue-marine est une pierre apaisante aux reflets bleutés et légèrement verdâtres, souvent associée à la sérénité et à la clarté mentale. En lithothérapie, elle est réputée pour favoriser la communication, apaiser les émotions et renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver une attitude positive.",
               "photo": "images/articles/pendentif-aigue-marine-mu2u7l08kdj1.jpg",
               "prixBoutique": 52,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGVTPMsdxy2v6A",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif aigue - marine",
+              "stripeDesc": "Ce pendentif en aigue-marine est une pierre apaisante aux reflets bleutés et légèrement verdâtres, souvent associée à la sérénité et à la clarté mentale. En lithothérapie, elle est réputée pour favoriser la communication, apaiser les émotions et renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver une attitude positive.",
+              "stripePriceId": "price_1UFySKLOfCA5mATuGQmzxWJS",
+              "stripePrix": 54.01,
+              "stripeLinkId": "plink_1UFySKLOfCA5mATulqTK7Njn",
+              "stripe": "https://buy.stripe.com/dRm6oIgEyabPbYQ8pH28a2R",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

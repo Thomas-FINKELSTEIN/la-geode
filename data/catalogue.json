@@ -5886,6 +5886,15 @@
               "stripeDesc": "Ce pendentif en forme de grenouille est sculpté dans une belle cornaline aux reflets chauds et dorés. La cornaline est une pierre souvent associée à la vitalité, à la joie et à l'énergie positive, aidant à renforcer la confiance en soi et à stimuler les émotions. Porté en bijou, il est idéal pour ceux qui cherchent à s’entourer d’une énergie dynamique et bienveillante au quotidien.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-arbre-de-vie-amethyste-mu2crz11hc9o",
+              "nom": "Pendentif arbre de vie améthyste",
+              "prix": 18.35,
+              "description": "Ce pendentif en forme d'arbre de vie est orné de pierres d'améthyste aux reflets violets apaisants. Symbole de connexion entre le ciel et la terre, il est souvent utilisé pour équilibrer les émotions et favoriser la sérénité au quotidien. En lithothérapie, l'améthyste est réputée pour ses vertus calmantes et son influence positive sur la clarté mentale.",
+              "photo": "images/articles/pendentif-arbre-de-vie-amethyste-mu2crz111kuc.jpg",
+              "prixBoutique": 17.5,
+              "stock": 4
             }
           ]
         },
@@ -11355,14 +11364,14 @@
               "photo": "images/articles/porte-cles-ambre-mu2cq5v98ef3.jpg",
               "prixBoutique": 8.5,
               "stock": 7,
+              "stripe": "https://buy.stripe.com/5kQcN6bke2Jn2og0Xf28a2m",
               "stripeProductId": "prod_VGNZdiZAvPqy1q",
+              "stripePriceId": "price_1UFqofLOfCA5mATuI7G7fmJd",
+              "stripeLinkId": "plink_1UFqogLOfCA5mATuqeuAsgQs",
+              "stripePrix": 9.05,
               "stripeMode": "live",
               "stripeNom": "Porte - clés ambre",
               "stripeDesc": "Ce porte-clés en ambre est un accessoire élégant et chaleureux, parfait pour allier style et bien-être au quotidien. L’ambre, pierre de lumière et de protection, est traditionnellement utilisée pour apaiser les émotions, renforcer la vitalité et attirer la joie. Son énergie positive en fait un compagnon idéal pour une journée sereine et équilibrée.",
-              "stripePriceId": "price_1UFqofLOfCA5mATuI7G7fmJd",
-              "stripePrix": 9.05,
-              "stripeLinkId": "plink_1UFqogLOfCA5mATuqeuAsgQs",
-              "stripe": "https://buy.stripe.com/5kQcN6bke2Jn2og0Xf28a2m",
               "stripeStock": 7,
               "epuise": false
             }

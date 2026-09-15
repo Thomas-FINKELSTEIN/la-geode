@@ -6358,14 +6358,14 @@
               "photo": "images/articles/pendentif-larvikite-mu2pc4y2x134.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/28E4gA3RMcjX7IA7lD28a2M",
               "stripeProductId": "prod_VGTGkOdrzc5RcM",
+              "stripePriceId": "price_1UFwKLLOfCA5mATuXof9iapY",
+              "stripeLinkId": "plink_1UFwKLLOfCA5mATul3ibJugc",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif larvikite",
               "stripeDesc": "Ce penditif en larvikite, pierre aux reflets bleutés et scintillants, est une véritable pièce de décoration naturelle. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et renforcer la confiance en soi. Son énergie douce et harmonieuse en fait un allié idéal pour équilibrer les émotions et apporter une touche d’élégance à votre quotidien.",
-              "stripePriceId": "price_1UFwKLLOfCA5mATuXof9iapY",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UFwKLLOfCA5mATul3ibJugc",
-              "stripe": "https://buy.stripe.com/28E4gA3RMcjX7IA7lD28a2M",
               "stripeStock": 1,
               "epuise": false
             }

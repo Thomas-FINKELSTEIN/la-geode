@@ -6339,16 +6339,25 @@
               "photo": "images/articles/pendentif-emeraude-mu2p75bk1peh.jpg",
               "prixBoutique": 25,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/28E5kE1JE3Nr1kc49r28a2L",
               "stripeProductId": "prod_VGTDausF2y4SdW",
+              "stripePriceId": "price_1UFwGaLOfCA5mATuilCwlcLc",
+              "stripeLinkId": "plink_1UFwGaLOfCA5mATuipv8qwXI",
+              "stripePrix": 26.1,
               "stripeMode": "live",
               "stripeNom": "Pendentif émeraude",
               "stripeDesc": "Ce pendentif en émeraude, pierre précieuse au vert profond et lumineux, est un symbole de renouveau et de croissance. En lithothérapie, elle est souvent associée à l'harmonie émotionnelle, à la paix intérieure et à une énergie revitalisante. Portée au quotidien, elle est censée renforcer la confiance en soi et attirer la prospérité.",
-              "stripePriceId": "price_1UFwGaLOfCA5mATuilCwlcLc",
-              "stripePrix": 26.1,
-              "stripeLinkId": "plink_1UFwGaLOfCA5mATuipv8qwXI",
-              "stripe": "https://buy.stripe.com/28E5kE1JE3Nr1kc49r28a2L",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-larvikite-mu2pc4y2b47p",
+              "nom": "Pendentif larvikite",
+              "prix": 25.07,
+              "description": "Ce penditif en larvikite, pierre aux reflets bleutés et scintillants, est une véritable pièce de décoration naturelle. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et renforcer la confiance en soi. Son énergie douce et harmonieuse en fait un allié idéal pour équilibrer les émotions et apporter une touche d’élégance à votre quotidien.",
+              "photo": "images/articles/pendentif-larvikite-mu2pc4y2x134.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

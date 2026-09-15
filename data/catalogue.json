@@ -6034,7 +6034,17 @@
               "description": "Ce pendentif en jaspe rouge est une pierre naturelle aux reflets chauds et apaisants. Traditionnellement utilisée en lithothérapie pour renforcer la vitalité et stimuler l’énergie vitale, elle est souvent associée à la confiance en soi et à la stabilité émotionnelle. Parfait pour accompagner votre quotidien, il apporte une touche d’équilibre et de douceur.",
               "photo": "images/articles/pendentif-jaspe-rouge-mu2gzs20bpv4.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGPV4AvFUjEN6w",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe rouge",
+              "stripeDesc": "Ce pendentif en jaspe rouge est une pierre naturelle aux reflets chauds et apaisants. Traditionnellement utilisée en lithothérapie pour renforcer la vitalité et stimuler l’énergie vitale, elle est souvent associée à la confiance en soi et à la stabilité émotionnelle. Parfait pour accompagner votre quotidien, il apporte une touche d’équilibre et de douceur.",
+              "stripePriceId": "price_1UFsgpLOfCA5mATuKtTw9VG9",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UFsgpLOfCA5mATuFG2DJkCb",
+              "stripe": "https://buy.stripe.com/6oU3cwbke0Bf9QIeO528a2u",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

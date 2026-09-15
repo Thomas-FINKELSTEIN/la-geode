@@ -6167,7 +6167,17 @@
               "description": "Ce pendentif en citrine est une pierre solaire aux reflets dorés qui attire la lumière et la joie. En lithothérapie, elle est souvent associée à la confiance en soi, à l'abondance et à la purification des énergies négatives. Porté au quotidien, il est idéal pour stimuler la motivation et éclairer les moments de doute.",
               "photo": "images/articles/pendentif-citrine-mu2ohncoitgn.jpg",
               "prixBoutique": 48,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGStWbw47EfiZu",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif citrine",
+              "stripeDesc": "Ce pendentif en citrine est une pierre solaire aux reflets dorés qui attire la lumière et la joie. En lithothérapie, elle est souvent associée à la confiance en soi, à l'abondance et à la purification des énergies négatives. Porté au quotidien, il est idéal pour stimuler la motivation et éclairer les moments de doute.",
+              "stripePriceId": "price_1UFvxSLOfCA5mATue9GgCtbe",
+              "stripePrix": 49.88,
+              "stripeLinkId": "plink_1UFvxSLOfCA5mATuPEBJTfau",
+              "stripe": "https://buy.stripe.com/9B66oIgEy1Fj7IA35n28a2C",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

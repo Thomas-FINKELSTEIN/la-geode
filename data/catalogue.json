@@ -11278,7 +11278,17 @@
               "description": "Porte - clés en pin",
               "photo": "images/articles/porte-cles-en-pin-mu2ciydh0j8o.jpg",
               "prixBoutique": 7.5,
-              "stock": 9
+              "stock": 9,
+              "stripeProductId": "prod_VGNU2vTWDKCtEE",
+              "stripeMode": "live",
+              "stripeNom": "Porte - clés en pin",
+              "stripeDesc": "Porte - clés en pin",
+              "stripePriceId": "price_1UFqjNLOfCA5mATurOVyFvCH",
+              "stripePrix": 8.02,
+              "stripeLinkId": "plink_1UFqjNLOfCA5mATuxmYW3i65",
+              "stripe": "https://buy.stripe.com/aFaeVebke97Ld2U5dv28a2i",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         }

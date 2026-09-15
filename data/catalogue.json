@@ -11335,7 +11335,17 @@
               "description": "Ce porte-clés en tourmaline brute offre une touche naturelle et mystérieuse à votre quotidien. La tourmaline est souvent associée à l'équilibre des énergies, aidant à apaiser les émotions et à renforcer la connexion à soi-même. Son apparence sombre et organique en fait un accessoire unique pour ceux qui recherchent une pierre aux vertus protectrices et harmonisantes.",
               "photo": "images/articles/porte-cles-en-tourmaline-brute-mu2cojvhnb49.jpg",
               "prixBoutique": 8.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGNYzh62N4BbhG",
+              "stripeMode": "live",
+              "stripeNom": "Porte - clés en tourmaline brute",
+              "stripeDesc": "Ce porte-clés en tourmaline brute offre une touche naturelle et mystérieuse à votre quotidien. La tourmaline est souvent associée à l'équilibre des énergies, aidant à apaiser les émotions et à renforcer la connexion à soi-même. Son apparence sombre et organique en fait un accessoire unique pour ceux qui recherchent une pierre aux vertus protectrices et harmonisantes.",
+              "stripePriceId": "price_1UFqnTLOfCA5mATuHHFwEVtG",
+              "stripePrix": 9.05,
+              "stripeLinkId": "plink_1UFqnTLOfCA5mATuPv9wJA4X",
+              "stripe": "https://buy.stripe.com/aFacN60FA2Jnd2UfS928a2l",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

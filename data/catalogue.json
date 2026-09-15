@@ -5932,7 +5932,17 @@
               "description": "Ce pendentif en forme de cœur, orné d’un arbre de vie élégant, est un symbole puissant de croissance spirituelle et d’équilibre émotionnel. En lithothérapie, il est souvent associé à l’harmonisation des énergies et à l’ancrage des intentions positives. Parfait pour porter au quotidien, il rappelle que chaque choix peut nourrir une vie riche et équilibrée.",
               "photo": "images/articles/pendentif-coeur-argente-avec-arbre-de-vi-mu2dxoklbees.jpg",
               "prixBoutique": 15.7,
-              "stock": 15
+              "stock": 15,
+              "stripeProductId": "prod_VGO72KQCCtlrUP",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif coeur argenté avec arbre de vie",
+              "stripeDesc": "Ce pendentif en forme de cœur, orné d’un arbre de vie élégant, est un symbole puissant de croissance spirituelle et d’équilibre émotionnel. En lithothérapie, il est souvent associé à l’harmonisation des énergies et à l’ancrage des intentions positives. Parfait pour porter au quotidien, il rappelle que chaque choix peut nourrir une vie riche et équilibrée.",
+              "stripePriceId": "price_1UFrLULOfCA5mATu6yPLJ6o9",
+              "stripePrix": 16.49,
+              "stripeLinkId": "plink_1UFrLVLOfCA5mATuqY2Nr881",
+              "stripe": "https://buy.stripe.com/9B6dRabkegAdaUMbBT28a2p",
+              "stripeStock": 15,
+              "epuise": false
             }
           ]
         },

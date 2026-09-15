@@ -6395,7 +6395,17 @@
               "description": "Ce pendentif allie la puissance énergétique du rubis et la sérénité de la cyanite pour un équilibre parfait. Le rubis, pierre de passion et de vitalité, stimule la confiance en soi et renforce l'énergie vitale, tandis que la cyanite, connue pour son influence apaisante, favorise la clarté mentale et la concentration. Parfait pour porter au quotidien, ce bijou en pierres naturelles apporte harmonie et dynamisme à votre quotidien.",
               "photo": "images/articles/pendentif-rubis-sur-cyanite-mu2qvq5zw2j1.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGTyPnveFGqVCY",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif rubis sur cyanite",
+              "stripeDesc": "Ce pendentif allie la puissance énergétique du rubis et la sérénité de la cyanite pour un équilibre parfait. Le rubis, pierre de passion et de vitalité, stimule la confiance en soi et renforce l'énergie vitale, tandis que la cyanite, connue pour son influence apaisante, favorise la clarté mentale et la concentration. Parfait pour porter au quotidien, ce bijou en pierres naturelles apporte harmonie et dynamisme à votre quotidien.",
+              "stripePriceId": "price_1UFx0FLOfCA5mATuEUqHAo2I",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UFx0FLOfCA5mATuSwyNC3GN",
+              "stripe": "https://buy.stripe.com/7sY28sewqfw95AsaxP28a2O",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

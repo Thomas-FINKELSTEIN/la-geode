@@ -6092,16 +6092,25 @@
               "photo": "images/articles/pendentif-pointe-en-jaspe-rouge-mu2hnnav8wlw.jpg",
               "prixBoutique": 15,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00w3cw0FA97L4wofS928a2x",
               "stripeProductId": "prod_VGPnoor1VLqj7e",
+              "stripePriceId": "price_1UFsyELOfCA5mATugxjMNSbO",
+              "stripeLinkId": "plink_1UFsyFLOfCA5mATuIOwYABri",
+              "stripePrix": 15.77,
               "stripeMode": "live",
               "stripeNom": "Pendentif pointe en jaspe rouge",
               "stripeDesc": "Ce pendentif en pointe de jaspe rouge est une pièce élégante et symbolique, souvent utilisée pour renforcer la vitalité et l'énergie vitale. Le jaspe rouge est traditionnellement associé à la passion, à la force et à la stabilité émotionnelle, aidant à ancrer les intentions et à stimuler la confiance en soi. Parfait pour une touche de puissance et de chaleur dans vos créations ou votre quotidien.",
-              "stripePriceId": "price_1UFsyELOfCA5mATugxjMNSbO",
-              "stripePrix": 15.77,
-              "stripeLinkId": "plink_1UFsyFLOfCA5mATuIOwYABri",
-              "stripe": "https://buy.stripe.com/00w3cw0FA97L4wofS928a2x",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-citrine-mu2hpz74npeo",
+              "nom": "Pendentif citrine",
+              "prix": 49.88,
+              "description": "Ce pendentif en citrine est une boule lumineuse qui diffuse une énergie positive et apaisante. La citrine est souvent appelée la pierre de la joie et de l'abondance, idéale pour attirer la prospérité et renforcer la confiance en soi. Parfaite à porter au quotidien, elle aide aussi à éclaircir les pensées et à apaiser les émotions.",
+              "photo": "images/articles/pendentif-citrine-mu2hpz74g4td.jpg",
+              "prixBoutique": 48,
+              "stock": 1
             }
           ]
         },

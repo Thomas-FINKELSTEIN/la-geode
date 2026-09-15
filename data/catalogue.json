@@ -11354,7 +11354,17 @@
               "description": "Ce porte-clés en ambre est un accessoire élégant et chaleureux, parfait pour allier style et bien-être au quotidien. L’ambre, pierre de lumière et de protection, est traditionnellement utilisée pour apaiser les émotions, renforcer la vitalité et attirer la joie. Son énergie positive en fait un compagnon idéal pour une journée sereine et équilibrée.",
               "photo": "images/articles/porte-cles-ambre-mu2cq5v98ef3.jpg",
               "prixBoutique": 8.5,
-              "stock": 7
+              "stock": 7,
+              "stripeProductId": "prod_VGNZdiZAvPqy1q",
+              "stripeMode": "live",
+              "stripeNom": "Porte - clés ambre",
+              "stripeDesc": "Ce porte-clés en ambre est un accessoire élégant et chaleureux, parfait pour allier style et bien-être au quotidien. L’ambre, pierre de lumière et de protection, est traditionnellement utilisée pour apaiser les émotions, renforcer la vitalité et attirer la joie. Son énergie positive en fait un compagnon idéal pour une journée sereine et équilibrée.",
+              "stripePriceId": "price_1UFqofLOfCA5mATuI7G7fmJd",
+              "stripePrix": 9.05,
+              "stripeLinkId": "plink_1UFqogLOfCA5mATuqeuAsgQs",
+              "stripe": "https://buy.stripe.com/5kQcN6bke2Jn2og0Xf28a2m",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         }

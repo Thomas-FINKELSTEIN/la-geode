@@ -5876,14 +5876,14 @@
               "photo": "images/articles/pendentif-grenouille-cornaline-mu2c45i7hi01.jpg",
               "prixBoutique": 9.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU5kE2NIbfTd2U9tL28a2c",
               "stripeProductId": "prod_VGNJ1LskApVkvh",
+              "stripePriceId": "price_1UFqYjLOfCA5mATuPWHGW0uE",
+              "stripeLinkId": "plink_1UFqYjLOfCA5mATu6G3jZlZc",
+              "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Pendentif grenouille cornaline",
               "stripeDesc": "Ce pendentif en forme de grenouille est sculpté dans une belle cornaline aux reflets chauds et dorés. La cornaline est une pierre souvent associée à la vitalité, à la joie et à l'énergie positive, aidant à renforcer la confiance en soi et à stimuler les émotions. Porté en bijou, il est idéal pour ceux qui cherchent à s’entourer d’une énergie dynamique et bienveillante au quotidien.",
-              "stripePriceId": "price_1UFqYjLOfCA5mATuPWHGW0uE",
-              "stripePrix": 10.5,
-              "stripeLinkId": "plink_1UFqYjLOfCA5mATu6G3jZlZc",
-              "stripe": "https://buy.stripe.com/6oU5kE2NIbfTd2U9tL28a2c",
               "stripeStock": 1,
               "epuise": false
             }
@@ -11187,6 +11187,22 @@
               "stripeDesc": "Cette baguette de soin en cristal de roche est un outil puissant pour équilibrer les énergies et favoriser la clarté mentale. Utilisée en lithothérapie, elle aide à purifier l'espace et à renforcer la concentration. Parfaite pour les méditations ou les rituels de guérison, elle amplifie les intentions positives.",
               "stripeStock": 1,
               "epuise": false
+            }
+          ]
+        },
+        {
+          "id": "porte-cle-en-pierre-mu2c837a8znf",
+          "nom": "Porte clé en pierre",
+          "slogan": "pierre de poche , porte clé original",
+          "articles": [
+            {
+              "id": "porte-cle-lapis-lazuli-mu2c96h1fsjh",
+              "nom": "Porte clé lapis lazuli",
+              "prix": 9.05,
+              "description": "Ce porte clé en lapis lazuli est un accessoire à la fois élégant et porteur de symboles puissants. Le lapis lazuli, pierre de sagesse et de protection, est traditionnellement utilisé pour favoriser la communication, la clarté mentale et l'équilibre émotionnel. Son bleu profond inspire la sérénité et peut aider à apaiser les tensions du quotidien, tout en renforçant la confiance en soi.",
+              "photo": "images/articles/porte-cle-lapis-lazuli-mu2c96h10qoz.jpg",
+              "prixBoutique": 8.5,
+              "stock": 1
             }
           ]
         }

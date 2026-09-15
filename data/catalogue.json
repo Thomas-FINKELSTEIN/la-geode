@@ -6548,16 +6548,25 @@
               "photo": "images/articles/pendentif-cristal-de-roche-tourmaline-ro-mu2uvggo8bgu.jpg",
               "prixBoutique": 60,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRmaEYfAufw99QI35n28a2W",
               "stripeProductId": "prod_VGVl89kGqMUHOM",
+              "stripePriceId": "price_1UFykJLOfCA5mATuNtCmFojV",
+              "stripeLinkId": "plink_1UFykKLOfCA5mATuk9HJPW1w",
+              "stripePrix": 62.28,
               "stripeMode": "live",
               "stripeNom": "Pendentif cristal de roche tourmaline rose",
               "stripeDesc": "Ce pendentif allie la pureté apaisante du cristal de roche et l'énergie douce de la tourmaline rose. Associé traditionnellement à l'harmonie émotionnelle et à l'ouverture du cœur, il est idéal pour apaiser les tensions et favoriser la compassion. Parfait pour une utilisation quotidienne, il peut être porté comme un talisman bien-être ou simplement apprécié pour sa beauté lumineuse.",
-              "stripePriceId": "price_1UFykJLOfCA5mATuNtCmFojV",
-              "stripePrix": 62.28,
-              "stripeLinkId": "plink_1UFykKLOfCA5mATuk9HJPW1w",
-              "stripe": "https://buy.stripe.com/dRmaEYfAufw99QI35n28a2W",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cristal-de-roche-tourmaline-no-mu2uxbawxjf2",
+              "nom": "Pendentif cristal de roche tourmaline noire",
+              "prix": 62.28,
+              "description": "Ce pendentif élégant associe la pureté et la clarté du cristal de roche à la puissance protectrice de la tourmaline noire. Idéal pour équilibrer les énergies et apaiser les émotions, il est souvent utilisé pour renforcer la confiance en soi et créer un bouclier contre les influences négatives. Parfait à porter au quotidien, il allie beauté naturelle et bien-être énergétique.",
+              "photo": "images/articles/pendentif-cristal-de-roche-tourmaline-no-mu2uxbawkgz7.jpg",
+              "prixBoutique": 60,
+              "stock": 1
             }
           ]
         },

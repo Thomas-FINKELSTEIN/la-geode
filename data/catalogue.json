@@ -6168,16 +6168,25 @@
               "photo": "images/articles/pendentif-citrine-mu2ohncoitgn.jpg",
               "prixBoutique": 48,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B66oIgEy1Fj7IA35n28a2C",
               "stripeProductId": "prod_VGStWbw47EfiZu",
+              "stripePriceId": "price_1UFvxSLOfCA5mATue9GgCtbe",
+              "stripeLinkId": "plink_1UFvxSLOfCA5mATuPEBJTfau",
+              "stripePrix": 49.88,
               "stripeMode": "live",
               "stripeNom": "Pendentif citrine",
               "stripeDesc": "Ce pendentif en citrine est une pierre solaire aux reflets dorés qui attire la lumière et la joie. En lithothérapie, elle est souvent associée à la confiance en soi, à l'abondance et à la purification des énergies négatives. Porté au quotidien, il est idéal pour stimuler la motivation et éclairer les moments de doute.",
-              "stripePriceId": "price_1UFvxSLOfCA5mATue9GgCtbe",
-              "stripePrix": 49.88,
-              "stripeLinkId": "plink_1UFvxSLOfCA5mATuPEBJTfau",
-              "stripe": "https://buy.stripe.com/9B66oIgEy1Fj7IA35n28a2C",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-amethyste-4-cm-mu2okiohcheq",
+              "nom": "Pendentif améthyste 4 cm",
+              "prix": 30.24,
+              "description": "Ce pendentif en améthyste, pierre aux reflets violets apaisants, est un allié précieux pour favoriser la sérénité et l'équilibre émotionnel. Traditionnellement utilisée en lithothérapie pour apaiser le mental et stimuler la clarté d'esprit, elle est idéale pour méditer ou porter au quotidien. Son énergie douce et protectrice en fait un compagnon parfait pour les moments de stress ou de remise en question.",
+              "photo": "images/articles/pendentif-amethyste-4-cm-mu2okioh7nud.jpg",
+              "prixBoutique": 29,
+              "stock": 1
             }
           ]
         },

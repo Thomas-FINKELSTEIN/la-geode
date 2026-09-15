@@ -6453,16 +6453,25 @@
               "photo": "images/articles/pendentif-aigue-marine-mu2u7l08kdj1.jpg",
               "prixBoutique": 52,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm6oIgEyabPbYQ8pH28a2R",
               "stripeProductId": "prod_VGVTPMsdxy2v6A",
+              "stripePriceId": "price_1UFySKLOfCA5mATuGQmzxWJS",
+              "stripeLinkId": "plink_1UFySKLOfCA5mATulqTK7Njn",
+              "stripePrix": 54.01,
               "stripeMode": "live",
               "stripeNom": "Pendentif aigue - marine",
               "stripeDesc": "Ce pendentif en aigue-marine est une pierre apaisante aux reflets bleutés et légèrement verdâtres, souvent associée à la sérénité et à la clarté mentale. En lithothérapie, elle est réputée pour favoriser la communication, apaiser les émotions et renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver une attitude positive.",
-              "stripePriceId": "price_1UFySKLOfCA5mATuGQmzxWJS",
-              "stripePrix": 54.01,
-              "stripeLinkId": "plink_1UFySKLOfCA5mATulqTK7Njn",
-              "stripe": "https://buy.stripe.com/dRm6oIgEyabPbYQ8pH28a2R",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-aigue-marine-mu2uav4o672b",
+              "nom": "Pendentif aigue - marine",
+              "prix": 128.43,
+              "description": "Cette boule d'aigue-marine capture la douceur des eaux profondes et la sérénité qu'elle inspire. En lithothérapie, cette pierre est souvent associée à la clarté mentale, à la protection et à l'apaisement des émotions. Idéale pour créer un espace harmonieux, elle est aussi utilisée pour renforcer la confiance en soi et favoriser une communication sereine.",
+              "photo": "images/articles/pendentif-aigue-marine-mu2uav4ogk05.jpg",
+              "prixBoutique": 124,
+              "stock": 1
             }
           ]
         },

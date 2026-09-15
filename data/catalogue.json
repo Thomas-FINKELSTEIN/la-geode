@@ -6605,16 +6605,25 @@
               "photo": "images/articles/pendentif-opale-dendritique-mu2v1ksn9s27.jpg",
               "prixBoutique": 79,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6fZi1JEes50g87lD28a2Z",
               "stripeProductId": "prod_VGVqJodyz7cSrY",
+              "stripePriceId": "price_1UFyovLOfCA5mATuFjCsABfs",
+              "stripeLinkId": "plink_1UFyowLOfCA5mATuRnrMIE8y",
+              "stripePrix": 81.92,
               "stripeMode": "live",
               "stripeNom": "Pendentif opale dendritique",
               "stripeDesc": "Ce pendentif en opale dendritique est une pièce unique alliant beauté et mystère. L'opale dendritique est souvent associée à une énergie apaisante et à une connexion profonde avec les émotions, aidant à équilibrer les chakras du cœur et du troisième œil. Porté au quotidien, il est idéal pour ceux qui cherchent à renforcer leur intuition et à cultiver une sérénité intérieure.",
-              "stripePriceId": "price_1UFyovLOfCA5mATuFjCsABfs",
-              "stripePrix": 81.92,
-              "stripeLinkId": "plink_1UFyowLOfCA5mATuRnrMIE8y",
-              "stripe": "https://buy.stripe.com/9B6fZi1JEes50g87lD28a2Z",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-spinelle-rouge-mu2v3u3qqjih",
+              "nom": "Pendentif spinelle rouge",
+              "prix": 25.07,
+              "description": "Ce pendentif en spinelle rouge est une pierre aux reflets profonds et captivants, souvent associée à la vitalité et à la passion. En lithothérapie, elle est réputée pour renforcer la confiance en soi et stimuler l'énergie vitale, aidant à surmonter les doutes et à retrouver un équilibre émotionnel. Parfait pour une touche audacieuse et puissante, il peut être porté au quotidien pour s'inspirer de sa force intérieure.",
+              "photo": "images/articles/pendentif-spinelle-rouge-mu2v3u3qv6j4.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

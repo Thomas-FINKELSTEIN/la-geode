@@ -6585,7 +6585,17 @@
               "description": "Ce pendentif en opale dendrite est une pièce unique alliant beauté et énergie apaisante. Les motifs en forme d'arbres cristallisés symbolisent la croissance, la connexion à la nature et l'équilibre émotionnel. En lithothérapie, l'opale dendrite est souvent utilisée pour favoriser la sérénité, renforcer la confiance en soi et attirer la prospérité.",
               "photo": "images/articles/pendentif-opale-dendrite-mu2uzr94m81l.jpg",
               "prixBoutique": 92,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGVpqvbcV3qg6t",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif opale dendrite",
+              "stripeDesc": "Ce pendentif en opale dendrite est une pièce unique alliant beauté et énergie apaisante. Les motifs en forme d'arbres cristallisés symbolisent la croissance, la connexion à la nature et l'équilibre émotionnel. En lithothérapie, l'opale dendrite est souvent utilisée pour favoriser la sérénité, renforcer la confiance en soi et attirer la prospérité.",
+              "stripePriceId": "price_1UFyncLOfCA5mATuMUdSbiiI",
+              "stripePrix": 95.35,
+              "stripeLinkId": "plink_1UFyncLOfCA5mATujKREnPza",
+              "stripe": "https://buy.stripe.com/8x214obke4Rvd2UeO528a2Y",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

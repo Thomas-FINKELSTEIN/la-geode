@@ -6642,7 +6642,17 @@
               "description": "Ce pendentif en spinelle rouge est une pierre précieuse aux reflets profonds et lumineux, souvent associée à la vitalité et à la passion. En lithothérapie, elle est réputée pour renforcer l'énergie vitale, stimuler la confiance en soi et apporter une touche de dynamisme au quotidien. Parfait pour sublimer une tenue tout en bénéficiant de ses propriétés harmonisantes.",
               "photo": "images/articles/pendentif-spinelle-rouge-mu2v88ig9bue.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGVvKqgir6aFto",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif spinelle rouge",
+              "stripeDesc": "Ce pendentif en spinelle rouge est une pierre précieuse aux reflets profonds et lumineux, souvent associée à la vitalité et à la passion. En lithothérapie, elle est réputée pour renforcer l'énergie vitale, stimuler la confiance en soi et apporter une touche de dynamisme au quotidien. Parfait pour sublimer une tenue tout en bénéficiant de ses propriétés harmonisantes.",
+              "stripePriceId": "price_1UFytxLOfCA5mATuAcn0Cp9Y",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UFytyLOfCA5mATuCbmZ0KuJ",
+              "stripe": "https://buy.stripe.com/5kQbJ28824RvaUM35n28a31",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

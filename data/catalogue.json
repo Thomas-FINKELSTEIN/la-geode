@@ -6015,7 +6015,17 @@
               "description": "Ce pendentif en jaspe mariam est une pierre aux motifs en spirales captivants, souvent associée à la protection et à l'équilibre énergétique. En lithothérapie, elle est réputée pour renforcer la confiance en soi et favoriser la stabilité émotionnelle. Porté au quotidien, il peut aider à apaiser les tensions et à harmoniser les énergies.",
               "photo": "images/articles/pendentif-jaspe-mariam-mu2g5b039s4w.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGP7vhs8GXcuYU",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe mariam",
+              "stripeDesc": "Ce pendentif en jaspe mariam est une pierre aux motifs en spirales captivants, souvent associée à la protection et à l'équilibre énergétique. En lithothérapie, elle est réputée pour renforcer la confiance en soi et favoriser la stabilité émotionnelle. Porté au quotidien, il peut aider à apaiser les tensions et à harmoniser les énergies.",
+              "stripePriceId": "price_1UFsJMLOfCA5mATu2ywBj0nd",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UFsJMLOfCA5mATuzBFTwm5Q",
+              "stripe": "https://buy.stripe.com/7sY9AUbke97Lfb235n28a2t",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

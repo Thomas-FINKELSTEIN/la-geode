@@ -6186,7 +6186,17 @@
               "description": "Ce pendentif en améthyste, pierre aux reflets violets apaisants, est un allié précieux pour favoriser la sérénité et l'équilibre émotionnel. Traditionnellement utilisée en lithothérapie pour apaiser le mental et stimuler la clarté d'esprit, elle est idéale pour méditer ou porter au quotidien. Son énergie douce et protectrice en fait un compagnon parfait pour les moments de stress ou de remise en question.",
               "photo": "images/articles/pendentif-amethyste-4-cm-mu2okioh7nud.jpg",
               "prixBoutique": 29,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGSvvEUSox5Cc4",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif améthyste 4 cm",
+              "stripeDesc": "Ce pendentif en améthyste, pierre aux reflets violets apaisants, est un allié précieux pour favoriser la sérénité et l'équilibre émotionnel. Traditionnellement utilisée en lithothérapie pour apaiser le mental et stimuler la clarté d'esprit, elle est idéale pour méditer ou porter au quotidien. Son énergie douce et protectrice en fait un compagnon parfait pour les moments de stress ou de remise en question.",
+              "stripePriceId": "price_1UFvzaLOfCA5mATuAX2bYm7u",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UFvzaLOfCA5mATukcmxh30l",
+              "stripe": "https://buy.stripe.com/9B628s9c64Rv0g8cFX28a2D",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

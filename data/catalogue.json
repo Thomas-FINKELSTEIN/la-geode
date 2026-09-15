@@ -6566,7 +6566,17 @@
               "description": "Ce pendentif élégant associe la pureté et la clarté du cristal de roche à la puissance protectrice de la tourmaline noire. Idéal pour équilibrer les énergies et apaiser les émotions, il est souvent utilisé pour renforcer la confiance en soi et créer un bouclier contre les influences négatives. Parfait à porter au quotidien, il allie beauté naturelle et bien-être énergétique.",
               "photo": "images/articles/pendentif-cristal-de-roche-tourmaline-no-mu2uxbawkgz7.jpg",
               "prixBoutique": 60,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGVnnbmr65OJe8",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cristal de roche tourmaline noire",
+              "stripeDesc": "Ce pendentif élégant associe la pureté et la clarté du cristal de roche à la puissance protectrice de la tourmaline noire. Idéal pour équilibrer les énergies et apaiser les émotions, il est souvent utilisé pour renforcer la confiance en soi et créer un bouclier contre les influences négatives. Parfait à porter au quotidien, il allie beauté naturelle et bien-être énergétique.",
+              "stripePriceId": "price_1UFylkLOfCA5mATugi4OoGMd",
+              "stripePrix": 62.28,
+              "stripeLinkId": "plink_1UFyllLOfCA5mATuclOLEf8q",
+              "stripe": "https://buy.stripe.com/28E00kaga3Nr4wogWd28a2X",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -37,7 +37,17 @@
               "description": "Cette petite croix en oeil de tigre est un symbole puissant de protection et de connexion à la terre. L'oeil de tigre, pierre de courage et de confiance en soi, est souvent utilisé pour renforcer la détermination et apporter une énergie positive au quotidien. Parfait pour une utilisation en lithothérapie ou comme porte-bonheur discret, ce talisman peut être porté ou placé dans un espace de vie pour équilibrer les énergies.",
               "photo": "images/articles/petite-croix-en-oeil-de-tigre-mu2fcp5s5jmm.jpg",
               "prixBoutique": 2,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VGOlpcLRhpCINn",
+              "stripeMode": "live",
+              "stripeNom": "Petite Croix en oeil de tigre",
+              "stripeDesc": "Cette petite croix en oeil de tigre est un symbole puissant de protection et de connexion à la terre. L'oeil de tigre, pierre de courage et de confiance en soi, est souvent utilisé pour renforcer la détermination et apporter une énergie positive au quotidien. Parfait pour une utilisation en lithothérapie ou comme porte-bonheur discret, ce talisman peut être porté ou placé dans un espace de vie pour équilibrer les énergies.",
+              "stripePriceId": "price_1UFrxsLOfCA5mATuENcQKeLa",
+              "stripePrix": 2.33,
+              "stripeLinkId": "plink_1UFrxsLOfCA5mATu6sEaCs85",
+              "stripe": "https://buy.stripe.com/7sYfZi9c62Jngf68pH28a2q",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

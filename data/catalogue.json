@@ -6396,16 +6396,25 @@
               "photo": "images/articles/pendentif-rubis-sur-cyanite-mu2qvq5zw2j1.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY28sewqfw95AsaxP28a2O",
               "stripeProductId": "prod_VGTyPnveFGqVCY",
+              "stripePriceId": "price_1UFx0FLOfCA5mATuEUqHAo2I",
+              "stripeLinkId": "plink_1UFx0FLOfCA5mATuSwyNC3GN",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif rubis sur cyanite",
               "stripeDesc": "Ce pendentif allie la puissance énergétique du rubis et la sérénité de la cyanite pour un équilibre parfait. Le rubis, pierre de passion et de vitalité, stimule la confiance en soi et renforce l'énergie vitale, tandis que la cyanite, connue pour son influence apaisante, favorise la clarté mentale et la concentration. Parfait pour porter au quotidien, ce bijou en pierres naturelles apporte harmonie et dynamisme à votre quotidien.",
-              "stripePriceId": "price_1UFx0FLOfCA5mATuEUqHAo2I",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UFx0FLOfCA5mATuSwyNC3GN",
-              "stripe": "https://buy.stripe.com/7sY28sewqfw95AsaxP28a2O",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-malachite-6-cm-mu2rors5goze",
+              "nom": "Pendentif malachite 6 cm",
+              "prix": 201.81,
+              "description": "Ce pendentif en malachite est une pièce naturelle aux reflets verts profonds et aux motifs organiques uniques. La malachite est souvent associée à la protection, à l'équilibre émotionnel et à la stimulation de la créativité. Porté en bijou, il est idéal pour apporter une touche de bien-être au quotidien et renforcer la connexion à l'énergie vitale. La malachite est aussi bénéfique pour le mal de dos , les articulations, les tendons et les muscles.",
+              "photo": "images/articles/pendentif-malachite-6-cm-mu2rors54yok.jpg",
+              "prixBoutique": 195,
+              "stock": 1
             }
           ]
         },

@@ -11203,16 +11203,25 @@
               "photo": "images/articles/porte-cle-lapis-lazuli-mu2c96h10qoz.jpg",
               "prixBoutique": 8.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00w4gA2NIcjX6Ew21j28a2d",
               "stripeProductId": "prod_VGNMyxYNarMhRh",
+              "stripePriceId": "price_1UFqbvLOfCA5mATurxqLitYD",
+              "stripeLinkId": "plink_1UFqbvLOfCA5mATuzhJDq3Mp",
+              "stripePrix": 9.05,
               "stripeMode": "live",
               "stripeNom": "Porte clé lapis lazuli",
               "stripeDesc": "Ce porte clé en lapis lazuli est un accessoire à la fois élégant et porteur de symboles puissants. Le lapis lazuli, pierre de sagesse et de protection, est traditionnellement utilisé pour favoriser la communication, la clarté mentale et l'équilibre émotionnel. Son bleu profond inspire la sérénité et peut aider à apaiser les tensions du quotidien, tout en renforçant la confiance en soi.",
-              "stripePriceId": "price_1UFqbvLOfCA5mATurxqLitYD",
-              "stripePrix": 9.05,
-              "stripeLinkId": "plink_1UFqbvLOfCA5mATuzhJDq3Mp",
-              "stripe": "https://buy.stripe.com/00w4gA2NIcjX6Ew21j28a2d",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "porte-cles-citrine-namaste-mu2cbg5afzay",
+              "nom": "Porte - clés citrine namasté",
+              "prix": 3.88,
+              "description": "Ce porte-clés en forme de pendentif représente un symbole de paix et d'harmonie, inspiré du geste Namasté. La citrine, pierre de lumière et d'énergie positive, est traditionnellement associée à l'abondance, à la joie et à la purification des émotions. Idéal pour porter au quotidien, il attire la bonne fortune et renforce la confiance en soi tout en restant discret et élégant.",
+              "photo": "images/articles/porte-cles-citrine-namaste-mu2cbg5af796.jpg",
+              "prixBoutique": 3.5,
+              "stock": 2
             }
           ]
         }

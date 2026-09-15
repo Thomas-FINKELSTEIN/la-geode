@@ -6282,16 +6282,25 @@
               "photo": "images/articles/pendentif-fluorite-multicolore-mu2p28t5tmcj.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa28s882fw9d2U5dv28a2I",
               "stripeProductId": "prod_VGT9Qr70YRv0nf",
+              "stripePriceId": "price_1UFwCvLOfCA5mATumKy9JWxC",
+              "stripeLinkId": "plink_1UFwCwLOfCA5mATuG3hAdg7I",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif fluorite multicolore",
               "stripeDesc": "Ce pendentif en fluorite multicolore est une pièce unique alliant beauté et énergie positive. La fluorite, pierre de la clarté mentale, est réputée pour stimuler la concentration, équilibrer les émotions et renforcer la communication. Parfaite pour être portée au quotidien, elle attire aussi chance et harmonie dans votre environnement.",
-              "stripePriceId": "price_1UFwCvLOfCA5mATumKy9JWxC",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UFwCwLOfCA5mATuG3hAdg7I",
-              "stripe": "https://buy.stripe.com/aFa28s882fw9d2U5dv28a2I",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-en-cristal-de-roche-tourmaline-mu2p4jm1yp8t",
+              "nom": "Pendentif en cristal de roche tourmaline",
+              "prix": 21.97,
+              "description": "Ce pendentif en cristal de roche tourmaline allie pureté et énergie apaisante. Le cristal de roche amplifie les intentions et favorise la clarté mentale, tandis que la tourmaline équilibre les émotions et protège contre les énergies négatives. Parfait pour une utilisation quotidienne, il peut être porté comme talisman pour renforcer la concentration et apporter sérénité au quotidien.",
+              "photo": "images/articles/pendentif-en-cristal-de-roche-tourmaline-mu2p4jm1bp3s.jpg",
+              "prixBoutique": 21,
+              "stock": 1
             }
           ]
         },

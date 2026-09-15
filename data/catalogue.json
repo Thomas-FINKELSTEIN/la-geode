@@ -6434,14 +6434,14 @@
               "photo": "images/articles/pendentif-kunzite-mu2rqbi4jotl.jpg",
               "prixBoutique": 80,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/28E28s8823Nrfb235n28a2Q",
               "stripeProductId": "prod_VGULQB9TnZgAlW",
+              "stripePriceId": "price_1UFxNCLOfCA5mATucJSRdn4P",
+              "stripeLinkId": "plink_1UFxNDLOfCA5mATu1nvFsRNM",
+              "stripePrix": 82.95,
               "stripeMode": "live",
               "stripeNom": "Pendentif kunzite",
               "stripeDesc": "Le kunzite est une pierre précieuse douce et apaisante, souvent appelée pierre de douceur et de compassion. En lithothérapie, elle est utilisée pour favoriser la guérison émotionnelle, apaiser les tensions et renforcer la confiance en soi. Son énergie délicate en fait un allié idéal pour ceux qui cherchent à retrouver un équilibre intérieur et une paix profonde.",
-              "stripePriceId": "price_1UFxNCLOfCA5mATucJSRdn4P",
-              "stripePrix": 82.95,
-              "stripeLinkId": "plink_1UFxNDLOfCA5mATu1nvFsRNM",
-              "stripe": "https://buy.stripe.com/28E28s8823Nrfb235n28a2Q",
               "stripeStock": 1,
               "epuise": false
             }

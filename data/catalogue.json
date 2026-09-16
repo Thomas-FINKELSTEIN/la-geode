@@ -7080,16 +7080,34 @@
               "photo": "images/articles/pendentif-quartz-rutile-mu3vd72kqqr9.jpg",
               "prixBoutique": 29,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNibJ24VQ97Le6Y8pH28a3p",
               "stripeProductId": "prod_VGmFg4x8056y6j",
+              "stripePriceId": "price_1UGEh0LOfCA5mATulaB2Zqgt",
+              "stripeLinkId": "plink_1UGEh0LOfCA5mATu8VUsGQ2W",
+              "stripePrix": 30.24,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz rutile",
               "stripeDesc": "Ce pendentif en quartz rutile est un allié puissant pour dynamiser votre énergie et renforcer votre vitalité. Cette pierre, souvent appelée pierre de l'abondance, est idéale pour stimuler la motivation et clarifier les objectifs. Porté au quotidien, il aide à équilibrer les émotions et à renforcer la confiance en soi.",
-              "stripePriceId": "price_1UGEh0LOfCA5mATulaB2Zqgt",
-              "stripePrix": 30.24,
-              "stripeLinkId": "plink_1UGEh0LOfCA5mATu8VUsGQ2W",
-              "stripe": "https://buy.stripe.com/cNibJ24VQ97Le6Y8pH28a3p",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-quartz-hematoide-mu3vf2phb905",
+              "nom": "Pendentif quartz hématoide",
+              "prix": 30.24,
+              "description": "Ce pendentif en quartz hématoide est une pierre aux reflets doux et aux éclats rougeâtres qui captent immédiatement l'attention. En lithothérapie, elle est souvent associée à la vitalité et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'énergie vitale. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur bien-être physique et mental.",
+              "photo": "images/articles/pendentif-quartz-hematoide-mu3vf2ph2ht3.jpg",
+              "prixBoutique": 29,
+              "stock": 1
+            },
+            {
+              "id": "pendentif-chysoprase-mu3vh6ktkrgc",
+              "nom": "Pendentif chysoprase",
+              "prix": 25.07,
+              "description": "Ce pendentif en chysoprase est une pierre aux teintes douces et apaisantes, souvent associée à la croissance spirituelle et à l'harmonie émotionnelle. En lithothérapie, elle est réputée pour favoriser la confiance en soi et apaiser les tensions du quotidien. Parfaite pour porter au quotidien, elle est idéale pour ceux qui cherchent à équilibrer leur énergie et à cultiver une attitude positive.",
+              "photo": "images/articles/pendentif-chysoprase-mu3vh6ktg82e.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

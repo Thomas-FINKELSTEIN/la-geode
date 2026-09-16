@@ -7308,16 +7308,25 @@
               "photo": "images/articles/pendentif-rhodocrosite-mu3wxq38dcsm.jpg",
               "prixBoutique": 68,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B66oI882fw98ME0Xf28a3B",
               "stripeProductId": "prod_VGmxRtK4HaU10q",
+              "stripePriceId": "price_1UGFNXLOfCA5mATuPQx1hqpY",
+              "stripeLinkId": "plink_1UGFNYLOfCA5mATukwvgJOsj",
+              "stripePrix": 70.55,
               "stripeMode": "live",
               "stripeNom": "Pendentif rhodocrosite",
               "stripeDesc": "Ce pendentif en rhodocrosite est une pièce raffinée qui allie beauté et douceur. Cette pierre, souvent appelée pierre du cœur, est réputée pour apaiser les émotions, favoriser l’amour et renforcer la compassion. Elle est idéale pour ceux qui cherchent à équilibrer leurs sentiments et à cultiver des relations harmonieuses.",
-              "stripePriceId": "price_1UGFNXLOfCA5mATuPQx1hqpY",
-              "stripePrix": 70.55,
-              "stripeLinkId": "plink_1UGFNYLOfCA5mATukwvgJOsj",
-              "stripe": "https://buy.stripe.com/9B66oI882fw98ME0Xf28a3B",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-rhodocrosite-mu3wzhf6b71t",
+              "nom": "Pendentif rhodocrosite",
+              "prix": 70.55,
+              "description": "Ce pendentif en rhodocrosite est une pièce délicate et élégante, mettant en valeur les doux tons roses et les motifs uniques de cette pierre naturelle. La rhodocrosite est souvent associée à l'harmonie émotionnelle, aidant à apaiser le cœur et à renforcer la confiance en soi. Portée au quotidien, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à cultiver un sentiment de sérénité.",
+              "photo": "images/articles/pendentif-rhodocrosite-mu3wzhf6wbet.jpg",
+              "prixBoutique": 68,
+              "stock": 1
             }
           ]
         },

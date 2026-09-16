@@ -6776,16 +6776,25 @@
               "photo": "images/articles/pendentif-cristal-de-roche-brute-mu3sj4dtt2ug.jpg",
               "prixBoutique": 17,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6fZiagaes52ogcFX28a39",
               "stripeProductId": "prod_VGkyd4tsJcdKMa",
+              "stripePriceId": "price_1UGDS7LOfCA5mATuSpwHBq4R",
+              "stripeLinkId": "plink_1UGDS8LOfCA5mATuDGxnEiRH",
+              "stripePrix": 17.83,
               "stripeMode": "live",
               "stripeNom": "Pendentif cristal de roche brute",
               "stripeDesc": "Ce pendentif en cristal de roche brute est une pièce naturelle et pure, aux reflets translucides et aux facettes irrégulières qui captent la lumière. En lithothérapie, le cristal de roche est souvent associé à l’amplification des énergies positives, à la clarté mentale et à l’harmonisation des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur connexion à l’énergie universelle tout en apportant une touche minérale et authentique à leur style.",
-              "stripePriceId": "price_1UGDS7LOfCA5mATuSpwHBq4R",
-              "stripePrix": 17.83,
-              "stripeLinkId": "plink_1UGDS8LOfCA5mATuDGxnEiRH",
-              "stripe": "https://buy.stripe.com/9B6fZiagaes52ogcFX28a39",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cristal-de-roche-mu3sl9ufvde6",
+              "nom": "Pendentif cristal de roche",
+              "prix": 21.97,
+              "description": "Ce pendentif en cristal de roche est une pièce lumineuse et pure, idéale pour apporter clarté et sérénité dans votre quotidien. Selon la lithothérapie, cette pierre est souvent associée à l’harmonisation des énergies et à l’amélioration de la concentration. Parfaite pour être portée près du cœur ou du troisième œil, elle est aussi utilisée pour purifier les espaces et renforcer la connexion à son intuition.",
+              "photo": "images/articles/pendentif-cristal-de-roche-mu3sl9ufzc4w.jpg",
+              "prixBoutique": 21,
+              "stock": 2
             }
           ]
         },

@@ -6833,16 +6833,25 @@
               "photo": "images/articles/pendentif-quartz-rutile-mu3svq5yhac0.jpg",
               "prixBoutique": 24.95,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa4gA2NIbfT7IA0Xf28a3c",
               "stripeProductId": "prod_VGl7rRsY4g4fm5",
+              "stripePriceId": "price_1UGDbfLOfCA5mATuE1kXOboD",
+              "stripeLinkId": "plink_1UGDbfLOfCA5mATuwFIp5CY5",
+              "stripePrix": 26.05,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz rutile",
               "stripeDesc": "Ce pendentif en quartz rutile est une pièce raffinée qui capte immédiatement l'attention grâce à ses reflets dorés et ses inclusions lumineuses. En lithothérapie, le quartz rutile est souvent associé à une énergie dynamique et revitalisante, aidant à stimuler la motivation et à renforcer la vitalité. Porté au quotidien, il est idéal pour ceux qui cherchent à retrouver un équilibre énergétique et une clarté mentale accrue.",
-              "stripePriceId": "price_1UGDbfLOfCA5mATuE1kXOboD",
-              "stripePrix": 26.05,
-              "stripeLinkId": "plink_1UGDbfLOfCA5mATuwFIp5CY5",
-              "stripe": "https://buy.stripe.com/aFa4gA2NIbfT7IA0Xf28a3c",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-quartz-mica-mu3sx2ujfr0a",
+              "nom": "Pendentif quartz mica",
+              "prix": 28.17,
+              "description": "Ce pendentif en quartz mica est une pierre aux reflets dorés et scintillants, idéale pour apporter lumière et énergie positive dans votre quotidien. En lithothérapie, il est souvent utilisé pour stimuler la vitalité, renforcer la confiance en soi et équilibrer les émotions. Parfait à porter au quotidien, il se charge d'intentions positives et peut être un allié précieux pour illuminer votre journée.",
+              "photo": "images/articles/pendentif-quartz-mica-mu3sx2ujs4j5.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         },

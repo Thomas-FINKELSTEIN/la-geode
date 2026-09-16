@@ -6908,7 +6908,17 @@
               "description": "Ce pendentif en cornaline est une pierre précieuse aux reflets chauds et apaisants, souvent associée à l'énergie vitale et à la joie. En lithothérapie, elle est réputée pour renforcer la confiance en soi et stimuler les émotions positives. Parfaite pour un port quotidien, elle apporte une touche de douceur et de dynamisme à votre quotidien.",
               "photo": "images/articles/pendentif-cornaline-6-cm-mu3upfz97u8j.jpg",
               "prixBoutique": 21,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGlxNz42WVA420",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cornaline 6 cm",
+              "stripeDesc": "Ce pendentif en cornaline est une pierre précieuse aux reflets chauds et apaisants, souvent associée à l'énergie vitale et à la joie. En lithothérapie, elle est réputée pour renforcer la confiance en soi et stimuler les émotions positives. Parfaite pour un port quotidien, elle apporte une touche de douceur et de dynamisme à votre quotidien.",
+              "stripePriceId": "price_1UGEP7LOfCA5mATu0wtpnizR",
+              "stripePrix": 21.97,
+              "stripeLinkId": "plink_1UGEP8LOfCA5mATuNN6VYkz1",
+              "stripe": "https://buy.stripe.com/28E28s3RMabP3skeO528a3g",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

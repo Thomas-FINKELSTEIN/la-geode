@@ -7193,7 +7193,17 @@
               "description": "Ce pendentif en bronzite est une pierre minérale aux reflets dorés et aux motifs uniques, souvent appelée pierre de protection et de force intérieure. En lithothérapie, elle est réputée pour renforcer la détermination, apporter de la stabilité émotionnelle et aider à surmonter les défis avec courage. Son énergie apaisante en fait un allié précieux pour ceux qui cherchent à retrouver un équilibre mental et physique au quotidien.",
               "photo": "images/articles/pendentif-bronzite-mu3vmc0ck971.jpg",
               "prixBoutique": 34,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGmMHFdH6zBXcM",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif bronzite",
+              "stripeDesc": "Ce pendentif en bronzite est une pierre minérale aux reflets dorés et aux motifs uniques, souvent appelée pierre de protection et de force intérieure. En lithothérapie, elle est réputée pour renforcer la détermination, apporter de la stabilité émotionnelle et aider à surmonter les défis avec courage. Son énergie apaisante en fait un allié précieux pour ceux qui cherchent à retrouver un équilibre mental et physique au quotidien.",
+              "stripePriceId": "price_1UGEnsLOfCA5mATuFqX2qQ7R",
+              "stripePrix": 35.41,
+              "stripeLinkId": "plink_1UGEntLOfCA5mATuDTaBzMtW",
+              "stripe": "https://buy.stripe.com/fZudRa9c62JnbYQaxP28a3v",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

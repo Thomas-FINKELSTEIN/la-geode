@@ -7004,16 +7004,25 @@
               "photo": "images/articles/pendentif-chyastolite-3-cm-mu3uyil1var5.jpg",
               "prixBoutique": 32,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ8wQ73Yes55As6hz28a3l",
               "stripeProductId": "prod_VGm45YBBQxBKGK",
+              "stripePriceId": "price_1UGEVzLOfCA5mATu4u7jxNHo",
+              "stripeLinkId": "plink_1UGEVzLOfCA5mATua5RSpVOT",
+              "stripePrix": 33.34,
               "stripeMode": "live",
               "stripeNom": "Pendentif chyastolite 3 cm",
               "stripeDesc": "Le pendentif en chyastolite est une pierre fascinante aux reflets dorés et motifs uniques en forme de croix, souvent appelée pierre de l'abondance. En lithothérapie, elle est réputée pour apporter équilibre émotionnel, harmonie et protection contre les énergies négatives. Porté au quotidien, il favoriserait la concentration et renforcerait la confiance en soi.",
-              "stripePriceId": "price_1UGEVzLOfCA5mATu4u7jxNHo",
-              "stripePrix": 33.34,
-              "stripeLinkId": "plink_1UGEVzLOfCA5mATua5RSpVOT",
-              "stripe": "https://buy.stripe.com/5kQ8wQ73Yes55As6hz28a3l",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-pierre-de-lune-cerclee-3-cm-mu3v21zooagb",
+              "nom": "Pendentif pierre de lune cerclée 3 cm",
+              "prix": 81.92,
+              "description": "Ce pendentif en pierre de lune cerclée est un accessoire élégant et apaisant, idéal pour apporter sérénité et harmonie au quotidien. En lithothérapie, la pierre de lune est souvent associée à l’équilibre des émotions, à la douceur et à la connexion avec les cycles naturels, notamment féminins. Portée près du cœur ou du poignet, elle est réputée pour favoriser la paix intérieure et renforcer la confiance en soi.",
+              "photo": "images/articles/pendentif-pierre-de-lune-cerclee-3-cm-mu3v21zollsk.jpg",
+              "prixBoutique": 79,
+              "stock": 1
             }
           ]
         },

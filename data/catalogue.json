@@ -6794,7 +6794,17 @@
               "description": "Ce pendentif en cristal de roche est une pièce lumineuse et pure, idéale pour apporter clarté et sérénité dans votre quotidien. Selon la lithothérapie, cette pierre est souvent associée à l’harmonisation des énergies et à l’amélioration de la concentration. Parfaite pour être portée près du cœur ou du troisième œil, elle est aussi utilisée pour purifier les espaces et renforcer la connexion à son intuition.",
               "photo": "images/articles/pendentif-cristal-de-roche-mu3sl9ufzc4w.jpg",
               "prixBoutique": 21,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VGkz0rqsznDcA6",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cristal de roche",
+              "stripeDesc": "Ce pendentif en cristal de roche est une pièce lumineuse et pure, idéale pour apporter clarté et sérénité dans votre quotidien. Selon la lithothérapie, cette pierre est souvent associée à l’harmonisation des énergies et à l’amélioration de la concentration. Parfaite pour être portée près du cœur ou du troisième œil, elle est aussi utilisée pour purifier les espaces et renforcer la connexion à son intuition.",
+              "stripePriceId": "price_1UGDTnLOfCA5mATutW7rlWjO",
+              "stripePrix": 21.97,
+              "stripeLinkId": "plink_1UGDTnLOfCA5mATuvOO1o247",
+              "stripe": "https://buy.stripe.com/aFa00k2NI2Jn3skeO528a3a",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

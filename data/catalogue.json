@@ -7079,7 +7079,17 @@
               "description": "Ce pendentif en quartz rutile est un allié puissant pour dynamiser votre énergie et renforcer votre vitalité. Cette pierre, souvent appelée pierre de l'abondance, est idéale pour stimuler la motivation et clarifier les objectifs. Porté au quotidien, il aide à équilibrer les émotions et à renforcer la confiance en soi.",
               "photo": "images/articles/pendentif-quartz-rutile-mu3vd72kqqr9.jpg",
               "prixBoutique": 29,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGmFg4x8056y6j",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz rutile",
+              "stripeDesc": "Ce pendentif en quartz rutile est un allié puissant pour dynamiser votre énergie et renforcer votre vitalité. Cette pierre, souvent appelée pierre de l'abondance, est idéale pour stimuler la motivation et clarifier les objectifs. Porté au quotidien, il aide à équilibrer les émotions et à renforcer la confiance en soi.",
+              "stripePriceId": "price_1UGEh0LOfCA5mATulaB2Zqgt",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UGEh0LOfCA5mATu8VUsGQ2W",
+              "stripe": "https://buy.stripe.com/cNibJ24VQ97Le6Y8pH28a3p",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

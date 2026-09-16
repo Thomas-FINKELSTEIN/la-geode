@@ -7403,16 +7403,25 @@
               "photo": "images/articles/pendentif-pinolite-mu486vivueyn.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/14A28sagafw95As5dv28a3G",
               "stripeProductId": "prod_VGs2a0viX8xGVS",
+              "stripePriceId": "price_1UGKITLOfCA5mATuGusa7cyb",
+              "stripeLinkId": "plink_1UGKITLOfCA5mATuDmV0rhfU",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif pinolite",
               "stripeDesc": "Ce pendentif en pendolithe est une pierre naturelle aux motifs uniques et élégants, mêlant des nuances de gris et de blanc. En lithothérapie, elle est souvent associée à la purification des énergies et à l’apaisement des émotions, aidant à retrouver un équilibre intérieur. Parfaite pour une touche originale et spirituelle, elle peut être portée au quotidien pour favoriser la sérénité et la connexion à soi-même.",
-              "stripePriceId": "price_1UGKITLOfCA5mATuGusa7cyb",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UGKITLOfCA5mATuDmV0rhfU",
-              "stripe": "https://buy.stripe.com/14A28sagafw95As5dv28a3G",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-pinolite-mu48zm26f55c",
+              "nom": "Pendentif pinolite",
+              "prix": 28.17,
+              "description": "Ce pendentif en pendolithe est une pierre naturelle aux reflets nacrés et aux motifs uniques, souvent appelée pierre de la transformation. En lithothérapie, elle est réputée pour apporter équilibre et sérénité, aidant à apaiser les émotions et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à favoriser un état de calme intérieur.",
+              "photo": "images/articles/pendentif-pinolite-mu48zm269vmg.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         },

@@ -6795,16 +6795,25 @@
               "photo": "images/articles/pendentif-cristal-de-roche-mu3sl9ufzc4w.jpg",
               "prixBoutique": 21,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/aFa00k2NI2Jn3skeO528a3a",
               "stripeProductId": "prod_VGkz0rqsznDcA6",
+              "stripePriceId": "price_1UGDTnLOfCA5mATutW7rlWjO",
+              "stripeLinkId": "plink_1UGDTnLOfCA5mATuvOO1o247",
+              "stripePrix": 21.97,
               "stripeMode": "live",
               "stripeNom": "Pendentif cristal de roche",
               "stripeDesc": "Ce pendentif en cristal de roche est une pièce lumineuse et pure, idéale pour apporter clarté et sérénité dans votre quotidien. Selon la lithothérapie, cette pierre est souvent associée à l’harmonisation des énergies et à l’amélioration de la concentration. Parfaite pour être portée près du cœur ou du troisième œil, elle est aussi utilisée pour purifier les espaces et renforcer la connexion à son intuition.",
-              "stripePriceId": "price_1UGDTnLOfCA5mATutW7rlWjO",
-              "stripePrix": 21.97,
-              "stripeLinkId": "plink_1UGDTnLOfCA5mATuvOO1o247",
-              "stripe": "https://buy.stripe.com/aFa00k2NI2Jn3skeO528a3a",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cristal-de-roche-extra-mu3st6v4uhhj",
+              "nom": "Pendentif cristal de roche extra",
+              "prix": 18.87,
+              "description": "Ce pendentif en cristal de roche extra est une pièce lumineuse et pure, idéale pour apporter clarté et équilibre dans votre quotidien. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les énergies positives, favoriser la concentration et renforcer la connexion à son intuition. Parfait pour être porté au quotidien, il agit comme un catalyseur de bien-être et d’harmonie.",
+              "photo": "images/articles/pendentif-cristal-de-roche-extra-mu3st6v4m67z.jpg",
+              "prixBoutique": 18,
+              "stock": 1
             }
           ]
         },

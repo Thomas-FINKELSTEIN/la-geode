@@ -7175,16 +7175,25 @@
               "photo": "images/articles/pendentif-rhodonite-mu3vkzbnxv9l.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu4gAgEy6ZD7IA7lD28a3u",
               "stripeProductId": "prod_VGmLKCfzOTYoLK",
+              "stripePriceId": "price_1UGEmuLOfCA5mATuDljJsmVi",
+              "stripeLinkId": "plink_1UGEmuLOfCA5mATucu6yP2Ij",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif rhodonite",
               "stripeDesc": "La rhodonite est une pierre aux reflets roses et noirs qui symbolise l'harmonie et la compassion. En lithothérapie, elle est souvent utilisée pour apaiser les émotions et favoriser la guérison du cœur, tout en renforçant la confiance en soi. Ce pendentif en rhodonite est idéal pour porter au quotidien et bénéficier de ses vertus équilibrantes.",
-              "stripePriceId": "price_1UGEmuLOfCA5mATuDljJsmVi",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UGEmuLOfCA5mATucu6yP2Ij",
-              "stripe": "https://buy.stripe.com/fZu4gAgEy6ZD7IA7lD28a3u",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-bronzite-mu3vmc0cnuf9",
+              "nom": "Pendentif bronzite",
+              "prix": 35.41,
+              "description": "Ce pendentif en bronzite est une pierre minérale aux reflets dorés et aux motifs uniques, souvent appelée pierre de protection et de force intérieure. En lithothérapie, elle est réputée pour renforcer la détermination, apporter de la stabilité émotionnelle et aider à surmonter les défis avec courage. Son énergie apaisante en fait un allié précieux pour ceux qui cherchent à retrouver un équilibre mental et physique au quotidien.",
+              "photo": "images/articles/pendentif-bronzite-mu3vmc0ck971.jpg",
+              "prixBoutique": 34,
+              "stock": 1
             }
           ]
         },

@@ -7041,7 +7041,17 @@
               "description": "Ce pendentif en pierre de lune est une pièce élégante et apaisante, souvent utilisée pour favoriser la sérénité et l’équilibre émotionnel. Selon la lithothérapie, cette pierre douce et lumineuse est réputée pour apaiser les tensions et renforcer la connexion à ses émotions, tout en apportant une énergie calme et intuitive. Idéale pour porter au quotidien, elle est aussi appréciée pour ses vertus apaisantes avant le coucher ou lors de moments de stress.",
               "photo": "images/articles/pendentif-pierre-de-lune-mu3v5l0no4uf.jpg",
               "prixBoutique": 46,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGm9EN0a0lrrSA",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif pierre de lune",
+              "stripeDesc": "Ce pendentif en pierre de lune est une pièce élégante et apaisante, souvent utilisée pour favoriser la sérénité et l’équilibre émotionnel. Selon la lithothérapie, cette pierre douce et lumineuse est réputée pour apaiser les tensions et renforcer la connexion à ses émotions, tout en apportant une énergie calme et intuitive. Idéale pour porter au quotidien, elle est aussi appréciée pour ses vertus apaisantes avant le coucher ou lors de moments de stress.",
+              "stripePriceId": "price_1UGEb9LOfCA5mATuEmZwgCsn",
+              "stripePrix": 47.81,
+              "stripeLinkId": "plink_1UGEb9LOfCA5mATuJYNt4fmW",
+              "stripe": "https://buy.stripe.com/28E3cw73Yes59QI0Xf28a3n",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

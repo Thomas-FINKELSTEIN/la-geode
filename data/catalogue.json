@@ -6984,7 +6984,17 @@
               "description": "Ce pendentif en chyastolite, aussi appelée pierre de l'abondance, est un minéral aux reflets dorés et aux motifs en forme de croix. Très prisée en lithothérapie, elle est souvent utilisée pour harmoniser les énergies et favoriser la clarté mentale. Porté au quotidien, il est censé apporter équilibre émotionnel et renforcer la confiance en soi.",
               "photo": "images/articles/pendentif-chyastolite-4-cm-mu3uvyodryet.jpg",
               "prixBoutique": 32,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGm2slx7oWPGkB",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif chyastolite 4 cm",
+              "stripeDesc": "Ce pendentif en chyastolite, aussi appelée pierre de l'abondance, est un minéral aux reflets dorés et aux motifs en forme de croix. Très prisée en lithothérapie, elle est souvent utilisée pour harmoniser les énergies et favoriser la clarté mentale. Porté au quotidien, il est censé apporter équilibre émotionnel et renforcer la confiance en soi.",
+              "stripePriceId": "price_1UGEU0LOfCA5mATuoTgMiQH4",
+              "stripePrix": 33.34,
+              "stripeLinkId": "plink_1UGEU1LOfCA5mATu5zNZKUkh",
+              "stripe": "https://buy.stripe.com/7sY28sgEyabPaUM8pH28a3k",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

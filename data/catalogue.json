@@ -7155,7 +7155,17 @@
               "description": "Ce pendentif en opale de feu est une pierre aux reflets envoûtants, mêlant des teintes chaudes et profondes qui captivent immédiatement. En lithothérapie, l'opale de feu est souvent associée à une énergie créative et passionnée, aidant à stimuler la confiance en soi et à renforcer la motivation. Portée près du cœur, elle est aussi réputée pour apaiser les émotions et favoriser une connexion harmonieuse avec ses aspirations les plus intimes.",
               "photo": "images/articles/pendentif-opale-de-feu-mu3vjqytfa2a.jpg",
               "prixBoutique": 47,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGmKPx7OKfTKiY",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif opale de feu",
+              "stripeDesc": "Ce pendentif en opale de feu est une pierre aux reflets envoûtants, mêlant des teintes chaudes et profondes qui captivent immédiatement. En lithothérapie, l'opale de feu est souvent associée à une énergie créative et passionnée, aidant à stimuler la confiance en soi et à renforcer la motivation. Portée près du cœur, elle est aussi réputée pour apaiser les émotions et favoriser une connexion harmonieuse avec ses aspirations les plus intimes.",
+              "stripePriceId": "price_1UGElyLOfCA5mATu1ZHFRgxw",
+              "stripePrix": 48.84,
+              "stripeLinkId": "plink_1UGElzLOfCA5mATuiGYGZFyX",
+              "stripe": "https://buy.stripe.com/14A7sM9c65Vz1kc5dv28a3t",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

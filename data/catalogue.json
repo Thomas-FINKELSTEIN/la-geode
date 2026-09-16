@@ -6738,16 +6738,25 @@
               "photo": "images/articles/pendentif-jaspe-k2-mu2w1qy5f0yo.jpg",
               "prixBoutique": 36,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq14obke1Fj5AseO528a37",
               "stripeProductId": "prod_VGWIXV4jzFQAAn",
+              "stripePriceId": "price_1UFzGCLOfCA5mATuvi9UUMCO",
+              "stripeLinkId": "plink_1UFzGCLOfCA5mATu5uWHlhws",
+              "stripePrix": 37.47,
               "stripeMode": "live",
               "stripeNom": "Pendentif jaspe k2",
               "stripeDesc": "Ce penditif en jaspe K2 est une pierre aux reflets doux et aux inclusions bleutées qui lui donnent une touche unique. En lithothérapie, le jaspe est souvent associé à la stabilité émotionnelle, à la protection et à l’ancrage dans le quotidien. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur énergie et leur confiance en soi.",
-              "stripePriceId": "price_1UFzGCLOfCA5mATuvi9UUMCO",
-              "stripePrix": 37.47,
-              "stripeLinkId": "plink_1UFzGCLOfCA5mATu5uWHlhws",
-              "stripe": "https://buy.stripe.com/eVq14obke1Fj5AseO528a37",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-ametrine-3-cm-mu3shj1kereu",
+              "nom": "Pendentif amétrine 3 cm",
+              "prix": 46.26,
+              "description": "Ce pendentif en amétrine capture la beauté unique de cette pierre rare, alliant les énergies apaisantes du quartz améthyste et la vitalité du citrine. Porté en bijou, il est idéal pour harmoniser les émotions, favoriser la concentration et équilibrer les énergies du corps et de l’esprit. Parfait pour une touche de douceur et de lumière au quotidien, il s’intègre aussi bien dans une tenue élégante que dans une pratique de méditation ou de lithothérapie.",
+              "photo": "images/articles/pendentif-ametrine-3-cm-mu3shj1kiopj.jpg",
+              "prixBoutique": 44.5,
+              "stock": 1
             }
           ]
         },

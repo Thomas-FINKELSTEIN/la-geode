@@ -7213,16 +7213,25 @@
               "photo": "images/articles/pendentif-bronzite-mu3vnvzfxom1.jpg",
               "prixBoutique": 34,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq9AU8821Fj9QI35n28a3w",
               "stripeProductId": "prod_VGmNhV5ukRkw3A",
+              "stripePriceId": "price_1UGEp0LOfCA5mATur9e5VS0M",
+              "stripeLinkId": "plink_1UGEp0LOfCA5mATu3f7eYORX",
+              "stripePrix": 35.41,
               "stripeMode": "live",
               "stripeNom": "Pendentif bronzite",
               "stripeDesc": "Ce pendentif en bronzite est une pierre aux reflets dorés et irisés, souvent appelée pierre de protection et de stabilité. En lithothérapie, elle est réputée pour renforcer la confiance en soi, apaiser les émotions et favoriser un ancrage dans le quotidien. Portée près du cœur ou du troisième œil, elle aide à harmoniser les énergies et à retrouver un équilibre intérieur.",
-              "stripePriceId": "price_1UGEp0LOfCA5mATur9e5VS0M",
-              "stripePrix": 35.41,
-              "stripeLinkId": "plink_1UGEp0LOfCA5mATu3f7eYORX",
-              "stripe": "https://buy.stripe.com/eVq9AU8821Fj9QI35n28a3w",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-rhodocrosite-mu3wppj77czp",
+              "nom": "Pendentif rhodocrosite",
+              "prix": 56.08,
+              "description": "Le pendentif en rhodocrosite est une pierre aux teintes douces et apaisantes, souvent associée à l'amour inconditionnel et à la compassion. En lithothérapie, elle est réputée pour favoriser l'équilibre émotionnel et renforcer la confiance en soi. Portée près du cœur, elle est idéale pour ceux qui cherchent à apaiser les tensions et à cultiver des relations harmonieuses.",
+              "photo": "images/articles/pendentif-rhodocrosite-mu3wppj75beo.jpg",
+              "prixBoutique": 54,
+              "stock": 1
             }
           ]
         },

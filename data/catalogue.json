@@ -7232,16 +7232,25 @@
               "photo": "images/articles/pendentif-rhodocrosite-mu3wppj75beo.jpg",
               "prixBoutique": 54,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00wbJ29c683H0g89tL28a3x",
               "stripeProductId": "prod_VGmrtlPI9K2uRG",
+              "stripePriceId": "price_1UGFHRLOfCA5mATudi7D8FJe",
+              "stripeLinkId": "plink_1UGFHRLOfCA5mATuNqQRLrxZ",
+              "stripePrix": 56.08,
               "stripeMode": "live",
               "stripeNom": "Pendentif rhodocrosite",
               "stripeDesc": "Le pendentif en rhodocrosite est une pierre aux teintes douces et apaisantes, souvent associée à l'amour inconditionnel et à la compassion. En lithothérapie, elle est réputée pour favoriser l'équilibre émotionnel et renforcer la confiance en soi. Portée près du cœur, elle est idéale pour ceux qui cherchent à apaiser les tensions et à cultiver des relations harmonieuses.",
-              "stripePriceId": "price_1UGFHRLOfCA5mATudi7D8FJe",
-              "stripePrix": 56.08,
-              "stripeLinkId": "plink_1UGFHRLOfCA5mATuNqQRLrxZ",
-              "stripe": "https://buy.stripe.com/00wbJ29c683H0g89tL28a3x",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-rhodocrosite-mu3wr94kty5l",
+              "nom": "Pendentif rhodocrosite",
+              "prix": 102.59,
+              "description": "Ce pendentif en rhodocrosite est une pièce raffinée et colorée qui attire immédiatement l'œil grâce à ses reflets roses et ses motifs uniques. La rhodocrosite est souvent appelée la pierre du cœur, car elle est associée à l'amour inconditionnel, à la compassion et à l'équilibre émotionnel. Portée au quotidien, elle est réputée pour apaiser les tensions et renforcer la confiance en soi, tout en favorisant une énergie douce et harmonieuse.",
+              "photo": "images/articles/pendentif-rhodocrosite-mu3wr94k1wux.jpg",
+              "prixBoutique": 99,
+              "stock": 1
             }
           ]
         },

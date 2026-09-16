@@ -7421,7 +7421,17 @@
               "description": "Ce pendentif en pendolithe est une pierre naturelle aux reflets nacrés et aux motifs uniques, souvent appelée pierre de la transformation. En lithothérapie, elle est réputée pour apporter équilibre et sérénité, aidant à apaiser les émotions et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à favoriser un état de calme intérieur.",
               "photo": "images/articles/pendentif-pinolite-mu48zm269vmg.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGsOOxHmq7INY7",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif pinolite",
+              "stripeDesc": "Ce pendentif en pendolithe est une pierre naturelle aux reflets nacrés et aux motifs uniques, souvent appelée pierre de la transformation. En lithothérapie, elle est réputée pour apporter équilibre et sérénité, aidant à apaiser les émotions et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à favoriser un état de calme intérieur.",
+              "stripePriceId": "price_1UGKe1LOfCA5mATuCYl8pjTe",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UGKe2LOfCA5mATuPHbfYvQQ",
+              "stripe": "https://buy.stripe.com/aFafZi4VQ6ZDbYQeO528a3H",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

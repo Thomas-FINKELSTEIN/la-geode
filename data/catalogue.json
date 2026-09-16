@@ -7136,7 +7136,17 @@
               "description": "Ce pendentif en chrysoprase est une pierre naturelle au charme unique, alliant des reflets verts apaisants et des touches dorées chaleureuses. Connue pour ses vertus harmonisantes, la chrysoprase est souvent associée à la sérénité du cœur et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Portée près de la peau, elle est idéale pour ceux qui cherchent à cultiver une énergie positive et un bien-être au quotidien.",
               "photo": "images/articles/pendentif-chrysoprase-mu3vigr0hzeq.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGmJsFfKxeD7pP",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif chrysoprase",
+              "stripeDesc": "Ce pendentif en chrysoprase est une pierre naturelle au charme unique, alliant des reflets verts apaisants et des touches dorées chaleureuses. Connue pour ses vertus harmonisantes, la chrysoprase est souvent associée à la sérénité du cœur et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Portée près de la peau, elle est idéale pour ceux qui cherchent à cultiver une énergie positive et un bien-être au quotidien.",
+              "stripePriceId": "price_1UGEkwLOfCA5mATu9ohTocYB",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UGEkxLOfCA5mATuEFZ81a4N",
+              "stripe": "https://buy.stripe.com/aFa00k2NIabPgf635n28a3s",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -7345,7 +7345,17 @@
               "description": "Ce pendentif en agate plaque est une pièce unique aux reflets doux et aux motifs organiques apaisants. L'agate plaque est souvent utilisée en lithothérapie pour favoriser la sérénité et équilibrer les émotions, aidant à calmer le stress et à renforcer la stabilité intérieure. Parfait pour un port quotidien, il apporte une énergie harmonieuse et une touche naturelle élégante à vos tenues.",
               "photo": "images/articles/pendentif-agate-plaque-mu3x1aiaj2gv.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGn0v5CVVUH7hO",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif agate plaque",
+              "stripeDesc": "Ce pendentif en agate plaque est une pièce unique aux reflets doux et aux motifs organiques apaisants. L'agate plaque est souvent utilisée en lithothérapie pour favoriser la sérénité et équilibrer les émotions, aidant à calmer le stress et à renforcer la stabilité intérieure. Parfait pour un port quotidien, il apporte une énergie harmonieuse et une touche naturelle élégante à vos tenues.",
+              "stripePriceId": "price_1UGFQDLOfCA5mATufnJ6td2f",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UGFQDLOfCA5mATuQWceqiRA",
+              "stripe": "https://buy.stripe.com/00wcN69c64Rv6Ew35n28a3D",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

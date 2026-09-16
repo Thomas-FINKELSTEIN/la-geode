@@ -7327,16 +7327,25 @@
               "photo": "images/articles/pendentif-rhodocrosite-mu3wzhf6wbet.jpg",
               "prixBoutique": 68,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa00kcoiabP3sk9tL28a3C",
               "stripeProductId": "prod_VGmy9InhyihFVt",
+              "stripePriceId": "price_1UGFOqLOfCA5mATuoh1mY1H0",
+              "stripeLinkId": "plink_1UGFOqLOfCA5mATuki6oCqv3",
+              "stripePrix": 70.55,
               "stripeMode": "live",
               "stripeNom": "Pendentif rhodocrosite",
               "stripeDesc": "Ce pendentif en rhodocrosite est une pièce délicate et élégante, mettant en valeur les doux tons roses et les motifs uniques de cette pierre naturelle. La rhodocrosite est souvent associée à l'harmonie émotionnelle, aidant à apaiser le cœur et à renforcer la confiance en soi. Portée au quotidien, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à cultiver un sentiment de sérénité.",
-              "stripePriceId": "price_1UGFOqLOfCA5mATuoh1mY1H0",
-              "stripePrix": 70.55,
-              "stripeLinkId": "plink_1UGFOqLOfCA5mATuki6oCqv3",
-              "stripe": "https://buy.stripe.com/aFa00kcoiabP3sk9tL28a3C",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-agate-plaque-mu3x1aia4yms",
+              "nom": "Pendentif agate plaque",
+              "prix": 20.83,
+              "description": "Ce pendentif en agate plaque est une pièce unique aux reflets doux et aux motifs organiques apaisants. L'agate plaque est souvent utilisée en lithothérapie pour favoriser la sérénité et équilibrer les émotions, aidant à calmer le stress et à renforcer la stabilité intérieure. Parfait pour un port quotidien, il apporte une énergie harmonieuse et une touche naturelle élégante à vos tenues.",
+              "photo": "images/articles/pendentif-agate-plaque-mu3x1aiaj2gv.jpg",
+              "prixBoutique": 19.9,
+              "stock": 1
             }
           ]
         },

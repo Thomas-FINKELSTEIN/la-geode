@@ -7174,7 +7174,17 @@
               "description": "La rhodonite est une pierre aux reflets roses et noirs qui symbolise l'harmonie et la compassion. En lithothérapie, elle est souvent utilisée pour apaiser les émotions et favoriser la guérison du cœur, tout en renforçant la confiance en soi. Ce pendentif en rhodonite est idéal pour porter au quotidien et bénéficier de ses vertus équilibrantes.",
               "photo": "images/articles/pendentif-rhodonite-mu3vkzbnxv9l.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGmLKCfzOTYoLK",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif rhodonite",
+              "stripeDesc": "La rhodonite est une pierre aux reflets roses et noirs qui symbolise l'harmonie et la compassion. En lithothérapie, elle est souvent utilisée pour apaiser les émotions et favoriser la guérison du cœur, tout en renforçant la confiance en soi. Ce pendentif en rhodonite est idéal pour porter au quotidien et bénéficier de ses vertus équilibrantes.",
+              "stripePriceId": "price_1UGEmuLOfCA5mATuDljJsmVi",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UGEmuLOfCA5mATucu6yP2Ij",
+              "stripe": "https://buy.stripe.com/fZu4gAgEy6ZD7IA7lD28a3u",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

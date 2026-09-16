@@ -7212,7 +7212,17 @@
               "description": "Ce pendentif en bronzite est une pierre aux reflets dorés et irisés, souvent appelée pierre de protection et de stabilité. En lithothérapie, elle est réputée pour renforcer la confiance en soi, apaiser les émotions et favoriser un ancrage dans le quotidien. Portée près du cœur ou du troisième œil, elle aide à harmoniser les énergies et à retrouver un équilibre intérieur.",
               "photo": "images/articles/pendentif-bronzite-mu3vnvzfxom1.jpg",
               "prixBoutique": 34,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGmNhV5ukRkw3A",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif bronzite",
+              "stripeDesc": "Ce pendentif en bronzite est une pierre aux reflets dorés et irisés, souvent appelée pierre de protection et de stabilité. En lithothérapie, elle est réputée pour renforcer la confiance en soi, apaiser les émotions et favoriser un ancrage dans le quotidien. Portée près du cœur ou du troisième œil, elle aide à harmoniser les énergies et à retrouver un équilibre intérieur.",
+              "stripePriceId": "price_1UGEp0LOfCA5mATur9e5VS0M",
+              "stripePrix": 35.41,
+              "stripeLinkId": "plink_1UGEp0LOfCA5mATu3f7eYORX",
+              "stripe": "https://buy.stripe.com/eVq9AU8821Fj9QI35n28a3w",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

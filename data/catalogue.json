@@ -6756,7 +6756,17 @@
               "description": "Ce pendentif en amétrine capture la beauté unique de cette pierre rare, alliant les énergies apaisantes du quartz améthyste et la vitalité du citrine. Porté en bijou, il est idéal pour harmoniser les émotions, favoriser la concentration et équilibrer les énergies du corps et de l’esprit. Parfait pour une touche de douceur et de lumière au quotidien, il s’intègre aussi bien dans une tenue élégante que dans une pratique de méditation ou de lithothérapie.",
               "photo": "images/articles/pendentif-ametrine-3-cm-mu3shj1kiopj.jpg",
               "prixBoutique": 44.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGkwD9qkRibN21",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif amétrine 3 cm",
+              "stripeDesc": "Ce pendentif en amétrine capture la beauté unique de cette pierre rare, alliant les énergies apaisantes du quartz améthyste et la vitalité du citrine. Porté en bijou, il est idéal pour harmoniser les émotions, favoriser la concentration et équilibrer les énergies du corps et de l’esprit. Parfait pour une touche de douceur et de lumière au quotidien, il s’intègre aussi bien dans une tenue élégante que dans une pratique de méditation ou de lithothérapie.",
+              "stripePriceId": "price_1UGDQxLOfCA5mATuNY9DTc5O",
+              "stripePrix": 46.26,
+              "stripeLinkId": "plink_1UGDQyLOfCA5mATuT3gT7KWl",
+              "stripe": "https://buy.stripe.com/00w4gAfAubfT4wo7lD28a38",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

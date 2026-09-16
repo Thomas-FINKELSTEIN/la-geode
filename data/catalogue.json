@@ -7245,7 +7245,7 @@
             },
             {
               "id": "pendentif-rhodocrosite-mu3wr94kty5l",
-              "nom": "Pendentif rhodocrosite",
+              "nom": "Pendentif rhodocrosite extra argent",
               "prix": 102.59,
               "description": "Ce pendentif en rhodocrosite est une pièce raffinée et colorée qui attire immédiatement l'œil grâce à ses reflets roses et ses motifs uniques. La rhodocrosite est souvent appelée la pierre du cœur, car elle est associée à l'amour inconditionnel, à la compassion et à l'équilibre émotionnel. Portée au quotidien, elle est réputée pour apaiser les tensions et renforcer la confiance en soi, tout en favorisant une énergie douce et harmonieuse.",
               "photo": "images/articles/pendentif-rhodocrosite-mu3wr94k1wux.jpg",
@@ -7384,14 +7384,14 @@
               "photo": "images/articles/pendentif-agate-plaque-mu3x4y6z767a.jpg",
               "prixBoutique": 19.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi6oI4VQes56Ew8pH28a3F",
               "stripeProductId": "prod_VGn3FWq1GP6Fkn",
+              "stripePriceId": "price_1UGFSxLOfCA5mATulTmI026H",
+              "stripeLinkId": "plink_1UGFSxLOfCA5mATuvaxqJfVP",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendentif agate plaque",
               "stripeDesc": "Ce pendentif en agate plaque est une pièce élégante et apaisante, souvent utilisée pour son énergie stabilisatrice. En lithothérapie, l'agate est réputée pour renforcer la concentration et favoriser l'équilibre émotionnel, aidant à apaiser les tensions du quotidien. Son aspect doux et ses reflets subtils en font un allié idéal pour une méditation sereine ou un port quotidien harmonieux.",
-              "stripePriceId": "price_1UGFSxLOfCA5mATulTmI026H",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UGFSxLOfCA5mATuvaxqJfVP",
-              "stripe": "https://buy.stripe.com/cNi6oI4VQes56Ew8pH28a3F",
               "stripeStock": 1,
               "epuise": false
             }

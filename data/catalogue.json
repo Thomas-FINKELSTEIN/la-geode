@@ -6871,16 +6871,25 @@
               "photo": "images/articles/pendentif-unakite-mu3sycu8v6e6.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/dRmeVebke2Jn8MEdK128a3e",
               "stripeProductId": "prod_VGl9fKLPANaiTD",
+              "stripePriceId": "price_1UGDdbLOfCA5mATuQGe0yvi9",
+              "stripeLinkId": "plink_1UGDdbLOfCA5mATu3mUvax7Q",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif unakite",
               "stripeDesc": "Ce pendentif en unakite est une pierre aux couleurs vibrantes et apaisantes, mêlant des teintes vertes, rouges et blanches. Connue pour ses propriétés harmonisantes, l'unakite est souvent utilisée en lithothérapie pour favoriser l'équilibre émotionnel et renforcer la connexion à soi. Elle est idéale pour apaiser les tensions et encourager une énergie positive au quotidien.",
-              "stripePriceId": "price_1UGDdbLOfCA5mATuQGe0yvi9",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UGDdbLOfCA5mATu3mUvax7Q",
-              "stripe": "https://buy.stripe.com/dRmeVebke2Jn8MEdK128a3e",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-unakite-mu3szsu69vpp",
+              "nom": "Pendentif unakite",
+              "prix": 28.17,
+              "description": "Le pendentif en unakite est une pierre aux couleurs harmonieuses mêlant le vert, le rose et le brun, symbole de douceur et d'équilibre. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la sérénité et renforcer la connexion à soi-même. Idéale pour porter au quotidien, elle est appréciée pour son énergie apaisante et son pouvoir de protection émotionnelle.",
+              "photo": "images/articles/pendentif-unakite-mu3szsu6zs7j.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         },

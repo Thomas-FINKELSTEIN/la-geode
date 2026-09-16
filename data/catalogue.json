@@ -7270,16 +7270,25 @@
               "photo": "images/articles/pendentif-rhodocrosite-mu3wssp1ax6e.jpg",
               "prixBoutique": 89.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ5kE4VQabP6Ew35n28a3z",
               "stripeProductId": "prod_VGmth2XEVCKBLW",
+              "stripePriceId": "price_1UGFJmLOfCA5mATudEikgCI6",
+              "stripeLinkId": "plink_1UGFJnLOfCA5mATu7WXtD45S",
+              "stripePrix": 93.18,
               "stripeMode": "live",
               "stripeNom": "Pendentif rhodocrosite",
               "stripeDesc": "Ce pendentif en forme de larme est taillé dans une pierre aux reflets doux et apaisants, mêlant des teintes de rose, bleu et vert. La rhodocrosite est souvent appelée la pierre du cœur, car elle est réputée renforcer l’amour, la compassion et la guérison émotionnelle. Porté au quotidien, il favoriserait l’ouverture du chakra du cœur, aidant à apaiser les tensions et à cultiver des relations harmonieuses.",
-              "stripePriceId": "price_1UGFJmLOfCA5mATudEikgCI6",
-              "stripePrix": 93.18,
-              "stripeLinkId": "plink_1UGFJnLOfCA5mATu7WXtD45S",
-              "stripe": "https://buy.stripe.com/5kQ5kE4VQabP6Ew35n28a3z",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-rhodocrosite-mu3ww30jti2s",
+              "nom": "Pendentif rhodocrosite",
+              "prix": 140.73,
+              "description": "Ce pendentif en rhodocrosite, pierre d'une douceur rosée et apaisante, est un véritable symbole d'amour inconditionnel et de compassion. En lithothérapie, elle est souvent utilisée pour ouvrir le cœur, favoriser la guérison émotionnelle et renforcer les liens affectifs. Parfaite pour porter au quotidien, elle aide aussi à apaiser les tensions et à retrouver un équilibre intérieur serein.",
+              "photo": "images/articles/pendentif-rhodocrosite-mu3ww30jr0qk.jpg",
+              "prixBoutique": 135.9,
+              "stock": 1
             }
           ]
         },

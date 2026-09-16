@@ -7364,7 +7364,17 @@
               "description": "Ce pendentif en agate plaque se distingue par ses douces nuances bleutées et ses reflets irisés, apportant une touche apaisante et élégante à vos tenues. En lithothérapie, l'agate est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les esprits agités et à renforcer la stabilité intérieure. Porté au quotidien, ce bijou naturel peut aussi favoriser la concentration et la connexion à une énergie harmonieuse.",
               "photo": "images/articles/pendentif-agate-plaque-mu3x2q6y1bxz.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGn1ZjlAWgxL6F",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif agate plaque",
+              "stripeDesc": "Ce pendentif en agate plaque se distingue par ses douces nuances bleutées et ses reflets irisés, apportant une touche apaisante et élégante à vos tenues. En lithothérapie, l'agate est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les esprits agités et à renforcer la stabilité intérieure. Porté au quotidien, ce bijou naturel peut aussi favoriser la concentration et la connexion à une énergie harmonieuse.",
+              "stripePriceId": "price_1UGFRGLOfCA5mATupX5kbo2o",
+              "stripePrix": 20.83,
+              "stripeLinkId": "plink_1UGFRGLOfCA5mATuiVtLrK8a",
+              "stripe": "https://buy.stripe.com/7sY28s0FAbfTd2UcFX28a3E",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

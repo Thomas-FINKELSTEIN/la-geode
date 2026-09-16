@@ -6947,16 +6947,25 @@
               "photo": "images/articles/pendentif-cornaline-5-cm-mu3usk8ep7xu.jpg",
               "prixBoutique": 21,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe00kgEyfw91kcfS928a3i",
               "stripeProductId": "prod_VGlz1Wf8aTotva",
+              "stripePriceId": "price_1UGERTLOfCA5mATudMNGbw8L",
+              "stripeLinkId": "plink_1UGERTLOfCA5mATu2654Qh2P",
+              "stripePrix": 21.97,
               "stripeMode": "live",
               "stripeNom": "Pendentif cornaline 5 cm",
               "stripeDesc": "Cette boule de cornaline de 5 cm est une pierre précieuse aux reflets chauds et apaisants. En lithothérapie, elle est souvent associée à la vitalité, à la passion et à l’équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l’énergie positive. Parfaite pour une décoration naturelle ou comme objet de méditation, elle apporte douceur et dynamisme au quotidien.",
-              "stripePriceId": "price_1UGERTLOfCA5mATudMNGbw8L",
-              "stripePrix": 21.97,
-              "stripeLinkId": "plink_1UGERTLOfCA5mATu2654Qh2P",
-              "stripe": "https://buy.stripe.com/bJe00kgEyfw91kcfS928a3i",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-chyastolite-4-cm-mu3uudyuer44",
+              "nom": "Pendentif chyastolite 4 cm",
+              "prix": 33.34,
+              "description": "La chyastolite est une pierre fascinante aux reflets dorés et aux motifs en forme de croix, symbole de protection et d'équilibre. Portée en pendentif, elle est souvent associée à une énergie apaisante qui aide à clarifier les pensées et à renforcer la concentration. Idéale pour ceux qui cherchent à harmoniser leurs émotions et à trouver un ancrage spirituel au quotidien.",
+              "photo": "images/articles/pendentif-chyastolite-4-cm-mu3uudyu5kj2.jpg",
+              "prixBoutique": 32,
+              "stock": 1
             }
           ]
         },

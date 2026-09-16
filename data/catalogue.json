@@ -7269,7 +7269,17 @@
               "description": "Ce pendentif en forme de larme est taillé dans une pierre aux reflets doux et apaisants, mêlant des teintes de rose, bleu et vert. La rhodocrosite est souvent appelée la pierre du cœur, car elle est réputée renforcer l’amour, la compassion et la guérison émotionnelle. Porté au quotidien, il favoriserait l’ouverture du chakra du cœur, aidant à apaiser les tensions et à cultiver des relations harmonieuses.",
               "photo": "images/articles/pendentif-rhodocrosite-mu3wssp1ax6e.jpg",
               "prixBoutique": 89.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGmth2XEVCKBLW",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif rhodocrosite",
+              "stripeDesc": "Ce pendentif en forme de larme est taillé dans une pierre aux reflets doux et apaisants, mêlant des teintes de rose, bleu et vert. La rhodocrosite est souvent appelée la pierre du cœur, car elle est réputée renforcer l’amour, la compassion et la guérison émotionnelle. Porté au quotidien, il favoriserait l’ouverture du chakra du cœur, aidant à apaiser les tensions et à cultiver des relations harmonieuses.",
+              "stripePriceId": "price_1UGFJmLOfCA5mATudEikgCI6",
+              "stripePrix": 93.18,
+              "stripeLinkId": "plink_1UGFJnLOfCA5mATu7WXtD45S",
+              "stripe": "https://buy.stripe.com/5kQ5kE4VQabP6Ew35n28a3z",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

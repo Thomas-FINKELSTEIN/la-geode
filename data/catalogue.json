@@ -6852,16 +6852,25 @@
               "photo": "images/articles/pendentif-quartz-mica-mu3sx2ujs4j5.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00w28s882bfTd2UaxP28a3d",
               "stripeProductId": "prod_VGl80VQX6T45Lg",
+              "stripePriceId": "price_1UGDchLOfCA5mATuFddOSiQG",
+              "stripeLinkId": "plink_1UGDchLOfCA5mATuPolVk00F",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz mica",
               "stripeDesc": "Ce pendentif en quartz mica est une pierre aux reflets dorés et scintillants, idéale pour apporter lumière et énergie positive dans votre quotidien. En lithothérapie, il est souvent utilisé pour stimuler la vitalité, renforcer la confiance en soi et équilibrer les émotions. Parfait à porter au quotidien, il se charge d'intentions positives et peut être un allié précieux pour illuminer votre journée.",
-              "stripePriceId": "price_1UGDchLOfCA5mATuFddOSiQG",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UGDchLOfCA5mATuPolVk00F",
-              "stripe": "https://buy.stripe.com/00w28s882bfTd2UaxP28a3d",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-unakite-mu3sycu8vpat",
+              "nom": "Pendentif unakite",
+              "prix": 28.17,
+              "description": "Ce pendentif en unakite est une pierre aux couleurs vibrantes et apaisantes, mêlant des teintes vertes, rouges et blanches. Connue pour ses propriétés harmonisantes, l'unakite est souvent utilisée en lithothérapie pour favoriser l'équilibre émotionnel et renforcer la connexion à soi. Elle est idéale pour apaiser les tensions et encourager une énergie positive au quotidien.",
+              "photo": "images/articles/pendentif-unakite-mu3sycu8v6e6.jpg",
+              "prixBoutique": 27,
+              "stock": 1
             }
           ]
         },

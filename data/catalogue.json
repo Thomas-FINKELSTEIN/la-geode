@@ -7098,7 +7098,17 @@
               "description": "Ce pendentif en quartz hématoide est une pierre aux reflets doux et aux éclats rougeâtres qui captent immédiatement l'attention. En lithothérapie, elle est souvent associée à la vitalité et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'énergie vitale. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur bien-être physique et mental.",
               "photo": "images/articles/pendentif-quartz-hematoide-mu3vf2ph2ht3.jpg",
               "prixBoutique": 29,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGmIIybGVhc2G1",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz hématoide",
+              "stripeDesc": "Ce pendentif en quartz hématoide est une pierre aux reflets doux et aux éclats rougeâtres qui captent immédiatement l'attention. En lithothérapie, elle est souvent associée à la vitalité et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'énergie vitale. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur bien-être physique et mental.",
+              "stripePriceId": "price_1UGEk3LOfCA5mATu4CVtiuBY",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UGEk4LOfCA5mATu3E3TYU42",
+              "stripe": "https://buy.stripe.com/5kQ28s9c64Rvd2UgWd28a3q",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-chysoprase-mu3vh6ktkrgc",
@@ -7107,7 +7117,17 @@
               "description": "Ce pendentif en chysoprase est une pierre aux teintes douces et apaisantes, souvent associée à la croissance spirituelle et à l'harmonie émotionnelle. En lithothérapie, elle est réputée pour favoriser la confiance en soi et apaiser les tensions du quotidien. Parfaite pour porter au quotidien, elle est idéale pour ceux qui cherchent à équilibrer leur énergie et à cultiver une attitude positive.",
               "photo": "images/articles/pendentif-chysoprase-mu3vh6ktg82e.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGmIWy2G7igGPL",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif chysoprase",
+              "stripeDesc": "Ce pendentif en chysoprase est une pierre aux teintes douces et apaisantes, souvent associée à la croissance spirituelle et à l'harmonie émotionnelle. En lithothérapie, elle est réputée pour favoriser la confiance en soi et apaiser les tensions du quotidien. Parfaite pour porter au quotidien, elle est idéale pour ceux qui cherchent à équilibrer leur énergie et à cultiver une attitude positive.",
+              "stripePriceId": "price_1UGEk4LOfCA5mATuGx1oHCdD",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UGEk4LOfCA5mATu8EaEz6wk",
+              "stripe": "https://buy.stripe.com/4gM8wQ88283H9QI9tL28a3r",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

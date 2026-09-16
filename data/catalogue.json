@@ -7250,7 +7250,17 @@
               "description": "Ce pendentif en rhodocrosite est une pièce raffinée et colorée qui attire immédiatement l'œil grâce à ses reflets roses et ses motifs uniques. La rhodocrosite est souvent appelée la pierre du cœur, car elle est associée à l'amour inconditionnel, à la compassion et à l'équilibre émotionnel. Portée au quotidien, elle est réputée pour apaiser les tensions et renforcer la confiance en soi, tout en favorisant une énergie douce et harmonieuse.",
               "photo": "images/articles/pendentif-rhodocrosite-mu3wr94k1wux.jpg",
               "prixBoutique": 99,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGmsrUDJImJ4Cd",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif rhodocrosite",
+              "stripeDesc": "Ce pendentif en rhodocrosite est une pièce raffinée et colorée qui attire immédiatement l'œil grâce à ses reflets roses et ses motifs uniques. La rhodocrosite est souvent appelée la pierre du cœur, car elle est associée à l'amour inconditionnel, à la compassion et à l'équilibre émotionnel. Portée au quotidien, elle est réputée pour apaiser les tensions et renforcer la confiance en soi, tout en favorisant une énergie douce et harmonieuse.",
+              "stripePriceId": "price_1UGFIcLOfCA5mATu6akmLUNT",
+              "stripePrix": 102.59,
+              "stripeLinkId": "plink_1UGFIcLOfCA5mATunMQ1DXYc",
+              "stripe": "https://buy.stripe.com/aFa14obke0Bf1kc6hz28a3y",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

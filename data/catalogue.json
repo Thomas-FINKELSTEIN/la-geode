@@ -7422,16 +7422,25 @@
               "photo": "images/articles/pendentif-pinolite-mu48zm269vmg.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFafZi4VQ6ZDbYQeO528a3H",
               "stripeProductId": "prod_VGsOOxHmq7INY7",
+              "stripePriceId": "price_1UGKe1LOfCA5mATuCYl8pjTe",
+              "stripeLinkId": "plink_1UGKe2LOfCA5mATuPHbfYvQQ",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif pinolite",
               "stripeDesc": "Ce pendentif en pendolithe est une pierre naturelle aux reflets nacrés et aux motifs uniques, souvent appelée pierre de la transformation. En lithothérapie, elle est réputée pour apporter équilibre et sérénité, aidant à apaiser les émotions et à renforcer la confiance en soi. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à favoriser un état de calme intérieur.",
-              "stripePriceId": "price_1UGKe1LOfCA5mATuCYl8pjTe",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UGKe2LOfCA5mATuPHbfYvQQ",
-              "stripe": "https://buy.stripe.com/aFafZi4VQ6ZDbYQeO528a3H",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-oeil-de-tigre-mu49emedk5dg",
+              "nom": "Pendentif oeil de tigre",
+              "prix": 30.24,
+              "description": "Ce pendentif en oeil de tigre est une pierre aux reflets dorés et chatoyants, souvent appelée la pierre de courage et de protection. En lithothérapie, elle est réputée pour renforcer la confiance en soi, stimuler la vitalité et aider à surmonter les peurs du quotidien. Porté en bijou ou utilisé en méditation, il apporte une énergie positive et équilibre les émotions.",
+              "photo": "images/articles/pendentif-oeil-de-tigre-mu49emedlg7t.jpg",
+              "prixBoutique": 29,
+              "stock": 1
             }
           ]
         },

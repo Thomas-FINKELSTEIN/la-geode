@@ -7137,16 +7137,25 @@
               "photo": "images/articles/pendentif-chrysoprase-mu3vigr0hzeq.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa00k2NIabPgf635n28a3s",
               "stripeProductId": "prod_VGmJsFfKxeD7pP",
+              "stripePriceId": "price_1UGEkwLOfCA5mATu9ohTocYB",
+              "stripeLinkId": "plink_1UGEkxLOfCA5mATuEFZ81a4N",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif chrysoprase",
               "stripeDesc": "Ce pendentif en chrysoprase est une pierre naturelle au charme unique, alliant des reflets verts apaisants et des touches dorées chaleureuses. Connue pour ses vertus harmonisantes, la chrysoprase est souvent associée à la sérénité du cœur et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Portée près de la peau, elle est idéale pour ceux qui cherchent à cultiver une énergie positive et un bien-être au quotidien.",
-              "stripePriceId": "price_1UGEkwLOfCA5mATu9ohTocYB",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UGEkxLOfCA5mATuEFZ81a4N",
-              "stripe": "https://buy.stripe.com/aFa00k2NIabPgf635n28a3s",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-opale-de-feu-mu3vjqytck6k",
+              "nom": "Pendentif opale de feu",
+              "prix": 48.84,
+              "description": "Ce pendentif en opale de feu est une pierre aux reflets envoûtants, mêlant des teintes chaudes et profondes qui captivent immédiatement. En lithothérapie, l'opale de feu est souvent associée à une énergie créative et passionnée, aidant à stimuler la confiance en soi et à renforcer la motivation. Portée près du cœur, elle est aussi réputée pour apaiser les émotions et favoriser une connexion harmonieuse avec ses aspirations les plus intimes.",
+              "photo": "images/articles/pendentif-opale-de-feu-mu3vjqytfa2a.jpg",
+              "prixBoutique": 47,
+              "stock": 1
             }
           ]
         },

@@ -6757,16 +6757,25 @@
               "photo": "images/articles/pendentif-ametrine-3-cm-mu3shj1kiopj.jpg",
               "prixBoutique": 44.5,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/00w4gAfAubfT4wo7lD28a38",
               "stripeProductId": "prod_VGkwD9qkRibN21",
+              "stripePriceId": "price_1UGDQxLOfCA5mATuNY9DTc5O",
+              "stripeLinkId": "plink_1UGDQyLOfCA5mATuT3gT7KWl",
+              "stripePrix": 46.26,
               "stripeMode": "live",
               "stripeNom": "Pendentif amétrine 3 cm",
               "stripeDesc": "Ce pendentif en amétrine capture la beauté unique de cette pierre rare, alliant les énergies apaisantes du quartz améthyste et la vitalité du citrine. Porté en bijou, il est idéal pour harmoniser les émotions, favoriser la concentration et équilibrer les énergies du corps et de l’esprit. Parfait pour une touche de douceur et de lumière au quotidien, il s’intègre aussi bien dans une tenue élégante que dans une pratique de méditation ou de lithothérapie.",
-              "stripePriceId": "price_1UGDQxLOfCA5mATuNY9DTc5O",
-              "stripePrix": 46.26,
-              "stripeLinkId": "plink_1UGDQyLOfCA5mATuT3gT7KWl",
-              "stripe": "https://buy.stripe.com/00w4gAfAubfT4wo7lD28a38",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cristal-de-roche-brute-mu3sj4dtmw2e",
+              "nom": "Pendentif cristal de roche brute",
+              "prix": 17.83,
+              "description": "Ce pendentif en cristal de roche brute est une pièce naturelle et pure, aux reflets translucides et aux facettes irrégulières qui captent la lumière. En lithothérapie, le cristal de roche est souvent associé à l’amplification des énergies positives, à la clarté mentale et à l’harmonisation des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur connexion à l’énergie universelle tout en apportant une touche minérale et authentique à leur style.",
+              "photo": "images/articles/pendentif-cristal-de-roche-brute-mu3sj4dtt2ug.jpg",
+              "prixBoutique": 17,
+              "stock": 1
             }
           ]
         },

@@ -6890,16 +6890,25 @@
               "photo": "images/articles/pendentif-unakite-mu3szsu6zs7j.jpg",
               "prixBoutique": 27,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/9B600k5ZUgAd9QIcFX28a3f",
               "stripeProductId": "prod_VGlBiMUzL2JQUM",
+              "stripePriceId": "price_1UGDekLOfCA5mATuqnH4pHdf",
+              "stripeLinkId": "plink_1UGDekLOfCA5mATuKOrnOzey",
+              "stripePrix": 28.17,
               "stripeMode": "live",
               "stripeNom": "Pendentif unakite",
               "stripeDesc": "Le pendentif en unakite est une pierre aux couleurs harmonieuses mêlant le vert, le rose et le brun, symbole de douceur et d'équilibre. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la sérénité et renforcer la connexion à soi-même. Idéale pour porter au quotidien, elle est appréciée pour son énergie apaisante et son pouvoir de protection émotionnelle.",
-              "stripePriceId": "price_1UGDekLOfCA5mATuqnH4pHdf",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UGDekLOfCA5mATuKOrnOzey",
-              "stripe": "https://buy.stripe.com/9B600k5ZUgAd9QIcFX28a3f",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cornaline-6-cm-mu3upfz9xvaf",
+              "nom": "Pendentif cornaline 6 cm",
+              "prix": 21.97,
+              "description": "Ce pendentif en cornaline est une pierre précieuse aux reflets chauds et apaisants, souvent associée à l'énergie vitale et à la joie. En lithothérapie, elle est réputée pour renforcer la confiance en soi et stimuler les émotions positives. Parfaite pour un port quotidien, elle apporte une touche de douceur et de dynamisme à votre quotidien.",
+              "photo": "images/articles/pendentif-cornaline-6-cm-mu3upfz97u8j.jpg",
+              "prixBoutique": 21,
+              "stock": 1
             }
           ]
         },

@@ -7440,7 +7440,17 @@
               "description": "Ce pendentif en oeil de tigre est une pierre aux reflets dorés et chatoyants, souvent appelée la pierre de courage et de protection. En lithothérapie, elle est réputée pour renforcer la confiance en soi, stimuler la vitalité et aider à surmonter les peurs du quotidien. Porté en bijou ou utilisé en méditation, il apporte une énergie positive et équilibre les émotions.",
               "photo": "images/articles/pendentif-oeil-de-tigre-mu49emedlg7t.jpg",
               "prixBoutique": 29,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGsas4S5oxJNBJ",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif oeil de tigre",
+              "stripeDesc": "Ce pendentif en oeil de tigre est une pierre aux reflets dorés et chatoyants, souvent appelée la pierre de courage et de protection. En lithothérapie, elle est réputée pour renforcer la confiance en soi, stimuler la vitalité et aider à surmonter les peurs du quotidien. Porté en bijou ou utilisé en méditation, il apporte une énergie positive et équilibre les émotions.",
+              "stripePriceId": "price_1UGKpKLOfCA5mATuSc2bkbtr",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UGKpLLOfCA5mATuAdTecONE",
+              "stripe": "https://buy.stripe.com/3cIbJ2bkeabP6Ew21j28a3I",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

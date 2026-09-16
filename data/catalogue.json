@@ -7288,7 +7288,17 @@
               "description": "Ce pendentif en rhodocrosite, pierre d'une douceur rosée et apaisante, est un véritable symbole d'amour inconditionnel et de compassion. En lithothérapie, elle est souvent utilisée pour ouvrir le cœur, favoriser la guérison émotionnelle et renforcer les liens affectifs. Parfaite pour porter au quotidien, elle aide aussi à apaiser les tensions et à retrouver un équilibre intérieur serein.",
               "photo": "images/articles/pendentif-rhodocrosite-mu3ww30jr0qk.jpg",
               "prixBoutique": 135.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGmwcaZ5KdQ8BV",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif rhodocrosite",
+              "stripeDesc": "Ce pendentif en rhodocrosite, pierre d'une douceur rosée et apaisante, est un véritable symbole d'amour inconditionnel et de compassion. En lithothérapie, elle est souvent utilisée pour ouvrir le cœur, favoriser la guérison émotionnelle et renforcer les liens affectifs. Parfaite pour porter au quotidien, elle aide aussi à apaiser les tensions et à retrouver un équilibre intérieur serein.",
+              "stripePriceId": "price_1UGFMGLOfCA5mATuBUkp10t6",
+              "stripePrix": 140.73,
+              "stripeLinkId": "plink_1UGFMGLOfCA5mATuqyyxDzSH",
+              "stripe": "https://buy.stripe.com/aFa8wQgEy83Hgf67lD28a3A",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

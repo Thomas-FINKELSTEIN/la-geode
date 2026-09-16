@@ -6927,7 +6927,17 @@
               "description": "Ce pendentif en cornaline, pierre aux reflets chauds et éclatants, est un véritable symbole de vitalité et de dynamisme. En lithothérapie, elle est souvent associée à la stimulation de l'énergie vitale et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à surmonter les peurs. Porté au quotidien, il est idéal pour ceux qui cherchent à rayonner de positivité et à cultiver une attitude optimiste.",
               "photo": "images/articles/pendentif-cornaline-4-cm-mu3uqwlpheob.jpg",
               "prixBoutique": 28,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGly4SjonmeoTP",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cornaline 4 cm",
+              "stripeDesc": "Ce pendentif en cornaline, pierre aux reflets chauds et éclatants, est un véritable symbole de vitalité et de dynamisme. En lithothérapie, elle est souvent associée à la stimulation de l'énergie vitale et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à surmonter les peurs. Porté au quotidien, il est idéal pour ceux qui cherchent à rayonner de positivité et à cultiver une attitude optimiste.",
+              "stripePriceId": "price_1UGEQLLOfCA5mATugTQ8kKHo",
+              "stripePrix": 29.2,
+              "stripeLinkId": "plink_1UGEQLLOfCA5mATuu8j2sQyp",
+              "stripe": "https://buy.stripe.com/4gM28s9c697L6EwcFX28a3h",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -6965,7 +6965,17 @@
               "description": "La chyastolite est une pierre fascinante aux reflets dorés et aux motifs en forme de croix, symbole de protection et d'équilibre. Portée en pendentif, elle est souvent associée à une énergie apaisante qui aide à clarifier les pensées et à renforcer la concentration. Idéale pour ceux qui cherchent à harmoniser leurs émotions et à trouver un ancrage spirituel au quotidien.",
               "photo": "images/articles/pendentif-chyastolite-4-cm-mu3uudyu5kj2.jpg",
               "prixBoutique": 32,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGm00ZaDJL3muD",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif chyastolite 4 cm",
+              "stripeDesc": "La chyastolite est une pierre fascinante aux reflets dorés et aux motifs en forme de croix, symbole de protection et d'équilibre. Portée en pendentif, elle est souvent associée à une énergie apaisante qui aide à clarifier les pensées et à renforcer la concentration. Idéale pour ceux qui cherchent à harmoniser leurs émotions et à trouver un ancrage spirituel au quotidien.",
+              "stripePriceId": "price_1UGESnLOfCA5mATuB74jY3Yd",
+              "stripePrix": 33.34,
+              "stripeLinkId": "plink_1UGESnLOfCA5mATu3obTocJg",
+              "stripe": "https://buy.stripe.com/3cIbJ2dsmgAdaUM0Xf28a3j",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

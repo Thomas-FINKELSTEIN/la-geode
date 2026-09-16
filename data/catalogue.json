@@ -7365,16 +7365,25 @@
               "photo": "images/articles/pendentif-agate-plaque-mu3x2q6y1bxz.jpg",
               "prixBoutique": 19.9,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY28s0FAbfTd2UcFX28a3E",
               "stripeProductId": "prod_VGn1ZjlAWgxL6F",
+              "stripePriceId": "price_1UGFRGLOfCA5mATupX5kbo2o",
+              "stripeLinkId": "plink_1UGFRGLOfCA5mATuiVtLrK8a",
+              "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendentif agate plaque",
               "stripeDesc": "Ce pendentif en agate plaque se distingue par ses douces nuances bleutées et ses reflets irisés, apportant une touche apaisante et élégante à vos tenues. En lithothérapie, l'agate est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les esprits agités et à renforcer la stabilité intérieure. Porté au quotidien, ce bijou naturel peut aussi favoriser la concentration et la connexion à une énergie harmonieuse.",
-              "stripePriceId": "price_1UGFRGLOfCA5mATupX5kbo2o",
-              "stripePrix": 20.83,
-              "stripeLinkId": "plink_1UGFRGLOfCA5mATuiVtLrK8a",
-              "stripe": "https://buy.stripe.com/7sY28s0FAbfTd2UcFX28a3E",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-agate-plaque-mu3x4y6zwyp5",
+              "nom": "Pendentif agate plaque",
+              "prix": 20.83,
+              "description": "Ce pendentif en agate plaque est une pièce élégante et apaisante, souvent utilisée pour son énergie stabilisatrice. En lithothérapie, l'agate est réputée pour renforcer la concentration et favoriser l'équilibre émotionnel, aidant à apaiser les tensions du quotidien. Son aspect doux et ses reflets subtils en font un allié idéal pour une méditation sereine ou un port quotidien harmonieux.",
+              "photo": "images/articles/pendentif-agate-plaque-mu3x4y6z767a.jpg",
+              "prixBoutique": 19.9,
+              "stock": 1
             }
           ]
         },

@@ -6832,7 +6832,17 @@
               "description": "Ce pendentif en quartz rutile est une pièce raffinée qui capte immédiatement l'attention grâce à ses reflets dorés et ses inclusions lumineuses. En lithothérapie, le quartz rutile est souvent associé à une énergie dynamique et revitalisante, aidant à stimuler la motivation et à renforcer la vitalité. Porté au quotidien, il est idéal pour ceux qui cherchent à retrouver un équilibre énergétique et une clarté mentale accrue.",
               "photo": "images/articles/pendentif-quartz-rutile-mu3svq5yhac0.jpg",
               "prixBoutique": 24.95,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGl7rRsY4g4fm5",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz rutile",
+              "stripeDesc": "Ce pendentif en quartz rutile est une pièce raffinée qui capte immédiatement l'attention grâce à ses reflets dorés et ses inclusions lumineuses. En lithothérapie, le quartz rutile est souvent associé à une énergie dynamique et revitalisante, aidant à stimuler la motivation et à renforcer la vitalité. Porté au quotidien, il est idéal pour ceux qui cherchent à retrouver un équilibre énergétique et une clarté mentale accrue.",
+              "stripePriceId": "price_1UGDbfLOfCA5mATuE1kXOboD",
+              "stripePrix": 26.05,
+              "stripeLinkId": "plink_1UGDbfLOfCA5mATuwFIp5CY5",
+              "stripe": "https://buy.stripe.com/aFa4gA2NIbfT7IA0Xf28a3c",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

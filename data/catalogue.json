@@ -6889,7 +6889,17 @@
               "description": "Le pendentif en unakite est une pierre aux couleurs harmonieuses mêlant le vert, le rose et le brun, symbole de douceur et d'équilibre. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la sérénité et renforcer la connexion à soi-même. Idéale pour porter au quotidien, elle est appréciée pour son énergie apaisante et son pouvoir de protection émotionnelle.",
               "photo": "images/articles/pendentif-unakite-mu3szsu6zs7j.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGlBiMUzL2JQUM",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif unakite",
+              "stripeDesc": "Le pendentif en unakite est une pierre aux couleurs harmonieuses mêlant le vert, le rose et le brun, symbole de douceur et d'équilibre. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la sérénité et renforcer la connexion à soi-même. Idéale pour porter au quotidien, elle est appréciée pour son énergie apaisante et son pouvoir de protection émotionnelle.",
+              "stripePriceId": "price_1UGDekLOfCA5mATuqnH4pHdf",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UGDekLOfCA5mATuKOrnOzey",
+              "stripe": "https://buy.stripe.com/9B600k5ZUgAd9QIcFX28a3f",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

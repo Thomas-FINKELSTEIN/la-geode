@@ -6813,7 +6813,17 @@
               "description": "Ce pendentif en cristal de roche extra est une pièce lumineuse et pure, idéale pour apporter clarté et équilibre dans votre quotidien. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les énergies positives, favoriser la concentration et renforcer la connexion à son intuition. Parfait pour être porté au quotidien, il agit comme un catalyseur de bien-être et d’harmonie.",
               "photo": "images/articles/pendentif-cristal-de-roche-extra-mu3st6v4m67z.jpg",
               "prixBoutique": 18,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VGl6Agg4k51iKl",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cristal de roche extra",
+              "stripeDesc": "Ce pendentif en cristal de roche extra est une pièce lumineuse et pure, idéale pour apporter clarté et équilibre dans votre quotidien. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les énergies positives, favoriser la concentration et renforcer la connexion à son intuition. Parfait pour être porté au quotidien, il agit comme un catalyseur de bien-être et d’harmonie.",
+              "stripePriceId": "price_1UGDZoLOfCA5mATuRiEQwq4a",
+              "stripePrix": 18.87,
+              "stripeLinkId": "plink_1UGDZpLOfCA5mATuiiSOBo2L",
+              "stripe": "https://buy.stripe.com/00w7sMdsmabP5As7lD28a3b",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

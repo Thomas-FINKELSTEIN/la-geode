@@ -12,6 +12,7 @@
   var BRANCH = 'main';
   var SITE = 'https://lageode66.fr';
   var API = 'https://api.github.com/repos/' + OWNER + '/' + REPO + '/contents/';
+  var GITAPI = 'https://api.github.com/repos/' + OWNER + '/' + REPO + '/';
   var RAW = 'https://raw.githubusercontent.com/' + OWNER + '/' + REPO + '/' + BRANCH + '/';
   var CATALOGUE_PATH = 'data/catalogue.json';
   var ACCES_PATH = 'admin/acces.json';
@@ -81,6 +82,70 @@
         if (!r.ok) return r.json().then(function (j) { throw new Error(j.message || ('Erreur ' + r.status)); });
         return r.json();
       });
+  }
+
+  /* ---------- API Git Data (pour les fichiers > 1 Mo) ----------
+     L'API Contents (ci-dessus) plafonne à 1 Mo en lecture comme en écriture.
+     Le catalogue peut dépasser cette taille (toute la boutique) : on lit alors
+     le contenu via les « blobs » et on écrit via blob → arbre → commit → ref.
+     Ça n'a pas de limite pratique (jusqu'à 100 Mo). */
+
+  function ghg(endpoint, options) {
+    options = options || {};
+    options.headers = {
+      'Authorization': 'Bearer ' + state.token,
+      'Accept': 'application/vnd.github+json',
+      'X-GitHub-Api-Version': '2022-11-28'
+    };
+    return fetch(GITAPI + endpoint + (options.method ? '' : '?t=' + Date.now()), options);
+  }
+
+  function okJson(r) {
+    if (!r.ok) return r.json().then(function (j) { throw new Error(j.message || ('Erreur ' + r.status)); });
+    return r.json();
+  }
+
+  /* Rend le contenu texte d'un fichier à partir de sa fiche Contents. Si le
+     contenu est inline (< 1 Mo) on le décode ; sinon on lit le blob par sha. */
+  function contenuDepuisMeta(meta) {
+    if (meta.content && meta.encoding === 'base64') {
+      return Promise.resolve(b64DecodeUtf8(meta.content));
+    }
+    return ghg('git/blobs/' + meta.sha).then(okJson).then(function (b) {
+      return b64DecodeUtf8(b.content);
+    });
+  }
+
+  /* Crée un blob Git à partir d'un contenu déjà encodé en base64. */
+  function creerBlob(base64Content) {
+    return ghg('git/blobs', { method: 'POST', body: JSON.stringify({ content: base64Content, encoding: 'base64' }) })
+      .then(okJson).then(function (b) { return b.sha; });
+  }
+
+  /* Écrit plusieurs fichiers en UN commit (photos + catalogue), sans limite de
+     taille. Échoue proprement si la branche a bougé entre-temps (fast-forward). */
+  function committerFichiers(fichiers, message) {
+    var parentSha, baseTreeSha;
+    return ghg('git/ref/heads/' + BRANCH).then(okJson).then(function (ref) {
+      parentSha = ref.object.sha;
+      return ghg('git/commits/' + parentSha).then(okJson);
+    }).then(function (commit) {
+      baseTreeSha = commit.tree.sha;
+      var arbre = [];
+      var chaine = Promise.resolve();
+      fichiers.forEach(function (f) {
+        chaine = chaine.then(function () { return creerBlob(f.base64); }).then(function (sha) {
+          arbre.push({ path: f.path, mode: '100644', type: 'blob', sha: sha });
+        });
+      });
+      return chaine.then(function () { return arbre; });
+    }).then(function (arbre) {
+      return ghg('git/trees', { method: 'POST', body: JSON.stringify({ base_tree: baseTreeSha, tree: arbre }) }).then(okJson);
+    }).then(function (tree) {
+      return ghg('git/commits', { method: 'POST', body: JSON.stringify({ message: message, tree: tree.sha, parents: [parentSha] }) }).then(okJson);
+    }).then(function (commit) {
+      return ghg('git/refs/heads/' + BRANCH, { method: 'PATCH', body: JSON.stringify({ sha: commit.sha, force: false }) }).then(okJson);
+    });
   }
 
   /* ---------- Connexion par mot de passe (AES-GCM + PBKDF2) ---------- */
@@ -340,7 +405,9 @@
       return r.json();
     }).then(function (j) {
       state.sha = j.sha;
-      state.catalogue = JSON.parse(b64DecodeUtf8(j.content));
+      return contenuDepuisMeta(j);
+    }).then(function (txt) {
+      state.catalogue = JSON.parse(txt);
       if (!state.catalogue.actualites) state.catalogue.actualites = [];
       state.empreinte = empreinteSansRobot(state.catalogue);
       setStatus('');
@@ -374,11 +441,15 @@
   /* Récupère la dernière version en ligne ; si seuls les robots ont écrit,
      greffe leurs champs dans notre copie et met à jour le sha pour republier. */
   function fusionnerRobots() {
+    var shaDistant;
     return gh(CATALOGUE_PATH).then(function (r) {
       if (!r.ok) throw new Error('Erreur ' + r.status);
       return r.json();
     }).then(function (j) {
-      var distant = JSON.parse(b64DecodeUtf8(j.content));
+      shaDistant = j.sha;
+      return contenuDepuisMeta(j);
+    }).then(function (txt) {
+      var distant = JSON.parse(txt);
       if (!distant.actualites) distant.actualites = [];
       if (empreinteSansRobot(distant) !== state.empreinte) throw new Error('CONFLIT_HUMAIN');
       var parId = {};
@@ -390,7 +461,7 @@
           if (d[c] === undefined) delete a[c]; else a[c] = d[c];
         });
       });
-      state.sha = j.sha;
+      state.sha = shaDistant;
     });
   }
 
@@ -948,35 +1019,32 @@
 
   function publish() {
     if (!state.nbModifs) return;
-    var btn = $('btn-publish');
-    btn.disabled = true;
-    var photos = Object.keys(state.pendingPhotos);
-    var chain = Promise.resolve();
-    photos.forEach(function (path, i) {
-      chain = chain.then(function () {
-        setStatus('Envoi de la photo ' + (i + 1) + '/' + photos.length + '…');
-        return putFile(path, state.pendingPhotos[path], 'Catalogue : ajout photo ' + path);
-      });
-    });
-    function enregistrerCatalogue() {
-      var content = b64EncodeUtf8(JSON.stringify(state.catalogue, null, 2));
-      return putFile(CATALOGUE_PATH, content, 'Catalogue : mise à jour depuis l\'administration', state.sha);
-    }
-    function estConflit(e) { return /does not match|409/.test(e.message); }
+    $('btn-publish').disabled = true;
 
-    chain.then(function () {
-      setStatus('Enregistrement…');
-      return enregistrerCatalogue().catch(function (e) {
-        if (!estConflit(e)) throw e;
-        // Un robot a écrit entre-temps (une vente !) : on fusionne et on réessaie.
-        setStatus('La boutique a reçu des mises à jour automatiques (ventes, liens de paiement)… je les récupère et je réessaie…');
-        return fusionnerRobots().then(enregistrerCatalogue).catch(function (e2) {
-          if (!estConflit(e2)) throw e2;
-          return fusionnerRobots().then(enregistrerCatalogue);
-        });
+    // Un seul commit : toutes les photos en attente + le catalogue.
+    function fichiersACommitter() {
+      var fichiers = [];
+      Object.keys(state.pendingPhotos).forEach(function (path) {
+        fichiers.push({ path: path, base64: state.pendingPhotos[path] });
       });
-    }).then(function (j) {
-      state.sha = j.content.sha;
+      fichiers.push({ path: CATALOGUE_PATH, base64: b64EncodeUtf8(JSON.stringify(state.catalogue, null, 2)) });
+      return fichiers;
+    }
+    function enregistrer() {
+      return committerFichiers(fichiersACommitter(), 'Catalogue : mise à jour depuis l\'administration');
+    }
+    // La branche a bougé (robot Stripe/stock) : le commit n'est pas en fast-forward.
+    function estConflit(e) { return /fast forward|fast-forward|does not match|not match|409|422/i.test(e.message); }
+
+    setStatus('Enregistrement…');
+    enregistrer().catch(function (e) {
+      if (!estConflit(e)) throw e;
+      setStatus('La boutique a reçu des mises à jour automatiques (ventes, liens de paiement)… je les récupère et je réessaie…');
+      return fusionnerRobots().then(enregistrer).catch(function (e2) {
+        if (!estConflit(e2)) throw e2;
+        return fusionnerRobots().then(enregistrer);
+      });
+    }).then(function () {
       state.empreinte = empreinteSansRobot(state.catalogue);
       state.pendingPhotos = {};
       state.nbModifs = 0;
@@ -985,7 +1053,7 @@
       setStatus('✓ C\'est en ligne ! Le site se met à jour dans 1 à 2 minutes.', true);
     }).catch(function (e) {
       updateStatusbar();
-      if (e.message === 'CONFLIT_HUMAIN' || estConflit(e)) {
+      if (e.message === 'CONFLIT_HUMAIN') {
         setStatus('');
         alert('Quelqu\'un d\'autre a modifié la boutique en même temps, depuis un autre appareil. Pour ne rien écraser, rechargez la page (touche F5) et refaites vos dernières modifications.');
       } else { setStatus(''); alert('Échec de la mise en ligne : ' + e.message); }

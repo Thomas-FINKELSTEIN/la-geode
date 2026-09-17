@@ -7498,16 +7498,25 @@
               "photo": "images/articles/pendentif-tourmaline-noire-mu5585fuadbq.jpg",
               "prixBoutique": 32,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/28E5kEfAubfT0g8gWd28a3L",
               "stripeProductId": "prod_VH6x7evYzjALkB",
+              "stripePriceId": "price_1UGYjHLOfCA5mATuX8IGXmeE",
+              "stripeLinkId": "plink_1UGYjHLOfCA5mATukc147UdG",
+              "stripePrix": 33.34,
               "stripeMode": "live",
               "stripeNom": "Pendentif tourmaline noire",
               "stripeDesc": "Ce pendentif en tourmaline noire est une pierre aux multiples vertus énergétiques. Associée à la protection et à l'ancrage, elle aide à absorber les énergies négatives et favorise un sentiment de sécurité intérieure. Parfaite pour une utilisation quotidienne, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à renforcer leur confiance en soi.",
-              "stripePriceId": "price_1UGYjHLOfCA5mATuX8IGXmeE",
-              "stripePrix": 33.34,
-              "stripeLinkId": "plink_1UGYjHLOfCA5mATukc147UdG",
-              "stripe": "https://buy.stripe.com/28E5kEfAubfT0g8gWd28a3L",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-tourmaline-noire-mu559xlvp5az",
+              "nom": "Pendentif tourmaline noire",
+              "prix": 33.34,
+              "description": "La tourmaline noire, aussi appelée tourmaline schörl, est une pierre puissante et protectrice, idéale pour équilibrer les énergies et apaiser les émotions. Portée en pendentif, elle est souvent utilisée pour absorber les énergies négatives et renforcer la stabilité intérieure. Parfaite pour ceux qui cherchent à se recentrer et à renforcer leur confiance, elle est aussi appréciée pour ses propriétés purifiantes.",
+              "photo": "images/articles/pendentif-tourmaline-noire-mu559xlvpddv.jpg",
+              "prixBoutique": 32,
+              "stock": 3
             }
           ]
         },

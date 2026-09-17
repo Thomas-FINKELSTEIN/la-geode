@@ -7516,7 +7516,17 @@
               "description": "La tourmaline noire, aussi appelée tourmaline schörl, est une pierre puissante et protectrice, idéale pour équilibrer les énergies et apaiser les émotions. Portée en pendentif, elle est souvent utilisée pour absorber les énergies négatives et renforcer la stabilité intérieure. Parfaite pour ceux qui cherchent à se recentrer et à renforcer leur confiance, elle est aussi appréciée pour ses propriétés purifiantes.",
               "photo": "images/articles/pendentif-tourmaline-noire-mu559xlvpddv.jpg",
               "prixBoutique": 32,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VH6ye13gIayXtA",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif tourmaline noire",
+              "stripeDesc": "La tourmaline noire, aussi appelée tourmaline schörl, est une pierre puissante et protectrice, idéale pour équilibrer les énergies et apaiser les émotions. Portée en pendentif, elle est souvent utilisée pour absorber les énergies négatives et renforcer la stabilité intérieure. Parfaite pour ceux qui cherchent à se recentrer et à renforcer leur confiance, elle est aussi appréciée pour ses propriétés purifiantes.",
+              "stripePriceId": "price_1UGYkgLOfCA5mATuXfA9TaUs",
+              "stripePrix": 33.34,
+              "stripeLinkId": "plink_1UGYkgLOfCA5mATux5xjfytg",
+              "stripe": "https://buy.stripe.com/3cI9AU4VQbfT0g8axP28a3M",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

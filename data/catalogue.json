@@ -7554,7 +7554,17 @@
               "description": "Ce pendentif en quartz rose met en valeur le symbole sacré du namasté, une invitation à la paix intérieure et à la connexion spirituelle. Le quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et l'apaisement des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver la douceur et l'harmonie dans leur vie.",
               "photo": "images/articles/pendentif-namaste-quartz-rose-mu55fj9uehc7.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VH72XQ4nr2vosE",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif namasté quartz rose",
+              "stripeDesc": "Ce pendentif en quartz rose met en valeur le symbole sacré du namasté, une invitation à la paix intérieure et à la connexion spirituelle. Le quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et l'apaisement des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver la douceur et l'harmonie dans leur vie.",
+              "stripePriceId": "price_1UGYorLOfCA5mATuO2vZKRv6",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UGYosLOfCA5mATuCy2nerFD",
+              "stripe": "https://buy.stripe.com/4gMaEY8823Nrfb2axP28a3O",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

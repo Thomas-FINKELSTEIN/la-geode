@@ -7555,16 +7555,25 @@
               "photo": "images/articles/pendentif-namaste-quartz-rose-mu55fj9uehc7.jpg",
               "prixBoutique": 24,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMaEY8823Nrfb2axP28a3O",
               "stripeProductId": "prod_VH72XQ4nr2vosE",
+              "stripePriceId": "price_1UGYorLOfCA5mATuO2vZKRv6",
+              "stripeLinkId": "plink_1UGYosLOfCA5mATuCy2nerFD",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif namasté quartz rose",
               "stripeDesc": "Ce pendentif en quartz rose met en valeur le symbole sacré du namasté, une invitation à la paix intérieure et à la connexion spirituelle. Le quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et l'apaisement des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver la douceur et l'harmonie dans leur vie.",
-              "stripePriceId": "price_1UGYorLOfCA5mATuO2vZKRv6",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UGYosLOfCA5mATuCy2nerFD",
-              "stripe": "https://buy.stripe.com/4gMaEY8823Nrfb2axP28a3O",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-kunzite-brute-mu55hx96vyq4",
+              "nom": "Pendentif kunzite brute",
+              "prix": 38.51,
+              "description": "Ce pendentif en kunzite brute est une pièce unique alliant beauté naturelle et énergie apaisante. La kunzite, pierre douce aux reflets délicats, est souvent associée à la douceur émotionnelle, à l'harmonie et à la compassion. Elle favoriserait l'ouverture du cœur et aiderait à apaiser les tensions intérieures, tout en renforçant la confiance en soi et la sérénité au quotidien.",
+              "photo": "images/articles/pendentif-kunzite-brute-mu55hx96ssg5.jpg",
+              "prixBoutique": 37,
+              "stock": 1
             }
           ]
         },

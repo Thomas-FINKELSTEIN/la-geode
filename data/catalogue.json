@@ -7536,16 +7536,25 @@
               "photo": "images/articles/pendentif-cristal-de-roche-namaste-mu55e0kcqowx.jpg",
               "prixBoutique": 24,
               "stock": 2,
+              "stripe": "https://buy.stripe.com/00w6oI73YabP3sk49r28a3N",
               "stripeProductId": "prod_VH71iWApymqTBd",
+              "stripePriceId": "price_1UGYnkLOfCA5mATuPOJhf29X",
+              "stripeLinkId": "plink_1UGYnkLOfCA5mATuJCJ5Wpxo",
+              "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif cristal de roche namasté",
               "stripeDesc": "Ce pendentif en cristal de roche représente le symbole sacré Om, associé à la paix et à la spiritualité. Porté au quotidien, il est censé favoriser la connexion à soi-même et renforcer l'énergie positive. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les intentions et purifier l'aura.",
-              "stripePriceId": "price_1UGYnkLOfCA5mATuPOJhf29X",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UGYnkLOfCA5mATuJCJ5Wpxo",
-              "stripe": "https://buy.stripe.com/00w6oI73YabP3sk49r28a3N",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pendentif-namaste-quartz-rose-mu55fj9uq9r8",
+              "nom": "Pendentif namasté quartz rose",
+              "prix": 25.07,
+              "description": "Ce pendentif en quartz rose met en valeur le symbole sacré du namasté, une invitation à la paix intérieure et à la connexion spirituelle. Le quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et l'apaisement des émotions. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver la douceur et l'harmonie dans leur vie.",
+              "photo": "images/articles/pendentif-namaste-quartz-rose-mu55fj9uehc7.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

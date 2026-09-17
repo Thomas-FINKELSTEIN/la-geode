@@ -7573,7 +7573,17 @@
               "description": "Ce pendentif en kunzite brute est une pièce unique alliant beauté naturelle et énergie apaisante. La kunzite, pierre douce aux reflets délicats, est souvent associée à la douceur émotionnelle, à l'harmonie et à la compassion. Elle favoriserait l'ouverture du cœur et aiderait à apaiser les tensions intérieures, tout en renforçant la confiance en soi et la sérénité au quotidien.",
               "photo": "images/articles/pendentif-kunzite-brute-mu55hx96ssg5.jpg",
               "prixBoutique": 37,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VH75d6oOpWRYzm",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif kunzite brute",
+              "stripeDesc": "Ce pendentif en kunzite brute est une pièce unique alliant beauté naturelle et énergie apaisante. La kunzite, pierre douce aux reflets délicats, est souvent associée à la douceur émotionnelle, à l'harmonie et à la compassion. Elle favoriserait l'ouverture du cœur et aiderait à apaiser les tensions intérieures, tout en renforçant la confiance en soi et la sérénité au quotidien.",
+              "stripePriceId": "price_1UGYquLOfCA5mATuF18wVRKx",
+              "stripePrix": 38.51,
+              "stripeLinkId": "plink_1UGYqvLOfCA5mATuS6vHtxor",
+              "stripe": "https://buy.stripe.com/aFacN6bke83Hd2UdK128a3P",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

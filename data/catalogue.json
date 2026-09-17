@@ -7611,7 +7611,17 @@
               "description": "",
               "photo": null,
               "prixBoutique": 29,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VHGraOZ8QDrnwZ",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz rose",
+              "stripeDesc": "",
+              "stripePriceId": "price_1UGiK7LOfCA5mATu3AHw2p8m",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UGiK7LOfCA5mATu3GMsR2q9",
+              "stripe": "https://buy.stripe.com/9B67sM0FAbfTgf66hz28a3T",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

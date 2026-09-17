@@ -7535,7 +7535,17 @@
               "description": "Ce pendentif en cristal de roche représente le symbole sacré Om, associé à la paix et à la spiritualité. Porté au quotidien, il est censé favoriser la connexion à soi-même et renforcer l'énergie positive. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les intentions et purifier l'aura.",
               "photo": "images/articles/pendentif-cristal-de-roche-namaste-mu55e0kcqowx.jpg",
               "prixBoutique": 24,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VH71iWApymqTBd",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cristal de roche namasté",
+              "stripeDesc": "Ce pendentif en cristal de roche représente le symbole sacré Om, associé à la paix et à la spiritualité. Porté au quotidien, il est censé favoriser la connexion à soi-même et renforcer l'énergie positive. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les intentions et purifier l'aura.",
+              "stripePriceId": "price_1UGYnkLOfCA5mATuPOJhf29X",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UGYnkLOfCA5mATuJCJ5Wpxo",
+              "stripe": "https://buy.stripe.com/00w6oI73YabP3sk49r28a3N",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

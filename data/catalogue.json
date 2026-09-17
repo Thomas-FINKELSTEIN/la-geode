@@ -7517,16 +7517,25 @@
               "photo": "images/articles/pendentif-tourmaline-noire-mu559xlvpddv.jpg",
               "prixBoutique": 32,
               "stock": 3,
+              "stripe": "https://buy.stripe.com/3cI9AU4VQbfT0g8axP28a3M",
               "stripeProductId": "prod_VH6ye13gIayXtA",
+              "stripePriceId": "price_1UGYkgLOfCA5mATuXfA9TaUs",
+              "stripeLinkId": "plink_1UGYkgLOfCA5mATux5xjfytg",
+              "stripePrix": 33.34,
               "stripeMode": "live",
               "stripeNom": "Pendentif tourmaline noire",
               "stripeDesc": "La tourmaline noire, aussi appelée tourmaline schörl, est une pierre puissante et protectrice, idéale pour équilibrer les énergies et apaiser les émotions. Portée en pendentif, elle est souvent utilisée pour absorber les énergies négatives et renforcer la stabilité intérieure. Parfaite pour ceux qui cherchent à se recentrer et à renforcer leur confiance, elle est aussi appréciée pour ses propriétés purifiantes.",
-              "stripePriceId": "price_1UGYkgLOfCA5mATuXfA9TaUs",
-              "stripePrix": 33.34,
-              "stripeLinkId": "plink_1UGYkgLOfCA5mATux5xjfytg",
-              "stripe": "https://buy.stripe.com/3cI9AU4VQbfT0g8axP28a3M",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cristal-de-roche-namaste-mu55e0kcozzc",
+              "nom": "Pendentif cristal de roche namasté",
+              "prix": 25.07,
+              "description": "Ce pendentif en cristal de roche représente le symbole sacré Om, associé à la paix et à la spiritualité. Porté au quotidien, il est censé favoriser la connexion à soi-même et renforcer l'énergie positive. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les intentions et purifier l'aura.",
+              "photo": "images/articles/pendentif-cristal-de-roche-namaste-mu55e0kcqowx.jpg",
+              "prixBoutique": 24,
+              "stock": 2
             }
           ]
         },

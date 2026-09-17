@@ -7574,16 +7574,25 @@
               "photo": "images/articles/pendentif-kunzite-brute-mu55hx96ssg5.jpg",
               "prixBoutique": 37,
               "stock": 1,
+              "stripe": "https://buy.stripe.com/aFacN6bke83Hd2UdK128a3P",
               "stripeProductId": "prod_VH75d6oOpWRYzm",
+              "stripePriceId": "price_1UGYquLOfCA5mATuF18wVRKx",
+              "stripeLinkId": "plink_1UGYqvLOfCA5mATuS6vHtxor",
+              "stripePrix": 38.51,
               "stripeMode": "live",
               "stripeNom": "Pendentif kunzite brute",
               "stripeDesc": "Ce pendentif en kunzite brute est une pièce unique alliant beauté naturelle et énergie apaisante. La kunzite, pierre douce aux reflets délicats, est souvent associée à la douceur émotionnelle, à l'harmonie et à la compassion. Elle favoriserait l'ouverture du cœur et aiderait à apaiser les tensions intérieures, tout en renforçant la confiance en soi et la sérénité au quotidien.",
-              "stripePriceId": "price_1UGYquLOfCA5mATuF18wVRKx",
-              "stripePrix": 38.51,
-              "stripeLinkId": "plink_1UGYqvLOfCA5mATuS6vHtxor",
-              "stripe": "https://buy.stripe.com/aFacN6bke83Hd2UdK128a3P",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-cristal-de-roche-mu55j97tzvmv",
+              "nom": "Pendentif cristal de roche",
+              "prix": 25.07,
+              "description": "Ce pendentif en cristal de roche est une pièce lumineuse et intemporelle, idéale pour apporter clarté et sérénité au quotidien. En lithothérapie, le cristal de roche est souvent utilisé pour amplifier les énergies positives, favoriser la concentration et renforcer la connexion à son intuition. Parfait pour être porté en collier ou offert en cadeau, il s’intègre facilement dans une décoration bohème ou spirituelle.",
+              "photo": "images/articles/pendentif-cristal-de-roche-mu55j97tpxu0.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

@@ -4971,15 +4971,15 @@
               "photo": "images/articles/pendentif-oeil-de-tigre-mtx4h6ua6f8y.jpg",
               "prixBoutique": 24,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/8x2bJ25ZUbfT1kcbBT28b2N",
+              "stripe": "https://buy.stripe.com/14A7sM882abP3sk5dv28b1Z",
               "stripeProductId": "prod_VF0ardciUq1oEX",
               "stripePriceId": "price_1UGwaWLOfCA5mATu1R4SULKp",
-              "stripeLinkId": "plink_1UH28hLOfCA5mATuhdbIVh9n",
+              "stripeLinkId": "plink_1UGwaWLOfCA5mATudLWbxj1W",
               "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif oeil de tigre",
               "stripeDesc": "Ce pendentif en oeil de tigre est une pièce naturelle aux reflets dorés et aux motifs en bandes captivants. Selon la lithothérapie, cette pierre est souvent associée à la vitalité, la protection et l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'énergie positive. Parfait pour être porté au quotidien, il apporte une touche élégante tout en invitant à une harmonie intérieure.",
-              "stripeStock": 2,
+              "stripeStock": 1,
               "epuise": false
             },
             {
@@ -7839,17 +7839,7 @@
               "description": "Ce pendentif en chrysocolle offre une belle harmonie de teintes bleutées et vertes, captivantes et apaisantes. La chrysocolle est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les tensions et à favoriser une énergie positive au quotidien. Porté près du cœur, il est idéal pour ceux qui cherchent à renforcer leur connexion avec la douceur et la stabilité intérieure.",
               "photo": "images/articles/pendentif-chrysocolle-mu6ok1ru7kwf.jpg",
               "prixBoutique": 36,
-              "stock": 1,
-              "stripeProductId": "prod_VHbLjhLIlxBLDv",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif chrysocolle",
-              "stripeDesc": "Ce pendentif en chrysocolle offre une belle harmonie de teintes bleutées et vertes, captivantes et apaisantes. La chrysocolle est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les tensions et à favoriser une énergie positive au quotidien. Porté près du cœur, il est idéal pour ceux qui cherchent à renforcer leur connexion avec la douceur et la stabilité intérieure.",
-              "stripePriceId": "price_1UH28hLOfCA5mATumLptAO3h",
-              "stripePrix": 37.47,
-              "stripeLinkId": "plink_1UH28iLOfCA5mATuEyStT4VU",
-              "stripe": "https://buy.stripe.com/9B6cN61JE0Bf5As35n28b2O",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-malachite-mu6ouilet5ya",
@@ -7858,17 +7848,7 @@
               "description": "Ce pendentif en malachite met en valeur les magnifiques bandes vert émeraude caractéristiques de cette pierre, symbole de vitalité et de croissance. En lithothérapie, la malachite est souvent associée à la protection, à l'équilibre émotionnel et à la stimulation de la créativité. Elle est idéale pour apporter énergie positive et harmonie au quotidien, tout en rappelant les bienfaits de la nature.",
               "photo": "images/articles/pendentif-malachite-mu6ouilegmve.jpg",
               "prixBoutique": 36,
-              "stock": 1,
-              "stripeProductId": "prod_VHbLb0GrlK7cZ2",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif malachite",
-              "stripeDesc": "Ce pendentif en malachite met en valeur les magnifiques bandes vert émeraude caractéristiques de cette pierre, symbole de vitalité et de croissance. En lithothérapie, la malachite est souvent associée à la protection, à l'équilibre émotionnel et à la stimulation de la créativité. Elle est idéale pour apporter énergie positive et harmonie au quotidien, tout en rappelant les bienfaits de la nature.",
-              "stripePriceId": "price_1UH28iLOfCA5mATuLeySrgqg",
-              "stripePrix": 37.47,
-              "stripeLinkId": "plink_1UH28iLOfCA5mATurzFJNSBr",
-              "stripe": "https://buy.stripe.com/28E3cw882cjX1kc9tL28b2P",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-labradorite-mu6zuljhglzs",
@@ -7877,17 +7857,7 @@
               "description": "Ce pendentif en labradorite capte la lumière pour créer des reflets bleutés et dorés, offrant une touche mystique et élégante. La labradorite est souvent appelée la pierre des mystiques, car elle est associée à l'intuition, à la protection spirituelle et à l'ouverture des chakras. Portée au quotidien, elle est réputée pour renforcer la confiance en soi et favoriser une connexion profonde avec son intuition.",
               "photo": "images/articles/pendentif-labradorite-mu6zuljhvd1c.jpg",
               "prixBoutique": 26,
-              "stock": 1,
-              "stripeProductId": "prod_VHbLGGXjYECbZU",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif labradorite",
-              "stripeDesc": "Ce pendentif en labradorite capte la lumière pour créer des reflets bleutés et dorés, offrant une touche mystique et élégante. La labradorite est souvent appelée la pierre des mystiques, car elle est associée à l'intuition, à la protection spirituelle et à l'ouverture des chakras. Portée au quotidien, elle est réputée pour renforcer la confiance en soi et favoriser une connexion profonde avec son intuition.",
-              "stripePriceId": "price_1UH28iLOfCA5mATuz8stcIK8",
-              "stripePrix": 27.14,
-              "stripeLinkId": "plink_1UH28jLOfCA5mATuldVtNfnT",
-              "stripe": "https://buy.stripe.com/eVq14oaga5VzaUMdK128b2Q",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-labradorite-mu701rf31uza",
@@ -7896,17 +7866,7 @@
               "description": "Ce pendentif en labradorite capte la lumière pour révéler ses reflets bleutés et dorés, créant un jeu de couleurs hypnotique. La labradorite est souvent appelée la pierre de magie et de mystère, car elle serait chargée d’une énergie protectrice et inspirante. Portée au quotidien, elle aiderait à renforcer la confiance en soi et à apaiser les émotions, tout en attirant la sagesse et la clarté mentale.",
               "photo": "images/articles/pendentif-labradorite-mu701rf3un1e.jpg",
               "prixBoutique": 26,
-              "stock": 1,
-              "stripeProductId": "prod_VHbLZSsBHeu90z",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif labradorite",
-              "stripeDesc": "Ce pendentif en labradorite capte la lumière pour révéler ses reflets bleutés et dorés, créant un jeu de couleurs hypnotique. La labradorite est souvent appelée la pierre de magie et de mystère, car elle serait chargée d’une énergie protectrice et inspirante. Portée au quotidien, elle aiderait à renforcer la confiance en soi et à apaiser les émotions, tout en attirant la sagesse et la clarté mentale.",
-              "stripePriceId": "price_1UH28jLOfCA5mATuZUpcaLMu",
-              "stripePrix": 27.14,
-              "stripeLinkId": "plink_1UH28jLOfCA5mATuIwuB9zKH",
-              "stripe": "https://buy.stripe.com/cNi5kE2NI4Rv0g88pH28b2R",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-labradorite-mu7047olmd6f",
@@ -7915,17 +7875,7 @@
               "description": "Ce pendentif en labradorite capte la lumière pour révéler ses reflets bleutés et verts, créant un jeu de couleurs hypnotique. La labradorite est souvent appelée la pierre de magie et de mystère, utilisée pour renforcer la confiance en soi et protéger contre les énergies négatives. Portée au quotidien, elle est idéale pour ceux qui cherchent à stimuler leur intuition et leur créativité.",
               "photo": "images/articles/pendentif-labradorite-mu7047ol4g90.jpg",
               "prixBoutique": 26,
-              "stock": 1,
-              "stripeProductId": "prod_VHbLy3o2FEwKhU",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif labradorite",
-              "stripeDesc": "Ce pendentif en labradorite capte la lumière pour révéler ses reflets bleutés et verts, créant un jeu de couleurs hypnotique. La labradorite est souvent appelée la pierre de magie et de mystère, utilisée pour renforcer la confiance en soi et protéger contre les énergies négatives. Portée au quotidien, elle est idéale pour ceux qui cherchent à stimuler leur intuition et leur créativité.",
-              "stripePriceId": "price_1UH28jLOfCA5mATuVODsY5B2",
-              "stripePrix": 27.14,
-              "stripeLinkId": "plink_1UH28kLOfCA5mATuQGQphBHR",
-              "stripe": "https://buy.stripe.com/6oUaEYagaes5aUM0Xf28b2S",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-labradorite-mu709e3h46m6",
@@ -7934,17 +7884,7 @@
               "description": "Ce pendentif en labradorite capte la lumière pour révéler des reflets bleutés et dorés, créant un jeu de couleurs unique à chaque mouvement. La labradorite est souvent appelée la pierre de magie et de transformation, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Portée en bijou, elle est appréciée pour son pouvoir d’ouverture spirituelle et son influence apaisante sur les émotions.",
               "photo": "images/articles/pendentif-labradorite-mu709e3hojgp.jpg",
               "prixBoutique": 26,
-              "stock": 1,
-              "stripeProductId": "prod_VHbL5NchsPQ3l2",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif labradorite",
-              "stripeDesc": "Ce pendentif en labradorite capte la lumière pour révéler des reflets bleutés et dorés, créant un jeu de couleurs unique à chaque mouvement. La labradorite est souvent appelée la pierre de magie et de transformation, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Portée en bijou, elle est appréciée pour son pouvoir d’ouverture spirituelle et son influence apaisante sur les émotions.",
-              "stripePriceId": "price_1UH28kLOfCA5mATu1Jk4sfAc",
-              "stripePrix": 27.14,
-              "stripeLinkId": "plink_1UH28kLOfCA5mATu1tOiZnXt",
-              "stripe": "https://buy.stripe.com/8x214ocoi0Bfe6Y7lD28b2T",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-labradorite-mu70cj6tt5ad",
@@ -7953,17 +7893,7 @@
               "description": "Ce pendentif en labradorite capture la lumière pour révéler des reflets bleutés et verts magiques, créant un jeu de couleurs unique à chaque mouvement. La labradorite est souvent appelée la pierre des mystiques, car elle est réputée renforcer la connexion spirituelle et protéger contre les énergies négatives. Portée en bijou, elle aide à stimuler la confiance en soi et à apaiser les émotions, tout en favorisant une intuition plus aiguisée.",
               "photo": "images/articles/pendentif-labradorite-mu70eqgu5ffd.jpg",
               "prixBoutique": 26,
-              "stock": 1,
-              "stripeProductId": "prod_VHbLHSdDlknRHB",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif labradorite",
-              "stripeDesc": "Ce pendentif en labradorite capture la lumière pour révéler des reflets bleutés et verts magiques, créant un jeu de couleurs unique à chaque mouvement. La labradorite est souvent appelée la pierre des mystiques, car elle est réputée renforcer la connexion spirituelle et protéger contre les énergies négatives. Portée en bijou, elle aide à stimuler la confiance en soi et à apaiser les émotions, tout en favorisant une intuition plus aiguisée.",
-              "stripePriceId": "price_1UH28kLOfCA5mATusBJZvlXX",
-              "stripePrix": 27.14,
-              "stripeLinkId": "plink_1UH28lLOfCA5mATumlirdJjx",
-              "stripe": "https://buy.stripe.com/4gM28scoies54wodK128b2U",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-cristal-de-roche-mu70j785nqp6",
@@ -7972,17 +7902,16 @@
               "description": "Ce pendentif en cristal de roche est une pièce pure et lumineuse, idéale pour apporter clarté et équilibre dans votre quotidien. En lithothérapie, cette pierre est souvent utilisée pour amplifier les énergies positives, favoriser la concentration et purifier les émotions. Parfait à porter au quotidien, il est aussi un excellent allié pour méditation et visualisation.",
               "photo": "images/articles/pendentif-cristal-de-roche-mu70j785w6ps.jpg",
               "prixBoutique": 24,
-              "stock": 1,
-              "stripeProductId": "prod_VHbL6p0vO1IZV0",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif cristal de roche",
-              "stripeDesc": "Ce pendentif en cristal de roche est une pièce pure et lumineuse, idéale pour apporter clarté et équilibre dans votre quotidien. En lithothérapie, cette pierre est souvent utilisée pour amplifier les énergies positives, favoriser la concentration et purifier les émotions. Parfait à porter au quotidien, il est aussi un excellent allié pour méditation et visualisation.",
-              "stripePriceId": "price_1UH28lLOfCA5mATunTOXDBsj",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UH28lLOfCA5mATuBco0yw3T",
-              "stripe": "https://buy.stripe.com/5kQ4gAbkedo1fb2axP28b2V",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "pendentif-quartz-hematoide-mu70o6ud6acd",
+              "nom": "Pendentif quartz hématoide",
+              "prix": 23,
+              "description": "Ce pendentif en quartz hématoïde est une pierre aux reflets dorés et translucides, parfaite pour apporter douceur et équilibre dans votre quotidien. En lithothérapie, elle est souvent utilisée pour stimuler la vitalité et renforcer la confiance en soi, tout en aidant à libérer les tensions émotionnelles. Son énergie apaisante en fait un allié idéal pour méditer ou simplement porter au quotidien pour une touche de bien-être naturel.",
+              "photo": "images/articles/pendentif-quartz-hematoide-mu70o6udh0u7.jpg",
+              "prixBoutique": 22,
+              "stock": 1
             }
           ]
         },

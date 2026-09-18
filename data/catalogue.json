@@ -2425,15 +2425,15 @@
               "photo": "images/articles/pendentif-quartz-rose-mtu6ojlf0mdn.jpg",
               "prixBoutique": 32,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/28E5kE4VQbfTd2UeO528b13",
+              "stripe": "https://buy.stripe.com/14A7sM0FA4Rv7IA9tL2892O",
               "stripeProductId": "prod_VEEolVgYtEMuwP",
               "stripePriceId": "price_1UDmKrLOfCA5mATuJWcgYeZ3",
-              "stripeLinkId": "plink_1UGwTMLOfCA5mATuUjQz0wiR",
+              "stripeLinkId": "plink_1UDmKsLOfCA5mATury3HwiGp",
               "stripePrix": 33.34,
               "stripeMode": "live",
               "stripeNom": "Pendentif quartz rose",
               "stripeDesc": "Ce pendentif en quartz rose est une pierre douce et apaisante, souvent appelée la pierre de l'amour et de la compassion. En lithothérapie, elle est réputée pour favoriser l'harmonie émotionnelle, renforcer les liens affectifs et apaiser les tensions du cœur. Porté au quotidien, il est idéal pour cultiver la tendresse et la bienveillance envers soi-même et les autres.",
-              "stripeStock": 2,
+              "stripeStock": 1,
               "epuise": false
             },
             {
@@ -4966,10 +4966,10 @@
             {
               "id": "pendentif-oeil-de-tigre-mtx4h6uanrz3",
               "nom": "Pendentif oeil de tigre",
-              "prix": 35.41,
+              "prix": 25.07,
               "description": "Ce pendentif en oeil de tigre est une pièce naturelle aux reflets dorés et aux motifs en bandes captivants. Selon la lithothérapie, cette pierre est souvent associée à la vitalité, la protection et l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'énergie positive. Parfait pour être porté au quotidien, il apporte une touche élégante tout en invitant à une harmonie intérieure.",
               "photo": "images/articles/pendentif-oeil-de-tigre-mtx4h6ua6f8y.jpg",
-              "prixBoutique": 34,
+              "prixBoutique": 24,
               "stock": 1,
               "stripe": "https://buy.stripe.com/8x2bJ29c6do1bYQfS928a1e",
               "stripeProductId": "prod_VF0ardciUq1oEX",
@@ -7630,17 +7630,7 @@
               "description": "Ce pendentif en quartz rose cerclée est une pièce délicate et apaisante, souvent associée à l'amour inconditionnel et à la douceur émotionnelle. En lithothérapie, cette pierre est réputée pour favoriser la compassion, apaiser les tensions et renforcer les liens affectifs. Parfaite pour être portée au quotidien, elle est idéale pour ceux qui cherchent à cultiver la sérénité et l'harmonie dans leur vie.",
               "photo": "images/articles/pendentif-quartz-rose-cerclee-mu6mlceqyoko.jpg",
               "prixBoutique": 54,
-              "stock": 1,
-              "stripeProductId": "prod_VHVUvVs9rMKgN8",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif quartz rose cerclée",
-              "stripeDesc": "Ce pendentif en quartz rose cerclée est une pièce délicate et apaisante, souvent associée à l'amour inconditionnel et à la douceur émotionnelle. En lithothérapie, cette pierre est réputée pour favoriser la compassion, apaiser les tensions et renforcer les liens affectifs. Parfaite pour être portée au quotidien, elle est idéale pour ceux qui cherchent à cultiver la sérénité et l'harmonie dans leur vie.",
-              "stripePriceId": "price_1UGwTNLOfCA5mATucL2SmPI9",
-              "stripePrix": 56.08,
-              "stripeLinkId": "plink_1UGwTNLOfCA5mATu82f5LQTg",
-              "stripe": "https://buy.stripe.com/28EbJ2882cjXaUM0Xf28b14",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-quartz-rose-argent-mu6mmmqlqnj8",
@@ -7649,17 +7639,7 @@
               "description": "Ce pendentif en quartz rose argent est un allié précieux pour apaiser le cœur et favoriser l’harmonie émotionnelle. Associé à la douceur et à la compassion, cette pierre douce est idéale pour cultiver l’amour inconditionnel et renforcer les liens. Parfait à porter au quotidien, il diffuse une énergie apaisante et encourage la tendresse envers soi-même et les autres.",
               "photo": "images/articles/pendentif-quartz-rose-argent-mu6mmmql45y1.jpg",
               "prixBoutique": 24,
-              "stock": 1,
-              "stripeProductId": "prod_VHVUaI1Tl8oVTm",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif quartz rose argent",
-              "stripeDesc": "Ce pendentif en quartz rose argent est un allié précieux pour apaiser le cœur et favoriser l’harmonie émotionnelle. Associé à la douceur et à la compassion, cette pierre douce est idéale pour cultiver l’amour inconditionnel et renforcer les liens. Parfait à porter au quotidien, il diffuse une énergie apaisante et encourage la tendresse envers soi-même et les autres.",
-              "stripePriceId": "price_1UGwTNLOfCA5mATuCjPyhihl",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UGwTNLOfCA5mATuDdPsKsEj",
-              "stripe": "https://buy.stripe.com/fZufZifAu97L2og35n28b15",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-morganite-mu6mo039kqtd",
@@ -7668,17 +7648,7 @@
               "description": "Ce pendentif en morganite, pierre douce aux reflets rosés et translucides, est une véritable invitation à l'apaisement et à l'harmonie émotionnelle. En lithothérapie, la morganite est souvent associée à la douceur du cœur, favorisant l’ouverture émotionnelle et la compassion envers soi-même et les autres. Elle est idéale pour porter au quotidien, que ce soit pour se reconnecter à sa sensibilité ou pour cultiver une énergie bienveillante.",
               "photo": "images/articles/pendentif-morganite-mu6mo039iz01.jpg",
               "prixBoutique": 26,
-              "stock": 1,
-              "stripeProductId": "prod_VHVUhWK5oOGohs",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif morganite",
-              "stripeDesc": "Ce pendentif en morganite, pierre douce aux reflets rosés et translucides, est une véritable invitation à l'apaisement et à l'harmonie émotionnelle. En lithothérapie, la morganite est souvent associée à la douceur du cœur, favorisant l’ouverture émotionnelle et la compassion envers soi-même et les autres. Elle est idéale pour porter au quotidien, que ce soit pour se reconnecter à sa sensibilité ou pour cultiver une énergie bienveillante.",
-              "stripePriceId": "price_1UGwTOLOfCA5mATusVFv55sr",
-              "stripePrix": 27.14,
-              "stripeLinkId": "plink_1UGwTOLOfCA5mATuBUisEsp3",
-              "stripe": "https://buy.stripe.com/28E5kE73Y3Nr7IA0Xf28b16",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-coeur-quartz-blanc-et-tourmali-mu6mppn2zkda",
@@ -7687,17 +7657,7 @@
               "description": "Ce pendentif en forme de cœur associe la pureté et l'énergie apaisante du quartz blanc à la douceur vibrante de la tourmaline. Parfait pour harmoniser les émotions et apporter une énergie positive au quotidien, il est idéal pour porter en collier ou offrir en cadeau bienveillant. En lithothérapie, il est souvent utilisé pour renforcer la connexion à soi et favoriser la sérénité.",
               "photo": "images/articles/pendentif-coeur-quartz-blanc-et-tourmali-mu6mppn3hpoi.jpg",
               "prixBoutique": 21,
-              "stock": 1,
-              "stripeProductId": "prod_VHVUTcRRIOZL0U",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif coeur quartz blanc et tourmaline",
-              "stripeDesc": "Ce pendentif en forme de cœur associe la pureté et l'énergie apaisante du quartz blanc à la douceur vibrante de la tourmaline. Parfait pour harmoniser les émotions et apporter une énergie positive au quotidien, il est idéal pour porter en collier ou offrir en cadeau bienveillant. En lithothérapie, il est souvent utilisé pour renforcer la connexion à soi et favoriser la sérénité.",
-              "stripePriceId": "price_1UGwTOLOfCA5mATuled5mMdK",
-              "stripePrix": 21.97,
-              "stripeLinkId": "plink_1UGwTOLOfCA5mATu3kP4bU62",
-              "stripe": "https://buy.stripe.com/5kQ00kewq83H0g88pH28b17",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-cristal-de-roche-tourmaline-mu6mwtg0mjgt",
@@ -7706,17 +7666,7 @@
               "description": "Ce pendentif élégant associe la pureté cristalline du cristal de roche et l'énergie équilibrante de la tourmaline. En lithothérapie, il est souvent utilisé pour purifier l'aura, renforcer la connexion à soi et apaiser les émotions. Parfait pour une touche minérale raffinée au quotidien, il peut être porté en collier pour bénéficier de ses propriétés harmonisantes.",
               "photo": "images/articles/pendentif-cristal-de-roche-tourmaline-mu6myjx8zbb4.jpg",
               "prixBoutique": 21,
-              "stock": 2,
-              "stripeProductId": "prod_VHVUFcrzyv0qEI",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif cristal de roche tourmaline",
-              "stripeDesc": "Ce pendentif élégant associe la pureté cristalline du cristal de roche et l'énergie équilibrante de la tourmaline. En lithothérapie, il est souvent utilisé pour purifier l'aura, renforcer la connexion à soi et apaiser les émotions. Parfait pour une touche minérale raffinée au quotidien, il peut être porté en collier pour bénéficier de ses propriétés harmonisantes.",
-              "stripePriceId": "price_1UGwTPLOfCA5mATuFTVZheOc",
-              "stripePrix": 21.97,
-              "stripeLinkId": "plink_1UGwTPLOfCA5mATu2SrSh19z",
-              "stripe": "https://buy.stripe.com/eVq14odsm4Rv9QIbBT28b18",
-              "stripeStock": 2,
-              "epuise": false
+              "stock": 2
             },
             {
               "id": "pendentif-cristal-de-roche-tourmaline-mu6n00z99y1s",
@@ -7725,17 +7675,7 @@
               "description": "Ce pendentif en cristal de roche tourmaline allie la pureté cristalline du quartz et les propriétés harmonisantes de la tourmaline. Porté près du cœur ou du troisième œil, il est réputé pour apaiser les émotions, équilibrer les énergies et favoriser la connexion à soi-même. Idéal pour une méditation apaisante ou comme talisman quotidien, il apporte clarté et sérénité dans le quotidien.",
               "photo": "images/articles/pendentif-cristal-de-roche-tourmaline-mu6n00z9p58o.jpg",
               "prixBoutique": 21,
-              "stock": 1,
-              "stripeProductId": "prod_VHVUuYNArFpZzK",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif cristal de roche tourmaline",
-              "stripeDesc": "Ce pendentif en cristal de roche tourmaline allie la pureté cristalline du quartz et les propriétés harmonisantes de la tourmaline. Porté près du cœur ou du troisième œil, il est réputé pour apaiser les émotions, équilibrer les énergies et favoriser la connexion à soi-même. Idéal pour une méditation apaisante ou comme talisman quotidien, il apporte clarté et sérénité dans le quotidien.",
-              "stripePriceId": "price_1UGwTPLOfCA5mATuZnysvw07",
-              "stripePrix": 21.97,
-              "stripeLinkId": "plink_1UGwTPLOfCA5mATugmP0XRYi",
-              "stripe": "https://buy.stripe.com/7sY4gAgEyfw92ogaxP28b19",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-cristal-de-roche-tourmaline-mu6n1v2t07tj",
@@ -7744,17 +7684,7 @@
               "description": "Ce pendentif en cristal de roche tourmaline allie la pureté énergétique du cristal de roche et les propriétés équilibrantes de la tourmaline. Traditionnellement utilisé en lithothérapie pour apaiser les émotions et renforcer la connexion à soi, il est idéal pour harmoniser le corps et l’esprit au quotidien. Son éclat naturel en fait aussi un accessoire élégant et intemporel.",
               "photo": "images/articles/pendentif-cristal-de-roche-tourmaline-mu6n1v2tubp9.jpg",
               "prixBoutique": 21,
-              "stock": 1,
-              "stripeProductId": "prod_VHVU2kv6HTx8ZT",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif cristal de roche tourmaline",
-              "stripeDesc": "Ce pendentif en cristal de roche tourmaline allie la pureté énergétique du cristal de roche et les propriétés équilibrantes de la tourmaline. Traditionnellement utilisé en lithothérapie pour apaiser les émotions et renforcer la connexion à soi, il est idéal pour harmoniser le corps et l’esprit au quotidien. Son éclat naturel en fait aussi un accessoire élégant et intemporel.",
-              "stripePriceId": "price_1UGwTQLOfCA5mATu7K6mOLwR",
-              "stripePrix": 21.97,
-              "stripeLinkId": "plink_1UGwTQLOfCA5mATuUDjU49By",
-              "stripe": "https://buy.stripe.com/4gM4gA73YbfT4wo5dv28b1a",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-jaspe-sang-de-dragon-mu6n37r0b0cs",
@@ -7763,17 +7693,7 @@
               "description": "Ce pendentif en jaspe sang de dragon est une pierre aux couleurs vibrantes et captivantes, mêlant des reflets verts et des éclats rouges intenses. Selon la lithothérapie, cette pierre est souvent associée à la vitalité, à la passion et à la reconnexion avec ses forces intérieures. Elle est idéale pour stimuler l'énergie et renforcer la confiance en soi, tout en apaisant les émotions.",
               "photo": "images/articles/pendentif-jaspe-sang-de-dragon-mu6n37r0tthv.jpg",
               "prixBoutique": 29,
-              "stock": 1,
-              "stripeProductId": "prod_VHVUu9J51IMtry",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif jaspe sang de dragon",
-              "stripeDesc": "Ce pendentif en jaspe sang de dragon est une pierre aux couleurs vibrantes et captivantes, mêlant des reflets verts et des éclats rouges intenses. Selon la lithothérapie, cette pierre est souvent associée à la vitalité, à la passion et à la reconnexion avec ses forces intérieures. Elle est idéale pour stimuler l'énergie et renforcer la confiance en soi, tout en apaisant les émotions.",
-              "stripePriceId": "price_1UGwTQLOfCA5mATuARqjuqcu",
-              "stripePrix": 30.24,
-              "stripeLinkId": "plink_1UGwTQLOfCA5mATuPC5EhVMe",
-              "stripe": "https://buy.stripe.com/eVqbJ21JEdo15As8pH28b1b",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-aragonite-mu6n52nq0vdw",
@@ -7782,17 +7702,7 @@
               "description": "Ce pendentif en aragonite met en valeur les doux motifs striés de cette pierre naturelle, aux teintes chaudes et apaisantes. En lithothérapie, l'aragonite est souvent associée à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Elle favorise également une énergie harmonieuse et est idéale pour ceux qui cherchent à cultiver la sérénité au quotidien.",
               "photo": "images/articles/pendentif-aragonite-mu6n52nqfnda.jpg",
               "prixBoutique": 27,
-              "stock": 1,
-              "stripeProductId": "prod_VHVUpWUGajdsfs",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif aragonite",
-              "stripeDesc": "Ce pendentif en aragonite met en valeur les doux motifs striés de cette pierre naturelle, aux teintes chaudes et apaisantes. En lithothérapie, l'aragonite est souvent associée à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Elle favorise également une énergie harmonieuse et est idéale pour ceux qui cherchent à cultiver la sérénité au quotidien.",
-              "stripePriceId": "price_1UGwTQLOfCA5mATunkjKPZPE",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UGwTRLOfCA5mATuEabiCwYV",
-              "stripe": "https://buy.stripe.com/00w5kEdsmabP6Ew35n28b1c",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-aragonite-mu6n6iemuio6",
@@ -7801,17 +7711,7 @@
               "description": "Ce pendentif en aragonite est une pièce naturelle aux reflets dorés et aux motifs uniques, parfait pour apporter une touche minérale élégante à vos tenues. L'aragonite est souvent associée à l'équilibre émotionnel et à la stabilité, aidant à apaiser les tensions et à renforcer la confiance en soi. Utilisée en lithothérapie, elle favorise également la connexion à la terre et encourage une énergie harmonieuse au quotidien.",
               "photo": "images/articles/pendentif-aragonite-mu6n6ieml9z9.jpg",
               "prixBoutique": 27,
-              "stock": 1,
-              "stripeProductId": "prod_VHVUaA8XqVruWW",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif aragonite",
-              "stripeDesc": "Ce pendentif en aragonite est une pièce naturelle aux reflets dorés et aux motifs uniques, parfait pour apporter une touche minérale élégante à vos tenues. L'aragonite est souvent associée à l'équilibre émotionnel et à la stabilité, aidant à apaiser les tensions et à renforcer la confiance en soi. Utilisée en lithothérapie, elle favorise également la connexion à la terre et encourage une énergie harmonieuse au quotidien.",
-              "stripePriceId": "price_1UGwTRLOfCA5mATuqnniwEyE",
-              "stripePrix": 28.17,
-              "stripeLinkId": "plink_1UGwTRLOfCA5mATuVNGIhaJp",
-              "stripe": "https://buy.stripe.com/bJe8wQ5ZUcjX8ME7lD28b1d",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-jaspe-rouge-chevron-mu6nfqro7use",
@@ -7820,17 +7720,7 @@
               "description": "Ce pendentif en jaspe rouge chevron est une pierre naturelle aux motifs en forme de vagues, symbolisant la fluidité et le mouvement de la vie. En lithothérapie, il est souvent associé à la stabilité émotionnelle, à la force intérieure et à l’ancrage dans le quotidien. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur détermination et leur équilibre intérieur.",
               "photo": "images/articles/pendentif-jaspe-rouge-chevron-mu6nfqronqde.jpg",
               "prixBoutique": 23,
-              "stock": 1,
-              "stripeProductId": "prod_VHVU3TwKgKoUGB",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif jaspe rouge chevron",
-              "stripeDesc": "Ce pendentif en jaspe rouge chevron est une pierre naturelle aux motifs en forme de vagues, symbolisant la fluidité et le mouvement de la vie. En lithothérapie, il est souvent associé à la stabilité émotionnelle, à la force intérieure et à l’ancrage dans le quotidien. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur détermination et leur équilibre intérieur.",
-              "stripePriceId": "price_1UGwTRLOfCA5mATuwUEWVAHR",
-              "stripePrix": 24.04,
-              "stripeLinkId": "plink_1UGwTSLOfCA5mATuMwG3vUdE",
-              "stripe": "https://buy.stripe.com/dRmcN62NIfw93sk9tL28b1e",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },

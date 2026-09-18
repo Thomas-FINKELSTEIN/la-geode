@@ -4971,15 +4971,15 @@
               "photo": "images/articles/pendentif-oeil-de-tigre-mtx4h6ua6f8y.jpg",
               "prixBoutique": 24,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/cNi00kbke2Jn5AseO528b2d",
+              "stripe": "https://buy.stripe.com/14A7sM882abP3sk5dv28b1Z",
               "stripeProductId": "prod_VF0ardciUq1oEX",
               "stripePriceId": "price_1UGwaWLOfCA5mATu1R4SULKp",
-              "stripeLinkId": "plink_1UGwb3LOfCA5mATu9DBSMnZr",
+              "stripeLinkId": "plink_1UGwaWLOfCA5mATudLWbxj1W",
               "stripePrix": 25.07,
               "stripeMode": "live",
               "stripeNom": "Pendentif oeil de tigre",
               "stripeDesc": "Ce pendentif en oeil de tigre est une pièce naturelle aux reflets dorés et aux motifs en bandes captivants. Selon la lithothérapie, cette pierre est souvent associée à la vitalité, la protection et l'équilibre émotionnel, aidant à renforcer la confiance en soi et à stimuler l'énergie positive. Parfait pour être porté au quotidien, il apporte une touche élégante tout en invitant à une harmonie intérieure.",
-              "stripeStock": 2,
+              "stripeStock": 1,
               "epuise": false
             },
             {
@@ -7831,6 +7831,15 @@
               "stripeDesc": "Ce pendentif en jaspe rouge chevron est une pierre naturelle aux motifs en forme de vagues, symbolisant la fluidité et le mouvement de la vie. En lithothérapie, il est souvent associé à la stabilité émotionnelle, à la force intérieure et à l’ancrage dans le quotidien. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur détermination et leur équilibre intérieur.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-chrysocolle-mu6ok1ruari8",
+              "nom": "Pendentif chrysocolle",
+              "prix": 37.47,
+              "description": "Ce pendentif en chrysocolle offre une belle harmonie de teintes bleutées et vertes, captivantes et apaisantes. La chrysocolle est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les tensions et à favoriser une énergie positive au quotidien. Porté près du cœur, il est idéal pour ceux qui cherchent à renforcer leur connexion avec la douceur et la stabilité intérieure.",
+              "photo": "images/articles/pendentif-chrysocolle-mu6ok1ru7kwf.jpg",
+              "prixBoutique": 36,
+              "stock": 1
             }
           ]
         },

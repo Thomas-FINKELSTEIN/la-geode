@@ -7630,7 +7630,17 @@
               "description": "Ce pendentif en quartz rose cerclée est une pièce délicate et apaisante, souvent associée à l'amour inconditionnel et à la douceur émotionnelle. En lithothérapie, cette pierre est réputée pour favoriser la compassion, apaiser les tensions et renforcer les liens affectifs. Parfaite pour être portée au quotidien, elle est idéale pour ceux qui cherchent à cultiver la sérénité et l'harmonie dans leur vie.",
               "photo": "images/articles/pendentif-quartz-rose-cerclee-mu6mlceqyoko.jpg",
               "prixBoutique": 54,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VHV4LNSTnHIEcO",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz rose cerclée",
+              "stripeDesc": "Ce pendentif en quartz rose cerclée est une pièce délicate et apaisante, souvent associée à l'amour inconditionnel et à la douceur émotionnelle. En lithothérapie, cette pierre est réputée pour favoriser la compassion, apaiser les tensions et renforcer les liens affectifs. Parfaite pour être portée au quotidien, elle est idéale pour ceux qui cherchent à cultiver la sérénité et l'harmonie dans leur vie.",
+              "stripePriceId": "price_1UGw3zLOfCA5mATuVTFIg0gd",
+              "stripePrix": 56.08,
+              "stripeLinkId": "plink_1UGw3zLOfCA5mATutzmEpN1i",
+              "stripe": "https://buy.stripe.com/3cI14o1JE0Bfgf60Xf28a3Y",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-quartz-rose-argent-mu6mmmqlqnj8",
@@ -7639,7 +7649,17 @@
               "description": "Ce pendentif en quartz rose argent est un allié précieux pour apaiser le cœur et favoriser l’harmonie émotionnelle. Associé à la douceur et à la compassion, cette pierre douce est idéale pour cultiver l’amour inconditionnel et renforcer les liens. Parfait à porter au quotidien, il diffuse une énergie apaisante et encourage la tendresse envers soi-même et les autres.",
               "photo": "images/articles/pendentif-quartz-rose-argent-mu6mmmql45y1.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VHV4JQE3jo8SXv",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz rose argent",
+              "stripeDesc": "Ce pendentif en quartz rose argent est un allié précieux pour apaiser le cœur et favoriser l’harmonie émotionnelle. Associé à la douceur et à la compassion, cette pierre douce est idéale pour cultiver l’amour inconditionnel et renforcer les liens. Parfait à porter au quotidien, il diffuse une énergie apaisante et encourage la tendresse envers soi-même et les autres.",
+              "stripePriceId": "price_1UGw40LOfCA5mATuEeAl4Ynf",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UGw40LOfCA5mATuvMnjtj8D",
+              "stripe": "https://buy.stripe.com/fZufZi9c62Jn4wo6hz28a3Z",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

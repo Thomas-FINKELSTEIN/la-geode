@@ -8485,17 +8485,7 @@
               "description": "Ce pendentif en oeil de ste lucie est une pierre aux reflets dorés et mystérieux, souvent appelée pierre des voyageurs. En lithothérapie, elle est réputée pour apporter protection, confiance en soi et équilibre émotionnel. Idéale pour porter au quotidien, elle est aussi utilisée pour renforcer la concentration et attirer la chance.",
               "photo": "images/articles/pendentif-oeil-de-ste-lucie-mu82861j74j0.jpg",
               "prixBoutique": 24,
-              "stock": 1,
-              "stripeProductId": "prod_VHsO0ooAIQkxQB",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif oeil de ste lucie",
-              "stripeDesc": "Ce pendentif en oeil de ste lucie est une pierre aux reflets dorés et mystérieux, souvent appelée pierre des voyageurs. En lithothérapie, elle est réputée pour apporter protection, confiance en soi et équilibre émotionnel. Idéale pour porter au quotidien, elle est aussi utilisée pour renforcer la concentration et attirer la chance.",
-              "stripePriceId": "price_1UHIdrLOfCA5mATuJH3OaRlC",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UHIdrLOfCA5mATu39L4yeDG",
-              "stripe": "https://buy.stripe.com/00wbJ22NI2Jn2ogcFX28e1D",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-oeil-de-fer-mu829sh4miby",
@@ -8504,17 +8494,7 @@
               "description": "Ce pendentif en œil de fer est une pierre aux reflets mystérieux et profonds, souvent utilisée pour renforcer la protection et l’ancrage énergétique. En lithothérapie, elle est réputée pour aider à stabiliser les émotions et à renforcer la volonté, tout en apportant une énergie apaisante et rassurante. Parfait pour ceux qui cherchent à équilibrer leur quotidien et à cultiver une présence mentale sereine.",
               "photo": "images/articles/pendentif-oeil-de-fer-mu829sh4x3m4.jpg",
               "prixBoutique": 24,
-              "stock": 1,
-              "stripeProductId": "prod_VHsOJT0yNQqnU4",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif oeil de fer",
-              "stripeDesc": "Ce pendentif en œil de fer est une pierre aux reflets mystérieux et profonds, souvent utilisée pour renforcer la protection et l’ancrage énergétique. En lithothérapie, elle est réputée pour aider à stabiliser les émotions et à renforcer la volonté, tout en apportant une énergie apaisante et rassurante. Parfait pour ceux qui cherchent à équilibrer leur quotidien et à cultiver une présence mentale sereine.",
-              "stripePriceId": "price_1UHIdsLOfCA5mATuSnP5KQQK",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UHIdsLOfCA5mATuMwknibeC",
-              "stripe": "https://buy.stripe.com/fZu00k9c6gAd7IAdK128e1E",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-oeil-de-fer-mu82ausnco10",
@@ -8523,17 +8503,7 @@
               "description": "Ce pendentif en œil de fer est une pierre aux reflets profonds et mystérieux, souvent utilisée pour renforcer la protection et l’ancrage énergétique. Selon la lithothérapie, elle aide à stabiliser les émotions et à apaiser les tensions intérieures tout en favorisant la concentration. Parfait pour ceux qui cherchent un allié minéral pour traverser les épreuves avec sérénité et détermination.",
               "photo": "images/articles/pendentif-oeil-de-fer-mu82ausn0zc1.jpg",
               "prixBoutique": 24,
-              "stock": 1,
-              "stripeProductId": "prod_VHsOLSlAMQyApJ",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif oeil de fer",
-              "stripeDesc": "Ce pendentif en œil de fer est une pierre aux reflets profonds et mystérieux, souvent utilisée pour renforcer la protection et l’ancrage énergétique. Selon la lithothérapie, elle aide à stabiliser les émotions et à apaiser les tensions intérieures tout en favorisant la concentration. Parfait pour ceux qui cherchent un allié minéral pour traverser les épreuves avec sérénité et détermination.",
-              "stripePriceId": "price_1UHIdtLOfCA5mATuqzAEv8oZ",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UHIdtLOfCA5mATu1r5zoB3m",
-              "stripe": "https://buy.stripe.com/cNi4gA5ZU3Nre6YbBT28e1F",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },

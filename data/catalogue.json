@@ -8485,7 +8485,17 @@
               "description": "Ce pendentif en oeil de ste lucie est une pierre aux reflets dorés et mystérieux, souvent appelée pierre des voyageurs. En lithothérapie, elle est réputée pour apporter protection, confiance en soi et équilibre émotionnel. Idéale pour porter au quotidien, elle est aussi utilisée pour renforcer la concentration et attirer la chance.",
               "photo": "images/articles/pendentif-oeil-de-ste-lucie-mu82861j74j0.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VHsMQUMQAeSPcs",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif oeil de ste lucie",
+              "stripeDesc": "Ce pendentif en oeil de ste lucie est une pierre aux reflets dorés et mystérieux, souvent appelée pierre des voyageurs. En lithothérapie, elle est réputée pour apporter protection, confiance en soi et équilibre émotionnel. Idéale pour porter au quotidien, elle est aussi utilisée pour renforcer la concentration et attirer la chance.",
+              "stripePriceId": "price_1UHIbxLOfCA5mATudHe53wB6",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UHIbxLOfCA5mATu2iEB3PMm",
+              "stripe": "https://buy.stripe.com/28EeVe0FA2Jn4wo0Xf28e1A",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

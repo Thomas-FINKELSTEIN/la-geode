@@ -8485,17 +8485,7 @@
               "description": "Ce pendentif en oeil de ste lucie est une pierre aux reflets dorés et mystérieux, souvent appelée pierre des voyageurs. En lithothérapie, elle est réputée pour apporter protection, confiance en soi et équilibre émotionnel. Idéale pour porter au quotidien, elle est aussi utilisée pour renforcer la concentration et attirer la chance.",
               "photo": "images/articles/pendentif-oeil-de-ste-lucie-mu82861j74j0.jpg",
               "prixBoutique": 24,
-              "stock": 1,
-              "stripeProductId": "prod_VHsNH6sFYP43OS",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif oeil de ste lucie",
-              "stripeDesc": "Ce pendentif en oeil de ste lucie est une pierre aux reflets dorés et mystérieux, souvent appelée pierre des voyageurs. En lithothérapie, elle est réputée pour apporter protection, confiance en soi et équilibre émotionnel. Idéale pour porter au quotidien, elle est aussi utilisée pour renforcer la concentration et attirer la chance.",
-              "stripePriceId": "price_1UHId6LOfCA5mATuu6tcE9Mo",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UHId6LOfCA5mATunaWM2p3G",
-              "stripe": "https://buy.stripe.com/fZucN6dsmabP4wocFX28e1B",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-oeil-de-fer-mu829sh4miby",
@@ -8504,17 +8494,16 @@
               "description": "Ce pendentif en œil de fer est une pierre aux reflets mystérieux et profonds, souvent utilisée pour renforcer la protection et l’ancrage énergétique. En lithothérapie, elle est réputée pour aider à stabiliser les émotions et à renforcer la volonté, tout en apportant une énergie apaisante et rassurante. Parfait pour ceux qui cherchent à équilibrer leur quotidien et à cultiver une présence mentale sereine.",
               "photo": "images/articles/pendentif-oeil-de-fer-mu829sh4x3m4.jpg",
               "prixBoutique": 24,
-              "stock": 1,
-              "stripeProductId": "prod_VHsN4JoW7FsO0v",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif oeil de fer",
-              "stripeDesc": "Ce pendentif en œil de fer est une pierre aux reflets mystérieux et profonds, souvent utilisée pour renforcer la protection et l’ancrage énergétique. En lithothérapie, elle est réputée pour aider à stabiliser les émotions et à renforcer la volonté, tout en apportant une énergie apaisante et rassurante. Parfait pour ceux qui cherchent à équilibrer leur quotidien et à cultiver une présence mentale sereine.",
-              "stripePriceId": "price_1UHId6LOfCA5mATu8vecqjxE",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UHId7LOfCA5mATuphreXKuv",
-              "stripe": "https://buy.stripe.com/aFa6oIaga1Fje6Y49r28e1C",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "pendentif-oeil-de-fer-mu82ausnco10",
+              "nom": "Pendentif oeil de fer",
+              "prix": 25.07,
+              "description": "Ce pendentif en œil de fer est une pierre aux reflets profonds et mystérieux, souvent utilisée pour renforcer la protection et l’ancrage énergétique. Selon la lithothérapie, elle aide à stabiliser les émotions et à apaiser les tensions intérieures tout en favorisant la concentration. Parfait pour ceux qui cherchent un allié minéral pour traverser les épreuves avec sérénité et détermination.",
+              "photo": "images/articles/pendentif-oeil-de-fer-mu82ausn0zc1.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

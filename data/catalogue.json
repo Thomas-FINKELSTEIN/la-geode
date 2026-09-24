@@ -13091,17 +13091,16 @@
               "description": "Ce bracelet en quartz rose 10mm est un accessoire délicat et élégant qui apporte douceur et harmonie. Le quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et la guérison émotionnelle. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver des relations apaisées et une énergie bienveillante.",
               "photo": "images/articles/bracelet-quartz-rose-10-mm-mufc1si6rau8.jpg",
               "prixBoutique": 16.5,
-              "stock": 1,
-              "stripeProductId": "prod_VJmZTAwVFDiLou",
-              "stripeMode": "live",
-              "stripeNom": "Bracelet quartz rose 10 mm",
-              "stripeDesc": "Ce bracelet en quartz rose 10mm est un accessoire délicat et élégant qui apporte douceur et harmonie. Le quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et la guérison émotionnelle. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver des relations apaisées et une énergie bienveillante.",
-              "stripePriceId": "price_1UJ90nLOfCA5mATuB13MRWKl",
-              "stripePrix": 17.32,
-              "stripeLinkId": "plink_1UJ90nLOfCA5mATuISwjRj5i",
-              "stripe": "https://buy.stripe.com/7sY8wQagagAdd2UaxP28g16",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "bracelet-pierre-de-soleil-4-mm-mufc66q5dwmy",
+              "nom": "Bracelet pierre de soleil 4 mm",
+              "prix": 13.6,
+              "description": "Ce bracelet en pierre de soleil, composé de perles rondes et lumineuses, est un accessoire élégant et apaisant. En lithothérapie, cette pierre est souvent associée à une énergie positive, aidant à dissoudre les tensions et à favoriser la joie de vivre. Parfait pour un usage quotidien, il apporte une touche de douceur et de bien-être au quotidien.",
+              "photo": "images/articles/bracelet-pierre-de-soleil-4-mm-mufc66q5smcb.jpg",
+              "prixBoutique": 12.9,
+              "stock": 1
             }
           ]
         },

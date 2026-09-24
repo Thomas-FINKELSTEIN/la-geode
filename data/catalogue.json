@@ -31,7 +31,17 @@
               "description": "Ce bracelet harmonieux associe le mokaite, pierre douce aux reflets dorés, et le cristal de roche, symbole de pureté et de clarté énergétique. Parfait pour apaiser les émotions et favoriser la connexion à son intuition, il est idéal pour porter au quotidien ou en méditation. Ses couleurs chaudes et lumineuses en font un allié bien-être pour équilibrer le corps et l’esprit.",
               "photo": "images/articles/bracelet-mokaite-cristal-de-roche-muf85jvk1g6y.jpg",
               "prixBoutique": 11.5,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VJlZvtjsBgNjuN",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet mokaite cristal de roche",
+              "stripeDesc": "Ce bracelet harmonieux associe le mokaite, pierre douce aux reflets dorés, et le cristal de roche, symbole de pureté et de clarté énergétique. Parfait pour apaiser les émotions et favoriser la connexion à son intuition, il est idéal pour porter au quotidien ou en méditation. Ses couleurs chaudes et lumineuses en font un allié bien-être pour équilibrer le corps et l’esprit.",
+              "stripePriceId": "price_1UJ82FLOfCA5mATuskwMmnmg",
+              "stripePrix": 12.15,
+              "stripeLinkId": "plink_1UJ82GLOfCA5mATujnMByo9H",
+              "stripe": "https://buy.stripe.com/fZubJ2dsmgAdfb249r28g14",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },
@@ -10555,15 +10565,15 @@
               "photo": "images/articles/bracelet-quartz-rose-8-mm-mtjw3xetlfzs.jpg",
               "prixBoutique": 15.9,
               "stock": 5,
-              "stripe": "https://buy.stripe.com/cNi00k0FAfw9d2UbBT2883F",
+              "stripe": "https://buy.stripe.com/00wbJ20FAes5fb2gWd28g15",
               "stripeProductId": "prod_VBXUCBV0o8MNVu",
               "stripePriceId": "price_1UBAPoLOfCA5mATugckHkYtl",
-              "stripeLinkId": "plink_1UBAPpLOfCA5mATudy2AIyE7",
+              "stripeLinkId": "plink_1UJ82GLOfCA5mATuRcR8gQp4",
               "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet quartz rose 8 mm",
               "stripeDesc": "Le quartz rose est symbole d'amour et de sincérité, elle accompagne le couple dans la relation seine, ce minéral possède des vertus apaisantes elle aide à réduire le stress et minimise les effets néfastes sur le corps.",
-              "stripeStock": 4,
+              "stripeStock": 5,
               "epuise": false
             },
             {

@@ -13091,7 +13091,17 @@
               "description": "Ce bracelet en quartz rose 10mm est un accessoire délicat et élégant qui apporte douceur et harmonie. Le quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et la guérison émotionnelle. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver des relations apaisées et une énergie bienveillante.",
               "photo": "images/articles/bracelet-quartz-rose-10-mm-mufc1si6rau8.jpg",
               "prixBoutique": 16.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VJmZTAwVFDiLou",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet quartz rose 10 mm",
+              "stripeDesc": "Ce bracelet en quartz rose 10mm est un accessoire délicat et élégant qui apporte douceur et harmonie. Le quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et la guérison émotionnelle. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver des relations apaisées et une énergie bienveillante.",
+              "stripePriceId": "price_1UJ90nLOfCA5mATuB13MRWKl",
+              "stripePrix": 17.32,
+              "stripeLinkId": "plink_1UJ90nLOfCA5mATuISwjRj5i",
+              "stripe": "https://buy.stripe.com/7sY8wQagagAdd2UaxP28g16",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

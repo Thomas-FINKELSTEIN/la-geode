@@ -13091,7 +13091,17 @@
               "description": "Ce bracelet en quartz rose 10mm est un accessoire délicat et élégant qui apporte douceur et harmonie. Le quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et la guérison émotionnelle. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver des relations apaisées et une énergie bienveillante.",
               "photo": "images/articles/bracelet-quartz-rose-10-mm-mufc1si6rau8.jpg",
               "prixBoutique": 16.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VJmsB8ZS7nppeF",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet quartz rose 10 mm",
+              "stripeDesc": "Ce bracelet en quartz rose 10mm est un accessoire délicat et élégant qui apporte douceur et harmonie. Le quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et la guérison émotionnelle. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à cultiver des relations apaisées et une énergie bienveillante.",
+              "stripePriceId": "price_1UJ9IbLOfCA5mATuVUNJGinW",
+              "stripePrix": 17.32,
+              "stripeLinkId": "plink_1UJ9IbLOfCA5mATuQSlZOgh8",
+              "stripe": "https://buy.stripe.com/14A8wQ9c62Jn4wo0Xf28g1c",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-pierre-de-soleil-4-mm-mufc66q5dwmy",
@@ -13100,7 +13110,17 @@
               "description": "Ce bracelet en pierre de soleil, composé de perles rondes et lumineuses, est un accessoire élégant et apaisant. En lithothérapie, cette pierre est souvent associée à une énergie positive, aidant à dissoudre les tensions et à favoriser la joie de vivre. Parfait pour un usage quotidien, il apporte une touche de douceur et de bien-être au quotidien.",
               "photo": "images/articles/bracelet-pierre-de-soleil-4-mm-mufc66q5smcb.jpg",
               "prixBoutique": 12.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VJmsiqy7oWSDOW",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet pierre de soleil 4 mm",
+              "stripeDesc": "Ce bracelet en pierre de soleil, composé de perles rondes et lumineuses, est un accessoire élégant et apaisant. En lithothérapie, cette pierre est souvent associée à une énergie positive, aidant à dissoudre les tensions et à favoriser la joie de vivre. Parfait pour un usage quotidien, il apporte une touche de douceur et de bien-être au quotidien.",
+              "stripePriceId": "price_1UJ9IcLOfCA5mATuRyrrMiKZ",
+              "stripePrix": 13.6,
+              "stripeLinkId": "plink_1UJ9IcLOfCA5mATuVBeAAv9s",
+              "stripe": "https://buy.stripe.com/3cI7sM2NIgAd5As0Xf28g1d",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-pierre-de-lune-6-mm-mufcaeqjy5q1",
@@ -13109,7 +13129,17 @@
               "description": "Ce bracelet en pierre de lune de 6 mm est un accessoire élégant et apaisant, composé de perles naturelles aux reflets doux et nacrés. En lithothérapie, la pierre de lune est souvent associée à l’harmonisation des émotions, à l’équilibre hormonal et à une énergie douce et intuitive. Porté au quotidien, il favorise la sérénité et aide à renforcer la connexion avec ses instincts.",
               "photo": "images/articles/bracelet-pierre-de-lune-6-mm-mufcaeqjgf5w.jpg",
               "prixBoutique": 13.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VJmsQC2HCoRvwu",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet pierre de lune 6 mm",
+              "stripeDesc": "Ce bracelet en pierre de lune de 6 mm est un accessoire élégant et apaisant, composé de perles naturelles aux reflets doux et nacrés. En lithothérapie, la pierre de lune est souvent associée à l’harmonisation des émotions, à l’équilibre hormonal et à une énergie douce et intuitive. Porté au quotidien, il favorise la sérénité et aide à renforcer la connexion avec ses instincts.",
+              "stripePriceId": "price_1UJ9IcLOfCA5mATuujyEPKej",
+              "stripePrix": 14.63,
+              "stripeLinkId": "plink_1UJ9IdLOfCA5mATuO1AmP3DJ",
+              "stripe": "https://buy.stripe.com/8x2fZifAu83H2ogcFX28g1e",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

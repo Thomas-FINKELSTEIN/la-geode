@@ -23,7 +23,17 @@
           "id": "bracelets-mt8rwog7r3mr",
           "nom": "Bracelets",
           "slogan": "",
-          "articles": []
+          "articles": [
+            {
+              "id": "bracelet-mokaite-cristal-de-roche-muf85jvkde5m",
+              "nom": "Bracelet mokaite cristal de roche",
+              "prix": 12.15,
+              "description": "Ce bracelet harmonieux associe le mokaite, pierre douce aux reflets dorés, et le cristal de roche, symbole de pureté et de clarté énergétique. Parfait pour apaiser les émotions et favoriser la connexion à son intuition, il est idéal pour porter au quotidien ou en méditation. Ses couleurs chaudes et lumineuses en font un allié bien-être pour équilibrer le corps et l’esprit.",
+              "photo": "images/articles/bracelet-mokaite-cristal-de-roche-muf85jvk1g6y.jpg",
+              "prixBoutique": 11.5,
+              "stock": 5
+            }
+          ]
         },
         {
           "id": "geodes-pierres-roulees-mu2fbepso0qy",

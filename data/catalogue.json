@@ -31,7 +31,17 @@
               "description": "Ce bracelet harmonieux associe le mokaite, pierre douce aux reflets dorés, et le cristal de roche, symbole de pureté et de clarté énergétique. Parfait pour apaiser les émotions et favoriser la connexion à son intuition, il est idéal pour porter au quotidien ou en méditation. Ses couleurs chaudes et lumineuses en font un allié bien-être pour équilibrer le corps et l’esprit.",
               "photo": "images/articles/bracelet-mokaite-cristal-de-roche-muf85jvk1g6y.jpg",
               "prixBoutique": 11.5,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VJkooBLaxTSkNU",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet mokaite cristal de roche",
+              "stripeDesc": "Ce bracelet harmonieux associe le mokaite, pierre douce aux reflets dorés, et le cristal de roche, symbole de pureté et de clarté énergétique. Parfait pour apaiser les émotions et favoriser la connexion à son intuition, il est idéal pour porter au quotidien ou en méditation. Ses couleurs chaudes et lumineuses en font un allié bien-être pour équilibrer le corps et l’esprit.",
+              "stripePriceId": "price_1UJ7JFLOfCA5mATu1y8UR8zg",
+              "stripePrix": 12.15,
+              "stripeLinkId": "plink_1UJ7JFLOfCA5mATu8Ct7NdnP",
+              "stripe": "https://buy.stripe.com/8x2dRagEydo13sk5dv28g13",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

@@ -69,17 +69,7 @@
               "description": "Ce bracelet en jaspe mokaite allie élégance et douceur grâce à ses pierres aux reflets chauds et apaisants. Le jaspe mokaite est souvent utilisé en lithothérapie pour favoriser la stabilité émotionnelle, renforcer la confiance en soi et apaiser les tensions du quotidien. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante.",
               "photo": "images/articles/bracelet-jaspe-mokaite-10-mm-muglf4hje17y.jpg",
               "prixBoutique": 11.9,
-              "stock": 1,
-              "stripeProductId": "prod_VK77heFhC69SPR",
-              "stripeMode": "live",
-              "stripeNom": "Bracelet jaspe mokaite 10 mm",
-              "stripeDesc": "Ce bracelet en jaspe mokaite allie élégance et douceur grâce à ses pierres aux reflets chauds et apaisants. Le jaspe mokaite est souvent utilisé en lithothérapie pour favoriser la stabilité émotionnelle, renforcer la confiance en soi et apaiser les tensions du quotidien. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante.",
-              "stripePriceId": "price_1UJStOLOfCA5mATumcppxtLr",
-              "stripePrix": 12.56,
-              "stripeLinkId": "plink_1UJStOLOfCA5mATuQqHiFdcl",
-              "stripe": "https://buy.stripe.com/bJe4gA9c63Nr3skdK128g1R",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "bracelet-phrenite-10-mm-mugljsho608z",
@@ -88,17 +78,16 @@
               "description": "Ce bracelet en phrénite, composé de perles naturelles de 10 mm, est une pièce raffinée et apaisante. La phrénite est souvent associée à la sérénité et à la connexion avec la nature, aidant à apaiser les émotions et à favoriser un état de calme intérieur. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à se recentrer.",
               "photo": "images/articles/bracelet-phrenite-10-mm-mugljshokmn1.jpg",
               "prixBoutique": 19.5,
-              "stock": 1,
-              "stripeProductId": "prod_VK77gTFo7dGYnj",
-              "stripeMode": "live",
-              "stripeNom": "Bracelet phrénite 10 mm",
-              "stripeDesc": "Ce bracelet en phrénite, composé de perles naturelles de 10 mm, est une pièce raffinée et apaisante. La phrénite est souvent associée à la sérénité et à la connexion avec la nature, aidant à apaiser les émotions et à favoriser un état de calme intérieur. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à se recentrer.",
-              "stripePriceId": "price_1UJStOLOfCA5mATuFQLAwSKk",
-              "stripePrix": 20.42,
-              "stripeLinkId": "plink_1UJStPLOfCA5mATuBxiOHvyt",
-              "stripe": "https://buy.stripe.com/fZu14o73YcjX7IA8pH28g1S",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "bracelet-phrenite-6-mm-muglnvd83p3u",
+              "nom": "Bracelet phrénite 6 mm",
+              "prix": 12.05,
+              "description": "Ce bracelet en phrénite, aux belles teintes douces et translucides, est une pièce raffinée pour sublimer votre quotidien. La phrénite est souvent associée à la sérénité et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. Porté au poignet, il diffuse une énergie calme et favorise la concentration, tout en apportant une touche élégante à votre style.",
+              "photo": "images/articles/bracelet-phrenite-6-mm-muglnvd8ay64.jpg",
+              "prixBoutique": 11.4,
+              "stock": 1
             }
           ]
         },

@@ -61,6 +61,15 @@
               "stripe": "https://buy.stripe.com/9B67sMgEyes54woaxP28g1P",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "bracelet-jaspe-mokaite-10-mm-muglf4hj44wg",
+              "nom": "Bracelet jaspe mokaite 10 mm",
+              "prix": 12.56,
+              "description": "Ce bracelet en jaspe mokaite allie élégance et douceur grâce à ses pierres aux reflets chauds et apaisants. Le jaspe mokaite est souvent utilisé en lithothérapie pour favoriser la stabilité émotionnelle, renforcer la confiance en soi et apaiser les tensions du quotidien. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante.",
+              "photo": "images/articles/bracelet-jaspe-mokaite-10-mm-muglf4hje17y.jpg",
+              "prixBoutique": 11.9,
+              "stock": 1
             }
           ]
         },

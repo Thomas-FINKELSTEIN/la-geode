@@ -69,7 +69,17 @@
               "description": "Ce bracelet en jaspe mokaite allie élégance et douceur grâce à ses pierres aux reflets chauds et apaisants. Le jaspe mokaite est souvent utilisé en lithothérapie pour favoriser la stabilité émotionnelle, renforcer la confiance en soi et apaiser les tensions du quotidien. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante.",
               "photo": "images/articles/bracelet-jaspe-mokaite-10-mm-muglf4hje17y.jpg",
               "prixBoutique": 11.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtdbCMtCJuzP",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe mokaite 10 mm",
+              "stripeDesc": "Ce bracelet en jaspe mokaite allie élégance et douceur grâce à ses pierres aux reflets chauds et apaisants. Le jaspe mokaite est souvent utilisé en lithothérapie pour favoriser la stabilité émotionnelle, renforcer la confiance en soi et apaiser les tensions du quotidien. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante.",
+              "stripePriceId": "price_1UJaPhLOfCA5mATuFiZmdjqi",
+              "stripePrix": 12.56,
+              "stripeLinkId": "plink_1UJaPhLOfCA5mATuZKKEYcZF",
+              "stripe": "https://buy.stripe.com/6oU00k3RMes56Ew49r28i3p",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-phrenite-10-mm-mugljsho608z",
@@ -78,7 +88,17 @@
               "description": "Ce bracelet en phrénite, composé de perles naturelles de 10 mm, est une pièce raffinée et apaisante. La phrénite est souvent associée à la sérénité et à la connexion avec la nature, aidant à apaiser les émotions et à favoriser un état de calme intérieur. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à se recentrer.",
               "photo": "images/articles/bracelet-phrenite-10-mm-mugljshokmn1.jpg",
               "prixBoutique": 19.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtJZo7Hdpla9",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet phrénite 10 mm",
+              "stripeDesc": "Ce bracelet en phrénite, composé de perles naturelles de 10 mm, est une pièce raffinée et apaisante. La phrénite est souvent associée à la sérénité et à la connexion avec la nature, aidant à apaiser les émotions et à favoriser un état de calme intérieur. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à se recentrer.",
+              "stripePriceId": "price_1UJaPiLOfCA5mATuLYbViOfU",
+              "stripePrix": 20.42,
+              "stripeLinkId": "plink_1UJaPiLOfCA5mATuueng0KKL",
+              "stripe": "https://buy.stripe.com/28EbJ22NI97L8MEeO528i3q",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-phrenite-6-mm-muglnvd83p3u",
@@ -87,7 +107,17 @@
               "description": "Ce bracelet en phrénite, aux belles teintes douces et translucides, est une pièce raffinée pour sublimer votre quotidien. La phrénite est souvent associée à la sérénité et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. Porté au poignet, il diffuse une énergie calme et favorise la concentration, tout en apportant une touche élégante à votre style.",
               "photo": "images/articles/bracelet-phrenite-6-mm-muglnvd8ay64.jpg",
               "prixBoutique": 11.4,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtFEjFPilrO3",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet phrénite 6 mm",
+              "stripeDesc": "Ce bracelet en phrénite, aux belles teintes douces et translucides, est une pièce raffinée pour sublimer votre quotidien. La phrénite est souvent associée à la sérénité et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. Porté au poignet, il diffuse une énergie calme et favorise la concentration, tout en apportant une touche élégante à votre style.",
+              "stripePriceId": "price_1UJaPiLOfCA5mATuasI9Tbsj",
+              "stripePrix": 12.05,
+              "stripeLinkId": "plink_1UJaPiLOfCA5mATu076adJ9X",
+              "stripe": "https://buy.stripe.com/dRm00kbkees50g821j28i3r",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-phrenite-baroque-muglrpesk8dp",
@@ -96,7 +126,17 @@
               "description": "Ce bracelet en phrénite baroque associe des pierres aux reflets translucides et légèrement dorés, parfait pour une touche naturelle et élégante. En lithothérapie, la phrénite est souvent utilisée pour apaiser les émotions et favoriser la sérénité, aidant à retrouver un équilibre intérieur. Idéal pour porter au quotidien, ce bracelet allie beauté minérale et bien-être énergétique.",
               "photo": "images/articles/bracelet-phrenite-baroque-muglrpesven9.jpg",
               "prixBoutique": 4.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtrG63EfswDM",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Phrénite baroque",
+              "stripeDesc": "Ce bracelet en phrénite baroque associe des pierres aux reflets translucides et légèrement dorés, parfait pour une touche naturelle et élégante. En lithothérapie, la phrénite est souvent utilisée pour apaiser les émotions et favoriser la sérénité, aidant à retrouver un équilibre intérieur. Idéal pour porter au quotidien, ce bracelet allie beauté minérale et bien-être énergétique.",
+              "stripePriceId": "price_1UJaPjLOfCA5mATui2QD1aIE",
+              "stripePrix": 4.91,
+              "stripeLinkId": "plink_1UJaPjLOfCA5mATuNIrXX4Gw",
+              "stripe": "https://buy.stripe.com/28EdRa0FAcjX8MEcFX28i3s",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-oeil-de-tigre-10-mm-muglv7ibn241",
@@ -105,7 +145,17 @@
               "description": "Ce bracelet en oeil de tigre est composé de perles rondes et polies, parfait pour un style élégant et naturel. L'oeil de tigre est souvent utilisé en lithothérapie pour renforcer la confiance en soi, apporter stabilité et protéger contre les énergies négatives. Un accessoire idéal pour le quotidien, alliant beauté et bien-être.",
               "photo": "images/articles/bracelet-oeil-de-tigre-10-mm-muglv7ibg9h0.jpg",
               "prixBoutique": 21.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtWyv4dGIAqZ",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de tigre 10 mm",
+              "stripeDesc": "Ce bracelet en oeil de tigre est composé de perles rondes et polies, parfait pour un style élégant et naturel. L'oeil de tigre est souvent utilisé en lithothérapie pour renforcer la confiance en soi, apporter stabilité et protéger contre les énergies négatives. Un accessoire idéal pour le quotidien, alliant beauté et bien-être.",
+              "stripePriceId": "price_1UJaPjLOfCA5mATucwCbsLMo",
+              "stripePrix": 22.49,
+              "stripeLinkId": "plink_1UJaPkLOfCA5mATuheLcqDEb",
+              "stripe": "https://buy.stripe.com/dRm28sagaabP4wo8pH28i3t",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-rhodonite-madagascar-10-mm-muglxvfgnokw",
@@ -114,7 +164,17 @@
               "description": "Ce bracelet en rhodonite du Madagascar allie élégance et douceur grâce à ses pierres aux reflets rosés et marron. La rhodonite est souvent appelée la pierre du réconfort, idéale pour apaiser les émotions et renforcer la confiance en soi. Porté au poignet, il diffuse une énergie bienveillante et favorise l'harmonie intérieure au quotidien.",
               "photo": "images/articles/bracelet-rhodonite-madagascar-10-mm-muglxvfg30z1.jpg",
               "prixBoutique": 23.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEt9P6HOTOPlI",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet rhodonite madagascar 10 mm",
+              "stripeDesc": "Ce bracelet en rhodonite du Madagascar allie élégance et douceur grâce à ses pierres aux reflets rosés et marron. La rhodonite est souvent appelée la pierre du réconfort, idéale pour apaiser les émotions et renforcer la confiance en soi. Porté au poignet, il diffuse une énergie bienveillante et favorise l'harmonie intérieure au quotidien.",
+              "stripePriceId": "price_1UJaPkLOfCA5mATuIPIXfsBa",
+              "stripePrix": 24.55,
+              "stripeLinkId": "plink_1UJaPkLOfCA5mATu2VYOdWLM",
+              "stripe": "https://buy.stripe.com/8x26oI73Y2Jngf6gWd28i3u",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-oeil-de-tigre-7-chakras-8-mm-mugm12zvrrng",
@@ -123,7 +183,17 @@
               "description": "Ce bracelet harmonieux associe l'oeil de tigre et les sept pierres des chakras pour équilibrer votre énergie et apaiser le corps comme l'esprit. L'oeil de tigre, pierre de courage et de protection, est souvent utilisé pour renforcer la détermination et la vitalité. Parfait pour une utilisation quotidienne, il vous accompagne dans votre quête de bien-être et de sérénité.",
               "photo": "images/articles/bracelet-oeil-de-tigre-7-chakras-8-mm-mugm12zvkays.jpg",
               "prixBoutique": 12.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtFWKAvzUH8Z",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de tigre 7 chakras 8 mm",
+              "stripeDesc": "Ce bracelet harmonieux associe l'oeil de tigre et les sept pierres des chakras pour équilibrer votre énergie et apaiser le corps comme l'esprit. L'oeil de tigre, pierre de courage et de protection, est souvent utilisé pour renforcer la détermination et la vitalité. Parfait pour une utilisation quotidienne, il vous accompagne dans votre quête de bien-être et de sérénité.",
+              "stripePriceId": "price_1UJaPlLOfCA5mATuOh5Cd7wV",
+              "stripePrix": 13.18,
+              "stripeLinkId": "plink_1UJaPlLOfCA5mATubuI7K0Ca",
+              "stripe": "https://buy.stripe.com/28EeVe3RMabP8MEeO528i3v",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-malachite-10-mm-mugm3ffvl25u",
@@ -132,7 +202,17 @@
               "description": "Ce bracelet en malachite est un accessoire élégant et naturel, composé de perles rondes et lumineuses. La malachite est souvent associée à la protection, à l'équilibre émotionnel et à la reconnexion avec ses aspirations profondes. Porté au quotidien, il est censé apporter une énergie apaisante et stimuler la confiance en soi.",
               "photo": "images/articles/bracelet-malachite-10-mm-mugm3ffvz7hs.jpg",
               "prixBoutique": 49.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtWtW3TNpwBg",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet malachite 10 mm",
+              "stripeDesc": "Ce bracelet en malachite est un accessoire élégant et naturel, composé de perles rondes et lumineuses. La malachite est souvent associée à la protection, à l'équilibre émotionnel et à la reconnexion avec ses aspirations profondes. Porté au quotidien, il est censé apporter une énergie apaisante et stimuler la confiance en soi.",
+              "stripePriceId": "price_1UJaPlLOfCA5mATu4YwCiHCU",
+              "stripePrix": 51.43,
+              "stripeLinkId": "plink_1UJaPmLOfCA5mATuR0IXQ8Hs",
+              "stripe": "https://buy.stripe.com/4gM5kEewq1Fj7IA7lD28i3w",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-rhodonite-10-mm-mugmzy1ef32q",
@@ -141,7 +221,17 @@
               "description": "Ce bracelet en rhodonite est un allié précieux pour apaiser les émotions et favoriser la confiance en soi. Cette pierre douce et réconfortante est souvent utilisée en lithothérapie pour équilibrer les chakras du cœur et de la gorge, aidant ainsi à surmonter les peurs et à renforcer la communication positive. Parfait pour un port quotidien, il apporte une énergie apaisante et encourage l’ouverture du cœur.",
               "photo": "images/articles/bracelet-rhodonite-10-mm-mugn2gntqhz7.jpg",
               "prixBoutique": 23.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtMf3p5Zpy4C",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Rhodonite 10 mm",
+              "stripeDesc": "Ce bracelet en rhodonite est un allié précieux pour apaiser les émotions et favoriser la confiance en soi. Cette pierre douce et réconfortante est souvent utilisée en lithothérapie pour équilibrer les chakras du cœur et de la gorge, aidant ainsi à surmonter les peurs et à renforcer la communication positive. Parfait pour un port quotidien, il apporte une énergie apaisante et encourage l’ouverture du cœur.",
+              "stripePriceId": "price_1UJaPmLOfCA5mATukfKIP1Kr",
+              "stripePrix": 24.55,
+              "stripeLinkId": "plink_1UJaPmLOfCA5mATuKssBtIi5",
+              "stripe": "https://buy.stripe.com/7sY14o8824Rv8MEdK128i3x",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-rhodonite-8-mm-mugn5kk3e77t",
@@ -150,7 +240,17 @@
               "description": "Ce bracelet en rhodonite est un allié précieux pour apaiser les émotions et favoriser la confiance en soi. Cette pierre douce et réconfortante est souvent utilisée en lithothérapie pour équilibrer les chakras du cœur et de la gorge, aidant ainsi à surmonter les peurs et à renforcer la communication positive. Parfait pour un port quotidien, il diffuse une énergie bienveillante et apaisante.",
               "photo": "images/articles/bracelet-rhodonite-8-mm-mugn5kk3b30p.jpg",
               "prixBoutique": 19.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtpseM3DBSO4",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Rhodonite 8 mm",
+              "stripeDesc": "Ce bracelet en rhodonite est un allié précieux pour apaiser les émotions et favoriser la confiance en soi. Cette pierre douce et réconfortante est souvent utilisée en lithothérapie pour équilibrer les chakras du cœur et de la gorge, aidant ainsi à surmonter les peurs et à renforcer la communication positive. Parfait pour un port quotidien, il diffuse une énergie bienveillante et apaisante.",
+              "stripePriceId": "price_1UJaPnLOfCA5mATuHuKr6e5u",
+              "stripePrix": 20.42,
+              "stripeLinkId": "plink_1UJaPnLOfCA5mATuzW2Zg22m",
+              "stripe": "https://buy.stripe.com/4gM4gA8820Bf0g87lD28i3y",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-pietersite-qualite-ab-8-mm-mugniojcvkhb",
@@ -159,7 +259,17 @@
               "description": "Ce bracelet en piétersite qualité AB est un accessoire raffiné et élégant, composé de perles naturelles aux reflets dorés et bruns. La piétersite est souvent appelée pierre de transformation, car elle est réputée pour aider à équilibrer les énergies et favoriser la transition entre les cycles de vie. Porté au quotidien, ce bracelet apporte une touche de douceur et de sérénité, tout en stimulant la confiance en soi et la clarté mentale.",
               "photo": "images/articles/bracelet-pietersite-qualite-ab-8-mm-mugniojcouc8.jpg",
               "prixBoutique": 12.6,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEten1jDT1VNe",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet piétersite qualité AB 8 mm",
+              "stripeDesc": "Ce bracelet en piétersite qualité AB est un accessoire raffiné et élégant, composé de perles naturelles aux reflets dorés et bruns. La piétersite est souvent appelée pierre de transformation, car elle est réputée pour aider à équilibrer les énergies et favoriser la transition entre les cycles de vie. Porté au quotidien, ce bracelet apporte une touche de douceur et de sérénité, tout en stimulant la confiance en soi et la clarté mentale.",
+              "stripePriceId": "price_1UJaPnLOfCA5mATuzcQi6Llz",
+              "stripePrix": 13.29,
+              "stripeLinkId": "plink_1UJaPoLOfCA5mATuZ3yfxHr9",
+              "stripe": "https://buy.stripe.com/aFa5kE73Ydo18ME8pH28i3z",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-pierre-de-soleil-cristal-de-roc-mugnl5icmo0s",
@@ -168,7 +278,17 @@
               "description": "Ce bracelet élégant associe la douceur des pierres de soleil et la pureté des cristaux de roche pour un effet harmonieux et lumineux. En lithothérapie, la pierre de soleil est souvent utilisée pour stimuler la joie et l'énergie vitale, tandis que le cristal de roche amplifie les intentions positives et favorise la clarté mentale. Parfait pour un usage quotidien, il apporte équilibre et vitalité à votre quotidien.",
               "photo": "images/articles/bracelet-pierre-de-soleil-cristal-de-roc-mugnl5icnmc8.jpg",
               "prixBoutique": 10.5,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VKEtD8TX9bTFob",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet pierre de soleil cristal de roche 8 mm",
+              "stripeDesc": "Ce bracelet élégant associe la douceur des pierres de soleil et la pureté des cristaux de roche pour un effet harmonieux et lumineux. En lithothérapie, la pierre de soleil est souvent utilisée pour stimuler la joie et l'énergie vitale, tandis que le cristal de roche amplifie les intentions positives et favorise la clarté mentale. Parfait pour un usage quotidien, il apporte équilibre et vitalité à votre quotidien.",
+              "stripePriceId": "price_1UJaPoLOfCA5mATud7A8sqNs",
+              "stripePrix": 11.12,
+              "stripeLinkId": "plink_1UJaPoLOfCA5mATuLcjNQeCC",
+              "stripe": "https://buy.stripe.com/7sYcN6ewqcjXfb2cFX28i3A",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "bracelet-il-de-faucon-10-mm-mugnqi58agg2",
@@ -177,7 +297,17 @@
               "description": "Ce bracelet en œil de faucon, aussi appelé falconite, est un accessoire élégant et mystérieux qui attire l'attention par ses reflets profonds et sa couleur unique. Selon la lithothérapie, cette pierre est souvent associée à la protection, à la clarté mentale et à l'équilibre émotionnel, aidant à renforcer la confiance en soi. Porté au quotidien, il est censé apporter une énergie positive et apaiser les tensions intérieures.",
               "photo": "images/articles/bracelet-il-de-faucon-10-mm-mugnqi58yk19.jpg",
               "prixBoutique": 18.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtZ0B4z2dKZa",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet Œil de Faucon 10 mm",
+              "stripeDesc": "Ce bracelet en œil de faucon, aussi appelé falconite, est un accessoire élégant et mystérieux qui attire l'attention par ses reflets profonds et sa couleur unique. Selon la lithothérapie, cette pierre est souvent associée à la protection, à la clarté mentale et à l'équilibre émotionnel, aidant à renforcer la confiance en soi. Porté au quotidien, il est censé apporter une énergie positive et apaiser les tensions intérieures.",
+              "stripePriceId": "price_1UJaPpLOfCA5mATusGZC3OSx",
+              "stripePrix": 19.8,
+              "stripeLinkId": "plink_1UJaPpLOfCA5mATuYvakbrel",
+              "stripe": "https://buy.stripe.com/fZubJ2gEy1Fj7IA35n28i3B",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-oeil-de-faucon-8-mm-mugntbyoy2r0",
@@ -186,7 +316,17 @@
               "description": "Ce bracelet en oeil de faucon, aussi appelé pierre faucon, est composé de perles noires aux reflets profonds et mystérieux. En lithothérapie, cette pierre est souvent associée à la protection, à la stabilité émotionnelle et à l’ancrage dans le quotidien. Elle est idéale pour ceux qui cherchent à renforcer leur confiance et à apaiser les tensions intérieures.",
               "photo": "images/articles/bracelet-oeil-de-faucon-8-mm-mugntbyozjb1.jpg",
               "prixBoutique": 16.8,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtBuKwrh4MZD",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet oeil de faucon 8 mm",
+              "stripeDesc": "Ce bracelet en oeil de faucon, aussi appelé pierre faucon, est composé de perles noires aux reflets profonds et mystérieux. En lithothérapie, cette pierre est souvent associée à la protection, à la stabilité émotionnelle et à l’ancrage dans le quotidien. Elle est idéale pour ceux qui cherchent à renforcer leur confiance et à apaiser les tensions intérieures.",
+              "stripePriceId": "price_1UJaPpLOfCA5mATum6UZq260",
+              "stripePrix": 17.63,
+              "stripeLinkId": "plink_1UJaPqLOfCA5mATu7SS4wjaN",
+              "stripe": "https://buy.stripe.com/14A14o8822Jn0g8cFX28i3C",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-quartz-rutile-roulee-mugnz2udgr3b",
@@ -195,7 +335,17 @@
               "description": "Ce bracelet en quartz rutile roulée est une pièce naturelle aux reflets dorés et lumineux, idéale pour apporter énergie et vitalité au quotidien. Le quartz rutile est souvent utilisé en lithothérapie pour stimuler la motivation, renforcer la confiance en soi et dynamiser l’esprit. Parfait pour un port continu, il se pare d’une élégance discrète tout en offrant une touche d’équilibre énergétique.",
               "photo": "images/articles/bracelet-quartz-rutile-roulee-mugnz2uduihh.jpg",
               "prixBoutique": 9.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtgQZYuDjtSc",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet quartz rutile roulée",
+              "stripeDesc": "Ce bracelet en quartz rutile roulée est une pièce naturelle aux reflets dorés et lumineux, idéale pour apporter énergie et vitalité au quotidien. Le quartz rutile est souvent utilisé en lithothérapie pour stimuler la motivation, renforcer la confiance en soi et dynamiser l’esprit. Parfait pour un port continu, il se pare d’une élégance discrète tout en offrant une touche d’équilibre énergétique.",
+              "stripePriceId": "price_1UJaPqLOfCA5mATu14UoZUHB",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UJaPqLOfCA5mATucpam36LA",
+              "stripe": "https://buy.stripe.com/4gMfZigEyabP4wo8pH28i3D",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -11137,15 +11287,15 @@
               "photo": "images/articles/bracelet-hematite-8-mm-mtk6554qnvs2.jpg",
               "prixBoutique": 14.9,
               "stock": 8,
-              "stripe": "https://buy.stripe.com/eVqcN6bke83He6Y8pH28a2b",
+              "stripe": "https://buy.stripe.com/cNi00kcoibfTfb2fS928i3E",
               "stripeProductId": "prod_VBc1WWmDN7mtgZ",
               "stripePriceId": "price_1UBEnfLOfCA5mATuO14q95Uh",
-              "stripeLinkId": "plink_1UEthtLOfCA5mATuzBlMlqmU",
+              "stripeLinkId": "plink_1UJaPrLOfCA5mATuDzknisi3",
               "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet hématite 8 mm",
               "stripeDesc": "Ce bracelet en hématite de 8 mm est un accessoire élégant et intemporel, composé de perles naturelles aux reflets métalliques profonds. L'hématite est souvent utilisée en lithothérapie pour renforcer la concentration, ancrer l'énergie et apaiser les émotions. Porté au quotidien, il est réputé pour favoriser la stabilité mentale et le bien-être physique.",
-              "stripeStock": 7,
+              "stripeStock": 8,
               "epuise": false
             },
             {
@@ -13340,7 +13490,17 @@
               "description": "La phosphosidérite baroque, aussi appelée pierre des émotions, est une pierre douce et apaisante qui favorise l'équilibre émotionnel et la sérénité. Elle est souvent utilisée pour apaiser les tensions et renforcer la confiance en soi. Ce bracelet en phosphosidérite baroque est idéal pour ceux qui cherchent à harmoniser leur énergie au quotidien.",
               "photo": "images/articles/phosphosiderite-baroque-mugogiav8pod.jpg",
               "prixBoutique": 6.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtl4dbntaaab",
+              "stripeMode": "live",
+              "stripeNom": "Phosphosidérite baroque",
+              "stripeDesc": "La phosphosidérite baroque, aussi appelée pierre des émotions, est une pierre douce et apaisante qui favorise l'équilibre émotionnel et la sérénité. Elle est souvent utilisée pour apaiser les tensions et renforcer la confiance en soi. Ce bracelet en phosphosidérite baroque est idéal pour ceux qui cherchent à harmoniser leur énergie au quotidien.",
+              "stripePriceId": "price_1UJaPrLOfCA5mATuVWqavSxu",
+              "stripePrix": 6.98,
+              "stripeLinkId": "plink_1UJaPrLOfCA5mATu3ACcQPzi",
+              "stripe": "https://buy.stripe.com/fZuaEY9c6bfT9QIfS928i3F",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-tourmaline-noire-6-mm-mugorjxcifu1",
@@ -13349,7 +13509,17 @@
               "description": "Ce bracelet en tourmaline noire est un allié puissant pour équilibrer vos énergies et apaiser les émotions négatives. La tourmaline noire est réputée pour absorber les ondes électromagnétiques et protéger contre les influences extérieures, tout en renforçant la stabilité intérieure. Parfait pour une utilisation quotidienne, il favorise la concentration et une sensation de sécurité, idéal pour les moments de stress ou de remise en question.",
               "photo": "images/articles/bracelet-tourmaline-noire-6-mm-mugorjxcdl9q.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtor7PkhEJC1",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet tourmaline noire 6 mm",
+              "stripeDesc": "Ce bracelet en tourmaline noire est un allié puissant pour équilibrer vos énergies et apaiser les émotions négatives. La tourmaline noire est réputée pour absorber les ondes électromagnétiques et protéger contre les influences extérieures, tout en renforçant la stabilité intérieure. Parfait pour une utilisation quotidienne, il favorise la concentration et une sensation de sécurité, idéal pour les moments de stress ou de remise en question.",
+              "stripePriceId": "price_1UJaPsLOfCA5mATuIOXsR17g",
+              "stripePrix": 15.77,
+              "stripeLinkId": "plink_1UJaPsLOfCA5mATuqyaQyOPW",
+              "stripe": "https://buy.stripe.com/dRm5kE2NI6ZDbYQ0Xf28i3G",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-tourmaline-noire-baroque-mugovhsvb2k6",
@@ -13358,7 +13528,17 @@
               "description": "Ce bracelet en tourmaline noire baroque allie élégance et énergie protectrice. La tourmaline noire est souvent utilisée en lithothérapie pour absorber les énergies négatives et renforcer le sentiment de sécurité intérieure. Parfait pour un port quotidien, il apporte équilibre et sérénité au quotidien.",
               "photo": "images/articles/bracelet-tourmaline-noire-baroque-mugovhsvnrih.jpg",
               "prixBoutique": 7.8,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEt2Y9R9EFOL9",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet tourmaline noire baroque",
+              "stripeDesc": "Ce bracelet en tourmaline noire baroque allie élégance et énergie protectrice. La tourmaline noire est souvent utilisée en lithothérapie pour absorber les énergies négatives et renforcer le sentiment de sécurité intérieure. Parfait pour un port quotidien, il apporte équilibre et sérénité au quotidien.",
+              "stripePriceId": "price_1UJaPsLOfCA5mATud4wHFXJS",
+              "stripePrix": 8.33,
+              "stripeLinkId": "plink_1UJaPtLOfCA5mATuPGM8Oq74",
+              "stripe": "https://buy.stripe.com/28EdRa2NIcjXe6Y6hz28i3H",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-lepidolite-8-mm-mugoxca9h0ti",
@@ -13367,7 +13547,17 @@
               "description": "Ce bracelet en lépidolite, aux teintes pourpre et lavande, est un allié précieux pour apaiser les émotions et réduire le stress. La lépidolite, riche en lithium, est souvent utilisée en lithothérapie pour favoriser la sérénité et équilibrer les énergies. Parfait pour accompagner votre quotidien, il se porte comme un rappel de calme et de douceur.",
               "photo": "images/articles/bracelet-lepidolite-8-mm-mugoxca98vn1.jpg",
               "prixBoutique": 17.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtaunhh0xwqd",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet lépidolite 8 mm",
+              "stripeDesc": "Ce bracelet en lépidolite, aux teintes pourpre et lavande, est un allié précieux pour apaiser les émotions et réduire le stress. La lépidolite, riche en lithium, est souvent utilisée en lithothérapie pour favoriser la sérénité et équilibrer les énergies. Parfait pour accompagner votre quotidien, il se porte comme un rappel de calme et de douceur.",
+              "stripePriceId": "price_1UJaPtLOfCA5mATuvxTF2zpk",
+              "stripePrix": 18.76,
+              "stripeLinkId": "plink_1UJaPtLOfCA5mATuRDgeErL9",
+              "stripe": "https://buy.stripe.com/aFafZi1JE2Jn2og7lD28i3I",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-opale-jaune-6-mm-mugphy3h756e",
@@ -13376,7 +13566,17 @@
               "description": "Ce bracelet en opale jaune est un accessoire élégant et raffiné, composé de perles naturelles aux reflets dorés et chatoyants. En lithothérapie, l’opale jaune est souvent associée à la créativité, à l’inspiration et à une énergie positive, aidant à stimuler l’intellect et à apaiser les émotions. Parfait pour un usage quotidien, il apporte une touche de douceur et de bien-être à votre quotidien.",
               "photo": "images/articles/bracelet-opale-jaune-6-mm-mugphy3hh7va.jpg",
               "prixBoutique": 14.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtFcNiFsBrDE",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet opale jaune 6 mm",
+              "stripeDesc": "Ce bracelet en opale jaune est un accessoire élégant et raffiné, composé de perles naturelles aux reflets dorés et chatoyants. En lithothérapie, l’opale jaune est souvent associée à la créativité, à l’inspiration et à une énergie positive, aidant à stimuler l’intellect et à apaiser les émotions. Parfait pour un usage quotidien, il apporte une touche de douceur et de bien-être à votre quotidien.",
+              "stripePriceId": "price_1UJaPuLOfCA5mATuJi26XWpN",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UJaPuLOfCA5mATujUNHdcom",
+              "stripe": "https://buy.stripe.com/fZu9AU1JE97L6Ew5dv28i3J",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-enfant-opale-rose-roulee-mugpqpfi82yp",
@@ -13385,7 +13585,17 @@
               "description": "Ce bracelet délicat en opale rose roulée est parfait pour les enfants. L'opale rose est souvent associée à une énergie douce et apaisante, favorisant l'harmonie émotionnelle et la sérénité. Elle est aussi réputée pour renforcer la confiance en soi et apaiser les tensions du quotidien.",
               "photo": "images/articles/bracelet-enfant-opale-rose-roulee-mugpqpfiiytu.jpg",
               "prixBoutique": 9.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtdSIqETfzZX",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet enfant opale rose roulée",
+              "stripeDesc": "Ce bracelet délicat en opale rose roulée est parfait pour les enfants. L'opale rose est souvent associée à une énergie douce et apaisante, favorisant l'harmonie émotionnelle et la sérénité. Elle est aussi réputée pour renforcer la confiance en soi et apaiser les tensions du quotidien.",
+              "stripePriceId": "price_1UJaPuLOfCA5mATu4ztXbpNa",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UJaPvLOfCA5mATuks3MVe0u",
+              "stripe": "https://buy.stripe.com/aFa28s2NI2Jne6Y8pH28i3K",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-enfant-labradorite-roulee-mugpsf5zn8lc",
@@ -13394,7 +13604,17 @@
               "description": "Ce bracelet en labradorite roulée est un accessoire à la fois élégant et chargé d'énergie positive. La labradorite, pierre aux reflets bleutés et dorés, est souvent appelée la pierre des mystiques, car elle favoriserait l'intuition et la connexion avec son monde spirituel. Porté au quotidien, il est idéal pour ceux qui cherchent à renforcer leur confiance en soi et à équilibrer leurs émotions.",
               "photo": "images/articles/bracelet-enfant-labradorite-roulee-mugpsf5zrknr.jpg",
               "prixBoutique": 9.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtjEVT9ooiOc",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet enfant labradorite roulée",
+              "stripeDesc": "Ce bracelet en labradorite roulée est un accessoire à la fois élégant et chargé d'énergie positive. La labradorite, pierre aux reflets bleutés et dorés, est souvent appelée la pierre des mystiques, car elle favoriserait l'intuition et la connexion avec son monde spirituel. Porté au quotidien, il est idéal pour ceux qui cherchent à renforcer leur confiance en soi et à équilibrer leurs émotions.",
+              "stripePriceId": "price_1UJaPvLOfCA5mATugk3YtRSh",
+              "stripePrix": 10.5,
+              "stripeLinkId": "plink_1UJaPvLOfCA5mATuNhXLQL1G",
+              "stripe": "https://buy.stripe.com/6oUeVe8821Fj7IA49r28i3L",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelets-en-cuir-decor-argente-mugqqa8dkwty",
@@ -13403,7 +13623,17 @@
               "description": "Bracelets cuir véritable avec décor argenté, valeur réelle 79,90€\nPRIX PROMO 29,90€",
               "photo": "images/articles/bracelets-en-cuir-decor-argente-mugqqa8dndkf.jpg",
               "prixBoutique": 29.9,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VKEtxgyI7QFeD5",
+              "stripeMode": "live",
+              "stripeNom": "Bracelets en cuir décor argenté",
+              "stripeDesc": "Bracelets cuir véritable avec décor argenté, valeur réelle 79,90€\nPRIX PROMO 29,90€",
+              "stripePriceId": "price_1UJaPwLOfCA5mATuVbpmst0G",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UJaPwLOfCA5mATuJBb7gj8E",
+              "stripe": "https://buy.stripe.com/dRm14o0FA4Rv1kc35n28i3M",
+              "stripeStock": 5,
+              "epuise": false
             },
             {
               "id": "bracelet-en-cuir-homme-mugrjysz8yt8",
@@ -13412,7 +13642,17 @@
               "description": "Bracelet en cuir véritable artisanal valeur réelle 79,90€\nPRIX PROMO 29,90€",
               "photo": "images/articles/bracelet-en-cuir-homme-mugrjyszo47v.jpg",
               "prixBoutique": 29.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VKEtkd8dVjM5et",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en cuir homme",
+              "stripeDesc": "Bracelet en cuir véritable artisanal valeur réelle 79,90€\nPRIX PROMO 29,90€",
+              "stripePriceId": "price_1UJaPwLOfCA5mATuzFjbvJ8C",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UJaPwLOfCA5mATu4IZEOrkv",
+              "stripe": "https://buy.stripe.com/eVq9AU9c6abPfb2axP28i3N",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "bracelet-large-en-cuir-decor-argente-mugz9mvpgubc",
@@ -13421,7 +13661,17 @@
               "description": "Bracelet en cuir large décor argentée valeur réelle 79, 90€ \nEN PROMO 29,90€",
               "photo": "images/articles/bracelet-large-en-cuir-decor-argente-mugz9mvpzhiq.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtqXEhCUqobr",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet large en cuir décor argenté",
+              "stripeDesc": "Bracelet en cuir large décor argentée valeur réelle 79, 90€ \nEN PROMO 29,90€",
+              "stripePriceId": "price_1UJaPxLOfCA5mATuxm919VME",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UJaPxLOfCA5mATuhlOgMadL",
+              "stripe": "https://buy.stripe.com/28EfZibkedo19QIgWd28i3O",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-en-cuir-decor-argentee-mugzcyxpsbr6",
@@ -13430,7 +13680,17 @@
               "description": "Bracelet en cuir décor argentée valeur réelle 79,90€\nEN PROMO 29,90€",
               "photo": "images/articles/bracelet-en-cuir-decor-argentee-mugzcyxp38dp.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEt2oTgQEFhB6",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en cuir décor argentée",
+              "stripeDesc": "Bracelet en cuir décor argentée valeur réelle 79,90€\nEN PROMO 29,90€",
+              "stripePriceId": "price_1UJaPxLOfCA5mATuaQozwcnb",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UJaPyLOfCA5mATuzFw0mvu9",
+              "stripe": "https://buy.stripe.com/4gM28s4VQ5Vzgf6eO528i3P",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-en-cuir-femme-muh293nqb3a1",
@@ -13439,7 +13699,17 @@
               "description": "Bracelet en cuir valeur 79,90€\nEN PROMO 29,90€",
               "photo": "images/articles/bracelet-en-cuir-femme-muh293nq8a17.jpg",
               "prixBoutique": 29.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VKEtRbmEOc39wq",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en cuir femme",
+              "stripeDesc": "Bracelet en cuir valeur 79,90€\nEN PROMO 29,90€",
+              "stripePriceId": "price_1UJaPyLOfCA5mATulsrCKeXM",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UJaPyLOfCA5mATuJSJQAKXX",
+              "stripe": "https://buy.stripe.com/3cI4gAcoido11kceO528i3Q",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "bracelet-en-cuir-femme-muh2cksur1wh",
@@ -13448,7 +13718,17 @@
               "description": "Bracelet en cuir valeur réelle 79,90€\nEN PROMO 29,90€",
               "photo": "images/articles/bracelet-en-cuir-femme-muh2cksuqc58.jpg",
               "prixBoutique": 29.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VKEtMSJWgGDsu1",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en cuir femme",
+              "stripeDesc": "Bracelet en cuir valeur réelle 79,90€\nEN PROMO 29,90€",
+              "stripePriceId": "price_1UJaPzLOfCA5mATuinuyLPT5",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UJaPzLOfCA5mATu78dg4Mzx",
+              "stripe": "https://buy.stripe.com/4gM8wQewq6ZD6Ew0Xf28i3R",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "bracelet-femme-spinelle-muh2fdb2se4x",
@@ -13457,7 +13737,17 @@
               "description": "Bracelet femme spinelle",
               "photo": "images/articles/bracelet-femme-spinelle-muh2fdb2fmji.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtZQQIKZYxSC",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet femme spinelle",
+              "stripeDesc": "Bracelet femme spinelle",
+              "stripePriceId": "price_1UJaPzLOfCA5mATui461zSQE",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UJaQ0LOfCA5mATupfQ0BKOP",
+              "stripe": "https://buy.stripe.com/dRm5kEcoi2Jnfb2gWd28i3S",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-en-cuir-femme-muh2hnjp6ykt",
@@ -13466,7 +13756,17 @@
               "description": "Bracelet en cuir femme valeur réelle 79,90€ \nEN PROMO 29,90€",
               "photo": "images/articles/bracelet-en-cuir-femme-muh2hnjprmbf.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtaCa3vHcn0x",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en cuir femme",
+              "stripeDesc": "Bracelet en cuir femme valeur réelle 79,90€ \nEN PROMO 29,90€",
+              "stripePriceId": "price_1UJaQ0LOfCA5mATuiKkwvMXe",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UJaQ0LOfCA5mATujwZ5tsdW",
+              "stripe": "https://buy.stripe.com/6oU9AU5ZUdo1d2UfS928i3T",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-en-cuir-muh2k05i5zy5",
@@ -13475,7 +13775,17 @@
               "description": "Bracelet en cuir 29,90€",
               "photo": "images/articles/bracelet-en-cuir-muh2k05igayy.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtNVO1vy8IgG",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en cuir",
+              "stripeDesc": "Bracelet en cuir 29,90€",
+              "stripePriceId": "price_1UJaQ0LOfCA5mATuwrnRcpui",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UJaQ1LOfCA5mATuLa8mlrds",
+              "stripe": "https://buy.stripe.com/dRmaEY5ZU1FjbYQbBT28i3U",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-en-cuir-muh2lfct0h60",
@@ -13484,7 +13794,17 @@
               "description": "Bracelet en cuir 29,90€",
               "photo": "images/articles/bracelet-en-cuir-muh2lfctd4is.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtbxJz5wzAHG",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en cuir",
+              "stripeDesc": "Bracelet en cuir 29,90€",
+              "stripePriceId": "price_1UJaQ1LOfCA5mATuicA2NMIi",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UJaQ1LOfCA5mATuofysY50w",
+              "stripe": "https://buy.stripe.com/fZu14obke1Fjgf6bBT28i3V",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-en-cuir-muh2rg8thmey",
@@ -13493,7 +13813,17 @@
               "description": "Bracelet en cuir 29,90€",
               "photo": "images/articles/bracelet-en-cuir-muh2rg8uk2it.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKEtufJGfS62ma",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet en cuir",
+              "stripeDesc": "Bracelet en cuir 29,90€",
+              "stripePriceId": "price_1UJaQ2LOfCA5mATu5flUtv9X",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UJaQ2LOfCA5mATuTfwhZCgB",
+              "stripe": "https://buy.stripe.com/6oUdRaagabfTgf6axP28i3W",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

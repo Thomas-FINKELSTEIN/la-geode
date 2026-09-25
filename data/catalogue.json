@@ -69,7 +69,17 @@
               "description": "Ce bracelet en jaspe mokaite allie élégance et douceur grâce à ses pierres aux reflets chauds et apaisants. Le jaspe mokaite est souvent utilisé en lithothérapie pour favoriser la stabilité émotionnelle, renforcer la confiance en soi et apaiser les tensions du quotidien. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante.",
               "photo": "images/articles/bracelet-jaspe-mokaite-10-mm-muglf4hje17y.jpg",
               "prixBoutique": 11.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VK7Ai24hZWaHFa",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet jaspe mokaite 10 mm",
+              "stripeDesc": "Ce bracelet en jaspe mokaite allie élégance et douceur grâce à ses pierres aux reflets chauds et apaisants. Le jaspe mokaite est souvent utilisé en lithothérapie pour favoriser la stabilité émotionnelle, renforcer la confiance en soi et apaiser les tensions du quotidien. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante.",
+              "stripePriceId": "price_1UJSwXLOfCA5mATucy5jTQul",
+              "stripePrix": 12.56,
+              "stripeLinkId": "plink_1UJSwXLOfCA5mATu6ylYxP9h",
+              "stripe": "https://buy.stripe.com/4gM8wQ4VQ4Rvgf6bBT28g1T",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-phrenite-10-mm-mugljsho608z",
@@ -78,7 +88,17 @@
               "description": "Ce bracelet en phrénite, composé de perles naturelles de 10 mm, est une pièce raffinée et apaisante. La phrénite est souvent associée à la sérénité et à la connexion avec la nature, aidant à apaiser les émotions et à favoriser un état de calme intérieur. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à se recentrer.",
               "photo": "images/articles/bracelet-phrenite-10-mm-mugljshokmn1.jpg",
               "prixBoutique": 19.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VK7ASj3w118O7f",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet phrénite 10 mm",
+              "stripeDesc": "Ce bracelet en phrénite, composé de perles naturelles de 10 mm, est une pièce raffinée et apaisante. La phrénite est souvent associée à la sérénité et à la connexion avec la nature, aidant à apaiser les émotions et à favoriser un état de calme intérieur. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à se recentrer.",
+              "stripePriceId": "price_1UJSwYLOfCA5mATuL4GCse2E",
+              "stripePrix": 20.42,
+              "stripeLinkId": "plink_1UJSwYLOfCA5mATu5AZipiEg",
+              "stripe": "https://buy.stripe.com/eVqfZi2NIes5aUMeO528g1U",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bracelet-phrenite-6-mm-muglnvd83p3u",
@@ -87,7 +107,17 @@
               "description": "Ce bracelet en phrénite, aux belles teintes douces et translucides, est une pièce raffinée pour sublimer votre quotidien. La phrénite est souvent associée à la sérénité et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. Porté au poignet, il diffuse une énergie calme et favorise la concentration, tout en apportant une touche élégante à votre style.",
               "photo": "images/articles/bracelet-phrenite-6-mm-muglnvd8ay64.jpg",
               "prixBoutique": 11.4,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VK7AOYg7aSRkAL",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet phrénite 6 mm",
+              "stripeDesc": "Ce bracelet en phrénite, aux belles teintes douces et translucides, est une pièce raffinée pour sublimer votre quotidien. La phrénite est souvent associée à la sérénité et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. Porté au poignet, il diffuse une énergie calme et favorise la concentration, tout en apportant une touche élégante à votre style.",
+              "stripePriceId": "price_1UJSwYLOfCA5mATu2W29Q2SM",
+              "stripePrix": 12.05,
+              "stripeLinkId": "plink_1UJSwYLOfCA5mATusooi8dlN",
+              "stripe": "https://buy.stripe.com/14A4gA4VQgAde6YeO528g1V",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -69,17 +69,16 @@
               "description": "Ce bracelet en jaspe mokaite allie élégance et douceur grâce à ses pierres aux reflets chauds et apaisants. Le jaspe mokaite est souvent utilisé en lithothérapie pour favoriser la stabilité émotionnelle, renforcer la confiance en soi et apaiser les tensions du quotidien. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante.",
               "photo": "images/articles/bracelet-jaspe-mokaite-10-mm-muglf4hje17y.jpg",
               "prixBoutique": 11.9,
-              "stock": 1,
-              "stripeProductId": "prod_VK74Fn0Ccj9J47",
-              "stripeMode": "live",
-              "stripeNom": "Bracelet jaspe mokaite 10 mm",
-              "stripeDesc": "Ce bracelet en jaspe mokaite allie élégance et douceur grâce à ses pierres aux reflets chauds et apaisants. Le jaspe mokaite est souvent utilisé en lithothérapie pour favoriser la stabilité émotionnelle, renforcer la confiance en soi et apaiser les tensions du quotidien. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante.",
-              "stripePriceId": "price_1UJSptLOfCA5mATu3KIki0Jj",
-              "stripePrix": 12.56,
-              "stripeLinkId": "plink_1UJSptLOfCA5mATuP78DFTWY",
-              "stripe": "https://buy.stripe.com/eVqfZicoi3Nrd2U9tL28g1Q",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "bracelet-phrenite-10-mm-mugljsho608z",
+              "nom": "Bracelet phrénite 10 mm",
+              "prix": 20.42,
+              "description": "Ce bracelet en phrénite, composé de perles naturelles de 10 mm, est une pièce raffinée et apaisante. La phrénite est souvent associée à la sérénité et à la connexion avec la nature, aidant à apaiser les émotions et à favoriser un état de calme intérieur. Porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à se recentrer.",
+              "photo": "images/articles/bracelet-phrenite-10-mm-mugljshokmn1.jpg",
+              "prixBoutique": 19.5,
+              "stock": 1
             }
           ]
         },

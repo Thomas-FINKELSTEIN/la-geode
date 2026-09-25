@@ -50,7 +50,17 @@
               "description": "Ce bracelet en pierres naturelles associe les énergies puissantes du tigre, du taureau et du faucon pour un équilibre harmonieux. Parfait pour renforcer la confiance en soi, la stabilité et la détermination, il est idéal pour porter au quotidien. Ses pierres aux couleurs variées apportent une touche d'élégance et de dynamisme à votre style.",
               "photo": "images/articles/bracelet-trio-tigre-taureau-faucon-6-mm-mugl9vzyc3ft.jpg",
               "prixBoutique": 12.5,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VK6z6hOcDSCQq4",
+              "stripeMode": "live",
+              "stripeNom": "Bracelet trio tigre taureau faucon 6 mm",
+              "stripeDesc": "Ce bracelet en pierres naturelles associe les énergies puissantes du tigre, du taureau et du faucon pour un équilibre harmonieux. Parfait pour renforcer la confiance en soi, la stabilité et la détermination, il est idéal pour porter au quotidien. Ses pierres aux couleurs variées apportent une touche d'élégance et de dynamisme à votre style.",
+              "stripePriceId": "price_1UJSlyLOfCA5mATu7NszqahR",
+              "stripePrix": 13.18,
+              "stripeLinkId": "plink_1UJSlyLOfCA5mATuDkbJI7X3",
+              "stripe": "https://buy.stripe.com/9B67sMgEyes54woaxP28g1P",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

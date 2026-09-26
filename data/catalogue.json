@@ -15011,7 +15011,17 @@
               "description": "Petites pierres labradorite qualité AAA à prix attractifs",
               "photo": "images/articles/labradorite-taille-moyenne-mui1xy8h4s82.jpg",
               "prixBoutique": 12,
-              "stock": 7
+              "stock": 7,
+              "stripeProductId": "prod_VKUmrNZdkCO5nn",
+              "stripeMode": "live",
+              "stripeNom": "Labradorite taille moyenne",
+              "stripeDesc": "Petites pierres labradorite qualité AAA à prix attractifs",
+              "stripePriceId": "price_1UJpmnLOfCA5mATu4GaCVem3",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UJpmoLOfCA5mATuH5u6xAbz",
+              "stripe": "https://buy.stripe.com/eVq00kdsm6ZD5AsaxP28j3Z",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         }

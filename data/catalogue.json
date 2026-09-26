@@ -13953,17 +13953,7 @@
               "description": "La kunzite est une pierre qui calme les douleurs  cervicales , les migraines, et le surmenage",
               "photo": "images/articles/bague-kunzite-muiiqfzzh6uo.jpg",
               "prixBoutique": 39.9,
-              "stock": 3,
-              "stripeProductId": "prod_VKcOy5A2LyVv9p",
-              "stripeMode": "live",
-              "stripeNom": "Bague kunzite",
-              "stripeDesc": "La kunzite est une pierre qui calme les douleurs  cervicales , les migraines, et le surmenage",
-              "stripePriceId": "price_1UJx9zLOfCA5mATu9jlmdLhE",
-              "stripePrix": 41.5,
-              "stripeLinkId": "plink_1UJx9zLOfCA5mATuCx6OPMJj",
-              "stripe": "https://buy.stripe.com/5kQ7sMbkefw93sk21j28k2r",
-              "stripeStock": 3,
-              "epuise": false
+              "stock": 3
             },
             {
               "id": "bague-amazonite-muiitiou2ar3",
@@ -13972,17 +13962,16 @@
               "description": "La pierre amazonite améliore les rapports envers les autres, l'humeur,apaise le corps, agit sur le système immunitaire",
               "photo": "images/articles/bague-amazonite-muiitiouery8.jpg",
               "prixBoutique": 39.9,
-              "stock": 2,
-              "stripeProductId": "prod_VKcOgmXKdkatGp",
-              "stripeMode": "live",
-              "stripeNom": "Bague amazonite",
-              "stripeDesc": "La pierre amazonite améliore les rapports envers les autres, l'humeur,apaise le corps, agit sur le système immunitaire",
-              "stripePriceId": "price_1UJx9zLOfCA5mATudc0MPYqX",
-              "stripePrix": 41.5,
-              "stripeLinkId": "plink_1UJxA0LOfCA5mATuUWOuZT7T",
-              "stripe": "https://buy.stripe.com/fZuaEYgEyabP6Ew21j28k2s",
-              "stripeStock": 2,
-              "epuise": false
+              "stock": 2
+            },
+            {
+              "id": "bague-rhodocrosite-muiiy7jrmus5",
+              "nom": "Bague rhodocrosite",
+              "prix": 41.5,
+              "description": "La pierre rhodocrosite soulage les blessures sentimentales ou celles du passé, elle renforce la vitalité, et remet la confiance en soi",
+              "photo": "images/articles/bague-rhodocrosite-muiiy7jru9i6.jpg",
+              "prixBoutique": 39.9,
+              "stock": 5
             }
           ]
         }
@@ -15448,17 +15437,7 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée en lithothérapie pour favoriser la connexion spirituelle.",
               "photo": "images/articles/labradorite-forme-libre-muiffkfa0ovo.jpg",
               "prixBoutique": 110,
-              "stock": 1,
-              "stripeProductId": "prod_VKcOUwuxfJQs2l",
-              "stripeMode": "live",
-              "stripeNom": "Labradorite Forme libre",
-              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée en lithothérapie pour favoriser la connexion spirituelle.",
-              "stripePriceId": "price_1UJxA0LOfCA5mATuEkPggU70",
-              "stripePrix": 113.96,
-              "stripeLinkId": "plink_1UJxA0LOfCA5mATu2IKyd9pq",
-              "stripe": "https://buy.stripe.com/cNi5kEewqgAde6Y9tL28k2t",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "labradorite-forme-libre-muifhw98cwa4",
@@ -15467,17 +15446,7 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Idéale pour les personnes en quête de spiritualité ou de connexion avec leur intuition, elle est aussi très prisée pour ses propriétés apaisantes et son pouvoir de renforcement émotionnel.",
               "photo": "images/articles/labradorite-forme-libre-muifhw98q5ix.jpg",
               "prixBoutique": 143,
-              "stock": 1,
-              "stripeProductId": "prod_VKcOK92JK2T0y5",
-              "stripeMode": "live",
-              "stripeNom": "Labradorite Forme libre",
-              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Idéale pour les personnes en quête de spiritualité ou de connexion avec leur intuition, elle est aussi très prisée pour ses propriétés apaisantes et son pouvoir de renforcement émotionnel.",
-              "stripePriceId": "price_1UJxA1LOfCA5mATuA9ei7g0N",
-              "stripePrix": 148.07,
-              "stripeLinkId": "plink_1UJxA1LOfCA5mATu3Bb5yRVx",
-              "stripe": "https://buy.stripe.com/fZudRa0FAfw99QI5dv28k2u",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },

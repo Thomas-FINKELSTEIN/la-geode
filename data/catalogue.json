@@ -14790,12 +14790,6 @@
           "articles": []
         },
         {
-          "id": "pendules-radiesthesie",
-          "nom": "Pendules & radiesthésie",
-          "slogan": "Un procédé divinatoire pouvant vous aider dans vos choix.",
-          "articles": []
-        },
-        {
           "id": "feng-shui",
           "nom": "Feng shui",
           "slogan": "Harmonie, énergie, santé, prospérité : le bien-être de votre foyer et de ses occupants.",
@@ -15002,6 +14996,22 @@
               "stripeDesc": "Ce porte-clés en ambre est un accessoire élégant et chaleureux, parfait pour allier style et bien-être au quotidien. L’ambre, pierre de lumière et de protection, est traditionnellement utilisée pour apaiser les émotions, renforcer la vitalité et attirer la joie. Son énergie positive en fait un compagnon idéal pour une journée sereine et équilibrée.",
               "stripeStock": 7,
               "epuise": false
+            }
+          ]
+        },
+        {
+          "id": "pierres-toutes-formes-mui1so42hck4",
+          "nom": "Pierres de toutes formes",
+          "slogan": "pierres de toutes tailles à exposer dans son intérieur ou pour travaux",
+          "articles": [
+            {
+              "id": "labradorite-taille-moyenne-mui1xy8hue17",
+              "nom": "Labradorite taille moyenne",
+              "prix": 12.67,
+              "description": "Petites pierres labradorite qualité AAA à prix attractifs",
+              "photo": "images/articles/labradorite-taille-moyenne-mui1xy8h4s82.jpg",
+              "prixBoutique": 12,
+              "stock": 7
             }
           ]
         }

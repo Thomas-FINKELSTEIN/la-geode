@@ -13953,7 +13953,17 @@
               "description": "La kunzite est une pierre qui calme les douleurs  cervicales , les migraines, et le surmenage",
               "photo": "images/articles/bague-kunzite-muiiqfzzh6uo.jpg",
               "prixBoutique": 39.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VKcMxd5YvbakUv",
+              "stripeMode": "live",
+              "stripeNom": "Bague kunzite",
+              "stripeDesc": "La kunzite est une pierre qui calme les douleurs  cervicales , les migraines, et le surmenage",
+              "stripePriceId": "price_1UJx7eLOfCA5mATuX0ay2Whc",
+              "stripePrix": 41.5,
+              "stripeLinkId": "plink_1UJx7fLOfCA5mATu5F3Q0vrm",
+              "stripe": "https://buy.stripe.com/bJe6oI2NI6ZD0g835n28k2o",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }
@@ -15419,7 +15429,17 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée en lithothérapie pour favoriser la connexion spirituelle.",
               "photo": "images/articles/labradorite-forme-libre-muiffkfa0ovo.jpg",
               "prixBoutique": 110,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKcMAGFgTRRSN6",
+              "stripeMode": "live",
+              "stripeNom": "Labradorite Forme libre",
+              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée en lithothérapie pour favoriser la connexion spirituelle.",
+              "stripePriceId": "price_1UJx7fLOfCA5mATuvjHzWIzX",
+              "stripePrix": 113.96,
+              "stripeLinkId": "plink_1UJx7gLOfCA5mATuMm5e3O2R",
+              "stripe": "https://buy.stripe.com/cNicN6bke4Rv4wofS928k2p",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "labradorite-forme-libre-muifhw98cwa4",
@@ -15428,7 +15448,17 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Idéale pour les personnes en quête de spiritualité ou de connexion avec leur intuition, elle est aussi très prisée pour ses propriétés apaisantes et son pouvoir de renforcement émotionnel.",
               "photo": "images/articles/labradorite-forme-libre-muifhw98q5ix.jpg",
               "prixBoutique": 143,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKcM3UjGzlKmCf",
+              "stripeMode": "live",
+              "stripeNom": "Labradorite Forme libre",
+              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Idéale pour les personnes en quête de spiritualité ou de connexion avec leur intuition, elle est aussi très prisée pour ses propriétés apaisantes et son pouvoir de renforcement émotionnel.",
+              "stripePriceId": "price_1UJx7gLOfCA5mATuhBZOHtgJ",
+              "stripePrix": 148.07,
+              "stripeLinkId": "plink_1UJx7gLOfCA5mATupkLTvNqz",
+              "stripe": "https://buy.stripe.com/7sY3cwewqes53sk0Xf28k2q",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

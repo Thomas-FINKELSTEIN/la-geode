@@ -13953,17 +13953,7 @@
               "description": "La kunzite est une pierre qui calme les douleurs  cervicales , les migraines, et le surmenage",
               "photo": "images/articles/bague-kunzite-muiiqfzzh6uo.jpg",
               "prixBoutique": 39.9,
-              "stock": 3,
-              "stripeProductId": "prod_VKcW25ANmnYctG",
-              "stripeMode": "live",
-              "stripeNom": "Bague kunzite",
-              "stripeDesc": "La kunzite est une pierre qui calme les douleurs  cervicales , les migraines, et le surmenage",
-              "stripePriceId": "price_1UJxHaLOfCA5mATuCPOu5n57",
-              "stripePrix": 41.5,
-              "stripeLinkId": "plink_1UJxHaLOfCA5mATuZv3z7hkq",
-              "stripe": "https://buy.stripe.com/7sY6oI5ZU6ZD9QIdK128k2A",
-              "stripeStock": 3,
-              "epuise": false
+              "stock": 3
             },
             {
               "id": "bague-amazonite-muiitiou2ar3",
@@ -13972,17 +13962,7 @@
               "description": "La pierre amazonite améliore les rapports envers les autres, l'humeur,apaise le corps, agit sur le système immunitaire",
               "photo": "images/articles/bague-amazonite-muiitiouery8.jpg",
               "prixBoutique": 39.9,
-              "stock": 2,
-              "stripeProductId": "prod_VKcWQrMVeKjI6h",
-              "stripeMode": "live",
-              "stripeNom": "Bague amazonite",
-              "stripeDesc": "La pierre amazonite améliore les rapports envers les autres, l'humeur,apaise le corps, agit sur le système immunitaire",
-              "stripePriceId": "price_1UJxHaLOfCA5mATucU4uTPU1",
-              "stripePrix": 41.5,
-              "stripeLinkId": "plink_1UJxHbLOfCA5mATuMEPpueby",
-              "stripe": "https://buy.stripe.com/dRm28s9c683H6Ew49r28k2B",
-              "stripeStock": 2,
-              "epuise": false
+              "stock": 2
             },
             {
               "id": "bague-rhodocrosite-muiiy7jrmus5",
@@ -13991,17 +13971,7 @@
               "description": "La pierre rhodocrosite soulage les blessures sentimentales ou celles du passé, elle renforce la vitalité, et remet la confiance en soi",
               "photo": "images/articles/bague-rhodocrosite-muiiy7jru9i6.jpg",
               "prixBoutique": 39.9,
-              "stock": 5,
-              "stripeProductId": "prod_VKcWLwvVFw9s1p",
-              "stripeMode": "live",
-              "stripeNom": "Bague rhodocrosite",
-              "stripeDesc": "La pierre rhodocrosite soulage les blessures sentimentales ou celles du passé, elle renforce la vitalité, et remet la confiance en soi",
-              "stripePriceId": "price_1UJxHbLOfCA5mATujJgjOlV0",
-              "stripePrix": 41.5,
-              "stripeLinkId": "plink_1UJxHcLOfCA5mATukWvF8ELb",
-              "stripe": "https://buy.stripe.com/3cI3cwewq2Jnfb235n28k2C",
-              "stripeStock": 5,
-              "epuise": false
+              "stock": 5
             },
             {
               "id": "bague-spinelle-muij2vlj1q2b",
@@ -14010,17 +13980,16 @@
               "description": "Cette bague en spinelle incarne une pierre aux reflets envoûtants, souvent associée à la passion et à la vitalité. En lithothérapie, le spinelle est réputé pour stimuler l'énergie et renforcer la confiance en soi, tout en apaisant les émotions. Parfaite pour un accessoire audacieux et lumineux, elle apporte une touche de dynamisme au quotidien.",
               "photo": "images/articles/bague-spinelle-muij2vljqhuj.jpg",
               "prixBoutique": 39.9,
-              "stock": 2,
-              "stripeProductId": "prod_VKcW3U0Nzm1EYy",
-              "stripeMode": "live",
-              "stripeNom": "Bague spinelle",
-              "stripeDesc": "Cette bague en spinelle incarne une pierre aux reflets envoûtants, souvent associée à la passion et à la vitalité. En lithothérapie, le spinelle est réputé pour stimuler l'énergie et renforcer la confiance en soi, tout en apaisant les émotions. Parfaite pour un accessoire audacieux et lumineux, elle apporte une touche de dynamisme au quotidien.",
-              "stripePriceId": "price_1UJxHcLOfCA5mATuD5xoPo3P",
-              "stripePrix": 41.5,
-              "stripeLinkId": "plink_1UJxHcLOfCA5mATu2Nxa0gBK",
-              "stripe": "https://buy.stripe.com/6oU5kE3RM97L8ME9tL28k2D",
-              "stripeStock": 2,
-              "epuise": false
+              "stock": 2
+            },
+            {
+              "id": "bague-aigue-marine-muij4lxal5k7",
+              "nom": "Bague Aigue marine",
+              "prix": 41.5,
+              "description": "Cette bague en aigue marine est une pièce élégante et raffinée, mettant en valeur la beauté douce et bleutée de cette pierre. L’aigue marine est souvent associée à la sérénité et à la purification des émotions, aidant à apaiser le mental et à favoriser la clarté d’esprit. Portée au quotidien, elle est idéale pour ceux qui cherchent à cultiver une énergie apaisante et à renforcer leur connexion avec les bienfaits de la mer.",
+              "photo": "images/articles/bague-aigue-marine-muij4lxa5ypk.jpg",
+              "prixBoutique": 39.9,
+              "stock": 3
             }
           ]
         }
@@ -15486,17 +15455,7 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée en lithothérapie pour favoriser la connexion spirituelle.",
               "photo": "images/articles/labradorite-forme-libre-muiffkfa0ovo.jpg",
               "prixBoutique": 110,
-              "stock": 1,
-              "stripeProductId": "prod_VKcWfPZxMyYDFI",
-              "stripeMode": "live",
-              "stripeNom": "Labradorite Forme libre",
-              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée en lithothérapie pour favoriser la connexion spirituelle.",
-              "stripePriceId": "price_1UJxHdLOfCA5mATu0xVuPTEb",
-              "stripePrix": 113.96,
-              "stripeLinkId": "plink_1UJxHdLOfCA5mATuqlKGlKLI",
-              "stripe": "https://buy.stripe.com/bJe5kE1JEdo1fb2gWd28k2E",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "labradorite-forme-libre-muifhw98cwa4",
@@ -15505,17 +15464,7 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Idéale pour les personnes en quête de spiritualité ou de connexion avec leur intuition, elle est aussi très prisée pour ses propriétés apaisantes et son pouvoir de renforcement émotionnel.",
               "photo": "images/articles/labradorite-forme-libre-muifhw98q5ix.jpg",
               "prixBoutique": 143,
-              "stock": 1,
-              "stripeProductId": "prod_VKcWEdhTMvrpPR",
-              "stripeMode": "live",
-              "stripeNom": "Labradorite Forme libre",
-              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Idéale pour les personnes en quête de spiritualité ou de connexion avec leur intuition, elle est aussi très prisée pour ses propriétés apaisantes et son pouvoir de renforcement émotionnel.",
-              "stripePriceId": "price_1UJxHdLOfCA5mATuYSwsQD1U",
-              "stripePrix": 148.07,
-              "stripeLinkId": "plink_1UJxHdLOfCA5mATuLxYjyzqO",
-              "stripe": "https://buy.stripe.com/00weVebke97Lfb2bBT28k2F",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },

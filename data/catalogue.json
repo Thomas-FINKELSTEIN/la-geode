@@ -15011,17 +15011,7 @@
               "description": "Petites pierres labradorite qualité AAA à prix attractifs",
               "photo": "images/articles/labradorite-taille-moyenne-mui1xy8h4s82.jpg",
               "prixBoutique": 12,
-              "stock": 7,
-              "stripeProductId": "prod_VKV5R9pb4xI88f",
-              "stripeMode": "live",
-              "stripeNom": "Labradorite taille moyenne",
-              "stripeDesc": "Petites pierres labradorite qualité AAA à prix attractifs",
-              "stripePriceId": "price_1UJq5FLOfCA5mATucofF5kKa",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1UJq5FLOfCA5mATuYgstlPmF",
-              "stripe": "https://buy.stripe.com/7sY9AUewq4Rv5As6hz28k00",
-              "stripeStock": 7,
-              "epuise": false
+              "stock": 7
             },
             {
               "id": "labradorite-taille-moyenne-mui23m3k4kce",
@@ -15030,17 +15020,7 @@
               "description": "Labradorite qualité AAA de 5 cm à prix attractifs",
               "photo": "images/articles/labradorite-taille-moyenne-mui23m3kpw2r.jpg",
               "prixBoutique": 12,
-              "stock": 1,
-              "stripeProductId": "prod_VKV51BTAuXwN6s",
-              "stripeMode": "live",
-              "stripeNom": "Labradorite taille moyenne",
-              "stripeDesc": "Labradorite qualité AAA de 5 cm à prix attractifs",
-              "stripePriceId": "price_1UJq5GLOfCA5mATuyzZlivdo",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1UJq5GLOfCA5mATuCrkX22jQ",
-              "stripe": "https://buy.stripe.com/9B628sfAudo10g85dv28k01",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "labradorite-moyenne-taille-mui2k7scqjpc",
@@ -15049,17 +15029,16 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelés flashs d’arc-en-ciel. Connue pour renforcer la confiance en soi et protéger contre les énergies négatives, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à stimuler leur intuition. Utilisée en lithothérapie pour son pouvoir de connexion spirituelle, elle est aussi appréciée pour son esthétique unique et mystérieuse.",
               "photo": "images/articles/labradorite-taille-moyenne-mui2mjjlhdqh.jpg",
               "prixBoutique": 12,
-              "stock": 1,
-              "stripeProductId": "prod_VKV5LUN81DbdBk",
-              "stripeMode": "live",
-              "stripeNom": "Labradorite taille moyenne",
-              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelés flashs d’arc-en-ciel. Connue pour renforcer la confiance en soi et protéger contre les énergies négatives, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à stimuler leur intuition. Utilisée en lithothérapie pour son pouvoir de connexion spirituelle, elle est aussi appréciée pour son esthétique unique et mystérieuse.",
-              "stripePriceId": "price_1UJq5GLOfCA5mATuU1N6TRJX",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1UJq5HLOfCA5mATuyCZOXetG",
-              "stripe": "https://buy.stripe.com/9B6eVe2NI3Nr9QI7lD28k02",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "labradorite-moyenne-taille-mui2nif65wry",
+              "nom": "Labradorite moyenne taille",
+              "prix": 12.67,
+              "description": "La labradorite est une pierre aux reflets magiques et irisés, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou pour une touche mystique dans votre intérieur, elle est aussi utilisée en lithothérapie pour équilibrer les émotions.",
+              "photo": "images/articles/labradorite-moyenne-taille-mui2nif63li2.jpg",
+              "prixBoutique": 12,
+              "stock": 1
             }
           ]
         }

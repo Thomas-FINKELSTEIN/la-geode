@@ -15315,7 +15315,17 @@
               "description": "Cette géode de labradorite impressionne par ses reflets bleutés et verts irisés, créés par la lumière traversant ses cristaux. Considérée comme une pierre de protection et de transformation, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi, équilibrer les émotions et stimuler l’intuition. Idéale pour décorer un espace tout en bénéficiant de son énergie apaisante et inspirante.",
               "photo": "images/articles/geode-labradorite-21-kg-muief7vlbuyl.jpg",
               "prixBoutique": 899,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKaTIFyRQeDjOp",
+              "stripeMode": "live",
+              "stripeNom": "Géode labradorite 21 kg",
+              "stripeDesc": "Cette géode de labradorite impressionne par ses reflets bleutés et verts irisés, créés par la lumière traversant ses cristaux. Considérée comme une pierre de protection et de transformation, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi, équilibrer les émotions et stimuler l’intuition. Idéale pour décorer un espace tout en bénéficiant de son énergie apaisante et inspirante.",
+              "stripePriceId": "price_1UJvICLOfCA5mATuPUEQD1Yg",
+              "stripePrix": 929.46,
+              "stripeLinkId": "plink_1UJvICLOfCA5mATuKhPaw78Y",
+              "stripe": "https://buy.stripe.com/bJe14oewq97L8MEaxP28k1D",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "labradorite-2329-gr-taille-muiejoywsvpf",
@@ -15324,7 +15334,17 @@
               "description": "Cette labradorite aux reflets irisés et mystiques est une pierre fascinante aux éclats bleutés et verts qui captent la lumière. En lithothérapie, elle est souvent associée à la protection énergétique et à l’ouverture spirituelle, aidant à renforcer la confiance en soi et à apaiser les émotions. Parfaite pour les collectionneurs ou les amateurs de pierres aux énergies puissantes, elle apporte une touche d’envoûtement à tout intérieur ou bijou.",
               "photo": "images/articles/labradorite-2329-gr-taille-muiejoyw56un.jpg",
               "prixBoutique": 174.7,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKaT6RIndOxgtb",
+              "stripeMode": "live",
+              "stripeNom": "Labradorite 2329 GR taille",
+              "stripeDesc": "Cette labradorite aux reflets irisés et mystiques est une pierre fascinante aux éclats bleutés et verts qui captent la lumière. En lithothérapie, elle est souvent associée à la protection énergétique et à l’ouverture spirituelle, aidant à renforcer la confiance en soi et à apaiser les émotions. Parfaite pour les collectionneurs ou les amateurs de pierres aux énergies puissantes, elle apporte une touche d’envoûtement à tout intérieur ou bijou.",
+              "stripePriceId": "price_1UJvIDLOfCA5mATuApiVGzdY",
+              "stripePrix": 180.83,
+              "stripeLinkId": "plink_1UJvIDLOfCA5mATuIvHQg8On",
+              "stripe": "https://buy.stripe.com/14AbJ22NIfw98MEgWd28k1E",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

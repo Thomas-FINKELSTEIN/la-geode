@@ -15087,7 +15087,17 @@
               "description": "La labradorite est une pierre fascinante aux reflets bleutés et irisés, souvent appelée pierre de magie et de mystère. En lithothérapie, elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler l’intuition. Idéale pour les personnes en quête de spiritualité ou de connexion à leur intuition profonde, elle est aussi appréciée pour son effet apaisant sur les émotions.",
               "photo": "images/articles/labradorite-moyenne-taille-mui2wdptc9by.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKVEAKNhoEMfG6",
+              "stripeMode": "live",
+              "stripeNom": "Labradorite moyenne taille",
+              "stripeDesc": "La labradorite est une pierre fascinante aux reflets bleutés et irisés, souvent appelée pierre de magie et de mystère. En lithothérapie, elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler l’intuition. Idéale pour les personnes en quête de spiritualité ou de connexion à leur intuition profonde, elle est aussi appréciée pour son effet apaisant sur les émotions.",
+              "stripePriceId": "price_1UJqDiLOfCA5mATuHUnhupqH",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UJqDiLOfCA5mATuNi1vfZ2B",
+              "stripe": "https://buy.stripe.com/14A9AU882cjXe6Y35n28k0c",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "labradorite-moyenne-taille-mui2xrn3ou41",
@@ -15096,7 +15106,17 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée comme pierre de protection dans les espaces de vie.",
               "photo": "images/articles/labradorite-moyenne-taille-mui2xrn4e58i.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKVEX6bAIMuw0B",
+              "stripeMode": "live",
+              "stripeNom": "Labradorite moyenne taille",
+              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée comme pierre de protection dans les espaces de vie.",
+              "stripePriceId": "price_1UJqDjLOfCA5mATuZN9ikjrj",
+              "stripePrix": 12.67,
+              "stripeLinkId": "plink_1UJqDjLOfCA5mATuoKl6zbps",
+              "stripe": "https://buy.stripe.com/dRm6oI1JEbfTfb221j28k0d",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

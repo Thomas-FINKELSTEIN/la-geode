@@ -15087,17 +15087,7 @@
               "description": "La labradorite est une pierre fascinante aux reflets bleutés et irisés, souvent appelée pierre de magie et de mystère. En lithothérapie, elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler l’intuition. Idéale pour les personnes en quête de spiritualité ou de connexion à leur intuition profonde, elle est aussi appréciée pour son effet apaisant sur les émotions.",
               "photo": "images/articles/labradorite-moyenne-taille-mui2wdptc9by.jpg",
               "prixBoutique": 12,
-              "stock": 1,
-              "stripeProductId": "prod_VKVG4clVuFkyDY",
-              "stripeMode": "live",
-              "stripeNom": "Labradorite moyenne taille",
-              "stripeDesc": "La labradorite est une pierre fascinante aux reflets bleutés et irisés, souvent appelée pierre de magie et de mystère. En lithothérapie, elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler l’intuition. Idéale pour les personnes en quête de spiritualité ou de connexion à leur intuition profonde, elle est aussi appréciée pour son effet apaisant sur les émotions.",
-              "stripePriceId": "price_1UJqFULOfCA5mATuVCrbz0dr",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1UJqFVLOfCA5mATuocbwnaXe",
-              "stripe": "https://buy.stripe.com/14AdRa1JEcjX8ME0Xf28k0e",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "labradorite-moyenne-taille-mui2xrn3ou41",
@@ -15106,17 +15096,7 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée comme pierre de protection dans les espaces de vie.",
               "photo": "images/articles/labradorite-moyenne-taille-mui2xrn4e58i.jpg",
               "prixBoutique": 12,
-              "stock": 1,
-              "stripeProductId": "prod_VKVG0IqWP72Ppt",
-              "stripeMode": "live",
-              "stripeNom": "Labradorite moyenne taille",
-              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée comme pierre de protection dans les espaces de vie.",
-              "stripePriceId": "price_1UJqFVLOfCA5mATueLSNBxAX",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1UJqFVLOfCA5mATuFlShhLtL",
-              "stripe": "https://buy.stripe.com/5kQ7sM4VQdo1gf6cFX28k0f",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "labradorite-moyenne-taille-mui304gns597",
@@ -15125,17 +15105,16 @@
               "description": "La labradorite est une pierre fascinante aux reflets irisés et mystérieux, souvent appelée pierre de magie et de protection. En lithothérapie, elle est réputée pour renforcer la confiance en soi, stimuler l’intuition et créer un bouclier énergétique contre les influences négatives. Son éclat unique en fait aussi un choix populaire pour les bijoux et les objets décoratifs inspirants.",
               "photo": "images/articles/labradorite-moyenne-taille-mui304gn2ucd.jpg",
               "prixBoutique": 12,
-              "stock": 1,
-              "stripeProductId": "prod_VKVGfnhvKMO9m8",
-              "stripeMode": "live",
-              "stripeNom": "Labradorite moyenne taille",
-              "stripeDesc": "La labradorite est une pierre fascinante aux reflets irisés et mystérieux, souvent appelée pierre de magie et de protection. En lithothérapie, elle est réputée pour renforcer la confiance en soi, stimuler l’intuition et créer un bouclier énergétique contre les influences négatives. Son éclat unique en fait aussi un choix populaire pour les bijoux et les objets décoratifs inspirants.",
-              "stripePriceId": "price_1UJqFWLOfCA5mATubZ7GmtgE",
-              "stripePrix": 12.67,
-              "stripeLinkId": "plink_1UJqFWLOfCA5mATucYYHFWQE",
-              "stripe": "https://buy.stripe.com/5kQdRa88283H2og8pH28k0g",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "labradorite-galet-mui31wxym95m",
+              "nom": "Labradorite Galet",
+              "prix": 16.8,
+              "description": "Ce galet de labradorite aux reflets irisés et mystérieux est une pierre fascinante aux propriétés énergétiques puissantes. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler l’intuition. Idéale pour les collectionneurs ou pour une utilisation en méditation, elle apporte une touche de magie et de sérénité au quotidien.",
+              "photo": "images/articles/labradorite-galet-mui31wxyq009.jpg",
+              "prixBoutique": 16,
+              "stock": 1
             }
           ]
         }

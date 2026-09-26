@@ -15410,7 +15410,17 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée en lithothérapie pour favoriser la connexion spirituelle.",
               "photo": "images/articles/labradorite-forme-libre-muiffkfa0ovo.jpg",
               "prixBoutique": 110,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKat7EQrFcmjB9",
+              "stripeMode": "live",
+              "stripeNom": "Labradorite Forme libre",
+              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée en lithothérapie pour favoriser la connexion spirituelle.",
+              "stripePriceId": "price_1UJvhvLOfCA5mATuoANKCFiO",
+              "stripePrix": 113.96,
+              "stripeLinkId": "plink_1UJvhwLOfCA5mATuLITVnpA5",
+              "stripe": "https://buy.stripe.com/bJe28s1JE0Bf1kc35n28k2m",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "labradorite-forme-libre-muifhw98cwa4",
@@ -15419,7 +15429,17 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Idéale pour les personnes en quête de spiritualité ou de connexion avec leur intuition, elle est aussi très prisée pour ses propriétés apaisantes et son pouvoir de renforcement émotionnel.",
               "photo": "images/articles/labradorite-forme-libre-muifhw98q5ix.jpg",
               "prixBoutique": 143,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKatiP36x5uUb2",
+              "stripeMode": "live",
+              "stripeNom": "Labradorite Forme libre",
+              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Idéale pour les personnes en quête de spiritualité ou de connexion avec leur intuition, elle est aussi très prisée pour ses propriétés apaisantes et son pouvoir de renforcement émotionnel.",
+              "stripePriceId": "price_1UJvhwLOfCA5mATu71grHWyr",
+              "stripePrix": 148.07,
+              "stripeLinkId": "plink_1UJvhwLOfCA5mATusL9quVw6",
+              "stripe": "https://buy.stripe.com/aFa3cwdsmdo16EweO528k2n",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

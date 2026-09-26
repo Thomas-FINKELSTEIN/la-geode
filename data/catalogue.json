@@ -13953,7 +13953,17 @@
               "description": "La kunzite est une pierre qui calme les douleurs  cervicales , les migraines, et le surmenage",
               "photo": "images/articles/bague-kunzite-muiiqfzzh6uo.jpg",
               "prixBoutique": 55,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VKdUq5ATjeke7C",
+              "stripeMode": "live",
+              "stripeNom": "Bague kunzite",
+              "stripeDesc": "La kunzite est une pierre qui calme les douleurs  cervicales , les migraines, et le surmenage",
+              "stripePriceId": "price_1UJyDrLOfCA5mATun3COyeEU",
+              "stripePrix": 57.11,
+              "stripeLinkId": "plink_1UJyDrLOfCA5mATuoRDMFIYH",
+              "stripe": "https://buy.stripe.com/00w9AUewq1Fj1kc8pH28l1R",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "bague-amazonite-muiitiou2ar3",
@@ -13962,7 +13972,17 @@
               "description": "La pierre amazonite améliore les rapports envers les autres, l'humeur,apaise le corps, agit sur le système immunitaire",
               "photo": "images/articles/bague-amazonite-muiitiouery8.jpg",
               "prixBoutique": 55,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VKdU4FVlG1zgG2",
+              "stripeMode": "live",
+              "stripeNom": "Bague amazonite",
+              "stripeDesc": "La pierre amazonite améliore les rapports envers les autres, l'humeur,apaise le corps, agit sur le système immunitaire",
+              "stripePriceId": "price_1UJyDrLOfCA5mATuuShGWuU1",
+              "stripePrix": 57.11,
+              "stripeLinkId": "plink_1UJyDsLOfCA5mATuhwsUbL9v",
+              "stripe": "https://buy.stripe.com/9B69AU9c6fw94wo5dv28l1S",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "bague-rhodocrosite-muiiy7jrmus5",
@@ -13971,7 +13991,17 @@
               "description": "La pierre rhodocrosite soulage les blessures sentimentales ou celles du passé, elle renforce la vitalité, et remet la confiance en soi",
               "photo": "images/articles/bague-rhodocrosite-muiiy7jru9i6.jpg",
               "prixBoutique": 55,
-              "stock": 5
+              "stock": 5,
+              "stripeProductId": "prod_VKdUsbVJ8srlW3",
+              "stripeMode": "live",
+              "stripeNom": "Bague rhodocrosite",
+              "stripeDesc": "La pierre rhodocrosite soulage les blessures sentimentales ou celles du passé, elle renforce la vitalité, et remet la confiance en soi",
+              "stripePriceId": "price_1UJyDsLOfCA5mATucJiai1gw",
+              "stripePrix": 57.11,
+              "stripeLinkId": "plink_1UJyDsLOfCA5mATutZ8VLgWh",
+              "stripe": "https://buy.stripe.com/4gM14o9c6es5aUM5dv28l1T",
+              "stripeStock": 5,
+              "epuise": false
             },
             {
               "id": "bague-spinelle-muij2vlj1q2b",
@@ -13980,7 +14010,17 @@
               "description": "Cette bague en spinelle incarne une pierre aux reflets envoûtants, souvent associée à la passion et à la vitalité. En lithothérapie, le spinelle est réputé pour stimuler l'énergie et renforcer la confiance en soi, tout en apaisant les émotions. Parfaite pour un accessoire audacieux et lumineux, elle apporte une touche de dynamisme au quotidien.",
               "photo": "images/articles/bague-spinelle-muij2vljqhuj.jpg",
               "prixBoutique": 55,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VKdU8gwuKYzzxj",
+              "stripeMode": "live",
+              "stripeNom": "Bague spinelle",
+              "stripeDesc": "Cette bague en spinelle incarne une pierre aux reflets envoûtants, souvent associée à la passion et à la vitalité. En lithothérapie, le spinelle est réputé pour stimuler l'énergie et renforcer la confiance en soi, tout en apaisant les émotions. Parfaite pour un accessoire audacieux et lumineux, elle apporte une touche de dynamisme au quotidien.",
+              "stripePriceId": "price_1UJyDsLOfCA5mATubRdoVokk",
+              "stripePrix": 57.11,
+              "stripeLinkId": "plink_1UJyDtLOfCA5mATuftUCjzPg",
+              "stripe": "https://buy.stripe.com/3cIdRa1JE4Rv8ME49r28l1U",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "bague-aigue-marine-muij4lxal5k7",
@@ -13989,7 +14029,17 @@
               "description": "Cette bague en aigue marine est une pièce élégante et raffinée, mettant en valeur la beauté douce et bleutée de cette pierre. L’aigue marine est souvent associée à la sérénité et à la purification des émotions, aidant à apaiser le mental et à favoriser la clarté d’esprit. Portée au quotidien, elle est idéale pour ceux qui cherchent à cultiver une énergie apaisante et à renforcer leur connexion avec les bienfaits de la mer.",
               "photo": "images/articles/bague-aigue-marine-muij4lxa5ypk.jpg",
               "prixBoutique": 55,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VKdUkLgRjzA3N4",
+              "stripeMode": "live",
+              "stripeNom": "Bague Aigue marine",
+              "stripeDesc": "Cette bague en aigue marine est une pièce élégante et raffinée, mettant en valeur la beauté douce et bleutée de cette pierre. L’aigue marine est souvent associée à la sérénité et à la purification des émotions, aidant à apaiser le mental et à favoriser la clarté d’esprit. Portée au quotidien, elle est idéale pour ceux qui cherchent à cultiver une énergie apaisante et à renforcer leur connexion avec les bienfaits de la mer.",
+              "stripePriceId": "price_1UJyDtLOfCA5mATuqzCYSLvY",
+              "stripePrix": 57.11,
+              "stripeLinkId": "plink_1UJyDtLOfCA5mATupFnNJSoz",
+              "stripe": "https://buy.stripe.com/9B67sMdsmdo1fb221j28l1V",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "bague-malachite-plusieurs-formes-muij72ampoic",
@@ -13998,7 +14048,17 @@
               "description": "Cette bague met en valeur un pendentif en malachite, une pierre aux reflets verts intenses et aux motifs tourbillonnants uniques. En lithothérapie, la malachite est souvent associée à la protection, à l'équilibre émotionnel et à la stimulation de la créativité. Elle est idéale pour ceux qui cherchent à renforcer leur confiance et à attirer l'abondance dans leur vie quotidienne.",
               "photo": "images/articles/bague-malachite-plusieurs-formes-muij72am4k20.jpg",
               "prixBoutique": 55,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VKdUBlu4KUjUBX",
+              "stripeMode": "live",
+              "stripeNom": "Bague malachite plusieurs formes",
+              "stripeDesc": "Cette bague met en valeur un pendentif en malachite, une pierre aux reflets verts intenses et aux motifs tourbillonnants uniques. En lithothérapie, la malachite est souvent associée à la protection, à l'équilibre émotionnel et à la stimulation de la créativité. Elle est idéale pour ceux qui cherchent à renforcer leur confiance et à attirer l'abondance dans leur vie quotidienne.",
+              "stripePriceId": "price_1UJyDuLOfCA5mATuwaytfV6V",
+              "stripePrix": 57.11,
+              "stripeLinkId": "plink_1UJyDuLOfCA5mATuyJPkE6v3",
+              "stripe": "https://buy.stripe.com/dRm00kcoibfT5As5dv28l1W",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "bague-apatite-differents-coloris-muij9uxi05y1",
@@ -14007,7 +14067,17 @@
               "description": "Cette bague aux teintes d'apatite, aux reflets bleutés et transparents, est un bijou naturel aux couleurs captivantes. L'apatite est souvent associée en lithothérapie à l'équilibre émotionnel, aidant à apaiser les tensions et à favoriser la clarté mentale. Elle est idéale pour ceux qui cherchent à harmoniser leur énergie au quotidien, tout en ajoutant une touche de douceur et d'élégance à leur style.",
               "photo": "images/articles/bague-apatite-differents-coloris-muij9uxirnre.jpg",
               "prixBoutique": 55,
-              "stock": 6
+              "stock": 6,
+              "stripeProductId": "prod_VKdUiVaH9FpJfw",
+              "stripeMode": "live",
+              "stripeNom": "Bague apatite différents coloris",
+              "stripeDesc": "Cette bague aux teintes d'apatite, aux reflets bleutés et transparents, est un bijou naturel aux couleurs captivantes. L'apatite est souvent associée en lithothérapie à l'équilibre émotionnel, aidant à apaiser les tensions et à favoriser la clarté mentale. Elle est idéale pour ceux qui cherchent à harmoniser leur énergie au quotidien, tout en ajoutant une touche de douceur et d'élégance à leur style.",
+              "stripePriceId": "price_1UJyDvLOfCA5mATuAPoMderw",
+              "stripePrix": 57.11,
+              "stripeLinkId": "plink_1UJyDvLOfCA5mATuXVFJYVM8",
+              "stripe": "https://buy.stripe.com/5kQ7sMgEyes54wo35n28l1X",
+              "stripeStock": 6,
+              "epuise": false
             },
             {
               "id": "bague-citrine-muijgzzr1cqb",
@@ -14016,7 +14086,17 @@
               "description": "Cette bague en citrine est un symbole de vitalité et de joie, souvent associée à une énergie positive et à une lumière chaleureuse. En lithothérapie, la citrine est réputée pour renforcer la confiance en soi et attirer l'abondance. Elle est idéale pour porter au quotidien, pour un effet harmonisant et inspirant.",
               "photo": "images/articles/bague-citrine-muijgzzryx78.jpg",
               "prixBoutique": 55,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKdUSiHENispwA",
+              "stripeMode": "live",
+              "stripeNom": "Bague citrine",
+              "stripeDesc": "Cette bague en citrine est un symbole de vitalité et de joie, souvent associée à une énergie positive et à une lumière chaleureuse. En lithothérapie, la citrine est réputée pour renforcer la confiance en soi et attirer l'abondance. Elle est idéale pour porter au quotidien, pour un effet harmonisant et inspirant.",
+              "stripePriceId": "price_1UJyDvLOfCA5mATuJaM26dIx",
+              "stripePrix": 57.11,
+              "stripeLinkId": "plink_1UJyDvLOfCA5mATux8ZwBuj7",
+              "stripe": "https://buy.stripe.com/4gM4gAcoi97L4wodK128l1Y",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bague-obsidienne-muijkwp22pim",
@@ -14025,7 +14105,17 @@
               "description": "Ce pendentif en obsidienne capture une énergie puissante et protectrice, idéale pour ceux qui cherchent à renforcer leur ancrage et leur intuition. Utilisée depuis des siècles en lithothérapie, l'obsidienne est réputée pour absorber les énergies négatives et favoriser la purification émotionnelle. Parfaite pour porter au quotidien, elle apporte un équilibre intérieur et une connexion profonde à ses forces intérieures.",
               "photo": "images/articles/bague-obsidienne-muijkwp24ul9.jpg",
               "prixBoutique": 55,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKdUDx1BJAygs5",
+              "stripeMode": "live",
+              "stripeNom": "Bague obsidienne",
+              "stripeDesc": "Ce pendentif en obsidienne capture une énergie puissante et protectrice, idéale pour ceux qui cherchent à renforcer leur ancrage et leur intuition. Utilisée depuis des siècles en lithothérapie, l'obsidienne est réputée pour absorber les énergies négatives et favoriser la purification émotionnelle. Parfaite pour porter au quotidien, elle apporte un équilibre intérieur et une connexion profonde à ses forces intérieures.",
+              "stripePriceId": "price_1UJyDwLOfCA5mATuReuXlHWB",
+              "stripePrix": 57.11,
+              "stripeLinkId": "plink_1UJyDwLOfCA5mATuIhWq90r5",
+              "stripe": "https://buy.stripe.com/5kQeVe9c65Vz4wo21j28l1Z",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bague-obsidienne-muik2cp89nfp",
@@ -14034,7 +14124,17 @@
               "description": "Cette bague en obsidienne, pierre aux reflets mystérieux et profonds, est un symbole puissant de protection et de transformation. Utilisée en lithothérapie pour ancrer les énergies et renforcer la confiance en soi, elle aide à libérer les blocages émotionnels et à retrouver un équilibre intérieur. Son éclat unique en fait aussi un accessoire élégant et intemporel, idéal pour ceux qui cherchent à allier bien-être et style.",
               "photo": "images/articles/bague-obsidienne-muik2cp9z7rk.jpg",
               "prixBoutique": 55,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKdUncwwAP16pN",
+              "stripeMode": "live",
+              "stripeNom": "Bague obsidienne",
+              "stripeDesc": "Cette bague en obsidienne, pierre aux reflets mystérieux et profonds, est un symbole puissant de protection et de transformation. Utilisée en lithothérapie pour ancrer les énergies et renforcer la confiance en soi, elle aide à libérer les blocages émotionnels et à retrouver un équilibre intérieur. Son éclat unique en fait aussi un accessoire élégant et intemporel, idéal pour ceux qui cherchent à allier bien-être et style.",
+              "stripePriceId": "price_1UJyDwLOfCA5mATu0eNjijFN",
+              "stripePrix": 57.11,
+              "stripeLinkId": "plink_1UJyDxLOfCA5mATuZBOrNVp2",
+              "stripe": "https://buy.stripe.com/8x24gAaga4Rv3skgWd28l20",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bague-obsidienne-muik3p4kbya6",
@@ -14043,7 +14143,17 @@
               "description": "Cette bague en obsidienne met en valeur une pierre aux reflets mystérieux et profonds, idéale pour ceux qui cherchent à renforcer leur intuition et leur connexion avec l’inconscient. L’obsidienne est souvent utilisée en lithothérapie pour purifier les énergies négatives et apporter un équilibre émotionnel. Elle est aussi appréciée pour ses propriétés protectrices et son pouvoir de transformation, aidant à libérer les blocages intérieurs.",
               "photo": "images/articles/bague-obsidienne-muik3p4k36mz.jpg",
               "prixBoutique": 55,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKdUdHP5ecXuiG",
+              "stripeMode": "live",
+              "stripeNom": "Bague Obsidienne",
+              "stripeDesc": "Cette bague en obsidienne met en valeur une pierre aux reflets mystérieux et profonds, idéale pour ceux qui cherchent à renforcer leur intuition et leur connexion avec l’inconscient. L’obsidienne est souvent utilisée en lithothérapie pour purifier les énergies négatives et apporter un équilibre émotionnel. Elle est aussi appréciée pour ses propriétés protectrices et son pouvoir de transformation, aidant à libérer les blocages intérieurs.",
+              "stripePriceId": "price_1UJyDxLOfCA5mATuNzRIPPfi",
+              "stripePrix": 57.11,
+              "stripeLinkId": "plink_1UJyDyLOfCA5mATumUjzov25",
+              "stripe": "https://buy.stripe.com/28E14ofAu6ZDd2UaxP28l21",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bague-obsidienne-muik4x1w00x6",
@@ -14052,7 +14162,17 @@
               "description": "Cette bague en obsidienne allie élégance et puissance énergétique. L'obsidienne, pierre de protection et de transformation, est souvent utilisée pour absorber les énergies négatives et renforcer la confiance en soi. Parfaite pour ceux qui cherchent à équilibrer leurs émotions et à se reconnecter à leur force intérieure, elle s’intègre aussi bien dans un style minimaliste que bohème.",
               "photo": "images/articles/bague-obsidienne-muik4x1xe1lg.jpg",
               "prixBoutique": 55,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKdUD6EL6tuSsO",
+              "stripeMode": "live",
+              "stripeNom": "Bague obsidienne",
+              "stripeDesc": "Cette bague en obsidienne allie élégance et puissance énergétique. L'obsidienne, pierre de protection et de transformation, est souvent utilisée pour absorber les énergies négatives et renforcer la confiance en soi. Parfaite pour ceux qui cherchent à équilibrer leurs émotions et à se reconnecter à leur force intérieure, elle s’intègre aussi bien dans un style minimaliste que bohème.",
+              "stripePriceId": "price_1UJyDyLOfCA5mATufCIOmEEM",
+              "stripePrix": 57.11,
+              "stripeLinkId": "plink_1UJyDyLOfCA5mATum062mXbS",
+              "stripe": "https://buy.stripe.com/9B68wQfAu97L5AsaxP28l22",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }
@@ -14903,7 +15023,17 @@
               "description": "Ce bougeoir en forme de statuette bouddha apporte une touche apaisante et spirituelle à votre intérieur. Traditionnellement utilisé pour purifier l’énergie ambiante et favoriser la sérénité, il est idéal pour les moments de méditation ou de détente. Son design élégant et son utilisation avec des encens ou des bougies en font un accessoire à la fois décoratif et bien-être.",
               "photo": "images/articles/bougeoir-bouddha-muiksh9uc2dn.jpg",
               "prixBoutique": 14.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKdUbLwIHNsNLv",
+              "stripeMode": "live",
+              "stripeNom": "Bougeoir bouddha",
+              "stripeDesc": "Ce bougeoir en forme de statuette bouddha apporte une touche apaisante et spirituelle à votre intérieur. Traditionnellement utilisé pour purifier l’énergie ambiante et favoriser la sérénité, il est idéal pour les moments de méditation ou de détente. Son design élégant et son utilisation avec des encens ou des bougies en font un accessoire à la fois décoratif et bien-être.",
+              "stripePriceId": "price_1UJyDyLOfCA5mATu1e6A2e2T",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UJyDzLOfCA5mATu9E1kaDhP",
+              "stripe": "https://buy.stripe.com/fZucN69c6do1fb235n28l23",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bruleur-diffuseur-tete-de-bouddha-muiky16k29iz",
@@ -14912,7 +15042,17 @@
               "description": "Ce brûleur diffuseur en forme de tête de bouddha apporte une touche spirituelle et apaisante à votre intérieur. Idéal pour diffuser des huiles essentielles ou de l'encens, il favorise la détente et l'équilibre énergétique selon les croyances en lithothérapie et en feng shui. Parfait pour les moments de méditation ou de relaxation, il crée une ambiance sereine et harmonieuse.",
               "photo": "images/articles/bruleur-diffuseur-tete-de-bouddha-muiky16k3a5h.jpg",
               "prixBoutique": 22,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKdUL2RjqdFmha",
+              "stripeMode": "live",
+              "stripeNom": "Bruleur diffuseur tête de bouddha",
+              "stripeDesc": "Ce brûleur diffuseur en forme de tête de bouddha apporte une touche spirituelle et apaisante à votre intérieur. Idéal pour diffuser des huiles essentielles ou de l'encens, il favorise la détente et l'équilibre énergétique selon les croyances en lithothérapie et en feng shui. Parfait pour les moments de méditation ou de relaxation, il crée une ambiance sereine et harmonieuse.",
+              "stripePriceId": "price_1UJyDzLOfCA5mATuv8GYWMJT",
+              "stripePrix": 23,
+              "stripeLinkId": "plink_1UJyDzLOfCA5mATu4GOTD1fW",
+              "stripe": "https://buy.stripe.com/4gM28s9c697LaUM21j28l24",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -15537,7 +15677,17 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée en lithothérapie pour favoriser la connexion spirituelle.",
               "photo": "images/articles/labradorite-forme-libre-muiffkfa0ovo.jpg",
               "prixBoutique": 110,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKdVEf64fRDc7Y",
+              "stripeMode": "live",
+              "stripeNom": "Labradorite Forme libre",
+              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l'intuition. Idéale pour les collectionneurs ou ceux qui cherchent à équilibrer leurs émotions, elle est aussi utilisée en lithothérapie pour favoriser la connexion spirituelle.",
+              "stripePriceId": "price_1UJyE0LOfCA5mATuMrEorji9",
+              "stripePrix": 113.96,
+              "stripeLinkId": "plink_1UJyE0LOfCA5mATu8Fv2c8LF",
+              "stripe": "https://buy.stripe.com/fZufZi1JEcjX8MEbBT28l25",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "labradorite-forme-libre-muifhw98cwa4",
@@ -15546,7 +15696,17 @@
               "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Idéale pour les personnes en quête de spiritualité ou de connexion avec leur intuition, elle est aussi très prisée pour ses propriétés apaisantes et son pouvoir de renforcement émotionnel.",
               "photo": "images/articles/labradorite-forme-libre-muifhw98q5ix.jpg",
               "prixBoutique": 143,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKdVXae0GYQvGj",
+              "stripeMode": "live",
+              "stripeNom": "Labradorite Forme libre",
+              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Idéale pour les personnes en quête de spiritualité ou de connexion avec leur intuition, elle est aussi très prisée pour ses propriétés apaisantes et son pouvoir de renforcement émotionnel.",
+              "stripePriceId": "price_1UJyE0LOfCA5mATu8l9itCMt",
+              "stripePrix": 148.07,
+              "stripeLinkId": "plink_1UJyE1LOfCA5mATuZkqA6Yct",
+              "stripe": "https://buy.stripe.com/14AdRa9c6es56Ew35n28l26",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -15645,7 +15805,17 @@
               "description": "Cette sphère en cristal de roche de qualité exceptionnelle est un objet purificateur et harmonisant, très prisé en lithothérapie. Le cristal de roche amplifie les énergies positives et favorise la clarté mentale, aidant à équilibrer les émotions et à renforcer la concentration. Idéal pour décorer tout en bénéficiant de ses vertus apaisantes et dynamisantes, il est souvent utilisé en méditation ou en feng shui pour attirer la prospérité et la sérénité.",
               "photo": "images/articles/sphere-en-cristal-de-roche-qualite-aaa-muikfp1gguvw.jpg",
               "prixBoutique": 219,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKdV1jUTAA15uU",
+              "stripeMode": "live",
+              "stripeNom": "Sphère en cristal de roche qualité AAA",
+              "stripeDesc": "Cette sphère en cristal de roche de qualité exceptionnelle est un objet purificateur et harmonisant, très prisé en lithothérapie. Le cristal de roche amplifie les énergies positives et favorise la clarté mentale, aidant à équilibrer les émotions et à renforcer la concentration. Idéal pour décorer tout en bénéficiant de ses vertus apaisantes et dynamisantes, il est souvent utilisé en méditation ou en feng shui pour attirer la prospérité et la sérénité.",
+              "stripePriceId": "price_1UJyE1LOfCA5mATujwvv53yS",
+              "stripePrix": 226.62,
+              "stripeLinkId": "plink_1UJyE1LOfCA5mATu2n5PJl5e",
+              "stripe": "https://buy.stripe.com/eVq28s0FA6ZDfb2fS928l27",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "sphere-malachite-muil2ke12xdy",
@@ -15654,7 +15824,17 @@
               "description": "Cette sphère en malachite capture l'énergie vitale et apaisante de cette pierre aux reflets verts intenses. Traditionnellement utilisée en lithothérapie pour équilibrer les émotions et renforcer la connexion à la nature, elle est idéale pour créer une ambiance harmonieuse dans votre espace de vie. Son éclat unique en fait aussi un objet décoratif élégant et mystérieux.",
               "photo": "images/articles/sphere-malachite-muil2ke1vqv4.jpg",
               "prixBoutique": 156,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKdV6yYPKFBR6U",
+              "stripeMode": "live",
+              "stripeNom": "Sphère malachite",
+              "stripeDesc": "Cette sphère en malachite capture l'énergie vitale et apaisante de cette pierre aux reflets verts intenses. Traditionnellement utilisée en lithothérapie pour équilibrer les émotions et renforcer la connexion à la nature, elle est idéale pour créer une ambiance harmonieuse dans votre espace de vie. Son éclat unique en fait aussi un objet décoratif élégant et mystérieux.",
+              "stripePriceId": "price_1UJyE2LOfCA5mATur1puY0E2",
+              "stripePrix": 161.5,
+              "stripeLinkId": "plink_1UJyE2LOfCA5mATuEYGHVpye",
+              "stripe": "https://buy.stripe.com/aFa5kEewqfw95AsdK128l28",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }
@@ -15705,7 +15885,17 @@
               "description": "Support en bois pour sphère",
               "photo": "images/articles/support-en-bois-3-pieds-muil920asrnn.jpg",
               "prixBoutique": 15.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VKdVE5zsLKZ3tl",
+              "stripeMode": "live",
+              "stripeNom": "Support en bois 3 pieds",
+              "stripeDesc": "Support en bois pour sphère",
+              "stripePriceId": "price_1UJyE3LOfCA5mATuODZxVzDJ",
+              "stripePrix": 16.28,
+              "stripeLinkId": "plink_1UJyE3LOfCA5mATuHVCx7kvJ",
+              "stripe": "https://buy.stripe.com/cNicN63RM97L7IA35n28l29",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

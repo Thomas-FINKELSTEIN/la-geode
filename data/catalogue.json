@@ -9037,17 +9037,7 @@
               "description": "Ce pendentif en malachite offre une belle teinte verte profonde et apaisante, idéale pour apporter harmonie et équilibre dans votre quotidien. La malachite est souvent associée à la protection, à la croissance personnelle et à la connexion avec la nature, favorisant ainsi la sérénité et la stabilité émotionnelle. Parfait pour être porté au quotidien, ce minéral attire aussi la chance et renforce la confiance en soi.",
               "photo": "images/articles/pendentif-malachite-6-cm-mumchksg9rca.jpg",
               "prixBoutique": 195,
-              "stock": 1,
-              "stripeProductId": "prod_VLca492w89TKc7",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif malachite 6 cm",
-              "stripeDesc": "Ce pendentif en malachite offre une belle teinte verte profonde et apaisante, idéale pour apporter harmonie et équilibre dans votre quotidien. La malachite est souvent associée à la protection, à la croissance personnelle et à la connexion avec la nature, favorisant ainsi la sérénité et la stabilité émotionnelle. Parfait pour être porté au quotidien, ce minéral attire aussi la chance et renforce la confiance en soi.",
-              "stripePriceId": "price_1UKvKzLOfCA5mATuVILsMs7J",
-              "stripePrix": 201.81,
-              "stripeLinkId": "plink_1UKvL0LOfCA5mATuPF3q9Bys",
-              "stripe": "https://buy.stripe.com/4gM7sMagacjX5As0Xf28l2y",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-obsidienne-fleur-de-vie-7-cm-mumcjl64ned5",
@@ -9056,17 +9046,7 @@
               "description": "Ce pendentif en obsidienne met en valeur une élégante gravure de fleur de vie, symbole universel de connexion et d'harmonie. L'obsidienne est souvent utilisée en lithothérapie pour absorber les énergies négatives et favoriser un équilibre émotionnel. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur protection énergétique et leur ancrage à la terre.",
               "photo": "images/articles/pendentif-obsidienne-fleur-de-vie-7-cm-mumcjl6483fk.jpg",
               "prixBoutique": 48,
-              "stock": 1,
-              "stripeProductId": "prod_VLcaI6PJwXXrf2",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif obsidienne fleur de vie 7 cm",
-              "stripeDesc": "Ce pendentif en obsidienne met en valeur une élégante gravure de fleur de vie, symbole universel de connexion et d'harmonie. L'obsidienne est souvent utilisée en lithothérapie pour absorber les énergies négatives et favoriser un équilibre émotionnel. Parfait pour porter au quotidien, il est idéal pour ceux qui cherchent à renforcer leur protection énergétique et leur ancrage à la terre.",
-              "stripePriceId": "price_1UKvL0LOfCA5mATuT5NPzD2n",
-              "stripePrix": 49.88,
-              "stripeLinkId": "plink_1UKvL0LOfCA5mATu5gVtl1R7",
-              "stripe": "https://buy.stripe.com/eVq5kE8823NrbYQgWd28l2z",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },
@@ -15188,17 +15168,16 @@
               "description": "Ce triangle en forme de pyramide est un outil puissant pour favoriser l'élévation spirituelle et l'équilibre énergétique. Selon la lithothérapie, il est souvent utilisé pour amplifier les intentions positives et renforcer la connexion avec son être intérieur. Idéal pour méditer ou placer dans un espace dédié à la sérénité, il aide à clarifier les pensées et à harmoniser les émotions.",
               "photo": "images/articles/triangle-d4-elevation-spirituelle-mumbdugndfny.jpg",
               "prixBoutique": 29.9,
-              "stock": 1,
-              "stripeProductId": "prod_VLcaVAg7waPlhT",
-              "stripeMode": "live",
-              "stripeNom": "Triangle d4 élévation spirituelle",
-              "stripeDesc": "Ce triangle en forme de pyramide est un outil puissant pour favoriser l'élévation spirituelle et l'équilibre énergétique. Selon la lithothérapie, il est souvent utilisé pour amplifier les intentions positives et renforcer la connexion avec son être intérieur. Idéal pour méditer ou placer dans un espace dédié à la sérénité, il aide à clarifier les pensées et à harmoniser les émotions.",
-              "stripePriceId": "price_1UKvL1LOfCA5mATunQspGbz3",
-              "stripePrix": 31.17,
-              "stripeLinkId": "plink_1UKvL1LOfCA5mATu4oNDe0xo",
-              "stripe": "https://buy.stripe.com/eVq9AU88297L3sk0Xf28l2A",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "bio-sentor-ou-biotenseur-mumd2lscamre",
+              "nom": "Bio sentor ou biotenseur",
+              "prix": 41.5,
+              "description": "Baguette bio sentor sert généralement en radiesthésie pour rechercher des énergies , des vibrations ou faire des bilans énergétiques du corps  ou des chakras, peut aussi servir pour explorer certains phénomènes liés à la géobiologie.",
+              "photo": "images/articles/bio-sentor-ou-biotenseur-mumd2lsc3549.jpg",
+              "prixBoutique": 39.9,
+              "stock": 1
             }
           ]
         },

@@ -9341,7 +9341,17 @@
               "description": "Ce quartz rutile en forme de goutte est une pièce naturelle aux reflets dorés et aux inclusions lumineuses qui captent la lumière. Selon la lithothérapie, il est réputé pour stimuler la créativité et renforcer la volonté, aidant ainsi à surmonter les obstacles avec détermination. Une pierre idéale pour dynamiser l'énergie et apporter clarté d'esprit au quotidien.",
               "photo": "images/articles/quartz-rutile-goutte-mumg49h2nifl.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLeOIFkeIjT4GP",
+              "stripeMode": "live",
+              "stripeNom": "Quartz rutile Goutte",
+              "stripeDesc": "Ce quartz rutile en forme de goutte est une pièce naturelle aux reflets dorés et aux inclusions lumineuses qui captent la lumière. Selon la lithothérapie, il est réputé pour stimuler la créativité et renforcer la volonté, aidant ainsi à surmonter les obstacles avec détermination. Une pierre idéale pour dynamiser l'énergie et apporter clarté d'esprit au quotidien.",
+              "stripePriceId": "price_1UKx5ILOfCA5mATuM4tc5Q9v",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UKx5ILOfCA5mATuszR2KRzu",
+              "stripe": "https://buy.stripe.com/8x2cN6ewq2Jnfb26hz28m1b",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "quartz-rutile-goutte-mumgfz3b9ejb",
@@ -9350,7 +9360,17 @@
               "description": "Ce pendentif en quartz rutile goutte est une pièce unique alliant élégance et énergie positive. Le quartz rutile est souvent utilisé en lithothérapie pour dynamiser l’énergie vitale, stimuler la motivation et renforcer la volonté. Parfait pour être porté au quotidien, il apporte une touche de lumière et de vitalité à votre style tout en vous accompagnant dans vos objectifs.",
               "photo": "images/articles/quartz-rutile-goutte-mumgfz3b6a3h.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLeONXNNBpTLUO",
+              "stripeMode": "live",
+              "stripeNom": "Quartz rutile goutte",
+              "stripeDesc": "Ce pendentif en quartz rutile goutte est une pièce unique alliant élégance et énergie positive. Le quartz rutile est souvent utilisé en lithothérapie pour dynamiser l’énergie vitale, stimuler la motivation et renforcer la volonté. Parfait pour être porté au quotidien, il apporte une touche de lumière et de vitalité à votre style tout en vous accompagnant dans vos objectifs.",
+              "stripePriceId": "price_1UKx5JLOfCA5mATuoqPJOf2g",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UKx5JLOfCA5mATuO8o8ZBDf",
+              "stripe": "https://buy.stripe.com/28EbJ2ewq1Fj9QI0Xf28m1c",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-quartz-rutile-goutte-mumgjgku9o6q",
@@ -9359,7 +9379,17 @@
               "description": "Ce pendentif en quartz rutile goutte est une pièce élégante et naturelle, idéale pour apporter une touche d'énergie positive au quotidien. Le quartz rutile est souvent associé à une augmentation de la vitalité et de la concentration, aidant à dynamiser l'esprit et à renforcer la détermination. Parfait pour être porté en collier, il est aussi apprécié pour ses propriétés stimulantes sur le plan émotionnel et physique.",
               "photo": "images/articles/pendentif-quartz-rutile-goutte-mumgjgkusvy9.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLeOcNret9cRiR",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz rutile goutte",
+              "stripeDesc": "Ce pendentif en quartz rutile goutte est une pièce élégante et naturelle, idéale pour apporter une touche d'énergie positive au quotidien. Le quartz rutile est souvent associé à une augmentation de la vitalité et de la concentration, aidant à dynamiser l'esprit et à renforcer la détermination. Parfait pour être porté en collier, il est aussi apprécié pour ses propriétés stimulantes sur le plan émotionnel et physique.",
+              "stripePriceId": "price_1UKx5JLOfCA5mATuCm9bH0rw",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UKx5JLOfCA5mATupeMw4cre",
+              "stripe": "https://buy.stripe.com/7sYdRa9c60Bf7IA49r28m1d",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -9341,17 +9341,7 @@
               "description": "Ce quartz rutile en forme de goutte est une pièce naturelle aux reflets dorés et aux inclusions lumineuses qui captent la lumière. Selon la lithothérapie, il est réputé pour stimuler la créativité et renforcer la volonté, aidant ainsi à surmonter les obstacles avec détermination. Une pierre idéale pour dynamiser l'énergie et apporter clarté d'esprit au quotidien.",
               "photo": "images/articles/quartz-rutile-goutte-mumg49h2nifl.jpg",
               "prixBoutique": 24,
-              "stock": 1,
-              "stripeProductId": "prod_VLebePRaeZpOOr",
-              "stripeMode": "live",
-              "stripeNom": "Quartz rutile Goutte",
-              "stripeDesc": "Ce quartz rutile en forme de goutte est une pièce naturelle aux reflets dorés et aux inclusions lumineuses qui captent la lumière. Selon la lithothérapie, il est réputé pour stimuler la créativité et renforcer la volonté, aidant ainsi à surmonter les obstacles avec détermination. Une pierre idéale pour dynamiser l'énergie et apporter clarté d'esprit au quotidien.",
-              "stripePriceId": "price_1UKxIbLOfCA5mATuITRJe1Cm",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UKxIbLOfCA5mATu4w9mTFYr",
-              "stripe": "https://buy.stripe.com/bJe4gA73Y3NrbYQ49r28m1e",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "quartz-rutile-goutte-mumgfz3b9ejb",
@@ -9360,17 +9350,7 @@
               "description": "Ce pendentif en quartz rutile goutte est une pièce unique alliant élégance et énergie positive. Le quartz rutile est souvent utilisé en lithothérapie pour dynamiser l’énergie vitale, stimuler la motivation et renforcer la volonté. Parfait pour être porté au quotidien, il apporte une touche de lumière et de vitalité à votre style tout en vous accompagnant dans vos objectifs.",
               "photo": "images/articles/quartz-rutile-goutte-mumgfz3b6a3h.jpg",
               "prixBoutique": 24,
-              "stock": 1,
-              "stripeProductId": "prod_VLeb71e10SuIX7",
-              "stripeMode": "live",
-              "stripeNom": "Quartz rutile goutte",
-              "stripeDesc": "Ce pendentif en quartz rutile goutte est une pièce unique alliant élégance et énergie positive. Le quartz rutile est souvent utilisé en lithothérapie pour dynamiser l’énergie vitale, stimuler la motivation et renforcer la volonté. Parfait pour être porté au quotidien, il apporte une touche de lumière et de vitalité à votre style tout en vous accompagnant dans vos objectifs.",
-              "stripePriceId": "price_1UKxIcLOfCA5mATuuHlm6my2",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UKxIcLOfCA5mATuw2VTBN95",
-              "stripe": "https://buy.stripe.com/7sY00k2NIdo18ME5dv28m1f",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-quartz-rutile-goutte-mumgjgku9o6q",
@@ -9379,17 +9359,16 @@
               "description": "Ce pendentif en quartz rutile goutte est une pièce élégante et naturelle, idéale pour apporter une touche d'énergie positive au quotidien. Le quartz rutile est souvent associé à une augmentation de la vitalité et de la concentration, aidant à dynamiser l'esprit et à renforcer la détermination. Parfait pour être porté en collier, il est aussi apprécié pour ses propriétés stimulantes sur le plan émotionnel et physique.",
               "photo": "images/articles/pendentif-quartz-rutile-goutte-mumgjgkusvy9.jpg",
               "prixBoutique": 24,
-              "stock": 1,
-              "stripeProductId": "prod_VLebIFrROXan5O",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif quartz rutile goutte",
-              "stripeDesc": "Ce pendentif en quartz rutile goutte est une pièce élégante et naturelle, idéale pour apporter une touche d'énergie positive au quotidien. Le quartz rutile est souvent associé à une augmentation de la vitalité et de la concentration, aidant à dynamiser l'esprit et à renforcer la détermination. Parfait pour être porté en collier, il est aussi apprécié pour ses propriétés stimulantes sur le plan émotionnel et physique.",
-              "stripePriceId": "price_1UKxIcLOfCA5mATughwbqUY9",
-              "stripePrix": 25.07,
-              "stripeLinkId": "plink_1UKxIdLOfCA5mATu2QFICwJH",
-              "stripe": "https://buy.stripe.com/6oU00k3RMcjXgf6gWd28m1g",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "aventurine-verte-pendentif-mumh82z88saw",
+              "nom": "Aventurine verte Pendentif",
+              "prix": 25.07,
+              "description": "L'aventurine verte est une pierre naturelle aux reflets lumineux et apaisants, idéale pour harmoniser les énergies. Traditionnellement utilisée en lithothérapie, elle favorise la chance, la croissance personnelle et la sérénité au quotidien. Parfaite pour porter en bijou, elle apporte une touche de douceur et de bien-être dans votre vie.",
+              "photo": "images/articles/aventurine-verte-pendentif-mumh82z8w2fs.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

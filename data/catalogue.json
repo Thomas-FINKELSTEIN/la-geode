@@ -8999,17 +8999,16 @@
               "description": "Ce bracelet en grosses perles de vquartz rose apporte douceur et sérénité au quotidien. Associé traditionnellement à l'ouverture du cœur et à l'équilibre émotionnel, il favorise la compassion et la connexion à soi-même. Parfait pour porter au poignet ou à la cheville, il diffuse une énergie apaisante et bienveillante.",
               "photo": "images/articles/collier-grosse-perle-vquartz-rose-mumal4cx2tol.jpg",
               "prixBoutique": 29.95,
-              "stock": 3,
-              "stripeProductId": "prod_VLbhL7vBKn5D7M",
-              "stripeMode": "live",
-              "stripeNom": "Collier grosse perle vquartz rose",
-              "stripeDesc": "Ce bracelet en grosses perles de vquartz rose apporte douceur et sérénité au quotidien. Associé traditionnellement à l'ouverture du cœur et à l'équilibre émotionnel, il favorise la compassion et la connexion à soi-même. Parfait pour porter au poignet ou à la cheville, il diffuse une énergie apaisante et bienveillante.",
-              "stripePriceId": "price_1UKuU0LOfCA5mATuplwA6LyK",
-              "stripePrix": 31.22,
-              "stripeLinkId": "plink_1UKuU1LOfCA5mATu7silQuYd",
-              "stripe": "https://buy.stripe.com/5kQeVe0FA4Rvd2U35n28l2h",
-              "stripeStock": 3,
-              "epuise": false
+              "stock": 3
+            },
+            {
+              "id": "collier-en-calcite-jaune-14-mm-mumat53k2dxy",
+              "nom": "Collier en calcite jaune 14 mm",
+              "prix": 31.22,
+              "description": "Ce collier en calcite jaune est composé de perles rondes et lumineuses, parfait pour apporter une touche d'énergie positive et de douceur dans votre quotidien. La calcite jaune est souvent associée à la joie, à la clarté mentale et à l'harmonisation des émotions, aidant à éclaircir les pensées et à stimuler la créativité. Idéal pour une utilisation en lithothérapie ou simplement comme accessoire élégant et bienveillant.",
+              "photo": "images/articles/collier-en-calcite-jaune-14-mm-mumat53k7udn.jpg",
+              "prixBoutique": 29.95,
+              "stock": 1
             }
           ]
         },

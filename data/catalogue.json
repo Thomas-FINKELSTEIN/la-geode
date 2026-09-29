@@ -1704,15 +1704,15 @@
               "photo": "images/articles/jaspe-paysage-donut-3-cm-mtcqxkpphoek.jpg",
               "prixBoutique": 9,
               "stock": 3,
-              "stripe": "https://buy.stripe.com/9B69AU4VQdo14wo7lD2881k",
+              "stripe": "https://buy.stripe.com/14A14o1JEcjX9QI5dv28o0V",
               "stripeProductId": "prod_V9fNZrV0H2MoMt",
               "stripePriceId": "price_1U9M2eLOfCA5mATu1zHuQaDR",
-              "stripeLinkId": "plink_1U9M2fLOfCA5mATuTecXSxGb",
+              "stripeLinkId": "plink_1UL34ALOfCA5mATuWyRXmK8P",
               "stripePrix": 9.57,
               "stripeMode": "live",
               "stripeNom": "Jaspe paysage 3 cm",
               "stripeDesc": "Ce pendentif en jaspe paysage de 3 cm capture la beauté naturelle des paysages minéraux avec ses veinages dorés et ses nuances chaudes. Associé en lithothérapie à un apaisement des émotions et à une énergie harmonieuse, il est idéal pour ceux qui cherchent à équilibrer leur quotidien. actif sur le système digestif , parfait à porter au quotidien, il apporte une touche organique et réconfortante à vos tenues.",
-              "stripeStock": 4,
+              "stripeStock": 3,
               "epuise": false
             },
             {
@@ -9341,7 +9341,17 @@
               "description": "Ce quartz rutile en forme de goutte est une pièce naturelle aux reflets dorés et aux inclusions lumineuses qui captent la lumière. Selon la lithothérapie, il est réputé pour stimuler la créativité et renforcer la volonté, aidant ainsi à surmonter les obstacles avec détermination. Une pierre idéale pour dynamiser l'énergie et apporter clarté d'esprit au quotidien.",
               "photo": "images/articles/quartz-rutile-goutte-mumg49h2nifl.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZr4nEsZtI0p",
+              "stripeMode": "live",
+              "stripeNom": "Quartz rutile Goutte",
+              "stripeDesc": "Ce quartz rutile en forme de goutte est une pièce naturelle aux reflets dorés et aux inclusions lumineuses qui captent la lumière. Selon la lithothérapie, il est réputé pour stimuler la créativité et renforcer la volonté, aidant ainsi à surmonter les obstacles avec détermination. Une pierre idéale pour dynamiser l'énergie et apporter clarté d'esprit au quotidien.",
+              "stripePriceId": "price_1UL34BLOfCA5mATunMX9aQEC",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34BLOfCA5mATuKIINecfR",
+              "stripe": "https://buy.stripe.com/fZudRaaga5Vz8MEfS928o0W",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "quartz-rutile-goutte-mumgfz3b9ejb",
@@ -9350,7 +9360,17 @@
               "description": "Ce pendentif en quartz rutile goutte est une pièce unique alliant élégance et énergie positive. Le quartz rutile est souvent utilisé en lithothérapie pour dynamiser l’énergie vitale, stimuler la motivation et renforcer la volonté. Parfait pour être porté au quotidien, il apporte une touche de lumière et de vitalité à votre style tout en vous accompagnant dans vos objectifs.",
               "photo": "images/articles/quartz-rutile-goutte-mumgfz3b6a3h.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZ4nIPIXWGei",
+              "stripeMode": "live",
+              "stripeNom": "Quartz rutile goutte",
+              "stripeDesc": "Ce pendentif en quartz rutile goutte est une pièce unique alliant élégance et énergie positive. Le quartz rutile est souvent utilisé en lithothérapie pour dynamiser l’énergie vitale, stimuler la motivation et renforcer la volonté. Parfait pour être porté au quotidien, il apporte une touche de lumière et de vitalité à votre style tout en vous accompagnant dans vos objectifs.",
+              "stripePriceId": "price_1UL34CLOfCA5mATuhe9QLU0T",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34CLOfCA5mATuknU2BuuN",
+              "stripe": "https://buy.stripe.com/aFa6oIfAu1FjbYQ6hz28o0X",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-quartz-rutile-goutte-mumgjgku9o6q",
@@ -9359,7 +9379,17 @@
               "description": "Ce pendentif en quartz rutile goutte est une pièce élégante et naturelle, idéale pour apporter une touche d'énergie positive au quotidien. Le quartz rutile est souvent associé à une augmentation de la vitalité et de la concentration, aidant à dynamiser l'esprit et à renforcer la détermination. Parfait pour être porté en collier, il est aussi apprécié pour ses propriétés stimulantes sur le plan émotionnel et physique.",
               "photo": "images/articles/pendentif-quartz-rutile-goutte-mumgjgkusvy9.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZyakGXstdn9",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif quartz rutile goutte",
+              "stripeDesc": "Ce pendentif en quartz rutile goutte est une pièce élégante et naturelle, idéale pour apporter une touche d'énergie positive au quotidien. Le quartz rutile est souvent associé à une augmentation de la vitalité et de la concentration, aidant à dynamiser l'esprit et à renforcer la détermination. Parfait pour être porté en collier, il est aussi apprécié pour ses propriétés stimulantes sur le plan émotionnel et physique.",
+              "stripePriceId": "price_1UL34CLOfCA5mATupyXky8ZQ",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34DLOfCA5mATuZYmcRCTG",
+              "stripe": "https://buy.stripe.com/5kQfZi3RMes56EwaxP28o0Y",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "aventurine-verte-pendentif-mumh82z88saw",
@@ -9368,7 +9398,17 @@
               "description": "L'aventurine verte est une pierre naturelle aux reflets lumineux et apaisants, idéale pour harmoniser les énergies. Traditionnellement utilisée en lithothérapie, elle favorise la chance, la croissance personnelle et la sérénité au quotidien. Parfaite pour porter en bijou, elle apporte une touche de douceur et de bien-être dans votre vie.",
               "photo": "images/articles/aventurine-verte-pendentif-mumh82z8w2fs.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZwwZdEAjpUR",
+              "stripeMode": "live",
+              "stripeNom": "Aventurine verte Pendentif",
+              "stripeDesc": "L'aventurine verte est une pierre naturelle aux reflets lumineux et apaisants, idéale pour harmoniser les énergies. Traditionnellement utilisée en lithothérapie, elle favorise la chance, la croissance personnelle et la sérénité au quotidien. Parfaite pour porter en bijou, elle apporte une touche de douceur et de bien-être dans votre vie.",
+              "stripePriceId": "price_1UL34DLOfCA5mATuL8M4yxhz",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34DLOfCA5mATuuZycsfrn",
+              "stripe": "https://buy.stripe.com/aFacN63RM1Fj7IAgWd28o0Z",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-fuschite-mumhcsnvegaw",
@@ -9377,7 +9417,17 @@
               "description": "La fuschite est une pierre rare aux reflets verts profonds et apaisants, souvent appelée pierre de l'harmonie. En lithothérapie, elle est réputée pour favoriser la sérénité et aider à équilibrer les émotions, tout en renforçant la connexion à la nature. Parfaite pour une utilisation quotidienne, elle est idéale pour ceux qui cherchent à apaiser leur esprit et à retrouver un sentiment de calme intérieur.",
               "photo": "images/articles/pendentif-fuschite-mumhcsnwzysl.jpg",
               "prixBoutique": 29,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZ8LDT79vf0E",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif fuschite",
+              "stripeDesc": "La fuschite est une pierre rare aux reflets verts profonds et apaisants, souvent appelée pierre de l'harmonie. En lithothérapie, elle est réputée pour favoriser la sérénité et aider à équilibrer les émotions, tout en renforçant la connexion à la nature. Parfaite pour une utilisation quotidienne, elle est idéale pour ceux qui cherchent à apaiser leur esprit et à retrouver un sentiment de calme intérieur.",
+              "stripePriceId": "price_1UL34ELOfCA5mATucQyEu4jm",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UL34ELOfCA5mATu2YeZWp6A",
+              "stripe": "https://buy.stripe.com/6oU8wQcoifw92og6hz28o10",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-fuschite-mumhdznf7tsd",
@@ -9386,7 +9436,17 @@
               "description": "La fuschite est une pierre aux reflets verts profonds et apaisants, souvent utilisée en lithothérapie pour favoriser la sérénité et l'équilibre émotionnel. Elle est réputée pour aider à libérer les tensions et à renforcer la connexion avec la nature. Idéale pour ceux qui cherchent à apaiser leur esprit et à retrouver un sentiment de calme intérieur.",
               "photo": "images/articles/pendentif-fuschite-mumhdznftjt7.jpg",
               "prixBoutique": 29,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZRis920B47I",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif fuschite",
+              "stripeDesc": "La fuschite est une pierre aux reflets verts profonds et apaisants, souvent utilisée en lithothérapie pour favoriser la sérénité et l'équilibre émotionnel. Elle est réputée pour aider à libérer les tensions et à renforcer la connexion avec la nature. Idéale pour ceux qui cherchent à apaiser leur esprit et à retrouver un sentiment de calme intérieur.",
+              "stripePriceId": "price_1UL34FLOfCA5mATumu4rFUp8",
+              "stripePrix": 30.24,
+              "stripeLinkId": "plink_1UL34FLOfCA5mATumOVsYEx3",
+              "stripe": "https://buy.stripe.com/fZudRa5ZU83H0g8gWd28o11",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-phrenite-mumhfjjojfxh",
@@ -9395,7 +9455,17 @@
               "description": "La phrénite est une pierre douce et apaisante, souvent appelée pierre de l'harmonie. Elle est réputée pour favoriser la sérénité et aider à libérer les tensions émotionnelles, tout en renforçant la confiance en soi. Parfaite pour une utilisation quotidienne, elle est idéale pour ceux qui cherchent à retrouver un équilibre intérieur et une paix mentale.",
               "photo": "images/articles/pendentif-phrenite-mumhfjjohx6k.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZxS1eli5aKy",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif phrénite",
+              "stripeDesc": "La phrénite est une pierre douce et apaisante, souvent appelée pierre de l'harmonie. Elle est réputée pour favoriser la sérénité et aider à libérer les tensions émotionnelles, tout en renforçant la confiance en soi. Parfaite pour une utilisation quotidienne, elle est idéale pour ceux qui cherchent à retrouver un équilibre intérieur et une paix mentale.",
+              "stripePriceId": "price_1UL34GLOfCA5mATuWgdH67OH",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34GLOfCA5mATuxxU3mbU7",
+              "stripe": "https://buy.stripe.com/7sY28s0FA3Nr8ME49r28o12",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-aventurine-verte-mumhk2qsj32g",
@@ -9404,7 +9474,17 @@
               "description": "L'aventurine verte réduit les ulcères et l'hypertension, elle apaise le stress facilite la respiration favorise l'endormissement, contribue à réduire les maux de tête et régénère la peau",
               "photo": "images/articles/pendentif-aventurine-verte-mumhk2qsmurz.jpg",
               "prixBoutique": 95,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZLj9l5Yv6T7",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif aventurine verte",
+              "stripeDesc": "L'aventurine verte réduit les ulcères et l'hypertension, elle apaise le stress facilite la respiration favorise l'endormissement, contribue à réduire les maux de tête et régénère la peau",
+              "stripePriceId": "price_1UL34GLOfCA5mATujc7Hmd5k",
+              "stripePrix": 98.45,
+              "stripeLinkId": "plink_1UL34HLOfCA5mATuqquae1QM",
+              "stripe": "https://buy.stripe.com/5kQ00kfAugAde6YeO528o13",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-aventurine-verte-mumhpgtwejub",
@@ -9413,7 +9493,17 @@
               "description": "L'aventurine verte apporte amour et confiance en soi, elle réduit les ulcères et l'hypertension, apaise le stress, facilite la respiration, favorise le sommeil, contribue à réduire les maux de tête et régénère la peau",
               "photo": "images/articles/pendentif-aventurine-verte-mumhpgtwvjzx.jpg",
               "prixBoutique": 95,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZzXSsOq7JLI",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif aventurine verte",
+              "stripeDesc": "L'aventurine verte apporte amour et confiance en soi, elle réduit les ulcères et l'hypertension, apaise le stress, facilite la respiration, favorise le sommeil, contribue à réduire les maux de tête et régénère la peau",
+              "stripePriceId": "price_1UL34HLOfCA5mATuN7sJlgsd",
+              "stripePrix": 98.45,
+              "stripeLinkId": "plink_1UL34HLOfCA5mATuHNw2y3R8",
+              "stripe": "https://buy.stripe.com/8x2dRagEybfT8MEgWd28o14",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-aventurine-verte-mumhw1dvidfi",
@@ -9422,7 +9512,17 @@
               "description": "L'aventurine verte apporte amour et confiance en soi, elle réduit les ulcères et l'hypertension ,apaise le stress, sommeil réparateur réduit maux de tête et régénère la peau;",
               "photo": "images/articles/pendentif-aventurine-verte-mumhw1dv8h3t.jpg",
               "prixBoutique": 77,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZftIg86WFb2",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif aventurine verte",
+              "stripeDesc": "L'aventurine verte apporte amour et confiance en soi, elle réduit les ulcères et l'hypertension ,apaise le stress, sommeil réparateur réduit maux de tête et régénère la peau;",
+              "stripePriceId": "price_1UL34ILOfCA5mATumgZTr3dH",
+              "stripePrix": 79.85,
+              "stripeLinkId": "plink_1UL34ILOfCA5mATu4ARVPLez",
+              "stripe": "https://buy.stripe.com/9B628s4VQ97LaUMeO528o15",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-jaspe-imperial-mumrqx80xf9n",
@@ -9431,7 +9531,17 @@
               "description": "Ce pendentif en jaspe impérial est une pièce naturelle aux reflets dorés et verts, offrant une énergie apaisante et équilibrante. Selon la lithothérapie, cette pierre favorise la stabilité émotionnelle et renforce la confiance en soi, tout en stimulant la vitalité et la créativité. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver un état d’esprit positif.",
               "photo": "images/articles/pendentif-jaspe-imperial-mumrqx802h6x.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZrSu8NnQEKW",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe impérial",
+              "stripeDesc": "Ce pendentif en jaspe impérial est une pièce naturelle aux reflets dorés et verts, offrant une énergie apaisante et équilibrante. Selon la lithothérapie, cette pierre favorise la stabilité émotionnelle et renforce la confiance en soi, tout en stimulant la vitalité et la créativité. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver un état d’esprit positif.",
+              "stripePriceId": "price_1UL34ILOfCA5mATuOMqJxlsx",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34JLOfCA5mATuSrQKPuI0",
+              "stripe": "https://buy.stripe.com/00w6oIbke4Rv6EwcFX28o16",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-jaspe-imperial-mumrt82flp4u",
@@ -9440,7 +9550,17 @@
               "description": "Ce pendentif en jaspe impérial est une pierre aux reflets dorés et chauds, idéale pour apporter stabilité et équilibre dans votre quotidien. En lithothérapie, elle est souvent associée à la confiance en soi et à la force intérieure, aidant à renforcer la détermination et la persévérance. Parfait pour être porté près du cœur, il est aussi apprécié pour ses propriétés apaisantes sur le plan émotionnel.",
               "photo": "images/articles/pendentif-jaspe-imperial-mumrt82ftz6s.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZGITH6lQGzk",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe impérial",
+              "stripeDesc": "Ce pendentif en jaspe impérial est une pierre aux reflets dorés et chauds, idéale pour apporter stabilité et équilibre dans votre quotidien. En lithothérapie, elle est souvent associée à la confiance en soi et à la force intérieure, aidant à renforcer la détermination et la persévérance. Parfait pour être porté près du cœur, il est aussi apprécié pour ses propriétés apaisantes sur le plan émotionnel.",
+              "stripePriceId": "price_1UL34JLOfCA5mATuNJIqIKKC",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UL34KLOfCA5mATuv2I8W6YB",
+              "stripe": "https://buy.stripe.com/9B600kcoido19QI9tL28o17",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-jaspe-imperial-mumtfvnowdvn",
@@ -9449,7 +9569,17 @@
               "description": "Ce pendentif en jaspe impérial est une pièce unique et élégante, façonnée pour capturer l'énergie puissante et protectrice de cette pierre. Traditionnellement utilisée en lithothérapie pour renforcer la stabilité émotionnelle et favoriser la confiance en soi, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à ancrer leur énergie. Son apparence douce et apaisante en fait un allié précieux pour le bien-être quotidien.",
               "photo": "images/articles/pendentif-jaspe-imperial-mumtfvnoh841.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZxchmxojN4K",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe impérial",
+              "stripeDesc": "Ce pendentif en jaspe impérial est une pièce unique et élégante, façonnée pour capturer l'énergie puissante et protectrice de cette pierre. Traditionnellement utilisée en lithothérapie pour renforcer la stabilité émotionnelle et favoriser la confiance en soi, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à ancrer leur énergie. Son apparence douce et apaisante en fait un allié précieux pour le bien-être quotidien.",
+              "stripePriceId": "price_1UL34KLOfCA5mATuG9gzN2kl",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34KLOfCA5mATu5EDg1inR",
+              "stripe": "https://buy.stripe.com/eVqaEYdsm97L4wo6hz28o18",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-jaspe-imperial-mumtjpyzywla",
@@ -9458,7 +9588,17 @@
               "description": "La jaspe impérial est une pierre d'ancrage et d'enracinement, elle joue sur le système nerveux et le psychisme.",
               "photo": "images/articles/pendentif-jaspe-imperial-mumtjpyzdwkr.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZypaQrd7Q88",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe impérial",
+              "stripeDesc": "La jaspe impérial est une pierre d'ancrage et d'enracinement, elle joue sur le système nerveux et le psychisme.",
+              "stripePriceId": "price_1UL34LLOfCA5mATud7qBfAat",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34LLOfCA5mATu3XX8yfU1",
+              "stripe": "https://buy.stripe.com/9B6bJ2gEy2Jnd2UbBT28o19",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-jaspe-imperial-mumtnycjdabk",
@@ -9467,7 +9607,17 @@
               "description": "Ce pendentif en jaspe impérial est une pièce élégante et raffinée, aux reflets verts profonds et aux éclats dorés qui captent la lumière. Le jaspe impérial est souvent associé à la stabilité émotionnelle, à la protection et à l'équilibre des énergies, aidant à apaiser les tensions du quotidien. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à renforcer leur ancrage et leur confiance en soi.",
               "photo": "images/articles/pendentif-jaspe-imperial-mumtnycku5oz.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZ6yP5VbQmFC",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe impérial",
+              "stripeDesc": "Ce pendentif en jaspe impérial est une pièce élégante et raffinée, aux reflets verts profonds et aux éclats dorés qui captent la lumière. Le jaspe impérial est souvent associé à la stabilité émotionnelle, à la protection et à l'équilibre des énergies, aidant à apaiser les tensions du quotidien. Parfait pour être porté au quotidien, il est idéal pour ceux qui cherchent à renforcer leur ancrage et leur confiance en soi.",
+              "stripePriceId": "price_1UL34MLOfCA5mATu6an9uITJ",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34MLOfCA5mATuDKeB5hip",
+              "stripe": "https://buy.stripe.com/fZueVe5ZUbfTaUM6hz28o1a",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-jaspe-imperial-mumtsd984n53",
@@ -9476,7 +9626,17 @@
               "description": "Ce pendentif en jaspe impérial allie une beauté naturelle aux teintes douces et variées de gris, rose et violet. Cette pierre est souvent associée à la stabilité émotionnelle, à la protection et à l'équilibre des énergies. Porté en bijou, il est idéal pour ceux qui cherchent à renforcer leur ancrage et leur confiance en soi au quotidien.",
               "photo": "images/articles/pendentif-jaspe-imperial-mumtsd981hvz.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZxCUk8szHjX",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe impérial",
+              "stripeDesc": "Ce pendentif en jaspe impérial allie une beauté naturelle aux teintes douces et variées de gris, rose et violet. Cette pierre est souvent associée à la stabilité émotionnelle, à la protection et à l'équilibre des énergies. Porté en bijou, il est idéal pour ceux qui cherchent à renforcer leur ancrage et leur confiance en soi au quotidien.",
+              "stripePriceId": "price_1UL34MLOfCA5mATuuVUPlT9k",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34NLOfCA5mATuXmGiGanC",
+              "stripe": "https://buy.stripe.com/14A14ofAu0Bf9QIeO528o1b",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-jaspe-imperial-mumtul7gnxjd",
@@ -9485,7 +9645,17 @@
               "description": "Ce pendentif en jaspe impérial est une pierre aux reflets dorés et teintés de bleu-vert, souvent appelée pierre de stabilité et de force intérieure. En lithothérapie, il est réputé pour renforcer la confiance en soi, apaiser les tensions et favoriser un équilibre émotionnel harmonieux. Idéal pour porter au quotidien, il est apprécié pour son énergie apaisante et son pouvoir de protection.",
               "photo": "images/articles/pendentif-jaspe-imperial-mumtul7g493i.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZp0IRmlaAsZ",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe impérial",
+              "stripeDesc": "Ce pendentif en jaspe impérial est une pierre aux reflets dorés et teintés de bleu-vert, souvent appelée pierre de stabilité et de force intérieure. En lithothérapie, il est réputé pour renforcer la confiance en soi, apaiser les tensions et favoriser un équilibre émotionnel harmonieux. Idéal pour porter au quotidien, il est apprécié pour son énergie apaisante et son pouvoir de protection.",
+              "stripePriceId": "price_1UL34NLOfCA5mATu6DdZnrqC",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34NLOfCA5mATub7Hih5lK",
+              "stripe": "https://buy.stripe.com/4gMdRa0FA2Jn5As49r28o1c",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-jaspe-imperial-mumtw56acqoy",
@@ -9494,7 +9664,17 @@
               "description": "Ce pendentif en jaspe impérial est une pierre aux reflets profonds et aux couleurs harmonieuses, idéale pour apporter stabilité et équilibre. En lithothérapie, il est souvent utilisé pour renforcer la confiance en soi et favoriser la concentration. Parfait pour une utilisation quotidienne, il peut être porté comme un talisman pour apaiser les émotions et renforcer la détermination.",
               "photo": "images/articles/pendentif-jaspe-imperial-mumtw56avn6s.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZBj03qSV3tH",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe impérial",
+              "stripeDesc": "Ce pendentif en jaspe impérial est une pierre aux reflets profonds et aux couleurs harmonieuses, idéale pour apporter stabilité et équilibre. En lithothérapie, il est souvent utilisé pour renforcer la confiance en soi et favoriser la concentration. Parfait pour une utilisation quotidienne, il peut être porté comme un talisman pour apaiser les émotions et renforcer la détermination.",
+              "stripePriceId": "price_1UL34OLOfCA5mATuTLSYN8b3",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34OLOfCA5mATuvi7jQ7Pa",
+              "stripe": "https://buy.stripe.com/28EeVecoicjXbYQfS928o1d",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-cristal-de-roche-mumu5o16r9k6",
@@ -9503,7 +9683,17 @@
               "description": "Ce pendentif en cristal de roche est une pièce pure et lumineuse, idéale pour apporter clarté et sérénité au quotidien. Selon la lithothérapie, cette pierre naturelle amplifie les énergies positives et favorise la concentration, tout en équilibrant les émotions. Parfaite pour être portée près du cœur ou du troisième œil, elle est aussi utilisée pour purifier les espaces et renforcer la connexion à son intuition.",
               "photo": "images/articles/pendentif-cristal-de-roche-mumu5o16nflr.jpg",
               "prixBoutique": 25,
-              "stock": 4
+              "stock": 4,
+              "stripeProductId": "prod_VLkZOn7hy655Yz",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cristal de roche",
+              "stripeDesc": "Ce pendentif en cristal de roche est une pièce pure et lumineuse, idéale pour apporter clarté et sérénité au quotidien. Selon la lithothérapie, cette pierre naturelle amplifie les énergies positives et favorise la concentration, tout en équilibrant les émotions. Parfaite pour être portée près du cœur ou du troisième œil, elle est aussi utilisée pour purifier les espaces et renforcer la connexion à son intuition.",
+              "stripePriceId": "price_1UL34PLOfCA5mATuA5AKmmTB",
+              "stripePrix": 26.1,
+              "stripeLinkId": "plink_1UL34PLOfCA5mATuSGCZcpFL",
+              "stripe": "https://buy.stripe.com/cNi3cwgEy83Hd2U6hz28o1e",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "pendentif-jaspe-paysage-mumu86uyvcqy",
@@ -9512,7 +9702,17 @@
               "description": "Ce pendentif en jaspe paysage est une pierre aux couleurs douces et apaisantes, idéale pour harmoniser les énergies. Traditionnellement utilisée en lithothérapie, elle favorise la stabilité émotionnelle et aide à ancrer les intentions dans le quotidien. Parfaite pour porter au quotidien, elle est aussi appréciée pour ses propriétés apaisantes et son influence sur la patience et la persévérance.",
               "photo": "images/articles/pendentif-jaspe-paysage-mumu86uyyu04.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZ4iAWwyNCkZ",
+              "stripeMode": "live",
+              "stripeNom": "Pendentif jaspe paysage",
+              "stripeDesc": "Ce pendentif en jaspe paysage est une pierre aux couleurs douces et apaisantes, idéale pour harmoniser les énergies. Traditionnellement utilisée en lithothérapie, elle favorise la stabilité émotionnelle et aide à ancrer les intentions dans le quotidien. Parfaite pour porter au quotidien, elle est aussi appréciée pour ses propriétés apaisantes et son influence sur la patience et la persévérance.",
+              "stripePriceId": "price_1UL34PLOfCA5mATupumFXWHL",
+              "stripePrix": 25.07,
+              "stripeLinkId": "plink_1UL34QLOfCA5mATuTveXyLqC",
+              "stripe": "https://buy.stripe.com/14A8wQ882es57IA35n28o1f",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -10175,15 +10375,15 @@
               "photo": "images/articles/bracelet-cristal-de-roche-6-mm-mtejwcfhwlt8.jpg",
               "prixBoutique": 14.9,
               "stock": 1,
-              "stripe": "https://buy.stripe.com/8x27sMbkeabPd2UaxP2882z",
+              "stripe": "https://buy.stripe.com/cNi7sMagado13skaxP28o1g",
               "stripeProductId": "prod_VA8igb8BzF4KrH",
               "stripePriceId": "price_1U9oQhLOfCA5mATuTtRHxClC",
-              "stripeLinkId": "plink_1U9oQhLOfCA5mATuewGDYkQS",
+              "stripeLinkId": "plink_1UL34QLOfCA5mATupROyWaXa",
               "stripePrix": 15.66,
               "stripeMode": "live",
-              "stripeNom": "Bracelet cristal de roche 6 mm",
+              "stripeNom": "Bracelet cristal de roche 8 mm",
               "stripeDesc": "Pierre d'ancrage et amplificateur",
-              "stripeStock": 2,
+              "stripeStock": 1,
               "epuise": false
             },
             {
@@ -11809,15 +12009,15 @@
               "photo": "images/articles/bracelet-hematite-8-mm-mtk6554qnvs2.jpg",
               "prixBoutique": 14.9,
               "stock": 7,
-              "stripe": "https://buy.stripe.com/bJe9AU4VQgAdfb27lD28j3B",
+              "stripe": "https://buy.stripe.com/3cIcN6fAu0Bfgf649r28o1h",
               "stripeProductId": "prod_VBc1WWmDN7mtgZ",
               "stripePriceId": "price_1UBEnfLOfCA5mATuO14q95Uh",
-              "stripeLinkId": "plink_1UJbjaLOfCA5mATuApz3WKXN",
+              "stripeLinkId": "plink_1UL34RLOfCA5mATuCf0wLjyX",
               "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet hématite 8 mm",
               "stripeDesc": "Ce bracelet en hématite de 8 mm est un accessoire élégant et intemporel, composé de perles naturelles aux reflets métalliques profonds. L'hématite est souvent utilisée en lithothérapie pour renforcer la concentration, ancrer l'énergie et apaiser les émotions. Porté au quotidien, il est réputé pour favoriser la stabilité mentale et le bien-être physique.",
-              "stripeStock": 8,
+              "stripeStock": 7,
               "epuise": false
             },
             {
@@ -13006,15 +13206,15 @@
               "photo": "images/articles/bracelet-spinelle-8-mm-mtmorhyop7yn.jpg",
               "prixBoutique": 32,
               "stock": 1,
-              "stripe": "https://buy.stripe.com/4gM8wQ0FAfw93skeO52890W",
+              "stripe": "https://buy.stripe.com/eVqdRafAubfT7IAfS928o1i",
               "stripeProductId": "prod_VCGwxmO0Q7lwVH",
               "stripePriceId": "price_1UBsObLOfCA5mATu9Zr0QmfG",
-              "stripeLinkId": "plink_1UBsOcLOfCA5mATuMnj2AtFr",
+              "stripeLinkId": "plink_1UL34SLOfCA5mATuEp2L19Px",
               "stripePrix": 33.34,
               "stripeMode": "live",
               "stripeNom": "Bracelet spinelle 8 mm",
               "stripeDesc": "En neutralisant les énergies négatives , la spinelle aide à lutter contre les effets physiques du stress, tremblements, tensions musculaires.",
-              "stripeStock": 2,
+              "stripeStock": 1,
               "epuise": false
             },
             {
@@ -14691,7 +14891,17 @@
               "description": "Ces boucles d'oreilles en argent sublimées par la douce lueur de la pierre de lune apportent une touche d'élégance et de sérénité. En lithothérapie, cette pierre est souvent associée à l'apaisement des émotions, favorisant la douceur et l'harmonie intérieure. Parfaite pour un quotidien équilibré, elle est aussi réputée pour renforcer la connexion à la féminité et la sensibilité intuitive.",
               "photo": "images/articles/boucles-d-oreilles-argent-en-pierre-de-l-mumqk74qjqcb.jpg",
               "prixBoutique": 24.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZfdRgeYr6eU",
+              "stripeMode": "live",
+              "stripeNom": "Boucles d'oreilles argent en Pierre de lune",
+              "stripeDesc": "Ces boucles d'oreilles en argent sublimées par la douce lueur de la pierre de lune apportent une touche d'élégance et de sérénité. En lithothérapie, cette pierre est souvent associée à l'apaisement des émotions, favorisant la douceur et l'harmonie intérieure. Parfaite pour un quotidien équilibré, elle est aussi réputée pour renforcer la connexion à la féminité et la sensibilité intuitive.",
+              "stripePriceId": "price_1UL34SLOfCA5mATuYUYRjoAe",
+              "stripePrix": 25.59,
+              "stripeLinkId": "plink_1UL34TLOfCA5mATuIGnpZSbg",
+              "stripe": "https://buy.stripe.com/aFa5kE8826ZD9QI0Xf28o1j",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "boucles-d-oreilles-quartz-rose-tres-clai-mumqnqxvorm7",
@@ -14700,7 +14910,17 @@
               "description": "Boucles d'oreilles quartz rose, le quartz rose est la pierre du couple de l' amour.",
               "photo": "images/articles/boucles-d-oreilles-quartz-rose-tres-clai-mumqnqxvhhh2.jpg",
               "prixBoutique": 24.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZVXcTh7UuHQ",
+              "stripeMode": "live",
+              "stripeNom": "Boucles d'oreilles quartz rose très clair",
+              "stripeDesc": "Boucles d'oreilles quartz rose, le quartz rose est la pierre du couple de l' amour.",
+              "stripePriceId": "price_1UL34TLOfCA5mATutgqVeUMU",
+              "stripePrix": 25.59,
+              "stripeLinkId": "plink_1UL34TLOfCA5mATuxZ86fn08",
+              "stripe": "https://buy.stripe.com/00weVe0FA2Jn9QI21j28o1k",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "boucles-d-oreilles-en-apatite-bleue-mumqrpplolyz",
@@ -14709,7 +14929,17 @@
               "description": "Ces boucles d'oreilles en apatite bleue allient élégance et douceur. L'apatite est une pierre souvent associée à l'équilibre émotionnel, aidant à apaiser les tensions et à favoriser la sérénité au quotidien. Portée près du cœur ou des oreilles, elle est réputée pour stimuler la communication et renforcer la confiance en soi.",
               "photo": "images/articles/boucles-d-oreilles-en-apatite-bleue-mumqrpplwb0i.jpg",
               "prixBoutique": 24.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZ78vJ84LH8L",
+              "stripeMode": "live",
+              "stripeNom": "Boucles d'oreilles en apatite bleue",
+              "stripeDesc": "Ces boucles d'oreilles en apatite bleue allient élégance et douceur. L'apatite est une pierre souvent associée à l'équilibre émotionnel, aidant à apaiser les tensions et à favoriser la sérénité au quotidien. Portée près du cœur ou des oreilles, elle est réputée pour stimuler la communication et renforcer la confiance en soi.",
+              "stripePriceId": "price_1UL34ULOfCA5mATuLbzTSL16",
+              "stripePrix": 25.59,
+              "stripeLinkId": "plink_1UL34ULOfCA5mATujz2drYbQ",
+              "stripe": "https://buy.stripe.com/aFabJ2coi5Vze6Y8pH28o1l",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "boucles-d-oreilles-en-pierre-de-lune-mumrjtah0dn9",
@@ -14718,7 +14948,17 @@
               "description": "Ces boucles d'oreilles élégantes sont réalisées en pierre de lune, une pierre naturelle aux reflets argentés et apaisants. En lithothérapie, la pierre de lune est souvent associée à l'harmonie émotionnelle, à la douceur et à la connexion avec les cycles féminins. Elle est idéale pour porter au quotidien afin de cultiver la sérénité et l'équilibre intérieur.",
               "photo": "images/articles/boucles-d-oreilles-en-pierre-de-lune-mumrjtah1x86.jpg",
               "prixBoutique": 24.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZGGWEdhkIrq",
+              "stripeMode": "live",
+              "stripeNom": "Boucles d'oreilles en pierre de lune",
+              "stripeDesc": "Ces boucles d'oreilles élégantes sont réalisées en pierre de lune, une pierre naturelle aux reflets argentés et apaisants. En lithothérapie, la pierre de lune est souvent associée à l'harmonie émotionnelle, à la douceur et à la connexion avec les cycles féminins. Elle est idéale pour porter au quotidien afin de cultiver la sérénité et l'équilibre intérieur.",
+              "stripePriceId": "price_1UL34ULOfCA5mATuGziaPTFT",
+              "stripePrix": 25.59,
+              "stripeLinkId": "plink_1UL34VLOfCA5mATuopRFLaGn",
+              "stripe": "https://buy.stripe.com/9B69AU1JEabP1kceO528o1m",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "boucles-d-oreilles-en-lapis-lazuli-mumrlchjci81",
@@ -14727,7 +14967,17 @@
               "description": "Ces boucles d'oreilles en lapis lazuli allient élégance et énergie positive. Le lapis lazuli, pierre de sagesse et de communication, est souvent utilisé en lithothérapie pour favoriser la clarté mentale et apaiser les émotions. Parfait pour un quotidien harmonieux, il attire aussi la chance et renforce la confiance en soi.",
               "photo": "images/articles/boucles-d-oreilles-en-lapis-lazuli-mumrlchjlotv.jpg",
               "prixBoutique": 24.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZhecrNjXKAX",
+              "stripeMode": "live",
+              "stripeNom": "Boucles d'oreilles en lapis lazuli",
+              "stripeDesc": "Ces boucles d'oreilles en lapis lazuli allient élégance et énergie positive. Le lapis lazuli, pierre de sagesse et de communication, est souvent utilisé en lithothérapie pour favoriser la clarté mentale et apaiser les émotions. Parfait pour un quotidien harmonieux, il attire aussi la chance et renforce la confiance en soi.",
+              "stripePriceId": "price_1UL34VLOfCA5mATuaPHGkeX2",
+              "stripePrix": 25.59,
+              "stripeLinkId": "plink_1UL34VLOfCA5mATuxkPw7Uza",
+              "stripe": "https://buy.stripe.com/7sY6oIagado18ME49r28o1n",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "boucles-d-oreilles-en-pierre-de-lune-mumrnpcw2p9p",
@@ -14736,7 +14986,17 @@
               "description": "Ces boucles d'oreilles en pierre de lune apportent une touche douce et élégante à votre tenue. En lithothérapie, cette pierre est souvent associée à la sérénité et à l'harmonie émotionnelle, aidant à apaiser les tensions et à favoriser un sommeil paisible. Portées au quotidien, elles sont aussi réputées pour renforcer la connexion à la féminité et équilibrer les énergies.",
               "photo": "images/articles/boucles-d-oreilles-en-pierre-de-lune-mumrnpcwtj2d.jpg",
               "prixBoutique": 24.5,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZxjggNWoOKb",
+              "stripeMode": "live",
+              "stripeNom": "Boucles d'oreilles en pierre de lune",
+              "stripeDesc": "Ces boucles d'oreilles en pierre de lune apportent une touche douce et élégante à votre tenue. En lithothérapie, cette pierre est souvent associée à la sérénité et à l'harmonie émotionnelle, aidant à apaiser les tensions et à favoriser un sommeil paisible. Portées au quotidien, elles sont aussi réputées pour renforcer la connexion à la féminité et équilibrer les énergies.",
+              "stripePriceId": "price_1UL34WLOfCA5mATux0A5OVzj",
+              "stripePrix": 25.59,
+              "stripeLinkId": "plink_1UL34WLOfCA5mATu7kpVVwUs",
+              "stripe": "https://buy.stripe.com/14A8wQfAu3Nr7IAfS928o1o",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }
@@ -15733,7 +15993,17 @@
               "description": "Ces palmes de massage en jade offrent une expérience apaisante et relaxante pour soulager les tensions musculaires. Le jade, pierre de douceur et d'harmonie, est traditionnellement utilisé pour équilibrer les émotions et favoriser la sérénité. Idéale pour les séances de bien-être à la maison ou en cabinet, elle apporte une énergie calme et protectrice.",
               "photo": "images/articles/palme-de-massage-en-jade-mumpz8r6o5gs.jpg",
               "prixBoutique": 14.9,
-              "stock": 2
+              "stock": 2,
+              "stripeProductId": "prod_VLkZ50PFwwlfgF",
+              "stripeMode": "live",
+              "stripeNom": "Palme de massage en jade",
+              "stripeDesc": "Ces palmes de massage en jade offrent une expérience apaisante et relaxante pour soulager les tensions musculaires. Le jade, pierre de douceur et d'harmonie, est traditionnellement utilisé pour équilibrer les émotions et favoriser la sérénité. Idéale pour les séances de bien-être à la maison ou en cabinet, elle apporte une énergie calme et protectrice.",
+              "stripePriceId": "price_1UL34XLOfCA5mATuzXRG86tK",
+              "stripePrix": 15.66,
+              "stripeLinkId": "plink_1UL34XLOfCA5mATuyuyxhiKk",
+              "stripe": "https://buy.stripe.com/00w9AU2NI83Hgf6axP28o1p",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "palme-de-massage-en-jade-mumqd0p6sqng",
@@ -15742,7 +16012,17 @@
               "description": "Palme de massage en jade, le jade calme le système nerveux, réduit le stress et dissipe la colère ou la culpabilité. il incarne des valeurs de tolérance, d'honnêteté envers soi-même et élève le niveau de conscience, chance et prospérité, équilibre des organes.",
               "photo": "images/articles/palme-de-massage-en-jade-mumqd0p6ouqi.jpg",
               "prixBoutique": 27,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLkZ8SnloTyqfD",
+              "stripeMode": "live",
+              "stripeNom": "Palme de massage en jade",
+              "stripeDesc": "Palme de massage en jade, le jade calme le système nerveux, réduit le stress et dissipe la colère ou la culpabilité. il incarne des valeurs de tolérance, d'honnêteté envers soi-même et élève le niveau de conscience, chance et prospérité, équilibre des organes.",
+              "stripePriceId": "price_1UL34XLOfCA5mATunXc33weS",
+              "stripePrix": 28.17,
+              "stripeLinkId": "plink_1UL34YLOfCA5mATumpdXhDNi",
+              "stripe": "https://buy.stripe.com/7sYaEYbkeabP8ME21j28o1q",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

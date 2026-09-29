@@ -8999,7 +8999,17 @@
               "description": "Ce bracelet en grosses perles de vquartz rose apporte douceur et sérénité au quotidien. Associé traditionnellement à l'ouverture du cœur et à l'équilibre émotionnel, il favorise la compassion et la connexion à soi-même. Parfait pour porter au poignet ou à la cheville, il diffuse une énergie apaisante et bienveillante.",
               "photo": "images/articles/collier-grosse-perle-vquartz-rose-mumal4cx2tol.jpg",
               "prixBoutique": 29.95,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VLbuVmRtSkizua",
+              "stripeMode": "live",
+              "stripeNom": "Collier grosse perle vquartz rose",
+              "stripeDesc": "Ce bracelet en grosses perles de vquartz rose apporte douceur et sérénité au quotidien. Associé traditionnellement à l'ouverture du cœur et à l'équilibre émotionnel, il favorise la compassion et la connexion à soi-même. Parfait pour porter au poignet ou à la cheville, il diffuse une énergie apaisante et bienveillante.",
+              "stripePriceId": "price_1UKugqLOfCA5mATu7g6dbfLF",
+              "stripePrix": 31.22,
+              "stripeLinkId": "plink_1UKugqLOfCA5mATutLNqIFof",
+              "stripe": "https://buy.stripe.com/28EfZiewq83H2og8pH28l2k",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "collier-en-calcite-jaune-14-mm-mumat53k2dxy",
@@ -9008,7 +9018,17 @@
               "description": "Ce collier en calcite jaune est composé de perles rondes et lumineuses, parfait pour apporter une touche d'énergie positive et de douceur dans votre quotidien. La calcite jaune est souvent associée à la joie, à la clarté mentale et à l'harmonisation des émotions, aidant à éclaircir les pensées et à stimuler la créativité. Idéal pour une utilisation en lithothérapie ou simplement comme accessoire élégant et bienveillant.",
               "photo": "images/articles/collier-en-calcite-jaune-14-mm-mumat53k7udn.jpg",
               "prixBoutique": 29.95,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLbu8yzD5Qr7bU",
+              "stripeMode": "live",
+              "stripeNom": "Collier en calcite jaune 14 mm",
+              "stripeDesc": "Ce collier en calcite jaune est composé de perles rondes et lumineuses, parfait pour apporter une touche d'énergie positive et de douceur dans votre quotidien. La calcite jaune est souvent associée à la joie, à la clarté mentale et à l'harmonisation des émotions, aidant à éclaircir les pensées et à stimuler la créativité. Idéal pour une utilisation en lithothérapie ou simplement comme accessoire élégant et bienveillant.",
+              "stripePriceId": "price_1UKugqLOfCA5mATuMsNxW2TQ",
+              "stripePrix": 31.22,
+              "stripeLinkId": "plink_1UKugrLOfCA5mATukk2rt0Zr",
+              "stripe": "https://buy.stripe.com/4gM14odsm6ZD6Ew0Xf28l2l",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -15092,7 +15112,17 @@
               "description": "Ces boules anti stress en forme de yin et yang sont des outils idéaux pour apaiser le mental et retrouver un équilibre émotionnel. Leur simple pression libère une douce mélodie relaxante, favorisant la concentration et réduisant le stress au quotidien. En lithothérapie, elles sont souvent utilisées pour harmoniser les énergies et stimuler la sérénité intérieure.",
               "photo": "images/articles/boules-anti-stress-ying-yang-musicales-mumb25s72yeq.jpg",
               "prixBoutique": 24.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VLbuDAQUZuPVQ6",
+              "stripeMode": "live",
+              "stripeNom": "Boules anti stress ying yang musicales",
+              "stripeDesc": "Ces boules anti stress en forme de yin et yang sont des outils idéaux pour apaiser le mental et retrouver un équilibre émotionnel. Leur simple pression libère une douce mélodie relaxante, favorisant la concentration et réduisant le stress au quotidien. En lithothérapie, elles sont souvent utilisées pour harmoniser les énergies et stimuler la sérénité intérieure.",
+              "stripePriceId": "price_1UKugrLOfCA5mATuU5eANg0r",
+              "stripePrix": 26,
+              "stripeLinkId": "plink_1UKugrLOfCA5mATuR7b21Lhf",
+              "stripe": "https://buy.stripe.com/4gM9AUgEyfw9aUM0Xf28l2m",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

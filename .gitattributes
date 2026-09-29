@@ -1,0 +1,5 @@
+# Fichiers lus par le runner Linux (GitHub Actions) : toujours en LF,
+# sinon les scripts shell des workflows cassent (retours chariot Windows).
+*.yml text eol=lf
+*.yaml text eol=lf
+.github/scripts/*.js text eol=lf

@@ -175,8 +175,9 @@
     .art-modif { flex-shrink: 0; }
 
     .add-rayon { margin-top: 24px; }
-    .recherche-zone { margin-top: 22px; }
-    .search-admin { border-radius: 999px; padding: 15px 22px; }
+    .recherche-zone { margin-top: 22px; position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 12px 0; }
+    .search-admin { width: 100%; box-sizing: border-box; border-radius: 999px; padding: 15px 22px; font-size: 16px; }
+    .search-admin:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
 
     /* ---- Fenêtre modale ---- */
     .modal {
@@ -309,7 +310,7 @@
 
       <div class="recherche-zone">
         <input id="admin-search" class="search-admin" type="search"
-               placeholder="🔍  Retrouver un de mes articles…" aria-label="Retrouver un article">
+               placeholder="🔍  Rechercher un article par son nom (parmi tous les rayons)…" aria-label="Rechercher un article">
         <div id="resultats-recherche"></div>
       </div>
 

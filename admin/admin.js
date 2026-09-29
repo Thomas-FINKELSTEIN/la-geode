@@ -736,33 +736,79 @@
     contenu.innerHTML = '';
     if (state.univers === '__actus') renderActus(contenu);
     else renderUnivers(contenu);
+    // Si une recherche est en cours (ex. après une suppression), on la rafraîchit
+    // pour que la liste des résultats reste à jour ; sinon on rétablit la vue.
+    var champ = $('admin-search');
+    var q = champ ? champ.value.trim() : '';
+    if (q) renderRecherche(q); else rechercheActive(false);
   }
 
   /* ---------- Recherche ---------- */
+
+  // Nombre total d'articles, pour l'indication « … sur N articles ».
+  function nbArticlesTotal() {
+    var n = 0;
+    Object.keys(state.catalogue.themes).forEach(function (key) {
+      (state.catalogue.themes[key].familles || []).forEach(function (fam) { n += (fam.articles || []).length; });
+    });
+    return n;
+  }
+
+  // Pendant une recherche, on masque la vue « univers » pour ne montrer que
+  // les résultats (plus clair). Quand la recherche est vide, on la ré-affiche.
+  function rechercheActive(on) {
+    var choix = document.querySelector('.univers-choix');
+    if (choix) choix.style.display = on ? 'none' : '';
+    $('contenu').style.display = on ? 'none' : '';
+  }
+
+  var RECH_MAX = 80;
 
   function renderRecherche(q) {
     var box = $('resultats-recherche');
     box.innerHTML = '';
     var tokens = norm(q).split(/\s+/).filter(function (t) { return t.length >= 2; });
-    if (!tokens.length) return;
+    if (!tokens.length) { rechercheActive(false); return; }
+    rechercheActive(true);
+
+    var qJoin = tokens.join(' ');
     var resultats = [];
     Object.keys(state.catalogue.themes).forEach(function (key) {
       var theme = state.catalogue.themes[key];
       (theme.familles || []).forEach(function (fam) {
         (fam.articles || []).forEach(function (art) {
-          var hay = norm(art.nom + ' ' + (art.description || '') + ' ' + fam.nom + ' ' + theme.nom);
-          var t = tokens.filter(function (x) { return hay.indexOf(x) !== -1; }).length;
-          if (t > 0) resultats.push({ art: art, fam: fam, ctx: theme.nom + ' › ' + fam.nom, score: t });
+          var nomN = norm(art.nom);
+          var hay = nomN + ' ' + norm(fam.nom) + ' ' + norm(theme.nom) + ' ' + norm(art.description || '');
+          // Recherche précise : TOUS les mots tapés doivent être présents.
+          if (!tokens.every(function (x) { return hay.indexOf(x) !== -1; })) return;
+          // Score : on remonte les correspondances dans le nom (les plus utiles).
+          var score = 0;
+          if (nomN === qJoin) score += 1000;
+          else if (nomN.indexOf(qJoin) === 0) score += 500;
+          else if (nomN.indexOf(qJoin) !== -1) score += 200;
+          tokens.forEach(function (x) { if (nomN.indexOf(x) !== -1) score += 20; });
+          resultats.push({ art: art, fam: fam, ctx: theme.nom + ' › ' + fam.nom, score: score, len: nomN.length });
         });
       });
     });
-    resultats.sort(function (a, b) { return b.score - a.score; });
+    resultats.sort(function (a, b) { return b.score - a.score || a.len - b.len; });
+
     var carte = document.createElement('div');
     carte.className = 'rayon';
-    carte.innerHTML = '<div class="rayon-tete"><h3>Résultats (' + resultats.length + ')</h3></div>';
-    resultats.slice(0, 40).forEach(function (r) { carte.appendChild(articleRow(r.fam, r.art, r.ctx)); });
+    var titre = resultats.length
+      ? resultats.length + ' résultat' + (resultats.length > 1 ? 's' : '') + ' sur ' + nbArticlesTotal() + ' articles'
+      : 'Aucun résultat';
+    carte.innerHTML = '<div class="rayon-tete"><div><div class="etiq">Recherche</div><h3>' + esc(titre) + '</h3></div></div>';
+    resultats.slice(0, RECH_MAX).forEach(function (r) { carte.appendChild(articleRow(r.fam, r.art, r.ctx)); });
+    if (resultats.length > RECH_MAX) {
+      var plus = document.createElement('div');
+      plus.className = 'rayon-vide';
+      plus.textContent = 'Affichage des ' + RECH_MAX + ' premiers · ajoutez un mot pour affiner.';
+      carte.appendChild(plus);
+    }
     if (!resultats.length) {
-      var v = document.createElement('div'); v.className = 'rayon-vide'; v.textContent = 'Aucun article ne correspond.';
+      var v = document.createElement('div'); v.className = 'rayon-vide';
+      v.textContent = 'Aucun article ne correspond à « ' + q + ' ». Essayez avec moins de mots, ou vérifiez l\'orthographe.';
       carte.appendChild(v);
     }
     box.appendChild(carte);
@@ -1159,11 +1205,18 @@
   };
 
   var searchTimer = null;
-  $('admin-search').addEventListener('input', function () {
+  var champRech = $('admin-search');
+  champRech.addEventListener('input', function () {
     clearTimeout(searchTimer);
-    var q = $('admin-search').value.trim();
-    searchTimer = setTimeout(function () { renderRecherche(q); }, 150);
+    var q = champRech.value.trim();
+    searchTimer = setTimeout(function () { renderRecherche(q); }, 120);
   });
+  // Échap vide la recherche et revient à la vue normale.
+  champRech.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') { champRech.value = ''; renderRecherche(''); champRech.blur(); }
+  });
+  // Croix native du champ « type=search » : rafraîchir quand on efface.
+  champRech.addEventListener('search', function () { renderRecherche(champRech.value.trim()); });
 
   window.addEventListener('beforeunload', function (ev) { if (state.nbModifs) { ev.preventDefault(); ev.returnValue = ''; } });
 

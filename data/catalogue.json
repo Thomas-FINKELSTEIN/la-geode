@@ -15150,7 +15150,17 @@
               "description": "Ce triangle en forme de pyramide est un outil puissant pour favoriser l'élévation spirituelle et l'équilibre énergétique. Selon la lithothérapie, il est souvent utilisé pour amplifier les intentions positives et renforcer la connexion avec son être intérieur. Idéal pour méditer ou placer dans un espace dédié à la sérénité, il aide à clarifier les pensées et à harmoniser les émotions.",
               "photo": "images/articles/triangle-d4-elevation-spirituelle-mumbdugndfny.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLc3XGS4XTH8uc",
+              "stripeMode": "live",
+              "stripeNom": "Triangle d4 élévation spirituelle",
+              "stripeDesc": "Ce triangle en forme de pyramide est un outil puissant pour favoriser l'élévation spirituelle et l'équilibre énergétique. Selon la lithothérapie, il est souvent utilisé pour amplifier les intentions positives et renforcer la connexion avec son être intérieur. Idéal pour méditer ou placer dans un espace dédié à la sérénité, il aide à clarifier les pensées et à harmoniser les émotions.",
+              "stripePriceId": "price_1UKupbLOfCA5mATulaSjjvqq",
+              "stripePrix": 31.17,
+              "stripeLinkId": "plink_1UKupbLOfCA5mATu24b4i2ie",
+              "stripe": "https://buy.stripe.com/cNi3cw3RMgAd8MEeO528l2v",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

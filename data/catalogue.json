@@ -8999,17 +8999,7 @@
               "description": "Ce bracelet en grosses perles de vquartz rose apporte douceur et sérénité au quotidien. Associé traditionnellement à l'ouverture du cœur et à l'équilibre émotionnel, il favorise la compassion et la connexion à soi-même. Parfait pour porter au poignet ou à la cheville, il diffuse une énergie apaisante et bienveillante.",
               "photo": "images/articles/collier-grosse-perle-vquartz-rose-mumal4cx2tol.jpg",
               "prixBoutique": 29.95,
-              "stock": 3,
-              "stripeProductId": "prod_VLbnnv4IGY1PtL",
-              "stripeMode": "live",
-              "stripeNom": "Collier grosse perle vquartz rose",
-              "stripeDesc": "Ce bracelet en grosses perles de vquartz rose apporte douceur et sérénité au quotidien. Associé traditionnellement à l'ouverture du cœur et à l'équilibre émotionnel, il favorise la compassion et la connexion à soi-même. Parfait pour porter au poignet ou à la cheville, il diffuse une énergie apaisante et bienveillante.",
-              "stripePriceId": "price_1UKua3LOfCA5mATuAviiAybS",
-              "stripePrix": 31.22,
-              "stripeLinkId": "plink_1UKua3LOfCA5mATuZKgzFVap",
-              "stripe": "https://buy.stripe.com/4gMcN6fAu1Fje6Y6hz28l2i",
-              "stripeStock": 3,
-              "epuise": false
+              "stock": 3
             },
             {
               "id": "collier-en-calcite-jaune-14-mm-mumat53k2dxy",
@@ -9018,17 +9008,7 @@
               "description": "Ce collier en calcite jaune est composé de perles rondes et lumineuses, parfait pour apporter une touche d'énergie positive et de douceur dans votre quotidien. La calcite jaune est souvent associée à la joie, à la clarté mentale et à l'harmonisation des émotions, aidant à éclaircir les pensées et à stimuler la créativité. Idéal pour une utilisation en lithothérapie ou simplement comme accessoire élégant et bienveillant.",
               "photo": "images/articles/collier-en-calcite-jaune-14-mm-mumat53k7udn.jpg",
               "prixBoutique": 29.95,
-              "stock": 1,
-              "stripeProductId": "prod_VLbnJWJjS6NsVJ",
-              "stripeMode": "live",
-              "stripeNom": "Collier en calcite jaune 14 mm",
-              "stripeDesc": "Ce collier en calcite jaune est composé de perles rondes et lumineuses, parfait pour apporter une touche d'énergie positive et de douceur dans votre quotidien. La calcite jaune est souvent associée à la joie, à la clarté mentale et à l'harmonisation des émotions, aidant à éclaircir les pensées et à stimuler la créativité. Idéal pour une utilisation en lithothérapie ou simplement comme accessoire élégant et bienveillant.",
-              "stripePriceId": "price_1UKua3LOfCA5mATuhVltC7lE",
-              "stripePrix": 31.22,
-              "stripeLinkId": "plink_1UKua3LOfCA5mATuaBkrYF7g",
-              "stripe": "https://buy.stripe.com/14AfZi5ZU2Jn5As5dv28l2j",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },
@@ -15104,6 +15084,15 @@
               "stripeDesc": "Cette baguette de soin en cristal de roche est un outil puissant pour équilibrer les énergies et favoriser la clarté mentale. Utilisée en lithothérapie, elle aide à purifier l'espace et à renforcer la concentration. Parfaite pour les méditations ou les rituels de guérison, elle amplifie les intentions positives.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "boules-anti-stress-ying-yang-musicales-mumb25s7poid",
+              "nom": "Boules anti stress ying yang musicales",
+              "prix": 26,
+              "description": "Ces boules anti stress en forme de yin et yang sont des outils idéaux pour apaiser le mental et retrouver un équilibre émotionnel. Leur simple pression libère une douce mélodie relaxante, favorisant la concentration et réduisant le stress au quotidien. En lithothérapie, elles sont souvent utilisées pour harmoniser les énergies et stimuler la sérénité intérieure.",
+              "photo": "images/articles/boules-anti-stress-ying-yang-musicales-mumb25s72yeq.jpg",
+              "prixBoutique": 24.9,
+              "stock": 3
             }
           ]
         },

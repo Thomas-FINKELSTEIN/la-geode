@@ -20,25 +20,47 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Vérifier les stocks vendus
         run: node .github/scripts/stock-sync.js
         env:
           STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
 
+      # Publication robuste : si un autre commit arrive pendant le job, on
+      # superpose les changements de stock sur la toute dernière version et on
+      # réessaie le push jusqu'à réussir (voir reconcile-robot.js).
       - name: Publier les changements de stock
         run: |
-          if ! git diff --quiet data/catalogue.json; then
-            git config user.name "stock-sync[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add data/catalogue.json
-            git commit -m "Stock : mise à jour automatique (articles épuisés)"
-            git push
-          else
+          if git diff --quiet data/catalogue.json; then
             echo "Aucun changement de stock à publier."
+            exit 0
           fi
+          git config user.name "stock-sync[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          cp data/catalogue.json /tmp/robot.json
+          for tentative in 1 2 3 4 5; do
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            git show origin/main:data/catalogue.json > /tmp/base.json
+            node .github/scripts/reconcile-robot.js /tmp/robot.json /tmp/base.json data/catalogue.json
+            if git diff --quiet data/catalogue.json; then
+              echo "Déjà à jour sur la dernière version."
+              exit 0
+            fi
+            git add data/catalogue.json
+            git commit -q -m "Stock : mise à jour automatique (articles épuisés)"
+            if git push -q origin HEAD:main; then
+              echo "Publié (tentative $tentative)."
+              exit 0
+            fi
+            echo "Push rejeté (la branche a bougé), nouvelle tentative..."
+            git reset -q --hard origin/main
+            sleep $((RANDOM % 4 + 2))
+          done
+          echo "::error::Échec de la publication après plusieurs tentatives."
+          exit 1

@@ -21,11 +21,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Synchroniser le catalogue avec Stripe
         run: node .github/scripts/stripe-sync.js
@@ -33,14 +33,37 @@ jobs:
           STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
           SITE_URL: https://lageode66.fr
 
+      # Publication robuste : si un autre commit arrive pendant le job (la gérante
+      # qui publie, l'autre robot), on ne relance PAS Stripe (risque de doublons) :
+      # on superpose les liens calculés sur la toute dernière version, et on
+      # réessaie le push jusqu'à réussir.
       - name: Publier les liens de paiement
         run: |
-          if ! git diff --quiet data/catalogue.json; then
-            git config user.name "stripe-sync[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add data/catalogue.json
-            git commit -m "Stripe : liens de paiement mis à jour automatiquement"
-            git push
-          else
+          if git diff --quiet data/catalogue.json; then
             echo "Aucun changement à publier."
+            exit 0
           fi
+          git config user.name "stripe-sync[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          cp data/catalogue.json /tmp/robot.json
+          for tentative in 1 2 3 4 5; do
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            git show origin/main:data/catalogue.json > /tmp/base.json
+            node .github/scripts/reconcile-robot.js /tmp/robot.json /tmp/base.json data/catalogue.json
+            if git diff --quiet data/catalogue.json; then
+              echo "Déjà à jour sur la dernière version."
+              exit 0
+            fi
+            git add data/catalogue.json
+            git commit -q -m "Stripe : liens de paiement mis à jour automatiquement"
+            if git push -q origin HEAD:main; then
+              echo "Publié (tentative $tentative)."
+              exit 0
+            fi
+            echo "Push rejeté (la branche a bougé), nouvelle tentative..."
+            git reset -q --hard origin/main
+            sleep $((RANDOM % 4 + 2))
+          done
+          echo "::error::Échec de la publication après plusieurs tentatives."
+          exit 1

@@ -8999,7 +8999,17 @@
               "description": "Ce bracelet en grosses perles de vquartz rose apporte douceur et sérénité au quotidien. Associé traditionnellement à l'ouverture du cœur et à l'équilibre émotionnel, il favorise la compassion et la connexion à soi-même. Parfait pour porter au poignet ou à la cheville, il diffuse une énergie apaisante et bienveillante.",
               "photo": "images/articles/collier-grosse-perle-vquartz-rose-mumal4cx2tol.jpg",
               "prixBoutique": 29.95,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VLbwJpX2vSFvAB",
+              "stripeMode": "live",
+              "stripeNom": "Collier grosse perle vquartz rose",
+              "stripeDesc": "Ce bracelet en grosses perles de vquartz rose apporte douceur et sérénité au quotidien. Associé traditionnellement à l'ouverture du cœur et à l'équilibre émotionnel, il favorise la compassion et la connexion à soi-même. Parfait pour porter au poignet ou à la cheville, il diffuse une énergie apaisante et bienveillante.",
+              "stripePriceId": "price_1UKuimLOfCA5mATuis7qFUBv",
+              "stripePrix": 31.22,
+              "stripeLinkId": "plink_1UKuimLOfCA5mATup1o95qm5",
+              "stripe": "https://buy.stripe.com/8x24gAaga97L7IA6hz28l2r",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "collier-en-calcite-jaune-14-mm-mumat53k2dxy",
@@ -9008,7 +9018,17 @@
               "description": "Ce collier en calcite jaune est composé de perles rondes et lumineuses, parfait pour apporter une touche d'énergie positive et de douceur dans votre quotidien. La calcite jaune est souvent associée à la joie, à la clarté mentale et à l'harmonisation des émotions, aidant à éclaircir les pensées et à stimuler la créativité. Idéal pour une utilisation en lithothérapie ou simplement comme accessoire élégant et bienveillant.",
               "photo": "images/articles/collier-en-calcite-jaune-14-mm-mumat53k7udn.jpg",
               "prixBoutique": 29.95,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLbwMjzoEN4oll",
+              "stripeMode": "live",
+              "stripeNom": "Collier en calcite jaune 14 mm",
+              "stripeDesc": "Ce collier en calcite jaune est composé de perles rondes et lumineuses, parfait pour apporter une touche d'énergie positive et de douceur dans votre quotidien. La calcite jaune est souvent associée à la joie, à la clarté mentale et à l'harmonisation des émotions, aidant à éclaircir les pensées et à stimuler la créativité. Idéal pour une utilisation en lithothérapie ou simplement comme accessoire élégant et bienveillant.",
+              "stripePriceId": "price_1UKuinLOfCA5mATuGtNHos9e",
+              "stripePrix": 31.22,
+              "stripeLinkId": "plink_1UKuinLOfCA5mATugFD7dfIl",
+              "stripe": "https://buy.stripe.com/dRm3cw4VQabPfb25dv28l2s",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -15092,7 +15112,17 @@
               "description": "Ces boules anti stress en forme de yin et yang sont des outils idéaux pour apaiser le mental et retrouver un équilibre émotionnel. Leur simple pression libère une douce mélodie relaxante, favorisant la concentration et réduisant le stress au quotidien. En lithothérapie, elles sont souvent utilisées pour harmoniser les énergies et stimuler la sérénité intérieure.",
               "photo": "images/articles/boules-anti-stress-ying-yang-musicales-mumb25s72yeq.jpg",
               "prixBoutique": 24.9,
-              "stock": 3
+              "stock": 3,
+              "stripeProductId": "prod_VLbw9shT8CtIn5",
+              "stripeMode": "live",
+              "stripeNom": "Boules anti stress ying yang musicales",
+              "stripeDesc": "Ces boules anti stress en forme de yin et yang sont des outils idéaux pour apaiser le mental et retrouver un équilibre émotionnel. Leur simple pression libère une douce mélodie relaxante, favorisant la concentration et réduisant le stress au quotidien. En lithothérapie, elles sont souvent utilisées pour harmoniser les énergies et stimuler la sérénité intérieure.",
+              "stripePriceId": "price_1UKuinLOfCA5mATusnaReOsr",
+              "stripePrix": 26,
+              "stripeLinkId": "plink_1UKuioLOfCA5mATurPlPPRy4",
+              "stripe": "https://buy.stripe.com/eVq14o0FA1Fj1kc6hz28l2t",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "boules-anti-stress-ying-yang-mumb3vs7t3an",
@@ -15101,7 +15131,17 @@
               "description": "Ces boules en pierre naturelle aux motifs yin yang sont des outils apaisants pour le bien-être au quotidien. Selon la lithothérapie, elles aident à équilibrer les énergies et à favoriser la sérénité en stimulant la concentration et en apaisant les tensions émotionnelles. Parfaites pour masser les muscles ou simplement les garder en main pour un moment de détente.",
               "photo": "images/articles/boules-anti-stress-ying-yang-mumb3vs7mpv6.jpg",
               "prixBoutique": 24.9,
-              "stock": 1
+              "stock": 1,
+              "stripeProductId": "prod_VLbwJeFuZ70jRG",
+              "stripeMode": "live",
+              "stripeNom": "Boules anti stress ying yang musicales",
+              "stripeDesc": "Ces boules en pierre naturelle aux motifs yin yang sont des outils apaisants pour le bien-être au quotidien. Selon la lithothérapie, elles aident à équilibrer les énergies et à favoriser la sérénité en stimulant la concentration et en apaisant les tensions émotionnelles. Parfaites pour masser les muscles ou simplement les garder en main pour un moment de détente.",
+              "stripePriceId": "price_1UKuioLOfCA5mATu7BJLsVEg",
+              "stripePrix": 26,
+              "stripeLinkId": "plink_1UKuioLOfCA5mATuAWAG1RyU",
+              "stripe": "https://buy.stripe.com/9B65kE1JE83H6EweO528l2u",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

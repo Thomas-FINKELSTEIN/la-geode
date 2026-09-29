@@ -9029,6 +9029,15 @@
               "stripe": "https://buy.stripe.com/dRm3cw4VQabPfb25dv28l2s",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-malachite-6-cm-mumchksg3vj5",
+              "nom": "Pendentif malachite 6 cm",
+              "prix": 201.81,
+              "description": "Ce pendentif en malachite offre une belle teinte verte profonde et apaisante, idéale pour apporter harmonie et équilibre dans votre quotidien. La malachite est souvent associée à la protection, à la croissance personnelle et à la connexion avec la nature, favorisant ainsi la sérénité et la stabilité émotionnelle. Parfait pour être porté au quotidien, ce minéral attire aussi la chance et renforce la confiance en soi.",
+              "photo": "images/articles/pendentif-malachite-6-cm-mumchksg9rca.jpg",
+              "prixBoutique": 195,
+              "stock": 1
             }
           ]
         },
@@ -15150,17 +15159,7 @@
               "description": "Ce triangle en forme de pyramide est un outil puissant pour favoriser l'élévation spirituelle et l'équilibre énergétique. Selon la lithothérapie, il est souvent utilisé pour amplifier les intentions positives et renforcer la connexion avec son être intérieur. Idéal pour méditer ou placer dans un espace dédié à la sérénité, il aide à clarifier les pensées et à harmoniser les émotions.",
               "photo": "images/articles/triangle-d4-elevation-spirituelle-mumbdugndfny.jpg",
               "prixBoutique": 29.9,
-              "stock": 1,
-              "stripeProductId": "prod_VLc3XGS4XTH8uc",
-              "stripeMode": "live",
-              "stripeNom": "Triangle d4 élévation spirituelle",
-              "stripeDesc": "Ce triangle en forme de pyramide est un outil puissant pour favoriser l'élévation spirituelle et l'équilibre énergétique. Selon la lithothérapie, il est souvent utilisé pour amplifier les intentions positives et renforcer la connexion avec son être intérieur. Idéal pour méditer ou placer dans un espace dédié à la sérénité, il aide à clarifier les pensées et à harmoniser les émotions.",
-              "stripePriceId": "price_1UKupbLOfCA5mATulaSjjvqq",
-              "stripePrix": 31.17,
-              "stripeLinkId": "plink_1UKupbLOfCA5mATu24b4i2ie",
-              "stripe": "https://buy.stripe.com/cNi3cw3RMgAd8MEeO528l2v",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },

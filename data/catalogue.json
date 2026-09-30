@@ -10880,17 +10880,16 @@
               "description": "Ce pendentif en forme de goutte cerclée est taillé dans un quartz rose d'une douceur apaisante. Symbole d'amour inconditionnel et d'harmonie émotionnelle, cette pierre douce est souvent utilisée en lithothérapie pour favoriser la compassion, apaiser les tensions et ouvrir le cœur. Parfait pour porter au quotidien, il diffuse une énergie bienveillante et réconfortante.",
               "photo": "images/articles/pendentif-goutte-cerclee-quartz-rose-muo8aij5h9n2.jpg",
               "prixBoutique": 23,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/7sYcN673Y5Vzfb2axP28v1b",
-              "stripeProductId": "prod_VM7AsrCTkWCpHF",
-              "stripePriceId": "price_1ULOwTLOfCA5mATuPioS2LCF",
-              "stripeLinkId": "plink_1ULOwTLOfCA5mATu5HlWT67k",
-              "stripePrix": 24.04,
-              "stripeMode": "live",
-              "stripeNom": "Pendentif goutte cerclée quartz rose",
-              "stripeDesc": "Ce pendentif en forme de goutte cerclée est taillé dans un quartz rose d'une douceur apaisante. Symbole d'amour inconditionnel et d'harmonie émotionnelle, cette pierre douce est souvent utilisée en lithothérapie pour favoriser la compassion, apaiser les tensions et ouvrir le cœur. Parfait pour porter au quotidien, il diffuse une énergie bienveillante et réconfortante.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "pendentif-aigue-marine-cerclee-muo9kndrqpef",
+              "nom": "Pendentif aigue marine cerclée",
+              "prix": 90.19,
+              "description": "Ce pendentif en aigue marine cerclée est une pièce élégante et raffinée, parfaite pour sublimer vos tenues tout en bénéficiant de ses vertus apaisantes. L’aigue marine est souvent associée à la sérénité, aidant à calmer les émotions et à apaiser les tensions du quotidien. Elle favorise également une énergie de protection et de clarté mentale, idéale pour ceux qui cherchent à retrouver équilibre et harmonie.",
+              "photo": "images/articles/pendentif-aigue-marine-cerclee-muo9kndriqkv.jpg",
+              "prixBoutique": 87,
+              "stock": 1
             }
           ]
         },

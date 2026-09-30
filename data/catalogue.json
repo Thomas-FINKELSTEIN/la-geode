@@ -9968,7 +9968,17 @@
               "description": "Ce pendentif en chrysoprase, pierre au charme apaisant, est une véritable invitation au bien-être. Connue pour ses vertus harmonisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et équilibrer les émotions. Son éclat vert doux en fait aussi un accessoire élégant pour sublimer votre quotidien.",
               "photo": "images/articles/pendentif-chrysoprase-munqmd3djcyc.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6eVebkecjXbYQ5dv28q2H",
+              "stripeProductId": "prod_VLzCnohUVBvSvX",
+              "stripePriceId": "price_1ULHDfLOfCA5mATuYlugPcRS",
+              "stripeLinkId": "plink_1ULHDfLOfCA5mATuq7I1OwyB",
+              "stripePrix": 25.07,
+              "stripeMode": "live",
+              "stripeNom": "Pendentif chrysoprase",
+              "stripeDesc": "Ce pendentif en chrysoprase, pierre au charme apaisant, est une véritable invitation au bien-être. Connue pour ses vertus harmonisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et équilibrer les émotions. Son éclat vert doux en fait aussi un accessoire élégant pour sublimer votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

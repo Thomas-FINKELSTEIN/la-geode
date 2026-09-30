@@ -10804,17 +10804,7 @@
               "description": "La cornaline est une pierre précieuse au charme ensoleillé, souvent associée à la vitalité et à la joie de vivre. En lithothérapie, elle est réputée pour renforcer la confiance en soi et stimuler l'énergie positive, aidant ainsi à surmonter les doutes et à retrouver motivation et dynamisme. Son éclat chaud et sa douceur en font aussi un talisman idéal pour apaiser les émotions et favoriser un équilibre intérieur.",
               "photo": "images/articles/pendentif-cornaline-muo85dz641jk.jpg",
               "prixBoutique": 21,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/fZu3cw9c61Fj1kc8pH28v14",
-              "stripeProductId": "prod_VM78VkKYc6Mc3W",
-              "stripePriceId": "price_1ULOuRLOfCA5mATuipqTrC3p",
-              "stripeLinkId": "plink_1ULOuRLOfCA5mATuyIMzNDQb",
-              "stripePrix": 21.97,
-              "stripeMode": "live",
-              "stripeNom": "Pendentif cornaline",
-              "stripeDesc": "La cornaline est une pierre précieuse au charme ensoleillé, souvent associée à la vitalité et à la joie de vivre. En lithothérapie, elle est réputée pour renforcer la confiance en soi et stimuler l'énergie positive, aidant ainsi à surmonter les doutes et à retrouver motivation et dynamisme. Son éclat chaud et sa douceur en font aussi un talisman idéal pour apaiser les émotions et favoriser un équilibre intérieur.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-cornaline-muo86km19mtq",
@@ -10823,17 +10813,7 @@
               "description": "Ce pendentif en cornaline est un objet lumineux et vibrant, parfait pour apporter énergie et vitalité au quotidien. Associée traditionnellement à la passion et à la motivation, cette pierre rouge est souvent utilisée pour renforcer la confiance en soi et stimuler les émotions positives. Idéal pour être porté près du cœur, il est aussi apprécié pour ses propriétés protectrices et dynamisantes.",
               "photo": "images/articles/pendentif-cornaline-muo86km1rl9y.jpg",
               "prixBoutique": 32,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/3cI00k1JE6ZDfb249r28v15",
-              "stripeProductId": "prod_VM78I0CVMIxpX8",
-              "stripePriceId": "price_1ULOuRLOfCA5mATuwutAZQ5Q",
-              "stripeLinkId": "plink_1ULOuSLOfCA5mATuiCVLANwL",
-              "stripePrix": 33.34,
-              "stripeMode": "live",
-              "stripeNom": "Pendentif cornaline",
-              "stripeDesc": "Ce pendentif en cornaline est un objet lumineux et vibrant, parfait pour apporter énergie et vitalité au quotidien. Associée traditionnellement à la passion et à la motivation, cette pierre rouge est souvent utilisée pour renforcer la confiance en soi et stimuler les émotions positives. Idéal pour être porté près du cœur, il est aussi apprécié pour ses propriétés protectrices et dynamisantes.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-jaspe-cartographiee-muo881bmwtg4",
@@ -10842,17 +10822,16 @@
               "description": "Ce pendentif en jaspe cartographiée est une pièce unique aux motifs tourbillonnants et apaisants, rappelant les paysages terrestres et les flux énergétiques de la nature. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel, la stabilité et la connexion à la Terre, aidant à ancrer les énergies et à apaiser le mental. Parfait pour une utilisation quotidienne, il peut être porté comme un talisman pour favoriser la sérénité et renforcer la confiance en soi.",
               "photo": "images/articles/pendentif-jaspe-cartographiee-muo881bm0pf3.jpg",
               "prixBoutique": 19.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/cNi14o2NI2JnaUM9tL28v16",
-              "stripeProductId": "prod_VM78sAkUj0O1JE",
-              "stripePriceId": "price_1ULOuSLOfCA5mATuIUIV7zem",
-              "stripeLinkId": "plink_1ULOuSLOfCA5mATud35bfZx1",
-              "stripePrix": 20.83,
-              "stripeMode": "live",
-              "stripeNom": "Pendentif jaspe cartographiée",
-              "stripeDesc": "Ce pendentif en jaspe cartographiée est une pièce unique aux motifs tourbillonnants et apaisants, rappelant les paysages terrestres et les flux énergétiques de la nature. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel, la stabilité et la connexion à la Terre, aidant à ancrer les énergies et à apaiser le mental. Parfait pour une utilisation quotidienne, il peut être porté comme un talisman pour favoriser la sérénité et renforcer la confiance en soi.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "pendentif-citrine-cerclee-muo89ee9dhhr",
+              "nom": "Pendentif citrine cerclée",
+              "prix": 25.07,
+              "description": "Ce pendentif en citrine cerclée est une pièce élégante et lumineuse qui capte la douceur des rayons du soleil. La citrine est souvent associée à la joie, à la vitalité et à l'abondance, aidant à éclaircir les énergies et à apporter une touche de positivité au quotidien. Parfait pour être porté en collier, il diffuse une énergie chaleureuse et apaisante, idéale pour renforcer la confiance en soi et attirer la prospérité.",
+              "photo": "images/articles/pendentif-citrine-cerclee-muo89ee910ul.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

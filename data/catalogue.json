@@ -10804,17 +10804,16 @@
               "description": "La cornaline est une pierre précieuse au charme ensoleillé, souvent associée à la vitalité et à la joie de vivre. En lithothérapie, elle est réputée pour renforcer la confiance en soi et stimuler l'énergie positive, aidant ainsi à surmonter les doutes et à retrouver motivation et dynamisme. Son éclat chaud et sa douceur en font aussi un talisman idéal pour apaiser les émotions et favoriser un équilibre intérieur.",
               "photo": "images/articles/pendentif-cornaline-muo85dz641jk.jpg",
               "prixBoutique": 21,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/14A9AU2NIcjX7IA5dv28v11",
-              "stripeProductId": "prod_VM76IQmKI3Y2ua",
-              "stripePriceId": "price_1ULOsbLOfCA5mATulxfgEAbv",
-              "stripeLinkId": "plink_1ULOsbLOfCA5mATuOQv8rgXN",
-              "stripePrix": 21.97,
-              "stripeMode": "live",
-              "stripeNom": "Pendentif cornaline",
-              "stripeDesc": "La cornaline est une pierre précieuse au charme ensoleillé, souvent associée à la vitalité et à la joie de vivre. En lithothérapie, elle est réputée pour renforcer la confiance en soi et stimuler l'énergie positive, aidant ainsi à surmonter les doutes et à retrouver motivation et dynamisme. Son éclat chaud et sa douceur en font aussi un talisman idéal pour apaiser les émotions et favoriser un équilibre intérieur.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "pendentif-cornaline-muo86km19mtq",
+              "nom": "Pendentif cornaline",
+              "prix": 33.34,
+              "description": "Ce pendentif en cornaline est un objet lumineux et vibrant, parfait pour apporter énergie et vitalité au quotidien. Associée traditionnellement à la passion et à la motivation, cette pierre rouge est souvent utilisée pour renforcer la confiance en soi et stimuler les émotions positives. Idéal pour être porté près du cœur, il est aussi apprécié pour ses propriétés protectrices et dynamisantes.",
+              "photo": "images/articles/pendentif-cornaline-muo86km1rl9y.jpg",
+              "prixBoutique": 32,
+              "stock": 1
             }
           ]
         },

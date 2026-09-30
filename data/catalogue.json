@@ -9960,6 +9960,15 @@
               "stripeDesc": "Ce pendentif en jaspe héliotrope allie les énergies apaisantes du jaspe et la vitalité du héliotrope, créant un équilibre parfait pour le bien-être émotionnel. Porté au quotidien, il est souvent utilisé pour renforcer la confiance en soi et favoriser une connexion harmonieuse avec la nature. Ses motifs organiques et ses couleurs douces en font un allié idéal pour apaiser le mental et stimuler la créativité.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pendentif-chrysoprase-munqmd3dnek8",
+              "nom": "Pendentif chrysoprase",
+              "prix": 25.07,
+              "description": "Ce pendentif en chrysoprase, pierre au charme apaisant, est une véritable invitation au bien-être. Connue pour ses vertus harmonisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et équilibrer les émotions. Son éclat vert doux en fait aussi un accessoire élégant pour sublimer votre quotidien.",
+              "photo": "images/articles/pendentif-chrysoprase-munqmd3djcyc.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },
@@ -11314,25 +11323,6 @@
               "stripeMode": "live",
               "stripeNom": "Bracelet chrysoprase 10 mm",
               "stripeDesc": "Ce bracelet en chrysoprase est un accessoire naturel et élégant qui apporte une touche de douceur à votre quotidien. La chrysoprase, pierre de croissance et de vitalité, est souvent utilisée en lithothérapie pour renforcer la confiance en soi et apaiser les émotions. Ses teintes vertes apaisantes en font un allié idéal pour harmoniser le cœur et l’esprit.",
-              "stripeStock": 1,
-              "epuise": false
-            },
-            {
-              "id": "bracelet-grenat-vert-6-mm-mtiv5qsexkh1",
-              "nom": "Bracelet grenat vert 6 mm",
-              "prix": 17.73,
-              "description": "",
-              "photo": "images/articles/bracelet-grenat-vert-6-mm-mtiv5qseag4x.jpg",
-              "prixBoutique": 16.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/7sY4gA9c66ZD5As8pH2883e",
-              "stripeProductId": "prod_VBGoH9olIHhxUJ",
-              "stripePriceId": "price_1UAuGuLOfCA5mATuz1WOoiPi",
-              "stripeLinkId": "plink_1UAuGuLOfCA5mATud1OeJhXJ",
-              "stripePrix": 17.73,
-              "stripeMode": "live",
-              "stripeNom": "Bracelet grenat vert 6 mm",
-              "stripeDesc": "",
               "stripeStock": 1,
               "epuise": false
             },
@@ -17079,25 +17069,6 @@
               "stripePrix": 16.28,
               "stripeLinkId": "plink_1UJyE3LOfCA5mATuHVCx7kvJ",
               "stripe": "https://buy.stripe.com/cNicN63RM97L7IA35n28l29",
-              "stripeStock": 1,
-              "epuise": false
-            },
-            {
-              "id": "support-en-bois-mumwmwf9ck0v",
-              "nom": "Support en bois",
-              "prix": 16.28,
-              "description": "Support en bois pour sphère moyenne",
-              "photo": "images/articles/support-en-bois-mumwmwf9t2kc.jpg",
-              "prixBoutique": 15.5,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/7sY28scoi83Hgf6gWd28q2G",
-              "stripeProductId": "prod_VLlfMXooyc5wEu",
-              "stripePriceId": "price_1UL47qLOfCA5mATusnhNOnMe",
-              "stripeLinkId": "plink_1UL47qLOfCA5mATuKuAyHIGl",
-              "stripePrix": 16.28,
-              "stripeMode": "live",
-              "stripeNom": "Support en bois",
-              "stripeDesc": "Support en bois pour sphère moyenne",
               "stripeStock": 1,
               "epuise": false
             }

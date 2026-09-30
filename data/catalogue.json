@@ -10880,17 +10880,7 @@
               "description": "Ce pendentif en forme de goutte cerclée est taillé dans un quartz rose d'une douceur apaisante. Symbole d'amour inconditionnel et d'harmonie émotionnelle, cette pierre douce est souvent utilisée en lithothérapie pour favoriser la compassion, apaiser les tensions et ouvrir le cœur. Parfait pour porter au quotidien, il diffuse une énergie bienveillante et réconfortante.",
               "photo": "images/articles/pendentif-goutte-cerclee-quartz-rose-muo8aij5h9n2.jpg",
               "prixBoutique": 23,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/fZueVefAu3Nr2oggWd28v1e",
-              "stripeProductId": "prod_VM7mcBJotsHkBs",
-              "stripePriceId": "price_1ULPX8LOfCA5mATu2HAofFbw",
-              "stripeLinkId": "plink_1ULPX8LOfCA5mATu3ZAPDvUg",
-              "stripePrix": 24.04,
-              "stripeMode": "live",
-              "stripeNom": "Pendentif goutte cerclée quartz rose",
-              "stripeDesc": "Ce pendentif en forme de goutte cerclée est taillé dans un quartz rose d'une douceur apaisante. Symbole d'amour inconditionnel et d'harmonie émotionnelle, cette pierre douce est souvent utilisée en lithothérapie pour favoriser la compassion, apaiser les tensions et ouvrir le cœur. Parfait pour porter au quotidien, il diffuse une énergie bienveillante et réconfortante.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-aigue-marine-cerclee-muo9kndrqpef",
@@ -10899,17 +10889,7 @@
               "description": "Ce pendentif en aigue marine cerclée est une pièce élégante et raffinée, parfaite pour sublimer vos tenues tout en bénéficiant de ses vertus apaisantes. L’aigue marine est souvent associée à la sérénité, aidant à calmer les émotions et à apaiser les tensions du quotidien. Elle favorise également une énergie de protection et de clarté mentale, idéale pour ceux qui cherchent à retrouver équilibre et harmonie.",
               "photo": "images/articles/pendentif-aigue-marine-cerclee-muo9kndriqkv.jpg",
               "prixBoutique": 87,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/8x200k9c6cjX6EwgWd28v1f",
-              "stripeProductId": "prod_VM7mYvQJxsnbPx",
-              "stripePriceId": "price_1ULPX9LOfCA5mATu525XWnIN",
-              "stripeLinkId": "plink_1ULPX9LOfCA5mATuYfXMizHS",
-              "stripePrix": 90.19,
-              "stripeMode": "live",
-              "stripeNom": "Pendentif aigue marine cerclée",
-              "stripeDesc": "Ce pendentif en aigue marine cerclée est une pièce élégante et raffinée, parfaite pour sublimer vos tenues tout en bénéficiant de ses vertus apaisantes. L’aigue marine est souvent associée à la sérénité, aidant à calmer les émotions et à apaiser les tensions du quotidien. Elle favorise également une énergie de protection et de clarté mentale, idéale pour ceux qui cherchent à retrouver équilibre et harmonie.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-aigue-marine-muo9nhj4zx4d",
@@ -10918,17 +10898,16 @@
               "description": "Ce pendentif en aigue marine est une pierre aux reflets bleutés apaisants, souvent associée à la sérénité et à la clarté mentale. En lithothérapie, elle est réputée pour favoriser la communication et apaiser les émotions. Parfaite pour un usage quotidien, elle peut être portée en collier ou utilisée en méditation pour retrouver calme et équilibre.",
               "photo": "images/articles/pendentif-aigue-marine-muo9nhj40sjw.jpg",
               "prixBoutique": 54,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/6oUdRadsm5Vzd2U6hz28v1g",
-              "stripeProductId": "prod_VM7mCqzGqRMBUO",
-              "stripePriceId": "price_1ULPX9LOfCA5mATuiafNlIlI",
-              "stripeLinkId": "plink_1ULPXALOfCA5mATuNtjhxfaA",
-              "stripePrix": 56.08,
-              "stripeMode": "live",
-              "stripeNom": "Pendentif aigue marine",
-              "stripeDesc": "Ce pendentif en aigue marine est une pierre aux reflets bleutés apaisants, souvent associée à la sérénité et à la clarté mentale. En lithothérapie, elle est réputée pour favoriser la communication et apaiser les émotions. Parfaite pour un usage quotidien, elle peut être portée en collier ou utilisée en méditation pour retrouver calme et équilibre.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "pendentif-unakite-muo9q634a701",
+              "nom": "Pendentif unakite",
+              "prix": 33.34,
+              "description": "Ce pendentif en unakite est une pierre aux couleurs harmonieuses et apaisantes, alliant des reflets verts, roses et bruns. En lithothérapie, elle est souvent associée à la douceur émotionnelle, aidant à apaiser les tensions et à favoriser un équilibre intérieur. Porté au quotidien, il est censé renforcer la connexion à soi-même et encourager une énergie positive et bienveillante.",
+              "photo": "images/articles/pendentif-unakite-muo9q634w2vh.jpg",
+              "prixBoutique": 32,
+              "stock": 1
             }
           ]
         },

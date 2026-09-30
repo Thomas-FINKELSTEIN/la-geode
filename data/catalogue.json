@@ -9968,17 +9968,7 @@
               "description": "Ce pendentif en chrysoprase, pierre au charme apaisant, est une véritable invitation au bien-être. Connue pour ses vertus harmonisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et équilibrer les émotions. Son éclat vert doux en fait aussi un accessoire élégant pour sublimer votre quotidien.",
               "photo": "images/articles/pendentif-chrysoprase-munqmd3djcyc.jpg",
               "prixBoutique": 24,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/aFa7sMfAu3Nr9QIgWd28q2I",
-              "stripeProductId": "prod_VLzDIj7S3yP3Sz",
-              "stripePriceId": "price_1ULHEtLOfCA5mATuXru1ftCo",
-              "stripeLinkId": "plink_1ULHEtLOfCA5mATutev7O6BQ",
-              "stripePrix": 25.07,
-              "stripeMode": "live",
-              "stripeNom": "Pendentif chrysoprase",
-              "stripeDesc": "Ce pendentif en chrysoprase, pierre au charme apaisant, est une véritable invitation au bien-être. Connue pour ses vertus harmonisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et équilibrer les émotions. Son éclat vert doux en fait aussi un accessoire élégant pour sublimer votre quotidien.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pendentif-opale-verte-munqnyzbbfxn",
@@ -9987,17 +9977,16 @@
               "description": "Ce pendentif en opale verte est une pièce unique aux reflets changeants et apaisants. L'opale verte est souvent associée à la sérénité, à la croissance personnelle et à l'équilibre émotionnel, aidant à apaiser les tensions du quotidien. Portée près du cœur, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une connexion profonde avec la nature.",
               "photo": "images/articles/pendentif-opale-verte-munqnyzbdf7i.jpg",
               "prixBoutique": 32,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/eVq14ogEydo10g8bBT28q2J",
-              "stripeProductId": "prod_VLzDyRr2XKepdk",
-              "stripePriceId": "price_1ULHEtLOfCA5mATuUGUC57As",
-              "stripeLinkId": "plink_1ULHEtLOfCA5mATuF17VLLhZ",
-              "stripePrix": 33.34,
-              "stripeMode": "live",
-              "stripeNom": "Pendentif opale verte",
-              "stripeDesc": "Ce pendentif en opale verte est une pièce unique aux reflets changeants et apaisants. L'opale verte est souvent associée à la sérénité, à la croissance personnelle et à l'équilibre émotionnel, aidant à apaiser les tensions du quotidien. Portée près du cœur, elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une connexion profonde avec la nature.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "pendentif-opale-verte-munqp0xjmd3k",
+              "nom": "Pendentif opale verte",
+              "prix": 33.34,
+              "description": "Ce pendentif en opale verte est une pierre aux reflets changeants et apaisants, idéale pour harmoniser les énergies. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité et apaiser les émotions, tout en stimulant la créativité. Parfaite à porter au quotidien, elle apporte une touche douce et mystérieuse à vos tenues.",
+              "photo": "images/articles/pendentif-opale-verte-munqp0xj4j17.jpg",
+              "prixBoutique": 32,
+              "stock": 1
             }
           ]
         },

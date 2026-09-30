@@ -10804,7 +10804,17 @@
               "description": "La cornaline est une pierre précieuse au charme ensoleillé, souvent associée à la vitalité et à la joie de vivre. En lithothérapie, elle est réputée pour renforcer la confiance en soi et stimuler l'énergie positive, aidant ainsi à surmonter les doutes et à retrouver motivation et dynamisme. Son éclat chaud et sa douceur en font aussi un talisman idéal pour apaiser les émotions et favoriser un équilibre intérieur.",
               "photo": "images/articles/pendentif-cornaline-muo85dz641jk.jpg",
               "prixBoutique": 21,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B600k1JEcjXd2UfS928v12",
+              "stripeProductId": "prod_VM77wOuH838kQi",
+              "stripePriceId": "price_1ULOtJLOfCA5mATuB5jcMYXu",
+              "stripeLinkId": "plink_1ULOtJLOfCA5mATuGJqQCVOy",
+              "stripePrix": 21.97,
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cornaline",
+              "stripeDesc": "La cornaline est une pierre précieuse au charme ensoleillé, souvent associée à la vitalité et à la joie de vivre. En lithothérapie, elle est réputée pour renforcer la confiance en soi et stimuler l'énergie positive, aidant ainsi à surmonter les doutes et à retrouver motivation et dynamisme. Son éclat chaud et sa douceur en font aussi un talisman idéal pour apaiser les émotions et favoriser un équilibre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pendentif-cornaline-muo86km19mtq",
@@ -10813,7 +10823,17 @@
               "description": "Ce pendentif en cornaline est un objet lumineux et vibrant, parfait pour apporter énergie et vitalité au quotidien. Associée traditionnellement à la passion et à la motivation, cette pierre rouge est souvent utilisée pour renforcer la confiance en soi et stimuler les émotions positives. Idéal pour être porté près du cœur, il est aussi apprécié pour ses propriétés protectrices et dynamisantes.",
               "photo": "images/articles/pendentif-cornaline-muo86km1rl9y.jpg",
               "prixBoutique": 32,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY4gAcoi5VzaUMaxP28v13",
+              "stripeProductId": "prod_VM77TR7CaQC9cx",
+              "stripePriceId": "price_1ULOtJLOfCA5mATu4OvtKJ8a",
+              "stripeLinkId": "plink_1ULOtKLOfCA5mATuhHglc9ZQ",
+              "stripePrix": 33.34,
+              "stripeMode": "live",
+              "stripeNom": "Pendentif cornaline",
+              "stripeDesc": "Ce pendentif en cornaline est un objet lumineux et vibrant, parfait pour apporter énergie et vitalité au quotidien. Associée traditionnellement à la passion et à la motivation, cette pierre rouge est souvent utilisée pour renforcer la confiance en soi et stimuler les émotions positives. Idéal pour être porté près du cœur, il est aussi apprécié pour ses propriétés protectrices et dynamisantes.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

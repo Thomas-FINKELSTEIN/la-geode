@@ -16772,17 +16772,7 @@
               "description": "Ces boucles d'oreilles en hématite allient élégance et bien-être. L'hématite est une pierre souvent utilisée en lithothérapie pour son pouvoir de stabilisation émotionnelle et son énergie apaisante, aidant à ancrer et à renforcer la confiance en soi. Parfaites pour un usage quotidien, elles apportent une touche naturelle et raffinée à votre tenue tout en favorisant l'équilibre énergétique.",
               "photo": "images/articles/boucles-d-oreilles-hematite-mup8xn70t4lj.jpg",
               "prixBoutique": 6,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/8x28wQ73YabPaUMdK128x2K",
-              "stripeProductId": "prod_VMNk1QeaX2egNn",
-              "stripePriceId": "price_1ULezKLOfCA5mATu1JcBJlVj",
-              "stripeLinkId": "plink_1ULezKLOfCA5mATu2Lkgxi85",
-              "stripePrix": 6.46,
-              "stripeMode": "live",
-              "stripeNom": "Boucles d'oreilles hématite",
-              "stripeDesc": "Ces boucles d'oreilles en hématite allient élégance et bien-être. L'hématite est une pierre souvent utilisée en lithothérapie pour son pouvoir de stabilisation émotionnelle et son énergie apaisante, aidant à ancrer et à renforcer la confiance en soi. Parfaites pour un usage quotidien, elles apportent une touche naturelle et raffinée à votre tenue tout en favorisant l'équilibre énergétique.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "boucles-d-oreilles-hematite-mup90qyjsjan",
@@ -16791,17 +16781,16 @@
               "description": "Ces boucles d'oreilles en hématite mettent en valeur la beauté naturelle de cette pierre aux reflets métalliques et profonds. L'hématite est souvent utilisée en lithothérapie pour renforcer la vitalité et ancrer l'énergie, aidant à apaiser les émotions et à favoriser un sentiment de stabilité intérieure. Parfaites pour un usage quotidien, elles apportent une touche élégante tout en diffusant une énergie protectrice et équilibrante.",
               "photo": "images/articles/boucles-d-oreilles-hematite-mup90qyjsrjc.jpg",
               "prixBoutique": 6,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/dRmcN6gEy3NrbYQeO528x2L",
-              "stripeProductId": "prod_VMNkjboeUuOdr5",
-              "stripePriceId": "price_1ULezLLOfCA5mATuNAvsPWe0",
-              "stripeLinkId": "plink_1ULezLLOfCA5mATuU5fj1hSE",
-              "stripePrix": 6.46,
-              "stripeMode": "live",
-              "stripeNom": "Boucles d'oreilles hématite",
-              "stripeDesc": "Ces boucles d'oreilles en hématite mettent en valeur la beauté naturelle de cette pierre aux reflets métalliques et profonds. L'hématite est souvent utilisée en lithothérapie pour renforcer la vitalité et ancrer l'énergie, aidant à apaiser les émotions et à favoriser un sentiment de stabilité intérieure. Parfaites pour un usage quotidien, elles apportent une touche élégante tout en diffusant une énergie protectrice et équilibrante.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "boucles-d-oreilles-citrine-onyx-mup93jbhq4uq",
+              "nom": "Boucles d'oreilles citrine onyx",
+              "prix": 6.46,
+              "description": "Ces boucles d'oreilles associant la douceur de la citrine et la profondeur de l'onyx sont un véritable symbole d'équilibre et de protection. La citrine, pierre de lumière et de joie, est souvent utilisée pour attirer la prospérité et renforcer la confiance en soi, tandis que l'onyx, pierre de stabilité, aide à ancrer les énergies et à apaiser les émotions. Parfaites pour un quotidien harmonieux, elles apportent une touche élégante tout en offrant un soutien subtil pour le bien-être mental et émotionnel.",
+              "photo": "images/articles/boucles-d-oreilles-citrine-onyx-mup93jbhf5si.jpg",
+              "prixBoutique": 6,
+              "stock": 1
             }
           ]
         }

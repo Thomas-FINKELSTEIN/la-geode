@@ -16772,17 +16772,16 @@
               "description": "Ces boucles d'oreilles en hématite allient élégance et bien-être. L'hématite est une pierre souvent utilisée en lithothérapie pour son pouvoir de stabilisation émotionnelle et son énergie apaisante, aidant à ancrer et à renforcer la confiance en soi. Parfaites pour un usage quotidien, elles apportent une touche naturelle et raffinée à votre tenue tout en favorisant l'équilibre énergétique.",
               "photo": "images/articles/boucles-d-oreilles-hematite-mup8xn70t4lj.jpg",
               "prixBoutique": 6,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/eVqbJ28821Fj3skgWd28x2J",
-              "stripeProductId": "prod_VMNielPFQN75Ox",
-              "stripePriceId": "price_1ULewvLOfCA5mATuOAXQYoK2",
-              "stripeLinkId": "plink_1ULewwLOfCA5mATuo3biByzo",
-              "stripePrix": 6.46,
-              "stripeMode": "live",
-              "stripeNom": "Boucles d'oreilles hématite",
-              "stripeDesc": "Ces boucles d'oreilles en hématite allient élégance et bien-être. L'hématite est une pierre souvent utilisée en lithothérapie pour son pouvoir de stabilisation émotionnelle et son énergie apaisante, aidant à ancrer et à renforcer la confiance en soi. Parfaites pour un usage quotidien, elles apportent une touche naturelle et raffinée à votre tenue tout en favorisant l'équilibre énergétique.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "boucles-d-oreilles-hematite-mup90qyjsjan",
+              "nom": "Boucles d'oreilles hématite",
+              "prix": 6.46,
+              "description": "Ces boucles d'oreilles en hématite mettent en valeur la beauté naturelle de cette pierre aux reflets métalliques et profonds. L'hématite est souvent utilisée en lithothérapie pour renforcer la vitalité et ancrer l'énergie, aidant à apaiser les émotions et à favoriser un sentiment de stabilité intérieure. Parfaites pour un usage quotidien, elles apportent une touche élégante tout en diffusant une énergie protectrice et équilibrante.",
+              "photo": "images/articles/boucles-d-oreilles-hematite-mup90qyjsrjc.jpg",
+              "prixBoutique": 6,
+              "stock": 1
             }
           ]
         }

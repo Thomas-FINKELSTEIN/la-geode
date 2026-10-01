@@ -16887,11 +16887,11 @@
               "photo": "images/articles/boucles-d-oreilles-quartz-rose-mup9e7rp77rw.jpg",
               "prixBoutique": 12,
               "stock": 1,
-              "stripe": "https://buy.stripe.com/3cIaEY5ZU97Le6YfS928x3K",
+              "stripe": "https://buy.stripe.com/5kQcN6ewqabPfb25dv28x3y",
               "stripeProductId": "prod_VMOIKcrxvsydhK",
-              "stripePriceId": "price_1ULfWWLOfCA5mATuWZvHRnLf",
-              "stripeLinkId": "plink_1ULfWWLOfCA5mATuycjn8hgb",
-              "stripePrix": 12.67,
+              "stripePriceId": "price_1ULfVwLOfCA5mATuxomy8Rtk",
+              "stripeLinkId": "plink_1ULfVxLOfCA5mATuu1dKG4o1",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Boucles d'oreilles quartz rose",
               "stripeDesc": "Ces boucles d'oreilles en quartz rose allient élégance et douceur pour sublimer votre style au quotidien. Le quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et l'harmonie dans les relations. Selon la lithothérapie, il aide aussi à apaiser les émotions et à cultiver la tendresse envers soi-même et les autres.",
@@ -16906,11 +16906,11 @@
               "photo": "images/articles/boucles-d-oreilles-jade-vert-mup9i2ebo7af.jpg",
               "prixBoutique": 12,
               "stock": 1,
-              "stripe": "https://buy.stripe.com/7sYaEY4VQfw95As35n28x3L",
+              "stripe": "https://buy.stripe.com/9B65kE9c697L4wo7lD28x3z",
               "stripeProductId": "prod_VMOIAXDvxNhMtR",
-              "stripePriceId": "price_1ULfWWLOfCA5mATuRPoBK0t7",
-              "stripeLinkId": "plink_1ULfWXLOfCA5mATuY3BNRc5O",
-              "stripePrix": 12.67,
+              "stripePriceId": "price_1ULfVxLOfCA5mATuN735FXIO",
+              "stripeLinkId": "plink_1ULfVxLOfCA5mATuTu0bvt1a",
+              "stripePrix": 6.46,
               "stripeMode": "live",
               "stripeNom": "Boucles d'oreilles jade vert",
               "stripeDesc": "Ces boucles d'oreilles en jade vert allient élégance et douceur. Le jade est souvent associé à l'harmonie, la chance et la protection, aidant à apaiser les émotions et à favoriser un équilibre intérieur. Portées au quotidien, elles apportent une touche naturelle et apaisante, tout en invitant à une énergie positive et sereine.",
@@ -16935,6 +16935,15 @@
               "stripeDesc": "Ces boucles d'oreilles en grenat apportent une touche élégante et puissante à votre tenue. Le grenat est souvent associé à l'énergie vitale, à la passion et à la motivation, aidant à renforcer la confiance en soi et à stimuler les émotions positives. En lithothérapie, cette pierre est aussi utilisée pour équilibrer les chakras et favoriser un sentiment de sécurité intérieure.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "boucles-d-oreilles-cerclee-lapis-lazuli-mupam6lfjpcf",
+              "nom": "Boucles d'oreilles cerclée lapis lazuli",
+              "prix": 12.67,
+              "description": "Ces boucles d'oreilles élégantes mettent en valeur le lapis-lazuli, une pierre précieuse aux reflets profonds et mystérieux. En lithothérapie, le lapis-lazuli est souvent associé à la sagesse, à la communication apaisée et à l’ouverture du troisième œil, favorisant ainsi la clarté mentale et la confiance en soi. Parfaites pour un quotidien équilibré, elles apportent une touche de sérénité et de spiritualité à votre style.",
+              "photo": "images/articles/boucles-d-oreilles-cerclee-lapis-lazuli-mupam6lfsd36.jpg",
+              "prixBoutique": 12,
+              "stock": 1
             }
           ]
         }

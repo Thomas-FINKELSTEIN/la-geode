@@ -19535,17 +19535,16 @@
               "description": "Petite fiole or natif",
               "photo": "images/articles/petite-fiole-avec-feuilles-d-or-muqlmu6wxyop.jpg",
               "prixBoutique": 9.9,
-              "stock": 17,
-              "stripe": "https://buy.stripe.com/dRm3cw0FA6ZD5AseO528B1K",
-              "stripeProductId": "prod_VMjhXPOhbv7wD4",
-              "stripePriceId": "price_1UM0EFLOfCA5mATuXiXsHp9t",
-              "stripeLinkId": "plink_1UM0EFLOfCA5mATu8AB6LPu8",
-              "stripePrix": 10.5,
-              "stripeMode": "live",
-              "stripeNom": "Petite fiole avec feuilles d'or",
-              "stripeDesc": "Petite fiole or natif",
-              "stripeStock": 17,
-              "epuise": false
+              "stock": 17
+            },
+            {
+              "id": "or-natif-grand-modele-muqlsnxrji9j",
+              "nom": "Or natif grand modèle",
+              "prix": 29.1,
+              "description": "Or natif",
+              "photo": "images/articles/or-natif-grand-modele-muqlsnxrd7yy.jpg",
+              "prixBoutique": 27.9,
+              "stock": 4
             }
           ]
         }

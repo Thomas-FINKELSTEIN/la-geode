@@ -19471,7 +19471,17 @@
               "description": "Grande lampe de sel 50 cm sur 40 cm, La lampe de sel envoi des ions négatifs très positives sur notre corps, permet un très bon sommeil, bon pour diminuer les maux de crâne, anti-stress.",
               "photo": "images/articles/lampe-de-sel-grande-taille-muqn0u44li0y.jpg",
               "prixBoutique": 172.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRmbJ28824Rv4wodK128B1U",
+              "stripeProductId": "prod_VMkbYdFqvyTnO6",
+              "stripePriceId": "price_1UM15tLOfCA5mATu6RScMjOq",
+              "stripeLinkId": "plink_1UM15uLOfCA5mATum2RL3MKx",
+              "stripePrix": 178.56,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de sel grande taille",
+              "stripeDesc": "Grande lampe de sel 50 cm sur 40 cm, La lampe de sel envoi des ions négatifs très positives sur notre corps, permet un très bon sommeil, bon pour diminuer les maux de crâne, anti-stress.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "lampe-de-sel-grande-taille-muqnm3gc2xcz",
@@ -19480,7 +19490,17 @@
               "description": "Lampe de sel 55 cm sur 30 cm, la lampe de sel envoie des ions négatifs bénéfiques pour notre corps, on ressent de l'apaisement , le stress diminue, soulage aussi les migraines, et favorise l'endormissement pour avoir un profond sommeil par la suite,",
               "photo": "images/articles/lampe-de-sel-grande-taille-muqnm3gcwne9.jpg",
               "prixBoutique": 172.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe6oIgEy3Nre6YcFX28B1V",
+              "stripeProductId": "prod_VMkbRPHJmBrmIZ",
+              "stripePriceId": "price_1UM15uLOfCA5mATuxY6Fyp8K",
+              "stripeLinkId": "plink_1UM15uLOfCA5mATuQykt1Mnx",
+              "stripePrix": 178.56,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de sel grande taille",
+              "stripeDesc": "Lampe de sel 55 cm sur 30 cm, la lampe de sel envoie des ions négatifs bénéfiques pour notre corps, on ressent de l'apaisement , le stress diminue, soulage aussi les migraines, et favorise l'endormissement pour avoir un profond sommeil par la suite,",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -19554,7 +19574,17 @@
               "description": "Petite fiole or natif",
               "photo": "images/articles/petite-fiole-avec-feuilles-d-or-muqlmu6wxyop.jpg",
               "prixBoutique": 9.9,
-              "stock": 17
+              "stock": 17,
+              "stripe": "https://buy.stripe.com/8x23cw73Y0Bf2oggWd28B1W",
+              "stripeProductId": "prod_VMkbxdVkir24KP",
+              "stripePriceId": "price_1UM15vLOfCA5mATuIBZYy53N",
+              "stripeLinkId": "plink_1UM15vLOfCA5mATub9uWl0eE",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Petite fiole avec feuilles d'or",
+              "stripeDesc": "Petite fiole or natif",
+              "stripeStock": 17,
+              "epuise": false
             },
             {
               "id": "or-natif-grand-modele-muqlsnxrji9j",
@@ -19563,7 +19593,17 @@
               "description": "Or natif",
               "photo": "images/articles/or-natif-grand-modele-muqlsnxrd7yy.jpg",
               "prixBoutique": 27.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/6oU6oI1JEes57IAcFX28B1X",
+              "stripeProductId": "prod_VMkbmpb3NtpFtQ",
+              "stripePriceId": "price_1UM15vLOfCA5mATubBXyJdex",
+              "stripeLinkId": "plink_1UM15vLOfCA5mATuiDQfHgDo",
+              "stripePrix": 29.1,
+              "stripeMode": "live",
+              "stripeNom": "Or natif grand modèle",
+              "stripeDesc": "Or natif",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "amphore-d-or-muqlv9h2lkxh",
@@ -19572,7 +19612,17 @@
               "description": "Amphore d'or",
               "photo": "images/articles/amphore-d-or-muqlv9h2so1l.jpg",
               "prixBoutique": 17.7,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/3cI3cw2NIfw90g85dv28B1Y",
+              "stripeProductId": "prod_VMkbTCBAw1sV3s",
+              "stripePriceId": "price_1UM15wLOfCA5mATuVbIL9JXw",
+              "stripeLinkId": "plink_1UM15wLOfCA5mATuz0vGgnln",
+              "stripePrix": 18.56,
+              "stripeMode": "live",
+              "stripeNom": "Amphore d'or",
+              "stripeDesc": "Amphore d'or",
+              "stripeStock": 11,
+              "epuise": false
             }
           ]
         }

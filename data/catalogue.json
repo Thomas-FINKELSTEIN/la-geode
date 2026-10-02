@@ -381,15 +381,15 @@
               "photo": "images/articles/petite-en-amethyste-croix-mu2ffbgpmxf3.jpg",
               "prixBoutique": 2,
               "stock": 1,
-              "stripe": "https://buy.stripe.com/aFafZi3RMabP8ME0Xf28v0f",
+              "stripe": "https://buy.stripe.com/aFa5kEgEy6ZD0g8cFX28F2o",
               "stripeProductId": "prod_VGOn4UlfaHjKBh",
               "stripePriceId": "price_1UFrzoLOfCA5mATu9jvLheT7",
-              "stripeLinkId": "plink_1ULOrgLOfCA5mATu1onO7QtM",
+              "stripeLinkId": "plink_1UM93bLOfCA5mATuqMveF6NL",
               "stripePrix": 2.33,
               "stripeMode": "live",
               "stripeNom": "Petite  Croix en amethyste",
               "stripeDesc": "Cette petite croix en amethyste allie élégance et spiritualité. L'amethyste, pierre de calme et de sérénité, est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la concentration. Elle est idéale pour créer une ambiance paisible dans votre espace ou pour une méditation apaisante.",
-              "stripeStock": 2,
+              "stripeStock": 1,
               "epuise": false
             }
           ]
@@ -12408,15 +12408,15 @@
               "photo": "images/articles/bracelet-jaspe-kambaba-8-mm-mtiosua7azbx.jpg",
               "prixBoutique": 12.9,
               "stock": 1,
-              "stripe": "https://buy.stripe.com/fZudRa2NI97L3skeO52882W",
+              "stripe": "https://buy.stripe.com/3cI3cwewq4Rvd2U5dv28F2p",
               "stripeProductId": "prod_VBDw6cdqDVNoXp",
               "stripePriceId": "price_1UArUVLOfCA5mATuR7zcNqFD",
-              "stripeLinkId": "plink_1UArUVLOfCA5mATuFCc21D52",
+              "stripeLinkId": "plink_1UM93cLOfCA5mATuDfp1n5m5",
               "stripePrix": 13.6,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe kambaba 8 mm",
               "stripeDesc": "La jaspe kambaba procure de l' apaisement, de l' ancrage, une stabilité émotionnelle et une très bonne connexion à la nature.",
-              "stripeStock": 2,
+              "stripeStock": 1,
               "epuise": false
             },
             {
@@ -19452,7 +19452,17 @@
               "description": "Grande lampe de sel 50 cm sur 40 cm, La lampe de sel envoi des ions négatifs très positives sur notre corps, permet un très bon sommeil, bon pour diminuer les maux de crâne, anti-stress.",
               "photo": "images/articles/lampe-de-sel-grande-taille-muqn0u44li0y.jpg",
               "prixBoutique": 172.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu7sM5ZU1Fj0g89tL28F2q",
+              "stripeProductId": "prod_VMspvdLIfK1yom",
+              "stripePriceId": "price_1UM93cLOfCA5mATuJVi4fnYz",
+              "stripeLinkId": "plink_1UM93dLOfCA5mATuTmZSexwq",
+              "stripePrix": 178.56,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de sel grande taille",
+              "stripeDesc": "Grande lampe de sel 50 cm sur 40 cm, La lampe de sel envoi des ions négatifs très positives sur notre corps, permet un très bon sommeil, bon pour diminuer les maux de crâne, anti-stress.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "lampe-de-sel-grande-taille-muqnm3gc2xcz",
@@ -19461,7 +19471,17 @@
               "description": "Lampe de sel 55 cm sur 30 cm, la lampe de sel envoie des ions négatifs bénéfiques pour notre corps, on ressent de l'apaisement , le stress diminue, soulage aussi les migraines, et favorise l'endormissement pour avoir un profond sommeil par la suite,",
               "photo": "images/articles/lampe-de-sel-grande-taille-muqnm3gcwne9.jpg",
               "prixBoutique": 172.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJedRagEy2Jn1kcdK128F2r",
+              "stripeProductId": "prod_VMspJ7ZCVyQyH2",
+              "stripePriceId": "price_1UM93dLOfCA5mATuHyqU5GtY",
+              "stripeLinkId": "plink_1UM93dLOfCA5mATuKwWOTSCI",
+              "stripePrix": 178.56,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de sel grande taille",
+              "stripeDesc": "Lampe de sel 55 cm sur 30 cm, la lampe de sel envoie des ions négatifs bénéfiques pour notre corps, on ressent de l'apaisement , le stress diminue, soulage aussi les migraines, et favorise l'endormissement pour avoir un profond sommeil par la suite,",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -19477,7 +19497,17 @@
               "description": "Sculpture en pierre représentant une silhouette humaine très stylisée, un visage volontairement simplifié, sans yeux sans bouche, un corps recroqueviller et géométrique, avec des formes arrondies,",
               "photo": "images/articles/statue-en-ciment-1-m-x-20-cm-muqo0beaeksh.jpg",
               "prixBoutique": 264,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYfZi88297L2og35n28F2s",
+              "stripeProductId": "prod_VMsp3BqD5HFLSE",
+              "stripePriceId": "price_1UM93eLOfCA5mATud0LnkyP1",
+              "stripeLinkId": "plink_1UM93eLOfCA5mATuoWjVnd6c",
+              "stripePrix": 273.13,
+              "stripeMode": "live",
+              "stripeNom": "Statue en ciment 1 m x 20 cm",
+              "stripeDesc": "Sculpture en pierre représentant une silhouette humaine très stylisée, un visage volontairement simplifié, sans yeux sans bouche, un corps recroqueviller et géométrique, avec des formes arrondies,",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -19545,7 +19575,17 @@
               "description": "Petite fiole or natif",
               "photo": "images/articles/petite-fiole-avec-feuilles-d-or-muqlmu6wxyop.jpg",
               "prixBoutique": 9.9,
-              "stock": 17
+              "stock": 17,
+              "stripe": "https://buy.stripe.com/3cI6oIbke6ZDbYQ9tL28F2t",
+              "stripeProductId": "prod_VMspeOzw0tIFgx",
+              "stripePriceId": "price_1UM93eLOfCA5mATul1HsZoYb",
+              "stripeLinkId": "plink_1UM93fLOfCA5mATuLdDxDoz6",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Petite fiole avec feuilles d'or",
+              "stripeDesc": "Petite fiole or natif",
+              "stripeStock": 17,
+              "epuise": false
             },
             {
               "id": "or-natif-grand-modele-muqlsnxrji9j",
@@ -19554,7 +19594,17 @@
               "description": "Or natif",
               "photo": "images/articles/or-natif-grand-modele-muqlsnxrd7yy.jpg",
               "prixBoutique": 27.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/4gMcN6fAuabP4wo8pH28F2u",
+              "stripeProductId": "prod_VMspaEVnZInuLe",
+              "stripePriceId": "price_1UM93fLOfCA5mATu2MPcvZmB",
+              "stripeLinkId": "plink_1UM93fLOfCA5mATusF9hbi7R",
+              "stripePrix": 29.1,
+              "stripeMode": "live",
+              "stripeNom": "Or natif grand modèle",
+              "stripeDesc": "Or natif",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "amphore-d-or-muqlv9h2lkxh",
@@ -19563,7 +19613,17 @@
               "description": "Amphore d'or",
               "photo": "images/articles/amphore-d-or-muqlv9h2so1l.jpg",
               "prixBoutique": 17.7,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/3cI8wQ5ZU1Fj7IA21j28F2v",
+              "stripeProductId": "prod_VMsprYVkX6kM6P",
+              "stripePriceId": "price_1UM93gLOfCA5mATuung482bd",
+              "stripeLinkId": "plink_1UM93gLOfCA5mATuO9pyvjE7",
+              "stripePrix": 18.56,
+              "stripeMode": "live",
+              "stripeNom": "Amphore d'or",
+              "stripeDesc": "Amphore d'or",
+              "stripeStock": 11,
+              "epuise": false
             },
             {
               "id": "corbeille-ronde-20-cm-x-25-cm-de-diametr-muqoqmh8xlzi",
@@ -19572,7 +19632,17 @@
               "description": "Cette corbeille ronde en fibres naturelles est un accessoire décoratif et pratique pour sublimer votre intérieur tout en apportant une touche chaleureuse et organique. Idéale pour y déposer des cristaux, des bougies ou des éléments de décoration, elle favorise une ambiance harmonieuse et apaisante. En lithothérapie, les objets en fibres naturelles sont souvent associés à une énergie équilibrante, aidant à ancrer les intentions positives et à créer un espace de bien-être.",
               "photo": "images/articles/corbeille-ronde-20-cm-x-25-cm-de-diametr-muqoqmh85gdk.jpg",
               "prixBoutique": 12.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa9AU4VQgAdaUMaxP28F2w",
+              "stripeProductId": "prod_VMspk85zrWv36Q",
+              "stripePriceId": "price_1UM93hLOfCA5mATu0KOTZVyT",
+              "stripeLinkId": "plink_1UM93hLOfCA5mATuCi5vHHvJ",
+              "stripePrix": 13.18,
+              "stripeMode": "live",
+              "stripeNom": "Corbeille ronde 20 cm x 25 cm de diamètre",
+              "stripeDesc": "Cette corbeille ronde en fibres naturelles est un accessoire décoratif et pratique pour sublimer votre intérieur tout en apportant une touche chaleureuse et organique. Idéale pour y déposer des cristaux, des bougies ou des éléments de décoration, elle favorise une ambiance harmonieuse et apaisante. En lithothérapie, les objets en fibres naturelles sont souvent associés à une énergie équilibrante, aidant à ancrer les intentions positives et à créer un espace de bien-être.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "corbeille-ronde-x-27-cm-30-cm-muqotxlt4kjk",
@@ -19581,7 +19651,17 @@
               "description": "Corbeille ronde en fibres naturelles, idéale pour décorer votre intérieur avec élégance et douceur. Son design harmonieux apporte une touche de chaleur et de sérénité à votre espace, tout en servant de support pour ranger des objets ou des éléments de décoration. Parfaite pour une ambiance apaisante et équilibrée, elle s’intègre facilement dans une déco bohème ou zen.",
               "photo": "images/articles/corbeille-ronde-x-27-cm-30-cm-muqotxlt4dx9.jpg",
               "prixBoutique": 15.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/00w7sMgEy2Jn7IAeO528F2x",
+              "stripeProductId": "prod_VMspa1Oi37W4Lj",
+              "stripePriceId": "price_1UM93hLOfCA5mATurbQPgkJt",
+              "stripeLinkId": "plink_1UM93iLOfCA5mATufxtCxkVz",
+              "stripePrix": 16.28,
+              "stripeMode": "live",
+              "stripeNom": "Corbeille ronde x 27 cm 30 cm",
+              "stripeDesc": "Corbeille ronde en fibres naturelles, idéale pour décorer votre intérieur avec élégance et douceur. Son design harmonieux apporte une touche de chaleur et de sérénité à votre espace, tout en servant de support pour ranger des objets ou des éléments de décoration. Parfaite pour une ambiance apaisante et équilibrée, elle s’intègre facilement dans une déco bohème ou zen.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "grande-corbeille-x-diametre-30-cm-muqoyi4wpzf7",
@@ -19590,7 +19670,17 @@
               "description": "Cette grande corbeille tressée de 30 cm de diamètre apporte une touche naturelle et chaleureuse à votre intérieur. Idéale pour décorer vos espaces tout en y rangeant des éléments essentiels comme des pierres, des cristaux ou des encens, elle crée une ambiance harmonieuse et apaisante. Son design artisanal et ses franges douces en font un objet à la fois pratique et esthétique, parfait pour ceux qui aiment allier bien-être et élégance dans leur quotidien.",
               "photo": "images/articles/grande-corbeille-x-diametre-30-cm-muqoyi4x0a4k.jpg",
               "prixBoutique": 20.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6cN60FA83H5AsgWd28F2y",
+              "stripeProductId": "prod_VMspKTufhQIAYg",
+              "stripePriceId": "price_1UM93iLOfCA5mATuqVuNtwGQ",
+              "stripeLinkId": "plink_1UM93iLOfCA5mATuCin86qrT",
+              "stripePrix": 21.45,
+              "stripeMode": "live",
+              "stripeNom": "Grande corbeille x diamètre 30 cm",
+              "stripeDesc": "Cette grande corbeille tressée de 30 cm de diamètre apporte une touche naturelle et chaleureuse à votre intérieur. Idéale pour décorer vos espaces tout en y rangeant des éléments essentiels comme des pierres, des cristaux ou des encens, elle crée une ambiance harmonieuse et apaisante. Son design artisanal et ses franges douces en font un objet à la fois pratique et esthétique, parfait pour ceux qui aiment allier bien-être et élégance dans leur quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "porte-fleur-en-macrazame-muqp20zc6dnh",
@@ -19599,7 +19689,17 @@
               "description": "Ce porte fleur en macramé apporte une touche bohème et naturelle à votre intérieur. Fabriqué avec des fibres végétales, il est idéal pour décorer vos espaces tout en apportant une énergie apaisante et harmonieuse. Parfait pour suspendre vos fleurs séchées ou fraîches, il ajoute une touche artisanale et chaleureuse à votre déco.",
               "photo": "images/articles/porte-fleur-en-macrazame-muqp20zc40mm.jpg",
               "prixBoutique": 9.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/bJe3cwfAubfT3skcFX28F2z",
+              "stripeProductId": "prod_VMsp51yRzOF4uQ",
+              "stripePriceId": "price_1UM93jLOfCA5mATuh14PDoPx",
+              "stripeLinkId": "plink_1UM93jLOfCA5mATumEJe518h",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Porte fleur en macrazamé",
+              "stripeDesc": "Ce porte fleur en macramé apporte une touche bohème et naturelle à votre intérieur. Fabriqué avec des fibres végétales, il est idéal pour décorer vos espaces tout en apportant une énergie apaisante et harmonieuse. Parfait pour suspendre vos fleurs séchées ou fraîches, il ajoute une touche artisanale et chaleureuse à votre déco.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "cadre-bouddha-mur06nthukxc",
@@ -19608,7 +19708,17 @@
               "description": "Ce cadre représentant un bouddha apporte une touche apaisante et spirituelle à votre intérieur. Associé à la sérénité et à la méditation, il est idéal pour créer une ambiance de calme et de bien-être. Parfait pour les espaces de détente ou de travail, il invite à la concentration et à la connexion avec soi-même.",
               "photo": "images/articles/cadre-bouddha-mur06nthdixp.jpg",
               "prixBoutique": 15.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ4gAewq2Jn5AsfS928F2A",
+              "stripeProductId": "prod_VMspQT2d6FOPeT",
+              "stripePriceId": "price_1UM93kLOfCA5mATuyxmfy2eJ",
+              "stripeLinkId": "plink_1UM93kLOfCA5mATuOpaJkFor",
+              "stripePrix": 16.39,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha",
+              "stripeDesc": "Ce cadre représentant un bouddha apporte une touche apaisante et spirituelle à votre intérieur. Associé à la sérénité et à la méditation, il est idéal pour créer une ambiance de calme et de bien-être. Parfait pour les espaces de détente ou de travail, il invite à la concentration et à la connexion avec soi-même.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cadre-bouddha-mur0h48kbknx",
@@ -19617,7 +19727,17 @@
               "description": "Ce cadre représentant deux visages de bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé aux énergies apaisantes et méditatives, il est idéal pour créer une ambiance propice à la détente et à la concentration. Parfait pour les espaces de relaxation ou de travail, il incarne la paix intérieure et l'équilibre émotionnel.",
               "photo": "images/articles/cadre-bouddha-mur0h48k2d6o.jpg",
               "prixBoutique": 15.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi4gA1JE97L7IA0Xf28F2B",
+              "stripeProductId": "prod_VMsp5ILOuBMKU9",
+              "stripePriceId": "price_1UM93kLOfCA5mATu9KURRhY6",
+              "stripeLinkId": "plink_1UM93lLOfCA5mATuCMtJSUuO",
+              "stripePrix": 16.39,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha",
+              "stripeDesc": "Ce cadre représentant deux visages de bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé aux énergies apaisantes et méditatives, il est idéal pour créer une ambiance propice à la détente et à la concentration. Parfait pour les espaces de relaxation ou de travail, il incarne la paix intérieure et l'équilibre émotionnel.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "banniere-en-tissu-mur0kkasxz4s",
@@ -19626,7 +19746,17 @@
               "description": "Cette bannière en tissu aux motifs géométriques profonds et apaisants apporte une touche de sérénité et d'harmonie à votre espace. Ses couleurs vibrantes et ses formes inspirées de symboles énergétiques en font un élément décoratif puissant, souvent utilisé pour équilibrer les énergies d'une pièce. Idéale pour les amateurs de lithothérapie et de décoration spirituelle, elle invite à la méditation et au bien-être au quotidien.",
               "photo": "images/articles/banniere-en-tissu-mur0kkas7ihf.jpg",
               "prixBoutique": 24.9,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/4gMaEY73Y0Bf4wo8pH28F2C",
+              "stripeProductId": "prod_VMspIxM9TMyRvl",
+              "stripePriceId": "price_1UM93lLOfCA5mATu1WEaGvbp",
+              "stripeLinkId": "plink_1UM93lLOfCA5mATul0n2Pbiv",
+              "stripePrix": 26,
+              "stripeMode": "live",
+              "stripeNom": "Bannière en tissu 1 m de Long sur 20 cm de Large",
+              "stripeDesc": "Cette bannière en tissu aux motifs géométriques profonds et apaisants apporte une touche de sérénité et d'harmonie à votre espace. Ses couleurs vibrantes et ses formes inspirées de symboles énergétiques en font un élément décoratif puissant, souvent utilisé pour équilibrer les énergies d'une pièce. Idéale pour les amateurs de lithothérapie et de décoration spirituelle, elle invite à la méditation et au bien-être au quotidien.",
+              "stripeStock": 6,
+              "epuise": false
             },
             {
               "id": "banniere-en-tissu-1-m-de-long-sur-20cm-d-mur0pfcj4l4v",
@@ -19635,7 +19765,17 @@
               "description": "Cette bannière en tissu aux teintes apaisantes de bleu et de vert émeraude apporte une touche de sérénité et d'harmonie à votre espace. Ses motifs inspirés de la nature et ses dégradés doux favorisent une ambiance relaxante, idéale pour apaiser les émotions et créer un cocon de bien-être. Parfaite pour décorer votre intérieur tout en invitant une énergie positive et équilibrante, elle s’intègre aussi bien dans un cadre spirituel que dans un espace dédié à la méditation ou au repos.",
               "photo": "images/articles/banniere-en-tissu-1-m-de-long-sur-20cm-d-mur0pfcjpk81.jpg",
               "prixBoutique": 24.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/8x228sfAues57IA7lD28F2D",
+              "stripeProductId": "prod_VMspkFKmoS5rjW",
+              "stripePriceId": "price_1UM93mLOfCA5mATu9mvwEAL0",
+              "stripeLinkId": "plink_1UM93mLOfCA5mATuYNP9prHA",
+              "stripePrix": 26,
+              "stripeMode": "live",
+              "stripeNom": "Bannière en tissu 1 m de long sur 20cm de Large",
+              "stripeDesc": "Cette bannière en tissu aux teintes apaisantes de bleu et de vert émeraude apporte une touche de sérénité et d'harmonie à votre espace. Ses motifs inspirés de la nature et ses dégradés doux favorisent une ambiance relaxante, idéale pour apaiser les émotions et créer un cocon de bien-être. Parfaite pour décorer votre intérieur tout en invitant une énergie positive et équilibrante, elle s’intègre aussi bien dans un cadre spirituel que dans un espace dédié à la méditation ou au repos.",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "boite-a-clef-fleur-de-vie-d-inde-mur1fyzvszze",
@@ -19644,7 +19784,17 @@
               "description": "Cette boîte à clef en bois sculpté met en valeur une fleur de vie, un symbole puissant lié à l'équilibre énergétique et à la connexion universelle. Utilisée en lithothérapie, elle est réputée pour apaiser les émotions et favoriser un sentiment de bien-être au quotidien. Son élégant design en fait à la fois un objet décoratif et un allié pour harmoniser les énergies positives.",
               "photo": "images/articles/boite-a-clef-fleur-de-vie-d-inde-mur1fyzvba46.jpg",
               "prixBoutique": 45.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM7sMdsm2Jn6EwaxP28F2E",
+              "stripeProductId": "prod_VMspmaOPlNv0Tt",
+              "stripePriceId": "price_1UM93nLOfCA5mATuV3yzpzbk",
+              "stripeLinkId": "plink_1UM93nLOfCA5mATuEPPSt9zt",
+              "stripePrix": 47.76,
+              "stripeMode": "live",
+              "stripeNom": "Boîte à clef fleur de vie D'inde",
+              "stripeDesc": "Cette boîte à clef en bois sculpté met en valeur une fleur de vie, un symbole puissant lié à l'équilibre énergétique et à la connexion universelle. Utilisée en lithothérapie, elle est réputée pour apaiser les émotions et favoriser un sentiment de bien-être au quotidien. Son élégant design en fait à la fois un objet décoratif et un allié pour harmoniser les énergies positives.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "lot-de-2-boites-coffre-arbre-de-vie-mur1p44i2252",
@@ -19653,7 +19803,17 @@
               "description": "Ces boîtes coffre en forme d'arbre de vie symbolisent la croissance, la stabilité et la connexion avec la nature. Traditionnellement utilisées pour renforcer l'énergie vitale et apporter une sensation de calme et d'équilibre, elles sont idéales pour décorer tout en bénéficiant de leurs vertus apaisantes. Parfaites pour offrir ou s'offrir, elles peuvent aussi servir de support méditatif pour se recentrer et harmoniser ses émotions.",
               "photo": "images/articles/lot-de-2-boites-coffre-arbre-de-vie-mur1p44jrchs.jpg",
               "prixBoutique": 35.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/4gMeVe0FAbfT3sk6hz28F2F",
+              "stripeProductId": "prod_VMspllZKnERGIl",
+              "stripePriceId": "price_1UM93nLOfCA5mATukMcwavu9",
+              "stripeLinkId": "plink_1UM93oLOfCA5mATunFCKxeIx",
+              "stripePrix": 37.37,
+              "stripeMode": "live",
+              "stripeNom": "Lot de 2 boîtes coffre arbre de vie",
+              "stripeDesc": "Ces boîtes coffre en forme d'arbre de vie symbolisent la croissance, la stabilité et la connexion avec la nature. Traditionnellement utilisées pour renforcer l'énergie vitale et apporter une sensation de calme et d'équilibre, elles sont idéales pour décorer tout en bénéficiant de leurs vertus apaisantes. Parfaites pour offrir ou s'offrir, elles peuvent aussi servir de support méditatif pour se recentrer et harmoniser ses émotions.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "coffre-a-code-integre-mur2cxf52x8o",
@@ -19662,7 +19822,17 @@
               "description": "Ce coffre à code intégré est une pièce de décoration unique alliant esthétique raffinée et symbolisme énergétique. Ses motifs géométriques complexes, inspirés des mandalas, sont souvent associés à la concentration, à l'équilibre et à l'harmonisation des énergies. Idéal pour sublimer un intérieur tout en invitant la sérénité et la protection dans votre espace vital.",
               "photo": "images/articles/coffre-a-code-integre-mur2cxf6zehc.jpg",
               "prixBoutique": 59.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/5kQ14o3RM1FjbYQcFX28F2G",
+              "stripeProductId": "prod_VMspxtZgn146PT",
+              "stripePriceId": "price_1UM93oLOfCA5mATulQUQ7bo2",
+              "stripeLinkId": "plink_1UM93oLOfCA5mATujCT1Df2V",
+              "stripePrix": 62.18,
+              "stripeMode": "live",
+              "stripeNom": "Coffre à code intégré",
+              "stripeDesc": "Ce coffre à code intégré est une pièce de décoration unique alliant esthétique raffinée et symbolisme énergétique. Ses motifs géométriques complexes, inspirés des mandalas, sont souvent associés à la concentration, à l'équilibre et à l'harmonisation des énergies. Idéal pour sublimer un intérieur tout en invitant la sérénité et la protection dans votre espace vital.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "coffre-a-clef-mural-mur2h28qmokz",
@@ -19671,7 +19841,17 @@
               "description": "Ce coffre à clef mural en bois naturel apporte une touche d'élégance et d'authenticité à votre intérieur. Avec ses motifs inspirés des veines minérales, il évoque la force et la stabilité de la nature, tout en offrant une solution pratique pour ranger vos précieuses clés. Idéal pour ceux qui cherchent à allier esthétique et fonctionnalité dans un espace harmonieux.",
               "photo": "images/articles/coffre-a-clef-mural-mur2h28q8sk7.jpg",
               "prixBoutique": 16.7,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/4gM8wQ8824RvaUMaxP28F2H",
+              "stripeProductId": "prod_VMspXkY5SN3VoS",
+              "stripePriceId": "price_1UM93pLOfCA5mATuFRmSnjdz",
+              "stripeLinkId": "plink_1UM93pLOfCA5mATuyvVHqTxy",
+              "stripePrix": 17.52,
+              "stripeMode": "live",
+              "stripeNom": "Coffre à clef mural",
+              "stripeDesc": "Ce coffre à clef mural en bois naturel apporte une touche d'élégance et d'authenticité à votre intérieur. Avec ses motifs inspirés des veines minérales, il évoque la force et la stabilité de la nature, tout en offrant une solution pratique pour ranger vos précieuses clés. Idéal pour ceux qui cherchent à allier esthétique et fonctionnalité dans un espace harmonieux.",
+              "stripeStock": 5,
+              "epuise": false
             },
             {
               "id": "coffre-bois-metalise-avec-a-main-de-fatm-mur2v4ax6tyo",
@@ -19680,7 +19860,17 @@
               "description": "Ce coffre décoratif en bois métalisé met en valeur une main de Fatma, symbole de protection et de chance dans de nombreuses cultures. Idéal pour apporter une touche d'énergie positive à votre intérieur, il est souvent utilisé pour attirer la prospérité et éloigner les mauvaises ondes. Son design élégant en fait un objet de décoration unique, tout en gardant une forte symbolique spirituelle.",
               "photo": "images/articles/coffre-bois-metalise-avec-a-main-de-fatm-mur2v4ax80nu.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi00kagagAdd2UgWd28F2I",
+              "stripeProductId": "prod_VMspgOh61vhLcO",
+              "stripePriceId": "price_1UM93qLOfCA5mATuGjVEHDyX",
+              "stripeLinkId": "plink_1UM93qLOfCA5mATu114Lp3kS",
+              "stripePrix": 20.83,
+              "stripeMode": "live",
+              "stripeNom": "Coffre bois métalisé avec a main de fatma",
+              "stripeDesc": "Ce coffre décoratif en bois métalisé met en valeur une main de Fatma, symbole de protection et de chance dans de nombreuses cultures. Idéal pour apporter une touche d'énergie positive à votre intérieur, il est souvent utilisé pour attirer la prospérité et éloigner les mauvaises ondes. Son design élégant en fait un objet de décoration unique, tout en gardant une forte symbolique spirituelle.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "coffre-noir-et-metal-bouddha-mur31jht5bvi",
@@ -19689,7 +19879,17 @@
               "description": "Ce coffre élégant allie le noir profond et des motifs métalliques inspirés du bouddha, pour une touche à la fois spirituelle et raffinée. Idéal pour protéger vos trésors ou vos cristaux, il apporte une énergie de sérénité et d'équilibre dans votre espace. Parfait pour ceux qui recherchent un objet décoratif à la fois esthétique et porteur de calme intérieur.",
               "photo": "images/articles/coffre-noir-et-metal-bouddha-mur31jhteccs.jpg",
               "prixBoutique": 16.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJefZibkefw9fb27lD28F2J",
+              "stripeProductId": "prod_VMspDdVFkdksHF",
+              "stripePriceId": "price_1UM93qLOfCA5mATufjsOacLZ",
+              "stripeLinkId": "plink_1UM93rLOfCA5mATudrvcWSnb",
+              "stripePrix": 17.73,
+              "stripeMode": "live",
+              "stripeNom": "Coffre noir et métal bouddha",
+              "stripeDesc": "Ce coffre élégant allie le noir profond et des motifs métalliques inspirés du bouddha, pour une touche à la fois spirituelle et raffinée. Idéal pour protéger vos trésors ou vos cristaux, il apporte une énergie de sérénité et d'équilibre dans votre espace. Parfait pour ceux qui recherchent un objet décoratif à la fois esthétique et porteur de calme intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "coffre-en-bois-noir-metal-bouddha-20-cm-mur368949o37",
@@ -19698,7 +19898,17 @@
               "description": "Ce coffre en bois noir et métal représente une élégante silhouette de Bouddha, alliant esthétique et symbolisme sacré. Idéal pour protéger vos trésors ou vos cristaux, il apporte une touche spirituelle et apaisante à votre intérieur. Selon les croyances, il favorise la sérénité, l’équilibre énergétique et une connexion harmonieuse avec l’univers.",
               "photo": "images/articles/coffre-en-bois-noir-metal-bouddha-20-cm-mur36894zbgs.jpg",
               "prixBoutique": 11.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/fZu8wQ0FA0Bf7IAgWd28F2K",
+              "stripeProductId": "prod_VMspd6jGTvNJXD",
+              "stripePriceId": "price_1UM93rLOfCA5mATuCcTzE2Nt",
+              "stripeLinkId": "plink_1UM93rLOfCA5mATuHWjrFJIp",
+              "stripePrix": 12.15,
+              "stripeMode": "live",
+              "stripeNom": "Coffre en bois noir métal bouddha 20 cm",
+              "stripeDesc": "Ce coffre en bois noir et métal représente une élégante silhouette de Bouddha, alliant esthétique et symbolisme sacré. Idéal pour protéger vos trésors ou vos cristaux, il apporte une touche spirituelle et apaisante à votre intérieur. Selon les croyances, il favorise la sérénité, l’équilibre énergétique et une connexion harmonieuse avec l’univers.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "boite-en-bois-arbre-de-vie-mur3hdwwkxqq",
@@ -19707,7 +19917,17 @@
               "description": "Cette boîte en bois sculpté représente un arbre de vie, symbole de croissance, de vitalité et de connexion avec la nature. Idéale pour y ranger vos cristaux ou bijoux, elle apporte une touche d'harmonie et de sérénité à votre espace. En lithothérapie, les motifs naturels comme celui-ci sont souvent associés à l'équilibre énergétique et à la protection.",
               "photo": "images/articles/boite-en-bois-arbre-de-vie-mur3hdwx3wse.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe5kE4VQfw98ME0Xf28F2L",
+              "stripeProductId": "prod_VMspmtHwbxlKap",
+              "stripePriceId": "price_1UM93sLOfCA5mATunrRfLeFf",
+              "stripeLinkId": "plink_1UM93sLOfCA5mATupcwjE7ps",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Boîte en bois arbre de vie",
+              "stripeDesc": "Cette boîte en bois sculpté représente un arbre de vie, symbole de croissance, de vitalité et de connexion avec la nature. Idéale pour y ranger vos cristaux ou bijoux, elle apporte une touche d'harmonie et de sérénité à votre espace. En lithothérapie, les motifs naturels comme celui-ci sont souvent associés à l'équilibre énergétique et à la protection.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "boite-en-bois-15-cm-mur3jc6ewvz4",
@@ -19716,7 +19936,17 @@
               "description": "Cette boîte en bois de 15 cm allie élégance naturelle et artisanat soigné pour offrir un espace de rangement à la fois pratique et esthétique. Parfaite pour y déposer vos cristaux, bijoux ou petits objets sacrés, elle apporte une touche chaleureuse et apaisante à votre intérieur. Selon les croyances en lithothérapie, les objets en bois, surtout ceux travaillés à la main, sont souvent associés à une énergie harmonieuse et protectrice, favorisant un équilibre émotionnel et une ambiance sereine.",
               "photo": "images/articles/boite-en-bois-15-cm-mur3jc6eoo49.jpg",
               "prixBoutique": 24.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQbJ21JE5Vz8ME7lD28F2M",
+              "stripeProductId": "prod_VMsp4lRwtBM8b5",
+              "stripePriceId": "price_1UM93sLOfCA5mATupLc3TCGW",
+              "stripeLinkId": "plink_1UM93tLOfCA5mATufITMyut9",
+              "stripePrix": 26,
+              "stripeMode": "live",
+              "stripeNom": "Boîte en bois 15 cm",
+              "stripeDesc": "Cette boîte en bois de 15 cm allie élégance naturelle et artisanat soigné pour offrir un espace de rangement à la fois pratique et esthétique. Parfaite pour y déposer vos cristaux, bijoux ou petits objets sacrés, elle apporte une touche chaleureuse et apaisante à votre intérieur. Selon les croyances en lithothérapie, les objets en bois, surtout ceux travaillés à la main, sont souvent associés à une énergie harmonieuse et protectrice, favorisant un équilibre émotionnel et une ambiance sereine.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "boite-en-bois-15-cm-mur3kq26q1rd",
@@ -19725,7 +19955,17 @@
               "description": "Cette boîte en bois de 15 cm, élégante et artisanale, offre un espace de rangement raffiné pour vos pierres et cristaux préférés. Son design octogonal et ses détails décoratifs en font un objet à la fois pratique et esthétique, parfait pour sublimer votre espace de méditation ou votre collection minérale. Traditionnellement, les boîtes en bois sont associées à la protection et à l’harmonisation des énergies, créant une ambiance apaisante et propice à la sérénité.",
               "photo": "images/articles/boite-en-bois-15-cm-mur3kq26gpfb.jpg",
               "prixBoutique": 26.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E00kcoi3Nr6Ew8pH28F2N",
+              "stripeProductId": "prod_VMsp6ifjqVsOfW",
+              "stripePriceId": "price_1UM93tLOfCA5mATu952Rp6T0",
+              "stripeLinkId": "plink_1UM93uLOfCA5mATuZDF8nEwt",
+              "stripePrix": 28.07,
+              "stripeMode": "live",
+              "stripeNom": "Boîte en bois 15 cm",
+              "stripeDesc": "Cette boîte en bois de 15 cm, élégante et artisanale, offre un espace de rangement raffiné pour vos pierres et cristaux préférés. Son design octogonal et ses détails décoratifs en font un objet à la fois pratique et esthétique, parfait pour sublimer votre espace de méditation ou votre collection minérale. Traditionnellement, les boîtes en bois sont associées à la protection et à l’harmonisation des énergies, créant une ambiance apaisante et propice à la sérénité.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cadre-bouddha-mur48g86lfio",
@@ -19734,7 +19974,17 @@
               "description": "Ce cadre décoratif représentant un bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix intérieure et à la méditation, il favorise un environnement apaisant et propice à la détente. Idéal pour les espaces de relaxation ou de travail, il inspire calme et concentration au quotidien.",
               "photo": "images/articles/cadre-bouddha-mur48g86k5fb.jpg",
               "prixBoutique": 14.65,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/14AeVe0FAfw92og21j28F2O",
+              "stripeProductId": "prod_VMspu8WvWkjCFv",
+              "stripePriceId": "price_1UM93uLOfCA5mATuZAklayto",
+              "stripeLinkId": "plink_1UM93uLOfCA5mATuTUa6kxv3",
+              "stripePrix": 15.41,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha",
+              "stripeDesc": "Ce cadre décoratif représentant un bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix intérieure et à la méditation, il favorise un environnement apaisant et propice à la détente. Idéal pour les espaces de relaxation ou de travail, il inspire calme et concentration au quotidien.",
+              "stripeStock": 5,
+              "epuise": false
             },
             {
               "id": "boite-cache-compteur-mur4jlm5lh1b",
@@ -19743,7 +19993,17 @@
               "description": "Cette boîte cache compteur allie élégance et symbolisme pour sublimer votre intérieur tout en apportant une touche d'harmonie. Selon les croyances en lithothérapie, les objets décoratifs inspirés de motifs apaisants comme ceux-ci peuvent favoriser un environnement serein et équilibré. Parfaite pour ceux qui cherchent à intégrer une pièce unique tout en masquant discrètement un compteur, elle s’adapte à tous les styles de décoration.",
               "photo": "images/articles/boite-cache-compteur-mur4jlm5tjii.jpg",
               "prixBoutique": 16.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A6oI3RM0Bf1kc5dv28F2P",
+              "stripeProductId": "prod_VMsp3HYjx6L6iP",
+              "stripePriceId": "price_1UM93vLOfCA5mATukZ3yYbUl",
+              "stripeLinkId": "plink_1UM93vLOfCA5mATu97jTE7G5",
+              "stripePrix": 17.73,
+              "stripeMode": "live",
+              "stripeNom": "Boîte cache compteur",
+              "stripeDesc": "Cette boîte cache compteur allie élégance et symbolisme pour sublimer votre intérieur tout en apportant une touche d'harmonie. Selon les croyances en lithothérapie, les objets décoratifs inspirés de motifs apaisants comme ceux-ci peuvent favoriser un environnement serein et équilibré. Parfaite pour ceux qui cherchent à intégrer une pièce unique tout en masquant discrètement un compteur, elle s’adapte à tous les styles de décoration.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "parapluie-de-collection-mur4nuq5hg75",
@@ -19752,7 +20012,17 @@
               "description": "Ce parapluie de collection allie élégance et symbolisme énergétique. Traditionnellement, les parapluies en matériaux naturels ou décorés de pierres sont associés à une protection subtile et à une harmonie entre les éléments. Parfait pour les amateurs d’objets uniques, il apporte une touche mystique et une énergie apaisante au quotidien, tout en restant un accessoire pratique pour les jours de pluie.",
               "photo": "images/articles/parapluie-de-collection-mur4nuq5e0iv.jpg",
               "prixBoutique": 12.9,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/6oU28s3RM4Rv7IAcFX28F2Q",
+              "stripeProductId": "prod_VMspYVBbzkbHDG",
+              "stripePriceId": "price_1UM93vLOfCA5mATuNjH9NbyI",
+              "stripeLinkId": "plink_1UM93wLOfCA5mATuLLnfTlvS",
+              "stripePrix": 13.6,
+              "stripeMode": "live",
+              "stripeNom": "Parapluie de collection",
+              "stripeDesc": "Ce parapluie de collection allie élégance et symbolisme énergétique. Traditionnellement, les parapluies en matériaux naturels ou décorés de pierres sont associés à une protection subtile et à une harmonie entre les éléments. Parfait pour les amateurs d’objets uniques, il apporte une touche mystique et une énergie apaisante au quotidien, tout en restant un accessoire pratique pour les jours de pluie.",
+              "stripeStock": 5,
+              "epuise": false
             },
             {
               "id": "decoration-murale-en-paille-mur4qp44xpt2",
@@ -19761,7 +20031,17 @@
               "description": "Cette décoration murale en paille apporte une touche naturelle et chaleureuse à votre intérieur. Associée traditionnellement à la purification et à l'énergie positive, elle est idéale pour créer une ambiance apaisante et harmonieuse. Parfaite pour décorer une pièce tout en invitant la sérénité et la connexion avec la nature.",
               "photo": "images/articles/decoration-murale-en-paille-mur4qp44uub8.jpg",
               "prixBoutique": 18.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIeVeewqes5bYQ8pH28F2R",
+              "stripeProductId": "prod_VMspM3IvnFoR15",
+              "stripePriceId": "price_1UM93wLOfCA5mATuBPXOweOt",
+              "stripeLinkId": "plink_1UM93wLOfCA5mATua2n7nEFL",
+              "stripePrix": 19.38,
+              "stripeMode": "live",
+              "stripeNom": "Décoration murale en paille",
+              "stripeDesc": "Cette décoration murale en paille apporte une touche naturelle et chaleureuse à votre intérieur. Associée traditionnellement à la purification et à l'énergie positive, elle est idéale pour créer une ambiance apaisante et harmonieuse. Parfaite pour décorer une pièce tout en invitant la sérénité et la connexion avec la nature.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cadre-violet-bouddha-mur4tckk56cp",
@@ -19770,7 +20050,17 @@
               "description": "Ce cadre décoratif représente un bouddha au style apaisant et aux couleurs profondes, mêlant bleu et violet pour une ambiance à la fois calme et spirituelle. Idéal pour décorer un espace de méditation ou une pièce dédiée au bien-être, il apporte une énergie de sérénité et d'équilibre. Traditionnellement, les représentations de bouddha sont associées à la paix intérieure et à la connexion avec une énergie harmonieuse.",
               "photo": "images/articles/cadre-violet-bouddha-mur4tckkmqvs.jpg",
               "prixBoutique": 9.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/7sYcN60FA5Vze6YgWd28F2S",
+              "stripeProductId": "prod_VMspoRQcoBYHMI",
+              "stripePriceId": "price_1UM93xLOfCA5mATui4rBRPHq",
+              "stripeLinkId": "plink_1UM93xLOfCA5mATu4RE3XarT",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Cadre violet bouddha",
+              "stripeDesc": "Ce cadre décoratif représente un bouddha au style apaisant et aux couleurs profondes, mêlant bleu et violet pour une ambiance à la fois calme et spirituelle. Idéal pour décorer un espace de méditation ou une pièce dédiée au bien-être, il apporte une énergie de sérénité et d'équilibre. Traditionnellement, les représentations de bouddha sont associées à la paix intérieure et à la connexion avec une énergie harmonieuse.",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "banniere-namaste-violette-mur4w0rop5ig",
@@ -19779,7 +20069,17 @@
               "description": "Cette bannière décorative au symbole sacré Om et à la couleur violette profonde est une pièce unique pour sublimer votre espace. Associée traditionnellement à la spiritualité et à la méditation, elle est censée favoriser la paix intérieure, l'équilibre émotionnel et une énergie positive. Parfaite pour les amateurs de décoration zen ou les pratiquants de yoga et de méditation, elle apporte une touche de sérénité et de bien-être dans votre intérieur.",
               "photo": "images/articles/banniere-namaste-violette-mur4w0rodsa3.jpg",
               "prixBoutique": 16.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B600kaga6ZD5As7lD28F2T",
+              "stripeProductId": "prod_VMspCYwnyGWNzm",
+              "stripePriceId": "price_1UM93yLOfCA5mATuiQhGnpu3",
+              "stripeLinkId": "plink_1UM93yLOfCA5mATuPKwitl1o",
+              "stripePrix": 17.32,
+              "stripeMode": "live",
+              "stripeNom": "Bannière namasté violette",
+              "stripeDesc": "Cette bannière décorative au symbole sacré Om et à la couleur violette profonde est une pièce unique pour sublimer votre espace. Associée traditionnellement à la spiritualité et à la méditation, elle est censée favoriser la paix intérieure, l'équilibre émotionnel et une énergie positive. Parfaite pour les amateurs de décoration zen ou les pratiquants de yoga et de méditation, elle apporte une touche de sérénité et de bien-être dans votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cadre-miroir-arbre-de-vie-mur53hcce511",
@@ -19788,7 +20088,17 @@
               "description": "",
               "photo": "images/articles/cadre-miroir-arbre-de-vie-mur53hcca79g.jpg",
               "prixBoutique": 48.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B628sewq0Bf3sk5dv28F2U",
+              "stripeProductId": "prod_VMspAQf1KopBxe",
+              "stripePriceId": "price_1UM93yLOfCA5mATuulYTBTyL",
+              "stripeLinkId": "plink_1UM93zLOfCA5mATucvpryW5M",
+              "stripePrix": 50.81,
+              "stripeMode": "live",
+              "stripeNom": "Cadre miroir arbre de vie",
+              "stripeDesc": "",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "tableau-pense-bete-mur55oyb3u8u",
@@ -19797,7 +20107,17 @@
               "description": "Ce tableau décoratif original allie esthétique et symbolisme pour stimuler la motivation et la concentration. Inspiré des motifs traditionnels, il est idéal pour rappeler vos objectifs quotidiens tout en apportant une touche énergétique positive à votre espace. Parfait pour les amateurs de décoration inspirante et de lithothérapie subtile, il invite à croire en ses rêves et à rester ancré dans ses ambitions.",
               "photo": "images/articles/tableau-pense-bete-mur55oybcdn5.jpg",
               "prixBoutique": 18.4,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/cNi00k9c697Ld2U8pH28F2V",
+              "stripeProductId": "prod_VMspZ0pKVpQocp",
+              "stripePriceId": "price_1UM93zLOfCA5mATuYupnbgvf",
+              "stripeLinkId": "plink_1UM93zLOfCA5mATuZfALzfJJ",
+              "stripePrix": 19.28,
+              "stripeMode": "live",
+              "stripeNom": "Tableau pense bête",
+              "stripeDesc": "Ce tableau décoratif original allie esthétique et symbolisme pour stimuler la motivation et la concentration. Inspiré des motifs traditionnels, il est idéal pour rappeler vos objectifs quotidiens tout en apportant une touche énergétique positive à votre espace. Parfait pour les amateurs de décoration inspirante et de lithothérapie subtile, il invite à croire en ses rêves et à rester ancré dans ses ambitions.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },
@@ -19813,7 +20133,17 @@
               "description": "La Shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent appelée la pierre de vie. Selon la lithothérapie, elle agit comme un bouclier protecteur contre les rayonnements électromagnétiques des appareils électroniques, aidant ainsi à préserver votre bien-être au quotidien. Elle est aussi réputée pour régénérer et protéger le corps physique, tout en favorisant un équilibre énergétique harmonieux.",
               "photo": "images/articles/pouvoirs-et-vertus-de-la-shungite-muqo6cnozb9e.jpg",
               "prixBoutique": 18,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/14AfZibke1Fjd2U0Xf28F2W",
+              "stripeProductId": "prod_VMspBi7ODB5V8g",
+              "stripePriceId": "price_1UM940LOfCA5mATuEYbYCALF",
+              "stripeLinkId": "plink_1UM940LOfCA5mATu40Ay77lt",
+              "stripePrix": 18.87,
+              "stripeMode": "live",
+              "stripeNom": "Pouvoirs et vertus de la Shungite",
+              "stripeDesc": "La Shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent appelée la pierre de vie. Selon la lithothérapie, elle agit comme un bouclier protecteur contre les rayonnements électromagnétiques des appareils électroniques, aidant ainsi à préserver votre bien-être au quotidien. Elle est aussi réputée pour régénérer et protéger le corps physique, tout en favorisant un équilibre énergétique harmonieux.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "lampe-en-cristal-de-sel-muqo97cjo6eu",
@@ -19822,7 +20152,17 @@
               "description": "Purifier et harmoniser votre maison",
               "photo": "images/articles/lampe-en-cristal-de-sel-muqo97cjepep.jpg",
               "prixBoutique": 18,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa14ofAucjXaUMdK128F2X",
+              "stripeProductId": "prod_VMspu16ekdEoGm",
+              "stripePriceId": "price_1UM940LOfCA5mATuyEfhZyxl",
+              "stripeLinkId": "plink_1UM941LOfCA5mATuY4nchH9b",
+              "stripePrix": 18.87,
+              "stripeMode": "live",
+              "stripeNom": "Lampe en cristal de sel",
+              "stripeDesc": "Purifier et harmoniser votre maison",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "dictionnaire-des-encens-muqodjcain18",
@@ -19831,7 +20171,17 @@
               "description": "Ce dictionnaire des encens propose une sélection variée de mélanges parfumés traditionnels, idéaux pour créer une ambiance apaisante ou énergétique dans votre espace de vie. Chaque encens est associé à des propriétés spécifiques en lithothérapie et en bien-être, comme la purification, la concentration ou la détente. Parfait pour les rituels, la méditation ou simplement pour embellir votre intérieur de fragrances naturelles et authentiques.",
               "photo": "images/articles/dictionnaire-des-encens-muqodjcb1ix0.jpg",
               "prixBoutique": 12.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM14o9c6bfT2ogdK128F2Y",
+              "stripeProductId": "prod_VMspnOjD1pBoBk",
+              "stripePriceId": "price_1UM941LOfCA5mATuFRePYzSE",
+              "stripeLinkId": "plink_1UM942LOfCA5mATu2BsN6i23",
+              "stripePrix": 13.18,
+              "stripeMode": "live",
+              "stripeNom": "Dictionnaire des encens",
+              "stripeDesc": "Ce dictionnaire des encens propose une sélection variée de mélanges parfumés traditionnels, idéaux pour créer une ambiance apaisante ou énergétique dans votre espace de vie. Chaque encens est associé à des propriétés spécifiques en lithothérapie et en bien-être, comme la purification, la concentration ou la détente. Parfait pour les rituels, la méditation ou simplement pour embellir votre intérieur de fragrances naturelles et authentiques.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "le-grand-defi-muqofohmynvf",
@@ -19840,7 +20190,17 @@
               "description": "Le grand défi est un livre inspirant qui propose des stratégies pour transformer sa vie et renforcer sa détermination. À travers des enseignements motivants, il aide à surmonter les défis personnels et à cultiver une mentalité gagnante. Idéal pour ceux qui cherchent à retrouver confiance en eux et à avancer vers leurs objectifs avec énergie et persévérance.",
               "photo": "images/articles/le-grand-defi-muqofohm6ss0.jpg",
               "prixBoutique": 36.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w8wQ9c6abPbYQ0Xf28F2Z",
+              "stripeProductId": "prod_VMspGGBRGDrbgV",
+              "stripePriceId": "price_1UM942LOfCA5mATuYg8q0Gl0",
+              "stripeLinkId": "plink_1UM942LOfCA5mATuy9dWbUKq",
+              "stripePrix": 38.4,
+              "stripeMode": "live",
+              "stripeNom": "Le grand défi",
+              "stripeDesc": "Le grand défi est un livre inspirant qui propose des stratégies pour transformer sa vie et renforcer sa détermination. À travers des enseignements motivants, il aide à surmonter les défis personnels et à cultiver une mentalité gagnante. Idéal pour ceux qui cherchent à retrouver confiance en eux et à avancer vers leurs objectifs avec énergie et persévérance.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "les-tres-precieux-pouvoirs-des-pierres-e-muqohu0q3ca5",
@@ -19849,7 +20209,17 @@
               "description": "Ouvrage complet et captivant sur les vertus exceptionnelles des pierres et des métaux, ce livre explore leurs pouvoirs énergétiques et leurs bienfaits pour l'équilibre émotionnel et physique. Découvrez comment intégrer ces trésors naturels dans votre quotidien pour renforcer votre bien-être et votre harmonie intérieure. Une référence incontournable pour les passionnés de lithothérapie et de spiritualité.",
               "photo": "images/articles/les-tres-precieux-pouvoirs-des-pierres-e-muqohu0q2cst.jpg",
               "prixBoutique": 17.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM7sM73Y97Le6Y0Xf28F30",
+              "stripeProductId": "prod_VMspFMRw3Ah1QE",
+              "stripePriceId": "price_1UM943LOfCA5mATuWXlIxXFH",
+              "stripeLinkId": "plink_1UM943LOfCA5mATuLJlVDwWL",
+              "stripePrix": 18.14,
+              "stripeMode": "live",
+              "stripeNom": "Les très précieux pouvoirs des pierres et des métaux",
+              "stripeDesc": "Ouvrage complet et captivant sur les vertus exceptionnelles des pierres et des métaux, ce livre explore leurs pouvoirs énergétiques et leurs bienfaits pour l'équilibre émotionnel et physique. Découvrez comment intégrer ces trésors naturels dans votre quotidien pour renforcer votre bien-être et votre harmonie intérieure. Une référence incontournable pour les passionnés de lithothérapie et de spiritualité.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "envoutement-et-contre-envoutement-muqoj1xm49qe",
@@ -19858,7 +20228,17 @@
               "description": "Ce manuel pratique est une référence incontournable pour ceux qui s'intéressent aux méthodes traditionnelles d'action et de protection. Il offre des connaissances précieuses sur les techniques d'influences énergétiques et les moyens de se préserver des énergies négatives. Idéal pour approfondir ses pratiques en lithothérapie et en spiritualité.",
               "photo": "images/articles/envoutement-et-contre-envoutement-muqoj1xm6ft5.jpg",
               "prixBoutique": 20,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/00waEYewq1FjaUM49r28F31",
+              "stripeProductId": "prod_VMspr6WL0euWgy",
+              "stripePriceId": "price_1UM944LOfCA5mATuCF79o80Q",
+              "stripeLinkId": "plink_1UM944LOfCA5mATuIDyRshoG",
+              "stripePrix": 20.94,
+              "stripeMode": "live",
+              "stripeNom": "Envoutement et contre envoutement",
+              "stripeDesc": "Ce manuel pratique est une référence incontournable pour ceux qui s'intéressent aux méthodes traditionnelles d'action et de protection. Il offre des connaissances précieuses sur les techniques d'influences énergétiques et les moyens de se préserver des énergies négatives. Idéal pour approfondir ses pratiques en lithothérapie et en spiritualité.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },
@@ -19874,7 +20254,17 @@
               "description": "Ce vase aluminium décoratif apporte une touche d'élégance et d'originalité à votre intérieur. Son design unique et ses reflets métalliques captent la lumière pour créer une ambiance chaleureuse et dynamique. Idéal pour sublimer vos bougies, fleurs ou encens, il s'intègre parfaitement dans une décoration moderne tout en apportant une énergie positive et équilibrante à votre espace.",
               "photo": "images/articles/vase-aluminium-decoratif-muqr4iwd7bhz.jpg",
               "prixBoutique": 43.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/14A9AUcoicjX9QIaxP28F32",
+              "stripeProductId": "prod_VMspm7bx3OTeTe",
+              "stripePriceId": "price_1UM944LOfCA5mATuojXtIENb",
+              "stripeLinkId": "plink_1UM945LOfCA5mATuv9DqtHGd",
+              "stripePrix": 45.22,
+              "stripeMode": "live",
+              "stripeNom": "Vase aluminium décoratif",
+              "stripeDesc": "Ce vase aluminium décoratif apporte une touche d'élégance et d'originalité à votre intérieur. Son design unique et ses reflets métalliques captent la lumière pour créer une ambiance chaleureuse et dynamique. Idéal pour sublimer vos bougies, fleurs ou encens, il s'intègre parfaitement dans une décoration moderne tout en apportant une énergie positive et équilibrante à votre espace.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },
@@ -19890,7 +20280,17 @@
               "description": "Les Abajourts sont des lampes artisanales en fibres naturelles, souvent utilisées pour créer une ambiance chaleureuse et apaisante dans un intérieur. Selon les croyances en lithothérapie et en bien-être énergétique, ces pièces en matériaux bruts favoriseraient une connexion avec la nature et une énergie positive, aidant à apaiser les émotions et à favoriser la détente. Leur design unique en fait aussi un objet de décoration original et inspirant.",
               "photo": "images/articles/abajourts-muqzmbaxbn0s.jpg",
               "prixBoutique": 39.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUcN62NIdo14wo0Xf28F33",
+              "stripeProductId": "prod_VMspOmsN1Il50G",
+              "stripePriceId": "price_1UM945LOfCA5mATupfDoO404",
+              "stripeLinkId": "plink_1UM945LOfCA5mATuGOd9R964",
+              "stripePrix": 41.5,
+              "stripeMode": "live",
+              "stripeNom": "Abajourts",
+              "stripeDesc": "Les Abajourts sont des lampes artisanales en fibres naturelles, souvent utilisées pour créer une ambiance chaleureuse et apaisante dans un intérieur. Selon les croyances en lithothérapie et en bien-être énergétique, ces pièces en matériaux bruts favoriseraient une connexion avec la nature et une énergie positive, aidant à apaiser les émotions et à favoriser la détente. Leur design unique en fait aussi un objet de décoration original et inspirant.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

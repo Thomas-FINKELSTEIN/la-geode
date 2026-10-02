@@ -18748,7 +18748,17 @@
               "description": "L'oeuf de yoni en oeil de tigre est une pierre aux bandes dorées et noires qui symbolise la féminité, la force et l'équilibre énergétique. En lithothérapie, il est souvent utilisé pour renforcer la connexion à soi-même, stimuler la créativité et apaiser les émotions. Son énergie positive est idéale pour accompagner les moments de transition ou de quête d'harmonie intérieure.",
               "photo": "images/articles/oeuf-de-yoni-oeil-de-tigre-mur656fu7ht1.jpg",
               "prixBoutique": 22.5,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/3cI00kfAu0Bfgf6fS928G3j",
+              "stripeProductId": "prod_VMsytvm7pRgtEt",
+              "stripePriceId": "price_1UM9CiLOfCA5mATu9rjjCVDp",
+              "stripeLinkId": "plink_1UM9CiLOfCA5mATuM1Q9B3z2",
+              "stripePrix": 23.52,
+              "stripeMode": "live",
+              "stripeNom": "Oeuf de yoni oeil de tigre",
+              "stripeDesc": "L'oeuf de yoni en oeil de tigre est une pierre aux bandes dorées et noires qui symbolise la féminité, la force et l'équilibre énergétique. En lithothérapie, il est souvent utilisé pour renforcer la connexion à soi-même, stimuler la créativité et apaiser les émotions. Son énergie positive est idéale pour accompagner les moments de transition ou de quête d'harmonie intérieure.",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "oeuf-de-yoni-cristal-de-roche-mur666u9kzkn",
@@ -18757,7 +18767,17 @@
               "description": "Cet œuf de yoni en cristal de roche est une pièce unique et apaisante, souvent utilisée pour son énergie purificatrice et équilibrante. En lithothérapie, il est associé à la reconnexion avec la féminité, la douceur et la sérénité, aidant à harmoniser les émotions et à renforcer la confiance en soi. Idéal pour une méditation ou une utilisation en décoration spirituelle, il apporte une touche de douceur et de lumière dans votre quotidien.",
               "photo": "images/articles/oeuf-de-yoni-cristal-de-roche-mur666u9tid9.jpg",
               "prixBoutique": 22.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMcN673Y1Fjfb2bBT28G3k",
+              "stripeProductId": "prod_VMsyU5hYN8qlFH",
+              "stripePriceId": "price_1UM9CjLOfCA5mATufZNBAzOe",
+              "stripeLinkId": "plink_1UM9CjLOfCA5mATu7AoH0fMf",
+              "stripePrix": 23.52,
+              "stripeMode": "live",
+              "stripeNom": "Oeuf de yoni cristal de roche",
+              "stripeDesc": "Cet œuf de yoni en cristal de roche est une pièce unique et apaisante, souvent utilisée pour son énergie purificatrice et équilibrante. En lithothérapie, il est associé à la reconnexion avec la féminité, la douceur et la sérénité, aidant à harmoniser les émotions et à renforcer la confiance en soi. Idéal pour une méditation ou une utilisation en décoration spirituelle, il apporte une touche de douceur et de lumière dans votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

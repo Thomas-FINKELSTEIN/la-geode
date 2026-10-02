@@ -19522,6 +19522,22 @@
               "epuise": false
             }
           ]
+        },
+        {
+          "id": "decoration-maison-muqliy60mr45",
+          "nom": "Décoration maison",
+          "slogan": "Cadres, miroirs, statues bibelots",
+          "articles": [
+            {
+              "id": "petite-fiole-avec-feuilles-d-or-muqlmu6wtrl9",
+              "nom": "Petite fiole avec feuilles d'or",
+              "prix": 10.5,
+              "description": "Petite fiole or natif",
+              "photo": "images/articles/petite-fiole-avec-feuilles-d-or-muqlmu6wxyop.jpg",
+              "prixBoutique": 9.9,
+              "stock": 17
+            }
+          ]
         }
       ]
     }

@@ -18748,7 +18748,17 @@
               "description": "L'oeuf de yoni en oeil de tigre est une pierre aux bandes dorées et noires qui symbolise la féminité, la force et l'équilibre énergétique. En lithothérapie, il est souvent utilisé pour renforcer la connexion à soi-même, stimuler la créativité et apaiser les émotions. Son énergie positive est idéale pour accompagner les moments de transition ou de quête d'harmonie intérieure.",
               "photo": "images/articles/oeuf-de-yoni-oeil-de-tigre-mur656fu7ht1.jpg",
               "prixBoutique": 22.5,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/eVqaEYdsmfw93sk8pH28G3l",
+              "stripeProductId": "prod_VMszKj3ngryPHR",
+              "stripePriceId": "price_1UM9DTLOfCA5mATuJvGR07YK",
+              "stripeLinkId": "plink_1UM9DTLOfCA5mATuW9jEYUE7",
+              "stripePrix": 23.52,
+              "stripeMode": "live",
+              "stripeNom": "Oeuf de yoni oeil de tigre",
+              "stripeDesc": "L'oeuf de yoni en oeil de tigre est une pierre aux bandes dorées et noires qui symbolise la féminité, la force et l'équilibre énergétique. En lithothérapie, il est souvent utilisé pour renforcer la connexion à soi-même, stimuler la créativité et apaiser les émotions. Son énergie positive est idéale pour accompagner les moments de transition ou de quête d'harmonie intérieure.",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "oeuf-de-yoni-cristal-de-roche-mur666u9kzkn",
@@ -18757,7 +18767,17 @@
               "description": "Cet œuf de yoni en cristal de roche est une pièce unique et apaisante, souvent utilisée pour son énergie purificatrice et équilibrante. En lithothérapie, il est associé à la reconnexion avec la féminité, la douceur et la sérénité, aidant à harmoniser les émotions et à renforcer la confiance en soi. Idéal pour une méditation ou une utilisation en décoration spirituelle, il apporte une touche de douceur et de lumière dans votre quotidien.",
               "photo": "images/articles/oeuf-de-yoni-cristal-de-roche-mur666u9tid9.jpg",
               "prixBoutique": 22.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A9AUdsmabP0g87lD28G3m",
+              "stripeProductId": "prod_VMszAT0gI5X7V2",
+              "stripePriceId": "price_1UM9DTLOfCA5mATuNvMS5s33",
+              "stripeLinkId": "plink_1UM9DULOfCA5mATu9so1WCT6",
+              "stripePrix": 23.52,
+              "stripeMode": "live",
+              "stripeNom": "Oeuf de yoni cristal de roche",
+              "stripeDesc": "Cet œuf de yoni en cristal de roche est une pièce unique et apaisante, souvent utilisée pour son énergie purificatrice et équilibrante. En lithothérapie, il est associé à la reconnexion avec la féminité, la douceur et la sérénité, aidant à harmoniser les émotions et à renforcer la confiance en soi. Idéal pour une méditation ou une utilisation en décoration spirituelle, il apporte une touche de douceur et de lumière dans votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "oeuf-de-yoni-obsidienne-mur678yzmk8k",
@@ -18766,7 +18786,17 @@
               "description": "L'oeuf de yoni en obsidienne est une pierre aux énergies puissantes, souvent utilisée pour son influence sur la féminité, la protection et la reconnexion avec soi-même. En lithothérapie, elle est réputée pour aider à libérer les blocages émotionnels et à renforcer la confiance en soi. Son énergie profonde en fait un allié précieux pour ceux qui cherchent à harmoniser leur être intérieur.",
               "photo": "images/articles/oeuf-de-yoni-obsidienne-mur678yzd5eb.jpg",
               "prixBoutique": 22.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYdRa4VQ3Nr2og35n28G3n",
+              "stripeProductId": "prod_VMszQNHR4Afb6L",
+              "stripePriceId": "price_1UM9DULOfCA5mATu5caUmB9o",
+              "stripeLinkId": "plink_1UM9DULOfCA5mATuPdTxZCPH",
+              "stripePrix": 23.52,
+              "stripeMode": "live",
+              "stripeNom": "Oeuf de yoni obsidienne",
+              "stripeDesc": "L'oeuf de yoni en obsidienne est une pierre aux énergies puissantes, souvent utilisée pour son influence sur la féminité, la protection et la reconnexion avec soi-même. En lithothérapie, elle est réputée pour aider à libérer les blocages émotionnels et à renforcer la confiance en soi. Son énergie profonde en fait un allié précieux pour ceux qui cherchent à harmoniser leur être intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

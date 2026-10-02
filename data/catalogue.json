@@ -18748,7 +18748,17 @@
               "description": "L'oeuf de yoni en oeil de tigre est une pierre aux bandes dorées et noires qui symbolise la féminité, la force et l'équilibre énergétique. En lithothérapie, il est souvent utilisé pour renforcer la connexion à soi-même, stimuler la créativité et apaiser les émotions. Son énergie positive est idéale pour accompagner les moments de transition ou de quête d'harmonie intérieure.",
               "photo": "images/articles/oeuf-de-yoni-oeil-de-tigre-mur656fu7ht1.jpg",
               "prixBoutique": 22.5,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/28E4gA2NI83H3skbBT28G3i",
+              "stripeProductId": "prod_VMsxOaGUWr5FUf",
+              "stripePriceId": "price_1UM9C3LOfCA5mATuuzecLcWL",
+              "stripeLinkId": "plink_1UM9C3LOfCA5mATuRjIxMTrd",
+              "stripePrix": 23.52,
+              "stripeMode": "live",
+              "stripeNom": "Oeuf de yoni oeil de tigre",
+              "stripeDesc": "L'oeuf de yoni en oeil de tigre est une pierre aux bandes dorées et noires qui symbolise la féminité, la force et l'équilibre énergétique. En lithothérapie, il est souvent utilisé pour renforcer la connexion à soi-même, stimuler la créativité et apaiser les émotions. Son énergie positive est idéale pour accompagner les moments de transition ou de quête d'harmonie intérieure.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

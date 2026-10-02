@@ -19535,7 +19535,17 @@
               "description": "Petite fiole or natif",
               "photo": "images/articles/petite-fiole-avec-feuilles-d-or-muqlmu6wxyop.jpg",
               "prixBoutique": 9.9,
-              "stock": 17
+              "stock": 17,
+              "stripe": "https://buy.stripe.com/5kQ9AUaga6ZD5AscFX28B1N",
+              "stripeProductId": "prod_VMjo2eN3wOR7d5",
+              "stripePriceId": "price_1UM0KaLOfCA5mATuA1tGNseQ",
+              "stripeLinkId": "plink_1UM0KaLOfCA5mATu0Mt6YUzx",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Petite fiole avec feuilles d'or",
+              "stripeDesc": "Petite fiole or natif",
+              "stripeStock": 17,
+              "epuise": false
             },
             {
               "id": "or-natif-grand-modele-muqlsnxrji9j",
@@ -19544,7 +19554,17 @@
               "description": "Or natif",
               "photo": "images/articles/or-natif-grand-modele-muqlsnxrd7yy.jpg",
               "prixBoutique": 27.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/8x26oI9c63Nr3sk21j28B1O",
+              "stripeProductId": "prod_VMjoD1KW7j0MUC",
+              "stripePriceId": "price_1UM0KbLOfCA5mATuIu8LW75k",
+              "stripeLinkId": "plink_1UM0KbLOfCA5mATuNQzm39Xf",
+              "stripePrix": 29.1,
+              "stripeMode": "live",
+              "stripeNom": "Or natif grand modèle",
+              "stripeDesc": "Or natif",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "amphore-d-or-muqlv9h2lkxh",
@@ -19553,7 +19573,17 @@
               "description": "Amphore d'or",
               "photo": "images/articles/amphore-d-or-muqlv9h2so1l.jpg",
               "prixBoutique": 17.7,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/7sY00k0FA1Fje6Y21j28B1P",
+              "stripeProductId": "prod_VMjoo1LfpDIiuw",
+              "stripePriceId": "price_1UM0KcLOfCA5mATu7ugq51DB",
+              "stripeLinkId": "plink_1UM0KcLOfCA5mATuvpoaDaEB",
+              "stripePrix": 18.56,
+              "stripeMode": "live",
+              "stripeNom": "Amphore d'or",
+              "stripeDesc": "Amphore d'or",
+              "stripeStock": 11,
+              "epuise": false
             }
           ]
         }

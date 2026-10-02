@@ -19471,7 +19471,17 @@
               "description": "Grande lampe de sel 50 cm sur 40 cm, La lampe de sel envoi des ions négatifs très positives sur notre corps, permet un très bon sommeil, bon pour diminuer les maux de crâne, anti-stress.",
               "photo": "images/articles/lampe-de-sel-grande-taille-muqn0u44li0y.jpg",
               "prixBoutique": 172.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUcN60FA83H6EwgWd28B2t",
+              "stripeProductId": "prod_VMky4HZwwsueD1",
+              "stripePriceId": "price_1UM1S8LOfCA5mATuQeOHdGzt",
+              "stripeLinkId": "plink_1UM1S8LOfCA5mATuUOpqEDyp",
+              "stripePrix": 178.56,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de sel grande taille",
+              "stripeDesc": "Grande lampe de sel 50 cm sur 40 cm, La lampe de sel envoi des ions négatifs très positives sur notre corps, permet un très bon sommeil, bon pour diminuer les maux de crâne, anti-stress.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "lampe-de-sel-grande-taille-muqnm3gc2xcz",
@@ -19480,7 +19490,17 @@
               "description": "Lampe de sel 55 cm sur 30 cm, la lampe de sel envoie des ions négatifs bénéfiques pour notre corps, on ressent de l'apaisement , le stress diminue, soulage aussi les migraines, et favorise l'endormissement pour avoir un profond sommeil par la suite,",
               "photo": "images/articles/lampe-de-sel-grande-taille-muqnm3gcwne9.jpg",
               "prixBoutique": 172.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi6oIgEyabP0g86hz28B2u",
+              "stripeProductId": "prod_VMkydXrLTCbIk5",
+              "stripePriceId": "price_1UM1S9LOfCA5mATuABt0gnlw",
+              "stripeLinkId": "plink_1UM1S9LOfCA5mATuEvAPqb8V",
+              "stripePrix": 178.56,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de sel grande taille",
+              "stripeDesc": "Lampe de sel 55 cm sur 30 cm, la lampe de sel envoie des ions négatifs bénéfiques pour notre corps, on ressent de l'apaisement , le stress diminue, soulage aussi les migraines, et favorise l'endormissement pour avoir un profond sommeil par la suite,",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -19496,7 +19516,17 @@
               "description": "Sculpture en pierre représentant une silhouette humaine très stylisée, un visage volontairement simplifié, sans yeux sans bouche, un corps recroqueviller et géométrique, avec des formes arrondies,",
               "photo": "images/articles/statue-en-ciment-1-m-x-20-cm-muqo0beaeksh.jpg",
               "prixBoutique": 264,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNibJ21JEcjXbYQ21j28B2v",
+              "stripeProductId": "prod_VMkyyAmppJ3xFR",
+              "stripePriceId": "price_1UM1SALOfCA5mATuljFEFvbW",
+              "stripeLinkId": "plink_1UM1SALOfCA5mATu8dqc84E9",
+              "stripePrix": 273.13,
+              "stripeMode": "live",
+              "stripeNom": "Statue en ciment 1 m x 20 cm",
+              "stripeDesc": "Sculpture en pierre représentant une silhouette humaine très stylisée, un visage volontairement simplifié, sans yeux sans bouche, un corps recroqueviller et géométrique, avec des formes arrondies,",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -19564,7 +19594,17 @@
               "description": "Petite fiole or natif",
               "photo": "images/articles/petite-fiole-avec-feuilles-d-or-muqlmu6wxyop.jpg",
               "prixBoutique": 9.9,
-              "stock": 17
+              "stock": 17,
+              "stripe": "https://buy.stripe.com/14AaEYewqgAd3sk7lD28B2w",
+              "stripeProductId": "prod_VMky8CGQbiMBk1",
+              "stripePriceId": "price_1UM1SALOfCA5mATunpQqZej0",
+              "stripeLinkId": "plink_1UM1SBLOfCA5mATu4seKF4SS",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Petite fiole avec feuilles d'or",
+              "stripeDesc": "Petite fiole or natif",
+              "stripeStock": 17,
+              "epuise": false
             },
             {
               "id": "or-natif-grand-modele-muqlsnxrji9j",
@@ -19573,7 +19613,17 @@
               "description": "Or natif",
               "photo": "images/articles/or-natif-grand-modele-muqlsnxrd7yy.jpg",
               "prixBoutique": 27.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/cNifZi3RM6ZD5As7lD28B2x",
+              "stripeProductId": "prod_VMkyRsIKFbZW0D",
+              "stripePriceId": "price_1UM1SBLOfCA5mATu3q9VNv9T",
+              "stripeLinkId": "plink_1UM1SBLOfCA5mATuxksuCQpQ",
+              "stripePrix": 29.1,
+              "stripeMode": "live",
+              "stripeNom": "Or natif grand modèle",
+              "stripeDesc": "Or natif",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "amphore-d-or-muqlv9h2lkxh",
@@ -19582,7 +19632,17 @@
               "description": "Amphore d'or",
               "photo": "images/articles/amphore-d-or-muqlv9h2so1l.jpg",
               "prixBoutique": 17.7,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/fZu4gA2NI83H0g86hz28B2y",
+              "stripeProductId": "prod_VMkyXEdvsq8PeO",
+              "stripePriceId": "price_1UM1SCLOfCA5mATuV31yA88K",
+              "stripeLinkId": "plink_1UM1SCLOfCA5mATuBEhehTdO",
+              "stripePrix": 18.56,
+              "stripeMode": "live",
+              "stripeNom": "Amphore d'or",
+              "stripeDesc": "Amphore d'or",
+              "stripeStock": 11,
+              "epuise": false
             }
           ]
         },
@@ -19598,7 +19658,17 @@
               "description": "La Shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent appelée la pierre de vie. Selon la lithothérapie, elle agit comme un bouclier protecteur contre les rayonnements électromagnétiques des appareils électroniques, aidant ainsi à préserver votre bien-être au quotidien. Elle est aussi réputée pour régénérer et protéger le corps physique, tout en favorisant un équilibre énergétique harmonieux.",
               "photo": "images/articles/pouvoirs-et-vertus-de-la-shungite-muqo6cnozb9e.jpg",
               "prixBoutique": 18,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/eVqcN6coi6ZDe6YgWd28B2z",
+              "stripeProductId": "prod_VMkyYtkxqYD9f9",
+              "stripePriceId": "price_1UM1SCLOfCA5mATuFJalU0eT",
+              "stripeLinkId": "plink_1UM1SDLOfCA5mATuknIdeADX",
+              "stripePrix": 18.87,
+              "stripeMode": "live",
+              "stripeNom": "Pouvoirs et vertus de la Shungite",
+              "stripeDesc": "La Shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent appelée la pierre de vie. Selon la lithothérapie, elle agit comme un bouclier protecteur contre les rayonnements électromagnétiques des appareils électroniques, aidant ainsi à préserver votre bien-être au quotidien. Elle est aussi réputée pour régénérer et protéger le corps physique, tout en favorisant un équilibre énergétique harmonieux.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "lampe-en-cristal-de-sel-muqo97cjo6eu",
@@ -19607,7 +19677,17 @@
               "description": "Purifier et harmoniser votre maison",
               "photo": "images/articles/lampe-en-cristal-de-sel-muqo97cjepep.jpg",
               "prixBoutique": 18,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ28sdsm4Rv8ME35n28B2A",
+              "stripeProductId": "prod_VMkyLDtfr1OlTh",
+              "stripePriceId": "price_1UM1SDLOfCA5mATuDwxZfs2a",
+              "stripeLinkId": "plink_1UM1SDLOfCA5mATueIKVmYcg",
+              "stripePrix": 18.87,
+              "stripeMode": "live",
+              "stripeNom": "Lampe en cristal de sel",
+              "stripeDesc": "Purifier et harmoniser votre maison",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "dictionnaire-des-encens-muqodjcain18",
@@ -19616,7 +19696,17 @@
               "description": "Ce dictionnaire des encens propose une sélection variée de mélanges parfumés traditionnels, idéaux pour créer une ambiance apaisante ou énergétique dans votre espace de vie. Chaque encens est associé à des propriétés spécifiques en lithothérapie et en bien-être, comme la purification, la concentration ou la détente. Parfait pour les rituels, la méditation ou simplement pour embellir votre intérieur de fragrances naturelles et authentiques.",
               "photo": "images/articles/dictionnaire-des-encens-muqodjcb1ix0.jpg",
               "prixBoutique": 12.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu5kE8821Fj4wodK128B2B",
+              "stripeProductId": "prod_VMkyW3ofuugwjL",
+              "stripePriceId": "price_1UM1SELOfCA5mATuj3L0ZYHA",
+              "stripeLinkId": "plink_1UM1SELOfCA5mATu4xpzaf7B",
+              "stripePrix": 13.18,
+              "stripeMode": "live",
+              "stripeNom": "Dictionnaire des encens",
+              "stripeDesc": "Ce dictionnaire des encens propose une sélection variée de mélanges parfumés traditionnels, idéaux pour créer une ambiance apaisante ou énergétique dans votre espace de vie. Chaque encens est associé à des propriétés spécifiques en lithothérapie et en bien-être, comme la purification, la concentration ou la détente. Parfait pour les rituels, la méditation ou simplement pour embellir votre intérieur de fragrances naturelles et authentiques.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "le-grand-defi-muqofohmynvf",
@@ -19625,7 +19715,17 @@
               "description": "Le grand défi est un livre inspirant qui propose des stratégies pour transformer sa vie et renforcer sa détermination. À travers des enseignements motivants, il aide à surmonter les défis personnels et à cultiver une mentalité gagnante. Idéal pour ceux qui cherchent à retrouver confiance en eux et à avancer vers leurs objectifs avec énergie et persévérance.",
               "photo": "images/articles/le-grand-defi-muqofohm6ss0.jpg",
               "prixBoutique": 36.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe3cwfAu0Bf8ME7lD28B2C",
+              "stripeProductId": "prod_VMkyXok1bzyQjb",
+              "stripePriceId": "price_1UM1SFLOfCA5mATuxOvAJXxQ",
+              "stripeLinkId": "plink_1UM1SFLOfCA5mATuCf37k5LI",
+              "stripePrix": 38.4,
+              "stripeMode": "live",
+              "stripeNom": "Le grand défi",
+              "stripeDesc": "Le grand défi est un livre inspirant qui propose des stratégies pour transformer sa vie et renforcer sa détermination. À travers des enseignements motivants, il aide à surmonter les défis personnels et à cultiver une mentalité gagnante. Idéal pour ceux qui cherchent à retrouver confiance en eux et à avancer vers leurs objectifs avec énergie et persévérance.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -19471,17 +19471,16 @@
               "description": "Grande lampe de sel 50 cm sur 40 cm, La lampe de sel envoi des ions négatifs très positives sur notre corps, permet un très bon sommeil, bon pour diminuer les maux de crâne, anti-stress.",
               "photo": "images/articles/lampe-de-sel-grande-taille-muqn0u44li0y.jpg",
               "prixBoutique": 172.5,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/7sYbJ2fAufw91kcgWd28B1Q",
-              "stripeProductId": "prod_VMkKxTbQqxsqze",
-              "stripePriceId": "price_1UM0ptLOfCA5mATuyxVaKbxx",
-              "stripeLinkId": "plink_1UM0ptLOfCA5mATuhWHqCXIB",
-              "stripePrix": 178.56,
-              "stripeMode": "live",
-              "stripeNom": "Lampe de sel grande taille",
-              "stripeDesc": "Grande lampe de sel 50 cm sur 40 cm, La lampe de sel envoi des ions négatifs très positives sur notre corps, permet un très bon sommeil, bon pour diminuer les maux de crâne, anti-stress.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "lampe-de-sel-grande-taille-muqnm3gc2xcz",
+              "nom": "Lampe de sel grande taille",
+              "prix": 178.56,
+              "description": "Lampe de sel 55 cm sur 30 cm, la lampe de sel envoie des ions négatifs bénéfiques pour notre corps, on ressent de l'apaisement , le stress diminue, soulage aussi les migraines, et favorise l'endormissement pour avoir un profond sommeil par la suite,",
+              "photo": "images/articles/lampe-de-sel-grande-taille-muqnm3gcwne9.jpg",
+              "prixBoutique": 172.5,
+              "stock": 1
             }
           ]
         },
@@ -19555,17 +19554,7 @@
               "description": "Petite fiole or natif",
               "photo": "images/articles/petite-fiole-avec-feuilles-d-or-muqlmu6wxyop.jpg",
               "prixBoutique": 9.9,
-              "stock": 17,
-              "stripe": "https://buy.stripe.com/aFacN60FA6ZDbYQgWd28B1R",
-              "stripeProductId": "prod_VMkKVkmQuKyvW2",
-              "stripePriceId": "price_1UM0puLOfCA5mATuTKa337e8",
-              "stripeLinkId": "plink_1UM0puLOfCA5mATugeodfaS2",
-              "stripePrix": 10.5,
-              "stripeMode": "live",
-              "stripeNom": "Petite fiole avec feuilles d'or",
-              "stripeDesc": "Petite fiole or natif",
-              "stripeStock": 17,
-              "epuise": false
+              "stock": 17
             },
             {
               "id": "or-natif-grand-modele-muqlsnxrji9j",
@@ -19574,17 +19563,7 @@
               "description": "Or natif",
               "photo": "images/articles/or-natif-grand-modele-muqlsnxrd7yy.jpg",
               "prixBoutique": 27.9,
-              "stock": 4,
-              "stripe": "https://buy.stripe.com/8x2bJ20FA0Bfd2UbBT28B1S",
-              "stripeProductId": "prod_VMkKlqhcOXWgyn",
-              "stripePriceId": "price_1UM0puLOfCA5mATuM5zd0Kec",
-              "stripeLinkId": "plink_1UM0pvLOfCA5mATuZQhFpMjP",
-              "stripePrix": 29.1,
-              "stripeMode": "live",
-              "stripeNom": "Or natif grand modèle",
-              "stripeDesc": "Or natif",
-              "stripeStock": 4,
-              "epuise": false
+              "stock": 4
             },
             {
               "id": "amphore-d-or-muqlv9h2lkxh",
@@ -19593,17 +19572,7 @@
               "description": "Amphore d'or",
               "photo": "images/articles/amphore-d-or-muqlv9h2so1l.jpg",
               "prixBoutique": 17.7,
-              "stock": 11,
-              "stripe": "https://buy.stripe.com/14A14o2NIfw9d2U0Xf28B1T",
-              "stripeProductId": "prod_VMkKO5ol8Hfzci",
-              "stripePriceId": "price_1UM0pvLOfCA5mATusjOJugDi",
-              "stripeLinkId": "plink_1UM0pwLOfCA5mATuox6SQSWm",
-              "stripePrix": 18.56,
-              "stripeMode": "live",
-              "stripeNom": "Amphore d'or",
-              "stripeDesc": "Amphore d'or",
-              "stripeStock": 11,
-              "epuise": false
+              "stock": 11
             }
           ]
         }

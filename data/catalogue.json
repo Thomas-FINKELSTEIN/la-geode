@@ -381,15 +381,15 @@
               "photo": "images/articles/petite-en-amethyste-croix-mu2ffbgpmxf3.jpg",
               "prixBoutique": 2,
               "stock": 1,
-              "stripe": "https://buy.stripe.com/aFafZi3RMabP8ME0Xf28v0f",
+              "stripe": "https://buy.stripe.com/bJe3cw0FAbfT9QI21j28C1V",
               "stripeProductId": "prod_VGOn4UlfaHjKBh",
               "stripePriceId": "price_1UFrzoLOfCA5mATu9jvLheT7",
-              "stripeLinkId": "plink_1ULOrgLOfCA5mATu1onO7QtM",
+              "stripeLinkId": "plink_1UM6gkLOfCA5mATuw5Bi4FBi",
               "stripePrix": 2.33,
               "stripeMode": "live",
               "stripeNom": "Petite  Croix en amethyste",
               "stripeDesc": "Cette petite croix en amethyste allie élégance et spiritualité. L'amethyste, pierre de calme et de sérénité, est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la concentration. Elle est idéale pour créer une ambiance paisible dans votre espace ou pour une méditation apaisante.",
-              "stripeStock": 2,
+              "stripeStock": 1,
               "epuise": false
             }
           ]
@@ -12408,15 +12408,15 @@
               "photo": "images/articles/bracelet-jaspe-kambaba-8-mm-mtiosua7azbx.jpg",
               "prixBoutique": 12.9,
               "stock": 1,
-              "stripe": "https://buy.stripe.com/fZudRa2NI97L3skeO52882W",
+              "stripe": "https://buy.stripe.com/14A4gAfAu3Nrd2U35n28C1W",
               "stripeProductId": "prod_VBDw6cdqDVNoXp",
               "stripePriceId": "price_1UArUVLOfCA5mATuR7zcNqFD",
-              "stripeLinkId": "plink_1UArUVLOfCA5mATuFCc21D52",
+              "stripeLinkId": "plink_1UM6glLOfCA5mATuH6Dtx8K8",
               "stripePrix": 13.6,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe kambaba 8 mm",
               "stripeDesc": "La jaspe kambaba procure de l' apaisement, de l' ancrage, une stabilité émotionnelle et une très bonne connexion à la nature.",
-              "stripeStock": 2,
+              "stripeStock": 1,
               "epuise": false
             },
             {
@@ -19452,7 +19452,17 @@
               "description": "Grande lampe de sel 50 cm sur 40 cm, La lampe de sel envoi des ions négatifs très positives sur notre corps, permet un très bon sommeil, bon pour diminuer les maux de crâne, anti-stress.",
               "photo": "images/articles/lampe-de-sel-grande-taille-muqn0u44li0y.jpg",
               "prixBoutique": 172.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYaEY8825Vz8MEeO528C1X",
+              "stripeProductId": "prod_VMqNPQUp6Y9YGu",
+              "stripePriceId": "price_1UM6glLOfCA5mATuT0Vbuyu5",
+              "stripeLinkId": "plink_1UM6glLOfCA5mATuZFJ3wKeH",
+              "stripePrix": 178.56,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de sel grande taille",
+              "stripeDesc": "Grande lampe de sel 50 cm sur 40 cm, La lampe de sel envoi des ions négatifs très positives sur notre corps, permet un très bon sommeil, bon pour diminuer les maux de crâne, anti-stress.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "lampe-de-sel-grande-taille-muqnm3gc2xcz",
@@ -19461,7 +19471,17 @@
               "description": "Lampe de sel 55 cm sur 30 cm, la lampe de sel envoie des ions négatifs bénéfiques pour notre corps, on ressent de l'apaisement , le stress diminue, soulage aussi les migraines, et favorise l'endormissement pour avoir un profond sommeil par la suite,",
               "photo": "images/articles/lampe-de-sel-grande-taille-muqnm3gcwne9.jpg",
               "prixBoutique": 172.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa4gAfAu3NraUM49r28C1Y",
+              "stripeProductId": "prod_VMqNzWWJuk7Uxx",
+              "stripePriceId": "price_1UM6gmLOfCA5mATu8Af2GnOe",
+              "stripeLinkId": "plink_1UM6gmLOfCA5mATuDz8lbKXQ",
+              "stripePrix": 178.56,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de sel grande taille",
+              "stripeDesc": "Lampe de sel 55 cm sur 30 cm, la lampe de sel envoie des ions négatifs bénéfiques pour notre corps, on ressent de l'apaisement , le stress diminue, soulage aussi les migraines, et favorise l'endormissement pour avoir un profond sommeil par la suite,",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -19477,7 +19497,17 @@
               "description": "Sculpture en pierre représentant une silhouette humaine très stylisée, un visage volontairement simplifié, sans yeux sans bouche, un corps recroqueviller et géométrique, avec des formes arrondies,",
               "photo": "images/articles/statue-en-ciment-1-m-x-20-cm-muqo0beaeksh.jpg",
               "prixBoutique": 264,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRmaEYbkefw98ME8pH28C1Z",
+              "stripeProductId": "prod_VMqNBrVxha9xSR",
+              "stripePriceId": "price_1UM6gmLOfCA5mATuo2Ek6TZ0",
+              "stripeLinkId": "plink_1UM6gnLOfCA5mATuLT1hUC23",
+              "stripePrix": 273.13,
+              "stripeMode": "live",
+              "stripeNom": "Statue en ciment 1 m x 20 cm",
+              "stripeDesc": "Sculpture en pierre représentant une silhouette humaine très stylisée, un visage volontairement simplifié, sans yeux sans bouche, un corps recroqueviller et géométrique, avec des formes arrondies,",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -19545,7 +19575,17 @@
               "description": "Petite fiole or natif",
               "photo": "images/articles/petite-fiole-avec-feuilles-d-or-muqlmu6wxyop.jpg",
               "prixBoutique": 9.9,
-              "stock": 17
+              "stock": 17,
+              "stripe": "https://buy.stripe.com/28E3cw5ZU0Bf4woaxP28C20",
+              "stripeProductId": "prod_VMqNE119NOD8qZ",
+              "stripePriceId": "price_1UM6gnLOfCA5mATu4BR6q6cY",
+              "stripeLinkId": "plink_1UM6gnLOfCA5mATuOckGcwvZ",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Petite fiole avec feuilles d'or",
+              "stripeDesc": "Petite fiole or natif",
+              "stripeStock": 17,
+              "epuise": false
             },
             {
               "id": "or-natif-grand-modele-muqlsnxrji9j",
@@ -19554,7 +19594,17 @@
               "description": "Or natif",
               "photo": "images/articles/or-natif-grand-modele-muqlsnxrd7yy.jpg",
               "prixBoutique": 27.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/8x27sM5ZU1Fj0g8eO528C21",
+              "stripeProductId": "prod_VMqNEsvhcYXp5b",
+              "stripePriceId": "price_1UM6gnLOfCA5mATu2ETIONMB",
+              "stripeLinkId": "plink_1UM6goLOfCA5mATut00zLw4N",
+              "stripePrix": 29.1,
+              "stripeMode": "live",
+              "stripeNom": "Or natif grand modèle",
+              "stripeDesc": "Or natif",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "amphore-d-or-muqlv9h2lkxh",
@@ -19563,7 +19613,17 @@
               "description": "Amphore d'or",
               "photo": "images/articles/amphore-d-or-muqlv9h2so1l.jpg",
               "prixBoutique": 17.7,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/6oU5kE2NIfw9aUMfS928C22",
+              "stripeProductId": "prod_VMqNVuAyxPLa4y",
+              "stripePriceId": "price_1UM6goLOfCA5mATuv6APPMmO",
+              "stripeLinkId": "plink_1UM6goLOfCA5mATuGTJ4M9bh",
+              "stripePrix": 18.56,
+              "stripeMode": "live",
+              "stripeNom": "Amphore d'or",
+              "stripeDesc": "Amphore d'or",
+              "stripeStock": 11,
+              "epuise": false
             },
             {
               "id": "corbeille-ronde-20-cm-x-25-cm-de-diametr-muqoqmh8xlzi",
@@ -19572,7 +19632,17 @@
               "description": "Cette corbeille ronde en fibres naturelles est un accessoire décoratif et pratique pour sublimer votre intérieur tout en apportant une touche chaleureuse et organique. Idéale pour y déposer des cristaux, des bougies ou des éléments de décoration, elle favorise une ambiance harmonieuse et apaisante. En lithothérapie, les objets en fibres naturelles sont souvent associés à une énergie équilibrante, aidant à ancrer les intentions positives et à créer un espace de bien-être.",
               "photo": "images/articles/corbeille-ronde-20-cm-x-25-cm-de-diametr-muqoqmh85gdk.jpg",
               "prixBoutique": 12.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQbJ2fAu2Jn7IAgWd28C23",
+              "stripeProductId": "prod_VMqNWt6jC0XWn8",
+              "stripePriceId": "price_1UM6gpLOfCA5mATuku0JssjQ",
+              "stripeLinkId": "plink_1UM6gpLOfCA5mATuhYVVpQ2Q",
+              "stripePrix": 13.18,
+              "stripeMode": "live",
+              "stripeNom": "Corbeille ronde 20 cm x 25 cm de diamètre",
+              "stripeDesc": "Cette corbeille ronde en fibres naturelles est un accessoire décoratif et pratique pour sublimer votre intérieur tout en apportant une touche chaleureuse et organique. Idéale pour y déposer des cristaux, des bougies ou des éléments de décoration, elle favorise une ambiance harmonieuse et apaisante. En lithothérapie, les objets en fibres naturelles sont souvent associés à une énergie équilibrante, aidant à ancrer les intentions positives et à créer un espace de bien-être.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "corbeille-ronde-x-27-cm-30-cm-muqotxlt4kjk",
@@ -19581,7 +19651,17 @@
               "description": "Corbeille ronde en fibres naturelles, idéale pour décorer votre intérieur avec élégance et douceur. Son design harmonieux apporte une touche de chaleur et de sérénité à votre espace, tout en servant de support pour ranger des objets ou des éléments de décoration. Parfaite pour une ambiance apaisante et équilibrée, elle s’intègre facilement dans une déco bohème ou zen.",
               "photo": "images/articles/corbeille-ronde-x-27-cm-30-cm-muqotxlt4dx9.jpg",
               "prixBoutique": 15.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/fZucN673YbfTaUM9tL28C24",
+              "stripeProductId": "prod_VMqN70uaSVvo84",
+              "stripePriceId": "price_1UM6gpLOfCA5mATu5ZLbGZNq",
+              "stripeLinkId": "plink_1UM6gpLOfCA5mATunWiS9yyg",
+              "stripePrix": 16.28,
+              "stripeMode": "live",
+              "stripeNom": "Corbeille ronde x 27 cm 30 cm",
+              "stripeDesc": "Corbeille ronde en fibres naturelles, idéale pour décorer votre intérieur avec élégance et douceur. Son design harmonieux apporte une touche de chaleur et de sérénité à votre espace, tout en servant de support pour ranger des objets ou des éléments de décoration. Parfaite pour une ambiance apaisante et équilibrée, elle s’intègre facilement dans une déco bohème ou zen.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "grande-corbeille-x-diametre-30-cm-muqoyi4wpzf7",
@@ -19590,7 +19670,17 @@
               "description": "Cette grande corbeille tressée de 30 cm de diamètre apporte une touche naturelle et chaleureuse à votre intérieur. Idéale pour décorer vos espaces tout en y rangeant des éléments essentiels comme des pierres, des cristaux ou des encens, elle crée une ambiance harmonieuse et apaisante. Son design artisanal et ses franges douces en font un objet à la fois pratique et esthétique, parfait pour ceux qui aiment allier bien-être et élégance dans leur quotidien.",
               "photo": "images/articles/grande-corbeille-x-diametre-30-cm-muqoyi4x0a4k.jpg",
               "prixBoutique": 20.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMeVe9c65Vz9QI49r28C25",
+              "stripeProductId": "prod_VMqN4cNMr9CHTx",
+              "stripePriceId": "price_1UM6gqLOfCA5mATuVl1p5Cof",
+              "stripeLinkId": "plink_1UM6gqLOfCA5mATuzJbR5L0I",
+              "stripePrix": 21.45,
+              "stripeMode": "live",
+              "stripeNom": "Grande corbeille x diamètre 30 cm",
+              "stripeDesc": "Cette grande corbeille tressée de 30 cm de diamètre apporte une touche naturelle et chaleureuse à votre intérieur. Idéale pour décorer vos espaces tout en y rangeant des éléments essentiels comme des pierres, des cristaux ou des encens, elle crée une ambiance harmonieuse et apaisante. Son design artisanal et ses franges douces en font un objet à la fois pratique et esthétique, parfait pour ceux qui aiment allier bien-être et élégance dans leur quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "porte-fleur-en-macrazame-muqp20zc6dnh",
@@ -19599,7 +19689,17 @@
               "description": "Ce porte fleur en macramé apporte une touche bohème et naturelle à votre intérieur. Fabriqué avec des fibres végétales, il est idéal pour décorer vos espaces tout en apportant une énergie apaisante et harmonieuse. Parfait pour suspendre vos fleurs séchées ou fraîches, il ajoute une touche artisanale et chaleureuse à votre déco.",
               "photo": "images/articles/porte-fleur-en-macrazame-muqp20zc40mm.jpg",
               "prixBoutique": 9.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/8x28wQ8823Nr8MEbBT28C26",
+              "stripeProductId": "prod_VMqNXZ407FCCKV",
+              "stripePriceId": "price_1UM6gqLOfCA5mATuHuUS5AuG",
+              "stripeLinkId": "plink_1UM6gqLOfCA5mATu7UMHocvM",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Porte fleur en macrazamé",
+              "stripeDesc": "Ce porte fleur en macramé apporte une touche bohème et naturelle à votre intérieur. Fabriqué avec des fibres végétales, il est idéal pour décorer vos espaces tout en apportant une énergie apaisante et harmonieuse. Parfait pour suspendre vos fleurs séchées ou fraîches, il ajoute une touche artisanale et chaleureuse à votre déco.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "cadre-bouddha-mur06nthukxc",
@@ -19608,7 +19708,17 @@
               "description": "Ce cadre représentant un bouddha apporte une touche apaisante et spirituelle à votre intérieur. Associé à la sérénité et à la méditation, il est idéal pour créer une ambiance de calme et de bien-être. Parfait pour les espaces de détente ou de travail, il invite à la concentration et à la connexion avec soi-même.",
               "photo": "images/articles/cadre-bouddha-mur06nthdixp.jpg",
               "prixBoutique": 15.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa28s4VQ97Lfb2gWd28C27",
+              "stripeProductId": "prod_VMqNNK4C0q8uOt",
+              "stripePriceId": "price_1UM6grLOfCA5mATuBLLHvDs8",
+              "stripeLinkId": "plink_1UM6grLOfCA5mATujDTQ3uJO",
+              "stripePrix": 16.39,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha",
+              "stripeDesc": "Ce cadre représentant un bouddha apporte une touche apaisante et spirituelle à votre intérieur. Associé à la sérénité et à la méditation, il est idéal pour créer une ambiance de calme et de bien-être. Parfait pour les espaces de détente ou de travail, il invite à la concentration et à la connexion avec soi-même.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -19624,7 +19734,17 @@
               "description": "La Shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent appelée la pierre de vie. Selon la lithothérapie, elle agit comme un bouclier protecteur contre les rayonnements électromagnétiques des appareils électroniques, aidant ainsi à préserver votre bien-être au quotidien. Elle est aussi réputée pour régénérer et protéger le corps physique, tout en favorisant un équilibre énergétique harmonieux.",
               "photo": "images/articles/pouvoirs-et-vertus-de-la-shungite-muqo6cnozb9e.jpg",
               "prixBoutique": 18,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/9B63cwagado14wo35n28C28",
+              "stripeProductId": "prod_VMqNHcHBoqEZbL",
+              "stripePriceId": "price_1UM6grLOfCA5mATuSFLBMnG4",
+              "stripeLinkId": "plink_1UM6grLOfCA5mATu41LPh0Wz",
+              "stripePrix": 18.87,
+              "stripeMode": "live",
+              "stripeNom": "Pouvoirs et vertus de la Shungite",
+              "stripeDesc": "La Shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent appelée la pierre de vie. Selon la lithothérapie, elle agit comme un bouclier protecteur contre les rayonnements électromagnétiques des appareils électroniques, aidant ainsi à préserver votre bien-être au quotidien. Elle est aussi réputée pour régénérer et protéger le corps physique, tout en favorisant un équilibre énergétique harmonieux.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "lampe-en-cristal-de-sel-muqo97cjo6eu",
@@ -19633,7 +19753,17 @@
               "description": "Purifier et harmoniser votre maison",
               "photo": "images/articles/lampe-en-cristal-de-sel-muqo97cjepep.jpg",
               "prixBoutique": 18,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28EdRa73Y5Vze6Y0Xf28C29",
+              "stripeProductId": "prod_VMqNL4HYxZNmv9",
+              "stripePriceId": "price_1UM6gsLOfCA5mATuJns8QoNk",
+              "stripeLinkId": "plink_1UM6gsLOfCA5mATurwuWNIQu",
+              "stripePrix": 18.87,
+              "stripeMode": "live",
+              "stripeNom": "Lampe en cristal de sel",
+              "stripeDesc": "Purifier et harmoniser votre maison",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "dictionnaire-des-encens-muqodjcain18",
@@ -19642,7 +19772,17 @@
               "description": "Ce dictionnaire des encens propose une sélection variée de mélanges parfumés traditionnels, idéaux pour créer une ambiance apaisante ou énergétique dans votre espace de vie. Chaque encens est associé à des propriétés spécifiques en lithothérapie et en bien-être, comme la purification, la concentration ou la détente. Parfait pour les rituels, la méditation ou simplement pour embellir votre intérieur de fragrances naturelles et authentiques.",
               "photo": "images/articles/dictionnaire-des-encens-muqodjcb1ix0.jpg",
               "prixBoutique": 12.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNicN6agado14wobBT28C2a",
+              "stripeProductId": "prod_VMqNQeaJPT87AA",
+              "stripePriceId": "price_1UM6gsLOfCA5mATudBPpE84U",
+              "stripeLinkId": "plink_1UM6gsLOfCA5mATudjVl4ZxQ",
+              "stripePrix": 13.18,
+              "stripeMode": "live",
+              "stripeNom": "Dictionnaire des encens",
+              "stripeDesc": "Ce dictionnaire des encens propose une sélection variée de mélanges parfumés traditionnels, idéaux pour créer une ambiance apaisante ou énergétique dans votre espace de vie. Chaque encens est associé à des propriétés spécifiques en lithothérapie et en bien-être, comme la purification, la concentration ou la détente. Parfait pour les rituels, la méditation ou simplement pour embellir votre intérieur de fragrances naturelles et authentiques.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "le-grand-defi-muqofohmynvf",
@@ -19651,7 +19791,17 @@
               "description": "Le grand défi est un livre inspirant qui propose des stratégies pour transformer sa vie et renforcer sa détermination. À travers des enseignements motivants, il aide à surmonter les défis personnels et à cultiver une mentalité gagnante. Idéal pour ceux qui cherchent à retrouver confiance en eux et à avancer vers leurs objectifs avec énergie et persévérance.",
               "photo": "images/articles/le-grand-defi-muqofohm6ss0.jpg",
               "prixBoutique": 36.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY9AU9c66ZD9QI8pH28C2b",
+              "stripeProductId": "prod_VMqNKWUVdxVxv4",
+              "stripePriceId": "price_1UM6gtLOfCA5mATu3WVtZhf0",
+              "stripeLinkId": "plink_1UM6gtLOfCA5mATujsqhC7UG",
+              "stripePrix": 38.4,
+              "stripeMode": "live",
+              "stripeNom": "Le grand défi",
+              "stripeDesc": "Le grand défi est un livre inspirant qui propose des stratégies pour transformer sa vie et renforcer sa détermination. À travers des enseignements motivants, il aide à surmonter les défis personnels et à cultiver une mentalité gagnante. Idéal pour ceux qui cherchent à retrouver confiance en eux et à avancer vers leurs objectifs avec énergie et persévérance.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "les-tres-precieux-pouvoirs-des-pierres-e-muqohu0q3ca5",
@@ -19660,7 +19810,17 @@
               "description": "Ouvrage complet et captivant sur les vertus exceptionnelles des pierres et des métaux, ce livre explore leurs pouvoirs énergétiques et leurs bienfaits pour l'équilibre émotionnel et physique. Découvrez comment intégrer ces trésors naturels dans votre quotidien pour renforcer votre bien-être et votre harmonie intérieure. Une référence incontournable pour les passionnés de lithothérapie et de spiritualité.",
               "photo": "images/articles/les-tres-precieux-pouvoirs-des-pierres-e-muqohu0q2cst.jpg",
               "prixBoutique": 17.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe9AU882do12oggWd28C2c",
+              "stripeProductId": "prod_VMqNYF5zW4HAXU",
+              "stripePriceId": "price_1UM6gtLOfCA5mATuTqBvBYpB",
+              "stripeLinkId": "plink_1UM6guLOfCA5mATu5sS8npTj",
+              "stripePrix": 18.14,
+              "stripeMode": "live",
+              "stripeNom": "Les très précieux pouvoirs des pierres et des métaux",
+              "stripeDesc": "Ouvrage complet et captivant sur les vertus exceptionnelles des pierres et des métaux, ce livre explore leurs pouvoirs énergétiques et leurs bienfaits pour l'équilibre émotionnel et physique. Découvrez comment intégrer ces trésors naturels dans votre quotidien pour renforcer votre bien-être et votre harmonie intérieure. Une référence incontournable pour les passionnés de lithothérapie et de spiritualité.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "envoutement-et-contre-envoutement-muqoj1xm49qe",
@@ -19669,7 +19829,17 @@
               "description": "Ce manuel pratique est une référence incontournable pour ceux qui s'intéressent aux méthodes traditionnelles d'action et de protection. Il offre des connaissances précieuses sur les techniques d'influences énergétiques et les moyens de se préserver des énergies négatives. Idéal pour approfondir ses pratiques en lithothérapie et en spiritualité.",
               "photo": "images/articles/envoutement-et-contre-envoutement-muqoj1xm6ft5.jpg",
               "prixBoutique": 20,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/dRm6oIfAu83H5As5dv28C2d",
+              "stripeProductId": "prod_VMqNnjsNzK4Dil",
+              "stripePriceId": "price_1UM6guLOfCA5mATuPVgiE0Ba",
+              "stripeLinkId": "plink_1UM6guLOfCA5mATu5Ssgbv32",
+              "stripePrix": 20.94,
+              "stripeMode": "live",
+              "stripeNom": "Envoutement et contre envoutement",
+              "stripeDesc": "Ce manuel pratique est une référence incontournable pour ceux qui s'intéressent aux méthodes traditionnelles d'action et de protection. Il offre des connaissances précieuses sur les techniques d'influences énergétiques et les moyens de se préserver des énergies négatives. Idéal pour approfondir ses pratiques en lithothérapie et en spiritualité.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },
@@ -19685,7 +19855,17 @@
               "description": "Ce vase aluminium décoratif apporte une touche d'élégance et d'originalité à votre intérieur. Son design unique et ses reflets métalliques captent la lumière pour créer une ambiance chaleureuse et dynamique. Idéal pour sublimer vos bougies, fleurs ou encens, il s'intègre parfaitement dans une décoration moderne tout en apportant une énergie positive et équilibrante à votre espace.",
               "photo": "images/articles/vase-aluminium-decoratif-muqr4iwd7bhz.jpg",
               "prixBoutique": 43.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/9B65kEbke3Nrgf69tL28C2e",
+              "stripeProductId": "prod_VMqNCIoTOHNNDZ",
+              "stripePriceId": "price_1UM6guLOfCA5mATuQA0nyvO8",
+              "stripeLinkId": "plink_1UM6gvLOfCA5mATuuE8LMnTZ",
+              "stripePrix": 45.22,
+              "stripeMode": "live",
+              "stripeNom": "Vase aluminium décoratif",
+              "stripeDesc": "Ce vase aluminium décoratif apporte une touche d'élégance et d'originalité à votre intérieur. Son design unique et ses reflets métalliques captent la lumière pour créer une ambiance chaleureuse et dynamique. Idéal pour sublimer vos bougies, fleurs ou encens, il s'intègre parfaitement dans une décoration moderne tout en apportant une énergie positive et équilibrante à votre espace.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },
@@ -19701,7 +19881,17 @@
               "description": "Les Abajourts sont des lampes artisanales en fibres naturelles, souvent utilisées pour créer une ambiance chaleureuse et apaisante dans un intérieur. Selon les croyances en lithothérapie et en bien-être énergétique, ces pièces en matériaux bruts favoriseraient une connexion avec la nature et une énergie positive, aidant à apaiser les émotions et à favoriser la détente. Leur design unique en fait aussi un objet de décoration original et inspirant.",
               "photo": "images/articles/abajourts-muqzmbaxbn0s.jpg",
               "prixBoutique": 39.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2eVe5ZUcjX9QI9tL28C2f",
+              "stripeProductId": "prod_VMqNlCAyWWJDHi",
+              "stripePriceId": "price_1UM6gvLOfCA5mATuEUK8sbNI",
+              "stripeLinkId": "plink_1UM6gvLOfCA5mATulRiGiH4m",
+              "stripePrix": 41.5,
+              "stripeMode": "live",
+              "stripeNom": "Abajourts",
+              "stripeDesc": "Les Abajourts sont des lampes artisanales en fibres naturelles, souvent utilisées pour créer une ambiance chaleureuse et apaisante dans un intérieur. Selon les croyances en lithothérapie et en bien-être énergétique, ces pièces en matériaux bruts favoriseraient une connexion avec la nature et une énergie positive, aidant à apaiser les émotions et à favoriser la détente. Leur design unique en fait aussi un objet de décoration original et inspirant.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

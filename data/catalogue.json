@@ -393,6 +393,22 @@
               "epuise": false
             }
           ]
+        },
+        {
+          "id": "pierre-mus1vp5uvb0d",
+          "nom": "Pierres et Géodes",
+          "slogan": "Pierres et Géodes toutes variétés et toutes formes",
+          "articles": [
+            {
+              "id": "apophylite-brute-mus1zz47yb1g",
+              "nom": "Apophylite brute",
+              "prix": 109.1,
+              "description": "L'Apophylite brute est une pierre aux reflets bleutés et translucides, souvent associée à la sérénité et à l'ouverture du cœur. Selon la lithothérapie, elle favorise la paix intérieure, aide à apaiser les tensions émotionnelles et stimule la communication bienveillante. Idéale pour créer une ambiance harmonieuse dans un espace de vie ou de méditation, elle est aussi prisée pour ses propriétés apaisantes sur le plan mental.",
+              "photo": "images/articles/apophylite-brute-mus1zz47iode.jpg",
+              "prixBoutique": 105.3,
+              "stock": 1
+            }
+          ]
         }
       ]
     },

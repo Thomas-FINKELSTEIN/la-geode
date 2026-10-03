@@ -406,7 +406,17 @@
               "description": "L'Apophylite brute est une pierre aux reflets bleutés et translucides, souvent associée à la sérénité et à l'ouverture du cœur. Selon la lithothérapie, elle favorise la paix intérieure, aide à apaiser les tensions émotionnelles et stimule la communication bienveillante. Idéale pour créer une ambiance harmonieuse dans un espace de vie ou de méditation, elle est aussi prisée pour ses propriétés apaisantes sur le plan mental.",
               "photo": "images/articles/apophylite-brute-mus1zz47iode.jpg",
               "prixBoutique": 105.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMbJ23RMbfT8MEeO528G3o",
+              "stripeProductId": "prod_VN7M9FNqx7Kl5E",
+              "stripePriceId": "price_1UMN7TLOfCA5mATuWuDpYnlO",
+              "stripeLinkId": "plink_1UMN7TLOfCA5mATuvJeVXXug",
+              "stripePrix": 109.1,
+              "stripeMode": "live",
+              "stripeNom": "Apophylite brute",
+              "stripeDesc": "L'Apophylite brute est une pierre aux reflets bleutés et translucides, souvent associée à la sérénité et à l'ouverture du cœur. Selon la lithothérapie, elle favorise la paix intérieure, aide à apaiser les tensions émotionnelles et stimule la communication bienveillante. Idéale pour créer une ambiance harmonieuse dans un espace de vie ou de méditation, elle est aussi prisée pour ses propriétés apaisantes sur le plan mental.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

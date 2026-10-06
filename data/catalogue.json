@@ -568,6 +568,15 @@
               "stripeDesc": "Cette géode d'apophylite brute est une pièce minérale fascinante aux cristaux translucides et aux reflets bleutés. En lithothérapie, elle est souvent associée à l'ouverture du troisième œil, favorisant l'intuition et la connexion spirituelle. Elle est idéale pour purifier l'énergie et apporter clarté mentale dans votre quotidien.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "jaspe-rouge-geode-15-cm-muwasno9b340",
+              "nom": "Jaspe rouge géode 15 cm",
+              "prix": 35.3,
+              "description": "Cette géode de jaspe rouge est une pierre aux énergies puissantes et apaisantes, souvent utilisée pour renforcer la vitalité et l’endurance. Elle favorise la stabilité émotionnelle et aide à ancrer les intentions dans le quotidien. Parfaite pour les espaces de méditation ou comme objet décoratif inspirant, elle apporte une touche naturelle et chaleureuse à votre intérieur.",
+              "photo": "images/articles/jaspe-rouge-geode-15-cm-muwasno9blo5.jpg",
+              "prixBoutique": 33.9,
+              "stock": 1
             }
           ]
         }
@@ -9375,25 +9384,6 @@
               "stripePrix": 28.17,
               "stripeLinkId": "plink_1UKwPfLOfCA5mATuHoDpokpp",
               "stripe": "https://buy.stripe.com/28EbJ273Y2Jne6YgWd28m14",
-              "stripeStock": 1,
-              "epuise": false
-            },
-            {
-              "id": "pendentif-chrysocolle-mumezxivx6qw",
-              "nom": "Pendentif chrysocolle",
-              "prix": 37.47,
-              "description": "Ce pendentif en chrysocolle offre une harmonie de couleurs bleutées et turquoise, aux reflets changeants qui captivent immédiatement. Cette pierre est souvent associée à la sérénité et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. En lithothérapie, elle est aussi réputée pour renforcer la confiance en soi et favoriser une communication fluide et positive.",
-              "photo": "images/articles/pendentif-chrysocolle-mumezxivdc8d.jpg",
-              "prixBoutique": 36,
-              "stock": 1,
-              "stripeProductId": "prod_VLdhlqFMA0TylQ",
-              "stripeMode": "live",
-              "stripeNom": "Pendentif chrysocolle",
-              "stripeDesc": "Ce pendentif en chrysocolle offre une harmonie de couleurs bleutées et turquoise, aux reflets changeants qui captivent immédiatement. Cette pierre est souvent associée à la sérénité et à l'apaisement des émotions, aidant à retrouver un équilibre intérieur. En lithothérapie, elle est aussi réputée pour renforcer la confiance en soi et favoriser une communication fluide et positive.",
-              "stripePriceId": "price_1UKwPgLOfCA5mATuFYGOV5ou",
-              "stripePrix": 37.47,
-              "stripeLinkId": "plink_1UKwPgLOfCA5mATuBdoco0TB",
-              "stripe": "https://buy.stripe.com/dRm28s5ZU6ZD4wogWd28m15",
               "stripeStock": 1,
               "epuise": false
             },

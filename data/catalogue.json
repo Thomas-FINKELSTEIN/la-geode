@@ -576,7 +576,17 @@
               "description": "Cette géode de jaspe rouge est une pierre aux énergies puissantes et apaisantes, souvent utilisée pour renforcer la vitalité et l’endurance. Elle favorise la stabilité émotionnelle et aide à ancrer les intentions dans le quotidien. Parfaite pour les espaces de méditation ou comme objet décoratif inspirant, elle apporte une touche naturelle et chaleureuse à votre intérieur.",
               "photo": "images/articles/jaspe-rouge-geode-15-cm-muwasno9blo5.jpg",
               "prixBoutique": 33.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI9AUdsmes50g835n28I1t",
+              "stripeProductId": "prod_VOFk5rN7W3l0Il",
+              "stripePriceId": "price_1UNTF6LOfCA5mATuElbtFN87",
+              "stripeLinkId": "plink_1UNTF6LOfCA5mATuw1TmdL3t",
+              "stripePrix": 35.3,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe rouge géode 15 cm",
+              "stripeDesc": "Cette géode de jaspe rouge est une pierre aux énergies puissantes et apaisantes, souvent utilisée pour renforcer la vitalité et l’endurance. Elle favorise la stabilité émotionnelle et aide à ancrer les intentions dans le quotidien. Parfaite pour les espaces de méditation ou comme objet décoratif inspirant, elle apporte une touche naturelle et chaleureuse à votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jaspe-polychrome-galet-muwavird5d2r",
@@ -585,7 +595,17 @@
               "description": "Ce galet de jaspe polychrome est une pierre aux couleurs variées et apaisantes, idéale pour harmoniser les énergies. En lithothérapie, il est souvent utilisé pour renforcer la stabilité émotionnelle et favoriser la connexion à la terre. Parfait pour une méditation ou une décoration naturelle, il apporte une touche d'équilibre et de douceur au quotidien.",
               "photo": "images/articles/jaspe-polychrome-galet-muwavirddcae.jpg",
               "prixBoutique": 12.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFaaEY8824RvaUM49r28I1u",
+              "stripeProductId": "prod_VOFkF0ZMNiH6JX",
+              "stripePriceId": "price_1UNTF7LOfCA5mATugCUTR9ZE",
+              "stripeLinkId": "plink_1UNTF7LOfCA5mATuQzULS9gU",
+              "stripePrix": 13.29,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe polychrome Galet",
+              "stripeDesc": "Ce galet de jaspe polychrome est une pierre aux couleurs variées et apaisantes, idéale pour harmoniser les énergies. En lithothérapie, il est souvent utilisé pour renforcer la stabilité émotionnelle et favoriser la connexion à la terre. Parfait pour une méditation ou une décoration naturelle, il apporte une touche d'équilibre et de douceur au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jaspe-polychrome-muwb1p2wn160",
@@ -594,7 +614,17 @@
               "description": "Ce joli galet de jaspe polychrome allie des teintes douces et apaisantes, parfait pour harmoniser les énergies. En lithothérapie, il est souvent utilisé pour renforcer la stabilité émotionnelle et favoriser la confiance en soi. Idéal à porter en bracelet ou à garder dans une poche pour un bien-être au quotidien.",
               "photo": "images/articles/jaspe-polychrome-muwb1p2w92ra.jpg",
               "prixBoutique": 17.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ00kewqes56Ew5dv28I1v",
+              "stripeProductId": "prod_VOFkzmPmIJAEL9",
+              "stripePriceId": "price_1UNTF7LOfCA5mATuU9OHPBhK",
+              "stripeLinkId": "plink_1UNTF8LOfCA5mATuor37Omci",
+              "stripePrix": 18.14,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe polychrome",
+              "stripeDesc": "Ce joli galet de jaspe polychrome allie des teintes douces et apaisantes, parfait pour harmoniser les énergies. En lithothérapie, il est souvent utilisé pour renforcer la stabilité émotionnelle et favoriser la confiance en soi. Idéal à porter en bracelet ou à garder dans une poche pour un bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jaspe-polychrome-galet-muwb396jx0a0",
@@ -603,7 +633,17 @@
               "description": "Ce galet de jaspe polychrome est une pierre aux couleurs variées et apaisantes, idéale pour équilibrer les énergies. En lithothérapie, il est souvent utilisé pour renforcer la stabilité émotionnelle et favoriser la confiance en soi. Parfait à garder dans une poche ou à poser sur une table de chevet pour un bien-être au quotidien.",
               "photo": "images/articles/jaspe-polychrome-galet-muwb396jz0s7.jpg",
               "prixBoutique": 14.2,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x24gA9c6do10g87lD28I1w",
+              "stripeProductId": "prod_VOFkt5tiX5tpnr",
+              "stripePriceId": "price_1UNTF8LOfCA5mATuTvCOyAx1",
+              "stripeLinkId": "plink_1UNTF8LOfCA5mATuazyxRkky",
+              "stripePrix": 14.94,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe polychrome Galet",
+              "stripeDesc": "Ce galet de jaspe polychrome est une pierre aux couleurs variées et apaisantes, idéale pour équilibrer les énergies. En lithothérapie, il est souvent utilisé pour renforcer la stabilité émotionnelle et favoriser la confiance en soi. Parfait à garder dans une poche ou à poser sur une table de chevet pour un bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cristal-de-roche-de-madagascar-910-gr-dr-muwblf7ullcx",
@@ -612,7 +652,17 @@
               "description": "Ce cristal de roche druse de Madagascar est une pièce spectaculaire et puissante, composée de multiples cristaux translucides et lumineux. Traditionnellement utilisé en lithothérapie pour amplifier l’énergie positive et favoriser la clarté mentale, il est souvent associé à la purification des émotions et à l’harmonisation des chakras. Idéal pour décorer votre intérieur tout en bénéficiant de ses vertus apaisantes et équilibrantes.",
               "photo": "images/articles/cristal-de-roche-de-madagascar-910-gr-dr-muwblf7u5mvj.jpg",
               "prixBoutique": 31.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe4gA9c64Rvfb2gWd28I1x",
+              "stripeProductId": "prod_VOFk2kxuEf6UgZ",
+              "stripePriceId": "price_1UNTF9LOfCA5mATuqydupo7u",
+              "stripeLinkId": "plink_1UNTF9LOfCA5mATu19jMDGMD",
+              "stripePrix": 33.23,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche de Madagascar 910 gr Druse",
+              "stripeDesc": "Ce cristal de roche druse de Madagascar est une pièce spectaculaire et puissante, composée de multiples cristaux translucides et lumineux. Traditionnellement utilisé en lithothérapie pour amplifier l’énergie positive et favoriser la clarté mentale, il est souvent associé à la purification des émotions et à l’harmonisation des chakras. Idéal pour décorer votre intérieur tout en bénéficiant de ses vertus apaisantes et équilibrantes.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jaspe-rouge-geode-muwbnuynl2n8",
@@ -621,7 +671,17 @@
               "description": "Cette géode de jaspe rouge est une pièce naturelle aux reflets profonds et aux nuances chaudes, captivante par sa beauté organique. Le jaspe rouge est souvent associé à la vitalité, à la force et à la stabilité émotionnelle, aidant à ancrer l'énergie et à renforcer la confiance en soi. Utilisé en lithothérapie, il est idéal pour apaiser les tensions et favoriser un sentiment de sécurité intérieure.",
               "photo": "images/articles/jaspe-rouge-geode-muwbnuynaesm.jpg",
               "prixBoutique": 64.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYdRaagafw96Ew49r28I1y",
+              "stripeProductId": "prod_VOFkhh2hDbiJYO",
+              "stripePriceId": "price_1UNTF9LOfCA5mATuLhmyOUXo",
+              "stripeLinkId": "plink_1UNTFALOfCA5mATu15WI0CFG",
+              "stripePrix": 66.93,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe rouge géode",
+              "stripeDesc": "Cette géode de jaspe rouge est une pièce naturelle aux reflets profonds et aux nuances chaudes, captivante par sa beauté organique. Le jaspe rouge est souvent associé à la vitalité, à la force et à la stabilité émotionnelle, aidant à ancrer l'énergie et à renforcer la confiance en soi. Utilisé en lithothérapie, il est idéal pour apaiser les tensions et favoriser un sentiment de sécurité intérieure.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jaspe-rouge-geode-muwbpwevcfnq",
@@ -630,7 +690,17 @@
               "description": "Ce jaspe rouge en forme de géode est une pièce naturelle aux reflets profonds et captivants. Appelé aussi pierre de la vitalité, il est souvent utilisé pour renforcer l'énergie vitale et stimuler la motivation. En lithothérapie, il aide à ancrer les émotions et à favoriser un sentiment de sécurité intérieure, tout en équilibrant les chakras racine et sacré.",
               "photo": "images/articles/jaspe-rouge-geode-muwbpwev3xdr.jpg",
               "prixBoutique": 34.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi28sagacjXbYQ7lD28I1z",
+              "stripeProductId": "prod_VOFkCYH55cOLKy",
+              "stripePriceId": "price_1UNTFALOfCA5mATurzhEAcKi",
+              "stripeLinkId": "plink_1UNTFALOfCA5mATuOwSvByL5",
+              "stripePrix": 36.34,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe rouge géode",
+              "stripeDesc": "Ce jaspe rouge en forme de géode est une pièce naturelle aux reflets profonds et captivants. Appelé aussi pierre de la vitalité, il est souvent utilisé pour renforcer l'énergie vitale et stimuler la motivation. En lithothérapie, il aide à ancrer les émotions et à favoriser un sentiment de sécurité intérieure, tout en équilibrant les chakras racine et sacré.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jaspe-rouge-geode-muwbro067klb",
@@ -639,7 +709,17 @@
               "description": "Le jaspe rouge est une pierre naturelle aux reflets profonds et chauds, souvent associée à la vitalité et à la force intérieure. En lithothérapie, il est réputé pour renforcer la détermination et aider à surmonter les défis émotionnels. Idéal pour stimuler l'énergie et apporter une sensation de sécurité, il est aussi utilisé pour équilibrer les émotions et favoriser la stabilité.",
               "photo": "images/articles/jaspe-rouge-geode-muwbro06mq0d.jpg",
               "prixBoutique": 24.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm9AUcoi6ZD8MEfS928I1A",
+              "stripeProductId": "prod_VOFk6uzoszo0YG",
+              "stripePriceId": "price_1UNTFBLOfCA5mATuQMXCSihn",
+              "stripeLinkId": "plink_1UNTFBLOfCA5mATuQf9qTDuv",
+              "stripePrix": 25.59,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe rouge géode",
+              "stripeDesc": "Le jaspe rouge est une pierre naturelle aux reflets profonds et chauds, souvent associée à la vitalité et à la force intérieure. En lithothérapie, il est réputé pour renforcer la détermination et aider à surmonter les défis émotionnels. Idéal pour stimuler l'énergie et apporter une sensation de sécurité, il est aussi utilisé pour équilibrer les émotions et favoriser la stabilité.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jaspe-rouge-galet-muwbtion7nop",
@@ -648,7 +728,17 @@
               "description": "Ce galet de jaspe rouge, aux reflets chauds et aux motifs organiques, est une pierre naturelle aux énergies apaisantes et dynamisantes. Traditionnellement utilisée en lithothérapie, elle est réputée pour renforcer la vitalité, équilibrer les émotions et favoriser la stabilité intérieure. Parfaite pour une décoration naturelle ou comme objet de méditation, elle apporte une touche d'harmonie et de douceur au quotidien.",
               "photo": "images/articles/jaspe-rouge-galet-muwbtionaz4z.jpg",
               "prixBoutique": 12.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x214o3RMbfT0g821j28I1B",
+              "stripeProductId": "prod_VOFkUM1YwQhn91",
+              "stripePriceId": "price_1UNTFBLOfCA5mATuyfnoT7aL",
+              "stripeLinkId": "plink_1UNTFCLOfCA5mATukM8MbanP",
+              "stripePrix": 13.6,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe rouge Galet",
+              "stripeDesc": "Ce galet de jaspe rouge, aux reflets chauds et aux motifs organiques, est une pierre naturelle aux énergies apaisantes et dynamisantes. Traditionnellement utilisée en lithothérapie, elle est réputée pour renforcer la vitalité, équilibrer les émotions et favoriser la stabilité intérieure. Parfaite pour une décoration naturelle ou comme objet de méditation, elle apporte une touche d'harmonie et de douceur au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jaspe-rouge-galet-muwbut492ss2",
@@ -657,7 +747,17 @@
               "description": "Ce galet de jaspe rouge, aux reflets profonds et chauds, est une pierre naturelle aux propriétés énergétiques remarquables. En lithothérapie, il est souvent utilisé pour renforcer la vitalité et stimuler la confiance en soi, tout en apaisant les émotions. Idéal pour équilibrer le flux énergétique et favoriser un sentiment de sécurité intérieure, il se prête parfaitement à une utilisation quotidienne en méditation ou en décoration bien-être.",
               "photo": "images/articles/jaspe-rouge-galet-muwbut49zpj5.jpg",
               "prixBoutique": 9.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B628s1JEabP0g821j28I1C",
+              "stripeProductId": "prod_VOFkoCfisDHHQC",
+              "stripePriceId": "price_1UNTFCLOfCA5mATuYDFfU6oZ",
+              "stripeLinkId": "plink_1UNTFCLOfCA5mATuuaJz2GFN",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe rouge Galet",
+              "stripeDesc": "Ce galet de jaspe rouge, aux reflets profonds et chauds, est une pierre naturelle aux propriétés énergétiques remarquables. En lithothérapie, il est souvent utilisé pour renforcer la vitalité et stimuler la confiance en soi, tout en apaisant les émotions. Idéal pour équilibrer le flux énergétique et favoriser un sentiment de sécurité intérieure, il se prête parfaitement à une utilisation quotidienne en méditation ou en décoration bien-être.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jaspe-rouge-geode-15-cm-muwc0q88rlbg",
@@ -666,7 +766,17 @@
               "description": "Ce jaspe rouge sous forme de géode est une pièce naturelle aux reflets chauds et apaisants. Associé traditionnellement à la vitalité et à la stabilité émotionnelle, il est souvent utilisé pour renforcer la confiance en soi et équilibrer les énergies. Idéal pour décorer tout en bénéficiant de ses propriétés harmonisantes au quotidien.",
               "photo": "images/articles/jaspe-rouge-geode-15-cm-muwc0q88dx3l.jpg",
               "prixBoutique": 69.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B628sewqbfTfb249r28I1D",
+              "stripeProductId": "prod_VOFknJfs5tWNjK",
+              "stripePriceId": "price_1UNTFDLOfCA5mATuOEg11NvB",
+              "stripeLinkId": "plink_1UNTFDLOfCA5mATu11RW91XL",
+              "stripePrix": 72.51,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe rouge géode 15 cm",
+              "stripeDesc": "Ce jaspe rouge sous forme de géode est une pièce naturelle aux reflets chauds et apaisants. Associé traditionnellement à la vitalité et à la stabilité émotionnelle, il est souvent utilisé pour renforcer la confiance en soi et équilibrer les énergies. Idéal pour décorer tout en bénéficiant de ses propriétés harmonisantes au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cristal-de-roche-de-madagascar-druse-muwc3ojapkyp",
@@ -675,7 +785,17 @@
               "description": "Ce cristal de roche sous forme de druse provient des richesses minérales de Madagascar. Apprecié pour son énergie purificatrice et clarifiante, il est souvent utilisé en lithothérapie pour apaiser l’esprit et favoriser la concentration. Son éclat naturel en fait aussi une pièce décorative élégante, idéale pour sublimer un intérieur ou un espace de méditation.",
               "photo": "images/articles/cristal-de-roche-de-madagascar-druse-muwc3ojabapk.jpg",
               "prixBoutique": 70.85,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w28sbke2Jn5AseO528I1E",
+              "stripeProductId": "prod_VOFkw2yhl20UZ9",
+              "stripePriceId": "price_1UNTFDLOfCA5mATujhBHZKpE",
+              "stripeLinkId": "plink_1UNTFDLOfCA5mATuRMgNIyMB",
+              "stripePrix": 73.49,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche de Madagascar Druse 680 gr",
+              "stripeDesc": "Ce cristal de roche sous forme de druse provient des richesses minérales de Madagascar. Apprecié pour son énergie purificatrice et clarifiante, il est souvent utilisé en lithothérapie pour apaiser l’esprit et favoriser la concentration. Son éclat naturel en fait aussi une pièce décorative élégante, idéale pour sublimer un intérieur ou un espace de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cristal-de-roche-de-madagascar-druse-muwc5v3qumox",
@@ -684,7 +804,17 @@
               "description": "Ce cristal de roche druse de Madagascar est une pièce naturelle aux reflets translucides et aux facettes cristallines harmonieuses. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives et favoriser la clarté mentale, aidant ainsi à apaiser l’esprit et à renforcer la concentration. Son énergie apaisante en fait un allié précieux pour équilibrer les émotions et créer une ambiance sereine dans votre espace.",
               "photo": "images/articles/cristal-de-roche-de-madagascar-druse-muwc5v3qir8s.jpg",
               "prixBoutique": 29.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ6oI73Y2Jngf6cFX28I1F",
+              "stripeProductId": "prod_VOFk9QvvrNUbEw",
+              "stripePriceId": "price_1UNTFELOfCA5mATu23Wfhfu2",
+              "stripeLinkId": "plink_1UNTFELOfCA5mATu0j653dmf",
+              "stripePrix": 31.06,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche de Madagascar Druse",
+              "stripeDesc": "Ce cristal de roche druse de Madagascar est une pièce naturelle aux reflets translucides et aux facettes cristallines harmonieuses. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives et favoriser la clarté mentale, aidant ainsi à apaiser l’esprit et à renforcer la concentration. Son énergie apaisante en fait un allié précieux pour équilibrer les émotions et créer une ambiance sereine dans votre espace.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pointe-de-cristal-de-roche-du-bresil-22--muwct61hmljp",
@@ -693,7 +823,17 @@
               "description": "Cette pointe de cristal de roche du Brésil, d'une taille impressionnante, est une pièce majestueuse et lumineuse qui capte immédiatement l'attention. En lithothérapie, le cristal de roche est souvent associé à la purification énergétique, à l'harmonisation des chakras et à l'amplification des intentions. Son éclat transparent et sa forme élancée en font un allié précieux pour clarifier les pensées, renforcer la concentration et attirer la prospérité dans votre environnement.",
               "photo": "images/articles/pointe-de-cristal-de-roche-du-bresil-22--muwct61hf6mx.jpg",
               "prixBoutique": 399,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY6oIbke4Rv4wocFX28I1G",
+              "stripeProductId": "prod_VOFkcWyESnmflp",
+              "stripePriceId": "price_1UNTFELOfCA5mATuVS0dfnJn",
+              "stripeLinkId": "plink_1UNTFFLOfCA5mATuRKFqevY1",
+              "stripePrix": 412.67,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de cristal de roche du brésil 22 cm H 2780 gr",
+              "stripeDesc": "Cette pointe de cristal de roche du Brésil, d'une taille impressionnante, est une pièce majestueuse et lumineuse qui capte immédiatement l'attention. En lithothérapie, le cristal de roche est souvent associé à la purification énergétique, à l'harmonisation des chakras et à l'amplification des intentions. Son éclat transparent et sa forme élancée en font un allié précieux pour clarifier les pensées, renforcer la concentration et attirer la prospérité dans votre environnement.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cristal-de-roche-brut-geode-muwcxdn91ghw",
@@ -702,7 +842,17 @@
               "description": "Ce cristal de roche brut en forme de géode est une pièce naturelle aux reflets translucides et aux facettes cristallines uniques. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives, favoriser la clarté mentale et apporter une sensation de paix intérieure. Idéal pour décorer votre espace tout en bénéficiant de ses vertus harmonisantes.",
               "photo": "images/articles/cristal-de-roche-brut-geode-muwcxdn99vcn.jpg",
               "prixBoutique": 101.2,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2dRagEyes5e6Y8pH28I1H",
+              "stripeProductId": "prod_VOFkzFLymKQ5BJ",
+              "stripePriceId": "price_1UNTFFLOfCA5mATuIrsMCXhs",
+              "stripeLinkId": "plink_1UNTFFLOfCA5mATu1qjo4MlW",
+              "stripePrix": 104.86,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche brut géode",
+              "stripeDesc": "Ce cristal de roche brut en forme de géode est une pièce naturelle aux reflets translucides et aux facettes cristallines uniques. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives, favoriser la clarté mentale et apporter une sensation de paix intérieure. Idéal pour décorer votre espace tout en bénéficiant de ses vertus harmonisantes.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cristal-de-roche-avec-pointes-de-cristal-muwd0o3hd90h",
@@ -711,7 +861,17 @@
               "description": "Ce cristal de roche brut aux pointes acérées est une pièce naturelle fascinante, chargée d'énergie pure et de vibrations harmonieuses. En lithothérapie, il est souvent utilisé pour amplifier les intentions, purifier l’aura et favoriser la clarté mentale. Idéal pour équilibrer les émotions et renforcer la connexion à son intuition, il se place aussi bien dans un espace de méditation que comme élément décoratif minéral.",
               "photo": "images/articles/cristal-de-roche-avec-pointes-de-cristal-muwd0o3h8c4j.jpg",
               "prixBoutique": 129.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm8wQewq97Ld2U0Xf28I1I",
+              "stripeProductId": "prod_VOFkPtpA8UqWga",
+              "stripePriceId": "price_1UNTFGLOfCA5mATuhO7GkQTi",
+              "stripeLinkId": "plink_1UNTFGLOfCA5mATuWkbBLTND",
+              "stripePrix": 134.22,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche avec Pointes de cristal brut",
+              "stripeDesc": "Ce cristal de roche brut aux pointes acérées est une pièce naturelle fascinante, chargée d'énergie pure et de vibrations harmonieuses. En lithothérapie, il est souvent utilisé pour amplifier les intentions, purifier l’aura et favoriser la clarté mentale. Idéal pour équilibrer les émotions et renforcer la connexion à son intuition, il se place aussi bien dans un espace de méditation que comme élément décoratif minéral.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "grosse-geode-apophylite-30-cm-h-x-40-cm--muwd9711zjs9",
@@ -720,7 +880,17 @@
               "description": "Cette géode d'apophylite impressionnante, aux cristaux translucides et lumineux, est une pièce spectaculaire pour décorer votre intérieur tout en apportant une énergie apaisante. Connue pour ses propriétés de purification et d’ouverture spirituelle, elle favorise la clarté mentale et aide à dissoudre les blocages émotionnels. Parfaite pour les espaces de méditation ou comme élément central dans une collection minérale, elle diffuse une douce vibration de sérénité et de connexion à l’univers.",
               "photo": "images/articles/grosse-geode-apophylite-30-cm-h-x-40-cm--muwd9711emj5.jpg",
               "prixBoutique": 522,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A9AU73Ydo1d2U7lD28I1J",
+              "stripeProductId": "prod_VOFkQ82Abwubge",
+              "stripePriceId": "price_1UNTFGLOfCA5mATufDJKOLN6",
+              "stripeLinkId": "plink_1UNTFHLOfCA5mATuVRstxMAw",
+              "stripePrix": 539.8,
+              "stripeMode": "live",
+              "stripeNom": "Grosse géode apophylite 30 cm H x 40 cm largeur",
+              "stripeDesc": "Cette géode d'apophylite impressionnante, aux cristaux translucides et lumineux, est une pièce spectaculaire pour décorer votre intérieur tout en apportant une énergie apaisante. Connue pour ses propriétés de purification et d’ouverture spirituelle, elle favorise la clarté mentale et aide à dissoudre les blocages émotionnels. Parfaite pour les espaces de méditation ou comme élément central dans une collection minérale, elle diffuse une douce vibration de sérénité et de connexion à l’univers.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "grosse-geode-apophylite-22-cm-h-sur-40-c-muwdmj6kjkow",
@@ -729,7 +899,17 @@
               "description": "Cette géode d'Apophylite impressionnante par sa taille et sa beauté minérale est un véritable trésor pour les amateurs de pierres naturelles. Connue pour ses propriétés apaisantes et son énergie spirituelle, elle favorise la sérénité et aide à clarifier les pensées. Parfaite pour décorer votre intérieur tout en bénéficiant de ses vertus harmonisantes, elle est idéale pour les espaces de méditation ou de relaxation.",
               "photo": "images/articles/grosse-geode-apophylite-22-cm-h-sur-40-c-muwdmj6k8ppu.jpg",
               "prixBoutique": 414,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x27sMdsm4Rv0g87lD28I1K",
+              "stripeProductId": "prod_VOFkKrDgwz86HP",
+              "stripePriceId": "price_1UNTFHLOfCA5mATuXuSKkPcR",
+              "stripeLinkId": "plink_1UNTFHLOfCA5mATurBgGS9Xl",
+              "stripePrix": 428.17,
+              "stripeMode": "live",
+              "stripeNom": "Grosse géode Apophylite 22 cm H sur 40 cm large",
+              "stripeDesc": "Cette géode d'Apophylite impressionnante par sa taille et sa beauté minérale est un véritable trésor pour les amateurs de pierres naturelles. Connue pour ses propriétés apaisantes et son énergie spirituelle, elle favorise la sérénité et aide à clarifier les pensées. Parfaite pour décorer votre intérieur tout en bénéficiant de ses vertus harmonisantes, elle est idéale pour les espaces de méditation ou de relaxation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -745,7 +925,17 @@
               "description": "Cette sphère en bois fossile est une pièce unique alliant beauté naturelle et énergie apaisante. Selon la lithothérapie, elle est souvent utilisée pour harmoniser les émotions et favoriser un sentiment de calme intérieur. Son aspect organique et ses reflets lumineux en font un objet décoratif tout en apportant une touche d'équilibre énergétique à votre espace.",
               "photo": "images/articles/sphere-en-bois-fossile-muwcgnjqzy5j.jpg",
               "prixBoutique": 360,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFacN61JEcjXgf6dK128I1L",
+              "stripeProductId": "prod_VOFkq8OHOmgAfP",
+              "stripePriceId": "price_1UNTFILOfCA5mATu1Fwzfpad",
+              "stripeLinkId": "plink_1UNTFILOfCA5mATu6tMxFPi2",
+              "stripePrix": 372.36,
+              "stripeMode": "live",
+              "stripeNom": "Sphère en bois fossile",
+              "stripeDesc": "Cette sphère en bois fossile est une pièce unique alliant beauté naturelle et énergie apaisante. Selon la lithothérapie, elle est souvent utilisée pour harmoniser les émotions et favoriser un sentiment de calme intérieur. Son aspect organique et ses reflets lumineux en font un objet décoratif tout en apportant une touche d'équilibre énergétique à votre espace.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }
@@ -19765,7 +19955,17 @@
               "description": "Ce bougeoir en sel de l'Himalaya allie esthétique et bien-être. Le sel purifié, naturellement pur et translucide, diffuse une lumière douce et apaisante tout en purifiant l'énergie ambiante. Utilisé en lithothérapie, il est réputé pour ses vertus relaxantes, aidant à réduire le stress et à favoriser un sommeil réparateur.",
               "photo": "images/articles/bougeoir-de-sel-carre-muwduf6rjhnl.jpg",
               "prixBoutique": 22.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZufZicoigAdfb2axP28I1M",
+              "stripeProductId": "prod_VOFkm7nFhVacVA",
+              "stripePriceId": "price_1UNTFILOfCA5mATuKUMmXg8l",
+              "stripeLinkId": "plink_1UNTFILOfCA5mATuXgOLZ4rm",
+              "stripePrix": 23.93,
+              "stripeMode": "live",
+              "stripeNom": "Bougeoir de sel carrè",
+              "stripeDesc": "Ce bougeoir en sel de l'Himalaya allie esthétique et bien-être. Le sel purifié, naturellement pur et translucide, diffuse une lumière douce et apaisante tout en purifiant l'énergie ambiante. Utilisé en lithothérapie, il est réputé pour ses vertus relaxantes, aidant à réduire le stress et à favoriser un sommeil réparateur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bougeoir-de-gemme-de-sel-3-bougies-muwdxf7na7xj",
@@ -19774,7 +19974,17 @@
               "description": "Ce bougeoir en gemme de sel offre une ambiance chaleureuse et apaisante grâce à ses trois cavités pour bougies. La gemme de sel, connue pour ses propriétés purifiantes et équilibrantes, aide à créer une atmosphère harmonieuse et positive dans votre espace de vie. Idéal pour la méditation, la détente ou simplement pour embellir votre intérieur tout en bénéficiant de ses énergies bienfaisantes.",
               "photo": "images/articles/bougeoir-de-gemme-de-sel-3-bougies-muwdxf7ng9sm.jpg",
               "prixBoutique": 17.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A14obke2Jne6Y21j28I1N",
+              "stripeProductId": "prod_VOFkmUrv75aWtM",
+              "stripePriceId": "price_1UNTFJLOfCA5mATuIuUyj7Vr",
+              "stripeLinkId": "plink_1UNTFJLOfCA5mATujMAIeRux",
+              "stripePrix": 18.76,
+              "stripeMode": "live",
+              "stripeNom": "Bougeoir de gemme de sel 3 bougies",
+              "stripeDesc": "Ce bougeoir en gemme de sel offre une ambiance chaleureuse et apaisante grâce à ses trois cavités pour bougies. La gemme de sel, connue pour ses propriétés purifiantes et équilibrantes, aide à créer une atmosphère harmonieuse et positive dans votre espace de vie. Idéal pour la méditation, la détente ou simplement pour embellir votre intérieur tout en bénéficiant de ses énergies bienfaisantes.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

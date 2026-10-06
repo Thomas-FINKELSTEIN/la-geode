@@ -576,7 +576,17 @@
               "description": "Cette géode de jaspe rouge est une pierre aux énergies puissantes et apaisantes, souvent utilisée pour renforcer la vitalité et l’endurance. Elle favorise la stabilité émotionnelle et aide à ancrer les intentions dans le quotidien. Parfaite pour les espaces de méditation ou comme objet décoratif inspirant, elle apporte une touche naturelle et chaleureuse à votre intérieur.",
               "photo": "images/articles/jaspe-rouge-geode-15-cm-muwasno9blo5.jpg",
               "prixBoutique": 33.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI3cw1JE5Vz3sk49r28H21",
+              "stripeProductId": "prod_VOEKBcokbob4DJ",
+              "stripePriceId": "price_1UNRsILOfCA5mATua9tEePhj",
+              "stripeLinkId": "plink_1UNRsILOfCA5mATuZkJ7UTlt",
+              "stripePrix": 35.3,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe rouge géode 15 cm",
+              "stripeDesc": "Cette géode de jaspe rouge est une pierre aux énergies puissantes et apaisantes, souvent utilisée pour renforcer la vitalité et l’endurance. Elle favorise la stabilité émotionnelle et aide à ancrer les intentions dans le quotidien. Parfaite pour les espaces de méditation ou comme objet décoratif inspirant, elle apporte une touche naturelle et chaleureuse à votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

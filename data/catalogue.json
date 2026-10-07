@@ -722,7 +722,17 @@
               "description": "La pyrite brute est une pierre aux reflets dorés et métalliques qui attire immédiatement l'attention. Connue sous le nom de pierre des chanceux, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi, stimuler la motivation et attirer la prospérité. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à booster leur énergie et leur détermination au quotidien.",
               "photo": "images/articles/pyrite-brute-muy6prhp5xcs.jpg",
               "prixBoutique": 12.35,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x200kagacjX1kc49r28Y1T",
+              "stripeProductId": "prod_VOj2vEkjeaDeow",
+              "stripePriceId": "price_1UNva2LOfCA5mATujY1H4i2g",
+              "stripeLinkId": "plink_1UNva2LOfCA5mATurYAmbfqj",
+              "stripePrix": 13.03,
+              "stripeMode": "live",
+              "stripeNom": "Pyrite brute",
+              "stripeDesc": "La pyrite brute est une pierre aux reflets dorés et métalliques qui attire immédiatement l'attention. Connue sous le nom de pierre des chanceux, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi, stimuler la motivation et attirer la prospérité. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à booster leur énergie et leur détermination au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pyrite-brute-muy6s41gleuj",
@@ -731,7 +741,17 @@
               "description": "La pyrite brute est une pierre aux reflets dorés et métalliques qui attire immédiatement l'œil. Connue sous le nom de pierre des financiers, elle est souvent associée à la prospérité, la confiance en soi et la protection contre les énergies négatives. Idéale pour stimuler la motivation et renforcer la volonté, elle est aussi utilisée pour équilibrer les émotions et apporter une touche de vitalité au quotidien.",
               "photo": "images/articles/pyrite-brute-muy6s41g4t5i.jpg",
               "prixBoutique": 10.1,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E5kE9c683H3sk6hz28Y1U",
+              "stripeProductId": "prod_VOj2foxDDz3zn9",
+              "stripePriceId": "price_1UNva3LOfCA5mATuQ51R0jNn",
+              "stripeLinkId": "plink_1UNva3LOfCA5mATuSHBXeZNp",
+              "stripePrix": 10.7,
+              "stripeMode": "live",
+              "stripeNom": "Pyrite brute",
+              "stripeDesc": "La pyrite brute est une pierre aux reflets dorés et métalliques qui attire immédiatement l'œil. Connue sous le nom de pierre des financiers, elle est souvent associée à la prospérité, la confiance en soi et la protection contre les énergies négatives. Idéale pour stimuler la motivation et renforcer la volonté, elle est aussi utilisée pour équilibrer les émotions et apporter une touche de vitalité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

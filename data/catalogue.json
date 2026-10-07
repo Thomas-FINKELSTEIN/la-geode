@@ -714,6 +714,15 @@
               "stripeDesc": "La pyrite brute est une pierre aux reflets dorés et métalliques qui attire immédiatement l'œil. Connue sous le nom de pierre des abondances, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi, stimuler la motivation et attirer la prospérité. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à booster leur vitalité et leur détermination au quotidien.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pyrite-brute-muy6prhputfv",
+              "nom": "Pyrite brute",
+              "prix": 13.03,
+              "description": "La pyrite brute est une pierre aux reflets dorés et métalliques qui attire immédiatement l'attention. Connue sous le nom de pierre des chanceux, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi, stimuler la motivation et attirer la prospérité. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à booster leur énergie et leur détermination au quotidien.",
+              "photo": "images/articles/pyrite-brute-muy6prhp5xcs.jpg",
+              "prixBoutique": 12.35,
+              "stock": 1
             }
           ]
         }

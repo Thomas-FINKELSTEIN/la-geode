@@ -722,7 +722,17 @@
               "description": "La pyrite brute est une pierre aux reflets dorés et métalliques qui attire immédiatement l'attention. Connue sous le nom de pierre des chanceux, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi, stimuler la motivation et attirer la prospérité. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à booster leur énergie et leur détermination au quotidien.",
               "photo": "images/articles/pyrite-brute-muy6prhp5xcs.jpg",
               "prixBoutique": 12.35,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2bJ2aga4Rv6Ew49r28Y1S",
+              "stripeProductId": "prod_VOj0jhx4eZETOr",
+              "stripePriceId": "price_1UNvYGLOfCA5mATudLUaHL2T",
+              "stripeLinkId": "plink_1UNvYGLOfCA5mATuJDNy5pGe",
+              "stripePrix": 13.03,
+              "stripeMode": "live",
+              "stripeNom": "Pyrite brute",
+              "stripeDesc": "La pyrite brute est une pierre aux reflets dorés et métalliques qui attire immédiatement l'attention. Connue sous le nom de pierre des chanceux, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi, stimuler la motivation et attirer la prospérité. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à booster leur énergie et leur détermination au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

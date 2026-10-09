@@ -2147,7 +2147,17 @@
               "description": "",
               "photo": "images/articles/calcite-blanche-brute-mv0n62i8n04z.jpg",
               "prixBoutique": 49,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY3cw0FA6ZDbYQ35n29e33",
+              "stripeProductId": "prod_VPMwm8A0GIjZBY",
+              "stripePriceId": "price_1UOYCULOfCA5mATuqm3pujLN",
+              "stripeLinkId": "plink_1UOYCULOfCA5mATuCDNtPsNC",
+              "stripePrix": 50.91,
+              "stripeMode": "live",
+              "stripeNom": "Calcite blanche brute",
+              "stripeDesc": "",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

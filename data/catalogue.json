@@ -2147,17 +2147,7 @@
               "description": "",
               "photo": "images/articles/calcite-blanche-brute-mv0n62i8n04z.jpg",
               "prixBoutique": 49,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/cNi9AUewq2JnaUMaxP29e3o",
-              "stripeProductId": "prod_VPNohabj5jD2LM",
-              "stripePriceId": "price_1UOZ3ILOfCA5mATulPbuMAJJ",
-              "stripeLinkId": "plink_1UOZ3ILOfCA5mATuyIag0lfR",
-              "stripePrix": 50.91,
-              "stripeMode": "live",
-              "stripeNom": "Calcite blanche brute",
-              "stripeDesc": "",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "agate-geode-mv0n9h3sd9i7",
@@ -2166,17 +2156,7 @@
               "description": "Cette agate aux motifs tourbillonnants et aux reflets bleutés et blancs est une pièce fascinante pour équilibrer les énergies. Selon la lithothérapie, elle favorise la sérénité et aide à apaiser les émotions, tout en renforçant la concentration et la stabilité intérieure. Parfaite pour une décoration minérale ou comme objet de méditation, elle apporte une touche apaisante et élégante à votre espace.",
               "photo": "images/articles/agate-geode-mv0n9h3txdae.jpg",
               "prixBoutique": 30,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/8x23cw4VQgAd8MEbBT29e3p",
-              "stripeProductId": "prod_VPNouBT5q9fyWH",
-              "stripePriceId": "price_1UOZ3ILOfCA5mATuSzJAn3lZ",
-              "stripeLinkId": "plink_1UOZ3ILOfCA5mATuTn2buLpQ",
-              "stripePrix": 31.27,
-              "stripeMode": "live",
-              "stripeNom": "Agate géode",
-              "stripeDesc": "Cette agate aux motifs tourbillonnants et aux reflets bleutés et blancs est une pièce fascinante pour équilibrer les énergies. Selon la lithothérapie, elle favorise la sérénité et aide à apaiser les émotions, tout en renforçant la concentration et la stabilité intérieure. Parfaite pour une décoration minérale ou comme objet de méditation, elle apporte une touche apaisante et élégante à votre espace.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "quartz-fume-mv0o6q3zqn5x",
@@ -2185,17 +2165,7 @@
               "description": "Le Quartz fumé est une pierre aux reflets profonds et mystérieux, souvent utilisée pour son énergie apaisante et équilibrante. Il est réputé pour aider à ancrer les émotions, favoriser la concentration et purifier l’aura. Parfait pour créer une ambiance calme et harmonieuse dans votre espace de vie ou de travail.",
               "photo": "images/articles/quartz-fume-mv0o6q3zc2s4.jpg",
               "prixBoutique": 51,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/6oUcN61JE3Nr6Ew5dv29e3q",
-              "stripeProductId": "prod_VPNoxbNQrCpbut",
-              "stripePriceId": "price_1UOZ3JLOfCA5mATulP7sne90",
-              "stripeLinkId": "plink_1UOZ3JLOfCA5mATuNhGH7Njt",
-              "stripePrix": 52.98,
-              "stripeMode": "live",
-              "stripeNom": "Quartz fumé",
-              "stripeDesc": "Le Quartz fumé est une pierre aux reflets profonds et mystérieux, souvent utilisée pour son énergie apaisante et équilibrante. Il est réputé pour aider à ancrer les émotions, favoriser la concentration et purifier l’aura. Parfait pour créer une ambiance calme et harmonieuse dans votre espace de vie ou de travail.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "quartz-fume-brut-geode-mv0o8qee4i7r",
@@ -2204,17 +2174,7 @@
               "description": "Ce quartz fumé brut se présente sous forme de géode aux reflets profonds et mystérieux, parfait pour apporter une touche naturelle et élégante à votre intérieur. En lithothérapie, il est souvent utilisé pour purifier l’énergie, favoriser la concentration et apaiser les émotions. Idéal pour les espaces de méditation ou comme élément décoratif aux propriétés apaisantes.",
               "photo": "images/articles/quartz-fume-brut-geode-mv0o8qee9yye.jpg",
               "prixBoutique": 62.3,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/4gMfZi9c6es52og7lD29e3r",
-              "stripeProductId": "prod_VPNoMQHaaKkt4Y",
-              "stripePriceId": "price_1UOZ3JLOfCA5mATu0B6Z1tOE",
-              "stripeLinkId": "plink_1UOZ3KLOfCA5mATuL52h11Cx",
-              "stripePrix": 64.66,
-              "stripeMode": "live",
-              "stripeNom": "Quartz fumé brut géode",
-              "stripeDesc": "Ce quartz fumé brut se présente sous forme de géode aux reflets profonds et mystérieux, parfait pour apporter une touche naturelle et élégante à votre intérieur. En lithothérapie, il est souvent utilisé pour purifier l’énergie, favoriser la concentration et apaiser les émotions. Idéal pour les espaces de méditation ou comme élément décoratif aux propriétés apaisantes.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "agate-du-bresil-geode-mv0oay47nmuj",
@@ -2223,17 +2183,16 @@
               "description": "Cette géode d'agate du Brésil captive par ses reflets profonds et ses nuances sombres, presque mystérieuses. En lithothérapie, elle est souvent associée à la protection et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Son énergie apaisante en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps.",
               "photo": "images/articles/agate-du-bresil-geode-mv0oay4709g7.jpg",
               "prixBoutique": 29.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/3cI9AU3RMbfTbYQ21j29e3s",
-              "stripeProductId": "prod_VPNobnCyBFNZLG",
-              "stripePriceId": "price_1UOZ3KLOfCA5mATudZcgUfDr",
-              "stripeLinkId": "plink_1UOZ3KLOfCA5mATuhoBiJXzc",
-              "stripePrix": 31.17,
-              "stripeMode": "live",
-              "stripeNom": "Agate du brésil géode",
-              "stripeDesc": "Cette géode d'agate du Brésil captive par ses reflets profonds et ses nuances sombres, presque mystérieuses. En lithothérapie, elle est souvent associée à la protection et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Son énergie apaisante en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "agate-du-bresil-geode-mv0pdqe7hltj",
+              "nom": "Agate du brésil géode",
+              "prix": 31.17,
+              "description": "Cette géode d'agate du Brésil captive par ses reflets bleutés et ses nuances profondes, offrant une beauté naturelle et mystérieuse. En lithothérapie, l'agate est souvent associée à l'équilibre émotionnel et à la stabilité, aidant à apaiser les tensions et à renforcer la confiance en soi. Elle est idéale pour créer une ambiance harmonieuse dans un espace de vie ou de travail, tout en favorisant la sérénité au quotidien.",
+              "photo": "images/articles/agate-du-bresil-geode-mv0pdqe7tyd8.jpg",
+              "prixBoutique": 29.9,
+              "stock": 1
             }
           ]
         }
@@ -15087,15 +15046,15 @@
               "photo": "images/articles/bracelet-quartz-fume-8-mm-mtjx4iv82jnu.jpg",
               "prixBoutique": 14.9,
               "stock": 3,
-              "stripe": "https://buy.stripe.com/28E14o73Y83H8ME35n29e3t",
+              "stripe": "https://buy.stripe.com/fZueVe9c60Bf9QI6hz2883L",
               "stripeProductId": "prod_VBXxTWm2Wf1vI0",
               "stripePriceId": "price_1UBArNLOfCA5mATufRLc1eUX",
-              "stripeLinkId": "plink_1UOZ3KLOfCA5mATu4oRPXT5t",
+              "stripeLinkId": "plink_1UBArNLOfCA5mATuM3YWn0Y7",
               "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet Quartz fumé 8 mm",
               "stripeDesc": "Ce bracelet en quartz fumé, aussi appelé quartz morion, est composé de perles rondes et lisses qui captent parfaitement la lumière. Cette pierre est souvent utilisée en lithothérapie pour son énergie apaisante et stabilisatrice, aidant à équilibrer les émotions et à renforcer la concentration. Parfait pour un port quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver un état de calme intérieur.",
-              "stripeStock": 3,
+              "stripeStock": 4,
               "epuise": false
             },
             {
@@ -21690,17 +21649,7 @@
               "description": "Support en fer pour déposer les pierres, pour un visuel en 3d",
               "photo": "images/articles/support-en-fer-mv0p45fqt8yo.jpg",
               "prixBoutique": 3,
-              "stock": 10,
-              "stripe": "https://buy.stripe.com/8x25kEdsm3Nr9QI35n29e3u",
-              "stripeProductId": "prod_VPNoXM0iIgFbfw",
-              "stripePriceId": "price_1UOZ3LLOfCA5mATuDFeFpAmm",
-              "stripeLinkId": "plink_1UOZ3LLOfCA5mATu9zYhQcWq",
-              "stripePrix": 3.36,
-              "stripeMode": "live",
-              "stripeNom": "Support en fer",
-              "stripeDesc": "Support en fer pour déposer les pierres, pour un visuel en 3d",
-              "stripeStock": 10,
-              "epuise": false
+              "stock": 10
             }
           ]
         },

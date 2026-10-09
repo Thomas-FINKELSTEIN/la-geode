@@ -2147,17 +2147,7 @@
               "description": "",
               "photo": "images/articles/calcite-blanche-brute-mv0n62i8n04z.jpg",
               "prixBoutique": 49,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/28E9AU4VQdo1bYQcFX29g02",
-              "stripeProductId": "prod_VPSvoo3eT3pw40",
-              "stripePriceId": "price_1UOdzSLOfCA5mATunKbFjGyR",
-              "stripeLinkId": "plink_1UOdzSLOfCA5mATu1FdUYkSZ",
-              "stripePrix": 50.91,
-              "stripeMode": "live",
-              "stripeNom": "Calcite blanche brute",
-              "stripeDesc": "",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "agate-geode-mv0n9h3sd9i7",
@@ -2166,17 +2156,7 @@
               "description": "Cette agate aux motifs tourbillonnants et aux reflets bleutés et blancs est une pièce fascinante pour équilibrer les énergies. Selon la lithothérapie, elle favorise la sérénité et aide à apaiser les émotions, tout en renforçant la concentration et la stabilité intérieure. Parfaite pour une décoration minérale ou comme objet de méditation, elle apporte une touche apaisante et élégante à votre espace.",
               "photo": "images/articles/agate-geode-mv0n9h3txdae.jpg",
               "prixBoutique": 30,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/00w28sfAuabP9QI49r29g03",
-              "stripeProductId": "prod_VPSv2ptvvDqOmM",
-              "stripePriceId": "price_1UOdzTLOfCA5mATuNSJXutzB",
-              "stripeLinkId": "plink_1UOdzTLOfCA5mATuIfGQcIpN",
-              "stripePrix": 31.27,
-              "stripeMode": "live",
-              "stripeNom": "Agate géode",
-              "stripeDesc": "Cette agate aux motifs tourbillonnants et aux reflets bleutés et blancs est une pièce fascinante pour équilibrer les énergies. Selon la lithothérapie, elle favorise la sérénité et aide à apaiser les émotions, tout en renforçant la concentration et la stabilité intérieure. Parfaite pour une décoration minérale ou comme objet de méditation, elle apporte une touche apaisante et élégante à votre espace.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "quartz-fume-mv0o6q3zqn5x",
@@ -2185,17 +2165,7 @@
               "description": "Le Quartz fumé est une pierre aux reflets profonds et mystérieux, souvent utilisée pour son énergie apaisante et équilibrante. Il est réputé pour aider à ancrer les émotions, favoriser la concentration et purifier l’aura. Parfait pour créer une ambiance calme et harmonieuse dans votre espace de vie ou de travail.",
               "photo": "images/articles/quartz-fume-mv0o6q3zc2s4.jpg",
               "prixBoutique": 51,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/fZu5kEbkees52ogfS929g04",
-              "stripeProductId": "prod_VPSvFJTDTAIpxs",
-              "stripePriceId": "price_1UOdzTLOfCA5mATucWri03C3",
-              "stripeLinkId": "plink_1UOdzTLOfCA5mATu58n2007F",
-              "stripePrix": 52.98,
-              "stripeMode": "live",
-              "stripeNom": "Quartz fumé",
-              "stripeDesc": "Le Quartz fumé est une pierre aux reflets profonds et mystérieux, souvent utilisée pour son énergie apaisante et équilibrante. Il est réputé pour aider à ancrer les émotions, favoriser la concentration et purifier l’aura. Parfait pour créer une ambiance calme et harmonieuse dans votre espace de vie ou de travail.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "quartz-fume-brut-geode-mv0o8qee4i7r",
@@ -2204,17 +2174,7 @@
               "description": "Ce quartz fumé brut se présente sous forme de géode aux reflets profonds et mystérieux, parfait pour apporter une touche naturelle et élégante à votre intérieur. En lithothérapie, il est souvent utilisé pour purifier l’énergie, favoriser la concentration et apaiser les émotions. Idéal pour les espaces de méditation ou comme élément décoratif aux propriétés apaisantes.",
               "photo": "images/articles/quartz-fume-brut-geode-mv0o8qee9yye.jpg",
               "prixBoutique": 62.3,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/28EdRa2NI0Bf0g88pH29g05",
-              "stripeProductId": "prod_VPSvBNpdB20BP1",
-              "stripePriceId": "price_1UOdzULOfCA5mATulQEhxSjN",
-              "stripeLinkId": "plink_1UOdzULOfCA5mATuXpnyrRwV",
-              "stripePrix": 64.66,
-              "stripeMode": "live",
-              "stripeNom": "Quartz fumé brut géode",
-              "stripeDesc": "Ce quartz fumé brut se présente sous forme de géode aux reflets profonds et mystérieux, parfait pour apporter une touche naturelle et élégante à votre intérieur. En lithothérapie, il est souvent utilisé pour purifier l’énergie, favoriser la concentration et apaiser les émotions. Idéal pour les espaces de méditation ou comme élément décoratif aux propriétés apaisantes.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "agate-du-bresil-geode-mv0oay47nmuj",
@@ -2223,17 +2183,7 @@
               "description": "Cette géode d'agate du Brésil captive par ses reflets profonds et ses nuances sombres, presque mystérieuses. En lithothérapie, elle est souvent associée à la protection et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Son énergie apaisante en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps.",
               "photo": "images/articles/agate-du-bresil-geode-mv0oay4709g7.jpg",
               "prixBoutique": 29.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/eVq7sM4VQ97Le6Y0Xf29g06",
-              "stripeProductId": "prod_VPSv9smwFNbQsa",
-              "stripePriceId": "price_1UOdzULOfCA5mATu7inaGj2J",
-              "stripeLinkId": "plink_1UOdzVLOfCA5mATuKd08sEqc",
-              "stripePrix": 31.17,
-              "stripeMode": "live",
-              "stripeNom": "Agate du brésil géode",
-              "stripeDesc": "Cette géode d'agate du Brésil captive par ses reflets profonds et ses nuances sombres, presque mystérieuses. En lithothérapie, elle est souvent associée à la protection et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Son énergie apaisante en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "agate-du-bresil-geode-mv0pdqe7hltj",
@@ -2242,17 +2192,7 @@
               "description": "Cette géode d'agate du Brésil captive par ses reflets bleutés et ses nuances profondes, offrant une beauté naturelle et mystérieuse. En lithothérapie, l'agate est souvent associée à l'équilibre émotionnel et à la stabilité, aidant à apaiser les tensions et à renforcer la confiance en soi. Elle est idéale pour créer une ambiance harmonieuse dans un espace de vie ou de travail, tout en favorisant la sérénité au quotidien.",
               "photo": "images/articles/agate-du-bresil-geode-mv0pdqe7tyd8.jpg",
               "prixBoutique": 29.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/fZu7sMdsm4Rv5AsdK129g07",
-              "stripeProductId": "prod_VPSvR996gmKQqs",
-              "stripePriceId": "price_1UOdzVLOfCA5mATui2bJ4pRo",
-              "stripeLinkId": "plink_1UOdzVLOfCA5mATuSmlf8DYp",
-              "stripePrix": 31.17,
-              "stripeMode": "live",
-              "stripeNom": "Agate du brésil géode",
-              "stripeDesc": "Cette géode d'agate du Brésil captive par ses reflets bleutés et ses nuances profondes, offrant une beauté naturelle et mystérieuse. En lithothérapie, l'agate est souvent associée à l'équilibre émotionnel et à la stabilité, aidant à apaiser les tensions et à renforcer la confiance en soi. Elle est idéale pour créer une ambiance harmonieuse dans un espace de vie ou de travail, tout en favorisant la sérénité au quotidien.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "quartz-fume-geode-mv0pf7x8ilze",
@@ -2261,17 +2201,7 @@
               "description": "Cette géode de quartz fumé en forme de pyramide est une pièce puissante et élégante, idéale pour équilibrer les énergies et favoriser la concentration. Le quartz fumé est souvent utilisé en lithothérapie pour apaiser les émotions et apporter une sensation de calme intérieur. Son énergie profonde en fait un allié précieux pour méditer ou décorer un espace avec une touche de sérénité et de mystère.",
               "photo": "images/articles/quartz-fume-geode-mv0pf7x9mjxs.jpg",
               "prixBoutique": 89.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/aFaaEY9c61Fj6Ew0Xf29g08",
-              "stripeProductId": "prod_VPSvsjvj7IO9A9",
-              "stripePriceId": "price_1UOdzVLOfCA5mATuCstG2utr",
-              "stripeLinkId": "plink_1UOdzWLOfCA5mATuzWNnXhrB",
-              "stripePrix": 93.18,
-              "stripeMode": "live",
-              "stripeNom": "Quartz fumé géode",
-              "stripeDesc": "Cette géode de quartz fumé en forme de pyramide est une pièce puissante et élégante, idéale pour équilibrer les énergies et favoriser la concentration. Le quartz fumé est souvent utilisé en lithothérapie pour apaiser les émotions et apporter une sensation de calme intérieur. Son énergie profonde en fait un allié précieux pour méditer ou décorer un espace avec une touche de sérénité et de mystère.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "calcite-blanche-geode-mv0ponf8f04l",
@@ -2280,17 +2210,7 @@
               "description": "Cette géode de calcite blanche est une pièce naturelle aux formes organiques et apaisantes. En lithothérapie, la calcite blanche est souvent utilisée pour purifier l’énergie et favoriser la clarté mentale, aidant à dissoudre les tensions et à apaiser les émotions. Elle est idéale pour créer une ambiance harmonieuse dans un espace de vie ou de travail, tout en renforçant la concentration et la sérénité.",
               "photo": "images/articles/calcite-blanche-geode-mv0ponf8806x.jpg",
               "prixBoutique": 162,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/eVqbJ2aga1Fjfb235n29g09",
-              "stripeProductId": "prod_VPSvOpf8WJXXc2",
-              "stripePriceId": "price_1UOdzWLOfCA5mATuMppSAj7e",
-              "stripeLinkId": "plink_1UOdzWLOfCA5mATuV7pQ78V6",
-              "stripePrix": 167.71,
-              "stripeMode": "live",
-              "stripeNom": "Calcite blanche géode",
-              "stripeDesc": "Cette géode de calcite blanche est une pièce naturelle aux formes organiques et apaisantes. En lithothérapie, la calcite blanche est souvent utilisée pour purifier l’énergie et favoriser la clarté mentale, aidant à dissoudre les tensions et à apaiser les émotions. Elle est idéale pour créer une ambiance harmonieuse dans un espace de vie ou de travail, tout en renforçant la concentration et la sérénité.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "quartz-fume-geode-mv0q4j37w40r",
@@ -2299,17 +2219,7 @@
               "description": "Cette géode de Quartz fumé est une pièce naturelle aux reflets profonds et mystérieux. Le Quartz fumé est souvent utilisé en lithothérapie pour son énergie apaisante et stabilisatrice, aidant à ancrer les émotions et à renforcer la concentration. Il est idéal pour créer un environnement harmonieux et favoriser un sentiment de calme intérieur.",
               "photo": "images/articles/quartz-fume-geode-mv0q4j372rfb.jpg",
               "prixBoutique": 369.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/8x214o9c6do16Ew5dv29g0a",
-              "stripeProductId": "prod_VPSv9PvsNIT5IP",
-              "stripePriceId": "price_1UOdzXLOfCA5mATusqJnt4mV",
-              "stripeLinkId": "plink_1UOdzXLOfCA5mATu0ndR6kh5",
-              "stripePrix": 382.59,
-              "stripeMode": "live",
-              "stripeNom": "Quartz fumé géode",
-              "stripeDesc": "Cette géode de Quartz fumé est une pièce naturelle aux reflets profonds et mystérieux. Le Quartz fumé est souvent utilisé en lithothérapie pour son énergie apaisante et stabilisatrice, aidant à ancrer les émotions et à renforcer la concentration. Il est idéal pour créer un environnement harmonieux et favoriser un sentiment de calme intérieur.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "quartz-fume-hauteur-geode-29-cm-mv0q89iat05n",
@@ -2318,17 +2228,7 @@
               "description": "Cette géode de quartz fumé impressionne par ses cristaux bien formés et sa couleur profonde, allant du gris clair au noir. Symbole de protection et de stabilité émotionnelle, le quartz fumé est souvent utilisé en lithothérapie pour apaiser les esprits agités et favoriser la concentration. Idéal pour décorer un bureau ou une pièce de vie, il apporte une énergie apaisante et équilibrante.",
               "photo": "images/articles/quartz-fume-hauteur-geode-29-cm-mv0q89iam54r.jpg",
               "prixBoutique": 535.5,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/14A4gAewq83H6EwbBT29g0b",
-              "stripeProductId": "prod_VPSvjM5yFHDres",
-              "stripePriceId": "price_1UOdzXLOfCA5mATuz5kcDuVw",
-              "stripeLinkId": "plink_1UOdzXLOfCA5mATuYhRxqLfN",
-              "stripePrix": 553.75,
-              "stripeMode": "live",
-              "stripeNom": "Quartz fumé hauteur géode 29 cm",
-              "stripeDesc": "Cette géode de quartz fumé impressionne par ses cristaux bien formés et sa couleur profonde, allant du gris clair au noir. Symbole de protection et de stabilité émotionnelle, le quartz fumé est souvent utilisé en lithothérapie pour apaiser les esprits agités et favoriser la concentration. Idéal pour décorer un bureau ou une pièce de vie, il apporte une énergie apaisante et équilibrante.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "calcite-blanche-geode-mv0qgb2qz8wp",
@@ -2337,17 +2237,7 @@
               "description": "Cette géode de calcite blanche est une pièce naturelle aux formes organiques et aux cristaux délicats. En lithothérapie, la calcite blanche est souvent associée à la purification de l’énergie, à l’harmonisation des émotions et à l’apaisement mental. Elle est idéale pour créer une ambiance sereine dans un espace de vie ou de travail, tout en favorisant la concentration et la clarté d’esprit.",
               "photo": "images/articles/calcite-blanche-geode-mv0qgb2quzh7.jpg",
               "prixBoutique": 152,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/9B628sbkees57IA7lD29g0c",
-              "stripeProductId": "prod_VPSviaCP2Y0aQC",
-              "stripePriceId": "price_1UOdzYLOfCA5mATu9eybdJt7",
-              "stripeLinkId": "plink_1UOdzYLOfCA5mATuOhxbPFjn",
-              "stripePrix": 157.37,
-              "stripeMode": "live",
-              "stripeNom": "Calcite blanche géode",
-              "stripeDesc": "Cette géode de calcite blanche est une pièce naturelle aux formes organiques et aux cristaux délicats. En lithothérapie, la calcite blanche est souvent associée à la purification de l’énergie, à l’harmonisation des émotions et à l’apaisement mental. Elle est idéale pour créer une ambiance sereine dans un espace de vie ou de travail, tout en favorisant la concentration et la clarté d’esprit.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "agate-20-cm-de-hauteur-2-4-kg-mv0yfhwlo1nb",
@@ -2356,17 +2246,7 @@
               "description": "Cette agate imposante se distingue par ses bandes colorées douces et ses reflets bleutés, offrant une énergie apaisante et équilibrante. Selon la lithothérapie, elle favorise la stabilité émotionnelle et aide à renforcer la confiance en soi tout en apaisant les tensions du quotidien. Idéale pour décorer un espace de détente ou un bureau, elle diffuse une ambiance harmonieuse et protectrice.",
               "photo": "images/articles/agate-20-cm-de-hauteur-2-4-kg-mv0yfhwlijwm.jpg",
               "prixBoutique": 129.7,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/3cI9AUgEyfw90g8axP29g0d",
-              "stripeProductId": "prod_VPSvEFo1eIzfdD",
-              "stripePriceId": "price_1UOdzYLOfCA5mATuSjjWYG52",
-              "stripeLinkId": "plink_1UOdzZLOfCA5mATudZpzA0ki",
-              "stripePrix": 134.32,
-              "stripeMode": "live",
-              "stripeNom": "Agate 20 cm de hauteur 2,4 kg",
-              "stripeDesc": "Cette agate imposante se distingue par ses bandes colorées douces et ses reflets bleutés, offrant une énergie apaisante et équilibrante. Selon la lithothérapie, elle favorise la stabilité émotionnelle et aide à renforcer la confiance en soi tout en apaisant les tensions du quotidien. Idéale pour décorer un espace de détente ou un bureau, elle diffuse une ambiance harmonieuse et protectrice.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "jaspe-opale-h-geode-15-cm-mv0yk9c5ryii",
@@ -2375,17 +2255,7 @@
               "description": "Cette géode de jaspe opale est une pièce naturelle aux reflets dorés et aux motifs organiques uniques, captivants et apaisants. En lithothérapie, le jaspe opale est souvent associé à la stabilité émotionnelle et à la reconnexion avec la terre, aidant à ancrer l’énergie et à renforcer la confiance en soi. Idéale pour décorer un espace tout en bénéficiant de ses vibrations harmonieuses, elle apporte une touche de douceur et de sérénité au quotidien.",
               "photo": "images/articles/jaspe-opale-h-geode-15-cm-mv0yk9c5tr7x.jpg",
               "prixBoutique": 310.82,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/00w9AUcoi83H5As0Xf29g0e",
-              "stripeProductId": "prod_VPSvRmpxgYDWLj",
-              "stripePriceId": "price_1UOdzZLOfCA5mATuRPOnSbFe",
-              "stripeLinkId": "plink_1UOdzZLOfCA5mATunJ7K0oz4",
-              "stripePrix": 321.52,
-              "stripeMode": "live",
-              "stripeNom": "Jaspe opale H géode 15 cm",
-              "stripeDesc": "Cette géode de jaspe opale est une pièce naturelle aux reflets dorés et aux motifs organiques uniques, captivants et apaisants. En lithothérapie, le jaspe opale est souvent associé à la stabilité émotionnelle et à la reconnexion avec la terre, aidant à ancrer l’énergie et à renforcer la confiance en soi. Idéale pour décorer un espace tout en bénéficiant de ses vibrations harmonieuses, elle apporte une touche de douceur et de sérénité au quotidien.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "jaspe-h-polychrome-17-cm-mv0ynnb7cu32",
@@ -2394,17 +2264,7 @@
               "description": "Ce jaspe polychrome de 17 cm de hauteur est une pierre aux couleurs variées et apaisantes, idéale pour équilibrer les énergies. En lithothérapie, il est souvent utilisé pour renforcer la stabilité émotionnelle et favoriser la connexion à la terre. Son énergie douce en fait un allié précieux pour apaiser le mental et stimuler la créativité au quotidien.",
               "photo": "images/articles/jaspe-h-polychrome-17-cm-mv0ynnb7qqqr.jpg",
               "prixBoutique": 76.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/7sYeVedsmcjXfb25dv29g0f",
-              "stripeProductId": "prod_VPSvxej0kFb9Ut",
-              "stripePriceId": "price_1UOdzZLOfCA5mATuDRp6C2QO",
-              "stripeLinkId": "plink_1UOdzaLOfCA5mATuDRYBsrMm",
-              "stripePrix": 79.75,
-              "stripeMode": "live",
-              "stripeNom": "Jaspe H polychrome 17 cm",
-              "stripeDesc": "Ce jaspe polychrome de 17 cm de hauteur est une pierre aux couleurs variées et apaisantes, idéale pour équilibrer les énergies. En lithothérapie, il est souvent utilisé pour renforcer la stabilité émotionnelle et favoriser la connexion à la terre. Son énergie douce en fait un allié précieux pour apaiser le mental et stimuler la créativité au quotidien.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "jaspe-h-polychrome-23-cm-mv0z0gmql35r",
@@ -2413,17 +2273,7 @@
               "description": "Cette boule de jaspe polychrome est une pièce unique aux couleurs vibrantes et apaisantes, mêlant des teintes douces de jaune, violet et vert. Le jaspe polychrome est souvent utilisé en lithothérapie pour équilibrer les émotions, favoriser la stabilité intérieure et renforcer la confiance en soi. Idéal pour décorer un espace tout en bénéficiant de ses énergies harmonieuses.",
               "photo": "images/articles/jaspe-h-polychrome-23-cm-mv0z0gmqvi5o.jpg",
               "prixBoutique": 231.7,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/eVq14o5ZUbfTfb2fS929g0g",
-              "stripeProductId": "prod_VPSvhcvMbY4AJS",
-              "stripePriceId": "price_1UOdzaLOfCA5mATuyvlEf6iZ",
-              "stripeLinkId": "plink_1UOdzaLOfCA5mATuqqTuZgry",
-              "stripePrix": 239.75,
-              "stripeMode": "live",
-              "stripeNom": "Jaspe H polychrome 23 cm",
-              "stripeDesc": "Cette boule de jaspe polychrome est une pièce unique aux couleurs vibrantes et apaisantes, mêlant des teintes douces de jaune, violet et vert. Le jaspe polychrome est souvent utilisé en lithothérapie pour équilibrer les émotions, favoriser la stabilité intérieure et renforcer la confiance en soi. Idéal pour décorer un espace tout en bénéficiant de ses énergies harmonieuses.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "jaspe-polychrome-mv0z45gqh5yj",
@@ -2432,17 +2282,7 @@
               "description": "Le jaspe polychrome est une pierre aux couleurs vibrantes et variées, souvent associée à une énergie équilibrante et apaisante. En lithothérapie, il est réputé pour renforcer la vitalité, stimuler la créativité et aider à harmoniser les émotions. Parfait pour ceux qui cherchent à retrouver un équilibre intérieur et une connexion avec leur environnement.",
               "photo": "images/articles/jaspe-polychrome-mv0z45gqb68p.jpg",
               "prixBoutique": 76.5,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/8x2aEY5ZUbfTfb2cFX29g0h",
-              "stripeProductId": "prod_VPSvpenVckvxH0",
-              "stripePriceId": "price_1UOdzbLOfCA5mATuV7JYKhve",
-              "stripeLinkId": "plink_1UOdzbLOfCA5mATuCMVgUn7J",
-              "stripePrix": 79.33,
-              "stripeMode": "live",
-              "stripeNom": "Jaspe, polychrome",
-              "stripeDesc": "Le jaspe polychrome est une pierre aux couleurs vibrantes et variées, souvent associée à une énergie équilibrante et apaisante. En lithothérapie, il est réputé pour renforcer la vitalité, stimuler la créativité et aider à harmoniser les émotions. Parfait pour ceux qui cherchent à retrouver un équilibre intérieur et une connexion avec leur environnement.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "jaspe-geode-h-polychrome-28-cm-mv1061us2fsv",
@@ -2451,17 +2291,7 @@
               "description": "Cette géode de jaspe polychrome est une pièce spectaculaire alliant beauté et énergie. Le jaspe polychrome est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle, favoriser la patience et équilibrer les énergies. Sa couleur variée et ses reflets captivants en font un objet de décoration unique tout en apportant une touche de bien-être à votre intérieur.",
               "photo": "images/articles/jaspe-geode-h-polychrome-28-cm-mv1061usdbyt.jpg",
               "prixBoutique": 261.7,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/7sYcN69c62Jn5As9tL29g0i",
-              "stripeProductId": "prod_VPSvnsqYeEGQNF",
-              "stripePriceId": "price_1UOdzbLOfCA5mATupT42Q1KR",
-              "stripeLinkId": "plink_1UOdzbLOfCA5mATuhu1U8ggJ",
-              "stripePrix": 270.75,
-              "stripeMode": "live",
-              "stripeNom": "Jaspe géode H polychrome 28 cm",
-              "stripeDesc": "Cette géode de jaspe polychrome est une pièce spectaculaire alliant beauté et énergie. Le jaspe polychrome est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle, favoriser la patience et équilibrer les énergies. Sa couleur variée et ses reflets captivants en font un objet de décoration unique tout en apportant une touche de bien-être à votre intérieur.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "agate-plaque-281-gr-mv108lq0ym4x",
@@ -2470,17 +2300,7 @@
               "description": "Cette plaque d'agate aux reflets irisés et aux teintes profondes est une pièce unique pour sublimer votre intérieur tout en bénéficiant de ses énergies apaisantes. En lithothérapie, l'agate est souvent associée à la stabilité émotionnelle, aidant à équilibrer les énergies et à renforcer la confiance en soi. Parfaite pour décorer une table ou un étagère, elle apporte une touche naturelle et élégante tout en favorisant un environnement harmonieux.",
               "photo": "images/articles/agate-plaque-281-gr-mv108lq0j0cn.jpg",
               "prixBoutique": 17.8,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/eVq6oIbke5Vz0g85dv29g0j",
-              "stripeProductId": "prod_VPSvD7oX0mKCUQ",
-              "stripePriceId": "price_1UOdzcLOfCA5mATukL89M6rD",
-              "stripeLinkId": "plink_1UOdzcLOfCA5mATumKE4sTxc",
-              "stripePrix": 18.66,
-              "stripeMode": "live",
-              "stripeNom": "Agate Plaque 281 gr",
-              "stripeDesc": "Cette plaque d'agate aux reflets irisés et aux teintes profondes est une pièce unique pour sublimer votre intérieur tout en bénéficiant de ses énergies apaisantes. En lithothérapie, l'agate est souvent associée à la stabilité émotionnelle, aidant à équilibrer les énergies et à renforcer la confiance en soi. Parfaite pour décorer une table ou un étagère, elle apporte une touche naturelle et élégante tout en favorisant un environnement harmonieux.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "jaspe-orbiculaire-10-cm-h-mv10a2w01bxx",
@@ -2489,17 +2309,7 @@
               "description": "Le jaspe orbiculaire est une pierre aux motifs tourbillonnants et apaisants, souvent utilisée pour son énergie stabilisatrice et protectrice. Idéale pour harmoniser les émotions et renforcer la confiance en soi, elle est aussi appréciée pour son pouvoir de purification et de connexion à la terre. Parfait pour décorer votre intérieur tout en bénéficiant de ses vertus bienfaisantes.",
               "photo": "images/articles/jaspe-orbiculaire-10-cm-h-mv10a2w0h39h.jpg",
               "prixBoutique": 22.3,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/bJe00k4VQ97L5As7lD29g0k",
-              "stripeProductId": "prod_VPSv1pRe066Zkt",
-              "stripePriceId": "price_1UOdzcLOfCA5mATuK2ehtgHH",
-              "stripeLinkId": "plink_1UOdzcLOfCA5mATu0mC1Hzk0",
-              "stripePrix": 23.31,
-              "stripeMode": "live",
-              "stripeNom": "Jaspe orbiculaire 10 cm H",
-              "stripeDesc": "Le jaspe orbiculaire est une pierre aux motifs tourbillonnants et apaisants, souvent utilisée pour son énergie stabilisatrice et protectrice. Idéale pour harmoniser les émotions et renforcer la confiance en soi, elle est aussi appréciée pour son pouvoir de purification et de connexion à la terre. Parfait pour décorer votre intérieur tout en bénéficiant de ses vertus bienfaisantes.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "jaspe-h-772-gr-polychrome-10-cm-mv10cc280poo",
@@ -2508,17 +2318,7 @@
               "description": "Ce magnifique jaspe polychrome, aux couleurs profondes et contrastées, est une pierre aux énergies puissantes et apaisantes. Traditionnellement utilisée en lithothérapie pour renforcer la stabilité émotionnelle et ancrer les intentions, elle favorise aussi la connexion à la terre et aide à surmonter les périodes de stress. Parfait pour une décoration unique tout en bénéficiant de ses vertus harmonisantes.",
               "photo": "images/articles/jaspe-h-772-gr-polychrome-10-cm-mv10cc28kvls.jpg",
               "prixBoutique": 47.3,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/dRmfZicoi3Nre6Y49r29g0l",
-              "stripeProductId": "prod_VPSvnWsascNVyR",
-              "stripePriceId": "price_1UOdzdLOfCA5mATuqHxAilGM",
-              "stripeLinkId": "plink_1UOdzdLOfCA5mATuAvI84OPc",
-              "stripePrix": 49.15,
-              "stripeMode": "live",
-              "stripeNom": "Jaspe H 772 gr polychrome 10 cm",
-              "stripeDesc": "Ce magnifique jaspe polychrome, aux couleurs profondes et contrastées, est une pierre aux énergies puissantes et apaisantes. Traditionnellement utilisée en lithothérapie pour renforcer la stabilité émotionnelle et ancrer les intentions, elle favorise aussi la connexion à la terre et aide à surmonter les périodes de stress. Parfait pour une décoration unique tout en bénéficiant de ses vertus harmonisantes.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "bois-fossile-8-cm-h-mv10dzk7wzh9",
@@ -2527,17 +2327,7 @@
               "description": "Ce bois fossile en forme de boule est une pièce unique et mystérieuse, chargée d'énergie ancienne. En lithothérapie, il est souvent utilisé pour renforcer la connexion à la Terre, apporter stabilité et ancrage dans les moments de doute ou de transition. Son aspect organique et ses reflets dorés en font aussi un objet décoratif élégant, parfait pour sublimer un espace avec une touche naturelle et apaisante.",
               "photo": "images/articles/bois-fossile-8-cm-h-mv10dzk7nf9d.jpg",
               "prixBoutique": 27.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/cNicN60FAabPgf69tL29g0m",
-              "stripeProductId": "prod_VPSvp1G24vsbzY",
-              "stripePriceId": "price_1UOdzdLOfCA5mATuBBZUqlIU",
-              "stripeLinkId": "plink_1UOdzeLOfCA5mATuMsQ0719g",
-              "stripePrix": 29.1,
-              "stripeMode": "live",
-              "stripeNom": "Bois fossile 8 cm H",
-              "stripeDesc": "Ce bois fossile en forme de boule est une pièce unique et mystérieuse, chargée d'énergie ancienne. En lithothérapie, il est souvent utilisé pour renforcer la connexion à la Terre, apporter stabilité et ancrage dans les moments de doute ou de transition. Son aspect organique et ses reflets dorés en font aussi un objet décoratif élégant, parfait pour sublimer un espace avec une touche naturelle et apaisante.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "jaspe-opale-mv10f2dnwddd",
@@ -2546,17 +2336,16 @@
               "description": "Le jaspe opale est une pierre naturelle aux reflets verdâtres et aux motifs organiques apaisants, souvent utilisée pour favoriser la connexion à la nature et apaiser les émotions. En lithothérapie, il est réputé pour renforcer la stabilité intérieure et aider à surmonter les périodes de stress ou de doute. Idéal pour les espaces de vie ou de méditation, il apporte une énergie harmonieuse et équilibrante.",
               "photo": "images/articles/jaspe-opale-mv10f2dnp85k.jpg",
               "prixBoutique": 19.6,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/bJefZi5ZUgAd3sk9tL29g0n",
-              "stripeProductId": "prod_VPSv6G9ZyzjPzZ",
-              "stripePriceId": "price_1UOdzeLOfCA5mATuKPgHvyH4",
-              "stripeLinkId": "plink_1UOdzeLOfCA5mATuzP6jihRo",
-              "stripePrix": 20.52,
-              "stripeMode": "live",
-              "stripeNom": "Jaspe opale",
-              "stripeDesc": "Le jaspe opale est une pierre naturelle aux reflets verdâtres et aux motifs organiques apaisants, souvent utilisée pour favoriser la connexion à la nature et apaiser les émotions. En lithothérapie, il est réputé pour renforcer la stabilité intérieure et aider à surmonter les périodes de stress ou de doute. Idéal pour les espaces de vie ou de méditation, il apporte une énergie harmonieuse et équilibrante.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "jaspe-polychrome-mv113a3jxy0l",
+              "nom": "Jaspe polychrome",
+              "prix": 24.97,
+              "description": "Le jaspe polychrome est une pierre aux couleurs variées et apaisantes, idéale pour harmoniser les énergies. En lithothérapie, il est souvent utilisé pour renforcer la stabilité émotionnelle et favoriser la confiance en soi. Son aspect naturel et ses teintes douces en font un objet décoratif tout en apportant une touche de bien-être à votre intérieur.",
+              "photo": "images/articles/jaspe-polychrome-mv113a3ju9i8.jpg",
+              "prixBoutique": 23.9,
+              "stock": 1
             }
           ]
         }
@@ -9950,15 +9739,15 @@
               "photo": "images/articles/pendentif-tourmaline-noire-mu559xlvpddv.jpg",
               "prixBoutique": 32,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/6oU28s4VQ0Bf5As5dv29g0o",
+              "stripe": "https://buy.stripe.com/3cI9AU4VQbfT0g8axP28a3M",
               "stripeProductId": "prod_VH6ye13gIayXtA",
               "stripePriceId": "price_1UGYkgLOfCA5mATuXfA9TaUs",
-              "stripeLinkId": "plink_1UOdzfLOfCA5mATuFyfFLfmC",
+              "stripeLinkId": "plink_1UGYkgLOfCA5mATux5xjfytg",
               "stripePrix": 33.34,
               "stripeMode": "live",
               "stripeNom": "Pendentif tourmaline noire",
               "stripeDesc": "La tourmaline noire, aussi appelée tourmaline schörl, est une pierre puissante et protectrice, idéale pour équilibrer les énergies et apaiser les émotions. Portée en pendentif, elle est souvent utilisée pour absorber les énergies négatives et renforcer la stabilité intérieure. Parfaite pour ceux qui cherchent à se recentrer et à renforcer leur confiance, elle est aussi appréciée pour ses propriétés purifiantes.",
-              "stripeStock": 2,
+              "stripeStock": 3,
               "epuise": false
             },
             {
@@ -15391,15 +15180,15 @@
               "photo": "images/articles/bracelet-quartz-fume-8-mm-mtjx4iv82jnu.jpg",
               "prixBoutique": 14.9,
               "stock": 3,
-              "stripe": "https://buy.stripe.com/4gMcN6ewqabP1kcbBT29g0p",
+              "stripe": "https://buy.stripe.com/fZueVe9c60Bf9QI6hz2883L",
               "stripeProductId": "prod_VBXxTWm2Wf1vI0",
               "stripePriceId": "price_1UBArNLOfCA5mATufRLc1eUX",
-              "stripeLinkId": "plink_1UOdzfLOfCA5mATuNHr0AxNh",
+              "stripeLinkId": "plink_1UBArNLOfCA5mATuM3YWn0Y7",
               "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet Quartz fumé 8 mm",
               "stripeDesc": "Ce bracelet en quartz fumé, aussi appelé quartz morion, est composé de perles rondes et lisses qui captent parfaitement la lumière. Cette pierre est souvent utilisée en lithothérapie pour son énergie apaisante et stabilisatrice, aidant à équilibrer les émotions et à renforcer la concentration. Parfait pour un port quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver un état de calme intérieur.",
-              "stripeStock": 3,
+              "stripeStock": 4,
               "epuise": false
             },
             {
@@ -21703,17 +21492,7 @@
               "description": "Cette sphère en quartz fumé de 16 cm de diamètre est une pièce majestueuse qui capte immédiatement l'attention. Le quartz fumé est souvent utilisé en lithothérapie pour son pouvoir de protection et de stabilisation émotionnelle, aidant à ancrer l'énergie et à apaiser l'esprit. Son apparence élégante et mystérieuse en fait aussi un objet décoratif raffiné, parfait pour sublimer un intérieur tout en apportant une touche d'harmonie et de sérénité.",
               "photo": "images/articles/sphere-en-quartz-fume-16-cm-de-diametre-mv0qeb4kpftf.jpg",
               "prixBoutique": 199,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/9B600kgEyabP5As9tL29g0q",
-              "stripeProductId": "prod_VPSvz4ZFqEsHTG",
-              "stripePriceId": "price_1UOdzfLOfCA5mATuyinrq0he",
-              "stripeLinkId": "plink_1UOdzgLOfCA5mATuWpzrZRXe",
-              "stripePrix": 205.95,
-              "stripeMode": "live",
-              "stripeNom": "Sphère en quartz fumé 16 cm de diamètre",
-              "stripeDesc": "Cette sphère en quartz fumé de 16 cm de diamètre est une pièce majestueuse qui capte immédiatement l'attention. Le quartz fumé est souvent utilisé en lithothérapie pour son pouvoir de protection et de stabilisation émotionnelle, aidant à ancrer l'énergie et à apaiser l'esprit. Son apparence élégante et mystérieuse en fait aussi un objet décoratif raffiné, parfait pour sublimer un intérieur tout en apportant une touche d'harmonie et de sérénité.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         }
@@ -22013,17 +21792,7 @@
               "description": "Support en fer pour déposer les pierres, pour un visuel en 3d",
               "photo": "images/articles/support-en-fer-mv0p45fqt8yo.jpg",
               "prixBoutique": 3,
-              "stock": 10,
-              "stripe": "https://buy.stripe.com/9B6eVedsmcjX6EwdK129g0r",
-              "stripeProductId": "prod_VPSvnC12oauWyo",
-              "stripePriceId": "price_1UOdzgLOfCA5mATurmfU9Bna",
-              "stripeLinkId": "plink_1UOdzgLOfCA5mATukHfvV2E2",
-              "stripePrix": 3.36,
-              "stripeMode": "live",
-              "stripeNom": "Support en fer",
-              "stripeDesc": "Support en fer pour déposer les pierres, pour un visuel en 3d",
-              "stripeStock": 10,
-              "epuise": false
+              "stock": 10
             }
           ]
         },

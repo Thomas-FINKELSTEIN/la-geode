@@ -2147,7 +2147,17 @@
               "description": "",
               "photo": "images/articles/calcite-blanche-brute-mv0n62i8n04z.jpg",
               "prixBoutique": 49,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2aEYewqes55As35n29e3d",
+              "stripeProductId": "prod_VPNQnoxivzfJy1",
+              "stripePriceId": "price_1UOYfdLOfCA5mATuCuONjY3n",
+              "stripeLinkId": "plink_1UOYfdLOfCA5mATuH2eF7FVR",
+              "stripePrix": 50.91,
+              "stripeMode": "live",
+              "stripeNom": "Calcite blanche brute",
+              "stripeDesc": "",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "agate-geode-mv0n9h3sd9i7",
@@ -2156,7 +2166,17 @@
               "description": "Cette agate aux motifs tourbillonnants et aux reflets bleutés et blancs est une pièce fascinante pour équilibrer les énergies. Selon la lithothérapie, elle favorise la sérénité et aide à apaiser les émotions, tout en renforçant la concentration et la stabilité intérieure. Parfaite pour une décoration minérale ou comme objet de méditation, elle apporte une touche apaisante et élégante à votre espace.",
               "photo": "images/articles/agate-geode-mv0n9h3txdae.jpg",
               "prixBoutique": 30,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu28s0FA1Fj1kcgWd29e3e",
+              "stripeProductId": "prod_VPNQiUgA39OpRa",
+              "stripePriceId": "price_1UOYfdLOfCA5mATuQOG2wwWX",
+              "stripeLinkId": "plink_1UOYfdLOfCA5mATuaJxx8qct",
+              "stripePrix": 31.27,
+              "stripeMode": "live",
+              "stripeNom": "Agate géode",
+              "stripeDesc": "Cette agate aux motifs tourbillonnants et aux reflets bleutés et blancs est une pièce fascinante pour équilibrer les énergies. Selon la lithothérapie, elle favorise la sérénité et aide à apaiser les émotions, tout en renforçant la concentration et la stabilité intérieure. Parfaite pour une décoration minérale ou comme objet de méditation, elle apporte une touche apaisante et élégante à votre espace.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "quartz-fume-mv0o6q3zqn5x",
@@ -2165,7 +2185,17 @@
               "description": "Le Quartz fumé est une pierre aux reflets profonds et mystérieux, souvent utilisée pour son énergie apaisante et équilibrante. Il est réputé pour aider à ancrer les émotions, favoriser la concentration et purifier l’aura. Parfait pour créer une ambiance calme et harmonieuse dans votre espace de vie ou de travail.",
               "photo": "images/articles/quartz-fume-mv0o6q3zc2s4.jpg",
               "prixBoutique": 51,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNidRa73Y0Bf0g821j29e3f",
+              "stripeProductId": "prod_VPNQAqGns1UkOn",
+              "stripePriceId": "price_1UOYfeLOfCA5mATuoe5zVNPd",
+              "stripeLinkId": "plink_1UOYfeLOfCA5mATuslJxBMaD",
+              "stripePrix": 52.98,
+              "stripeMode": "live",
+              "stripeNom": "Quartz fumé",
+              "stripeDesc": "Le Quartz fumé est une pierre aux reflets profonds et mystérieux, souvent utilisée pour son énergie apaisante et équilibrante. Il est réputé pour aider à ancrer les émotions, favoriser la concentration et purifier l’aura. Parfait pour créer une ambiance calme et harmonieuse dans votre espace de vie ou de travail.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "quartz-fume-brut-geode-mv0o8qee4i7r",
@@ -2174,7 +2204,17 @@
               "description": "Ce quartz fumé brut se présente sous forme de géode aux reflets profonds et mystérieux, parfait pour apporter une touche naturelle et élégante à votre intérieur. En lithothérapie, il est souvent utilisé pour purifier l’énergie, favoriser la concentration et apaiser les émotions. Idéal pour les espaces de méditation ou comme élément décoratif aux propriétés apaisantes.",
               "photo": "images/articles/quartz-fume-brut-geode-mv0o8qee9yye.jpg",
               "prixBoutique": 62.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIeVefAu3Nre6YaxP29e3g",
+              "stripeProductId": "prod_VPNQf8y3WdNSeT",
+              "stripePriceId": "price_1UOYfeLOfCA5mATuS7X0r0Xi",
+              "stripeLinkId": "plink_1UOYffLOfCA5mATux7s94vAb",
+              "stripePrix": 64.66,
+              "stripeMode": "live",
+              "stripeNom": "Quartz fumé brut géode",
+              "stripeDesc": "Ce quartz fumé brut se présente sous forme de géode aux reflets profonds et mystérieux, parfait pour apporter une touche naturelle et élégante à votre intérieur. En lithothérapie, il est souvent utilisé pour purifier l’énergie, favoriser la concentration et apaiser les émotions. Idéal pour les espaces de méditation ou comme élément décoratif aux propriétés apaisantes.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }
@@ -15028,15 +15068,15 @@
               "photo": "images/articles/bracelet-quartz-fume-8-mm-mtjx4iv82jnu.jpg",
               "prixBoutique": 14.9,
               "stock": 3,
-              "stripe": "https://buy.stripe.com/fZueVe9c60Bf9QI6hz2883L",
+              "stripe": "https://buy.stripe.com/7sY9AU3RMes59QIcFX29e3h",
               "stripeProductId": "prod_VBXxTWm2Wf1vI0",
               "stripePriceId": "price_1UBArNLOfCA5mATufRLc1eUX",
-              "stripeLinkId": "plink_1UBArNLOfCA5mATuM3YWn0Y7",
+              "stripeLinkId": "plink_1UOYffLOfCA5mATuenUbJ6H9",
               "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet Quartz fumé 8 mm",
               "stripeDesc": "Ce bracelet en quartz fumé, aussi appelé quartz morion, est composé de perles rondes et lisses qui captent parfaitement la lumière. Cette pierre est souvent utilisée en lithothérapie pour son énergie apaisante et stabilisatrice, aidant à équilibrer les émotions et à renforcer la concentration. Parfait pour un port quotidien, il est idéal pour ceux qui cherchent à harmoniser leur énergie et à cultiver un état de calme intérieur.",
-              "stripeStock": 4,
+              "stripeStock": 3,
               "epuise": false
             },
             {

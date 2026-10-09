@@ -2147,17 +2147,16 @@
               "description": "",
               "photo": "images/articles/calcite-blanche-brute-mv0n62i8n04z.jpg",
               "prixBoutique": 49,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/7sY3cw0FA6ZDbYQ35n29e33",
-              "stripeProductId": "prod_VPMwm8A0GIjZBY",
-              "stripePriceId": "price_1UOYCULOfCA5mATuqm3pujLN",
-              "stripeLinkId": "plink_1UOYCULOfCA5mATuCDNtPsNC",
-              "stripePrix": 50.91,
-              "stripeMode": "live",
-              "stripeNom": "Calcite blanche brute",
-              "stripeDesc": "",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "agate-geode-mv0n9h3sd9i7",
+              "nom": "Agate géode",
+              "prix": 31.27,
+              "description": "Cette agate aux motifs tourbillonnants et aux reflets bleutés et blancs est une pièce fascinante pour équilibrer les énergies. Selon la lithothérapie, elle favorise la sérénité et aide à apaiser les émotions, tout en renforçant la concentration et la stabilité intérieure. Parfaite pour une décoration minérale ou comme objet de méditation, elle apporte une touche apaisante et élégante à votre espace.",
+              "photo": "images/articles/agate-geode-mv0n9h3txdae.jpg",
+              "prixBoutique": 30,
+              "stock": 1
             }
           ]
         }

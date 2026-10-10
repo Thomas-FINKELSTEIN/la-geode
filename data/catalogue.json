@@ -22474,17 +22474,7 @@
               "description": "Cette belle lampe de sel sur socle est sculptée à partir d’un bloc naturel de sel gemme, offrant une lumière douce et apaisante grâce à sa teinte rosée et ses reflets cristallins. Utilisée en lithothérapie, elle est réputée pour purifier l’énergie ambiante, réduire le stress et favoriser un sommeil réparateur. Son éclairage chaud et enveloppant en fait un allié idéal pour créer une atmosphère relaxante dans votre intérieur.",
               "photo": "images/articles/lampe-de-sel-sur-socle-grande-taille-50--mv26rm3chn1n.jpg",
               "prixBoutique": 172.5,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/3cI14oagaabPfb26hz29l3P",
-              "stripeProductId": "prod_VPm2ozGGaBR7bS",
-              "stripePriceId": "price_1UOwUfLOfCA5mATu2ODp5lVP",
-              "stripeLinkId": "plink_1UOwUgLOfCA5mATuwI5uiW4n",
-              "stripePrix": 178.56,
-              "stripeMode": "live",
-              "stripeNom": "Lampe de sel sur socle, grande taille 50 cm",
-              "stripeDesc": "Cette belle lampe de sel sur socle est sculptée à partir d’un bloc naturel de sel gemme, offrant une lumière douce et apaisante grâce à sa teinte rosée et ses reflets cristallins. Utilisée en lithothérapie, elle est réputée pour purifier l’énergie ambiante, réduire le stress et favoriser un sommeil réparateur. Son éclairage chaud et enveloppant en fait un allié idéal pour créer une atmosphère relaxante dans votre intérieur.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },
@@ -22727,6 +22717,15 @@
               "stripeDesc": "Support en fer pour déposer les pierres, pour un visuel en 3d",
               "stripeStock": 10,
               "epuise": false
+            },
+            {
+              "id": "pot-suspendu-fait-main-mv2g56dj7i23",
+              "nom": "Pot suspendu fait main",
+              "prix": 27.14,
+              "description": "Ce pot suspendu fait main apporte une touche naturelle et élégante à votre intérieur. Idéal pour cultiver de petites plantes aromatiques ou des succulentes, il allie esthétique et fonctionnalité tout en s’intégrant parfaitement dans une décoration zen. Son design artisanal et son style rustique en font un objet décoratif unique, propice à une ambiance apaisante et harmonieuse.",
+              "photo": "images/articles/pot-suspendu-fait-main-mv2g56djkg3a.jpg",
+              "prixBoutique": 26,
+              "stock": 1
             }
           ]
         },

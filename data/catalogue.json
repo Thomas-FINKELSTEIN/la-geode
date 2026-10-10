@@ -15809,15 +15809,15 @@
               "photo": "images/articles/bracelet-quartz-rose-8-mm-mtjw3xetlfzs.jpg",
               "prixBoutique": 15.9,
               "stock": 4,
-              "stripe": "https://buy.stripe.com/00wbJ20FAes5fb2gWd28g15",
+              "stripe": "https://buy.stripe.com/00w5kE9c6bfT9QIfS929l3Y",
               "stripeProductId": "prod_VBXUCBV0o8MNVu",
               "stripePriceId": "price_1UBAPoLOfCA5mATugckHkYtl",
-              "stripeLinkId": "plink_1UJ82GLOfCA5mATuRcR8gQp4",
+              "stripeLinkId": "plink_1UP2cWLOfCA5mATuyWn224SB",
               "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet quartz rose 8 mm",
               "stripeDesc": "Le quartz rose est symbole d'amour et de sincérité, elle accompagne le couple dans la relation seine, ce minéral possède des vertus apaisantes elle aide à réduire le stress et minimise les effets néfastes sur le corps.",
-              "stripeStock": 5,
+              "stripeStock": 4,
               "epuise": false
             },
             {
@@ -17272,15 +17272,15 @@
               "photo": "images/articles/bracelet-jaspe-sang-de-dragon-6-mm-mtmm91cg3eqe.jpg",
               "prixBoutique": 14.9,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/eVq28s2NI97L9QIbBT2890O",
+              "stripe": "https://buy.stripe.com/8x200k73Y83HaUM6hz29l3Z",
               "stripeProductId": "prod_VCFoLuLtsgTKmB",
               "stripePriceId": "price_1UBrIjLOfCA5mATuoVsMCexb",
-              "stripeLinkId": "plink_1UBrIjLOfCA5mATuPcuMLzlI",
+              "stripeLinkId": "plink_1UP2cXLOfCA5mATuY0HjJlyL",
               "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe sang de dragon 6 mm",
               "stripeDesc": "l e jaspe sang de dragon apporte ancrage confiance en soi , courage et volonté face aux épreuves de la vie.",
-              "stripeStock": 3,
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -23205,7 +23205,17 @@
               "description": "Ce pot en fibre naturelle fait main est une pièce décorative et fonctionnelle, idéale pour suspendre vos plantes aromatiques ou succulentes. Son design artisanal apporte une touche bohème et chaleureuse à votre intérieur tout en favorisant une ambiance apaisante. Parfait pour ceux qui aiment les éléments naturels et les créations uniques, il s’intègre facilement dans un espace dédié au bien-être ou à la décoration zen.",
               "photo": "images/articles/pot-suspendu-fait-main-mv2kc2f387cv.jpg",
               "prixBoutique": 26,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMfZiaga1Fjgf635n29l40",
+              "stripeProductId": "prod_VPsNMPPwbwrLUU",
+              "stripePriceId": "price_1UP2cXLOfCA5mATuzBTFG7Sn",
+              "stripeLinkId": "plink_1UP2cXLOfCA5mATuk2OMJqmF",
+              "stripePrix": 27.14,
+              "stripeMode": "live",
+              "stripeNom": "Pot suspendu fait main",
+              "stripeDesc": "Ce pot en fibre naturelle fait main est une pièce décorative et fonctionnelle, idéale pour suspendre vos plantes aromatiques ou succulentes. Son design artisanal apporte une touche bohème et chaleureuse à votre intérieur tout en favorisant une ambiance apaisante. Parfait pour ceux qui aiment les éléments naturels et les créations uniques, il s’intègre facilement dans un espace dédié au bien-être ou à la décoration zen.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "elephant-mural-en-metal-40x45-cm-mv2ksdiuvcj9",
@@ -23214,7 +23224,17 @@
               "description": "Cette élégante statuette d'éléphant mural en métal apporte une touche décorative raffinée à votre intérieur. Symbole de force, de sagesse et de protection, l'éléphant est souvent associé à la stabilité émotionnelle et à la connexion avec la terre. Idéal pour les espaces méditatifs ou les collections de décoration inspirantes, il diffuse une énergie apaisante et positive.",
               "photo": "images/articles/elephant-mural-en-metal-40x45-cm-mv2ksdiuwxum.jpg",
               "prixBoutique": 69.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w9AU2NI2Jn3sk49r29l41",
+              "stripeProductId": "prod_VPsNPpYKsqiUH4",
+              "stripePriceId": "price_1UP2cYLOfCA5mATuBFQV3gSW",
+              "stripeLinkId": "plink_1UP2cYLOfCA5mATuzcaPXitt",
+              "stripePrix": 72.51,
+              "stripeMode": "live",
+              "stripeNom": "Eléphant mural en métal 40x45 cm",
+              "stripeDesc": "Cette élégante statuette d'éléphant mural en métal apporte une touche décorative raffinée à votre intérieur. Symbole de force, de sagesse et de protection, l'éléphant est souvent associé à la stabilité émotionnelle et à la connexion avec la terre. Idéal pour les espaces méditatifs ou les collections de décoration inspirantes, il diffuse une énergie apaisante et positive.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

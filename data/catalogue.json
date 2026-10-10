@@ -15809,15 +15809,15 @@
               "photo": "images/articles/bracelet-quartz-rose-8-mm-mtjw3xetlfzs.jpg",
               "prixBoutique": 15.9,
               "stock": 4,
-              "stripe": "https://buy.stripe.com/00wbJ20FAes5fb2gWd28g15",
+              "stripe": "https://buy.stripe.com/aFa4gAgEy3Nre6YaxP29l42",
               "stripeProductId": "prod_VBXUCBV0o8MNVu",
               "stripePriceId": "price_1UBAPoLOfCA5mATugckHkYtl",
-              "stripeLinkId": "plink_1UJ82GLOfCA5mATuRcR8gQp4",
+              "stripeLinkId": "plink_1UP2fDLOfCA5mATusLL33yT3",
               "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet quartz rose 8 mm",
               "stripeDesc": "Le quartz rose est symbole d'amour et de sincérité, elle accompagne le couple dans la relation seine, ce minéral possède des vertus apaisantes elle aide à réduire le stress et minimise les effets néfastes sur le corps.",
-              "stripeStock": 5,
+              "stripeStock": 4,
               "epuise": false
             },
             {
@@ -17272,15 +17272,15 @@
               "photo": "images/articles/bracelet-jaspe-sang-de-dragon-6-mm-mtmm91cg3eqe.jpg",
               "prixBoutique": 14.9,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/eVq28s2NI97L9QIbBT2890O",
+              "stripe": "https://buy.stripe.com/6oUeVecoifw94wo0Xf29l43",
               "stripeProductId": "prod_VCFoLuLtsgTKmB",
               "stripePriceId": "price_1UBrIjLOfCA5mATuoVsMCexb",
-              "stripeLinkId": "plink_1UBrIjLOfCA5mATuPcuMLzlI",
+              "stripeLinkId": "plink_1UP2fDLOfCA5mATuJsKGDLac",
               "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe sang de dragon 6 mm",
               "stripeDesc": "l e jaspe sang de dragon apporte ancrage confiance en soi , courage et volonté face aux épreuves de la vie.",
-              "stripeStock": 3,
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -23205,7 +23205,17 @@
               "description": "Ce pot en fibre naturelle fait main est une pièce décorative et fonctionnelle, idéale pour suspendre vos plantes aromatiques ou succulentes. Son design artisanal apporte une touche bohème et chaleureuse à votre intérieur tout en favorisant une ambiance apaisante. Parfait pour ceux qui aiment les éléments naturels et les créations uniques, il s’intègre facilement dans un espace dédié au bien-être ou à la décoration zen.",
               "photo": "images/articles/pot-suspendu-fait-main-mv2kc2f387cv.jpg",
               "prixBoutique": 26,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFabJ273Yfw98MEeO529l44",
+              "stripeProductId": "prod_VPsQeByimjeGdl",
+              "stripePriceId": "price_1UP2fELOfCA5mATu5cTQL5QS",
+              "stripeLinkId": "plink_1UP2fELOfCA5mATun11Td1Mc",
+              "stripePrix": 27.14,
+              "stripeMode": "live",
+              "stripeNom": "Pot suspendu fait main",
+              "stripeDesc": "Ce pot en fibre naturelle fait main est une pièce décorative et fonctionnelle, idéale pour suspendre vos plantes aromatiques ou succulentes. Son design artisanal apporte une touche bohème et chaleureuse à votre intérieur tout en favorisant une ambiance apaisante. Parfait pour ceux qui aiment les éléments naturels et les créations uniques, il s’intègre facilement dans un espace dédié au bien-être ou à la décoration zen.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "elephant-mural-en-metal-40x45-cm-mv2ksdiuvcj9",
@@ -23214,7 +23224,17 @@
               "description": "Cette élégante statuette d'éléphant mural en métal apporte une touche décorative raffinée à votre intérieur. Symbole de force, de sagesse et de protection, l'éléphant est souvent associé à la stabilité émotionnelle et à la connexion avec la terre. Idéal pour les espaces méditatifs ou les collections de décoration inspirantes, il diffuse une énergie apaisante et positive.",
               "photo": "images/articles/elephant-mural-en-metal-40x45-cm-mv2ksdiuwxum.jpg",
               "prixBoutique": 69.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A00k4VQ83H5As6hz29l45",
+              "stripeProductId": "prod_VPsQZBUed59H3B",
+              "stripePriceId": "price_1UP2fELOfCA5mATuViHKZI8j",
+              "stripeLinkId": "plink_1UP2fFLOfCA5mATu82SYXkqe",
+              "stripePrix": 72.51,
+              "stripeMode": "live",
+              "stripeNom": "Eléphant mural en métal 40x45 cm",
+              "stripeDesc": "Cette élégante statuette d'éléphant mural en métal apporte une touche décorative raffinée à votre intérieur. Symbole de force, de sagesse et de protection, l'éléphant est souvent associé à la stabilité émotionnelle et à la connexion avec la terre. Idéal pour les espaces méditatifs ou les collections de décoration inspirantes, il diffuse une énergie apaisante et positive.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "tete-de-bouddha-mozaique-60-cm-mv2kvvnjtc7o",
@@ -23223,7 +23243,17 @@
               "description": "Cette tête de bouddha en mosaïque de 60 cm est une pièce décorative unique qui apporte une touche d'élégance et de sérénité à votre intérieur. Les reflets changeants des petits miroirs ou cristaux qui la composent captent la lumière et créent une ambiance apaisante, idéale pour favoriser la méditation et la détente. Selon les croyances en lithothérapie et en feng shui, les éléments brillants et les formes harmonieuses comme celle-ci sont associés à une énergie positive, à la concentration et à l'équilibre spirituel.",
               "photo": "images/articles/tete-de-bouddha-mozaique-60-cm-mv2kvvnjysou.jpg",
               "prixBoutique": 44.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x23cwaga83He6Y7lD29l46",
+              "stripeProductId": "prod_VPsQYuJpCeMV8w",
+              "stripePriceId": "price_1UP2fFLOfCA5mATu31lS44ry",
+              "stripeLinkId": "plink_1UP2fFLOfCA5mATuNaQI631A",
+              "stripePrix": 46.67,
+              "stripeMode": "live",
+              "stripeNom": "Tête de bouddha mozaique 60 cm",
+              "stripeDesc": "Cette tête de bouddha en mosaïque de 60 cm est une pièce décorative unique qui apporte une touche d'élégance et de sérénité à votre intérieur. Les reflets changeants des petits miroirs ou cristaux qui la composent captent la lumière et créent une ambiance apaisante, idéale pour favoriser la méditation et la détente. Selon les croyances en lithothérapie et en feng shui, les éléments brillants et les formes harmonieuses comme celle-ci sont associés à une énergie positive, à la concentration et à l'équilibre spirituel.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

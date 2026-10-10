@@ -15809,15 +15809,15 @@
               "photo": "images/articles/bracelet-quartz-rose-8-mm-mtjw3xetlfzs.jpg",
               "prixBoutique": 15.9,
               "stock": 4,
-              "stripe": "https://buy.stripe.com/00wbJ20FAes5fb2gWd28g15",
+              "stripe": "https://buy.stripe.com/14A9AUaga97L0g8cFX29m0t",
               "stripeProductId": "prod_VBXUCBV0o8MNVu",
               "stripePriceId": "price_1UBAPoLOfCA5mATugckHkYtl",
-              "stripeLinkId": "plink_1UJ82GLOfCA5mATuRcR8gQp4",
+              "stripeLinkId": "plink_1UP2xbLOfCA5mATuWIrXV1a7",
               "stripePrix": 16.7,
               "stripeMode": "live",
               "stripeNom": "Bracelet quartz rose 8 mm",
               "stripeDesc": "Le quartz rose est symbole d'amour et de sincérité, elle accompagne le couple dans la relation seine, ce minéral possède des vertus apaisantes elle aide à réduire le stress et minimise les effets néfastes sur le corps.",
-              "stripeStock": 5,
+              "stripeStock": 4,
               "epuise": false
             },
             {
@@ -17272,15 +17272,15 @@
               "photo": "images/articles/bracelet-jaspe-sang-de-dragon-6-mm-mtmm91cg3eqe.jpg",
               "prixBoutique": 14.9,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/eVq28s2NI97L9QIbBT2890O",
+              "stripe": "https://buy.stripe.com/3cI14obkegAd6Ew0Xf29m0u",
               "stripeProductId": "prod_VCFoLuLtsgTKmB",
               "stripePriceId": "price_1UBrIjLOfCA5mATuoVsMCexb",
-              "stripeLinkId": "plink_1UBrIjLOfCA5mATuPcuMLzlI",
+              "stripeLinkId": "plink_1UP2xcLOfCA5mATu2UNcl1PT",
               "stripePrix": 15.66,
               "stripeMode": "live",
               "stripeNom": "Bracelet jaspe sang de dragon 6 mm",
               "stripeDesc": "l e jaspe sang de dragon apporte ancrage confiance en soi , courage et volonté face aux épreuves de la vie.",
-              "stripeStock": 3,
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -23205,7 +23205,17 @@
               "description": "Ce pot en fibre naturelle fait main est une pièce décorative et fonctionnelle, idéale pour suspendre vos plantes aromatiques ou succulentes. Son design artisanal apporte une touche bohème et chaleureuse à votre intérieur tout en favorisant une ambiance apaisante. Parfait pour ceux qui aiment les éléments naturels et les créations uniques, il s’intègre facilement dans un espace dédié au bien-être ou à la décoration zen.",
               "photo": "images/articles/pot-suspendu-fait-main-mv2kc2f387cv.jpg",
               "prixBoutique": 26,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa00kfAu6ZD2ogbBT29m0v",
+              "stripeProductId": "prod_VPsjIQuHqw2l0t",
+              "stripePriceId": "price_1UP2xcLOfCA5mATuVpNJqrZy",
+              "stripeLinkId": "plink_1UP2xcLOfCA5mATuFJlcDw8j",
+              "stripePrix": 27.14,
+              "stripeMode": "live",
+              "stripeNom": "Pot suspendu fait main",
+              "stripeDesc": "Ce pot en fibre naturelle fait main est une pièce décorative et fonctionnelle, idéale pour suspendre vos plantes aromatiques ou succulentes. Son design artisanal apporte une touche bohème et chaleureuse à votre intérieur tout en favorisant une ambiance apaisante. Parfait pour ceux qui aiment les éléments naturels et les créations uniques, il s’intègre facilement dans un espace dédié au bien-être ou à la décoration zen.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "elephant-mural-en-metal-40x45-cm-mv2ksdiuvcj9",
@@ -23214,7 +23224,17 @@
               "description": "Cette élégante statuette d'éléphant mural en métal apporte une touche décorative raffinée à votre intérieur. Symbole de force, de sagesse et de protection, l'éléphant est souvent associé à la stabilité émotionnelle et à la connexion avec la terre. Idéal pour les espaces méditatifs ou les collections de décoration inspirantes, il diffuse une énergie apaisante et positive.",
               "photo": "images/articles/elephant-mural-en-metal-40x45-cm-mv2ksdiuwxum.jpg",
               "prixBoutique": 69.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMbJ2agacjXbYQgWd29m0w",
+              "stripeProductId": "prod_VPsjlp4Oe6pRM3",
+              "stripePriceId": "price_1UP2xcLOfCA5mATudghF6Dzc",
+              "stripeLinkId": "plink_1UP2xcLOfCA5mATuCmYeUd7Y",
+              "stripePrix": 72.51,
+              "stripeMode": "live",
+              "stripeNom": "Eléphant mural en métal 40x45 cm",
+              "stripeDesc": "Cette élégante statuette d'éléphant mural en métal apporte une touche décorative raffinée à votre intérieur. Symbole de force, de sagesse et de protection, l'éléphant est souvent associé à la stabilité émotionnelle et à la connexion avec la terre. Idéal pour les espaces méditatifs ou les collections de décoration inspirantes, il diffuse une énergie apaisante et positive.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "tete-de-bouddha-mozaique-60-cm-mv2kvvnjtc7o",
@@ -23223,7 +23243,17 @@
               "description": "Cette tête de bouddha en mosaïque de 60 cm est une pièce décorative unique qui apporte une touche d'élégance et de sérénité à votre intérieur. Les reflets changeants des petits miroirs ou cristaux qui la composent captent la lumière et créent une ambiance apaisante, idéale pour favoriser la méditation et la détente. Selon les croyances en lithothérapie et en feng shui, les éléments brillants et les formes harmonieuses comme celle-ci sont associés à une énergie positive, à la concentration et à l'équilibre spirituel.",
               "photo": "images/articles/tete-de-bouddha-mozaique-60-cm-mv2kvvnjysou.jpg",
               "prixBoutique": 44.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa8wQ0FAbfTe6Y7lD29m0x",
+              "stripeProductId": "prod_VPsjNCO1Z03jDy",
+              "stripePriceId": "price_1UP2xdLOfCA5mATuzVRIUBk9",
+              "stripeLinkId": "plink_1UP2xdLOfCA5mATugaLW3UcF",
+              "stripePrix": 46.67,
+              "stripeMode": "live",
+              "stripeNom": "Tête de bouddha mozaique 60 cm",
+              "stripeDesc": "Cette tête de bouddha en mosaïque de 60 cm est une pièce décorative unique qui apporte une touche d'élégance et de sérénité à votre intérieur. Les reflets changeants des petits miroirs ou cristaux qui la composent captent la lumière et créent une ambiance apaisante, idéale pour favoriser la méditation et la détente. Selon les croyances en lithothérapie et en feng shui, les éléments brillants et les formes harmonieuses comme celle-ci sont associés à une énergie positive, à la concentration et à l'équilibre spirituel.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "decoration-bois-flotte-60-cm-mv2kyr86hnr4",
@@ -23232,7 +23262,17 @@
               "description": "Cette décoration en bois flotté forme un mandala harmonieux de 60 cm de diamètre, parfait pour apporter une touche naturelle et apaisante à votre intérieur. Les branches, lissées par les éléments, symbolisent la connexion avec la terre et les énergies positives, favorisant un équilibre émotionnel et une ambiance sereine. Idéale pour méditer, décorer un espace de bien-être ou simplement sublimer une pièce avec une pièce unique et pleine de caractère.",
               "photo": "images/articles/decoration-bois-flotte-60-cm-mv2kyr869mw5.jpg",
               "prixBoutique": 59.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIaEYgEy83H9QIdK129m0y",
+              "stripeProductId": "prod_VPsjrfnEnbqHsB",
+              "stripePriceId": "price_1UP2xdLOfCA5mATusS1DiJxr",
+              "stripeLinkId": "plink_1UP2xdLOfCA5mATuO4tTtMak",
+              "stripePrix": 62.18,
+              "stripeMode": "live",
+              "stripeNom": "Décoration bois flotté 60 cm",
+              "stripeDesc": "Cette décoration en bois flotté forme un mandala harmonieux de 60 cm de diamètre, parfait pour apporter une touche naturelle et apaisante à votre intérieur. Les branches, lissées par les éléments, symbolisent la connexion avec la terre et les énergies positives, favorisant un équilibre émotionnel et une ambiance sereine. Idéale pour méditer, décorer un espace de bien-être ou simplement sublimer une pièce avec une pièce unique et pleine de caractère.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cadre-miroir-bordure-doree-h-90-cm-mv2l4nv1pl0y",
@@ -23241,7 +23281,17 @@
               "description": "Ce cadre miroir en forme de pyramide dorée apporte une touche d'élégance et de mystère à votre intérieur. La bordure dorée et la forme géométrique sont souvent associées à la concentration d'énergie positive et à l'harmonisation des espaces. Idéal pour décorer tout en invitant une ambiance apaisante et inspirante, il peut aussi servir de support pour des pratiques de méditation ou de visualisation.",
               "photo": "images/articles/cadre-miroir-bordure-doree-h-90-cm-mv2l4nv1ybgb.jpg",
               "prixBoutique": 183.85,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU8wQ1JE83HaUM0Xf29m0z",
+              "stripeProductId": "prod_VPsjq2rM3nNyMp",
+              "stripePriceId": "price_1UP2xeLOfCA5mATuWtrG21JY",
+              "stripeLinkId": "plink_1UP2xeLOfCA5mATuE7GMD0pq",
+              "stripePrix": 190.29,
+              "stripeMode": "live",
+              "stripeNom": "Cadre miroir bordure dorée H 90 cm",
+              "stripeDesc": "Ce cadre miroir en forme de pyramide dorée apporte une touche d'élégance et de mystère à votre intérieur. La bordure dorée et la forme géométrique sont souvent associées à la concentration d'énergie positive et à l'harmonisation des espaces. Idéal pour décorer tout en invitant une ambiance apaisante et inspirante, il peut aussi servir de support pour des pratiques de méditation ou de visualisation.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "main-de-fatma-mv2lc48tdgjp",
@@ -23250,7 +23300,17 @@
               "description": "La Main de Fatma est un symbole puissant de protection et de bénédiction, souvent utilisé pour éloigner les mauvaises énergies et attirer la chance. Selon la lithothérapie, elle favorise l'équilibre émotionnel et renforce la confiance en soi. Son design élégant en fait un objet décoratif unique, idéal pour sublimer votre intérieur tout en bénéficiant de ses vertus apaisantes.",
               "photo": "images/articles/main-de-fatma-mv2lc48t115s.jpg",
               "prixBoutique": 67.15,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/cNiaEYagaes56EwdK129m0A",
+              "stripeProductId": "prod_VPsjsKawMaHQ61",
+              "stripePriceId": "price_1UP2xeLOfCA5mATuCNAmUQqo",
+              "stripeLinkId": "plink_1UP2xeLOfCA5mATuO8wnvk6W",
+              "stripePrix": 69.67,
+              "stripeMode": "live",
+              "stripeNom": "Main de fatma",
+              "stripeDesc": "La Main de Fatma est un symbole puissant de protection et de bénédiction, souvent utilisé pour éloigner les mauvaises énergies et attirer la chance. Selon la lithothérapie, elle favorise l'équilibre émotionnel et renforce la confiance en soi. Son design élégant en fait un objet décoratif unique, idéal pour sublimer votre intérieur tout en bénéficiant de ses vertus apaisantes.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "cadre-avec-bouddha-60x13x60-mv2lkdx9gqtj",
@@ -23259,7 +23319,17 @@
               "description": "Ce cadre décoratif représentant un bouddha assis apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il favorise un environnement apaisant et propice à la détente. Idéal pour les espaces de relaxation ou de travail, il inspire calme et concentration au quotidien.",
               "photo": "images/articles/cadre-avec-bouddha-60x13x60-mv2lkdx96dbm.jpg",
               "prixBoutique": 104.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi3cwcoigAdgf6bBT29m0B",
+              "stripeProductId": "prod_VPsjujGEyDwFoE",
+              "stripePriceId": "price_1UP2xfLOfCA5mATuADzL8Ek2",
+              "stripeLinkId": "plink_1UP2xfLOfCA5mATu41J9cbG5",
+              "stripePrix": 108.69,
+              "stripeMode": "live",
+              "stripeNom": "Cadre avec bouddha 60x13x60",
+              "stripeDesc": "Ce cadre décoratif représentant un bouddha assis apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il favorise un environnement apaisant et propice à la détente. Idéal pour les espaces de relaxation ou de travail, il inspire calme et concentration au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -23638,7 +23708,17 @@
               "description": "Ce sac de plage en fibres naturelles est un accessoire à la fois esthétique et fonctionnel, idéal pour transporter vos essentiels en toute légèreté. Ses motifs artisanaux et son design organique en font une pièce décorative qui s’intègre parfaitement dans un intérieur zen ou une ambiance balnéaire. En lithothérapie, les objets en fibres naturelles sont souvent associés à une énergie apaisante, favorisant la détente et l’harmonie avec la nature.",
               "photo": "images/articles/sac-de-plage-mv2l9hzzp314.jpg",
               "prixBoutique": 15.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFacN68824Rv4wobBT29m0C",
+              "stripeProductId": "prod_VPsjPcUVBJEkK2",
+              "stripePriceId": "price_1UP2xfLOfCA5mATuJzakle5n",
+              "stripeLinkId": "plink_1UP2xfLOfCA5mATuxqQdb0zX",
+              "stripePrix": 16.7,
+              "stripeMode": "live",
+              "stripeNom": "Sac de plage",
+              "stripeDesc": "Ce sac de plage en fibres naturelles est un accessoire à la fois esthétique et fonctionnel, idéal pour transporter vos essentiels en toute légèreté. Ses motifs artisanaux et son design organique en font une pièce décorative qui s’intègre parfaitement dans un intérieur zen ou une ambiance balnéaire. En lithothérapie, les objets en fibres naturelles sont souvent associés à une énergie apaisante, favorisant la détente et l’harmonie avec la nature.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

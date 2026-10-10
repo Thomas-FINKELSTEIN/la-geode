@@ -3154,17 +3154,7 @@
               "description": "Cette géode d'améthyste impressionnante est une pièce majestueuse pour sublimer votre intérieur tout en apportant une énergie apaisante. Connue pour ses vertus en lithothérapie, l'améthyste favorise la sérénité, aide à clarifier les pensées et à équilibrer les émotions. Parfaite pour méditer, décorer ou offrir, elle illumine les espaces tout en purifiant l'atmosphère.",
               "photo": "images/articles/geode-d-amethyste-77-cm-de-hauteur-mv25utz6yzj6.jpg",
               "prixBoutique": 1990.5,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/8x2dRa882fw9bYQ6hz29l3I",
-              "stripeProductId": "prod_VPlhxuHZmeMOKy",
-              "stripePriceId": "price_1UOw9lLOfCA5mATuOJ8EgrRN",
-              "stripeLinkId": "plink_1UOw9lLOfCA5mATu4SRcvRYO",
-              "stripePrix": 2057.63,
-              "stripeMode": "live",
-              "stripeNom": "Géode d' améthyste 77 cm de hauteur",
-              "stripeDesc": "Cette géode d'améthyste impressionnante est une pièce majestueuse pour sublimer votre intérieur tout en apportant une énergie apaisante. Connue pour ses vertus en lithothérapie, l'améthyste favorise la sérénité, aide à clarifier les pensées et à équilibrer les émotions. Parfaite pour méditer, décorer ou offrir, elle illumine les espaces tout en purifiant l'atmosphère.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "geode-d-amethyste-1-metre-de-hauteur-mv25ztkp8ubh",
@@ -3173,17 +3163,7 @@
               "description": "Cette géode d'améthyste impressionnante est une pièce majestueuse qui apporte une touche de sérénité et de spiritualité à votre intérieur. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la détente, la clarté mentale et l'équilibre émotionnel. Son énergie douce et protectrice en fait un allié précieux pour méditer ou simplement embellir un espace avec une présence mystérieuse et apaisante.",
               "photo": "images/articles/geode-d-amethyste-1-metre-de-hauteur-mv25ztkpiqkn.jpg",
               "prixBoutique": 2640,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/aFa28sbke97L1kcaxP29l3J",
-              "stripeProductId": "prod_VPlhRQafL21lbE",
-              "stripePriceId": "price_1UOw9mLOfCA5mATuty66tB2N",
-              "stripeLinkId": "plink_1UOw9mLOfCA5mATufE6FHAjg",
-              "stripePrix": 2728.95,
-              "stripeMode": "live",
-              "stripeNom": "Géode d' améthyste 1 mètre de hauteur",
-              "stripeDesc": "Cette géode d'améthyste impressionnante est une pièce majestueuse qui apporte une touche de sérénité et de spiritualité à votre intérieur. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la détente, la clarté mentale et l'équilibre émotionnel. Son énergie douce et protectrice en fait un allié précieux pour méditer ou simplement embellir un espace avec une présence mystérieuse et apaisante.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         }
@@ -20794,15 +20774,15 @@
               "photo": "images/articles/pendule-amethyste-4-cm-mtsq6fjdh6sp.jpg",
               "prixBoutique": 24.9,
               "stock": 5,
-              "stripe": "https://buy.stripe.com/00w00k73Y83H7IA6hz29l3K",
+              "stripe": "https://buy.stripe.com/00wfZi2NIbfT0g835n2892m",
               "stripeProductId": "prod_VDr6IaNeekTUPZ",
               "stripePriceId": "price_1UDPOULOfCA5mATuA7bBm6FG",
-              "stripeLinkId": "plink_1UOw9nLOfCA5mATutcbDgfny",
+              "stripeLinkId": "plink_1UDPOVLOfCA5mATuoZjVZZME",
               "stripePrix": 26,
               "stripeMode": "live",
               "stripeNom": "Pendule améthyste 4 cm",
               "stripeDesc": "Pendule améthyste 4 cm",
-              "stripeStock": 5,
+              "stripeStock": 7,
               "epuise": false
             },
             {
@@ -23764,6 +23744,22 @@
               "stripeDesc": "Ces tiges aux feuilles d'automne aux teintes chaudes et profondes rappellent les couleurs de la saison des récoltes, apportant une touche naturelle et apaisante à votre intérieur. Traditionnellement, les éléments inspirés de la nature comme celui-ci sont associés à un retour à l'équilibre émotionnel et à une énergie harmonieuse. Idéal pour décorer tout en évoquant la sérénité et la connexion avec les cycles naturels.",
               "stripeStock": 7,
               "epuise": false
+            }
+          ]
+        },
+        {
+          "id": "meubles-mv262az4tieg",
+          "nom": "Meubles",
+          "slogan": "tabouret , console , table , paravent",
+          "articles": [
+            {
+              "id": "console-en-teck-70-cm-h-mv26mvaf6w80",
+              "nom": "Console en teck 70 cm H",
+              "prix": 163.57,
+              "description": "Cette console en teck apporte une touche chaleureuse et naturelle à votre intérieur grâce à son bois authentique et ses courbes organiques. Le teck, connu pour sa résistance et son élégance, est souvent associé à une énergie apaisante et équilibrante, favorisant un cadre de vie harmonieux. Idéale pour les espaces de détente ou de méditation, elle allie esthétique et bien-être au quotidien.",
+              "photo": "images/articles/console-en-teck-70-cm-h-mv26mvafckg9.jpg",
+              "prixBoutique": 158,
+              "stock": 1
             }
           ]
         }

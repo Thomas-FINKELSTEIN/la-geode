@@ -22474,7 +22474,17 @@
               "description": "Cette belle lampe de sel sur socle est sculptée à partir d’un bloc naturel de sel gemme, offrant une lumière douce et apaisante grâce à sa teinte rosée et ses reflets cristallins. Utilisée en lithothérapie, elle est réputée pour purifier l’énergie ambiante, réduire le stress et favoriser un sommeil réparateur. Son éclairage chaud et enveloppant en fait un allié idéal pour créer une atmosphère relaxante dans votre intérieur.",
               "photo": "images/articles/lampe-de-sel-sur-socle-grande-taille-50--mv26rm3chn1n.jpg",
               "prixBoutique": 172.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI14oagaabPfb26hz29l3P",
+              "stripeProductId": "prod_VPm2ozGGaBR7bS",
+              "stripePriceId": "price_1UOwUfLOfCA5mATu2ODp5lVP",
+              "stripeLinkId": "plink_1UOwUgLOfCA5mATuwI5uiW4n",
+              "stripePrix": 178.56,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de sel sur socle, grande taille 50 cm",
+              "stripeDesc": "Cette belle lampe de sel sur socle est sculptée à partir d’un bloc naturel de sel gemme, offrant une lumière douce et apaisante grâce à sa teinte rosée et ses reflets cristallins. Utilisée en lithothérapie, elle est réputée pour purifier l’énergie ambiante, réduire le stress et favoriser un sommeil réparateur. Son éclairage chaud et enveloppant en fait un allié idéal pour créer une atmosphère relaxante dans votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

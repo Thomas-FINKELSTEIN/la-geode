@@ -3629,7 +3629,17 @@
               "description": "Ce cristal de roche sous forme de druse est une pièce naturelle et majestueuse venue directement du Brésil. Composé de multiples cristaux transparents et brillants, il est idéal pour purifier l’énergie et apporter clarté et sérénité à votre environnement. En lithothérapie, il est souvent utilisé pour renforcer la concentration, équilibrer les émotions et favoriser un bien-être profond.",
               "photo": "images/articles/cristal-de-roche-du-bresil-druse-1-5-kg-mv6pntze7u43.jpg",
               "prixBoutique": 70.85,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B628s2NI4RvbYQ9tL29q1p",
+              "stripeProductId": "prod_VQxaCixMxnv0E3",
+              "stripePriceId": "price_1UQ5fgLOfCA5mATuhP8OLaOD",
+              "stripeLinkId": "plink_1UQ5fgLOfCA5mATuL4YXKaGZ",
+              "stripePrix": 73.49,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche du brésil Druse 1,5 kg",
+              "stripeDesc": "Ce cristal de roche sous forme de druse est une pièce naturelle et majestueuse venue directement du Brésil. Composé de multiples cristaux transparents et brillants, il est idéal pour purifier l’énergie et apporter clarté et sérénité à votre environnement. En lithothérapie, il est souvent utilisé pour renforcer la concentration, équilibrer les émotions et favoriser un bien-être profond.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -22296,6 +22296,15 @@
               "stripeDesc": "Cet attrape-rêve violet allie élégance et symbolisme pour créer une ambiance apaisante dans votre espace. Traditionnellement utilisé pour favoriser un sommeil paisible et protéger des mauvais rêves, il est aussi réputé pour purifier l’énergie et apaiser les émotions. Ses plumes et ses fils tissés en font un objet décoratif à la fois esthétique et porteur de bien-être au quotidien.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "attrape-reves-couleur-nature-diametre-22-mv6bnq51a9rf",
+              "nom": "Attrape - rêves couleur nature diamètre 22 cm",
+              "prix": 8.43,
+              "description": "Cet attrape-rêves de 22 cm de diamètre allie élégance et symbolisme pour harmoniser votre espace. Traditionnellement utilisé pour protéger le sommeil et filtrer les mauvaises énergies, il favorise la sérénité et un repos apaisé. Ses plumes et ses perles en bois renforcent son pouvoir de purification et d’équilibre émotionnel, tout en apportant une touche décorative naturelle à votre intérieur.",
+              "photo": "images/articles/attrape-reves-couleur-nature-diametre-22-mv6bnq51pt0b.jpg",
+              "prixBoutique": 7.9,
+              "stock": 3
             }
           ]
         },
@@ -22622,17 +22631,7 @@
               "description": "Ce cadre rectangulaire doré apporte une touche d'élégance et de chaleur à votre intérieur. Selon les croyances en lithothérapie, les éléments dorés sont souvent associés à la lumière, à la joie et à une énergie positive, aidant à créer une ambiance harmonieuse et inspirante. Idéal pour sublimer vos espaces tout en invitant une énergie bienveillante et apaisante.",
               "photo": "images/articles/cadre-rectangulaire-doree-mv6b55ddmh73.jpg",
               "prixBoutique": 19.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/00w6oIbkefw91kc7lD29m2e",
-              "stripeProductId": "prod_VQr7H5hzCfJkRA",
-              "stripePriceId": "price_1UPzP6LOfCA5mATuvpZ44TMB",
-              "stripeLinkId": "plink_1UPzP7LOfCA5mATuWZJ0J7iK",
-              "stripePrix": 20.83,
-              "stripeMode": "live",
-              "stripeNom": "Cadre rectangulaire dorée",
-              "stripeDesc": "Ce cadre rectangulaire doré apporte une touche d'élégance et de chaleur à votre intérieur. Selon les croyances en lithothérapie, les éléments dorés sont souvent associés à la lumière, à la joie et à une énergie positive, aidant à créer une ambiance harmonieuse et inspirante. Idéal pour sublimer vos espaces tout en invitant une énergie bienveillante et apaisante.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },
@@ -23664,17 +23663,7 @@
               "description": "Ce plafonnier en métal habillé de fibres de jute apporte une touche naturelle et chaleureuse à votre intérieur. Son design artisanal et ses matières organiques créent une ambiance apaisante, idéale pour favoriser la détente et l’harmonie des espaces. Parfait pour les amateurs de décoration bohème ou zen, il diffuse une lumière douce qui adoucit l’atmosphère tout en apportant une touche d’authenticité.",
               "photo": "images/articles/plafonnier-metal-jute-mv6bbh71e7ru.jpg",
               "prixBoutique": 45.95,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/fZubJ2bkefw93skfS929m2f",
-              "stripeProductId": "prod_VQr7MehYeMLTXy",
-              "stripePriceId": "price_1UPzP7LOfCA5mATu8ELERTjV",
-              "stripeLinkId": "plink_1UPzP7LOfCA5mATuUM7Rvvki",
-              "stripePrix": 47.76,
-              "stripeMode": "live",
-              "stripeNom": "Plafonnier métal jute",
-              "stripeDesc": "Ce plafonnier en métal habillé de fibres de jute apporte une touche naturelle et chaleureuse à votre intérieur. Son design artisanal et ses matières organiques créent une ambiance apaisante, idéale pour favoriser la détente et l’harmonie des espaces. Parfait pour les amateurs de décoration bohème ou zen, il diffuse une lumière douce qui adoucit l’atmosphère tout en apportant une touche d’authenticité.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },

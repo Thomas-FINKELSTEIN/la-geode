@@ -22622,17 +22622,7 @@
               "description": "Ce cadre rectangulaire doré apporte une touche d'élégance et de chaleur à votre intérieur. Selon les croyances en lithothérapie, les éléments dorés sont souvent associés à la lumière, à la joie et à une énergie positive, aidant à créer une ambiance harmonieuse et inspirante. Idéal pour sublimer vos espaces tout en invitant une énergie bienveillante et apaisante.",
               "photo": "images/articles/cadre-rectangulaire-doree-mv6b55ddmh73.jpg",
               "prixBoutique": 19.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/dRmfZigEycjXe6YbBT29m2d",
-              "stripeProductId": "prod_VQr2ulPHN8zLuB",
-              "stripePriceId": "price_1UPzKOLOfCA5mATuuEc8rFmN",
-              "stripeLinkId": "plink_1UPzKPLOfCA5mATu8SXechwx",
-              "stripePrix": 20.83,
-              "stripeMode": "live",
-              "stripeNom": "Cadre rectangulaire dorée",
-              "stripeDesc": "Ce cadre rectangulaire doré apporte une touche d'élégance et de chaleur à votre intérieur. Selon les croyances en lithothérapie, les éléments dorés sont souvent associés à la lumière, à la joie et à une énergie positive, aidant à créer une ambiance harmonieuse et inspirante. Idéal pour sublimer vos espaces tout en invitant une énergie bienveillante et apaisante.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },
@@ -23656,6 +23646,15 @@
               "stripeDesc": "Cet aba jour artisanal du Maroc apporte une touche chaleureuse et naturelle à votre intérieur grâce à ses fibres tissées à la main. Selon les croyances en lithothérapie, les suspensions en fibres naturelles comme celle-ci favorisent une ambiance apaisante et équilibrante, aidant à purifier l’énergie des espaces de vie. Idéal pour décorer tout en créant une atmosphère harmonieuse et relaxante.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "plafonnier-metal-jute-mv6bbh71lpsm",
+              "nom": "Plafonnier métal jute",
+              "prix": 47.76,
+              "description": "Ce plafonnier en métal habillé de fibres de jute apporte une touche naturelle et chaleureuse à votre intérieur. Son design artisanal et ses matières organiques créent une ambiance apaisante, idéale pour favoriser la détente et l’harmonie des espaces. Parfait pour les amateurs de décoration bohème ou zen, il diffuse une lumière douce qui adoucit l’atmosphère tout en apportant une touche d’authenticité.",
+              "photo": "images/articles/plafonnier-metal-jute-mv6bbh71e7ru.jpg",
+              "prixBoutique": 45.95,
+              "stock": 1
             }
           ]
         },

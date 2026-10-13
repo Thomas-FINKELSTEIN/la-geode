@@ -3629,7 +3629,17 @@
               "description": "Ce cristal de roche sous forme de druse est une pièce naturelle et majestueuse venue directement du Brésil. Composé de multiples cristaux transparents et brillants, il est idéal pour purifier l’énergie et apporter clarté et sérénité à votre environnement. En lithothérapie, il est souvent utilisé pour renforcer la concentration, équilibrer les émotions et favoriser un bien-être profond.",
               "photo": "images/articles/cristal-de-roche-du-bresil-druse-1-5-kg-mv6pntze7u43.jpg",
               "prixBoutique": 70.85,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6dRa2NI2Jn2og49r29q1q",
+              "stripeProductId": "prod_VQxmEOCZ9KEGpS",
+              "stripePriceId": "price_1UQ5qlLOfCA5mATulzYGa5RH",
+              "stripeLinkId": "plink_1UQ5qlLOfCA5mATuMxl3NLx5",
+              "stripePrix": 73.49,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche du brésil Druse 1,5 kg",
+              "stripeDesc": "Ce cristal de roche sous forme de druse est une pièce naturelle et majestueuse venue directement du Brésil. Composé de multiples cristaux transparents et brillants, il est idéal pour purifier l’énergie et apporter clarté et sérénité à votre environnement. En lithothérapie, il est souvent utilisé pour renforcer la concentration, équilibrer les émotions et favoriser un bien-être profond.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jaspe-polychrome-geode-de-18-cm-mv6q2jc9ejhu",
@@ -3638,7 +3648,17 @@
               "description": "Cette géode de jaspe polychrome est une pièce naturelle aux couleurs variées et apaisantes, alliant des teintes douces et des reflets chauds. En lithothérapie, le jaspe polychrome est souvent utilisé pour équilibrer les émotions, renforcer la stabilité intérieure et favoriser la connexion à la terre. Son énergie harmonieuse en fait un allié idéal pour apaiser le mental et stimuler la créativité au quotidien.",
               "photo": "images/articles/jaspe-polychrome-geode-de-18-cm-mv6q2jc9ner0.jpg",
               "prixBoutique": 228.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFaaEY73Y4Rvfb221j29q1r",
+              "stripeProductId": "prod_VQxmRK1VTHGexf",
+              "stripePriceId": "price_1UQ5qmLOfCA5mATunssmOczx",
+              "stripeLinkId": "plink_1UQ5qmLOfCA5mATuDronesvK",
+              "stripePrix": 236.23,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe polychrome géode de 18 cm",
+              "stripeDesc": "Cette géode de jaspe polychrome est une pièce naturelle aux couleurs variées et apaisantes, alliant des teintes douces et des reflets chauds. En lithothérapie, le jaspe polychrome est souvent utilisé pour équilibrer les émotions, renforcer la stabilité intérieure et favoriser la connexion à la terre. Son énergie harmonieuse en fait un allié idéal pour apaiser le mental et stimuler la créativité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

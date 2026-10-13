@@ -3154,17 +3154,7 @@
               "description": "La Rose des sables géante est une pièce minérale fascinante aux formes organiques et aux teintes douces, évoquant à la fois la délicatesse et la force de la nature. En lithothérapie, elle est souvent associée à un effet apaisant sur les émotions, aidant à dissoudre les tensions et à favoriser un état de sérénité profonde. Son énergie douce et enveloppante en fait un allié précieux pour ceux qui cherchent à retrouver un équilibre intérieur et une connexion harmonieuse avec leur environnement.",
               "photo": "images/articles/rose-des-sables-geante-mv6d16xm5egh.jpg",
               "prixBoutique": 199.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/3cI5kEewq1Fj5AsbBT29m3U",
-              "stripeProductId": "prod_VQsbzrwUa2j4IK",
-              "stripePriceId": "price_1UQ0pwLOfCA5mATuvKxTd4FS",
-              "stripeLinkId": "plink_1UQ0pxLOfCA5mATut7hpP91Y",
-              "stripePrix": 206.88,
-              "stripeMode": "live",
-              "stripeNom": "Rose des sables géante",
-              "stripeDesc": "La Rose des sables géante est une pièce minérale fascinante aux formes organiques et aux teintes douces, évoquant à la fois la délicatesse et la force de la nature. En lithothérapie, elle est souvent associée à un effet apaisant sur les émotions, aidant à dissoudre les tensions et à favoriser un état de sérénité profonde. Son énergie douce et enveloppante en fait un allié précieux pour ceux qui cherchent à retrouver un équilibre intérieur et une connexion harmonieuse avec leur environnement.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         }
@@ -15790,15 +15780,15 @@
               "photo": "images/articles/bracelet-jaspe-feuille-d-argent-4-mm-mtjv006tvtxa.jpg",
               "prixBoutique": 8.5,
               "stock": 1,
-              "stripe": "https://buy.stripe.com/bJe6oI2NI97L3sk8pH29m3V",
+              "stripe": "https://buy.stripe.com/9B614oaga0Bf8ME5dv2883D",
               "stripeProductId": "prod_VBWzg0FW4yjoWr",
               "stripePriceId": "price_1UB9vjLOfCA5mATu60f0yzCa",
-              "stripeLinkId": "plink_1UQ0pxLOfCA5mATulwWghuPJ",
+              "stripeLinkId": "plink_1UB9vkLOfCA5mATu8pY3vLnq",
               "stripePrix": 9.05,
               "stripeMode": "live",
               "stripeNom": "Bracelet Jaspe feuille d'argent 4 mm",
               "stripeDesc": "Ce bracelet en jaspe feuille d'argent est un accessoire élégant et naturel, parfait pour sublimer votre style au quotidien. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel et à la protection, aidant à apaiser les tensions et à renforcer la confiance en soi. Ses reflets argentés et ses motifs organiques en font un allié idéal pour harmoniser l'énergie et favoriser la sérénité.",
-              "stripeStock": 1,
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -21428,17 +21418,7 @@
               "description": "Ce coussin de méditation aux motifs colorés et apaisants est conçu pour accompagner vos moments de détente et de connexion à soi. Ses couleurs vives et ses symboles inspirants stimulent la créativité et aident à harmoniser les énergies, favorisant ainsi un état de calme et de sérénité. Idéal pour les séances de méditation, le yoga ou simplement pour se reposer dans un espace bien-être.",
               "photo": "images/articles/coussin-de-meditation-mv6e8xj3ic0s.jpg",
               "prixBoutique": 45,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/14A00k1JE0BfbYQ0Xf29m3W",
-              "stripeProductId": "prod_VQsb7cGBulFXn6",
-              "stripePriceId": "price_1UQ0pyLOfCA5mATubS0OUkCW",
-              "stripeLinkId": "plink_1UQ0pyLOfCA5mATuZ0zckLR4",
-              "stripePrix": 46.78,
-              "stripeMode": "live",
-              "stripeNom": "Coussin de méditation",
-              "stripeDesc": "Ce coussin de méditation aux motifs colorés et apaisants est conçu pour accompagner vos moments de détente et de connexion à soi. Ses couleurs vives et ses symboles inspirants stimulent la créativité et aident à harmoniser les énergies, favorisant ainsi un état de calme et de sérénité. Idéal pour les séances de méditation, le yoga ou simplement pour se reposer dans un espace bien-être.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "tapis-de-sol-gris-mv6ekftb5qff",
@@ -21447,17 +21427,7 @@
               "description": "Ce tapis de sol gris aux motifs géométriques élégants apporte une touche d'harmonie et de sérénité à votre intérieur. Traditionnellement utilisé pour ancrer les énergies et favoriser la stabilité émotionnelle, il crée un espace apaisant propice à la méditation ou au repos. Son design raffiné s’intègre parfaitement dans une décoration zen ou bohème, tout en offrant un confort doux et chaleureux sous les pieds.",
               "photo": "images/articles/tapis-de-sol-gris-mv6ekftbrhm6.jpg",
               "prixBoutique": 12.9,
-              "stock": 3,
-              "stripe": "https://buy.stripe.com/3cI6oI5ZU2Jngf621j29m3X",
-              "stripeProductId": "prod_VQsbUsdkQwiibi",
-              "stripePriceId": "price_1UQ0pyLOfCA5mATugTsm4mWi",
-              "stripeLinkId": "plink_1UQ0pyLOfCA5mATuEbWF45p7",
-              "stripePrix": 13.6,
-              "stripeMode": "live",
-              "stripeNom": "Tapis de sol gris",
-              "stripeDesc": "Ce tapis de sol gris aux motifs géométriques élégants apporte une touche d'harmonie et de sérénité à votre intérieur. Traditionnellement utilisé pour ancrer les énergies et favoriser la stabilité émotionnelle, il crée un espace apaisant propice à la méditation ou au repos. Son design raffiné s’intègre parfaitement dans une décoration zen ou bohème, tout en offrant un confort doux et chaleureux sous les pieds.",
-              "stripeStock": 3,
-              "epuise": false
+              "stock": 3
             },
             {
               "id": "tapis-de-sol-bleu-mv6elhz2vb4c",
@@ -21466,17 +21436,7 @@
               "description": "Ce tapis de sol bleu apporte une touche d'apaisement et de sérénité à votre espace. Associé traditionnellement à la calme et à la clarté mentale, il favorise un environnement harmonieux pour la méditation, le repos ou simplement pour se ressourcer au quotidien. Son design sobre et élégant s’intègre parfaitement dans une décoration zen ou moderne.",
               "photo": "images/articles/tapis-de-sol-bleu-mv6elhz2qsql.jpg",
               "prixBoutique": 12.9,
-              "stock": 3,
-              "stripe": "https://buy.stripe.com/dRm14o2NIabP4wo21j29m3Y",
-              "stripeProductId": "prod_VQsbY1ZkzQ1mPr",
-              "stripePriceId": "price_1UQ0pzLOfCA5mATuyYoOgeJG",
-              "stripeLinkId": "plink_1UQ0pzLOfCA5mATuNSRu8vFj",
-              "stripePrix": 13.6,
-              "stripeMode": "live",
-              "stripeNom": "Tapis de sol bleu",
-              "stripeDesc": "Ce tapis de sol bleu apporte une touche d'apaisement et de sérénité à votre espace. Associé traditionnellement à la calme et à la clarté mentale, il favorise un environnement harmonieux pour la méditation, le repos ou simplement pour se ressourcer au quotidien. Son design sobre et élégant s’intègre parfaitement dans une décoration zen ou moderne.",
-              "stripeStock": 3,
-              "epuise": false
+              "stock": 3
             }
           ]
         },
@@ -22380,17 +22340,7 @@
               "description": "Cet attrape-rêves de 22 cm de diamètre allie élégance et symbolisme pour harmoniser votre espace. Traditionnellement utilisé pour protéger le sommeil et filtrer les mauvaises énergies, il favorise la sérénité et un repos apaisé. Ses plumes et ses perles en bois renforcent son pouvoir de purification et d’équilibre émotionnel, tout en apportant une touche décorative naturelle à votre intérieur.",
               "photo": "images/articles/attrape-reves-couleur-nature-diametre-22-mv6bnq51pt0b.jpg",
               "prixBoutique": 7.9,
-              "stock": 3,
-              "stripe": "https://buy.stripe.com/dRm6oI4VQ97L1kcgWd29m3Z",
-              "stripeProductId": "prod_VQsbyznypiYkVX",
-              "stripePriceId": "price_1UQ0pzLOfCA5mATuxP49BPcx",
-              "stripeLinkId": "plink_1UQ0q0LOfCA5mATujl3NCjqy",
-              "stripePrix": 8.43,
-              "stripeMode": "live",
-              "stripeNom": "Attrape - rêves couleur nature diamètre 22 cm",
-              "stripeDesc": "Cet attrape-rêves de 22 cm de diamètre allie élégance et symbolisme pour harmoniser votre espace. Traditionnellement utilisé pour protéger le sommeil et filtrer les mauvaises énergies, il favorise la sérénité et un repos apaisé. Ses plumes et ses perles en bois renforcent son pouvoir de purification et d’équilibre émotionnel, tout en apportant une touche décorative naturelle à votre intérieur.",
-              "stripeStock": 3,
-              "epuise": false
+              "stock": 3
             }
           ]
         },
@@ -22406,17 +22356,7 @@
               "description": "Ce tabouret en teck allie élégance naturelle et stabilité, parfait pour décorer votre intérieur tout en apportant une touche chaleureuse et organique. Le teck, bois résistant et durable, est souvent utilisé pour ses propriétés apaisantes et son énergie équilibrante, favorisant un environnement serein et harmonieux. Idéal pour une ambiance zen ou une touche déco originale, il s’intègre aussi bien dans un espace minimaliste que dans un cadre plus rustique.",
               "photo": "images/articles/tabouret-en-teck-mv6cwqr5mma5.jpg",
               "prixBoutique": 121,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/7sYfZicoido1fb29tL29m40",
-              "stripeProductId": "prod_VQsb0IxCsFfXWY",
-              "stripePriceId": "price_1UQ0q0LOfCA5mATuW5Nm3t6x",
-              "stripeLinkId": "plink_1UQ0q0LOfCA5mATuUImqldJo",
-              "stripePrix": 125.33,
-              "stripeMode": "live",
-              "stripeNom": "Tabouret en teck",
-              "stripeDesc": "Ce tabouret en teck allie élégance naturelle et stabilité, parfait pour décorer votre intérieur tout en apportant une touche chaleureuse et organique. Le teck, bois résistant et durable, est souvent utilisé pour ses propriétés apaisantes et son énergie équilibrante, favorisant un environnement serein et harmonieux. Idéal pour une ambiance zen ou une touche déco originale, il s’intègre aussi bien dans un espace minimaliste que dans un cadre plus rustique.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "verre-souffle-sur-racine-de-bois-flotte-mv6eek9jajdc",
@@ -22425,17 +22365,7 @@
               "description": "Ce vase en verre soufflé sur une racine de bois flotté allie élégance naturelle et artisanat raffiné. Son design unique, inspiré par les formes organiques de la nature, apporte une touche apaisante et chaleureuse à votre intérieur. En lithothérapie, les objets liés aux éléments naturels comme le bois sont souvent associés à une énergie équilibrante, favorisant la connexion avec la terre et la sérénité du quotidien.",
               "photo": "images/articles/verre-souffle-sur-racine-de-bois-flotte-mv6eek9jb10n.jpg",
               "prixBoutique": 256,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/6oUfZibke4Rv4wo7lD29m41",
-              "stripeProductId": "prod_VQsboFT0h4V7KL",
-              "stripePriceId": "price_1UQ0q0LOfCA5mATuZXaN4xxU",
-              "stripeLinkId": "plink_1UQ0q1LOfCA5mATua1FCvw9V",
-              "stripePrix": 264.86,
-              "stripeMode": "live",
-              "stripeNom": "Verre soufflé sur racine de bois flotté",
-              "stripeDesc": "Ce vase en verre soufflé sur une racine de bois flotté allie élégance naturelle et artisanat raffiné. Son design unique, inspiré par les formes organiques de la nature, apporte une touche apaisante et chaleureuse à votre intérieur. En lithothérapie, les objets liés aux éléments naturels comme le bois sont souvent associés à une énergie équilibrante, favorisant la connexion avec la terre et la sérénité du quotidien.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "paravent-en-teck-mv6eg5rh1q45",
@@ -22444,17 +22374,7 @@
               "description": "Ce paravent en teck, aux motifs organiques et naturels, apporte une touche d'élégance et de sérénité à votre intérieur. Le teck, bois résistant et esthétique, est souvent utilisé pour ses propriétés apaisantes et son énergie stabilisatrice, aidant à créer un espace harmonieux et équilibré. Idéal pour délimiter un coin calme ou simplement comme élément décoratif, il invite à la méditation et au bien-être au quotidien.",
               "photo": "images/articles/paravent-en-teck-mv6eg5rhmuph.jpg",
               "prixBoutique": 599,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/3cIfZi1JE0Bfe6YgWd29m42",
-              "stripeProductId": "prod_VQsbmDToha2J5W",
-              "stripePriceId": "price_1UQ0q1LOfCA5mATuSrOSODoA",
-              "stripeLinkId": "plink_1UQ0q1LOfCA5mATuRksvz8DM",
-              "stripePrix": 619.38,
-              "stripeMode": "live",
-              "stripeNom": "Paravent en teck",
-              "stripeDesc": "Ce paravent en teck, aux motifs organiques et naturels, apporte une touche d'élégance et de sérénité à votre intérieur. Le teck, bois résistant et esthétique, est souvent utilisé pour ses propriétés apaisantes et son énergie stabilisatrice, aidant à créer un espace harmonieux et équilibré. Idéal pour délimiter un coin calme ou simplement comme élément décoratif, il invite à la méditation et au bien-être au quotidien.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },
@@ -22775,17 +22695,16 @@
               "description": "Ce cadre rectangulaire doré apporte une touche d'élégance et de chaleur à votre intérieur. Selon les croyances en lithothérapie, les éléments dorés sont souvent associés à la lumière, à la joie et à une énergie positive, aidant à créer une ambiance harmonieuse et inspirante. Idéal pour sublimer vos espaces tout en invitant une énergie bienveillante et apaisante.",
               "photo": "images/articles/cadre-rectangulaire-doree-mv6b55ddmh73.jpg",
               "prixBoutique": 19.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/28E3cw2NI3Nr7IA9tL29m43",
-              "stripeProductId": "prod_VQsbE9SlEsq70w",
-              "stripePriceId": "price_1UQ0q2LOfCA5mATuv94U8Ori",
-              "stripeLinkId": "plink_1UQ0q2LOfCA5mATuhh4rBO8e",
-              "stripePrix": 20.83,
-              "stripeMode": "live",
-              "stripeNom": "Cadre rectangulaire dorée",
-              "stripeDesc": "Ce cadre rectangulaire doré apporte une touche d'élégance et de chaleur à votre intérieur. Selon les croyances en lithothérapie, les éléments dorés sont souvent associés à la lumière, à la joie et à une énergie positive, aidant à créer une ambiance harmonieuse et inspirante. Idéal pour sublimer vos espaces tout en invitant une énergie bienveillante et apaisante.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "decoration-murale-en-fer-doree-mv6et40llkdi",
+              "nom": "Décoration murale en fer dorée",
+              "prix": 93.18,
+              "description": "Cette décoration murale en fer doré apporte une touche d'élégance et de chaleur à votre intérieur. Son design en forme de mandala rayonnant est souvent associé à l'harmonisation des énergies et à la création d'une ambiance apaisante. Idéale pour décorer tout espace tout en invitant la sérénité et la positivité dans votre quotidien.",
+              "photo": "images/articles/decoration-murale-en-fer-doree-mv6et40lng7l.jpg",
+              "prixBoutique": 89.9,
+              "stock": 1
             }
           ]
         },
@@ -23734,17 +23653,7 @@
               "description": "Ce vase décoratif doré apporte une touche d'élégance et de chaleur à votre intérieur. Son éclat doré est souvent associé à une énergie positive, favorisant la prospérité et la joie. Idéal pour sublimer vos espaces tout en invitant une ambiance harmonieuse et inspirante.",
               "photo": "images/articles/vase-decoration-doree-mv6d9ijt7sfq.jpg",
               "prixBoutique": 70.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/bJe3cwaga0Bfgf6bBT29m44",
-              "stripeProductId": "prod_VQsbmWf87ILSWD",
-              "stripePriceId": "price_1UQ0q2LOfCA5mATuXfINMP5h",
-              "stripeLinkId": "plink_1UQ0q2LOfCA5mATuh3WzYtD7",
-              "stripePrix": 73.55,
-              "stripeMode": "live",
-              "stripeNom": "Vase décoration dorée",
-              "stripeDesc": "Ce vase décoratif doré apporte une touche d'élégance et de chaleur à votre intérieur. Son éclat doré est souvent associé à une énergie positive, favorisant la prospérité et la joie. Idéal pour sublimer vos espaces tout en invitant une ambiance harmonieuse et inspirante.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "vase-argentee-mv6e05g6a25e",
@@ -23753,17 +23662,7 @@
               "description": "Ce vase argentée au design élégant et intemporel apporte une touche raffinée à votre intérieur tout en diffusant une énergie harmonieuse. Son éclat métallique est souvent associé à la purification et à l’ouverture des chakras, favorisant ainsi un équilibre énergétique apaisant. Idéal pour décorer tout en invitant la lumière et la positivité dans votre espace de vie.",
               "photo": "images/articles/vase-argentee-mv6e05g6pr1q.jpg",
               "prixBoutique": 56.5,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/9B68wQ4VQ97Le6Y9tL29m45",
-              "stripeProductId": "prod_VQsbjqgsHX4HlS",
-              "stripePriceId": "price_1UQ0q3LOfCA5mATuKgH7JB8J",
-              "stripeLinkId": "plink_1UQ0q3LOfCA5mATu64R9uzgy",
-              "stripePrix": 58.66,
-              "stripeMode": "live",
-              "stripeNom": "Vase argentée",
-              "stripeDesc": "Ce vase argentée au design élégant et intemporel apporte une touche raffinée à votre intérieur tout en diffusant une énergie harmonieuse. Son éclat métallique est souvent associé à la purification et à l’ouverture des chakras, favorisant ainsi un équilibre énergétique apaisant. Idéal pour décorer tout en invitant la lumière et la positivité dans votre espace de vie.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "grande-bombonne-en-verre-teintee-mv6e4bq67yee",
@@ -23772,17 +23671,7 @@
               "description": "Cette grande bombonne en verre teinté apporte une touche d'élégance et de mystère à votre intérieur. Son allure intemporelle et son contenu présumé en font un objet décoratif unique, souvent utilisé pour stocker des huiles essentielles ou des mélanges énergétiques. En lithothérapie et en décoration spirituelle, elle symbolise la protection et l'équilibre des énergies, tout en invitant à une ambiance apaisante et harmonieuse.",
               "photo": "images/articles/grande-bombonne-en-verre-teintee-mv6e4bq6tjby.jpg",
               "prixBoutique": 98.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/4gM00kdsm97LbYQ5dv29m46",
-              "stripeProductId": "prod_VQsbleU1A1O0C8",
-              "stripePriceId": "price_1UQ0q3LOfCA5mATukWE4FqEI",
-              "stripeLinkId": "plink_1UQ0q4LOfCA5mATuRK3gIfws",
-              "stripePrix": 102.49,
-              "stripeMode": "live",
-              "stripeNom": "Grande bombonne en verre teintée",
-              "stripeDesc": "Cette grande bombonne en verre teinté apporte une touche d'élégance et de mystère à votre intérieur. Son allure intemporelle et son contenu présumé en font un objet décoratif unique, souvent utilisé pour stocker des huiles essentielles ou des mélanges énergétiques. En lithothérapie et en décoration spirituelle, elle symbolise la protection et l'équilibre des énergies, tout en invitant à une ambiance apaisante et harmonieuse.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "grande-bombonne-teintee-orange-mv6e5ggven4j",
@@ -23791,17 +23680,7 @@
               "description": "Cette grande bombonne teintée d’un bel orange profond est un objet décoratif et symbolique, souvent utilisé pour canaliser et amplifier les énergies positives. Selon les croyances en lithothérapie, les teintes chaudes comme l’orange sont associées à la vitalité, à la joie et à une énergie dynamique, aidant à stimuler la motivation et à chasser les tensions du quotidien. Parfaite pour sublimer un intérieur tout en invitant une ambiance harmonieuse et inspirante, elle peut aussi servir de support pour des rituels de bien-être ou de méditation.",
               "photo": "images/articles/grande-bombonne-teintee-orange-mv6e5ggvaol3.jpg",
               "prixBoutique": 98.9,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/cNibJ28822Jn9QIbBT29m47",
-              "stripeProductId": "prod_VQsbL10Q5kTjqX",
-              "stripePriceId": "price_1UQ0q4LOfCA5mATuxpK1XWFz",
-              "stripeLinkId": "plink_1UQ0q4LOfCA5mATutrwt7t04",
-              "stripePrix": 102.49,
-              "stripeMode": "live",
-              "stripeNom": "Grande bombonne teintée orange",
-              "stripeDesc": "Cette grande bombonne teintée d’un bel orange profond est un objet décoratif et symbolique, souvent utilisé pour canaliser et amplifier les énergies positives. Selon les croyances en lithothérapie, les teintes chaudes comme l’orange sont associées à la vitalité, à la joie et à une énergie dynamique, aidant à stimuler la motivation et à chasser les tensions du quotidien. Parfaite pour sublimer un intérieur tout en invitant une ambiance harmonieuse et inspirante, elle peut aussi servir de support pour des rituels de bien-être ou de méditation.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },
@@ -23893,17 +23772,7 @@
               "description": "Ce plafonnier en métal habillé de fibres de jute apporte une touche naturelle et chaleureuse à votre intérieur. Son design artisanal et ses matières organiques créent une ambiance apaisante, idéale pour favoriser la détente et l’harmonie des espaces. Parfait pour les amateurs de décoration bohème ou zen, il diffuse une lumière douce qui adoucit l’atmosphère tout en apportant une touche d’authenticité.",
               "photo": "images/articles/plafonnier-metal-jute-mv6bbh71e7ru.jpg",
               "prixBoutique": 45.95,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/bJeaEY4VQgAd4wofS929n00",
-              "stripeProductId": "prod_VQsbdn3u8NSqni",
-              "stripePriceId": "price_1UQ0q4LOfCA5mATuk7XeVsm7",
-              "stripeLinkId": "plink_1UQ0q5LOfCA5mATuLp2PIFri",
-              "stripePrix": 47.76,
-              "stripeMode": "live",
-              "stripeNom": "Plafonnier métal jute",
-              "stripeDesc": "Ce plafonnier en métal habillé de fibres de jute apporte une touche naturelle et chaleureuse à votre intérieur. Son design artisanal et ses matières organiques créent une ambiance apaisante, idéale pour favoriser la détente et l’harmonie des espaces. Parfait pour les amateurs de décoration bohème ou zen, il diffuse une lumière douce qui adoucit l’atmosphère tout en apportant une touche d’authenticité.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         },
@@ -24120,6 +23989,15 @@
               "stripeDesc": "Ce sac de plage en fibres naturelles est un accessoire à la fois esthétique et fonctionnel, idéal pour transporter vos essentiels en toute légèreté. Ses motifs artisanaux et son design organique en font une pièce décorative qui s’intègre parfaitement dans un intérieur zen ou une ambiance balnéaire. En lithothérapie, les objets en fibres naturelles sont souvent associés à une énergie apaisante, favorisant la détente et l’harmonie avec la nature.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "petit-sac-en-bandouliere-mv6ereywztat",
+              "nom": "Petit sac en bandouliére",
+              "prix": 10.5,
+              "description": "",
+              "photo": "images/articles/petit-sac-en-bandouliere-mv6ereywhivo.jpg",
+              "prixBoutique": 9.9,
+              "stock": 1
             }
           ]
         },

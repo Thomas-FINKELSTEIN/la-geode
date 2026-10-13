@@ -22304,7 +22304,17 @@
               "description": "Cet attrape-rêves de 22 cm de diamètre allie élégance et symbolisme pour harmoniser votre espace. Traditionnellement utilisé pour protéger le sommeil et filtrer les mauvaises énergies, il favorise la sérénité et un repos apaisé. Ses plumes et ses perles en bois renforcent son pouvoir de purification et d’équilibre émotionnel, tout en apportant une touche décorative naturelle à votre intérieur.",
               "photo": "images/articles/attrape-reves-couleur-nature-diametre-22-mv6bnq51pt0b.jpg",
               "prixBoutique": 7.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/eVq6oI8822Jn2og7lD29m2g",
+              "stripeProductId": "prod_VQrGmvJYp9Ke6Z",
+              "stripePriceId": "price_1UPzYKLOfCA5mATuxojms4LP",
+              "stripeLinkId": "plink_1UPzYKLOfCA5mATuBuReQzrI",
+              "stripePrix": 8.43,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêves couleur nature diamètre 22 cm",
+              "stripeDesc": "Cet attrape-rêves de 22 cm de diamètre allie élégance et symbolisme pour harmoniser votre espace. Traditionnellement utilisé pour protéger le sommeil et filtrer les mauvaises énergies, il favorise la sérénité et un repos apaisé. Ses plumes et ses perles en bois renforcent son pouvoir de purification et d’équilibre émotionnel, tout en apportant une touche décorative naturelle à votre intérieur.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },
@@ -22631,7 +22641,17 @@
               "description": "Ce cadre rectangulaire doré apporte une touche d'élégance et de chaleur à votre intérieur. Selon les croyances en lithothérapie, les éléments dorés sont souvent associés à la lumière, à la joie et à une énergie positive, aidant à créer une ambiance harmonieuse et inspirante. Idéal pour sublimer vos espaces tout en invitant une énergie bienveillante et apaisante.",
               "photo": "images/articles/cadre-rectangulaire-doree-mv6b55ddmh73.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe3cw3RMes54wobBT29m2h",
+              "stripeProductId": "prod_VQrG7d8p3cvAH3",
+              "stripePriceId": "price_1UPzYKLOfCA5mATuS5OqBPqO",
+              "stripeLinkId": "plink_1UPzYLLOfCA5mATuvxPukQ36",
+              "stripePrix": 20.83,
+              "stripeMode": "live",
+              "stripeNom": "Cadre rectangulaire dorée",
+              "stripeDesc": "Ce cadre rectangulaire doré apporte une touche d'élégance et de chaleur à votre intérieur. Selon les croyances en lithothérapie, les éléments dorés sont souvent associés à la lumière, à la joie et à une énergie positive, aidant à créer une ambiance harmonieuse et inspirante. Idéal pour sublimer vos espaces tout en invitant une énergie bienveillante et apaisante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -23663,7 +23683,17 @@
               "description": "Ce plafonnier en métal habillé de fibres de jute apporte une touche naturelle et chaleureuse à votre intérieur. Son design artisanal et ses matières organiques créent une ambiance apaisante, idéale pour favoriser la détente et l’harmonie des espaces. Parfait pour les amateurs de décoration bohème ou zen, il diffuse une lumière douce qui adoucit l’atmosphère tout en apportant une touche d’authenticité.",
               "photo": "images/articles/plafonnier-metal-jute-mv6bbh71e7ru.jpg",
               "prixBoutique": 45.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu9AU0FAgAdbYQfS929m2i",
+              "stripeProductId": "prod_VQrGdqgCkfy7HE",
+              "stripePriceId": "price_1UPzYLLOfCA5mATuDx8qwnmU",
+              "stripeLinkId": "plink_1UPzYLLOfCA5mATuqCdP7LYn",
+              "stripePrix": 47.76,
+              "stripeMode": "live",
+              "stripeNom": "Plafonnier métal jute",
+              "stripeDesc": "Ce plafonnier en métal habillé de fibres de jute apporte une touche naturelle et chaleureuse à votre intérieur. Son design artisanal et ses matières organiques créent une ambiance apaisante, idéale pour favoriser la détente et l’harmonie des espaces. Parfait pour les amateurs de décoration bohème ou zen, il diffuse une lumière douce qui adoucit l’atmosphère tout en apportant une touche d’authenticité.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

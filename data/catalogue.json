@@ -22622,7 +22622,17 @@
               "description": "Ce cadre rectangulaire doré apporte une touche d'élégance et de chaleur à votre intérieur. Selon les croyances en lithothérapie, les éléments dorés sont souvent associés à la lumière, à la joie et à une énergie positive, aidant à créer une ambiance harmonieuse et inspirante. Idéal pour sublimer vos espaces tout en invitant une énergie bienveillante et apaisante.",
               "photo": "images/articles/cadre-rectangulaire-doree-mv6b55ddmh73.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRmfZigEycjXe6YbBT29m2d",
+              "stripeProductId": "prod_VQr2ulPHN8zLuB",
+              "stripePriceId": "price_1UPzKOLOfCA5mATuuEc8rFmN",
+              "stripeLinkId": "plink_1UPzKPLOfCA5mATu8SXechwx",
+              "stripePrix": 20.83,
+              "stripeMode": "live",
+              "stripeNom": "Cadre rectangulaire dorée",
+              "stripeDesc": "Ce cadre rectangulaire doré apporte une touche d'élégance et de chaleur à votre intérieur. Selon les croyances en lithothérapie, les éléments dorés sont souvent associés à la lumière, à la joie et à une énergie positive, aidant à créer une ambiance harmonieuse et inspirante. Idéal pour sublimer vos espaces tout en invitant une énergie bienveillante et apaisante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

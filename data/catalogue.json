@@ -3629,17 +3629,7 @@
               "description": "Ce cristal de roche sous forme de druse est une pièce naturelle et majestueuse venue directement du Brésil. Composé de multiples cristaux transparents et brillants, il est idéal pour purifier l’énergie et apporter clarté et sérénité à votre environnement. En lithothérapie, il est souvent utilisé pour renforcer la concentration, équilibrer les émotions et favoriser un bien-être profond.",
               "photo": "images/articles/cristal-de-roche-du-bresil-druse-1-5-kg-mv6pntze7u43.jpg",
               "prixBoutique": 70.85,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/9B66oIewq83H4wo7lD29q1s",
-              "stripeProductId": "prod_VQyYzk7fu3Bm7x",
-              "stripePriceId": "price_1UQ6bGLOfCA5mATuSi9NVmxF",
-              "stripeLinkId": "plink_1UQ6bGLOfCA5mATu6nsN1W3U",
-              "stripePrix": 73.49,
-              "stripeMode": "live",
-              "stripeNom": "Cristal de roche du brésil Druse 1,5 kg",
-              "stripeDesc": "Ce cristal de roche sous forme de druse est une pièce naturelle et majestueuse venue directement du Brésil. Composé de multiples cristaux transparents et brillants, il est idéal pour purifier l’énergie et apporter clarté et sérénité à votre environnement. En lithothérapie, il est souvent utilisé pour renforcer la concentration, équilibrer les émotions et favoriser un bien-être profond.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "jaspe-polychrome-geode-de-18-cm-mv6q2jc9ejhu",
@@ -3648,17 +3638,7 @@
               "description": "Cette géode de jaspe polychrome est une pièce naturelle aux couleurs variées et apaisantes, alliant des teintes douces et des reflets chauds. En lithothérapie, le jaspe polychrome est souvent utilisé pour équilibrer les émotions, renforcer la stabilité intérieure et favoriser la connexion à la terre. Son énergie harmonieuse en fait un allié idéal pour apaiser le mental et stimuler la créativité au quotidien.",
               "photo": "images/articles/jaspe-polychrome-geode-de-18-cm-mv6q2jc9ner0.jpg",
               "prixBoutique": 228.3,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/dRm8wQ0FAgAd1kc7lD29q1t",
-              "stripeProductId": "prod_VQyYIFp6ZCLASB",
-              "stripePriceId": "price_1UQ6bHLOfCA5mATuwY3tYZof",
-              "stripeLinkId": "plink_1UQ6bHLOfCA5mATupr3HFnHf",
-              "stripePrix": 236.23,
-              "stripeMode": "live",
-              "stripeNom": "Jaspe polychrome géode de 18 cm",
-              "stripeDesc": "Cette géode de jaspe polychrome est une pièce naturelle aux couleurs variées et apaisantes, alliant des teintes douces et des reflets chauds. En lithothérapie, le jaspe polychrome est souvent utilisé pour équilibrer les émotions, renforcer la stabilité intérieure et favoriser la connexion à la terre. Son énergie harmonieuse en fait un allié idéal pour apaiser le mental et stimuler la créativité au quotidien.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "emeraude-brute-geode-mv6rsarigfhq",
@@ -3667,17 +3647,16 @@
               "description": "Cette émeraude brute, encore dans sa gangue naturelle, est une pierre aux reflets profonds et mystérieux. En lithothérapie, elle est souvent associée à l’amour, à la paix intérieure et à la purification des émotions. Son énergie apaisante en fait un allié précieux pour retrouver équilibre et sérénité au quotidien.",
               "photo": "images/articles/emeraude-brute-geode-mv6rsari1sin.jpg",
               "prixBoutique": 65,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/28EeVe4VQ6ZD2og49r29q1u",
-              "stripeProductId": "prod_VQyYSr7w0CGn3S",
-              "stripePriceId": "price_1UQ6bHLOfCA5mATuO02QbSOR",
-              "stripeLinkId": "plink_1UQ6bHLOfCA5mATukumsC3G6",
-              "stripePrix": 67.45,
-              "stripeMode": "live",
-              "stripeNom": "Emeraude brute géode",
-              "stripeDesc": "Cette émeraude brute, encore dans sa gangue naturelle, est une pierre aux reflets profonds et mystérieux. En lithothérapie, elle est souvent associée à l’amour, à la paix intérieure et à la purification des émotions. Son énergie apaisante en fait un allié précieux pour retrouver équilibre et sérénité au quotidien.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "azurite-brute-geode-mv6ru2bhtzx5",
+              "nom": "Azurite brute géode",
+              "prix": 77.27,
+              "description": "Cette azurite brute se présente sous forme de géode aux reflets profonds et mystérieux, mêlant des teintes bleues et vertes intenses. Connue pour ses propriétés apaisantes et protectrices, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et équilibrer les émotions. Son énergie est réputée pour stimuler la communication et la clarté mentale, tout en apaisant les tensions intérieures.",
+              "photo": "images/articles/azurite-brute-geode-mv6ru2bhj76k.jpg",
+              "prixBoutique": 74.5,
+              "stock": 1
             }
           ]
         }

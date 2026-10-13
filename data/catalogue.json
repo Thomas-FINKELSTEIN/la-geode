@@ -3629,17 +3629,7 @@
               "description": "Ce cristal de roche sous forme de druse est une pièce naturelle et majestueuse venue directement du Brésil. Composé de multiples cristaux transparents et brillants, il est idéal pour purifier l’énergie et apporter clarté et sérénité à votre environnement. En lithothérapie, il est souvent utilisé pour renforcer la concentration, équilibrer les émotions et favoriser un bien-être profond.",
               "photo": "images/articles/cristal-de-roche-du-bresil-druse-1-5-kg-mv6pntze7u43.jpg",
               "prixBoutique": 70.85,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/9B6dRa2NI2Jn2og49r29q1q",
-              "stripeProductId": "prod_VQxmEOCZ9KEGpS",
-              "stripePriceId": "price_1UQ5qlLOfCA5mATulzYGa5RH",
-              "stripeLinkId": "plink_1UQ5qlLOfCA5mATuMxl3NLx5",
-              "stripePrix": 73.49,
-              "stripeMode": "live",
-              "stripeNom": "Cristal de roche du brésil Druse 1,5 kg",
-              "stripeDesc": "Ce cristal de roche sous forme de druse est une pièce naturelle et majestueuse venue directement du Brésil. Composé de multiples cristaux transparents et brillants, il est idéal pour purifier l’énergie et apporter clarté et sérénité à votre environnement. En lithothérapie, il est souvent utilisé pour renforcer la concentration, équilibrer les émotions et favoriser un bien-être profond.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "jaspe-polychrome-geode-de-18-cm-mv6q2jc9ejhu",
@@ -3648,17 +3638,16 @@
               "description": "Cette géode de jaspe polychrome est une pièce naturelle aux couleurs variées et apaisantes, alliant des teintes douces et des reflets chauds. En lithothérapie, le jaspe polychrome est souvent utilisé pour équilibrer les émotions, renforcer la stabilité intérieure et favoriser la connexion à la terre. Son énergie harmonieuse en fait un allié idéal pour apaiser le mental et stimuler la créativité au quotidien.",
               "photo": "images/articles/jaspe-polychrome-geode-de-18-cm-mv6q2jc9ner0.jpg",
               "prixBoutique": 228.3,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/aFaaEY73Y4Rvfb221j29q1r",
-              "stripeProductId": "prod_VQxmRK1VTHGexf",
-              "stripePriceId": "price_1UQ5qmLOfCA5mATunssmOczx",
-              "stripeLinkId": "plink_1UQ5qmLOfCA5mATuDronesvK",
-              "stripePrix": 236.23,
-              "stripeMode": "live",
-              "stripeNom": "Jaspe polychrome géode de 18 cm",
-              "stripeDesc": "Cette géode de jaspe polychrome est une pièce naturelle aux couleurs variées et apaisantes, alliant des teintes douces et des reflets chauds. En lithothérapie, le jaspe polychrome est souvent utilisé pour équilibrer les émotions, renforcer la stabilité intérieure et favoriser la connexion à la terre. Son énergie harmonieuse en fait un allié idéal pour apaiser le mental et stimuler la créativité au quotidien.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "emeraude-brute-geode-mv6rsarigfhq",
+              "nom": "Emeraude brute géode",
+              "prix": 67.45,
+              "description": "Cette émeraude brute, encore dans sa gangue naturelle, est une pierre aux reflets profonds et mystérieux. En lithothérapie, elle est souvent associée à l’amour, à la paix intérieure et à la purification des émotions. Son énergie apaisante en fait un allié précieux pour retrouver équilibre et sérénité au quotidien.",
+              "photo": "images/articles/emeraude-brute-geode-mv6rsari1sin.jpg",
+              "prixBoutique": 65,
+              "stock": 1
             }
           ]
         }
@@ -16084,25 +16073,6 @@
               "stripeNom": "Bracelet Jaspe paysage 4 mm",
               "stripeDesc": "Ce bracelet en jaspe paysage est un accessoire naturel et élégant qui apporte une touche boisée et apaisante à votre quotidien. Le jaspe paysage est souvent associé à la stabilité émotionnelle, à la patience et à la connexion avec la nature, aidant à ancrer les énergies et à favoriser un sentiment de sécurité intérieure. Parfait pour un port quotidien, il allie beauté minérale et bien-être énergétique.",
               "stripeStock": 5,
-              "epuise": false
-            },
-            {
-              "id": "bracelet-jaspe-paysage-8-mm-mtjtq3voyp8s",
-              "nom": "Bracelet jaspe paysage 8 mm",
-              "prix": 8.02,
-              "description": "Ce bracelet en jaspe paysage est un accessoire naturel aux reflets dorés et aux motifs organiques apaisants. Le jaspe est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle et favoriser un sentiment de sécurité intérieure. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante au quotidien.",
-              "photo": "images/articles/bracelet-jaspe-paysage-8-mm-mtjtq3vo492r.jpg",
-              "prixBoutique": 7.5,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/6oUdRa0FA3Nr4wocFX2883s",
-              "stripeProductId": "prod_VBWQ6FqQzqIYPc",
-              "stripePriceId": "price_1UB9NBLOfCA5mATupqA22Nly",
-              "stripeLinkId": "plink_1UB9NBLOfCA5mATu1H1s7tZo",
-              "stripePrix": 8.02,
-              "stripeMode": "live",
-              "stripeNom": "Bracelet jaspe paysage 8 mm",
-              "stripeDesc": "Ce bracelet en jaspe paysage est un accessoire naturel aux reflets dorés et aux motifs organiques apaisants. Le jaspe est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle et favoriser un sentiment de sécurité intérieure. Parfait pour un port quotidien, il apporte une énergie harmonieuse et équilibrante au quotidien.",
-              "stripeStock": 1,
               "epuise": false
             },
             {

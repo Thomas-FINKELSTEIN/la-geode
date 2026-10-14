@@ -4332,7 +4332,17 @@
               "description": "Cette géode d'Apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et ouvrir le cœur aux émotions positives. Idéale pour décorer un espace tout en bénéficiant de son énergie harmonieuse, elle inspire la clarté mentale et la connexion spirituelle.",
               "photo": "images/articles/apophylite-geode-mv7sixb19hq2.jpg",
               "prixBoutique": 1320,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe3cw2NIes58ME49r29t2T",
+              "stripeProductId": "prod_VRF8u4bWlg5Lwb",
+              "stripePriceId": "price_1UQMeaLOfCA5mATuNeKLjhGu",
+              "stripeLinkId": "plink_1UQMeaLOfCA5mATuqSwWI4yE",
+              "stripePrix": 1364.6,
+              "stripeMode": "live",
+              "stripeNom": "Apophylite géode",
+              "stripeDesc": "Cette géode d'Apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et ouvrir le cœur aux émotions positives. Idéale pour décorer un espace tout en bénéficiant de son énergie harmonieuse, elle inspire la clarté mentale et la connexion spirituelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -4332,7 +4332,17 @@
               "description": "Cette géode d'Apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et ouvrir le cœur aux émotions positives. Idéale pour décorer un espace tout en bénéficiant de son énergie harmonieuse, elle inspire la clarté mentale et la connexion spirituelle.",
               "photo": "images/articles/apophylite-geode-mv7sixb19hq2.jpg",
               "prixBoutique": 1320,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZudRa2NI1FjaUMaxP29t2U",
+              "stripeProductId": "prod_VRFCOXQbJMGSlq",
+              "stripePriceId": "price_1UQMhhLOfCA5mATu6HwptFut",
+              "stripeLinkId": "plink_1UQMhiLOfCA5mATuMYI3BVDm",
+              "stripePrix": 1364.6,
+              "stripeMode": "live",
+              "stripeNom": "Apophylite géode",
+              "stripeDesc": "Cette géode d'Apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et ouvrir le cœur aux émotions positives. Idéale pour décorer un espace tout en bénéficiant de son énergie harmonieuse, elle inspire la clarté mentale et la connexion spirituelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }
@@ -23536,7 +23546,17 @@
               "description": "Cette sphère de cristal de roche est une pièce pure et lumineuse, idéale pour amplifier les énergies positives et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions et renforcer la connexion à son intuition. Son éclat naturel en fait aussi un objet décoratif élégant, parfait pour sublimer un intérieur ou un espace de méditation.",
               "photo": "images/articles/sphere-de-cristal-de-roche-mv7sn3r0ovas.jpg",
               "prixBoutique": 144,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUcN6coi2Jnd2UdK129t2V",
+              "stripeProductId": "prod_VRFCkkX37ZtT1V",
+              "stripePriceId": "price_1UQMhiLOfCA5mATuXxBdVO2a",
+              "stripeLinkId": "plink_1UQMhiLOfCA5mATuDrlUHqBq",
+              "stripePrix": 149.1,
+              "stripeMode": "live",
+              "stripeNom": "Sphère de cristal de roche",
+              "stripeDesc": "Cette sphère de cristal de roche est une pièce pure et lumineuse, idéale pour amplifier les énergies positives et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions et renforcer la connexion à son intuition. Son éclat naturel en fait aussi un objet décoratif élégant, parfait pour sublimer un intérieur ou un espace de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -4332,7 +4332,17 @@
               "description": "Cette géode d'Apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et ouvrir le cœur aux émotions positives. Idéale pour décorer un espace tout en bénéficiant de son énergie harmonieuse, elle inspire la clarté mentale et la connexion spirituelle.",
               "photo": "images/articles/apophylite-geode-mv7sixb19hq2.jpg",
               "prixBoutique": 1320,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI00kdsm5Vz5AsfS929t2W",
+              "stripeProductId": "prod_VRFFZpzAkCFnOi",
+              "stripePriceId": "price_1UQMlOLOfCA5mATuA2hFF4vu",
+              "stripeLinkId": "plink_1UQMlOLOfCA5mATuZ6SnWTZ7",
+              "stripePrix": 1364.6,
+              "stripeMode": "live",
+              "stripeNom": "Apophylite géode",
+              "stripeDesc": "Cette géode d'Apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et ouvrir le cœur aux émotions positives. Idéale pour décorer un espace tout en bénéficiant de son énergie harmonieuse, elle inspire la clarté mentale et la connexion spirituelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }
@@ -23536,7 +23546,17 @@
               "description": "Cette sphère de cristal de roche est une pièce pure et lumineuse, idéale pour amplifier les énergies positives et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions et renforcer la connexion à son intuition. Son éclat naturel en fait aussi un objet décoratif élégant, parfait pour sublimer un intérieur ou un espace de méditation.",
               "photo": "images/articles/sphere-de-cristal-de-roche-mv7sn3r0ovas.jpg",
               "prixBoutique": 144,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2dRa5ZU97LaUM7lD29t2X",
+              "stripeProductId": "prod_VRFFWR7OaLe6bk",
+              "stripePriceId": "price_1UQMlPLOfCA5mATuB7ReJ8Wi",
+              "stripeLinkId": "plink_1UQMlPLOfCA5mATuqHg2GFkA",
+              "stripePrix": 149.1,
+              "stripeMode": "live",
+              "stripeNom": "Sphère de cristal de roche",
+              "stripeDesc": "Cette sphère de cristal de roche est une pièce pure et lumineuse, idéale pour amplifier les énergies positives et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions et renforcer la connexion à son intuition. Son éclat naturel en fait aussi un objet décoratif élégant, parfait pour sublimer un intérieur ou un espace de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "apatite-en-sphere-mv7ss1v736c0",
@@ -23545,7 +23565,17 @@
               "description": "Cette sphère d'apatite, aux reflets verts et bleutés captivants, est une pierre aux multiples facettes énergétiques. En lithothérapie, elle est souvent utilisée pour stimuler la créativité, équilibrer les émotions et renforcer la confiance en soi. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps au quotidien.",
               "photo": "images/articles/apatite-en-sphere-mv7ss1v8at4g.jpg",
               "prixBoutique": 120,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x24gAaga5Vz2oggWd29t2Y",
+              "stripeProductId": "prod_VRFFRXGVDMLAio",
+              "stripePriceId": "price_1UQMlPLOfCA5mATuIDm8x6Wu",
+              "stripeLinkId": "plink_1UQMlPLOfCA5mATutOodeGqL",
+              "stripePrix": 124.29,
+              "stripeMode": "live",
+              "stripeNom": "Apatite en sphère",
+              "stripeDesc": "Cette sphère d'apatite, aux reflets verts et bleutés captivants, est une pierre aux multiples facettes énergétiques. En lithothérapie, elle est souvent utilisée pour stimuler la créativité, équilibrer les émotions et renforcer la confiance en soi. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

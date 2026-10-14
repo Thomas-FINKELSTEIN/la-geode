@@ -4294,7 +4294,17 @@
               "description": "Cette géode d'Apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et ouvrir le cœur aux émotions positives. Idéale pour décorer un espace tout en bénéficiant de son énergie harmonieuse, elle inspire la clarté mentale et la connexion spirituelle.",
               "photo": "images/articles/apophylite-geode-mv7sixb19hq2.jpg",
               "prixBoutique": 1320,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJefZi9c6cjX7IAgWd29u0X",
+              "stripeProductId": "prod_VRHKm6XT5z8NVQ",
+              "stripePriceId": "price_1UQOlvLOfCA5mATu2s10eR4O",
+              "stripeLinkId": "plink_1UQOlvLOfCA5mATuObpcW8PK",
+              "stripePrix": 1364.6,
+              "stripeMode": "live",
+              "stripeNom": "Apophylite géode",
+              "stripeDesc": "Cette géode d'Apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et ouvrir le cœur aux émotions positives. Idéale pour décorer un espace tout en bénéficiant de son énergie harmonieuse, elle inspire la clarté mentale et la connexion spirituelle.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pointe-de-quartz-rose-15-cm-mv7suk9o9tis",
@@ -4303,7 +4313,17 @@
               "description": "Cette pointe de quartz rose de 15 cm est une pièce naturelle aux reflets doux et apaisants. Le quartz rose est souvent utilisé en lithothérapie pour favoriser l’ouverture du cœur, renforcer l’amour inconditionnel et apaiser les émotions. Idéal pour créer une ambiance harmonieuse dans votre espace ou pour une méditation bien-être, il est aussi apprécié pour ses vertus apaisantes sur le stress et les tensions.",
               "photo": "images/articles/pointe-de-quartz-rose-15-cm-mv7suk9oxx1v.jpg",
               "prixBoutique": 115,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E7sM0FAdo1gf68pH29u0Y",
+              "stripeProductId": "prod_VRHKgieB8wtmjP",
+              "stripePriceId": "price_1UQOlwLOfCA5mATuj7zJlbX7",
+              "stripeLinkId": "plink_1UQOlwLOfCA5mATuSMuFuPAR",
+              "stripePrix": 119.13,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de quartz rose 15 cm",
+              "stripeDesc": "Cette pointe de quartz rose de 15 cm est une pièce naturelle aux reflets doux et apaisants. Le quartz rose est souvent utilisé en lithothérapie pour favoriser l’ouverture du cœur, renforcer l’amour inconditionnel et apaiser les émotions. Idéal pour créer une ambiance harmonieuse dans votre espace ou pour une méditation bien-être, il est aussi apprécié pour ses vertus apaisantes sur le stress et les tensions.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jade-de-chine-brute-mv7useyusxpi",
@@ -4312,7 +4332,17 @@
               "description": "Ce galet de jade de Chine brute est une pierre naturelle aux teintes douces et apaisantes, mêlant des nuances de vert et de jaune. Symbole de sagesse et de protection en lithothérapie, le jade est souvent utilisé pour favoriser l’harmonie émotionnelle et renforcer la connexion à soi-même. Idéal pour les pratiques énergétiques ou comme élément décoratif, il apporte une touche d’équilibre et de sérénité dans votre quotidien.",
               "photo": "images/articles/jade-de-chine-brute-mv7useyuc6jl.jpg",
               "prixBoutique": 39,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI5kE73YgAd3skbBT29u0Z",
+              "stripeProductId": "prod_VRHKe4McSrSyP3",
+              "stripePriceId": "price_1UQOlwLOfCA5mATuce7bb0U0",
+              "stripeLinkId": "plink_1UQOlxLOfCA5mATucB5ggdYf",
+              "stripePrix": 40.57,
+              "stripeMode": "live",
+              "stripeNom": "Jade de chine brute",
+              "stripeDesc": "Ce galet de jade de Chine brute est une pierre naturelle aux teintes douces et apaisantes, mêlant des nuances de vert et de jaune. Symbole de sagesse et de protection en lithothérapie, le jade est souvent utilisé pour favoriser l’harmonie émotionnelle et renforcer la connexion à soi-même. Idéal pour les pratiques énergétiques ou comme élément décoratif, il apporte une touche d’équilibre et de sérénité dans votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "angelite-petite-pierre-geode-mv7uzsvpumei",
@@ -4321,7 +4351,17 @@
               "description": "Cette belle Angélite en forme de géode offre une énergie apaisante et purificatrice, idéale pour harmoniser les émotions et favoriser la sérénité. Associée à la communication divine et à l’ouverture spirituelle, elle est souvent utilisée pour apaiser les tensions et renforcer la connexion avec son intuition. Parfaite pour les espaces de méditation ou comme objet de bien-être au quotidien.",
               "photo": "images/articles/angelite-petite-pierre-geode-mv7uzsvpyc1s.jpg",
               "prixBoutique": 8.85,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm28s5ZU0Bf8ME35n29u10",
+              "stripeProductId": "prod_VRHKWI2p4DMdTg",
+              "stripePriceId": "price_1UQOlxLOfCA5mATuuCDdvyjY",
+              "stripeLinkId": "plink_1UQOlxLOfCA5mATue1dhuiPJ",
+              "stripePrix": 9.41,
+              "stripeMode": "live",
+              "stripeNom": "Angélite petite pierre géode",
+              "stripeDesc": "Cette belle Angélite en forme de géode offre une énergie apaisante et purificatrice, idéale pour harmoniser les émotions et favoriser la sérénité. Associée à la communication divine et à l’ouverture spirituelle, elle est souvent utilisée pour apaiser les tensions et renforcer la connexion avec son intuition. Parfaite pour les espaces de méditation ou comme objet de bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "angelite-petite-pierre-geode-mv7v117d0fgk",
@@ -4330,7 +4370,17 @@
               "description": "Cette belle Angélite en forme de géode est une pierre douce et apaisante, souvent utilisée pour favoriser la sérénité et la connexion avec les énergies divines. Elle est réputée pour ouvrir le cœur et apaiser les émotions, aidant ainsi à retrouver un état de calme intérieur. Idéale pour les espaces de méditation ou comme objet décoratif inspirant, elle apporte une touche de douceur et de lumière à votre quotidien.",
               "photo": "images/articles/angelite-petite-pierre-geode-mv7v117d58zn.jpg",
               "prixBoutique": 13.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqfZigEy4Rv0g86hz29u11",
+              "stripeProductId": "prod_VRHKDCMbmUjoBY",
+              "stripePriceId": "price_1UQOlyLOfCA5mATuCutGc2z9",
+              "stripeLinkId": "plink_1UQOlyLOfCA5mATuY7ukmR7X",
+              "stripePrix": 14.22,
+              "stripeMode": "live",
+              "stripeNom": "Angélite petite pierre géode",
+              "stripeDesc": "Cette belle Angélite en forme de géode est une pierre douce et apaisante, souvent utilisée pour favoriser la sérénité et la connexion avec les énergies divines. Elle est réputée pour ouvrir le cœur et apaiser les émotions, aidant ainsi à retrouver un état de calme intérieur. Idéale pour les espaces de méditation ou comme objet décoratif inspirant, elle apporte une touche de douceur et de lumière à votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "angelite-plaque-mv7v2f3v7xbf",
@@ -4339,7 +4389,17 @@
               "description": "L'Angélite est une pierre douce et apaisante, souvent appelée pierre des anges pour ses propriétés de connexion spirituelle et de purification. Elle favorise la clarté mentale, aide à apaiser les émotions et encourage une communication harmonieuse avec l’univers céleste. Idéale pour les espaces de méditation ou comme support énergétique dans votre quotidien.",
               "photo": "images/articles/angelite-plaque-mv7v2f3vvydv.jpg",
               "prixBoutique": 14.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu5kEdsm3Nr8ME5dv29u12",
+              "stripeProductId": "prod_VRHKiUXOcoOTkK",
+              "stripePriceId": "price_1UQOlzLOfCA5mATuPxptwZAJ",
+              "stripeLinkId": "plink_1UQOlzLOfCA5mATunUCmTZGn",
+              "stripePrix": 15.04,
+              "stripeMode": "live",
+              "stripeNom": "Angélite Plaque",
+              "stripeDesc": "L'Angélite est une pierre douce et apaisante, souvent appelée pierre des anges pour ses propriétés de connexion spirituelle et de purification. Elle favorise la clarté mentale, aide à apaiser les émotions et encourage une communication harmonieuse avec l’univers céleste. Idéale pour les espaces de méditation ou comme support énergétique dans votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "angelite-petite-pierre-geode-mv7v3l4iac7i",
@@ -4348,7 +4408,17 @@
               "description": "Cette belle Angélite en forme de géode attire par ses reflets violets et ses cristaux aux nuances profondes. Pierre de douceur et de sérénité, elle est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la communication avec les anges gardiens. Idéale pour les espaces de méditation ou comme objet décoratif spirituel, elle apporte une énergie paisible et harmonieuse.",
               "photo": "images/articles/angelite-petite-pierre-geode-mv7v3l4jaaw6.jpg",
               "prixBoutique": 13.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU3cwdsmes55AscFX29u13",
+              "stripeProductId": "prod_VRHKAUz9PjIcvH",
+              "stripePriceId": "price_1UQOlzLOfCA5mATugNRyBmF7",
+              "stripeLinkId": "plink_1UQOm0LOfCA5mATunlzVYukS",
+              "stripePrix": 14.22,
+              "stripeMode": "live",
+              "stripeNom": "Angélite petite pierre géode",
+              "stripeDesc": "Cette belle Angélite en forme de géode attire par ses reflets violets et ses cristaux aux nuances profondes. Pierre de douceur et de sérénité, elle est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la communication avec les anges gardiens. Idéale pour les espaces de méditation ou comme objet décoratif spirituel, elle apporte une énergie paisible et harmonieuse.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "angelite-petite-pierre-geode-mv7v4ypnyy61",
@@ -4357,7 +4427,17 @@
               "description": "Cette belle Angélite en forme de géode apporte une douce énergie apaisante et une connexion subtile avec les plans spirituels. Traditionnellement utilisée pour favoriser la sérénité, elle aide à apaiser les émotions et à renforcer la communication avec les anges gardiens. Parfaite pour les espaces de méditation ou comme objet décoratif inspirant, elle invite à la paix intérieure et à l’ouverture du cœur.",
               "photo": "images/articles/angelite-petite-pierre-geode-mv7v4ypnjn01.jpg",
               "prixBoutique": 13.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x214oewqfw9fb2bBT29u14",
+              "stripeProductId": "prod_VRHKCrxpEnejqh",
+              "stripePriceId": "price_1UQOm0LOfCA5mATuWITxpKcW",
+              "stripeLinkId": "plink_1UQOm0LOfCA5mATuT7DZbmOG",
+              "stripePrix": 14.22,
+              "stripeMode": "live",
+              "stripeNom": "Angélite petite pierre géode",
+              "stripeDesc": "Cette belle Angélite en forme de géode apporte une douce énergie apaisante et une connexion subtile avec les plans spirituels. Traditionnellement utilisée pour favoriser la sérénité, elle aide à apaiser les émotions et à renforcer la communication avec les anges gardiens. Parfaite pour les espaces de méditation ou comme objet décoratif inspirant, elle invite à la paix intérieure et à l’ouverture du cœur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "angelite-plaque-mv7v5zu3nn3c",
@@ -4366,7 +4446,17 @@
               "description": "L'Angélite est une pierre douce et apaisante, souvent appelée la pierre des anges. Elle est réputée pour favoriser la communication avec les guides spirituels et renforcer la connexion à son intuition. Idéale pour apaiser les émotions et encourager la sérénité, elle est aussi utilisée pour purifier l’aura et favoriser un état de calme intérieur.",
               "photo": "images/articles/angelite-plaque-mv7v5zu3l021.jpg",
               "prixBoutique": 21,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6fZi5ZUdo17IAcFX29u15",
+              "stripeProductId": "prod_VRHKOfavjYrSAT",
+              "stripePriceId": "price_1UQOm1LOfCA5mATuA02NC1Gu",
+              "stripeLinkId": "plink_1UQOm1LOfCA5mATup2Ccb8RH",
+              "stripePrix": 21.97,
+              "stripeMode": "live",
+              "stripeNom": "Angélite Plaque",
+              "stripeDesc": "L'Angélite est une pierre douce et apaisante, souvent appelée la pierre des anges. Elle est réputée pour favoriser la communication avec les guides spirituels et renforcer la connexion à son intuition. Idéale pour apaiser les émotions et encourager la sérénité, elle est aussi utilisée pour purifier l’aura et favoriser un état de calme intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "obsidienne-oeil-celeste-20-cm-h-mv7xaqgy0j5k",
@@ -4375,7 +4465,17 @@
               "description": "Cette obsidienne en forme de pyramide de 20 cm de hauteur est une pierre aux reflets profonds et mystérieux, souvent appelée oeil céleste pour ses propriétés énergétiques uniques. En lithothérapie, elle est réputée pour son pouvoir de protection et d'ancrage, aidant à apaiser les émotions et à renforcer la connexion avec son intuition. Idéale pour purifier les espaces ou accompagner une pratique méditative, elle est aussi utilisée pour équilibrer les énergies et favoriser la clarté mentale.",
               "photo": "images/articles/obsidienne-oeil-celeste-20-cm-h-mv7xaqgyv5pr.jpg",
               "prixBoutique": 862.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq8wQ9c6es52ogeO529u16",
+              "stripeProductId": "prod_VRHKfcy5JsuxxQ",
+              "stripePriceId": "price_1UQOm1LOfCA5mATuSqo1VUen",
+              "stripeLinkId": "plink_1UQOm2LOfCA5mATuY7pKyhU5",
+              "stripePrix": 891.74,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne oeil céleste 20 cm H",
+              "stripeDesc": "Cette obsidienne en forme de pyramide de 20 cm de hauteur est une pierre aux reflets profonds et mystérieux, souvent appelée oeil céleste pour ses propriétés énergétiques uniques. En lithothérapie, elle est réputée pour son pouvoir de protection et d'ancrage, aidant à apaiser les émotions et à renforcer la connexion avec son intuition. Idéale pour purifier les espaces ou accompagner une pratique méditative, elle est aussi utilisée pour équilibrer les énergies et favoriser la clarté mentale.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -4391,7 +4491,17 @@
               "description": "Petits sachets de shungite, la Shungite est une pierre de grande protection contre les ondes électro-magnétiques; Elle se pose généralement sur le compteur électrique , prés des ordinateurs, de la box, les ondes sont alors absorbées à 95% par la shungite, effet protecteur qui s'installe dans votre environnement.",
               "photo": "images/articles/sachets-de-shungite-mv7ww455m7zs.jpg",
               "prixBoutique": 5.5,
-              "stock": 10
+              "stock": 10,
+              "stripe": "https://buy.stripe.com/bJedRacoicjX7IA35n29u17",
+              "stripeProductId": "prod_VRHKZppdS0tNmw",
+              "stripePriceId": "price_1UQOm2LOfCA5mATuWTjKtLAV",
+              "stripeLinkId": "plink_1UQOm3LOfCA5mATu1ffbqrvt",
+              "stripePrix": 5.95,
+              "stripeMode": "live",
+              "stripeNom": "Sachets de shungite",
+              "stripeDesc": "Petits sachets de shungite, la Shungite est une pierre de grande protection contre les ondes électro-magnétiques; Elle se pose généralement sur le compteur électrique , prés des ordinateurs, de la box, les ondes sont alors absorbées à 95% par la shungite, effet protecteur qui s'installe dans votre environnement.",
+              "stripeStock": 10,
+              "epuise": false
             }
           ]
         }
@@ -17416,15 +17526,15 @@
               "photo": "images/articles/bracelet-hematite-6-mm-mtk617pmsf32.jpg",
               "prixBoutique": 13.9,
               "stock": 7,
-              "stripe": "https://buy.stripe.com/9B6cN65ZUbfT7IAbBT28842",
+              "stripe": "https://buy.stripe.com/6oU14o3RM3NrbYQ7lD29u18",
               "stripeProductId": "prod_VBbyrMOsTn0pcC",
               "stripePriceId": "price_1UBEkeLOfCA5mATuMvVVGnBB",
-              "stripeLinkId": "plink_1UBEkeLOfCA5mATubMHjpzFF",
+              "stripeLinkId": "plink_1UQOm3LOfCA5mATuLlGTbUlB",
               "stripePrix": 14.63,
               "stripeMode": "live",
               "stripeNom": "Bracelet hématite 6 mm",
               "stripeDesc": "Ce bracelet en hématite est composé de perles lisses et brillantes, parfait pour un style sobre et élégant. L'hématite est une pierre souvent utilisée en lithothérapie pour renforcer la concentration et équilibrer les énergies. Elle est aussi réputée pour ses vertus apaisantes et son pouvoir de protection, idéale pour le quotidien ou les moments de stress.",
-              "stripeStock": 8,
+              "stripeStock": 7,
               "epuise": false
             },
             {
@@ -17568,15 +17678,15 @@
               "photo": "images/articles/bracelet-cornaline-8-mm-mtl5ezyleypv.jpg",
               "prixBoutique": 12.9,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/cNi8wQ9c6do12ogaxP28902",
+              "stripe": "https://buy.stripe.com/7sY3cwdsmfw95As49r29u19",
               "stripeProductId": "prod_VBrxBAHhKIBJAO",
               "stripePriceId": "price_1UBUDCLOfCA5mATuQV3zSl0f",
-              "stripeLinkId": "plink_1UBUDDLOfCA5mATu2Nq61K5E",
+              "stripeLinkId": "plink_1UQOm4LOfCA5mATuZu0kJnA7",
               "stripePrix": 13.6,
               "stripeMode": "live",
               "stripeNom": "Bracelet cornaline 8 mm",
               "stripeDesc": "La cornaline réquilibre les émotions en diminuant les grosses colères incontrolables , elle stimule la vitalité, le courage et l' équilibre émotionnel, redonne la confiance en soi, la motivation.",
-              "stripeStock": 3,
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -23557,7 +23667,17 @@
               "description": "Cette sphère de cristal de roche est une pièce pure et lumineuse, idéale pour amplifier les énergies positives et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions et renforcer la connexion à son intuition. Son éclat naturel en fait aussi un objet décoratif élégant, parfait pour sublimer un intérieur ou un espace de méditation.",
               "photo": "images/articles/sphere-de-cristal-de-roche-mv7sn3r0ovas.jpg",
               "prixBoutique": 144,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa00kbkecjXd2UcFX29u1a",
+              "stripeProductId": "prod_VRHKjhIrU7Kpma",
+              "stripePriceId": "price_1UQOm4LOfCA5mATuodov1inv",
+              "stripeLinkId": "plink_1UQOm4LOfCA5mATuAZe9uDcn",
+              "stripePrix": 149.1,
+              "stripeMode": "live",
+              "stripeNom": "Sphère de cristal de roche",
+              "stripeDesc": "Cette sphère de cristal de roche est une pièce pure et lumineuse, idéale pour amplifier les énergies positives et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions et renforcer la connexion à son intuition. Son éclat naturel en fait aussi un objet décoratif élégant, parfait pour sublimer un intérieur ou un espace de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "apatite-en-sphere-mv7ss1v736c0",
@@ -23566,7 +23686,17 @@
               "description": "Cette sphère d'apatite, aux reflets verts et bleutés captivants, est une pierre aux multiples facettes énergétiques. En lithothérapie, elle est souvent utilisée pour stimuler la créativité, équilibrer les émotions et renforcer la confiance en soi. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps au quotidien.",
               "photo": "images/articles/apatite-en-sphere-mv7ss1v8at4g.jpg",
               "prixBoutique": 120,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM6oIbkefw9bYQ5dv29u1b",
+              "stripeProductId": "prod_VRHKQJ2vvepqgl",
+              "stripePriceId": "price_1UQOm5LOfCA5mATuhlxwwMem",
+              "stripeLinkId": "plink_1UQOm5LOfCA5mATumC619dDa",
+              "stripePrix": 124.29,
+              "stripeMode": "live",
+              "stripeNom": "Apatite en sphère",
+              "stripeDesc": "Cette sphère d'apatite, aux reflets verts et bleutés captivants, est une pierre aux multiples facettes énergétiques. En lithothérapie, elle est souvent utilisée pour stimuler la créativité, équilibrer les émotions et renforcer la confiance en soi. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "sphere-calcite-orange-mv7uthy4qs36",
@@ -23575,7 +23705,17 @@
               "description": "La calcite orange est une pierre douce et apaisante, idéale pour rééquilibrer les émotions et apporter une énergie chaleureuse. Elle est souvent utilisée pour stimuler la confiance en soi et favoriser un sentiment de sécurité intérieure. Parfaite pour illuminer les espaces de vie ou accompagner les moments de méditation, elle aide à dissoudre les tensions et à cultiver une ambiance positive.",
               "photo": "images/articles/sphere-calcite-orange-mv7uthy4p2op.jpg",
               "prixBoutique": 92,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ00kbke5Vz5As21j29u1c",
+              "stripeProductId": "prod_VRHK0WPIkfxuRy",
+              "stripePriceId": "price_1UQOm5LOfCA5mATuBsEzKbB7",
+              "stripeLinkId": "plink_1UQOm6LOfCA5mATuVSs7MrvG",
+              "stripePrix": 95.35,
+              "stripeMode": "live",
+              "stripeNom": "Sphère Calcite orange",
+              "stripeDesc": "La calcite orange est une pierre douce et apaisante, idéale pour rééquilibrer les émotions et apporter une énergie chaleureuse. Elle est souvent utilisée pour stimuler la confiance en soi et favoriser un sentiment de sécurité intérieure. Parfaite pour illuminer les espaces de vie ou accompagner les moments de méditation, elle aide à dissoudre les tensions et à cultiver une ambiance positive.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }
@@ -24105,7 +24245,17 @@
               "description": "Support grand en fer",
               "photo": "images/articles/grand-support-en-fer-mv7xdjm0q5rn.jpg",
               "prixBoutique": 5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqfZi0FA1Fj4wobBT29u1d",
+              "stripeProductId": "prod_VRHKmbHVzpGRG4",
+              "stripePriceId": "price_1UQOm6LOfCA5mATuTMHKMcjT",
+              "stripeLinkId": "plink_1UQOm6LOfCA5mATuDZSk6yem",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Grand support en fer",
+              "stripeDesc": "Support grand en fer",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

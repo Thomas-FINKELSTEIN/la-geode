@@ -1457,25 +1457,6 @@
               "epuise": false
             },
             {
-              "id": "coeur-en-spinelle-muz8gqvm5avl",
-              "nom": "Coeur en spinelle",
-              "prix": 12.67,
-              "description": "Ce beau coeur en spinelle, pierre aux reflets bleutés et dorés, est une pierre de douceur et d'ouverture du cœur. En lithothérapie, elle est souvent associée à l'amour inconditionnel, à la compassion et à la guérison des blessures émotionnelles. Elle aide à apaiser les tensions et à renforcer la confiance en soi, tout en attirant l'abondance et la joie dans la vie quotidienne.",
-              "photo": "images/articles/coeur-en-spinelle-muz8gqvnpnxy.jpg",
-              "prixBoutique": 12,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/6oU5kE5ZU97L8ME6hz29e2g",
-              "stripeProductId": "prod_VP6hiUf1jMYuTJ",
-              "stripePriceId": "price_1UOITzLOfCA5mATuLCmSJiRA",
-              "stripeLinkId": "plink_1UOITzLOfCA5mATuREPE7wCP",
-              "stripePrix": 12.67,
-              "stripeMode": "live",
-              "stripeNom": "Coeur en spinelle",
-              "stripeDesc": "Ce beau coeur en spinelle, pierre aux reflets bleutés et dorés, est une pierre de douceur et d'ouverture du cœur. En lithothérapie, elle est souvent associée à l'amour inconditionnel, à la compassion et à la guérison des blessures émotionnelles. Elle aide à apaiser les tensions et à renforcer la confiance en soi, tout en attirant l'abondance et la joie dans la vie quotidienne.",
-              "stripeStock": 1,
-              "epuise": false
-            },
-            {
               "id": "grosse-pierre-en-obsidienne-30-cm-de-lon-muz8zd3uuhvn",
               "nom": "Obsidienne oeil céleste 403 gr  34 cm de longueur 5 coeurs",
               "prix": 362.02,
@@ -4332,17 +4313,7 @@
               "description": "Cette géode d'Apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et ouvrir le cœur aux émotions positives. Idéale pour décorer un espace tout en bénéficiant de son énergie harmonieuse, elle inspire la clarté mentale et la connexion spirituelle.",
               "photo": "images/articles/apophylite-geode-mv7sixb19hq2.jpg",
               "prixBoutique": 1320,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/4gMdRafAucjX3sk5dv29t2Z",
-              "stripeProductId": "prod_VRFHDw326iXtyt",
-              "stripePriceId": "price_1UQMnKLOfCA5mATuvHf3Kk82",
-              "stripeLinkId": "plink_1UQMnKLOfCA5mATu7HTrMZ4l",
-              "stripePrix": 1364.6,
-              "stripeMode": "live",
-              "stripeNom": "Apophylite géode",
-              "stripeDesc": "Cette géode d'Apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et ouvrir le cœur aux émotions positives. Idéale pour décorer un espace tout en bénéficiant de son énergie harmonieuse, elle inspire la clarté mentale et la connexion spirituelle.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "pointe-de-quartz-rose-15-cm-mv7suk9o9tis",
@@ -4351,17 +4322,7 @@
               "description": "Cette pointe de quartz rose de 15 cm est une pièce naturelle aux reflets doux et apaisants. Le quartz rose est souvent utilisé en lithothérapie pour favoriser l’ouverture du cœur, renforcer l’amour inconditionnel et apaiser les émotions. Idéal pour créer une ambiance harmonieuse dans votre espace ou pour une méditation bien-être, il est aussi apprécié pour ses vertus apaisantes sur le stress et les tensions.",
               "photo": "images/articles/pointe-de-quartz-rose-15-cm-mv7suk9oxx1v.jpg",
               "prixBoutique": 115,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/14AfZi3RM83H6Ew9tL29t30",
-              "stripeProductId": "prod_VRFHmgDsRhsP9w",
-              "stripePriceId": "price_1UQMnKLOfCA5mATuVkEd16iD",
-              "stripeLinkId": "plink_1UQMnLLOfCA5mATum06NVeyA",
-              "stripePrix": 119.13,
-              "stripeMode": "live",
-              "stripeNom": "Pointe de quartz rose 15 cm",
-              "stripeDesc": "Cette pointe de quartz rose de 15 cm est une pièce naturelle aux reflets doux et apaisants. Le quartz rose est souvent utilisé en lithothérapie pour favoriser l’ouverture du cœur, renforcer l’amour inconditionnel et apaiser les émotions. Idéal pour créer une ambiance harmonieuse dans votre espace ou pour une méditation bien-être, il est aussi apprécié pour ses vertus apaisantes sur le stress et les tensions.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         }
@@ -17556,7 +17517,7 @@
               "description": "La cornaline réquilibre les émotions en diminuant les grosses colères incontrolables , elle stimule la vitalité, le courage et l' équilibre émotionnel, redonne la confiance en soi, la motivation.",
               "photo": "images/articles/bracelet-cornaline-8-mm-mtl5ezyleypv.jpg",
               "prixBoutique": 12.9,
-              "stock": 3,
+              "stock": 2,
               "stripe": "https://buy.stripe.com/cNi8wQ9c6do12ogaxP28902",
               "stripeProductId": "prod_VBrxBAHhKIBJAO",
               "stripePriceId": "price_1UBUDCLOfCA5mATuQV3zSl0f",
@@ -23565,17 +23526,7 @@
               "description": "Cette sphère de cristal de roche est une pièce pure et lumineuse, idéale pour amplifier les énergies positives et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions et renforcer la connexion à son intuition. Son éclat naturel en fait aussi un objet décoratif élégant, parfait pour sublimer un intérieur ou un espace de méditation.",
               "photo": "images/articles/sphere-de-cristal-de-roche-mv7sn3r0ovas.jpg",
               "prixBoutique": 144,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/dRm4gAdsmdo1bYQaxP29t31",
-              "stripeProductId": "prod_VRFHCR1TC3JU3I",
-              "stripePriceId": "price_1UQMnLLOfCA5mATuIMSCi2L0",
-              "stripeLinkId": "plink_1UQMnLLOfCA5mATudwDMfNFK",
-              "stripePrix": 149.1,
-              "stripeMode": "live",
-              "stripeNom": "Sphère de cristal de roche",
-              "stripeDesc": "Cette sphère de cristal de roche est une pièce pure et lumineuse, idéale pour amplifier les énergies positives et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions et renforcer la connexion à son intuition. Son éclat naturel en fait aussi un objet décoratif élégant, parfait pour sublimer un intérieur ou un espace de méditation.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             },
             {
               "id": "apatite-en-sphere-mv7ss1v736c0",
@@ -23584,17 +23535,7 @@
               "description": "Cette sphère d'apatite, aux reflets verts et bleutés captivants, est une pierre aux multiples facettes énergétiques. En lithothérapie, elle est souvent utilisée pour stimuler la créativité, équilibrer les émotions et renforcer la confiance en soi. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps au quotidien.",
               "photo": "images/articles/apatite-en-sphere-mv7ss1v8at4g.jpg",
               "prixBoutique": 120,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/3cIfZigEy6ZD6Ew49r29t32",
-              "stripeProductId": "prod_VRFHxKn3A3Wgfb",
-              "stripePriceId": "price_1UQMnLLOfCA5mATuS1JbcC81",
-              "stripeLinkId": "plink_1UQMnMLOfCA5mATuBKaoWVeY",
-              "stripePrix": 124.29,
-              "stripeMode": "live",
-              "stripeNom": "Apatite en sphère",
-              "stripeDesc": "Cette sphère d'apatite, aux reflets verts et bleutés captivants, est une pierre aux multiples facettes énergétiques. En lithothérapie, elle est souvent utilisée pour stimuler la créativité, équilibrer les émotions et renforcer la confiance en soi. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps au quotidien.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
             }
           ]
         }

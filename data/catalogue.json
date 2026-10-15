@@ -4294,7 +4294,17 @@
               "description": "Cette géode d'Apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et ouvrir le cœur aux émotions positives. Idéale pour décorer un espace tout en bénéficiant de son énergie harmonieuse, elle inspire la clarté mentale et la connexion spirituelle.",
               "photo": "images/articles/apophylite-geode-mv7sixb19hq2.jpg",
               "prixBoutique": 1320,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B628s9c6cjX7IAaxP29E21",
+              "stripeProductId": "prod_VReJwPqmZRzC3f",
+              "stripePriceId": "price_1UQl17LOfCA5mATuf56dXIqk",
+              "stripeLinkId": "plink_1UQl17LOfCA5mATuRMBqMDuL",
+              "stripePrix": 1364.6,
+              "stripeMode": "live",
+              "stripeNom": "Apophylite géode",
+              "stripeDesc": "Cette géode d'Apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité et ouvrir le cœur aux émotions positives. Idéale pour décorer un espace tout en bénéficiant de son énergie harmonieuse, elle inspire la clarté mentale et la connexion spirituelle.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pointe-de-quartz-rose-15-cm-mv7suk9o9tis",
@@ -4303,7 +4313,17 @@
               "description": "Cette pointe de quartz rose de 15 cm est une pièce naturelle aux reflets doux et apaisants. Le quartz rose est souvent utilisé en lithothérapie pour favoriser l’ouverture du cœur, renforcer l’amour inconditionnel et apaiser les émotions. Idéal pour créer une ambiance harmonieuse dans votre espace ou pour une méditation bien-être, il est aussi apprécié pour ses vertus apaisantes sur le stress et les tensions.",
               "photo": "images/articles/pointe-de-quartz-rose-15-cm-mv7suk9oxx1v.jpg",
               "prixBoutique": 115,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq6oI4VQgAd0g87lD29E22",
+              "stripeProductId": "prod_VReJvKg9HaROOV",
+              "stripePriceId": "price_1UQl18LOfCA5mATuQYpX1HOj",
+              "stripeLinkId": "plink_1UQl18LOfCA5mATuAVmBCrAD",
+              "stripePrix": 119.13,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de quartz rose 15 cm",
+              "stripeDesc": "Cette pointe de quartz rose de 15 cm est une pièce naturelle aux reflets doux et apaisants. Le quartz rose est souvent utilisé en lithothérapie pour favoriser l’ouverture du cœur, renforcer l’amour inconditionnel et apaiser les émotions. Idéal pour créer une ambiance harmonieuse dans votre espace ou pour une méditation bien-être, il est aussi apprécié pour ses vertus apaisantes sur le stress et les tensions.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jade-de-chine-brute-mv7useyusxpi",
@@ -4312,7 +4332,17 @@
               "description": "Ce galet de jade de Chine brute est une pierre naturelle aux teintes douces et apaisantes, mêlant des nuances de vert et de jaune. Symbole de sagesse et de protection en lithothérapie, le jade est souvent utilisé pour favoriser l’harmonie émotionnelle et renforcer la connexion à soi-même. Idéal pour les pratiques énergétiques ou comme élément décoratif, il apporte une touche d’équilibre et de sérénité dans votre quotidien.",
               "photo": "images/articles/jade-de-chine-brute-mv7useyuc6jl.jpg",
               "prixBoutique": 39,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJecN63RMfw94wofS929E23",
+              "stripeProductId": "prod_VReJZjvnshvPof",
+              "stripePriceId": "price_1UQl18LOfCA5mATuqjxjZTTC",
+              "stripeLinkId": "plink_1UQl19LOfCA5mATuG9VjbOo2",
+              "stripePrix": 40.57,
+              "stripeMode": "live",
+              "stripeNom": "Jade de chine brute",
+              "stripeDesc": "Ce galet de jade de Chine brute est une pierre naturelle aux teintes douces et apaisantes, mêlant des nuances de vert et de jaune. Symbole de sagesse et de protection en lithothérapie, le jade est souvent utilisé pour favoriser l’harmonie émotionnelle et renforcer la connexion à soi-même. Idéal pour les pratiques énergétiques ou comme élément décoratif, il apporte une touche d’équilibre et de sérénité dans votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "angelite-petite-pierre-geode-mv7uzsvpumei",
@@ -4321,7 +4351,17 @@
               "description": "Cette belle Angélite en forme de géode offre une énergie apaisante et purificatrice, idéale pour harmoniser les émotions et favoriser la sérénité. Associée à la communication divine et à l’ouverture spirituelle, elle est souvent utilisée pour apaiser les tensions et renforcer la connexion avec son intuition. Parfaite pour les espaces de méditation ou comme objet de bien-être au quotidien.",
               "photo": "images/articles/angelite-petite-pierre-geode-mv7uzsvpyc1s.jpg",
               "prixBoutique": 8.85,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa14o73Ydo1d2U7lD29E24",
+              "stripeProductId": "prod_VReJnSjwNhCdbz",
+              "stripePriceId": "price_1UQl19LOfCA5mATuwLG19d4e",
+              "stripeLinkId": "plink_1UQl19LOfCA5mATu4uxh2YQq",
+              "stripePrix": 9.41,
+              "stripeMode": "live",
+              "stripeNom": "Angélite petite pierre géode",
+              "stripeDesc": "Cette belle Angélite en forme de géode offre une énergie apaisante et purificatrice, idéale pour harmoniser les émotions et favoriser la sérénité. Associée à la communication divine et à l’ouverture spirituelle, elle est souvent utilisée pour apaiser les tensions et renforcer la connexion avec son intuition. Parfaite pour les espaces de méditation ou comme objet de bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "angelite-petite-pierre-geode-mv7v117d0fgk",
@@ -4330,7 +4370,17 @@
               "description": "Cette belle Angélite en forme de géode est une pierre douce et apaisante, souvent utilisée pour favoriser la sérénité et la connexion avec les énergies divines. Elle est réputée pour ouvrir le cœur et apaiser les émotions, aidant ainsi à retrouver un état de calme intérieur. Idéale pour les espaces de méditation ou comme objet décoratif inspirant, elle apporte une touche de douceur et de lumière à votre quotidien.",
               "photo": "images/articles/angelite-petite-pierre-geode-mv7v117d58zn.jpg",
               "prixBoutique": 13.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqaEY9c6bfTfb2bBT29E25",
+              "stripeProductId": "prod_VReJqgYE3yyBG6",
+              "stripePriceId": "price_1UQl1ALOfCA5mATubLglLiiC",
+              "stripeLinkId": "plink_1UQl1ALOfCA5mATusYGIMjl8",
+              "stripePrix": 14.22,
+              "stripeMode": "live",
+              "stripeNom": "Angélite petite pierre géode",
+              "stripeDesc": "Cette belle Angélite en forme de géode est une pierre douce et apaisante, souvent utilisée pour favoriser la sérénité et la connexion avec les énergies divines. Elle est réputée pour ouvrir le cœur et apaiser les émotions, aidant ainsi à retrouver un état de calme intérieur. Idéale pour les espaces de méditation ou comme objet décoratif inspirant, elle apporte une touche de douceur et de lumière à votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "angelite-plaque-mv7v2f3v7xbf",
@@ -4339,7 +4389,17 @@
               "description": "L'Angélite est une pierre douce et apaisante, souvent appelée pierre des anges pour ses propriétés de connexion spirituelle et de purification. Elle favorise la clarté mentale, aide à apaiser les émotions et encourage une communication harmonieuse avec l’univers céleste. Idéale pour les espaces de méditation ou comme support énergétique dans votre quotidien.",
               "photo": "images/articles/angelite-plaque-mv7v2f3vvydv.jpg",
               "prixBoutique": 14.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x26oI0FAgAdd2UgWd29E26",
+              "stripeProductId": "prod_VReJrWZcVWeaeF",
+              "stripePriceId": "price_1UQl1ALOfCA5mATuIxD5us6x",
+              "stripeLinkId": "plink_1UQl1BLOfCA5mATuVGospSxH",
+              "stripePrix": 15.04,
+              "stripeMode": "live",
+              "stripeNom": "Angélite Plaque",
+              "stripeDesc": "L'Angélite est une pierre douce et apaisante, souvent appelée pierre des anges pour ses propriétés de connexion spirituelle et de purification. Elle favorise la clarté mentale, aide à apaiser les émotions et encourage une communication harmonieuse avec l’univers céleste. Idéale pour les espaces de méditation ou comme support énergétique dans votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "angelite-petite-pierre-geode-mv7v3l4iac7i",
@@ -4348,7 +4408,17 @@
               "description": "Cette belle Angélite en forme de géode attire par ses reflets violets et ses cristaux aux nuances profondes. Pierre de douceur et de sérénité, elle est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la communication avec les anges gardiens. Idéale pour les espaces de méditation ou comme objet décoratif spirituel, elle apporte une énergie paisible et harmonieuse.",
               "photo": "images/articles/angelite-petite-pierre-geode-mv7v3l4jaaw6.jpg",
               "prixBoutique": 13.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY7sM882bfT9QI21j29E27",
+              "stripeProductId": "prod_VReJRjLDxD2z2F",
+              "stripePriceId": "price_1UQl1BLOfCA5mATuB9h5A5B9",
+              "stripeLinkId": "plink_1UQl1BLOfCA5mATut5xWJWfX",
+              "stripePrix": 14.22,
+              "stripeMode": "live",
+              "stripeNom": "Angélite petite pierre géode",
+              "stripeDesc": "Cette belle Angélite en forme de géode attire par ses reflets violets et ses cristaux aux nuances profondes. Pierre de douceur et de sérénité, elle est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la communication avec les anges gardiens. Idéale pour les espaces de méditation ou comme objet décoratif spirituel, elle apporte une énergie paisible et harmonieuse.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "angelite-petite-pierre-geode-mv7v4ypnyy61",
@@ -4357,7 +4427,17 @@
               "description": "Cette belle Angélite en forme de géode apporte une douce énergie apaisante et une connexion subtile avec les plans spirituels. Traditionnellement utilisée pour favoriser la sérénité, elle aide à apaiser les émotions et à renforcer la communication avec les anges gardiens. Parfaite pour les espaces de méditation ou comme objet décoratif inspirant, elle invite à la paix intérieure et à l’ouverture du cœur.",
               "photo": "images/articles/angelite-petite-pierre-geode-mv7v4ypnjn01.jpg",
               "prixBoutique": 13.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa6oI0FAcjX0g821j29E28",
+              "stripeProductId": "prod_VReJJWsmh5tCcn",
+              "stripePriceId": "price_1UQl1CLOfCA5mATuHig943X1",
+              "stripeLinkId": "plink_1UQl1CLOfCA5mATug1qbV0bx",
+              "stripePrix": 14.22,
+              "stripeMode": "live",
+              "stripeNom": "Angélite petite pierre géode",
+              "stripeDesc": "Cette belle Angélite en forme de géode apporte une douce énergie apaisante et une connexion subtile avec les plans spirituels. Traditionnellement utilisée pour favoriser la sérénité, elle aide à apaiser les émotions et à renforcer la communication avec les anges gardiens. Parfaite pour les espaces de méditation ou comme objet décoratif inspirant, elle invite à la paix intérieure et à l’ouverture du cœur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "angelite-plaque-mv7v5zu3nn3c",
@@ -4366,7 +4446,17 @@
               "description": "L'Angélite est une pierre douce et apaisante, souvent appelée la pierre des anges. Elle est réputée pour favoriser la communication avec les guides spirituels et renforcer la connexion à son intuition. Idéale pour apaiser les émotions et encourager la sérénité, elle est aussi utilisée pour purifier l’aura et favoriser un état de calme intérieur.",
               "photo": "images/articles/angelite-plaque-mv7v5zu3l021.jpg",
               "prixBoutique": 21,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU3cw9c683H5As21j29E29",
+              "stripeProductId": "prod_VReJu52TD2wyLK",
+              "stripePriceId": "price_1UQl1CLOfCA5mATuoQP9gEjM",
+              "stripeLinkId": "plink_1UQl1CLOfCA5mATuSYDjSri5",
+              "stripePrix": 21.97,
+              "stripeMode": "live",
+              "stripeNom": "Angélite Plaque",
+              "stripeDesc": "L'Angélite est une pierre douce et apaisante, souvent appelée la pierre des anges. Elle est réputée pour favoriser la communication avec les guides spirituels et renforcer la connexion à son intuition. Idéale pour apaiser les émotions et encourager la sérénité, elle est aussi utilisée pour purifier l’aura et favoriser un état de calme intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "obsidienne-oeil-celeste-20-cm-h-mv7xaqgy0j5k",
@@ -4375,7 +4465,17 @@
               "description": "Cette obsidienne en forme de pyramide de 20 cm de hauteur est une pierre aux reflets profonds et mystérieux, souvent appelée oeil céleste pour ses propriétés énergétiques uniques. En lithothérapie, elle est réputée pour son pouvoir de protection et d'ancrage, aidant à apaiser les émotions et à renforcer la connexion avec son intuition. Idéale pour purifier les espaces ou accompagner une pratique méditative, elle est aussi utilisée pour équilibrer les énergies et favoriser la clarté mentale.",
               "photo": "images/articles/obsidienne-oeil-celeste-20-cm-h-mv7xaqgyv5pr.jpg",
               "prixBoutique": 862.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM8wQ5ZU4Rv6Ew5dv29E2a",
+              "stripeProductId": "prod_VReJh35v6sLdit",
+              "stripePriceId": "price_1UQl1DLOfCA5mATudet2yZys",
+              "stripeLinkId": "plink_1UQl1DLOfCA5mATuQ8pzr9Yg",
+              "stripePrix": 891.74,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne oeil céleste 20 cm H",
+              "stripeDesc": "Cette obsidienne en forme de pyramide de 20 cm de hauteur est une pierre aux reflets profonds et mystérieux, souvent appelée oeil céleste pour ses propriétés énergétiques uniques. En lithothérapie, elle est réputée pour son pouvoir de protection et d'ancrage, aidant à apaiser les émotions et à renforcer la connexion avec son intuition. Idéale pour purifier les espaces ou accompagner une pratique méditative, elle est aussi utilisée pour équilibrer les énergies et favoriser la clarté mentale.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "obsidienne-du-mexique-geode-mv83c6fhadzp",
@@ -4384,7 +4484,17 @@
               "description": "Cette obsidienne géode du Mexique est une pièce naturelle aux reflets profonds et mystérieux, idéale pour les pratiques énergétiques. En lithothérapie, elle est souvent utilisée pour purifier les émotions, renforcer la protection spirituelle et favoriser une connexion profonde avec soi-même. Son énergie puissante en fait un allié précieux pour ceux qui cherchent à équilibrer leur champ émotionnel et à renforcer leur ancrage.",
               "photo": "images/articles/obsidienne-du-mexique-geode-mv83c6fhw2na.jpg",
               "prixBoutique": 510,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ3cw1JEbfT1kcdK129E2b",
+              "stripeProductId": "prod_VReJujLu7Z6LAf",
+              "stripePriceId": "price_1UQl1DLOfCA5mATulJlbq9vc",
+              "stripeLinkId": "plink_1UQl1ELOfCA5mATuaHBx05ps",
+              "stripePrix": 527.4,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne du Mexique géode",
+              "stripeDesc": "Cette obsidienne géode du Mexique est une pièce naturelle aux reflets profonds et mystérieux, idéale pour les pratiques énergétiques. En lithothérapie, elle est souvent utilisée pour purifier les émotions, renforcer la protection spirituelle et favoriser une connexion profonde avec soi-même. Son énergie puissante en fait un allié précieux pour ceux qui cherchent à équilibrer leur champ émotionnel et à renforcer leur ancrage.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "spinelle-tour-de-38-cm-h-mv83lbjamt9x",
@@ -4393,7 +4503,17 @@
               "description": "Cette tour de spinelle impressionne par sa taille majestueuse et sa couleur gris anthracite élégante. En lithothérapie, le spinelle est souvent associé à la transformation et à la protection énergétique, aidant à renforcer la confiance en soi et à libérer les blocages émotionnels. Une pièce décorative puissante qui apporte équilibre et harmonie dans votre espace de vie ou de travail.",
               "photo": "images/articles/spinelle-tour-de-38-cm-h-mv83lbjael4j.jpg",
               "prixBoutique": 235,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY28s5ZUabP4wofS929E2c",
+              "stripeProductId": "prod_VReJwpM3xZxXVr",
+              "stripePriceId": "price_1UQl1ELOfCA5mATuPYK9phzX",
+              "stripeLinkId": "plink_1UQl1ELOfCA5mATuRS5lSqES",
+              "stripePrix": 243.16,
+              "stripeMode": "live",
+              "stripeNom": "Spinelle tour de 38 cm H",
+              "stripeDesc": "Cette tour de spinelle impressionne par sa taille majestueuse et sa couleur gris anthracite élégante. En lithothérapie, le spinelle est souvent associé à la transformation et à la protection énergétique, aidant à renforcer la confiance en soi et à libérer les blocages émotionnels. Une pièce décorative puissante qui apporte équilibre et harmonie dans votre espace de vie ou de travail.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pierre-de-lune-h-geode-50-cm-mv83obet5zq8",
@@ -4402,7 +4522,17 @@
               "description": "Cette géode de pierre de lune impressionne par sa taille et son éclat bleuté irisé, parfait pour une décoration minérale unique et mystérieuse. En lithothérapie, la pierre de lune est souvent associée à l’apaisement des émotions, à l’harmonie féminine et à la connexion avec les cycles lunaires. Elle est idéale pour créer une ambiance de sérénité dans votre intérieur ou pour accompagner vos pratiques de bien-être et de méditation.",
               "photo": "images/articles/pierre-de-lune-h-geode-50-cm-mv83obet31pg.jpg",
               "prixBoutique": 774,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B66oIdsm2Jn8ME35n29E2d",
+              "stripeProductId": "prod_VReJWkJs9wHD0V",
+              "stripePriceId": "price_1UQl1FLOfCA5mATukhR9HwLE",
+              "stripeLinkId": "plink_1UQl1FLOfCA5mATuogGisjuL",
+              "stripePrix": 800.26,
+              "stripeMode": "live",
+              "stripeNom": "Pierre de lune H géode 50 cm",
+              "stripeDesc": "Cette géode de pierre de lune impressionne par sa taille et son éclat bleuté irisé, parfait pour une décoration minérale unique et mystérieuse. En lithothérapie, la pierre de lune est souvent associée à l’apaisement des émotions, à l’harmonie féminine et à la connexion avec les cycles lunaires. Elle est idéale pour créer une ambiance de sérénité dans votre intérieur ou pour accompagner vos pratiques de bien-être et de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "obsidienne-noire-mexique-mv83uwpgn88o",
@@ -4411,7 +4541,17 @@
               "description": "L'Obsidienne noire du Mexique est une pierre aux reflets profonds et mystérieux, souvent utilisée pour ses propriétés énergétiques puissantes. En lithothérapie, elle est réputée pour aider à libérer les blocages émotionnels et à renforcer la protection spirituelle. Son énergie intense en fait un allié précieux pour ceux qui cherchent à retrouver équilibre et confiance en soi.",
               "photo": "images/articles/obsidienne-noire-mexique-mv83uwpg8rqe.jpg",
               "prixBoutique": 75,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU3cw0FA0Bfd2UdK129E2e",
+              "stripeProductId": "prod_VReJVfLVJbG6rt",
+              "stripePriceId": "price_1UQl1FLOfCA5mATuhGifXSmz",
+              "stripeLinkId": "plink_1UQl1GLOfCA5mATu8WdGs1il",
+              "stripePrix": 77.78,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne noire Mexique",
+              "stripeDesc": "L'Obsidienne noire du Mexique est une pierre aux reflets profonds et mystérieux, souvent utilisée pour ses propriétés énergétiques puissantes. En lithothérapie, elle est réputée pour aider à libérer les blocages émotionnels et à renforcer la protection spirituelle. Son énergie intense en fait un allié précieux pour ceux qui cherchent à retrouver équilibre et confiance en soi.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "obsidienne-brute-geode-24x10-cm-mv83z650sagj",
@@ -4420,7 +4560,17 @@
               "description": "Cette obsidienne brute en forme de géode est une pièce naturelle aux reflets sombres et mystérieux, aux veines minérales uniques. Utilisée en lithothérapie pour ses propriétés apaisantes, elle est réputée pour aider à libérer les blocages émotionnels et à renforcer la protection énergétique. Parfaite pour les pratiques spirituelles ou comme élément décoratif brut et puissant.",
               "photo": "images/articles/obsidienne-brute-geode-24x10-cm-mv83z650kvxr.jpg",
               "prixBoutique": 108,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6eVedsmes54wo7lD29E2f",
+              "stripeProductId": "prod_VReJdJtjq4ogrs",
+              "stripePriceId": "price_1UQl1GLOfCA5mATuN5NhHWzu",
+              "stripeLinkId": "plink_1UQl1GLOfCA5mATu8bCtcNbO",
+              "stripePrix": 111.89,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne brute géode 24x10 cm",
+              "stripeDesc": "Cette obsidienne brute en forme de géode est une pièce naturelle aux reflets sombres et mystérieux, aux veines minérales uniques. Utilisée en lithothérapie pour ses propriétés apaisantes, elle est réputée pour aider à libérer les blocages émotionnels et à renforcer la protection énergétique. Parfaite pour les pratiques spirituelles ou comme élément décoratif brut et puissant.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -4436,7 +4586,17 @@
               "description": "Petits sachets de shungite, la Shungite est une pierre de grande protection contre les ondes électro-magnétiques; Elle se pose généralement sur le compteur électrique , prés des ordinateurs, de la box, les ondes sont alors absorbées à 95% par la shungite, effet protecteur qui s'installe dans votre environnement.",
               "photo": "images/articles/sachets-de-shungite-mv7ww455m7zs.jpg",
               "prixBoutique": 5.5,
-              "stock": 10
+              "stock": 10,
+              "stripe": "https://buy.stripe.com/dRm8wQ73Y1Fj0g87lD29E2g",
+              "stripeProductId": "prod_VReJHxYozDyjuf",
+              "stripePriceId": "price_1UQl1HLOfCA5mATuc64znXoo",
+              "stripeLinkId": "plink_1UQl1HLOfCA5mATuKZcDxksq",
+              "stripePrix": 5.95,
+              "stripeMode": "live",
+              "stripeNom": "Sachets de shungite",
+              "stripeDesc": "Petits sachets de shungite, la Shungite est une pierre de grande protection contre les ondes électro-magnétiques; Elle se pose généralement sur le compteur électrique , prés des ordinateurs, de la box, les ondes sont alors absorbées à 95% par la shungite, effet protecteur qui s'installe dans votre environnement.",
+              "stripeStock": 10,
+              "epuise": false
             }
           ]
         }
@@ -15390,15 +15550,15 @@
               "photo": "images/articles/bracelet-amazonite-8-mm-mte3qaextet8.jpg",
               "prixBoutique": 9.9,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/5kQ4gAewqes57IAaxP28828",
+              "stripe": "https://buy.stripe.com/7sY7sMbkeabP6EwgWd29E2h",
               "stripeProductId": "prod_VA1PqJGkdtxM9V",
               "stripePriceId": "price_1U9hMgLOfCA5mATuVu3CTSnn",
-              "stripeLinkId": "plink_1U9hMgLOfCA5mATu1FJP2Eu9",
+              "stripeLinkId": "plink_1UQl1ILOfCA5mATugA1Cb52d",
               "stripePrix": 10.5,
               "stripeMode": "live",
               "stripeNom": "Bracelet amazonite 8 mm",
               "stripeDesc": "Ce bracelet en amazonite est composé de perles naturelles aux reflets verts et bleus apaisants. La pierre amazonite est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à calmer les tensions et à renforcer la confiance en soi. Porté au quotidien, il apporte une énergie harmonieuse et favorise la connexion avec ses aspirations profondes. Aide à la communication, confiance en soi, équilibre et protection",
-              "stripeStock": 3,
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -16454,15 +16614,15 @@
               "photo": "images/articles/bracelet-grenat-rouge-4-mm-mtiuhfyndo8b.jpg",
               "prixBoutique": 11.6,
               "stock": 3,
-              "stripe": "https://buy.stripe.com/00w14oewq2Jn6Ew7lD28837",
+              "stripe": "https://buy.stripe.com/6oUcN63RM4Rv6EwfS929E2i",
               "stripeProductId": "prod_VBGVTIjSP5taLU",
               "stripePriceId": "price_1UAtyWLOfCA5mATuzwrMLPuH",
-              "stripeLinkId": "plink_1UAtyWLOfCA5mATulQSPAuCc",
+              "stripeLinkId": "plink_1UQl1ILOfCA5mATuX9F5sVDU",
               "stripePrix": 12.25,
               "stripeMode": "live",
               "stripeNom": "Bracelet grenat rouge 4 mm",
               "stripeDesc": "Le grenat  symbolise le courage et la détermination, la passion et l'amour, ancrage et protection.",
-              "stripeStock": 4,
+              "stripeStock": 3,
               "epuise": false
             },
             {
@@ -17423,15 +17583,15 @@
               "photo": "images/articles/bracelet-hematite-6-mm-mtk617pmsf32.jpg",
               "prixBoutique": 13.9,
               "stock": 7,
-              "stripe": "https://buy.stripe.com/9B6cN65ZUbfT7IAbBT28842",
+              "stripe": "https://buy.stripe.com/00w6oIgEy1FjaUM5dv29E2j",
               "stripeProductId": "prod_VBbyrMOsTn0pcC",
               "stripePriceId": "price_1UBEkeLOfCA5mATuMvVVGnBB",
-              "stripeLinkId": "plink_1UBEkeLOfCA5mATubMHjpzFF",
+              "stripeLinkId": "plink_1UQl1JLOfCA5mATuGAYC8HsH",
               "stripePrix": 14.63,
               "stripeMode": "live",
               "stripeNom": "Bracelet hématite 6 mm",
               "stripeDesc": "Ce bracelet en hématite est composé de perles lisses et brillantes, parfait pour un style sobre et élégant. L'hématite est une pierre souvent utilisée en lithothérapie pour renforcer la concentration et équilibrer les énergies. Elle est aussi réputée pour ses vertus apaisantes et son pouvoir de protection, idéale pour le quotidien ou les moments de stress.",
-              "stripeStock": 8,
+              "stripeStock": 7,
               "epuise": false
             },
             {
@@ -17461,15 +17621,15 @@
               "photo": "images/articles/bracelet-malachite-8-mm-mtk6buczu0ig.jpg",
               "prixBoutique": 27.9,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/14A00k5ZU1Fjgf68pH2892g",
+              "stripe": "https://buy.stripe.com/bJe9AU0FA3Nr2og6hz29E2k",
               "stripeProductId": "prod_VBc7GlAZCB48fb",
               "stripePriceId": "price_1UBEsrLOfCA5mATugsx6T0zp",
-              "stripeLinkId": "plink_1UDOZgLOfCA5mATuorkElJRe",
+              "stripeLinkId": "plink_1UQl1JLOfCA5mATu1dDRXEEc",
               "stripePrix": 29.1,
               "stripeMode": "live",
               "stripeNom": "Bracelet malachite 8 mm",
               "stripeDesc": "La malachite aide à soulager les maux de dos, et associer une pierre de lune elles soulagent la  polyarthrite, tensions musculaires, articulations et tendons.",
-              "stripeStock": 3,
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -17575,15 +17735,15 @@
               "photo": "images/articles/bracelet-cornaline-8-mm-mtl5ezyleypv.jpg",
               "prixBoutique": 12.9,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/cNi8wQ9c6do12ogaxP28902",
+              "stripe": "https://buy.stripe.com/aFa9AU2NI97L5AsdK129E2l",
               "stripeProductId": "prod_VBrxBAHhKIBJAO",
               "stripePriceId": "price_1UBUDCLOfCA5mATuQV3zSl0f",
-              "stripeLinkId": "plink_1UBUDDLOfCA5mATu2Nq61K5E",
+              "stripeLinkId": "plink_1UQl1KLOfCA5mATuKX1jhy0s",
               "stripePrix": 13.6,
               "stripeMode": "live",
               "stripeNom": "Bracelet cornaline 8 mm",
               "stripeDesc": "La cornaline réquilibre les émotions en diminuant les grosses colères incontrolables , elle stimule la vitalité, le courage et l' équilibre émotionnel, redonne la confiance en soi, la motivation.",
-              "stripeStock": 3,
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -18696,15 +18856,15 @@
               "photo": "images/articles/bracelet-oeil-de-fer-mtmpl969rgan.jpg",
               "prixBoutique": 8.9,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/bJe5kE2NI5Vz5As6hz2890Z",
+              "stripe": "https://buy.stripe.com/4gM00k5ZUbfT2ogdK129E2m",
               "stripeProductId": "prod_VCHJ8AtHUTmlDZ",
               "stripePriceId": "price_1UBsl0LOfCA5mATuFDOACuFO",
-              "stripeLinkId": "plink_1UBsl1LOfCA5mATuczuVr9Bc",
+              "stripeLinkId": "plink_1UQl1KLOfCA5mATu7qp8jMSx",
               "stripePrix": 9.46,
               "stripeMode": "live",
-              "stripeNom": "Bracelet oeil de fer",
+              "stripeNom": "Bracelet oeil de fer 6 mm",
               "stripeDesc": "",
-              "stripeStock": 3,
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -22154,7 +22314,17 @@
               "description": "Bougie de rituel aux teintes vertes profondes, idéale pour les cérémonies et les moments de connexion à soi. Traditionnellement utilisée pour apaiser les émotions, favoriser l'équilibre énergétique et renforcer la sérénité intérieure. Parfaite pour les pratiques de méditation, les rituels de purification ou simplement pour créer une ambiance harmonieuse et apaisante.",
               "photo": "images/articles/bougie-de-rituel-verte-fonce-mv84j9v8n1tq.jpg",
               "prixBoutique": 1.9,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/4gM14oewq5Vz9QIgWd29E2n",
+              "stripeProductId": "prod_VReJpfa7QEFA4J",
+              "stripePriceId": "price_1UQl1LLOfCA5mATusLwJct4Y",
+              "stripeLinkId": "plink_1UQl1LLOfCA5mATuVoKLggdZ",
+              "stripePrix": 2.23,
+              "stripeMode": "live",
+              "stripeNom": "Bougie de rituel verte foncé",
+              "stripeDesc": "Bougie de rituel aux teintes vertes profondes, idéale pour les cérémonies et les moments de connexion à soi. Traditionnellement utilisée pour apaiser les émotions, favoriser l'équilibre énergétique et renforcer la sérénité intérieure. Parfaite pour les pratiques de méditation, les rituels de purification ou simplement pour créer une ambiance harmonieuse et apaisante.",
+              "stripeStock": 11,
+              "epuise": false
             },
             {
               "id": "bougie-de-rituel-rouge-mv84qcpimdcn",
@@ -22163,7 +22333,17 @@
               "description": "Bougie de rituel aux teintes profondes et intenses, idéale pour les cérémonies et les moments de méditation. Associée traditionnellement à la vitalité et à la passion, elle est souvent utilisée pour dynamiser l'énergie et renforcer la confiance en soi. Parfaite pour créer une ambiance propice à la concentration et à la transformation positive.",
               "photo": "images/articles/bougie-de-rituel-rouge-mv84qcpinoch.jpg",
               "prixBoutique": 1.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/5kQ28sgEy1Fjd2UaxP29E2o",
+              "stripeProductId": "prod_VReJcIeUvpgnpo",
+              "stripePriceId": "price_1UQl1MLOfCA5mATuDeJETg34",
+              "stripeLinkId": "plink_1UQl1MLOfCA5mATujysuVVyC",
+              "stripePrix": 2.23,
+              "stripeMode": "live",
+              "stripeNom": "Bougie de rituel rouge",
+              "stripeDesc": "Bougie de rituel aux teintes profondes et intenses, idéale pour les cérémonies et les moments de méditation. Associée traditionnellement à la vitalité et à la passion, elle est souvent utilisée pour dynamiser l'énergie et renforcer la confiance en soi. Parfaite pour créer une ambiance propice à la concentration et à la transformation positive.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "bougie-violette-mv84svnvmdiz",
@@ -22172,7 +22352,17 @@
               "description": "Ces bougies violettes apportent une ambiance apaisante et harmonieuse à votre espace. Leur couleur est souvent associée à la spiritualité, à la méditation et à l’ouverture des chakras, favorisant ainsi la sérénité et la connexion avec soi-même. Idéales pour créer une atmosphère propice à la relaxation ou aux rituels de bien-être.",
               "photo": "images/articles/bougie-violette-mv84svnvu7rq.jpg",
               "prixBoutique": 1.9,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/fZufZiaga3Nr5As5dv29E2p",
+              "stripeProductId": "prod_VReKe1qdZsD7au",
+              "stripePriceId": "price_1UQl1MLOfCA5mATuUVVKoS8y",
+              "stripeLinkId": "plink_1UQl1NLOfCA5mATuFFkreIiR",
+              "stripePrix": 2.23,
+              "stripeMode": "live",
+              "stripeNom": "Bougie violette",
+              "stripeDesc": "Ces bougies violettes apportent une ambiance apaisante et harmonieuse à votre espace. Leur couleur est souvent associée à la spiritualité, à la méditation et à l’ouverture des chakras, favorisant ainsi la sérénité et la connexion avec soi-même. Idéales pour créer une atmosphère propice à la relaxation ou aux rituels de bien-être.",
+              "stripeStock": 7,
+              "epuise": false
             },
             {
               "id": "bougie-argentee-mv84urz13rik",
@@ -22181,7 +22371,17 @@
               "description": "Ces bâtonnets élégants aux reflets métalliques argentés apportent une touche raffinée et moderne à votre intérieur. Associés traditionnellement à la purification et à l’harmonisation des énergies, ils sont parfaits pour créer une ambiance apaisante et positive. Idéaux pour sublimer vos espaces tout en invitant la sérénité dans votre quotidien.",
               "photo": "images/articles/bougie-argentee-mv84urz1zvxg.jpg",
               "prixBoutique": 4.9,
-              "stock": 29
+              "stock": 29,
+              "stripe": "https://buy.stripe.com/dRm8wQ2NI97Ld2U6hz29E2q",
+              "stripeProductId": "prod_VReKqhUmwB2BLC",
+              "stripePriceId": "price_1UQl1NLOfCA5mATuTfk5ADpV",
+              "stripeLinkId": "plink_1UQl1NLOfCA5mATuS5YcOj01",
+              "stripePrix": 5.33,
+              "stripeMode": "live",
+              "stripeNom": "Bougie argentée",
+              "stripeDesc": "Ces bâtonnets élégants aux reflets métalliques argentés apportent une touche raffinée et moderne à votre intérieur. Associés traditionnellement à la purification et à l’harmonisation des énergies, ils sont parfaits pour créer une ambiance apaisante et positive. Idéaux pour sublimer vos espaces tout en invitant la sérénité dans votre quotidien.",
+              "stripeStock": 29,
+              "epuise": false
             },
             {
               "id": "bougie-verte-claire-mv864s7eiytq",
@@ -22190,7 +22390,17 @@
               "description": "Ces bougies vertes claires apportent une douce ambiance apaisante et harmonieuse à votre espace. En lithothérapie, la couleur verte est souvent associée à la croissance, à l'équilibre émotionnel et à la connexion avec la nature. Elles sont idéales pour créer une atmosphère relaxante, favoriser la sérénité et équilibrer les énergies lors de vos moments de détente ou de méditation.",
               "photo": "images/articles/bougie-verte-claire-mv864s7epr4t.jpg",
               "prixBoutique": 1.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/7sY4gA2NIabP4wo7lD29E2r",
+              "stripeProductId": "prod_VReKK3lq7DTu3k",
+              "stripePriceId": "price_1UQl1OLOfCA5mATucynUcWLV",
+              "stripeLinkId": "plink_1UQl1OLOfCA5mATu2zy42sqQ",
+              "stripePrix": 2.23,
+              "stripeMode": "live",
+              "stripeNom": "Bougie verte claire",
+              "stripeDesc": "Ces bougies vertes claires apportent une douce ambiance apaisante et harmonieuse à votre espace. En lithothérapie, la couleur verte est souvent associée à la croissance, à l'équilibre émotionnel et à la connexion avec la nature. Elles sont idéales pour créer une atmosphère relaxante, favoriser la sérénité et équilibrer les énergies lors de vos moments de détente ou de méditation.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "bougie-rose-de-rituel-mv8662ft6uod",
@@ -22199,7 +22409,17 @@
               "description": "Bougie de rituel au parfum doux et enveloppant, idéale pour créer une ambiance apaisante et harmonisante. Traditionnellement utilisée pour favoriser l’amour, la tendresse et l’ouverture du cœur, elle aide à apaiser les émotions et à renforcer les liens. Parfaite pour les moments de méditation, les rituels ou simplement pour embellir votre intérieur avec une touche de sérénité.",
               "photo": "images/articles/bougie-rose-de-rituel-mv8662ft3zoo.jpg",
               "prixBoutique": 1.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/6oU4gAbkecjX7IAcFX29E2s",
+              "stripeProductId": "prod_VReK0Rl41zJ9X2",
+              "stripePriceId": "price_1UQl1OLOfCA5mATuDhmtW1Zf",
+              "stripeLinkId": "plink_1UQl1OLOfCA5mATuVCvSiqLS",
+              "stripePrix": 2.23,
+              "stripeMode": "live",
+              "stripeNom": "Bougie rose de rituel",
+              "stripeDesc": "Bougie de rituel au parfum doux et enveloppant, idéale pour créer une ambiance apaisante et harmonisante. Traditionnellement utilisée pour favoriser l’amour, la tendresse et l’ouverture du cœur, elle aide à apaiser les émotions et à renforcer les liens. Parfaite pour les moments de méditation, les rituels ou simplement pour embellir votre intérieur avec une touche de sérénité.",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "bougie-de-rituel-jaune-mv8am1xqxj0q",
@@ -22208,7 +22428,17 @@
               "description": "Bougie de rituel au coloris doux et apaisant, idéale pour les pratiques spirituelles et les moments de méditation. Associée traditionnellement à l'énergie solaire, elle favorise la joie, la vitalité et l'élévation de l'esprit. Parfaite pour purifier l'atmosphère et renforcer la connexion à la lumière intérieure.",
               "photo": "images/articles/bougie-de-rituel-jaune-mv8am1xqkvb6.jpg",
               "prixBoutique": 1.9,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/14A5kE4VQ3Nr5AsdK129E2t",
+              "stripeProductId": "prod_VReKHfrqaBb0rY",
+              "stripePriceId": "price_1UQl1PLOfCA5mATuKeYAgpTJ",
+              "stripeLinkId": "plink_1UQl1PLOfCA5mATuOQHnGqgb",
+              "stripePrix": 2.23,
+              "stripeMode": "live",
+              "stripeNom": "Bougie de rituel jaune",
+              "stripeDesc": "Bougie de rituel au coloris doux et apaisant, idéale pour les pratiques spirituelles et les moments de méditation. Associée traditionnellement à l'énergie solaire, elle favorise la joie, la vitalité et l'élévation de l'esprit. Parfaite pour purifier l'atmosphère et renforcer la connexion à la lumière intérieure.",
+              "stripeStock": 7,
+              "epuise": false
             },
             {
               "id": "bougie-bleue-de-rituel-mv8aqxt3zmis",
@@ -22217,7 +22447,17 @@
               "description": "Bougie de rituel à la couleur apaisante, idéale pour créer une ambiance sereine et favoriser la concentration. Traditionnellement utilisée pour apaiser les émotions et équilibrer l’énergie, elle est parfaite pour les moments de méditation ou de détente. Son bleu profond inspire la confiance et aide à clarifier les pensées.",
               "photo": "images/articles/bougie-bleue-de-rituel-mv8aqxt3zrah.jpg",
               "prixBoutique": 1.9,
-              "stock": 15
+              "stock": 15,
+              "stripe": "https://buy.stripe.com/00waEY3RM83Hd2U49r29E2u",
+              "stripeProductId": "prod_VReK3q0Ckop5d5",
+              "stripePriceId": "price_1UQl1PLOfCA5mATu40n1ZzWS",
+              "stripeLinkId": "plink_1UQl1QLOfCA5mATuIbRyiwcC",
+              "stripePrix": 2.23,
+              "stripeMode": "live",
+              "stripeNom": "Bougie bleue de rituel",
+              "stripeDesc": "Bougie de rituel à la couleur apaisante, idéale pour créer une ambiance sereine et favoriser la concentration. Traditionnellement utilisée pour apaiser les émotions et équilibrer l’énergie, elle est parfaite pour les moments de méditation ou de détente. Son bleu profond inspire la confiance et aide à clarifier les pensées.",
+              "stripeStock": 15,
+              "epuise": false
             },
             {
               "id": "bougie-marron-de-rituel-mv8asrfklgfo",
@@ -22226,7 +22466,17 @@
               "description": "Bougie de couleur marron profonde, idéale pour les rituels et les cérémonies d’ancrage. Traditionnellement utilisée pour renforcer la stabilité émotionnelle, favoriser la concentration et purifier l’énergie ambiante, elle est parfaite pour les moments de méditation ou de protection. Son parfum boisé et chaleureux en fait un allié précieux pour créer une atmosphère apaisante et propice à la sérénité.",
               "photo": "images/articles/bougie-marron-de-rituel-mv8asrfkeyu5.jpg",
               "prixBoutique": 1.9,
-              "stock": 50
+              "stock": 50,
+              "stripe": "https://buy.stripe.com/fZu7sM73Y4Rv4wo5dv29E2v",
+              "stripeProductId": "prod_VReKTZBuw5K4ND",
+              "stripePriceId": "price_1UQl1QLOfCA5mATug7LWJiyY",
+              "stripeLinkId": "plink_1UQl1QLOfCA5mATuZPHMlBBZ",
+              "stripePrix": 2.23,
+              "stripeMode": "live",
+              "stripeNom": "Bougie marron de rituel",
+              "stripeDesc": "Bougie de couleur marron profonde, idéale pour les rituels et les cérémonies d’ancrage. Traditionnellement utilisée pour renforcer la stabilité émotionnelle, favoriser la concentration et purifier l’énergie ambiante, elle est parfaite pour les moments de méditation ou de protection. Son parfum boisé et chaleureux en fait un allié précieux pour créer une atmosphère apaisante et propice à la sérénité.",
+              "stripeStock": 50,
+              "epuise": false
             },
             {
               "id": "bougie-doree-de-rituel-mv8axypuem97",
@@ -22235,7 +22485,17 @@
               "description": "Ces bâtonnets dorés aux reflets chaleureux sont parfaits pour créer une ambiance propice aux rituels et à la méditation. Traditionnellement utilisés pour purifier l’énergie d’un espace ou pour renforcer l’intention lors de pratiques spirituelles, ils apportent une touche de lumière et de bien-être. Leur flamme douce invite à la concentration et à la connexion avec ses émotions profondes.",
               "photo": "images/articles/bougie-doree-de-rituel-mv8axypu72ef.jpg",
               "prixBoutique": 4.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/dRm14o2NI1Fjd2U21j29E2w",
+              "stripeProductId": "prod_VReK6JyJDbXJ94",
+              "stripePriceId": "price_1UQl1RLOfCA5mATu6RxNlm5Y",
+              "stripeLinkId": "plink_1UQl1RLOfCA5mATuHZacu6x3",
+              "stripePrix": 5.33,
+              "stripeMode": "live",
+              "stripeNom": "Bougie dorée de rituel",
+              "stripeDesc": "Ces bâtonnets dorés aux reflets chaleureux sont parfaits pour créer une ambiance propice aux rituels et à la méditation. Traditionnellement utilisés pour purifier l’énergie d’un espace ou pour renforcer l’intention lors de pratiques spirituelles, ils apportent une touche de lumière et de bien-être. Leur flamme douce invite à la concentration et à la connexion avec ses émotions profondes.",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "bougie-pillar-grise-ou-blanche-mv8b051yc1rv",
@@ -22244,7 +22504,17 @@
               "description": "Ces bougies pillar, disponibles en version grise ou blanche, apportent une ambiance apaisante et élégante à votre intérieur. Leur flamme douce est idéale pour créer une atmosphère propice à la détente et à la méditation. Traditionnellement utilisées pour purifier les espaces et favoriser la sérénité, elles accompagnent parfaitement les moments de calme et de reconnexion à soi.",
               "photo": "images/articles/bougie-pillar-grise-ou-blanche-mv8b051yaizy.jpg",
               "prixBoutique": 1.4,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/cNibJ20FAgAd5AsaxP29E2x",
+              "stripeProductId": "prod_VReKvIubb3DTyo",
+              "stripePriceId": "price_1UQl1RLOfCA5mATu9WwJ37n9",
+              "stripeLinkId": "plink_1UQl1SLOfCA5mATuAJ08a3B9",
+              "stripePrix": 1.71,
+              "stripeMode": "live",
+              "stripeNom": "Bougie pillar grise ou blanche",
+              "stripeDesc": "Ces bougies pillar, disponibles en version grise ou blanche, apportent une ambiance apaisante et élégante à votre intérieur. Leur flamme douce est idéale pour créer une atmosphère propice à la détente et à la méditation. Traditionnellement utilisées pour purifier les espaces et favoriser la sérénité, elles accompagnent parfaitement les moments de calme et de reconnexion à soi.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "pot-bougie-parfume-mv8b8enz34ob",
@@ -22253,7 +22523,17 @@
               "description": "Ce pot de bougie parfumée allie élégance et bien-être grâce à ses motifs floraux inspirants. Traditionnellement, les bougies parfumées sont utilisées pour créer une ambiance apaisante, purifier l’énergie d’un espace et favoriser la détente. Leur douce fragrance peut aussi aider à apaiser les émotions et à stimuler une atmosphère harmonieuse dans votre intérieur.",
               "photo": "images/articles/pot-bougie-parfume-mv8b8enz7bbk.jpg",
               "prixBoutique": 3.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/7sYeVeewqes5e6Y5dv29E2y",
+              "stripeProductId": "prod_VReKxWNMoWTtV3",
+              "stripePriceId": "price_1UQl1SLOfCA5mATujFR99jCG",
+              "stripeLinkId": "plink_1UQl1SLOfCA5mATuuj8D1tOM",
+              "stripePrix": 4.29,
+              "stripeMode": "live",
+              "stripeNom": "Pot bougie parfumé",
+              "stripeDesc": "Ce pot de bougie parfumée allie élégance et bien-être grâce à ses motifs floraux inspirants. Traditionnellement, les bougies parfumées sont utilisées pour créer une ambiance apaisante, purifier l’énergie d’un espace et favoriser la détente. Leur douce fragrance peut aussi aider à apaiser les émotions et à stimuler une atmosphère harmonieuse dans votre intérieur.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "bougie-white-flowers-mv8bajthsn72",
@@ -22262,7 +22542,17 @@
               "description": "Cette bougie hautement parfumée aux notes de fleurs blanches diffuse une fragrance douce et apaisante pour créer une ambiance sereine et relaxante. Traditionnellement utilisée pour purifier l’énergie et favoriser la paix intérieure, elle est idéale pour les moments de méditation ou de détente à la maison. Son parfum délicat aide à apaiser les émotions et à apporter une touche de douceur dans votre quotidien.",
               "photo": "images/articles/bougie-white-flowers-mv8bajthjema.jpg",
               "prixBoutique": 7.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZubJ2ewq5Vz3sk49r29E2z",
+              "stripeProductId": "prod_VReK9nlzt3sTwl",
+              "stripePriceId": "price_1UQl1TLOfCA5mATunkvmw97u",
+              "stripeLinkId": "plink_1UQl1TLOfCA5mATuPoVsX8Ab",
+              "stripePrix": 8.33,
+              "stripeMode": "live",
+              "stripeNom": "Bougie white flowers",
+              "stripeDesc": "Cette bougie hautement parfumée aux notes de fleurs blanches diffuse une fragrance douce et apaisante pour créer une ambiance sereine et relaxante. Traditionnellement utilisée pour purifier l’énergie et favoriser la paix intérieure, elle est idéale pour les moments de méditation ou de détente à la maison. Son parfum délicat aide à apaiser les émotions et à apporter une touche de douceur dans votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bougie-french-lavander-mv8bc7dzi2zi",
@@ -22271,7 +22561,17 @@
               "description": "Cette bougie hautement parfumée à la lavande française diffuse une fragrance apaisante et relaxante, idéale pour créer une ambiance sereine dans votre intérieur. La lavande est traditionnellement associée à la réduction du stress, à l’amélioration du sommeil et à l’apaisement des émotions. Parfaite pour les moments de détente ou les rituels du soir, elle apporte une touche de douceur et de bien-être au quotidien.",
               "photo": "images/articles/bougie-french-lavander-mv8bc7dzh58q.jpg",
               "prixBoutique": 7.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRmbJ28823NrbYQdK129E2A",
+              "stripeProductId": "prod_VReKZsXKSHIk55",
+              "stripePriceId": "price_1UQl1TLOfCA5mATuL7dn0GxV",
+              "stripeLinkId": "plink_1UQl1ULOfCA5mATu295vEd4W",
+              "stripePrix": 8.33,
+              "stripeMode": "live",
+              "stripeNom": "Bougie french lavander",
+              "stripeDesc": "Cette bougie hautement parfumée à la lavande française diffuse une fragrance apaisante et relaxante, idéale pour créer une ambiance sereine dans votre intérieur. La lavande est traditionnellement associée à la réduction du stress, à l’amélioration du sommeil et à l’apaisement des émotions. Parfaite pour les moments de détente ou les rituels du soir, elle apporte une touche de douceur et de bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bougie-figue-et-herbs-mv8bdrlyeu4t",
@@ -22280,7 +22580,17 @@
               "description": "Cette bougie hautement parfumée à la figue et aux herbes offre une ambiance apaisante et enveloppante. Traditionnellement, les bougies aux notes fruitées et herbacées sont associées à une énergie positive, favorisant la détente et l'équilibre émotionnel. Parfaite pour créer une atmosphère chaleureuse et relaxante dans votre intérieur, elle est idéale pour les moments de méditation ou de détente après une longue journée.",
               "photo": "images/articles/bougie-figue-et-herbs-mv8bdrlyz58u.jpg",
               "prixBoutique": 7.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFadRa8822Jne6Y49r29E2B",
+              "stripeProductId": "prod_VReKoclS3jItxa",
+              "stripePriceId": "price_1UQl1ULOfCA5mATuin57BGsB",
+              "stripeLinkId": "plink_1UQl1ULOfCA5mATus11dafr5",
+              "stripePrix": 8.33,
+              "stripeMode": "live",
+              "stripeNom": "Bougie figue et herbs",
+              "stripeDesc": "Cette bougie hautement parfumée à la figue et aux herbes offre une ambiance apaisante et enveloppante. Traditionnellement, les bougies aux notes fruitées et herbacées sont associées à une énergie positive, favorisant la détente et l'équilibre émotionnel. Parfaite pour créer une atmosphère chaleureuse et relaxante dans votre intérieur, elle est idéale pour les moments de méditation ou de détente après une longue journée.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "porte-bougie-chauffe-plat-mv8bibsf3akx",
@@ -22289,7 +22599,17 @@
               "description": "Ce porte bougie en chauffe plat élégant est conçu pour allier esthétique et fonctionnalité. Fabriqué en cristal, il diffuse une lumière douce et chaleureuse tout en protégeant votre espace. Idéal pour créer une ambiance apaisante et harmonieuse, il est parfait pour les moments de détente ou de méditation, favorisant ainsi la sérénité et la concentration.",
               "photo": "images/articles/porte-bougie-chauffe-plat-mv8bibsfwzlk.jpg",
               "prixBoutique": 4.5,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/14A9AU2NIbfTd2U0Xf29E2C",
+              "stripeProductId": "prod_VReKyEDrzaWfTU",
+              "stripePriceId": "price_1UQl1VLOfCA5mATujPcYxLRg",
+              "stripeLinkId": "plink_1UQl1VLOfCA5mATu6L2efdZM",
+              "stripePrix": 4.91,
+              "stripeMode": "live",
+              "stripeNom": "Porte bougie chauffe plat",
+              "stripeDesc": "Ce porte bougie en chauffe plat élégant est conçu pour allier esthétique et fonctionnalité. Fabriqué en cristal, il diffuse une lumière douce et chaleureuse tout en protégeant votre espace. Idéal pour créer une ambiance apaisante et harmonieuse, il est parfait pour les moments de détente ou de méditation, favorisant ainsi la sérénité et la concentration.",
+              "stripeStock": 6,
+              "epuise": false
             },
             {
               "id": "huile-essentielle-licorne-bleu-diffuseur-mv9a97gzfabt",
@@ -22298,7 +22618,17 @@
               "description": "Ce diffuseur d'huile essentielle en forme de licorne bleue apporte une touche magique et apaisante à votre intérieur. Associé aux propriétés harmonieuses et protectrices de la licorne en lithothérapie, il favorise la sérénité et l'équilibre émotionnel. Idéal pour créer une ambiance douce et relaxante, il diffuse les bienfaits des huiles essentielles tout en ajoutant une note poétique à votre espace bien-être.",
               "photo": "images/articles/huile-essentielle-licorne-bleu-diffuseur-mv9a97gzctis.jpg",
               "prixBoutique": 2.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/4gMcN6bke4Rv8MEbBT29E2D",
+              "stripeProductId": "prod_VReK62sxEeaGyK",
+              "stripePriceId": "price_1UQl1VLOfCA5mATuYM8fMK7W",
+              "stripeLinkId": "plink_1UQl1WLOfCA5mATuVg2HgyTl",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Huile essentielle licorne bleu diffuseur",
+              "stripeDesc": "Ce diffuseur d'huile essentielle en forme de licorne bleue apporte une touche magique et apaisante à votre intérieur. Associé aux propriétés harmonieuses et protectrices de la licorne en lithothérapie, il favorise la sérénité et l'équilibre émotionnel. Idéal pour créer une ambiance douce et relaxante, il diffuse les bienfaits des huiles essentielles tout en ajoutant une note poétique à votre espace bien-être.",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "licorne-rose-diffuseur-mv9acgjfg4fc",
@@ -22307,7 +22637,17 @@
               "description": "Ce diffuseur en forme de licorne rose apporte une touche de douceur et de magie à votre espace. Associé à l'énergie positive et à la créativité, il est idéal pour créer une ambiance apaisante et inspirante. Parfait pour les moments de détente ou pour illuminer votre intérieur avec une touche féerique.",
               "photo": "images/articles/licorne-rose-diffuseur-mv9acgjfc3ps.jpg",
               "prixBoutique": 2.9,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/8x28wQ0FA5Vze6Y6hz29E2E",
+              "stripeProductId": "prod_VReKeqGDunRmTD",
+              "stripePriceId": "price_1UQl1WLOfCA5mATuRW40eDFB",
+              "stripeLinkId": "plink_1UQl1WLOfCA5mATuvccWZWvr",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Licorne rose diffuseur",
+              "stripeDesc": "Ce diffuseur en forme de licorne rose apporte une touche de douceur et de magie à votre espace. Associé à l'énergie positive et à la créativité, il est idéal pour créer une ambiance apaisante et inspirante. Parfait pour les moments de détente ou pour illuminer votre intérieur avec une touche féerique.",
+              "stripeStock": 7,
+              "epuise": false
             },
             {
               "id": "licorne-rose-clair-diffuseur-mv9afl6jsery",
@@ -22316,7 +22656,17 @@
               "description": "Ce diffuseur en forme de licorne rose clair apporte douceur et magie à votre intérieur. Associé à la pierre de lune et à l'énergie apaisante de la licorne, il est idéal pour créer une ambiance harmonieuse et favoriser la sérénité. Parfait pour les moments de détente ou pour illuminer vos soirées avec une touche de bien-être et de positivité.",
               "photo": "images/articles/licorne-rose-clair-diffuseur-mv9afl6joaw6.jpg",
               "prixBoutique": 2.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi4gAagaabP4wo9tL29E2F",
+              "stripeProductId": "prod_VReK13lXO5rhv2",
+              "stripePriceId": "price_1UQl1XLOfCA5mATugZsJsKf8",
+              "stripeLinkId": "plink_1UQl1XLOfCA5mATu7Ab9l8rG",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Licorne rose clair diffuseur",
+              "stripeDesc": "Ce diffuseur en forme de licorne rose clair apporte douceur et magie à votre intérieur. Associé à la pierre de lune et à l'énergie apaisante de la licorne, il est idéal pour créer une ambiance harmonieuse et favoriser la sérénité. Parfait pour les moments de détente ou pour illuminer vos soirées avec une touche de bien-être et de positivité.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -23716,7 +24066,17 @@
               "description": "Cette sphère de cristal de roche est une pièce pure et lumineuse, idéale pour amplifier les énergies positives et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions et renforcer la connexion à son intuition. Son éclat naturel en fait aussi un objet décoratif élégant, parfait pour sublimer un intérieur ou un espace de méditation.",
               "photo": "images/articles/sphere-de-cristal-de-roche-mv7sn3r0ovas.jpg",
               "prixBoutique": 144,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w8wQbke2JnaUMeO529E2G",
+              "stripeProductId": "prod_VReK1zE2wn5FOH",
+              "stripePriceId": "price_1UQl1XLOfCA5mATulnOaEfG8",
+              "stripeLinkId": "plink_1UQl1YLOfCA5mATu7XOFFvlD",
+              "stripePrix": 149.1,
+              "stripeMode": "live",
+              "stripeNom": "Sphère de cristal de roche",
+              "stripeDesc": "Cette sphère de cristal de roche est une pièce pure et lumineuse, idéale pour amplifier les énergies positives et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions et renforcer la connexion à son intuition. Son éclat naturel en fait aussi un objet décoratif élégant, parfait pour sublimer un intérieur ou un espace de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "apatite-en-sphere-mv7ss1v736c0",
@@ -23725,7 +24085,17 @@
               "description": "Cette sphère d'apatite, aux reflets verts et bleutés captivants, est une pierre aux multiples facettes énergétiques. En lithothérapie, elle est souvent utilisée pour stimuler la créativité, équilibrer les émotions et renforcer la confiance en soi. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps au quotidien.",
               "photo": "images/articles/apatite-en-sphere-mv7ss1v8at4g.jpg",
               "prixBoutique": 120,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B66oI3RM2Jnd2U6hz29E2H",
+              "stripeProductId": "prod_VReK93BksAfMp6",
+              "stripePriceId": "price_1UQl1YLOfCA5mATuEgsmsWua",
+              "stripeLinkId": "plink_1UQl1YLOfCA5mATur2t4oPG0",
+              "stripePrix": 124.29,
+              "stripeMode": "live",
+              "stripeNom": "Apatite en sphère",
+              "stripeDesc": "Cette sphère d'apatite, aux reflets verts et bleutés captivants, est une pierre aux multiples facettes énergétiques. En lithothérapie, elle est souvent utilisée pour stimuler la créativité, équilibrer les émotions et renforcer la confiance en soi. Son énergie dynamique en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "sphere-calcite-orange-mv7uthy4qs36",
@@ -23734,7 +24104,17 @@
               "description": "La calcite orange est une pierre douce et apaisante, idéale pour rééquilibrer les émotions et apporter une énergie chaleureuse. Elle est souvent utilisée pour stimuler la confiance en soi et favoriser un sentiment de sécurité intérieure. Parfaite pour illuminer les espaces de vie ou accompagner les moments de méditation, elle aide à dissoudre les tensions et à cultiver une ambiance positive.",
               "photo": "images/articles/sphere-calcite-orange-mv7uthy4p2op.jpg",
               "prixBoutique": 92,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQbJ2dsm6ZD8MEfS929E2I",
+              "stripeProductId": "prod_VReK0L77KU7DS5",
+              "stripePriceId": "price_1UQl1ZLOfCA5mATuI4IY7PZ0",
+              "stripeLinkId": "plink_1UQl1ZLOfCA5mATugVhfqOOa",
+              "stripePrix": 95.35,
+              "stripeMode": "live",
+              "stripeNom": "Sphère Calcite orange",
+              "stripeDesc": "La calcite orange est une pierre douce et apaisante, idéale pour rééquilibrer les émotions et apporter une énergie chaleureuse. Elle est souvent utilisée pour stimuler la confiance en soi et favoriser un sentiment de sécurité intérieure. Parfaite pour illuminer les espaces de vie ou accompagner les moments de méditation, elle aide à dissoudre les tensions et à cultiver une ambiance positive.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "sphere-obsidienne-diametre-12-cm-mv83erctly84",
@@ -23743,7 +24123,17 @@
               "description": "Cette sphère en obsidienne de 12 cm de diamètre est une pièce fascinante aux reflets profonds et mystérieux. L'obsidienne est souvent utilisée en lithothérapie pour ses propriétés de protection et de purification énergétique, aidant à dissoudre les blocages émotionnels et à renforcer la confiance en soi. Son énergie puissante en fait un allié idéal pour apaiser l'esprit et favoriser une connexion plus profonde avec son intérieur.",
               "photo": "images/articles/sphere-obsidienne-diametre-12-cm-mv83erctc7t0.jpg",
               "prixBoutique": 299,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU00k882es54woeO529E2J",
+              "stripeProductId": "prod_VReKJ1q56We5Ow",
+              "stripePriceId": "price_1UQl1ZLOfCA5mATupu8ofpgV",
+              "stripeLinkId": "plink_1UQl1aLOfCA5mATu7vewTNbH",
+              "stripePrix": 309.31,
+              "stripeMode": "live",
+              "stripeNom": "Sphère obsidienne diamètre 12 cm",
+              "stripeDesc": "Cette sphère en obsidienne de 12 cm de diamètre est une pièce fascinante aux reflets profonds et mystérieux. L'obsidienne est souvent utilisée en lithothérapie pour ses propriétés de protection et de purification énergétique, aidant à dissoudre les blocages émotionnels et à renforcer la confiance en soi. Son énergie puissante en fait un allié idéal pour apaiser l'esprit et favoriser une connexion plus profonde avec son intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -23759,7 +24149,17 @@
               "description": "L'huile essentielle de coriandre est une référence naturelle aux multiples vertus. Riche en propriétés apaisantes et équilibrantes, elle est souvent utilisée pour favoriser la détente et soulager les tensions émotionnelles. Parfaite pour les rituels de bien-être ou les soins du quotidien, elle apporte une touche rafraîchissante et harmonieuse à votre environnement.",
               "photo": "images/articles/huile-essentielle-de-coriandre-en-flacon-mv98kldon354.jpg",
               "prixBoutique": 5.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU00kagado11kc6hz29E2K",
+              "stripeProductId": "prod_VReKgKHrIvqQwP",
+              "stripePriceId": "price_1UQl1aLOfCA5mATuheayuKWK",
+              "stripeLinkId": "plink_1UQl1aLOfCA5mATucBFYl3EF",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Huile essentielle de Coriandre en flacon",
+              "stripeDesc": "L'huile essentielle de coriandre est une référence naturelle aux multiples vertus. Riche en propriétés apaisantes et équilibrantes, elle est souvent utilisée pour favoriser la détente et soulager les tensions émotionnelles. Parfaite pour les rituels de bien-être ou les soins du quotidien, elle apporte une touche rafraîchissante et harmonieuse à votre environnement.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "huile-essentielle-de-citron-mv98onjk9me4",
@@ -23768,7 +24168,17 @@
               "description": "Cette huile essentielle de citron est un trésor naturel aux multiples vertus. Riche en énergie revitalisante, elle est souvent utilisée pour stimuler la concentration et éclaircir l’esprit. Parfaite pour diffuser une ambiance fraîche et positive, elle est aussi appréciée pour ses propriétés purifiantes et son parfum envoûtant, idéal pour les moments de détente ou de nettoyage énergétique.",
               "photo": "images/articles/huile-essentielle-de-citron-mv98onjkqnh7.jpg",
               "prixBoutique": 5.9,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/6oU8wQcoigAd6EwcFX29E2L",
+              "stripeProductId": "prod_VReKYhU0F9aKDb",
+              "stripePriceId": "price_1UQl1bLOfCA5mATuDm4rclHe",
+              "stripeLinkId": "plink_1UQl1bLOfCA5mATubXOlzkCL",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Huile essentielle de citron",
+              "stripeDesc": "Cette huile essentielle de citron est un trésor naturel aux multiples vertus. Riche en énergie revitalisante, elle est souvent utilisée pour stimuler la concentration et éclaircir l’esprit. Parfaite pour diffuser une ambiance fraîche et positive, elle est aussi appréciée pour ses propriétés purifiantes et son parfum envoûtant, idéal pour les moments de détente ou de nettoyage énergétique.",
+              "stripeStock": 9,
+              "epuise": false
             },
             {
               "id": "huile-essentielle-de-juniper-mv98sb7sev2j",
@@ -23777,7 +24187,17 @@
               "description": "L'huile essentielle de juniper, extraite des baies de genévrier, est une référence en aromathérapie pour son énergie purifiante et revitalisante. Traditionnellement utilisée pour stimuler la circulation et favoriser le bien-être physique, elle est aussi réputée pour aider à clarifier l’esprit et à équilibrer les émotions. Parfaite pour les moments de fatigue ou de stress, elle s’intègre facilement dans les rituels de détente ou les mélanges d’huiles essentielles.",
               "photo": "images/articles/huile-essentielle-de-juniper-mv98sb7sv7g9.jpg",
               "prixBoutique": 5.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14AaEY882cjXfb25dv29E2M",
+              "stripeProductId": "prod_VReKDTzZkAKMVt",
+              "stripePriceId": "price_1UQl1bLOfCA5mATu6xlOZ8PQ",
+              "stripeLinkId": "plink_1UQl1cLOfCA5mATuzDMP2gw6",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Huile essentielle de juniper",
+              "stripeDesc": "L'huile essentielle de juniper, extraite des baies de genévrier, est une référence en aromathérapie pour son énergie purifiante et revitalisante. Traditionnellement utilisée pour stimuler la circulation et favoriser le bien-être physique, elle est aussi réputée pour aider à clarifier l’esprit et à équilibrer les émotions. Parfaite pour les moments de fatigue ou de stress, elle s’intègre facilement dans les rituels de détente ou les mélanges d’huiles essentielles.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "huile-essentielle-frankincense-mv992sbscxyl",
@@ -23786,7 +24206,17 @@
               "description": "L'huile essentielle de Frankincense, aussi appelée encens, est une référence en aromathérapie et lithothérapie pour son parfum envoûtant et ses vertus apaisantes. Traditionnellement utilisée pour purifier l’énergie, elle favorise la concentration, réduit le stress et aide à trouver un équilibre émotionnel. Parfaite pour les moments de méditation ou les rituels du quotidien, elle apporte une sensation de calme et de sérénité.",
               "photo": "images/articles/huile-essentielle-frankincense-mv992sbselkp.jpg",
               "prixBoutique": 5.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E3cwgEy4Rv3skbBT29E2N",
+              "stripeProductId": "prod_VReKyzHk78774X",
+              "stripePriceId": "price_1UQl1cLOfCA5mATuji0hgftc",
+              "stripeLinkId": "plink_1UQl1cLOfCA5mATuuND46GKG",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Huile essentielle Frankincense",
+              "stripeDesc": "L'huile essentielle de Frankincense, aussi appelée encens, est une référence en aromathérapie et lithothérapie pour son parfum envoûtant et ses vertus apaisantes. Traditionnellement utilisée pour purifier l’énergie, elle favorise la concentration, réduit le stress et aide à trouver un équilibre émotionnel. Parfaite pour les moments de méditation ou les rituels du quotidien, elle apporte une sensation de calme et de sérénité.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "huile-essentielle-cloues-mv996uz35fp8",
@@ -23795,7 +24225,17 @@
               "description": "L'huile essentielle de clou de girofle est une référence pour ses propriétés stimulantes et réconfortantes. Traditionnellement utilisée pour renforcer l'énergie vitale et soulager les tensions physiques et émotionnelles, elle est idéale pour redonner un coup de fouet au quotidien. Son parfum chaud et épicé en fait un allié précieux pour créer une ambiance apaisante et revitalisante à la maison ou au bureau.",
               "photo": "images/articles/huile-essentielle-cloues-mv996uz388u5.jpg",
               "prixBoutique": 5.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28EdRaewq83Hd2UdK129E2O",
+              "stripeProductId": "prod_VReKFeo31ZvZ25",
+              "stripePriceId": "price_1UQl1cLOfCA5mATuKOt1FGOC",
+              "stripeLinkId": "plink_1UQl1dLOfCA5mATuSCQ8amcW",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Huile essentielle cloues",
+              "stripeDesc": "L'huile essentielle de clou de girofle est une référence pour ses propriétés stimulantes et réconfortantes. Traditionnellement utilisée pour renforcer l'énergie vitale et soulager les tensions physiques et émotionnelles, elle est idéale pour redonner un coup de fouet au quotidien. Son parfum chaud et épicé en fait un allié précieux pour créer une ambiance apaisante et revitalisante à la maison ou au bureau.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-tribal-soul-white-copal-mv99gvjfxwrs",
@@ -23804,7 +24244,17 @@
               "description": "L'huile parfumée White Copal de la collection Tribal Soul est une essence précieuse aux arômes envoûtants, inspirée des traditions ancestrales. Le copal blanc est souvent utilisé pour purifier l’énergie, renforcer la concentration et favoriser un sentiment de connexion spirituelle et émotionnelle. Parfaite pour la méditation, les rituels ou simplement pour embellir votre intérieur d’une touche d’harmonie et de vitalité.",
               "photo": "images/articles/huile-parfumee-tribal-soul-white-copal-mv99gvjfu7lr.jpg",
               "prixBoutique": 3.9,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/dRm3cwfAu6ZD6Ew49r29E2P",
+              "stripeProductId": "prod_VReKZg7wFXBwgV",
+              "stripePriceId": "price_1UQl1dLOfCA5mATuyOF8IvSz",
+              "stripeLinkId": "plink_1UQl1dLOfCA5mATuMmEK7zoZ",
+              "stripePrix": 4.29,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée tribal soul white copal",
+              "stripeDesc": "L'huile parfumée White Copal de la collection Tribal Soul est une essence précieuse aux arômes envoûtants, inspirée des traditions ancestrales. Le copal blanc est souvent utilisé pour purifier l’énergie, renforcer la concentration et favoriser un sentiment de connexion spirituelle et émotionnelle. Parfaite pour la méditation, les rituels ou simplement pour embellir votre intérieur d’une touche d’harmonie et de vitalité.",
+              "stripeStock": 6,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-sauge-blanche-lavande-tri-mv99mx0kfwff",
@@ -23813,7 +24263,17 @@
               "description": "Cette huile parfumée Tribal Soul allie les notes apaisantes de la sauge blanche et de la lavande pour créer une ambiance de sérénité et de bien-être. Traditionnellement utilisée pour purifier l’énergie et favoriser la détente, elle est idéale pour apaiser les émotions et aider à trouver un équilibre intérieur. Parfaite pour la méditation, l’aromathérapie ou simplement pour parfumer votre espace de vie avec douceur.",
               "photo": "images/articles/huile-parfumee-sauge-blanche-lavande-tri-mv99mx0k2uhs.jpg",
               "prixBoutique": 3.9,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/fZu6oI0FA97LbYQ5dv29E2Q",
+              "stripeProductId": "prod_VReKhZIsCiLrsg",
+              "stripePriceId": "price_1UQl1eLOfCA5mATuLn4YX9nO",
+              "stripeLinkId": "plink_1UQl1eLOfCA5mATuPy5P3HC0",
+              "stripePrix": 4.29,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée myrrh tribal soul",
+              "stripeDesc": "Cette huile parfumée Tribal Soul allie les notes apaisantes de la sauge blanche et de la lavande pour créer une ambiance de sérénité et de bien-être. Traditionnellement utilisée pour purifier l’énergie et favoriser la détente, elle est idéale pour apaiser les émotions et aider à trouver un équilibre intérieur. Parfaite pour la méditation, l’aromathérapie ou simplement pour parfumer votre espace de vie avec douceur.",
+              "stripeStock": 11,
+              "epuise": false
             },
             {
               "id": "huile-essentielle-sauge-blanche-lavande--mv99sicj032i",
@@ -23822,7 +24282,17 @@
               "description": "Cette huile essentielle Tribal Soul associe la puissance purificatrice de la sauge blanche et la douceur apaisante de la lavande. Idéale pour créer une ambiance relaxante et équilibrante, elle est souvent utilisée pour nettoyer les énergies, favoriser la concentration et apaiser les émotions. Parfaite pour les rituels de bien-être ou simplement pour parfumer votre intérieur avec des notes naturelles et harmonieuses.",
               "photo": "images/articles/huile-essentielle-sauge-blanche-lavande--mv99sicjmmrj.jpg",
               "prixBoutique": 3.9,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/fZu28sewq2Jne6YaxP29E2R",
+              "stripeProductId": "prod_VReKAJdt8SdGo3",
+              "stripePriceId": "price_1UQl1fLOfCA5mATuNPQMlFgv",
+              "stripeLinkId": "plink_1UQl1fLOfCA5mATuKlxgIW1t",
+              "stripePrix": 4.29,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée sauge blanche lavande tribal soul",
+              "stripeDesc": "Cette huile essentielle Tribal Soul associe la puissance purificatrice de la sauge blanche et la douceur apaisante de la lavande. Idéale pour créer une ambiance relaxante et équilibrante, elle est souvent utilisée pour nettoyer les énergies, favoriser la concentration et apaiser les émotions. Parfaite pour les rituels de bien-être ou simplement pour parfumer votre intérieur avec des notes naturelles et harmonieuses.",
+              "stripeStock": 6,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-hem-fraise-mv9b108tjqeb",
@@ -23831,7 +24301,17 @@
               "description": "Huile aromatique Mystic Strawberry de la marque HEM, inspirée par la douceur et la fraîcheur de la fraise. Utilisée pour créer une ambiance apaisante et réconfortante, elle est idéale pour détendre l'esprit après une longue journée. En lithothérapie et aromathérapie, les huiles parfumées comme celle-ci sont souvent employées pour stimuler les émotions positives et favoriser un bien-être général.",
               "photo": "images/articles/huile-parfumee-hem-fraise-mv9b108tag2r.jpg",
               "prixBoutique": 2.5,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/8x200k9c65Vz6EwfS929E2S",
+              "stripeProductId": "prod_VReKrxDXVzna4g",
+              "stripePriceId": "price_1UQl1fLOfCA5mATuKMdcfg05",
+              "stripeLinkId": "plink_1UQl1fLOfCA5mATuaEe0yYyw",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée HEM fraise",
+              "stripeDesc": "Huile aromatique Mystic Strawberry de la marque HEM, inspirée par la douceur et la fraîcheur de la fraise. Utilisée pour créer une ambiance apaisante et réconfortante, elle est idéale pour détendre l'esprit après une longue journée. En lithothérapie et aromathérapie, les huiles parfumées comme celle-ci sont souvent employées pour stimuler les émotions positives et favoriser un bien-être général.",
+              "stripeStock": 8,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-hem-mystique-rue-mv9b77tet47z",
@@ -23840,7 +24320,17 @@
               "description": "L'huile parfumée HEM Mystique Rue est une huile essentielle raffinée à base de rue, une plante aux vertus énergétiques et apaisantes. Traditionnellement utilisée en lithothérapie et en aromathérapie, elle est réputée pour favoriser la concentration, équilibrer les émotions et apporter une sensation de calme intérieur. Parfaite pour une utilisation en diffusion ou en application cutanée diluée, elle s’intègre idéalement dans les rituels de bien-être au quotidien.",
               "photo": "images/articles/huile-parfumee-hem-mystique-rue-mv9b77te0be8.jpg",
               "prixBoutique": 2.5,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/8x2bJ2coi2Jngf69tL29E2T",
+              "stripeProductId": "prod_VReKbZRsSFrb7O",
+              "stripePriceId": "price_1UQl1gLOfCA5mATusngrFVpR",
+              "stripeLinkId": "plink_1UQl1gLOfCA5mATuGcRBfB04",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée HEM mystique rue",
+              "stripeDesc": "L'huile parfumée HEM Mystique Rue est une huile essentielle raffinée à base de rue, une plante aux vertus énergétiques et apaisantes. Traditionnellement utilisée en lithothérapie et en aromathérapie, elle est réputée pour favoriser la concentration, équilibrer les émotions et apporter une sensation de calme intérieur. Parfaite pour une utilisation en diffusion ou en application cutanée diluée, elle s’intègre idéalement dans les rituels de bien-être au quotidien.",
+              "stripeStock": 8,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-hem-clou-de-girofle-mv9b9n0admze",
@@ -23849,7 +24339,17 @@
               "description": "Cette huile parfumée au clou de girofle est une invitation à l'apaisement et à la détente. Riche en arômes chauds et réconfortants, elle est traditionnellement utilisée pour stimuler l'énergie vitale et soulager les tensions. Parfaite pour créer une ambiance chaleureuse ou pour des soins bien-être, elle apporte une touche de douceur et de réconfort au quotidien.",
               "photo": "images/articles/huile-parfumee-hem-clou-de-girofle-mv9b9n0a3e8b.jpg",
               "prixBoutique": 2.5,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/bJecN6dsm5Vz3sk49r29E2U",
+              "stripeProductId": "prod_VReKwoiDG0qCUQ",
+              "stripePriceId": "price_1UQl1gLOfCA5mATu9LlFbNjM",
+              "stripeLinkId": "plink_1UQl1hLOfCA5mATultfA4yJK",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée HEM clou de girofle",
+              "stripeDesc": "Cette huile parfumée au clou de girofle est une invitation à l'apaisement et à la détente. Riche en arômes chauds et réconfortants, elle est traditionnellement utilisée pour stimuler l'énergie vitale et soulager les tensions. Parfaite pour créer une ambiance chaleureuse ou pour des soins bien-être, elle apporte une touche de douceur et de réconfort au quotidien.",
+              "stripeStock": 9,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-hem-pomme-verte-mv9bbvgbtbdm",
@@ -23858,7 +24358,17 @@
               "description": "Cette huile parfumée Mystic Green Apple de la marque HEM est une invitation à la douceur et à la sérénité. Inspiré par l'arôme frais et fruité de la pomme verte, ce parfum est idéal pour créer une ambiance apaisante et revitalisante dans votre espace de vie ou de travail. En lithothérapie et aromathérapie, les huiles essentielles aux notes fruitées sont souvent associées à la stimulation de l'énergie positive, à l'équilibre émotionnel et à une sensation de bien-être immédiat.",
               "photo": "images/articles/huile-parfumee-hem-pomme-verte-mv9bbvgbiuns.jpg",
               "prixBoutique": 2.5,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/3cI28sdsm4Rv8ME49r29E2V",
+              "stripeProductId": "prod_VReKa77Rt7Tj1G",
+              "stripePriceId": "price_1UQl1hLOfCA5mATuiXwv0jsF",
+              "stripeLinkId": "plink_1UQl1hLOfCA5mATuBcqQfLcd",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée HEM pomme verte",
+              "stripeDesc": "Cette huile parfumée Mystic Green Apple de la marque HEM est une invitation à la douceur et à la sérénité. Inspiré par l'arôme frais et fruité de la pomme verte, ce parfum est idéal pour créer une ambiance apaisante et revitalisante dans votre espace de vie ou de travail. En lithothérapie et aromathérapie, les huiles essentielles aux notes fruitées sont souvent associées à la stimulation de l'énergie positive, à l'équilibre émotionnel et à une sensation de bien-être immédiat.",
+              "stripeStock": 6,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-hem-fruits-rouges-mv9becjl6o80",
@@ -23867,7 +24377,17 @@
               "description": "Huile parfumée aux fruits rouges inspirée par la lithothérapie et les énergies douces. Elle diffuse une ambiance apaisante et réconfortante, idéale pour détendre l’esprit après une longue journée. Traditionnellement utilisée pour stimuler la joie et équilibrer les émotions, cette huile parfumée s’intègre parfaitement dans les rituels de bien-être ou comme parfum d’ambiance naturel.",
               "photo": "images/articles/huile-parfumee-hem-fruits-rouges-mv9becjl75wi.jpg",
               "prixBoutique": 2.5,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/8x214o2NIcjX7IA49r29E2W",
+              "stripeProductId": "prod_VReKe36EqUOG2s",
+              "stripePriceId": "price_1UQl1iLOfCA5mATudWTDNkEk",
+              "stripeLinkId": "plink_1UQl1iLOfCA5mATuIlfaRFXE",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée HEM fruits rouges",
+              "stripeDesc": "Huile parfumée aux fruits rouges inspirée par la lithothérapie et les énergies douces. Elle diffuse une ambiance apaisante et réconfortante, idéale pour détendre l’esprit après une longue journée. Traditionnellement utilisée pour stimuler la joie et équilibrer les émotions, cette huile parfumée s’intègre parfaitement dans les rituels de bien-être ou comme parfum d’ambiance naturel.",
+              "stripeStock": 8,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-hem-ambre-mv9bhfu2gsla",
@@ -23876,7 +24396,17 @@
               "description": "Cette huile parfumée Mystic Amber de la marque HEM est une essence raffinée inspirée par l'ambre mystique. Traditionnellement utilisée pour apaiser l'esprit et équilibrer les émotions, elle est idéale pour créer une atmosphère de sérénité et de bien-être dans votre espace de vie ou de méditation. Son parfum enveloppant est souvent associé à la chaleur, à la protection et à l'ouverture du cœur.",
               "photo": "images/articles/huile-parfumee-hem-ambre-mv9bhfu24mro.jpg",
               "prixBoutique": 2.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/3cI8wQ8825Vz1kc21j29E2X",
+              "stripeProductId": "prod_VReKxcrKTIlsDb",
+              "stripePriceId": "price_1UQl1jLOfCA5mATuqdKMknDC",
+              "stripeLinkId": "plink_1UQl1jLOfCA5mATuwx0mwQfN",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée HEM ambre",
+              "stripeDesc": "Cette huile parfumée Mystic Amber de la marque HEM est une essence raffinée inspirée par l'ambre mystique. Traditionnellement utilisée pour apaiser l'esprit et équilibrer les émotions, elle est idéale pour créer une atmosphère de sérénité et de bien-être dans votre espace de vie ou de méditation. Son parfum enveloppant est souvent associé à la chaleur, à la protection et à l'ouverture du cœur.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-hem-myrrhe-mv9bjlspooea",
@@ -23885,7 +24415,17 @@
               "description": "Cette huile parfumée HEM associe la puissance mystique de la sauge, du francencens et de la myrrhe pour créer une fragrance envoûtante et apaisante. Utilisée depuis des siècles en lithothérapie et en rituels de bien-être, elle est réputée pour purifier l’énergie, favoriser la détente profonde et équilibrer les émotions. Parfaite pour les moments de méditation, les soins du corps ou simplement pour embellir votre intérieur d’une touche spirituelle et relaxante.",
               "photo": "images/articles/huile-parfumee-hem-myrrhe-mv9bjlspmr8e.jpg",
               "prixBoutique": 2.5,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/9B6cN6coi0Bf1kcbBT29E2Y",
+              "stripeProductId": "prod_VReKQeI09Oktw8",
+              "stripePriceId": "price_1UQl1jLOfCA5mATuS9bYiuIi",
+              "stripeLinkId": "plink_1UQl1kLOfCA5mATuEzAgckAm",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée HEM myrrhe",
+              "stripeDesc": "Cette huile parfumée HEM associe la puissance mystique de la sauge, du francencens et de la myrrhe pour créer une fragrance envoûtante et apaisante. Utilisée depuis des siècles en lithothérapie et en rituels de bien-être, elle est réputée pour purifier l’énergie, favoriser la détente profonde et équilibrer les émotions. Parfaite pour les moments de méditation, les soins du corps ou simplement pour embellir votre intérieur d’une touche spirituelle et relaxante.",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-hem-menthe-mv9blc7u3j93",
@@ -23894,7 +24434,17 @@
               "description": "Cette huile parfumée HEM Mystic associe les puissantes essences de l'encens et de la myrrhe, deux résines sacrées utilisées depuis des millénaires pour leurs vertus apaisantes et purificatrices. Parfaite pour créer une ambiance de sérénité et de connexion spirituelle, elle est idéale pour les moments de méditation, de relaxation ou pour sublimer votre espace de vie. Ses propriétés traditionnelles aident à équilibrer les émotions et à favoriser un bien-être profond.",
               "photo": "images/articles/huile-parfumee-hem-menthe-mv9blc7uh5fi.jpg",
               "prixBoutique": 2.5,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/dRm28s3RM2Jn5As9tL29E2Z",
+              "stripeProductId": "prod_VReKHXSZdblsRs",
+              "stripePriceId": "price_1UQl1kLOfCA5mATugPfC3UVR",
+              "stripeLinkId": "plink_1UQl1kLOfCA5mATu01ztSoMS",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée HEM menthe",
+              "stripeDesc": "Cette huile parfumée HEM Mystic associe les puissantes essences de l'encens et de la myrrhe, deux résines sacrées utilisées depuis des millénaires pour leurs vertus apaisantes et purificatrices. Parfaite pour créer une ambiance de sérénité et de connexion spirituelle, elle est idéale pour les moments de méditation, de relaxation ou pour sublimer votre espace de vie. Ses propriétés traditionnelles aident à équilibrer les émotions et à favoriser un bien-être profond.",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-satya-palo-santo-mv9brrealb4g",
@@ -23903,7 +24453,17 @@
               "description": "L'huile parfumée SATYA palo santo est un encens liquide aux vertus purificatrices et énergétiques. Utilisée traditionnellement pour nettoyer les espaces et les énergies négatives, elle favorise la clarté mentale et l'équilibre émotionnel. Parfaite pour les rituels de méditation ou simplement pour diffuser une ambiance apaisante et harmonieuse.",
               "photo": "images/articles/huile-parfumee-satya-palo-santo-mv9brreagrkd.jpg",
               "prixBoutique": 8.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B63cw882cjXd2U49r29E30",
+              "stripeProductId": "prod_VReKX3KJ9Xt2oX",
+              "stripePriceId": "price_1UQl1lLOfCA5mATuUfoTcRIW",
+              "stripeLinkId": "plink_1UQl1lLOfCA5mATutLE3cv7J",
+              "stripePrix": 9.26,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée SATYA palo santo",
+              "stripeDesc": "L'huile parfumée SATYA palo santo est un encens liquide aux vertus purificatrices et énergétiques. Utilisée traditionnellement pour nettoyer les espaces et les énergies négatives, elle favorise la clarté mentale et l'équilibre émotionnel. Parfaite pour les rituels de méditation ou simplement pour diffuser une ambiance apaisante et harmonieuse.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-super-hit-fragrance-mv9bubhw4wrh",
@@ -23912,7 +24472,17 @@
               "description": "Huile parfumée SUPER HIT fragrance, une essence captivante inspirée des traditions ancestrales. Ce mélange subtil est souvent utilisé pour apaiser l'esprit, équilibrer les émotions et créer une atmosphère de sérénité. Parfaite pour la méditation, la relaxation ou simplement pour embellir votre intérieur d'une touche d'énergie positive.",
               "photo": "images/articles/huile-parfumee-super-hit-fragrance-mv9bubhwqdad.jpg",
               "prixBoutique": 11.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/eVq7sMdsmfw9bYQ9tL29E31",
+              "stripeProductId": "prod_VReKKFeFaGIGUu",
+              "stripePriceId": "price_1UQl1lLOfCA5mATuEtnjR5aq",
+              "stripeLinkId": "plink_1UQl1mLOfCA5mATuM0X9bdQF",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée SUPER HIT fragrance",
+              "stripeDesc": "Huile parfumée SUPER HIT fragrance, une essence captivante inspirée des traditions ancestrales. Ce mélange subtil est souvent utilisé pour apaiser l'esprit, équilibrer les émotions et créer une atmosphère de sérénité. Parfaite pour la méditation, la relaxation ou simplement pour embellir votre intérieur d'une touche d'énergie positive.",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "huile-essentielle-satya-patchouli-mv9bx104sczi",
@@ -23921,7 +24491,17 @@
               "description": "L'huile essentielle SATYA patchouli est un produit naturel aux multiples vertus. Connue pour ses propriétés relaxantes et équilibrantes, elle aide à apaiser les tensions du quotidien et favorise un sentiment de bien-être profond. Son parfum envoûtant et terreux en fait aussi un allié idéal pour purifier l'atmosphère et créer une ambiance chaleureuse et apaisante dans votre espace de vie.",
               "photo": "images/articles/huile-essentielle-satya-patchouli-mv9bx104ybpv.jpg",
               "prixBoutique": 8.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/fZu3cw1JE0Bfe6YbBT29E32",
+              "stripeProductId": "prod_VReKkCqTB5OgId",
+              "stripePriceId": "price_1UQl1mLOfCA5mATukp4Rg4nl",
+              "stripeLinkId": "plink_1UQl1mLOfCA5mATuBGY79om4",
+              "stripePrix": 9.46,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée SATYA patchouli",
+              "stripeDesc": "L'huile essentielle SATYA patchouli est un produit naturel aux multiples vertus. Connue pour ses propriétés relaxantes et équilibrantes, elle aide à apaiser les tensions du quotidien et favorise un sentiment de bien-être profond. Son parfum envoûtant et terreux en fait aussi un allié idéal pour purifier l'atmosphère et créer une ambiance chaleureuse et apaisante dans votre espace de vie.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-satya-frankincense-mv9bzuu2x4l4",
@@ -23930,7 +24510,17 @@
               "description": "L'huile parfumée SATYA frankincense est une essence pure inspirée par la résine sacrée de l'encens. Utilisée depuis des millénaires pour ses vertus apaisantes et purificatrices, elle est idéale pour créer une atmosphère de sérénité et de concentration. En lithothérapie et en aromathérapie, elle est souvent employée pour équilibrer les émotions, favoriser la méditation et apporter une énergie positive à votre espace de vie.",
               "photo": "images/articles/huile-parfumee-satya-frankincense-mv9bzuu2q5bf.jpg",
               "prixBoutique": 8.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/7sY14o3RM1Fj1kceO529E33",
+              "stripeProductId": "prod_VReKGPeTIz280u",
+              "stripePriceId": "price_1UQl1nLOfCA5mATuPzOGDf8R",
+              "stripeLinkId": "plink_1UQl1nLOfCA5mATunmgX6jIs",
+              "stripePrix": 9.46,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée SATYA frankincense",
+              "stripeDesc": "L'huile parfumée SATYA frankincense est une essence pure inspirée par la résine sacrée de l'encens. Utilisée depuis des millénaires pour ses vertus apaisantes et purificatrices, elle est idéale pour créer une atmosphère de sérénité et de concentration. En lithothérapie et en aromathérapie, elle est souvent employée pour équilibrer les émotions, favoriser la méditation et apporter une énergie positive à votre espace de vie.",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-satya-rose-mv9c31u19pw1",
@@ -23939,7 +24529,17 @@
               "description": "Cette huile parfumée SATYA rose est une essence douce et apaisante, inspirée par la délicatesse de la fleur de rose. En lithothérapie et aromathérapie, elle est souvent utilisée pour favoriser la détente, équilibrer les émotions et apporter une touche de sérénité à votre quotidien. Parfaite pour rafraîchir l’atmosphère ou créer une ambiance harmonieuse, elle s’intègre aussi bien dans un rituel bien-être que dans la décoration d’intérieur.",
               "photo": "images/articles/huile-parfumee-satya-rose-mv9c31u1r2zy.jpg",
               "prixBoutique": 8.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6dRa1JE3Nr6Ew9tL29E34",
+              "stripeProductId": "prod_VReK5daCOa0tPR",
+              "stripePriceId": "price_1UQl1nLOfCA5mATuXsvpL7QH",
+              "stripeLinkId": "plink_1UQl1nLOfCA5mATuFyeWwDMv",
+              "stripePrix": 9.46,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée SATYA rose",
+              "stripeDesc": "Cette huile parfumée SATYA rose est une essence douce et apaisante, inspirée par la délicatesse de la fleur de rose. En lithothérapie et aromathérapie, elle est souvent utilisée pour favoriser la détente, équilibrer les émotions et apporter une touche de sérénité à votre quotidien. Parfaite pour rafraîchir l’atmosphère ou créer une ambiance harmonieuse, elle s’intègre aussi bien dans un rituel bien-être que dans la décoration d’intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-satya-limon-grass-mv9c5p0bg65r",
@@ -23948,7 +24548,17 @@
               "description": "Cette huile parfumée SATYA au limon grass est une essence raffinée qui apporte une touche fraîche et envoûtante à votre quotidien. Le limon grass, connu pour son parfum citronné et boisé, est souvent utilisé en lithothérapie et aromathérapie pour stimuler l’énergie, éclaircir l’esprit et favoriser la détente. Parfaite pour diffuser une ambiance apaisante et revitalisante dans votre intérieur.",
               "photo": "images/articles/huile-parfumee-satya-limon-grass-mv9c5p0b5313.jpg",
               "prixBoutique": 8.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/7sY28s5ZU4Rve6Y5dv29E35",
+              "stripeProductId": "prod_VReK4Rr1sNGSvc",
+              "stripePriceId": "price_1UQl1oLOfCA5mATuqvlIwDWi",
+              "stripeLinkId": "plink_1UQl1oLOfCA5mATuiCGHjxxw",
+              "stripePrix": 9.46,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée SATYA limon grass",
+              "stripeDesc": "Cette huile parfumée SATYA au limon grass est une essence raffinée qui apporte une touche fraîche et envoûtante à votre quotidien. Le limon grass, connu pour son parfum citronné et boisé, est souvent utilisé en lithothérapie et aromathérapie pour stimuler l’énergie, éclaircir l’esprit et favoriser la détente. Parfaite pour diffuser une ambiance apaisante et revitalisante dans votre intérieur.",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-satya-palo-santo-mv9c8lchcnyo",
@@ -23957,7 +24567,17 @@
               "description": "L'huile parfumée SATYA palo santo est une essence naturelle issue de l'arbre palo santo, réputée pour ses vertus purificatrices et énergétiques. Utilisée en lithothérapie et en rituels, elle aide à clarifier l'esprit, à apaiser les émotions et à créer une atmosphère harmonieuse. Parfaite pour les moments de méditation, les espaces de vie ou les cérémonies, elle diffuse une énergie positive et rafraîchissante.",
               "photo": "images/articles/huile-parfumee-satya-palo-santo-mv9c8lch1sm8.jpg",
               "prixBoutique": 8.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI14ocoi6ZD3skbBT29E36",
+              "stripeProductId": "prod_VReKXzU45OOLq5",
+              "stripePriceId": "price_1UQl1oLOfCA5mATu5qhcVDdG",
+              "stripeLinkId": "plink_1UQl1pLOfCA5mATuS5tG5cUQ",
+              "stripePrix": 9.46,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée SATYA palo santo",
+              "stripeDesc": "L'huile parfumée SATYA palo santo est une essence naturelle issue de l'arbre palo santo, réputée pour ses vertus purificatrices et énergétiques. Utilisée en lithothérapie et en rituels, elle aide à clarifier l'esprit, à apaiser les émotions et à créer une atmosphère harmonieuse. Parfaite pour les moments de méditation, les espaces de vie ou les cérémonies, elle diffuse une énergie positive et rafraîchissante.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "huile-parfumee-super-hit-mv9cadax5m37",
@@ -23966,7 +24586,17 @@
               "description": "Cette huile parfumée SUPER HIT est un allié précieux pour purifier et revitaliser l’énergie des espaces. Traditionnellement utilisée pour apaiser les émotions et favoriser une ambiance harmonieuse, elle est idéale pour recharger votre intérieur en positivité. Son parfum enveloppant aide à créer une atmosphère apaisante et équilibrante, parfaite pour le bien-être au quotidien.",
               "photo": "images/articles/huile-parfumee-super-hit-mv9cadax269o.jpg",
               "prixBoutique": 11.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/9B6dRa1JE5Vz5AscFX29E37",
+              "stripeProductId": "prod_VReKQuCj97MExk",
+              "stripePriceId": "price_1UQl1pLOfCA5mATurjgXJNX8",
+              "stripeLinkId": "plink_1UQl1qLOfCA5mATueiw6MVov",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Huile parfumée SUPER HIT",
+              "stripeDesc": "Cette huile parfumée SUPER HIT est un allié précieux pour purifier et revitaliser l’énergie des espaces. Traditionnellement utilisée pour apaiser les émotions et favoriser une ambiance harmonieuse, elle est idéale pour recharger votre intérieur en positivité. Son parfum enveloppant aide à créer une atmosphère apaisante et équilibrante, parfaite pour le bien-être au quotidien.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },
@@ -23982,7 +24612,17 @@
               "description": "Cette porte encens céramique en forme d’assiette mozaïque miroir allie esthétique et fonctionnalité pour sublimer votre espace tout en purifiant l’énergie ambiante. Les motifs inspirés de la nature et les éclats de miroir captent la lumière, créant une atmosphère harmonieuse et apaisante. Idéale pour les rituels de méditation ou simplement comme pièce décorative, elle invite à la sérénité et à l’équilibre émotionnel.",
               "photo": "images/articles/porte-encens-ceramique-mozaique-miroir-mv9a1s8u806r.jpg",
               "prixBoutique": 4.3,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/28E9AU3RM2Jn6EwaxP29E38",
+              "stripeProductId": "prod_VReKpPrDEltgko",
+              "stripePriceId": "price_1UQl1qLOfCA5mATuEFLo1doU",
+              "stripeLinkId": "plink_1UQl1qLOfCA5mATufEe8YPko",
+              "stripePrix": 4.71,
+              "stripeMode": "live",
+              "stripeNom": "Porte - encens céramique mozaique miroir",
+              "stripeDesc": "Cette porte encens céramique en forme d’assiette mozaïque miroir allie esthétique et fonctionnalité pour sublimer votre espace tout en purifiant l’énergie ambiante. Les motifs inspirés de la nature et les éclats de miroir captent la lumière, créant une atmosphère harmonieuse et apaisante. Idéale pour les rituels de méditation ou simplement comme pièce décorative, elle invite à la sérénité et à l’équilibre émotionnel.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }
@@ -24512,7 +25152,17 @@
               "description": "Support grand en fer",
               "photo": "images/articles/grand-support-en-fer-mv7xdjm0q5rn.jpg",
               "prixBoutique": 5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU3cw2NI3Nr1kc21j29E39",
+              "stripeProductId": "prod_VReKuykMK42fnG",
+              "stripePriceId": "price_1UQl1rLOfCA5mATuH1JAHGmr",
+              "stripeLinkId": "plink_1UQl1rLOfCA5mATuVj0PW5Lt",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Grand support en fer",
+              "stripeDesc": "Support grand en fer",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

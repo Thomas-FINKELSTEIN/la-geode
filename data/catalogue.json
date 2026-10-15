@@ -26963,17 +26963,16 @@
               "description": "Ce cadre rond représentant un Bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il est idéal pour créer une ambiance apaisante et favoriser la concentration. Parfait pour les espaces de détente ou de travail, il diffuse une énergie positive et bienveillante.",
               "photo": "images/articles/cadre-rond-bouddha-mv9mslrn2mmt.jpg",
               "prixBoutique": 17.5,
-              "stock": 2,
-              "stripe": "https://buy.stripe.com/8x200k0FAfw94wo7lD29J46",
-              "stripeProductId": "prod_VRj4cAjUQiRh93",
-              "stripePriceId": "price_1UQpbyLOfCA5mATu3TckQyRv",
-              "stripeLinkId": "plink_1UQpbyLOfCA5mATuKzo2gzFa",
-              "stripePrix": 18.35,
-              "stripeMode": "live",
-              "stripeNom": "Cadre rond bouddha",
-              "stripeDesc": "Ce cadre rond représentant un Bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il est idéal pour créer une ambiance apaisante et favoriser la concentration. Parfait pour les espaces de détente ou de travail, il diffuse une énergie positive et bienveillante.",
-              "stripeStock": 2,
-              "epuise": false
+              "stock": 2
+            },
+            {
+              "id": "cadre-argentee-pot-de-fleur-rectanguleur-mv9muqibrcyq",
+              "nom": "Cadre argentée pot de fleur rectanguleur",
+              "prix": 16.7,
+              "description": "Ce cadre argenté au design élégant et rectangulaire met en valeur une décoration florale raffinée, mêlant harmonie et sophistication. Idéal pour sublimer votre intérieur tout en apportant une touche d'énergie positive et apaisante, il évoque la beauté naturelle et la sérénité. Parfait pour les espaces où l'on souhaite allier esthétique et bien-être, il s'intègre aussi bien dans un cadre personnel que professionnel.",
+              "photo": "images/articles/cadre-argentee-pot-de-fleur-rectanguleur-mv9muqib602s.jpg",
+              "prixBoutique": 15.9,
+              "stock": 1
             }
           ]
         }

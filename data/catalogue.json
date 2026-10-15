@@ -17678,15 +17678,15 @@
               "photo": "images/articles/bracelet-lapis-lazuli-6-mm-mtkajawo83u3.jpg",
               "prixBoutique": 17.9,
               "stock": 1,
-              "stripe": "https://buy.stripe.com/dRmfZi2NI83HbYQeO529K1l",
+              "stripe": "https://buy.stripe.com/8x2cN69c65Vz1kc49r2892d",
               "stripeProductId": "prod_VBe0A4dHbEPBpx",
               "stripePriceId": "price_1UBGicLOfCA5mATuQv4b8gy7",
-              "stripeLinkId": "plink_1UQrj6LOfCA5mATuMLgY9rK3",
+              "stripeLinkId": "plink_1UDLHALOfCA5mATuWJtaAelt",
               "stripePrix": 18.76,
               "stripeMode": "live",
               "stripeNom": "Bracelet lapis lazuli 6 mm",
               "stripeDesc": "Ce bracelet en perles de lapis lazuli profond apporte une touche élégante tout en offrant une énergie apaisante. Selon la lithothérapie, cette pierre bleue favorise la sérénité, aide à soulager les tensions et les migraines, et encourage un sommeil plus réparateur. Parfait pour ceux qui cherchent à équilibrer leurs émotions et à retrouver une parole plus fluide au quotidien.",
-              "stripeStock": 1,
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -24961,17 +24961,7 @@
               "description": "Encens aux notes chaudes et réconfortantes, ce HEM rosa canela allie les arômes envoûtants de la cannelle et de la rose pour créer une ambiance apaisante et sensuelle. Traditionnellement utilisé pour purifier l’énergie, il favorise la détente et aide à apaiser les émotions. Parfait pour les moments de méditation, les rituels ou simplement pour embellir votre intérieur d’une douce fragrance.",
               "photo": "images/articles/hem-rosa-canela-10-pces-mv9r6jnrx3nx.jpg",
               "prixBoutique": 2.5,
-              "stock": 7,
-              "stripe": "https://buy.stripe.com/28EdRabkeabP1kc5dv29K1m",
-              "stripeProductId": "prod_VRlF6W3JnrjRku",
-              "stripePriceId": "price_1UQrj6LOfCA5mATudRNPrta1",
-              "stripeLinkId": "plink_1UQrj6LOfCA5mATuidFaQMy4",
-              "stripePrix": 2.85,
-              "stripeMode": "live",
-              "stripeNom": "Hem rosa canela 10 pces",
-              "stripeDesc": "Encens aux notes chaudes et réconfortantes, ce HEM rosa canela allie les arômes envoûtants de la cannelle et de la rose pour créer une ambiance apaisante et sensuelle. Traditionnellement utilisé pour purifier l’énergie, il favorise la détente et aide à apaiser les émotions. Parfait pour les moments de méditation, les rituels ou simplement pour embellir votre intérieur d’une douce fragrance.",
-              "stripeStock": 7,
-              "epuise": false
+              "stock": 7
             },
             {
               "id": "hem-green-tea-10-pces-mv9ral3zqjfm",
@@ -24980,17 +24970,7 @@
               "description": "Encens aux cônes parfumés à la thé vert, idéal pour purifier l’énergie ambiante et créer une atmosphère apaisante. Traditionnellement utilisé pour favoriser la concentration et équilibrer les émotions, il est parfait pour les moments de méditation ou de détente. Son arôme frais et naturel en fait un allié précieux pour les rituels de bien-être au quotidien.",
               "photo": "images/articles/hem-green-tea-10-pces-mv9ral3zkwtk.jpg",
               "prixBoutique": 2.5,
-              "stock": 9,
-              "stripe": "https://buy.stripe.com/6oU3cw0FA6ZD8ME6hz29K1n",
-              "stripeProductId": "prod_VRlFP7UUTkigT3",
-              "stripePriceId": "price_1UQrj6LOfCA5mATuBYjBVs0Z",
-              "stripeLinkId": "plink_1UQrj7LOfCA5mATuyI3dmr2R",
-              "stripePrix": 2.85,
-              "stripeMode": "live",
-              "stripeNom": "Hem green tea 10 pces",
-              "stripeDesc": "Encens aux cônes parfumés à la thé vert, idéal pour purifier l’énergie ambiante et créer une atmosphère apaisante. Traditionnellement utilisé pour favoriser la concentration et équilibrer les émotions, il est parfait pour les moments de méditation ou de détente. Son arôme frais et naturel en fait un allié précieux pour les rituels de bien-être au quotidien.",
-              "stripeStock": 9,
-              "epuise": false
+              "stock": 9
             },
             {
               "id": "hem-sandal-vanilla-cones-10-pces-mv9rekhj3fj1",
@@ -24999,17 +24979,7 @@
               "description": "Ces cônes d'encens HEM sandal vanilla allient les notes boisées et chaudes du sandalwood avec la douceur gourmande de la vanille. Traditionnellement utilisés pour purifier l'atmosphère et apaiser l'esprit, ils sont parfaits pour créer une ambiance relaxante et harmonieuse. Leur parfum enveloppant favorise la concentration et aide à libérer les tensions du quotidien.",
               "photo": "images/articles/hem-sandal-vanilla-cones-10-pces-mv9rekhj1pk9.jpg",
               "prixBoutique": 2.5,
-              "stock": 7,
-              "stripe": "https://buy.stripe.com/cNifZiaga1Fjgf6axP29K1o",
-              "stripeProductId": "prod_VRlF3tem3WV6c6",
-              "stripePriceId": "price_1UQrj7LOfCA5mATuSa54KRLO",
-              "stripeLinkId": "plink_1UQrj7LOfCA5mATudRIvUtnI",
-              "stripePrix": 2.85,
-              "stripeMode": "live",
-              "stripeNom": "Hem sandal vanilla cônes 10 pces",
-              "stripeDesc": "Ces cônes d'encens HEM sandal vanilla allient les notes boisées et chaudes du sandalwood avec la douceur gourmande de la vanille. Traditionnellement utilisés pour purifier l'atmosphère et apaiser l'esprit, ils sont parfaits pour créer une ambiance relaxante et harmonieuse. Leur parfum enveloppant favorise la concentration et aide à libérer les tensions du quotidien.",
-              "stripeStock": 7,
-              "epuise": false
+              "stock": 7
             },
             {
               "id": "hem-magnolia-cones-10-pces-mv9rgmcv5g32",
@@ -25018,17 +24988,7 @@
               "description": "Ces cônes d'encens HEM magnolia sont une création traditionnelle à base d'ingrédients naturels et d'huiles essentielles. Leur parfum envoûtant, inspiré de la fleur de magnolia, est souvent utilisé pour purifier l'atmosphère et apporter une sensation de calme et de sérénité. Idéal pour les moments de méditation, les rituels ou simplement pour embellir votre intérieur d'une douce fragrance apaisante.",
               "photo": "images/articles/hem-magnolia-cones-10-pces-mv9rgmcvmy9r.jpg",
               "prixBoutique": 2.5,
-              "stock": 6,
-              "stripe": "https://buy.stripe.com/00wfZiaga6ZD9QI9tL29K1p",
-              "stripeProductId": "prod_VRlFDN2ztoF8Zd",
-              "stripePriceId": "price_1UQrj8LOfCA5mATuB9hHuQ28",
-              "stripeLinkId": "plink_1UQrj8LOfCA5mATu80x35ai7",
-              "stripePrix": 2.85,
-              "stripeMode": "live",
-              "stripeNom": "Hem magnolia cônes 10 pces",
-              "stripeDesc": "Ces cônes d'encens HEM magnolia sont une création traditionnelle à base d'ingrédients naturels et d'huiles essentielles. Leur parfum envoûtant, inspiré de la fleur de magnolia, est souvent utilisé pour purifier l'atmosphère et apporter une sensation de calme et de sérénité. Idéal pour les moments de méditation, les rituels ou simplement pour embellir votre intérieur d'une douce fragrance apaisante.",
-              "stripeStock": 6,
-              "epuise": false
+              "stock": 6
             },
             {
               "id": "hem-frankincense-cones-10-pces-mv9ri87bgw01",
@@ -25037,17 +24997,7 @@
               "description": "Ces cônes d'encens de frankinense HEM sont parfaits pour purifier l'atmosphère et apporter une énergie positive dans votre espace. Traditionnellement utilisé pour ses vertus apaisantes et clarifiantes, il favorise la concentration et aide à libérer les tensions émotionnelles. Idéal pour les rituels de méditation, les cérémonies ou simplement pour parfumer votre intérieur avec une fragrance chaude et envoûtante.",
               "photo": "images/articles/hem-frankincense-cones-10-pces-mv9ri87bbtgx.jpg",
               "prixBoutique": 2.5,
-              "stock": 12,
-              "stripe": "https://buy.stripe.com/5kQaEYgEybfTfb25dv29K1q",
-              "stripeProductId": "prod_VRlF9fLJrJ99xr",
-              "stripePriceId": "price_1UQrj8LOfCA5mATukOqC9NFU",
-              "stripeLinkId": "plink_1UQrj9LOfCA5mATuOV97n5M3",
-              "stripePrix": 2.85,
-              "stripeMode": "live",
-              "stripeNom": "Hem Frankincense cônes 10 pces",
-              "stripeDesc": "Ces cônes d'encens de frankinense HEM sont parfaits pour purifier l'atmosphère et apporter une énergie positive dans votre espace. Traditionnellement utilisé pour ses vertus apaisantes et clarifiantes, il favorise la concentration et aide à libérer les tensions émotionnelles. Idéal pour les rituels de méditation, les cérémonies ou simplement pour parfumer votre intérieur avec une fragrance chaude et envoûtante.",
-              "stripeStock": 12,
-              "epuise": false
+              "stock": 12
             },
             {
               "id": "hem-canela-cones-10-pces-mv9rjfhrr8fq",
@@ -25056,17 +25006,7 @@
               "description": "Les cônes d'encens HEM canela sont une création traditionnelle à base d'ingrédients naturels, spécialement conçus pour purifier et embellir votre espace. Leur parfum chaud et enveloppant est souvent utilisé pour favoriser la détente, stimuler la concentration et équilibrer les énergies ambiantes. Idéal pour les rituels de méditation, les cérémonies ou simplement pour parfumer votre intérieur avec une touche d'harmonie et de sérénité.",
               "photo": "images/articles/hem-canela-cones-10-pces-mv9rjfhrgpci.jpg",
               "prixBoutique": 2.5,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/8x228scoi0Bf5AsbBT29K1r",
-              "stripeProductId": "prod_VRlFtXtvfJLljt",
-              "stripePriceId": "price_1UQrj9LOfCA5mATuZs8tnYWf",
-              "stripeLinkId": "plink_1UQrj9LOfCA5mATukkEPrnYU",
-              "stripePrix": 2.85,
-              "stripeMode": "live",
-              "stripeNom": "Hem canela cônes 10 pces",
-              "stripeDesc": "Les cônes d'encens HEM canela sont une création traditionnelle à base d'ingrédients naturels, spécialement conçus pour purifier et embellir votre espace. Leur parfum chaud et enveloppant est souvent utilisé pour favoriser la détente, stimuler la concentration et équilibrer les énergies ambiantes. Idéal pour les rituels de méditation, les cérémonies ou simplement pour parfumer votre intérieur avec une touche d'harmonie et de sérénité.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 5
             }
           ]
         }

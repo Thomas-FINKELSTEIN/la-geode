@@ -24866,7 +24866,17 @@
               "description": "Encens traditionnel en cône, le Hem Chandan est une composition naturelle de résines et d'huiles essentielles créant une ambiance apaisante et purificatrice. Utilisé depuis des siècles pour ses vertus relaxantes et son parfum envoûtant, il est idéal pour méditer, créer une atmosphère sereine ou simplement profiter d’une douce fragrance. Ses propriétés sont souvent associées à l’équilibre émotionnel et à la concentration.",
               "photo": "images/articles/hem-chandan-encens-cone-10-pces-mv9pyk57csr5.jpg",
               "prixBoutique": 2.5,
-              "stock": 10
+              "stock": 10,
+              "stripe": "https://buy.stripe.com/3cIfZi88297L1kc5dv29K0q",
+              "stripeProductId": "prod_VRkah6KQm1I704",
+              "stripePriceId": "price_1UQr5bLOfCA5mATuhVDRpWKH",
+              "stripeLinkId": "plink_1UQr5bLOfCA5mATuaBMMHUfW",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Hem Chandan encens cône 10 pces",
+              "stripeDesc": "Encens traditionnel en cône, le Hem Chandan est une composition naturelle de résines et d'huiles essentielles créant une ambiance apaisante et purificatrice. Utilisé depuis des siècles pour ses vertus relaxantes et son parfum envoûtant, il est idéal pour méditer, créer une atmosphère sereine ou simplement profiter d’une douce fragrance. Ses propriétés sont souvent associées à l’équilibre émotionnel et à la concentration.",
+              "stripeStock": 10,
+              "epuise": false
             },
             {
               "id": "hem-myrrh-cones-10pces-mv9q1ilc4i49",
@@ -24875,7 +24885,17 @@
               "description": "Ces cônes d'encens de myrrhe HEM sont une référence traditionnelle pour leurs propriétés apaisantes et purificatrices. Utilisés depuis des siècles, ils dégagent une fragrance chaude et boisée, idéale pour créer une ambiance de sérénité et favoriser la concentration. Parfaits pour les rituels de bien-être, la méditation ou simplement pour embellir votre intérieur d’une énergie positive et enveloppante.",
               "photo": "images/articles/hem-myrrh-cones-10pces-mv9q1ilc2w0y.jpg",
               "prixBoutique": 2.5,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/bJe5kEfAu6ZD0g835n29K0r",
+              "stripeProductId": "prod_VRkaw0mszLAqBI",
+              "stripePriceId": "price_1UQr5bLOfCA5mATuv094F345",
+              "stripeLinkId": "plink_1UQr5bLOfCA5mATu7WyI5Yv5",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Hem Myrrh cônes 10pces",
+              "stripeDesc": "Ces cônes d'encens de myrrhe HEM sont une référence traditionnelle pour leurs propriétés apaisantes et purificatrices. Utilisés depuis des siècles, ils dégagent une fragrance chaude et boisée, idéale pour créer une ambiance de sérénité et favoriser la concentration. Parfaits pour les rituels de bien-être, la méditation ou simplement pour embellir votre intérieur d’une énergie positive et enveloppante.",
+              "stripeStock": 9,
+              "epuise": false
             },
             {
               "id": "hem-frankincense-myrrh-mv9q30agm3k4",
@@ -24884,7 +24904,17 @@
               "description": "Encens traditionnel composé de résine de boswellia et de myrrhe, ce mélange emblématique est utilisé depuis des siècles pour ses vertus apaisantes et purificatrices. Il favorise la concentration, réduit le stress et crée une atmosphère de sérénité et de bien-être dans les espaces de vie ou de méditation. Parfait pour les rituels, les moments de détente ou simplement pour embaumer votre intérieur d’une fragrance envoûtante et chaleureuse.",
               "photo": "images/articles/hem-frankincense-myrrh-mv9q30agwbgh.jpg",
               "prixBoutique": 2.5,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/aFadRa5ZU2Jngf60Xf29K0s",
+              "stripeProductId": "prod_VRkaczSx1iGYdD",
+              "stripePriceId": "price_1UQr5cLOfCA5mATuEegTOr8c",
+              "stripeLinkId": "plink_1UQr5cLOfCA5mATuX78oca3B",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Hem Frankincense-Myrrh",
+              "stripeDesc": "Encens traditionnel composé de résine de boswellia et de myrrhe, ce mélange emblématique est utilisé depuis des siècles pour ses vertus apaisantes et purificatrices. Il favorise la concentration, réduit le stress et crée une atmosphère de sérénité et de bien-être dans les espaces de vie ou de méditation. Parfait pour les rituels, les moments de détente ou simplement pour embaumer votre intérieur d’une fragrance envoûtante et chaleureuse.",
+              "stripeStock": 9,
+              "epuise": false
             },
             {
               "id": "hem-cannabis-cone-10-pces-mv9q4pg876v7",
@@ -24893,7 +24923,17 @@
               "description": "Encens naturel aux cônes de cannabis, idéal pour purifier l’énergie ambiante et créer une atmosphère apaisante. Traditionnellement utilisé pour favoriser la concentration et la détente, il est parfait pour les rituels de méditation ou les moments de relaxation. Ses arômes envoûtants stimulent également la créativité et aident à libérer les tensions du quotidien.",
               "photo": "images/articles/hem-cannabis-cone-10-pces-mv9q4pg8ai9c.jpg",
               "prixBoutique": 2.5,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/8x28wQ3RM3Nr9QI5dv29K0t",
+              "stripeProductId": "prod_VRkaxWibnv4zb5",
+              "stripePriceId": "price_1UQr5cLOfCA5mATuTrbHdxJT",
+              "stripeLinkId": "plink_1UQr5dLOfCA5mATu3RC62tkJ",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Hem Cannabis cône 10 pces",
+              "stripeDesc": "Encens naturel aux cônes de cannabis, idéal pour purifier l’énergie ambiante et créer une atmosphère apaisante. Traditionnellement utilisé pour favoriser la concentration et la détente, il est parfait pour les rituels de méditation ou les moments de relaxation. Ses arômes envoûtants stimulent également la créativité et aident à libérer les tensions du quotidien.",
+              "stripeStock": 9,
+              "epuise": false
             },
             {
               "id": "hem-la-luna-cones-10-pces-mv9q6h20ni2d",
@@ -24902,7 +24942,17 @@
               "description": "Ces cônes d'encens HEM La luna sont une création raffinée inspirée des traditions ancestrales, alliant des ingrédients naturels et des fragrances subtiles pour éveiller les sens. Utilisés pour purifier l'atmosphère et favoriser la détente, ils sont souvent employés lors de rituels de méditation ou de moments de calme pour apaiser l'esprit et équilibrer les énergies. Leur combustion libère une douce fumée parfumée, idéale pour créer une ambiance sereine et propice à la concentration.",
               "photo": "images/articles/hem-la-luna-cones-10-pces-mv9q6h20hqzh.jpg",
               "prixBoutique": 2.5,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/8x23cwbkedo10g86hz29K0u",
+              "stripeProductId": "prod_VRkaFDjFFo9Coq",
+              "stripePriceId": "price_1UQr5dLOfCA5mATusoTlHQ8K",
+              "stripeLinkId": "plink_1UQr5dLOfCA5mATuogz3p0hp",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "HEM La luna cônes 10 pces",
+              "stripeDesc": "Ces cônes d'encens HEM La luna sont une création raffinée inspirée des traditions ancestrales, alliant des ingrédients naturels et des fragrances subtiles pour éveiller les sens. Utilisés pour purifier l'atmosphère et favoriser la détente, ils sont souvent employés lors de rituels de méditation ou de moments de calme pour apaiser l'esprit et équilibrer les énergies. Leur combustion libère une douce fumée parfumée, idéale pour créer une ambiance sereine et propice à la concentration.",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }
@@ -27015,7 +27065,17 @@
               "description": "Ce cadre rond représentant un Bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il est idéal pour créer une ambiance apaisante et favoriser la concentration. Parfait pour les espaces de détente ou de travail, il diffuse une énergie positive et bienveillante.",
               "photo": "images/articles/cadre-rond-bouddha-mv9mslrn2mmt.jpg",
               "prixBoutique": 17.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/28EcN6coido13skbBT29K0v",
+              "stripeProductId": "prod_VRka1fBujCx7O4",
+              "stripePriceId": "price_1UQr5dLOfCA5mATuCraB0GUk",
+              "stripeLinkId": "plink_1UQr5eLOfCA5mATuwId5AO4l",
+              "stripePrix": 18.35,
+              "stripeMode": "live",
+              "stripeNom": "Cadre rond bouddha",
+              "stripeDesc": "Ce cadre rond représentant un Bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il est idéal pour créer une ambiance apaisante et favoriser la concentration. Parfait pour les espaces de détente ou de travail, il diffuse une énergie positive et bienveillante.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "cadre-argentee-pot-de-fleur-rectanguleur-mv9muqibrcyq",
@@ -27024,7 +27084,17 @@
               "description": "Ce cadre argenté au design élégant et rectangulaire met en valeur une décoration florale raffinée, mêlant harmonie et sophistication. Idéal pour sublimer votre intérieur tout en apportant une touche d'énergie positive et apaisante, il évoque la beauté naturelle et la sérénité. Parfait pour les espaces où l'on souhaite allier esthétique et bien-être, il s'intègre aussi bien dans un cadre personnel que professionnel.",
               "photo": "images/articles/cadre-argentee-pot-de-fleur-rectanguleur-mv9muqib602s.jpg",
               "prixBoutique": 15.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZudRacoigAdbYQ49r29K0w",
+              "stripeProductId": "prod_VRkaHnl01nCSLV",
+              "stripePriceId": "price_1UQr5eLOfCA5mATuTOH6gf3c",
+              "stripeLinkId": "plink_1UQr5eLOfCA5mATuQx824dfm",
+              "stripePrix": 16.7,
+              "stripeMode": "live",
+              "stripeNom": "Cadre argentée pot de fleur rectanguleur",
+              "stripeDesc": "Ce cadre argenté au design élégant et rectangulaire met en valeur une décoration florale raffinée, mêlant harmonie et sophistication. Idéal pour sublimer votre intérieur tout en apportant une touche d'énergie positive et apaisante, il évoque la beauté naturelle et la sérénité. Parfait pour les espaces où l'on souhaite allier esthétique et bien-être, il s'intègre aussi bien dans un cadre personnel que professionnel.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cadre-rectangulaire-90x-30-mv9n32xncgig",
@@ -27033,7 +27103,17 @@
               "description": "Ce cadre rectangulaire met en valeur une élégante statuette de Bouddha en méditation, symbole de paix et de sérénité. Idéal pour décorer votre espace tout en invitant la tranquillité et l'équilibre énergétique dans votre quotidien. Parfait pour les amateurs de décoration spirituelle et de bien-être, il apporte une touche de calme et d'harmonie à votre intérieur.",
               "photo": "images/articles/cadre-rectangulaire-90x-30-mv9n32xndae5.jpg",
               "prixBoutique": 12.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w9AUaga0Bffb27lD29K0x",
+              "stripeProductId": "prod_VRka0v8pLJca1w",
+              "stripePriceId": "price_1UQr5fLOfCA5mATuDrDe1oW7",
+              "stripeLinkId": "plink_1UQr5fLOfCA5mATu891b87F7",
+              "stripePrix": 13.18,
+              "stripeMode": "live",
+              "stripeNom": "Cadre rectangulaire 90x 30",
+              "stripeDesc": "Ce cadre rectangulaire met en valeur une élégante statuette de Bouddha en méditation, symbole de paix et de sérénité. Idéal pour décorer votre espace tout en invitant la tranquillité et l'équilibre énergétique dans votre quotidien. Parfait pour les amateurs de décoration spirituelle et de bien-être, il apporte une touche de calme et d'harmonie à votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

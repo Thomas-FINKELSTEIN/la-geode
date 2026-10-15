@@ -26963,7 +26963,17 @@
               "description": "Ce cadre rond représentant un Bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il est idéal pour créer une ambiance apaisante et favoriser la concentration. Parfait pour les espaces de détente ou de travail, il diffuse une énergie positive et bienveillante.",
               "photo": "images/articles/cadre-rond-bouddha-mv9mslrn2mmt.jpg",
               "prixBoutique": 17.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/4gMcN69c6abP6EwgWd29K01",
+              "stripeProductId": "prod_VRjCx7wZyryXyv",
+              "stripePriceId": "price_1UQpjkLOfCA5mATuHvFlqIiO",
+              "stripeLinkId": "plink_1UQpjkLOfCA5mATuF2zXwxGv",
+              "stripePrix": 18.35,
+              "stripeMode": "live",
+              "stripeNom": "Cadre rond bouddha",
+              "stripeDesc": "Ce cadre rond représentant un Bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il est idéal pour créer une ambiance apaisante et favoriser la concentration. Parfait pour les espaces de détente ou de travail, il diffuse une énergie positive et bienveillante.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "cadre-argentee-pot-de-fleur-rectanguleur-mv9muqibrcyq",
@@ -26972,7 +26982,17 @@
               "description": "Ce cadre argenté au design élégant et rectangulaire met en valeur une décoration florale raffinée, mêlant harmonie et sophistication. Idéal pour sublimer votre intérieur tout en apportant une touche d'énergie positive et apaisante, il évoque la beauté naturelle et la sérénité. Parfait pour les espaces où l'on souhaite allier esthétique et bien-être, il s'intègre aussi bien dans un cadre personnel que professionnel.",
               "photo": "images/articles/cadre-argentee-pot-de-fleur-rectanguleur-mv9muqib602s.jpg",
               "prixBoutique": 15.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi4gA9c6abP1kc49r29K02",
+              "stripeProductId": "prod_VRjCMTNG04t4ts",
+              "stripePriceId": "price_1UQpjkLOfCA5mATuhpXi74z2",
+              "stripeLinkId": "plink_1UQpjlLOfCA5mATuVg5UUWdv",
+              "stripePrix": 16.7,
+              "stripeMode": "live",
+              "stripeNom": "Cadre argentée pot de fleur rectanguleur",
+              "stripeDesc": "Ce cadre argenté au design élégant et rectangulaire met en valeur une décoration florale raffinée, mêlant harmonie et sophistication. Idéal pour sublimer votre intérieur tout en apportant une touche d'énergie positive et apaisante, il évoque la beauté naturelle et la sérénité. Parfait pour les espaces où l'on souhaite allier esthétique et bien-être, il s'intègre aussi bien dans un cadre personnel que professionnel.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cadre-rectangulaire-90x-30-mv9n32xncgig",
@@ -26981,7 +27001,17 @@
               "description": "Ce cadre rectangulaire met en valeur une élégante statuette de Bouddha en méditation, symbole de paix et de sérénité. Idéal pour décorer votre espace tout en invitant la tranquillité et l'équilibre énergétique dans votre quotidien. Parfait pour les amateurs de décoration spirituelle et de bien-être, il apporte une touche de calme et d'harmonie à votre intérieur.",
               "photo": "images/articles/cadre-rectangulaire-90x-30-mv9n32xndae5.jpg",
               "prixBoutique": 12.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi9AUcoi5Vz2og8pH29K03",
+              "stripeProductId": "prod_VRjCfFX4H1lZS4",
+              "stripePriceId": "price_1UQpjlLOfCA5mATucFX8Eg3e",
+              "stripeLinkId": "plink_1UQpjlLOfCA5mATuOdUk1anS",
+              "stripePrix": 13.18,
+              "stripeMode": "live",
+              "stripeNom": "Cadre rectangulaire 90x 30",
+              "stripeDesc": "Ce cadre rectangulaire met en valeur une élégante statuette de Bouddha en méditation, symbole de paix et de sérénité. Idéal pour décorer votre espace tout en invitant la tranquillité et l'équilibre énergétique dans votre quotidien. Parfait pour les amateurs de décoration spirituelle et de bien-être, il apporte une touche de calme et d'harmonie à votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -22600,15 +22600,15 @@
               "photo": "images/articles/porte-bougie-chauffe-plat-mv8bibsfwzlk.jpg",
               "prixBoutique": 4.5,
               "stock": 9,
-              "stripe": "https://buy.stripe.com/8x24gAagafw9e6Y8pH29J1T",
+              "stripe": "https://buy.stripe.com/aFa5kE8823Nre6Y5dv29L1D",
               "stripeProductId": "prod_VRj1qYgnyj7Psn",
               "stripePriceId": "price_1UQpZ6LOfCA5mATu44eWz62S",
-              "stripeLinkId": "plink_1UQpZ6LOfCA5mATuEquYrDa2",
+              "stripeLinkId": "plink_1UR6abLOfCA5mATua0RDDtO6",
               "stripePrix": 4.91,
               "stripeMode": "live",
               "stripeNom": "Porte bougie chauffe plat",
               "stripeDesc": "Ce porte bougie en chauffe plat élégant est conçu pour allier esthétique et fonctionnalité. Fabriqué en cristal, il diffuse une lumière douce et chaleureuse tout en protégeant votre espace. Idéal pour créer une ambiance apaisante et harmonieuse, il est parfait pour les moments de détente ou de méditation, favorisant ainsi la sérénité et la concentration.",
-              "stripeStock": 7,
+              "stripeStock": 9,
               "epuise": false
             },
             {
@@ -22675,7 +22675,17 @@
               "description": "Ces bougies parfumées Dragon's Blood allient douceur et énergie positive grâce à leur parfum envoûtant. Traditionnellement utilisées pour purifier l'atmosphère et renforcer la concentration, elles sont idéales pour créer une ambiance apaisante et inspirante. Leur parfum subtil et leur flamme douce en font un choix parfait pour les moments de détente ou de méditation.",
               "photo": "images/articles/bougie-sand-de-dragon-mvapnjxk2m6d.jpg",
               "prixBoutique": 3.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY00k73Yfw9gf6axP29L1E",
+              "stripeProductId": "prod_VS0by1LT9pdQzA",
+              "stripePriceId": "price_1UR6acLOfCA5mATu9YhdTzCI",
+              "stripeLinkId": "plink_1UR6acLOfCA5mATuAzGqosKL",
+              "stripePrix": 4.29,
+              "stripeMode": "live",
+              "stripeNom": "Bougie sand de dragon",
+              "stripeDesc": "Ces bougies parfumées Dragon's Blood allient douceur et énergie positive grâce à leur parfum envoûtant. Traditionnellement utilisées pour purifier l'atmosphère et renforcer la concentration, elles sont idéales pour créer une ambiance apaisante et inspirante. Leur parfum subtil et leur flamme douce en font un choix parfait pour les moments de détente ou de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -25255,7 +25265,17 @@
               "description": "Encens de haute qualité issu des montagnes de l'Himalaya, le NAG Himalaya est réputé pour ses propriétés apaisantes et purifiantes. Traditionnellement utilisé pour créer une ambiance sereine et harmoniser les énergies, il est idéal pour les moments de méditation ou de détente. Ses arômes envoûtants aident à libérer les tensions et à favoriser une atmosphère propice à la concentration et à la paix intérieure.",
               "photo": "images/articles/nag-himalaya-cones-10-pces-mvamt33xkzdh.jpg",
               "prixBoutique": 2.5,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/aFafZi9c6do15As7lD29L1F",
+              "stripeProductId": "prod_VS0bpfzHgkBQTY",
+              "stripePriceId": "price_1UR6acLOfCA5mATuve4glw0U",
+              "stripeLinkId": "plink_1UR6acLOfCA5mATuCdJmMLRH",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "NAG Himalaya cônes 10 pces",
+              "stripeDesc": "Encens de haute qualité issu des montagnes de l'Himalaya, le NAG Himalaya est réputé pour ses propriétés apaisantes et purifiantes. Traditionnellement utilisé pour créer une ambiance sereine et harmoniser les énergies, il est idéal pour les moments de méditation ou de détente. Ses arômes envoûtants aident à libérer les tensions et à favoriser une atmosphère propice à la concentration et à la paix intérieure.",
+              "stripeStock": 7,
+              "epuise": false
             },
             {
               "id": "nag-vanilla-cones-10-pces-mvamwlgzvmg0",
@@ -25264,7 +25284,17 @@
               "description": "Encens de qualité aux notes gourmandes de vanille, ce NAG Vanilla est idéal pour créer une ambiance douce et réconfortante. Traditionnellement utilisé pour apaiser les émotions et favoriser la détente, il aide à purifier l'atmosphère tout en invitant la sérénité dans votre espace. Parfait pour les moments de méditation ou simplement pour parfumer votre intérieur avec une touche naturelle et enveloppante.",
               "photo": "images/articles/nag-vanilla-cones-10-pces-mvamwlgz8vad.jpg",
               "prixBoutique": 2.5,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/28E28sbke3Nrgf65dv29L1G",
+              "stripeProductId": "prod_VS0bk2MNHHmT0X",
+              "stripePriceId": "price_1UR6adLOfCA5mATul1Xp5Svu",
+              "stripeLinkId": "plink_1UR6adLOfCA5mATuOG16DM1R",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "NAG Vanilla cônes 10 pces",
+              "stripeDesc": "Encens de qualité aux notes gourmandes de vanille, ce NAG Vanilla est idéal pour créer une ambiance douce et réconfortante. Traditionnellement utilisé pour apaiser les émotions et favoriser la détente, il aide à purifier l'atmosphère tout en invitant la sérénité dans votre espace. Parfait pour les moments de méditation ou simplement pour parfumer votre intérieur avec une touche naturelle et enveloppante.",
+              "stripeStock": 7,
+              "epuise": false
             },
             {
               "id": "nag-forest-cones-10-pces-mvamy5jpuwwq",
@@ -25273,7 +25303,17 @@
               "description": "Encens NAG Forest, une composition parfumée inspirée par la richesse des forêts naturelles. Ces cônes d'encens sont traditionnellement utilisés pour purifier l'atmosphère, apaiser l'esprit et favoriser une ambiance de calme et de sérénité. Leur parfum enveloppant est idéal pour les moments de méditation, de relaxation ou simplement pour embellir votre intérieur.",
               "photo": "images/articles/nag-forest-cones-10-pces-mvamy5jpu32w.jpg",
               "prixBoutique": 2.5,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/7sYdRaewqgAdgf60Xf29L1H",
+              "stripeProductId": "prod_VS0bqyAiOfDJV2",
+              "stripePriceId": "price_1UR6adLOfCA5mATuH48LtKil",
+              "stripeLinkId": "plink_1UR6adLOfCA5mATudXFCPYdc",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "NAG Forest cônes 10 pces",
+              "stripeDesc": "Encens NAG Forest, une composition parfumée inspirée par la richesse des forêts naturelles. Ces cônes d'encens sont traditionnellement utilisés pour purifier l'atmosphère, apaiser l'esprit et favoriser une ambiance de calme et de sérénité. Leur parfum enveloppant est idéal pour les moments de méditation, de relaxation ou simplement pour embellir votre intérieur.",
+              "stripeStock": 7,
+              "epuise": false
             },
             {
               "id": "nag-temple-cones-10-pces-mvamzwyy9d16",
@@ -25282,7 +25322,17 @@
               "description": "Encens traditionnel NAG Temple, composé de masala aux arômes riches et naturels, parfait pour créer une ambiance apaisante et spirituelle. Utilisé dans les rituels et méditations pour favoriser la concentration, la purification de l’énergie et la connexion à l’intuition, il est aussi apprécié pour ses propriétés relaxantes et son parfum envoûtant. Idéal pour les moments de détente, les cérémonies ou simplement pour embellir votre intérieur d’une touche sacrée.",
               "photo": "images/articles/nag-temple-cones-10-pces-mvamzwyzwshe.jpg",
               "prixBoutique": 2.5,
-              "stock": 18
+              "stock": 18,
+              "stripe": "https://buy.stripe.com/eVq9AU2NIbfT5AscFX29L1I",
+              "stripeProductId": "prod_VS0b6z74wzO0b7",
+              "stripePriceId": "price_1UR6aeLOfCA5mATu1lPY521n",
+              "stripeLinkId": "plink_1UR6aeLOfCA5mATuUrHPCKEl",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "NAG Temple cônes 10 pces",
+              "stripeDesc": "Encens traditionnel NAG Temple, composé de masala aux arômes riches et naturels, parfait pour créer une ambiance apaisante et spirituelle. Utilisé dans les rituels et méditations pour favoriser la concentration, la purification de l’énergie et la connexion à l’intuition, il est aussi apprécié pour ses propriétés relaxantes et son parfum envoûtant. Idéal pour les moments de détente, les cérémonies ou simplement pour embellir votre intérieur d’une touche sacrée.",
+              "stripeStock": 18,
+              "epuise": false
             },
             {
               "id": "nag-meditation-cones-10-pces-mvan39wqfjmn",
@@ -25291,7 +25341,17 @@
               "description": "Encens spécialement conçu pour favoriser la concentration et la sérénité pendant la méditation, le NAG Méditation est une référence pour ceux qui cherchent à apaiser leur esprit et à renforcer leur énergie positive. Composé de riches ingrédients naturels, il est idéal pour créer une atmosphère propice à la détente et à la connexion intérieure. Utilisé traditionnellement pour purifier l’espace et équilibrer les émotions, cet encens est parfait pour les pratiques spirituelles et les moments de calme.",
               "photo": "images/articles/nag-meditation-cones-10-pces-mvan39wqumfr.jpg",
               "prixBoutique": 2.5,
-              "stock": 22
+              "stock": 22,
+              "stripe": "https://buy.stripe.com/28E3cw3RMabP0g87lD29L1J",
+              "stripeProductId": "prod_VS0btvj3SrS7MF",
+              "stripePriceId": "price_1UR6aeLOfCA5mATuFj9VEV11",
+              "stripeLinkId": "plink_1UR6aeLOfCA5mATuYpqsQZLD",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "NAG Méditation cônes 10 pces",
+              "stripeDesc": "Encens spécialement conçu pour favoriser la concentration et la sérénité pendant la méditation, le NAG Méditation est une référence pour ceux qui cherchent à apaiser leur esprit et à renforcer leur énergie positive. Composé de riches ingrédients naturels, il est idéal pour créer une atmosphère propice à la détente et à la connexion intérieure. Utilisé traditionnellement pour purifier l’espace et équilibrer les émotions, cet encens est parfait pour les pratiques spirituelles et les moments de calme.",
+              "stripeStock": 22,
+              "epuise": false
             },
             {
               "id": "nag-champa-cones-10-pces-mvan5z1a9dw5",
@@ -25300,7 +25360,17 @@
               "description": "Les cônes d'encens NAG Champa sont une référence appréciée pour leur parfum envoûtant et leur qualité naturelle. Traditionnellement utilisés pour purifier l'atmosphère et créer une ambiance apaisante, ils sont souvent associés à des propriétés relaxantes et méditatives. Idéal pour les rituels de bien-être, les cérémonies ou simplement pour parfumer votre intérieur avec une touche d'exotisme.",
               "photo": "images/articles/nag-champa-cones-10-pces-mvan5z1a7d0q.jpg",
               "prixBoutique": 2.5,
-              "stock": 10
+              "stock": 10,
+              "stripe": "https://buy.stripe.com/9B6cN673Y1FjaUM7lD29L1K",
+              "stripeProductId": "prod_VS0bA1HQzms3T0",
+              "stripePriceId": "price_1UR6afLOfCA5mATuoO6fkS4R",
+              "stripeLinkId": "plink_1UR6afLOfCA5mATu9h6wtGDB",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "NAG Champa cônes 10 pces",
+              "stripeDesc": "Les cônes d'encens NAG Champa sont une référence appréciée pour leur parfum envoûtant et leur qualité naturelle. Traditionnellement utilisés pour purifier l'atmosphère et créer une ambiance apaisante, ils sont souvent associés à des propriétés relaxantes et méditatives. Idéal pour les rituels de bien-être, les cérémonies ou simplement pour parfumer votre intérieur avec une touche d'exotisme.",
+              "stripeStock": 10,
+              "epuise": false
             },
             {
               "id": "nag-mantra-cones-10pces-mvan9j62n2op",
@@ -25309,7 +25379,17 @@
               "description": "Les cônes NAG Mantra sont des encens traditionnels aux arômes envoûtants, conçus pour purifier l'atmosphère et apporter une énergie positive. Utilisés depuis des siècles, ils sont réputés pour favoriser la concentration, la sérénité et l'équilibre émotionnel. Parfaits pour les rituels, la méditation ou simplement pour embellir votre intérieur d'une douce fragrance apaisante.",
               "photo": "images/articles/nag-mantra-cones-10pces-mvan9j62ekin.jpg",
               "prixBoutique": 2.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ14oewqabP4wo49r29L1L",
+              "stripeProductId": "prod_VS0bV2ird84lRh",
+              "stripePriceId": "price_1UR6afLOfCA5mATuSUcr37xD",
+              "stripeLinkId": "plink_1UR6afLOfCA5mATuhK1ZLBQt",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "NAG Mantra cônes 10pces",
+              "stripeDesc": "Les cônes NAG Mantra sont des encens traditionnels aux arômes envoûtants, conçus pour purifier l'atmosphère et apporter une énergie positive. Utilisés depuis des siècles, ils sont réputés pour favoriser la concentration, la sérénité et l'équilibre émotionnel. Parfaits pour les rituels, la méditation ou simplement pour embellir votre intérieur d'une douce fragrance apaisante.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "nag-chandan-cones-10-pces-mvanbp2ze91b",
@@ -25318,7 +25398,17 @@
               "description": "Encens traditionnel aux notes boisées et chaudes, le NAG Chandan est réputé pour ses propriétés apaisantes et purifiantes. Utilisé depuis des siècles pour créer une ambiance sereine et équilibrante, il est idéal pour la méditation, la relaxation ou simplement pour embaumer les espaces de vie. Ses arômes enveloppants favorisent la concentration et aident à apaiser les émotions, tout en invitant à une connexion harmonieuse avec l’énergie environnante.",
               "photo": "images/articles/nag-chandan-cones-10-pces-mvanbp2z7uud.jpg",
               "prixBoutique": 2.5,
-              "stock": 10
+              "stock": 10,
+              "stripe": "https://buy.stripe.com/4gMbJ23RMabP8ME35n29L1M",
+              "stripeProductId": "prod_VS0bncPrQf3n8P",
+              "stripePriceId": "price_1UR6agLOfCA5mATuTzVn33gB",
+              "stripeLinkId": "plink_1UR6agLOfCA5mATuJ9iwSPkI",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "NAG Chandan cônes 10 pces",
+              "stripeDesc": "Encens traditionnel aux notes boisées et chaudes, le NAG Chandan est réputé pour ses propriétés apaisantes et purifiantes. Utilisé depuis des siècles pour créer une ambiance sereine et équilibrante, il est idéal pour la méditation, la relaxation ou simplement pour embaumer les espaces de vie. Ses arômes enveloppants favorisent la concentration et aident à apaiser les émotions, tout en invitant à une connexion harmonieuse avec l’énergie environnante.",
+              "stripeStock": 10,
+              "epuise": false
             },
             {
               "id": "nag-darshan-cones-10-pces-mvandbfxaj9f",
@@ -25327,7 +25417,17 @@
               "description": "Encens traditionnel sous forme de cônes, le NAG Darshan est une référence pour purifier l’énergie des espaces et favoriser la concentration. Utilisé depuis des siècles dans les rituels et les pratiques spirituelles, il aide à apaiser l’esprit et à créer une atmosphère sereine. Parfait pour les moments de méditation ou pour embellir votre intérieur d’une douce fragrance envoûtante.",
               "photo": "images/articles/nag-darshan-cones-10-pces-mvandbfxjdl1.jpg",
               "prixBoutique": 2.5,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/7sYeVecoido11kcaxP29L1N",
+              "stripeProductId": "prod_VS0bh3fdTiaGsl",
+              "stripePriceId": "price_1UR6agLOfCA5mATuVtUsasbq",
+              "stripeLinkId": "plink_1UR6agLOfCA5mATuCtgeDGuj",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "NAG Darshan cônes 10 pces",
+              "stripeDesc": "Encens traditionnel sous forme de cônes, le NAG Darshan est une référence pour purifier l’énergie des espaces et favoriser la concentration. Utilisé depuis des siècles dans les rituels et les pratiques spirituelles, il aide à apaiser l’esprit et à créer une atmosphère sereine. Parfait pour les moments de méditation ou pour embellir votre intérieur d’une douce fragrance envoûtante.",
+              "stripeStock": 11,
+              "epuise": false
             },
             {
               "id": "hem-lavande-10-pces-mvanegpujp3r",
@@ -25336,7 +25436,17 @@
               "description": "Ces cônes d'encens HEM Lavande offrent une fragrance douce et apaisante, idéale pour créer une ambiance relaxante et harmonieuse. Traditionnellement utilisés en lithothérapie et aromathérapie, ils sont réputés pour favoriser la détente, apaiser les tensions nerveuses et équilibrer les émotions. Parfaits pour la méditation, la décoration ou les rituels du quotidien, ils diffusent une énergie calme et bienveillante.",
               "photo": "images/articles/hem-lavande-10-pces-mvanegpup34r.jpg",
               "prixBoutique": 2.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUaEY1JE2Jn2oggWd29L1O",
+              "stripeProductId": "prod_VS0b9G2eOz1ihu",
+              "stripePriceId": "price_1UR6ahLOfCA5mATue2MxWSad",
+              "stripeLinkId": "plink_1UR6ahLOfCA5mATuREliYS12",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Hem Lavande 10 pces",
+              "stripeDesc": "Ces cônes d'encens HEM Lavande offrent une fragrance douce et apaisante, idéale pour créer une ambiance relaxante et harmonieuse. Traditionnellement utilisés en lithothérapie et aromathérapie, ils sont réputés pour favoriser la détente, apaiser les tensions nerveuses et équilibrer les émotions. Parfaits pour la méditation, la décoration ou les rituels du quotidien, ils diffusent une énergie calme et bienveillante.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "hem-lotus-10-pces-mvang5azcbsq",
@@ -25345,7 +25455,17 @@
               "description": "Encens en cônes au parfum délicat inspiré par le lotus, ces cônes HEM Lotus sont parfaits pour créer une ambiance apaisante et spirituelle. Traditionnellement utilisés pour purifier l’énergie, ils favorisent la sérénité et aident à recentrer l’esprit lors de méditation ou de moments de détente. Leur fragrance douce et enveloppante en fait un allié idéal pour les rituels de bien-être et la décoration d’intérieur.",
               "photo": "images/articles/hem-lotus-10-pces-mvang5azl9pd.jpg",
               "prixBoutique": 2.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/4gM8wQ2NIbfT3sk35n29L1P",
+              "stripeProductId": "prod_VS0bualT2QeAw3",
+              "stripePriceId": "price_1UR6ahLOfCA5mATuXUMT7Sxs",
+              "stripeLinkId": "plink_1UR6ahLOfCA5mATu2UN6uHe6",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Hem Lotus 10 pces",
+              "stripeDesc": "Encens en cônes au parfum délicat inspiré par le lotus, ces cônes HEM Lotus sont parfaits pour créer une ambiance apaisante et spirituelle. Traditionnellement utilisés pour purifier l’énergie, ils favorisent la sérénité et aident à recentrer l’esprit lors de méditation ou de moments de détente. Leur fragrance douce et enveloppante en fait un allié idéal pour les rituels de bien-être et la décoration d’intérieur.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "hem-frangipane-cones-10-pces-mvani003kp0m",
@@ -25354,7 +25474,17 @@
               "description": "Ces cônes d'encens HEM Frangipane sont un mélange traditionnel d'ingrédients naturels, dont des essences et des fragrances créées pour purifier l'atmosphère. Leur parfum envoûtant est souvent utilisé pour favoriser la détente, apaiser les émotions et inviter une énergie positive dans les espaces de vie. Idéal pour les rituels de bien-être ou simplement pour embellir vos moments de méditation et de relaxation.",
               "photo": "images/articles/hem-frangipane-cones-10-pces-mvani003aa62.jpg",
               "prixBoutique": 2.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/dRm4gA882cjXbYQ35n29L1Q",
+              "stripeProductId": "prod_VS0bE2agXbMJ4W",
+              "stripePriceId": "price_1UR6aiLOfCA5mATuw2TfbFjc",
+              "stripeLinkId": "plink_1UR6aiLOfCA5mATuHNtvM15M",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Hem Frangipane cônes 10 pces",
+              "stripeDesc": "Ces cônes d'encens HEM Frangipane sont un mélange traditionnel d'ingrédients naturels, dont des essences et des fragrances créées pour purifier l'atmosphère. Leur parfum envoûtant est souvent utilisé pour favoriser la détente, apaiser les émotions et inviter une énergie positive dans les espaces de vie. Idéal pour les rituels de bien-être ou simplement pour embellir vos moments de méditation et de relaxation.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "hem-sandal-cones-10-pces-mvanjtb6kpo0",
@@ -25363,7 +25493,17 @@
               "description": "Encens traditionnel sous forme de cônes, le HEM Sandal est une référence appréciée pour ses propriétés purificatrices et apaisantes. Utilisé pour créer une atmosphère sereine et équilibrante, il est idéal pour les rituels de méditation, les espaces de détente ou encore pour accompagner les moments de réflexion. Ses arômes envoûtants aident à libérer les tensions et à favoriser une ambiance harmonieuse.",
               "photo": "images/articles/hem-sandal-cones-10-pces-mvanjtb7t21z.jpg",
               "prixBoutique": 2.5,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/cNifZiagaes5gf6fS929L1R",
+              "stripeProductId": "prod_VS0bkp0DL5gq4m",
+              "stripePriceId": "price_1UR6aiLOfCA5mATuOGB0XzOq",
+              "stripeLinkId": "plink_1UR6aiLOfCA5mATuyN3VRb3V",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Hem Sandal cônes 10 pces",
+              "stripeDesc": "Encens traditionnel sous forme de cônes, le HEM Sandal est une référence appréciée pour ses propriétés purificatrices et apaisantes. Utilisé pour créer une atmosphère sereine et équilibrante, il est idéal pour les rituels de méditation, les espaces de détente ou encore pour accompagner les moments de réflexion. Ses arômes envoûtants aident à libérer les tensions et à favoriser une ambiance harmonieuse.",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "satya-black-champa-cones-24-pces-mvanp0o3zgl2",
@@ -25372,7 +25512,17 @@
               "description": "Les cônes SATYA Black champa sont des encens traditionnels aux propriétés apaisantes et purifiantes. Utilisés pour créer une ambiance relaxante et favoriser la concentration, ils sont souvent employés en méditation ou pour diffuser une énergie positive dans un espace. Leur parfum envoûtant est idéal pour apaiser les émotions et renforcer le bien-être au quotidien.",
               "photo": "images/articles/satya-black-champa-cones-24-pces-mvanp0o3k3gu.jpg",
               "prixBoutique": 4.5,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/28EaEY4VQbfTgf6axP29L1S",
+              "stripeProductId": "prod_VS0bTvE4JHYax3",
+              "stripePriceId": "price_1UR6ajLOfCA5mATuO927Oj1G",
+              "stripeLinkId": "plink_1UR6ajLOfCA5mATu6k7NuNhs",
+              "stripePrix": 4.91,
+              "stripeMode": "live",
+              "stripeNom": "SATYA Black champa cônes 24 pces",
+              "stripeDesc": "Les cônes SATYA Black champa sont des encens traditionnels aux propriétés apaisantes et purifiantes. Utilisés pour créer une ambiance relaxante et favoriser la concentration, ils sont souvent employés en méditation ou pour diffuser une énergie positive dans un espace. Leur parfum envoûtant est idéal pour apaiser les émotions et renforcer le bien-être au quotidien.",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "satya-citronnelle-24-pces-mvanqfrhcg7e",
@@ -25381,7 +25531,17 @@
               "description": "",
               "photo": "images/articles/satya-citronnelle-24-pces-mvanqfrh35ij.jpg",
               "prixBoutique": 4.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYfZi3RM6ZD8ME7lD29L1T",
+              "stripeProductId": "prod_VS0b1e2bpjnSlM",
+              "stripePriceId": "price_1UR6ajLOfCA5mATucfVEMt2f",
+              "stripeLinkId": "plink_1UR6ajLOfCA5mATunwkfPGcc",
+              "stripePrix": 4.91,
+              "stripeMode": "live",
+              "stripeNom": "SATYA Citronnelle 24 pces",
+              "stripeDesc": "",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

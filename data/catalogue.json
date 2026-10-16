@@ -25246,17 +25246,16 @@
               "description": "Encens de haute qualité issu des montagnes de l'Himalaya, le NAG Himalaya est réputé pour ses propriétés apaisantes et purifiantes. Traditionnellement utilisé pour créer une ambiance sereine et harmoniser les énergies, il est idéal pour les moments de méditation ou de détente. Ses arômes envoûtants aident à libérer les tensions et à favoriser une atmosphère propice à la concentration et à la paix intérieure.",
               "photo": "images/articles/nag-himalaya-cones-10-pces-mvamt33xkzdh.jpg",
               "prixBoutique": 2.5,
-              "stock": 7,
-              "stripe": "https://buy.stripe.com/28EeVefAu4Rv1kc7lD29K3j",
-              "stripeProductId": "prod_VRzKLClNyckUlZ",
-              "stripePriceId": "price_1UR5LQLOfCA5mATueL5YUs2N",
-              "stripeLinkId": "plink_1UR5LQLOfCA5mATuveH1WMT6",
-              "stripePrix": 2.85,
-              "stripeMode": "live",
-              "stripeNom": "NAG Himalaya cônes 10 pces",
-              "stripeDesc": "Encens de haute qualité issu des montagnes de l'Himalaya, le NAG Himalaya est réputé pour ses propriétés apaisantes et purifiantes. Traditionnellement utilisé pour créer une ambiance sereine et harmoniser les énergies, il est idéal pour les moments de méditation ou de détente. Ses arômes envoûtants aident à libérer les tensions et à favoriser une atmosphère propice à la concentration et à la paix intérieure.",
-              "stripeStock": 7,
-              "epuise": false
+              "stock": 7
+            },
+            {
+              "id": "nag-vanilla-cones-10-pces-mvamwlgzvmg0",
+              "nom": "NAG Vanilla cônes 10 pces",
+              "prix": 2.85,
+              "description": "Encens de qualité aux notes gourmandes de vanille, ce NAG Vanilla est idéal pour créer une ambiance douce et réconfortante. Traditionnellement utilisé pour apaiser les émotions et favoriser la détente, il aide à purifier l'atmosphère tout en invitant la sérénité dans votre espace. Parfait pour les moments de méditation ou simplement pour parfumer votre intérieur avec une touche naturelle et enveloppante.",
+              "photo": "images/articles/nag-vanilla-cones-10-pces-mvamwlgz8vad.jpg",
+              "prixBoutique": 2.5,
+              "stock": 7
             }
           ]
         }

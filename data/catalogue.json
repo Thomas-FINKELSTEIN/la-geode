@@ -28148,17 +28148,16 @@
               "description": "Ce cadre représentant un bouddha en pierre naturelle apporte une touche spirituelle et apaisante à votre intérieur. Associé traditionnellement à la sérénité et à l'équilibre énergétique, il est idéal pour créer une ambiance de calme et de bien-être dans votre espace de vie. Parfait pour méditer, décorer ou simplement profiter d'une énergie positive au quotidien.",
               "photo": "images/articles/cadre-bouddha-28x28-cm-mvb2dqph4w1b.jpg",
               "prixBoutique": 4.5,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/4gM9AU73YcjX0g80Xf29O19",
-              "stripeProductId": "prod_VS6MnrzhLMpQbU",
-              "stripePriceId": "price_1URC9VLOfCA5mATuouyqmj2V",
-              "stripeLinkId": "plink_1URC9WLOfCA5mATuA7YYqjMl",
-              "stripePrix": 4.91,
-              "stripeMode": "live",
-              "stripeNom": "Cadre bouddha 28x28 cm",
-              "stripeDesc": "Ce cadre représentant un bouddha en pierre naturelle apporte une touche spirituelle et apaisante à votre intérieur. Associé traditionnellement à la sérénité et à l'équilibre énergétique, il est idéal pour créer une ambiance de calme et de bien-être dans votre espace de vie. Parfait pour méditer, décorer ou simplement profiter d'une énergie positive au quotidien.",
-              "stripeStock": 1,
-              "epuise": false
+              "stock": 1
+            },
+            {
+              "id": "cadre-bouddha-28x28-cm-mvb2f1f1pk79",
+              "nom": "Cadre bouddha 28x28 cm",
+              "prix": 4.91,
+              "description": "Ce cadre décoratif représentant une statuette bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il favorise un environnement apaisant et propice à la détente. Idéal pour les espaces de relaxation ou de travail, il diffuse une énergie positive et bienveillante.",
+              "photo": "images/articles/cadre-bouddha-28x28-cm-mvb2f1f1mgn9.jpg",
+              "prixBoutique": 4.5,
+              "stock": 3
             }
           ]
         }

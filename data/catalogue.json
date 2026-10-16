@@ -27225,7 +27225,17 @@
               "description": "Ce décor en cuivre représentant Ganesh incarne une énergie positive et une protection spirituelle selon les traditions. Souvent utilisé pour attirer la prospérité et la sagesse, il apporte une touche sacrée et apaisante à votre intérieur. Parfait pour les amateurs de symboles spirituels et de décoration inspirante.",
               "photo": "images/articles/decor-en-cuivre-ganesh-mvb2kaom6odo.jpg",
               "prixBoutique": 38.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI00k5ZU3Nrfb27lD29O1j",
+              "stripeProductId": "prod_VS6VEJQtPgAUQG",
+              "stripePriceId": "price_1URCITLOfCA5mATut4mXGlPi",
+              "stripeLinkId": "plink_1URCITLOfCA5mATuKvHTEJhC",
+              "stripePrix": 40.26,
+              "stripeMode": "live",
+              "stripeNom": "Décor en cuivre ganesh",
+              "stripeDesc": "Ce décor en cuivre représentant Ganesh incarne une énergie positive et une protection spirituelle selon les traditions. Souvent utilisé pour attirer la prospérité et la sagesse, il apporte une touche sacrée et apaisante à votre intérieur. Parfait pour les amateurs de symboles spirituels et de décoration inspirante.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "decoration-doree-sur-socle-noir-mvb2pux97b5h",
@@ -27234,7 +27244,17 @@
               "description": "Cette décoration dorée aux cercles entrelacés apporte une touche d'élégance et de raffinement à votre intérieur. Selon la lithothérapie et les croyances énergétiques, les formes circulaires sont souvent associées à l'harmonie, à la continuité et à la protection. Elle peut aussi symboliser l'équilibre et favoriser une ambiance apaisante et positive dans votre espace de vie.",
               "photo": "images/articles/decoration-doree-sur-socle-noir-mvb2pux9qxsm.jpg",
               "prixBoutique": 35.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A28scoifw95As5dv29O1k",
+              "stripeProductId": "prod_VS6VWJ98yZDgg4",
+              "stripePriceId": "price_1URCIULOfCA5mATuaVlDu5jD",
+              "stripeLinkId": "plink_1URCIULOfCA5mATu2tNqWDv0",
+              "stripePrix": 37.37,
+              "stripeMode": "live",
+              "stripeNom": "Décoration dorée sur socle noir",
+              "stripeDesc": "Cette décoration dorée aux cercles entrelacés apporte une touche d'élégance et de raffinement à votre intérieur. Selon la lithothérapie et les croyances énergétiques, les formes circulaires sont souvent associées à l'harmonie, à la continuité et à la protection. Elle peut aussi symboliser l'équilibre et favoriser une ambiance apaisante et positive dans votre espace de vie.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -28166,7 +28186,17 @@
               "description": "Ce cadre représentant un bouddha en pierre naturelle apporte une touche spirituelle et apaisante à votre intérieur. Associé traditionnellement à la sérénité et à l'équilibre énergétique, il est idéal pour créer une ambiance de calme et de bien-être dans votre espace de vie. Parfait pour méditer, décorer ou simplement profiter d'une énergie positive au quotidien.",
               "photo": "images/articles/cadre-bouddha-28x28-cm-mvb2dqph4w1b.jpg",
               "prixBoutique": 4.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZudRa3RM6ZD4wo7lD29O1l",
+              "stripeProductId": "prod_VS6VFr7FJiNP31",
+              "stripePriceId": "price_1URCIVLOfCA5mATu4k6Y5p81",
+              "stripeLinkId": "plink_1URCIVLOfCA5mATuWjh5v4SN",
+              "stripePrix": 4.91,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha 28x28 cm",
+              "stripeDesc": "Ce cadre représentant un bouddha en pierre naturelle apporte une touche spirituelle et apaisante à votre intérieur. Associé traditionnellement à la sérénité et à l'équilibre énergétique, il est idéal pour créer une ambiance de calme et de bien-être dans votre espace de vie. Parfait pour méditer, décorer ou simplement profiter d'une énergie positive au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cadre-bouddha-28x28-cm-mvb2f1f1pk79",
@@ -28175,7 +28205,17 @@
               "description": "Ce cadre décoratif représentant une statuette bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il favorise un environnement apaisant et propice à la détente. Idéal pour les espaces de relaxation ou de travail, il diffuse une énergie positive et bienveillante.",
               "photo": "images/articles/cadre-bouddha-28x28-cm-mvb2f1f1mgn9.jpg",
               "prixBoutique": 4.5,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/8x27sMgEydo14wo6hz29O1m",
+              "stripeProductId": "prod_VS6VDeDpwb2Om5",
+              "stripePriceId": "price_1URCIVLOfCA5mATuAyWoG1se",
+              "stripeLinkId": "plink_1URCIWLOfCA5mATu0nanjbtW",
+              "stripePrix": 4.91,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha 28x28 cm",
+              "stripeDesc": "Ce cadre décoratif représentant une statuette bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il favorise un environnement apaisant et propice à la détente. Idéal pour les espaces de relaxation ou de travail, il diffuse une énergie positive et bienveillante.",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "cadre-bouddha-peint-a-la-main-100x50-cm-mvb2i7xiujo6",
@@ -28184,7 +28224,17 @@
               "description": "Ce cadre représentant un bouddha peint à la main apporte une touche apaisante et spirituelle à votre intérieur. Associé à la sérénité et à la méditation, il est idéal pour créer une ambiance harmonieuse et propice à la détente. Parfait pour les espaces de relaxation ou les lieux de travail, il diffuse une énergie positive et favorise la concentration.",
               "photo": "images/articles/cadre-bouddha-peint-a-la-main-100x50-cm-mvb2i7xid9fb.jpg",
               "prixBoutique": 72.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY14oewq2Jngf649r29O1n",
+              "stripeProductId": "prod_VS6VPOiLDjXFzy",
+              "stripePriceId": "price_1URCIWLOfCA5mATux3MfFZ4k",
+              "stripeLinkId": "plink_1URCIWLOfCA5mATuUyaF6HC1",
+              "stripePrix": 75.41,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha peint a la main 100x50 cm",
+              "stripeDesc": "Ce cadre représentant un bouddha peint à la main apporte une touche apaisante et spirituelle à votre intérieur. Associé à la sérénité et à la méditation, il est idéal pour créer une ambiance harmonieuse et propice à la détente. Parfait pour les espaces de relaxation ou les lieux de travail, il diffuse une énergie positive et favorise la concentration.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

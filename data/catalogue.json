@@ -28148,7 +28148,17 @@
               "description": "Ce cadre représentant un bouddha en pierre naturelle apporte une touche spirituelle et apaisante à votre intérieur. Associé traditionnellement à la sérénité et à l'équilibre énergétique, il est idéal pour créer une ambiance de calme et de bien-être dans votre espace de vie. Parfait pour méditer, décorer ou simplement profiter d'une énergie positive au quotidien.",
               "photo": "images/articles/cadre-bouddha-28x28-cm-mvb2dqph4w1b.jpg",
               "prixBoutique": 4.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNidRaewqbfTe6Y7lD29O1a",
+              "stripeProductId": "prod_VS6NzgzU9WrFO4",
+              "stripePriceId": "price_1URCALLOfCA5mATunVj5Q59l",
+              "stripeLinkId": "plink_1URCALLOfCA5mATuIpbmFJ3Z",
+              "stripePrix": 4.91,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha 28x28 cm",
+              "stripeDesc": "Ce cadre représentant un bouddha en pierre naturelle apporte une touche spirituelle et apaisante à votre intérieur. Associé traditionnellement à la sérénité et à l'équilibre énergétique, il est idéal pour créer une ambiance de calme et de bien-être dans votre espace de vie. Parfait pour méditer, décorer ou simplement profiter d'une énergie positive au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cadre-bouddha-28x28-cm-mvb2f1f1pk79",
@@ -28157,7 +28167,17 @@
               "description": "Ce cadre décoratif représentant une statuette bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il favorise un environnement apaisant et propice à la détente. Idéal pour les espaces de relaxation ou de travail, il diffuse une énergie positive et bienveillante.",
               "photo": "images/articles/cadre-bouddha-28x28-cm-mvb2f1f1mgn9.jpg",
               "prixBoutique": 4.5,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/cNi7sM2NI5Vz8ME5dv29O1b",
+              "stripeProductId": "prod_VS6NLjViY3mizR",
+              "stripePriceId": "price_1URCALLOfCA5mATu3Znwl5DG",
+              "stripeLinkId": "plink_1URCAMLOfCA5mATu4Gvm1tJZ",
+              "stripePrix": 4.91,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha 28x28 cm",
+              "stripeDesc": "Ce cadre décoratif représentant une statuette bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Associé traditionnellement à la paix et à la méditation, il favorise un environnement apaisant et propice à la détente. Idéal pour les espaces de relaxation ou de travail, il diffuse une énergie positive et bienveillante.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

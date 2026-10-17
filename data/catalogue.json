@@ -25885,17 +25885,16 @@
               "description": "L’Attrape-rêve blanc est un objet décoratif et spirituel aux influences amérindiennes, conçu pour protéger le sommeil et filtrer les mauvaises énergies. Ses fils et plumes légères symbolisent un passage apaisant vers des rêves paisibles et positifs. Idéal pour la chambre ou comme élément de décoration bienveillante, il apporte harmonie et sérénité à votre espace.",
               "photo": "images/articles/attrape-reve-blanc-mvc2rnorbspi.jpg",
               "prixBoutique": 6.2,
-              "stock": 2,
-              "stripe": "https://buy.stripe.com/5kQ00kfAu1Fj3skbBT29P19",
-              "stripeProductId": "prod_VSMm5ZcWjDOwiH",
-              "stripePriceId": "price_1URS3GLOfCA5mATukz5aX78n",
-              "stripeLinkId": "plink_1URS3GLOfCA5mATuGcrAxf9v",
-              "stripePrix": 6.67,
-              "stripeMode": "live",
-              "stripeNom": "Attrape - rêve blanc",
-              "stripeDesc": "L’Attrape-rêve blanc est un objet décoratif et spirituel aux influences amérindiennes, conçu pour protéger le sommeil et filtrer les mauvaises énergies. Ses fils et plumes légères symbolisent un passage apaisant vers des rêves paisibles et positifs. Idéal pour la chambre ou comme élément de décoration bienveillante, il apporte harmonie et sérénité à votre espace.",
-              "stripeStock": 2,
-              "epuise": false
+              "stock": 2
+            },
+            {
+              "id": "attrape-reve-marron-mvc38ubptixn",
+              "nom": "Attrape - rêve marron",
+              "prix": 3.88,
+              "description": "Attrape-rêve traditionnel aux teintes marron et blanches, orné de plumes douces pour capturer les mauvais rêves et laisser passer les bons. Selon les croyances amérindiennes, il protège le sommeil et apporte une énergie apaisante et positive. Parfait pour décorer une chambre ou un espace de détente, il symbolise aussi la connexion avec la nature et la sérénité.",
+              "photo": "images/articles/attrape-reve-marron-mvc38ubpaz56.jpg",
+              "prixBoutique": 3.5,
+              "stock": 2
             }
           ]
         },

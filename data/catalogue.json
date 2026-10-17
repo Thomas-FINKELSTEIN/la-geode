@@ -14992,15 +14992,15 @@
               "photo": "images/articles/pendentif-labradorite-muoa7usuxrc5.jpg",
               "prixBoutique": 19.9,
               "stock": 14,
-              "stripe": "https://buy.stripe.com/aFabJ21JEcjX3skbBT29P0O",
+              "stripe": "https://buy.stripe.com/cNi9AU2NIdo15AsbBT29Q1j",
               "stripeProductId": "prod_VM92xGDnvrGNKT",
               "stripePriceId": "price_1ULQkGLOfCA5mATuqLSFfK1t",
-              "stripeLinkId": "plink_1UREWKLOfCA5mATuxZDADrIp",
+              "stripeLinkId": "plink_1URTdRLOfCA5mATuWiTukAr6",
               "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendentif labradorite",
               "stripeDesc": "Ce pendentif en labradorite capture la lumière pour révéler ses reflets bleutés et verts, créant un jeu de couleurs unique à chaque mouvement. La labradorite est souvent appelée la pierre de magie et de mystère, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Portée en bijou, elle est appréciée pour son influence apaisante sur les émotions et son pouvoir de stimulation de la créativité.",
-              "stripeStock": 15,
+              "stripeStock": 14,
               "epuise": false
             },
             {
@@ -15423,9 +15423,9 @@
               "stripeDesc": "Ce bracelet en Améthyste dark est un allié précieux pour apaiser l'esprit et favoriser la sérénité au quotidien. Connue pour ses vertus calmantes, cette pierre favorise la concentration et aide à dissoudre les tensions émotionnelles. Parfaite pour une utilisation en méditation ou simplement portée comme accessoire bien-être, elle apporte une énergie apaisante et équilibrante. Elle accompagne le deuil, et vous aide dans vos addictions.",
               "stripePriceId": "price_1U9gO3LOfCA5mATu28qxzWsR",
               "stripePrix": 16.7,
-              "stripeLinkId": "plink_1UJyQRLOfCA5mATulBGtjko4",
-              "stripe": "https://buy.stripe.com/9B6eVedsm1Fj7IA21j28l2f",
-              "stripeStock": 3,
+              "stripeLinkId": "plink_1URTdRLOfCA5mATuLLsWr8Er",
+              "stripe": "https://buy.stripe.com/6oUdRa9c64Rvd2UcFX29Q1k",
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -25885,7 +25885,17 @@
               "description": "L’Attrape-rêve blanc est un objet décoratif et spirituel aux influences amérindiennes, conçu pour protéger le sommeil et filtrer les mauvaises énergies. Ses fils et plumes légères symbolisent un passage apaisant vers des rêves paisibles et positifs. Idéal pour la chambre ou comme élément de décoration bienveillante, il apporte harmonie et sérénité à votre espace.",
               "photo": "images/articles/attrape-reve-blanc-mvc2rnorbspi.jpg",
               "prixBoutique": 6.2,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/5kQ7sM3RM97L7IA9tL29Q1l",
+              "stripeProductId": "prod_VSOQO4Xt0dh8pG",
+              "stripePriceId": "price_1URTdSLOfCA5mATuhkNaKSll",
+              "stripeLinkId": "plink_1URTdSLOfCA5mATu4YdmhKsF",
+              "stripePrix": 6.67,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve blanc",
+              "stripeDesc": "L’Attrape-rêve blanc est un objet décoratif et spirituel aux influences amérindiennes, conçu pour protéger le sommeil et filtrer les mauvaises énergies. Ses fils et plumes légères symbolisent un passage apaisant vers des rêves paisibles et positifs. Idéal pour la chambre ou comme élément de décoration bienveillante, il apporte harmonie et sérénité à votre espace.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "attrape-reve-marron-mvc38ubptixn",
@@ -25894,7 +25904,17 @@
               "description": "Attrape-rêve traditionnel aux teintes marron et blanches, orné de plumes douces pour capturer les mauvais rêves et laisser passer les bons. Selon les croyances amérindiennes, il protège le sommeil et apporte une énergie apaisante et positive. Parfait pour décorer une chambre ou un espace de détente, il symbolise aussi la connexion avec la nature et la sérénité.",
               "photo": "images/articles/attrape-reve-marron-mvc38ubpaz56.jpg",
               "prixBoutique": 3.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/14AfZi73Y0Bfgf6fS929Q1m",
+              "stripeProductId": "prod_VSOQ3WRJODmghe",
+              "stripePriceId": "price_1URTdTLOfCA5mATutVyWTIKy",
+              "stripeLinkId": "plink_1URTdTLOfCA5mATumVmHgQKW",
+              "stripePrix": 3.88,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve marron",
+              "stripeDesc": "Attrape-rêve traditionnel aux teintes marron et blanches, orné de plumes douces pour capturer les mauvais rêves et laisser passer les bons. Selon les croyances amérindiennes, il protège le sommeil et apporte une énergie apaisante et positive. Parfait pour décorer une chambre ou un espace de détente, il symbolise aussi la connexion avec la nature et la sérénité.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "attrape-reve-beige-mvc3c4esm2re",
@@ -25903,7 +25923,17 @@
               "description": "L'attrape-rêve beige est un objet décoratif et spirituel aux influences amérindiennes, conçu pour protéger le sommeil et apaiser l'esprit. Ses plumes légères et son cercle tissé symbolisent la capture des mauvais rêves tout en laissant passer les bons. Idéal pour une ambiance paisible et harmonieuse dans votre chambre ou espace de détente.",
               "photo": "images/articles/attrape-reve-beige-mvc3c4esyrx0.jpg",
               "prixBoutique": 3.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi7sMdsm83Hfb2fS929Q1n",
+              "stripeProductId": "prod_VSOQGdhQp6FFfw",
+              "stripePriceId": "price_1URTdTLOfCA5mATuRMNCNPQq",
+              "stripeLinkId": "plink_1URTdULOfCA5mATudCjY1NMK",
+              "stripePrix": 3.88,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve beige",
+              "stripeDesc": "L'attrape-rêve beige est un objet décoratif et spirituel aux influences amérindiennes, conçu pour protéger le sommeil et apaiser l'esprit. Ses plumes légères et son cercle tissé symbolisent la capture des mauvais rêves tout en laissant passer les bons. Idéal pour une ambiance paisible et harmonieuse dans votre chambre ou espace de détente.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rose-mvc3jozbv8y4",
@@ -25912,7 +25942,17 @@
               "description": "Cet attrape-rêve rose, élégant et raffiné, est un objet décoratif aux couleurs apaisantes. Selon les croyances traditionnelles, il est censé protéger les rêves, filtrer les mauvaises énergies et favoriser un sommeil paisible et réparateur. Suspendu près du lit ou dans un espace de détente, il apporte une touche de douceur et d’harmonie à votre intérieur.",
               "photo": "images/articles/attrape-reve-rose-mvc3jozciw48.jpg",
               "prixBoutique": 3.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZuaEY0FA5Vzd2U49r29Q1o",
+              "stripeProductId": "prod_VSOQ3coztosSYD",
+              "stripePriceId": "price_1URTdULOfCA5mATupEsb5N4e",
+              "stripeLinkId": "plink_1URTdULOfCA5mATuZfcMwk8r",
+              "stripePrix": 3.88,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rose",
+              "stripeDesc": "Cet attrape-rêve rose, élégant et raffiné, est un objet décoratif aux couleurs apaisantes. Selon les croyances traditionnelles, il est censé protéger les rêves, filtrer les mauvaises énergies et favoriser un sommeil paisible et réparateur. Suspendu près du lit ou dans un espace de détente, il apporte une touche de douceur et d’harmonie à votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rose-et-rouge-mvc3m7ph2hbf",
@@ -25921,7 +25961,17 @@
               "description": "Cet attrape-rêve allie les couleurs vibrantes du rose et du rouge pour créer une décoration à la fois esthétique et apaisante. Selon les croyances traditionnelles, il est censé filtrer les mauvais rêves et les énergies négatives tout en laissant passer les rêves positifs et les bonnes vibrations. Parfait pour décorer une chambre ou un espace de méditation, il apporte harmonie et sérénité à votre environnement.",
               "photo": "images/articles/attrape-reve-rose-et-rouge-mvc3m7phswkk.jpg",
               "prixBoutique": 3.5,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/dRmdRa9c683H5As9tL29Q1p",
+              "stripeProductId": "prod_VSOQuc9CCxWatS",
+              "stripePriceId": "price_1URTdVLOfCA5mATuNnXVPX7P",
+              "stripeLinkId": "plink_1URTdVLOfCA5mATukofzEO9W",
+              "stripePrix": 3.88,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rose et rouge",
+              "stripeDesc": "Cet attrape-rêve allie les couleurs vibrantes du rose et du rouge pour créer une décoration à la fois esthétique et apaisante. Selon les croyances traditionnelles, il est censé filtrer les mauvais rêves et les énergies négatives tout en laissant passer les rêves positifs et les bonnes vibrations. Parfait pour décorer une chambre ou un espace de méditation, il apporte harmonie et sérénité à votre environnement.",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "attrape-reve-bleu-mvc3oatpug9h",
@@ -25930,7 +25980,17 @@
               "description": "L'attrape-rêve bleu est un objet décoratif et spirituel qui symbolise la protection et le bien-être. Selon les traditions amérindiennes, il capture les mauvais rêves et les mauvaises énergies pour ne laisser passer que les rêves positifs. Suspendu au-dessus d’un lit ou dans un espace de vie, il apporte sérénité et harmonie à votre environnement.",
               "photo": "images/articles/attrape-reve-bleu-mvc3oatpdn54.jpg",
               "prixBoutique": 3.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYdRa882do14wo8pH29Q1q",
+              "stripeProductId": "prod_VSOQecO50j0N5X",
+              "stripePriceId": "price_1URTdVLOfCA5mATu1m2rzWGI",
+              "stripeLinkId": "plink_1URTdWLOfCA5mATuaaAs4jJu",
+              "stripePrix": 3.88,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve bleu",
+              "stripeDesc": "L'attrape-rêve bleu est un objet décoratif et spirituel qui symbolise la protection et le bien-être. Selon les traditions amérindiennes, il capture les mauvais rêves et les mauvaises énergies pour ne laisser passer que les rêves positifs. Suspendu au-dessus d’un lit ou dans un espace de vie, il apporte sérénité et harmonie à votre environnement.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-noir-et-blanc-mvc3qzslgwvj",
@@ -25939,7 +25999,17 @@
               "description": "L'attrape-rêve noir et blanc est un objet décoratif et spirituel aux influences amérindiennes, conçu pour apporter paix et protection. Selon les croyances, il filtre les mauvais rêves et les énergies négatives tout en laissant passer les rêves positifs. Suspendez-le au-dessus de votre lit pour créer une ambiance apaisante et favoriser un sommeil réparateur.",
               "photo": "images/articles/attrape-reve-noir-et-blanc-mvc3qzslyugn.jpg",
               "prixBoutique": 6.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/8x2aEYaga1Fje6YgWd29Q1r",
+              "stripeProductId": "prod_VSOQbWhr6tw8ju",
+              "stripePriceId": "price_1URTdWLOfCA5mATuvUxUaH6i",
+              "stripeLinkId": "plink_1URTdWLOfCA5mATuZsojsweC",
+              "stripePrix": 7.4,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve noir et blanc",
+              "stripeDesc": "L'attrape-rêve noir et blanc est un objet décoratif et spirituel aux influences amérindiennes, conçu pour apporter paix et protection. Selon les croyances, il filtre les mauvais rêves et les énergies négatives tout en laissant passer les rêves positifs. Suspendez-le au-dessus de votre lit pour créer une ambiance apaisante et favoriser un sommeil réparateur.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rouge-plume-beige-mvc3uddgn6jd",
@@ -25948,7 +26018,17 @@
               "description": "Cet attrape-rêve allie élégance et symbolisme avec ses plumes douces et sa structure en forme de toile d'araignée. Traditionnellement utilisé pour filtrer les mauvais rêves et apporter paix et sérénité, il est idéal pour décorer votre intérieur tout en favorisant un sommeil apaisé et une énergie positive. Ses couleurs chaudes et ses plumes légères en font un objet à la fois décoratif et porteur de bien-être.",
               "photo": "images/articles/attrape-reve-rouge-plume-beige-mvc3uddgcpa7.jpg",
               "prixBoutique": 7.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2aEY8820Bf7IA49r29Q1s",
+              "stripeProductId": "prod_VSOQJzb3Z1VjeO",
+              "stripePriceId": "price_1URTdXLOfCA5mATuePGhWXKv",
+              "stripeLinkId": "plink_1URTdXLOfCA5mATur1oH5tMZ",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rouge plume beige",
+              "stripeDesc": "Cet attrape-rêve allie élégance et symbolisme avec ses plumes douces et sa structure en forme de toile d'araignée. Traditionnellement utilisé pour filtrer les mauvais rêves et apporter paix et sérénité, il est idéal pour décorer votre intérieur tout en favorisant un sommeil apaisé et une énergie positive. Ses couleurs chaudes et ses plumes légères en font un objet à la fois décoratif et porteur de bien-être.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-multicolore-mvc3zy9hnwae",
@@ -25957,7 +26037,17 @@
               "description": "Cet attrape-rêve multicolore est un objet décoratif et spirituel aux couleurs vibrantes, composé de plumes et de fils teints. Selon les croyances traditionnelles, il protège des mauvais rêves et favorise un sommeil paisible en filtrant les énergies négatives. Suspendu près du lit ou dans un espace de détente, il apporte harmonie et bien-être à votre environnement.",
               "photo": "images/articles/attrape-reve-multicolore-mvc3zy9i366o.jpg",
               "prixBoutique": 7.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/28E28s9c61Fj5AsbBT29Q1t",
+              "stripeProductId": "prod_VSOQejGUi6MZto",
+              "stripePriceId": "price_1URTdYLOfCA5mATuEqpRtg0Z",
+              "stripeLinkId": "plink_1URTdYLOfCA5mATuWNmKCsmK",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve multicolore",
+              "stripeDesc": "Cet attrape-rêve multicolore est un objet décoratif et spirituel aux couleurs vibrantes, composé de plumes et de fils teints. Selon les croyances traditionnelles, il protège des mauvais rêves et favorise un sommeil paisible en filtrant les énergies négatives. Suspendu près du lit ou dans un espace de détente, il apporte harmonie et bien-être à votre environnement.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rouge-plume-violette-mvc47z77n5ig",
@@ -25966,7 +26056,17 @@
               "description": "Cet attrape-rêve aux teintes rouge et violette allie élégance et symbolisme pour créer une ambiance apaisante dans votre intérieur. Selon les croyances, il capte les mauvaises énergies et les mauvais rêves pour ne laisser passer que les pensées positives et les rêves doux. Parfait pour décorer une chambre ou un espace de détente, il apporte harmonie et sérénité au quotidien.",
               "photo": "images/articles/attrape-reve-rouge-plume-violette-mvc47z77bhu3.jpg",
               "prixBoutique": 7.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa9AU0FAgAd2ogaxP29Q1u",
+              "stripeProductId": "prod_VSOQSgtyKwm9e0",
+              "stripePriceId": "price_1URTdYLOfCA5mATub1wc1RxV",
+              "stripeLinkId": "plink_1URTdZLOfCA5mATu6U6N3v4t",
+              "stripePrix": 8.43,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rouge plume violette",
+              "stripeDesc": "Cet attrape-rêve aux teintes rouge et violette allie élégance et symbolisme pour créer une ambiance apaisante dans votre intérieur. Selon les croyances, il capte les mauvaises énergies et les mauvais rêves pour ne laisser passer que les pensées positives et les rêves doux. Parfait pour décorer une chambre ou un espace de détente, il apporte harmonie et sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-en-coeur-violet-et-rose-mvc4cekbxpud",
@@ -25975,7 +26075,17 @@
               "description": "Cet attrape-rêve en forme de coeur allie les couleurs violette et rose pour créer une décoration à la fois apaisante et harmonieuse. Selon les croyances, il favorise la protection des rêves et apporte une énergie positive pour apaiser les émotions et favoriser un sommeil réparateur. Suspendez-le près de votre lit ou dans un espace de détente pour en profiter pleinement.",
               "photo": "images/articles/attrape-reve-en-coeur-violet-et-rose-mvc4cekbzngc.jpg",
               "prixBoutique": 6.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w00kcoi83Hgf66hz29Q1v",
+              "stripeProductId": "prod_VSOQofCyPYtLit",
+              "stripePriceId": "price_1URTdZLOfCA5mATu9hO4v1Tg",
+              "stripeLinkId": "plink_1URTdZLOfCA5mATuVk3fX4qd",
+              "stripePrix": 6.98,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve en coeur violet et rose",
+              "stripeDesc": "Cet attrape-rêve en forme de coeur allie les couleurs violette et rose pour créer une décoration à la fois apaisante et harmonieuse. Selon les croyances, il favorise la protection des rêves et apporte une énergie positive pour apaiser les émotions et favoriser un sommeil réparateur. Suspendez-le près de votre lit ou dans un espace de détente pour en profiter pleinement.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rouge-avec-monnaie-de-pape-mvc4h99813we",
@@ -25984,7 +26094,17 @@
               "description": "Cet attrape-rêve rouge, orné d’une monnaie de pape, est un objet décoratif à la fois esthétique et symbolique. Selon les croyances, il protège les rêves en filtrant les énergies négatives et favorise un sommeil paisible et réparateur. Ses couleurs vives et ses motifs inspirants en font un élément parfait pour égayer une chambre ou un espace de détente.",
               "photo": "images/articles/attrape-reve-rouge-avec-monnaie-de-pape-mvc4h998mpcn.jpg",
               "prixBoutique": 6.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2bJ21JE97LbYQ7lD29Q1w",
+              "stripeProductId": "prod_VSOQ1OR8DLwBsR",
+              "stripePriceId": "price_1URTdaLOfCA5mATulFEHkxId",
+              "stripeLinkId": "plink_1URTdaLOfCA5mATugtTIk9GI",
+              "stripePrix": 7.4,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rouge avec monnaie de pape",
+              "stripeDesc": "Cet attrape-rêve rouge, orné d’une monnaie de pape, est un objet décoratif à la fois esthétique et symbolique. Selon les croyances, il protège les rêves en filtrant les énergies négatives et favorise un sommeil paisible et réparateur. Ses couleurs vives et ses motifs inspirants en font un élément parfait pour égayer une chambre ou un espace de détente.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rose-et-bleu-coeur-mvc4j1ss9dj2",
@@ -25993,7 +26113,17 @@
               "description": "Cet attrape-rêve en forme de coeur, aux teintes douces de rose et bleu, est un objet décoratif apaisant et harmonisant. Selon les croyances, il favorise la protection des rêves, la sérénité et l'équilibre émotionnel en captant les énergies négatives pour ne laisser passer que les bonnes ondes. Idéal pour une chambre d'enfant ou un espace de détente, il apporte une touche poétique et bienveillante à votre intérieur.",
               "photo": "images/articles/attrape-reve-rose-et-bleu-coeur-mvc4j1ssb51d.jpg",
               "prixBoutique": 6.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/fZufZi5ZU3Nr3skbBT29Q1x",
+              "stripeProductId": "prod_VSOQjCiVe5HV1p",
+              "stripePriceId": "price_1URTdbLOfCA5mATuQsgFrg5x",
+              "stripeLinkId": "plink_1URTdbLOfCA5mATuwWoWGEHH",
+              "stripePrix": 7.4,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rose et bleu Coeur",
+              "stripeDesc": "Cet attrape-rêve en forme de coeur, aux teintes douces de rose et bleu, est un objet décoratif apaisant et harmonisant. Selon les croyances, il favorise la protection des rêves, la sérénité et l'équilibre émotionnel en captant les énergies négatives pour ne laisser passer que les bonnes ondes. Idéal pour une chambre d'enfant ou un espace de détente, il apporte une touche poétique et bienveillante à votre intérieur.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "attrape-reve-blanc-decor-en-bois-mvc4qhwy2xji",
@@ -26002,7 +26132,17 @@
               "description": "L'attrape-rêve blanc est une pièce décorative inspirée des traditions amérindiennes, conçue pour apporter harmonie et sérénité à votre intérieur. Selon les croyances, il capture les mauvais rêves et les mauvaises énergies pour ne laisser passer que les pensées positives. Suspendez-le près de votre lit ou dans un espace de détente pour favoriser un sommeil paisible et une ambiance apaisante.",
               "photo": "images/articles/attrape-reve-blanc-decor-en-bois-mvc4qhwyrr7i.jpg",
               "prixBoutique": 7.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU5kEgEy97LaUMfS929Q1y",
+              "stripeProductId": "prod_VSOQp6Ku22bTZB",
+              "stripePriceId": "price_1URTdbLOfCA5mATuij75a4rA",
+              "stripeLinkId": "plink_1URTdcLOfCA5mATuVdJrggiv",
+              "stripePrix": 8.22,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve blanc décor en bois",
+              "stripeDesc": "L'attrape-rêve blanc est une pièce décorative inspirée des traditions amérindiennes, conçue pour apporter harmonie et sérénité à votre intérieur. Selon les croyances, il capture les mauvais rêves et les mauvaises énergies pour ne laisser passer que les pensées positives. Suspendez-le près de votre lit ou dans un espace de détente pour favoriser un sommeil paisible et une ambiance apaisante.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-blanc-et-noir-mvc4sock0j3f",
@@ -26011,7 +26151,17 @@
               "description": "Cet attrape-rêve blanc et noir allie élégance et symbolisme pour créer une ambiance apaisante dans votre espace. Selon les croyances traditionnelles, il est censé filtrer les mauvais rêves et les énergies négatives, tout en laissant passer les rêves positifs et les bonnes vibrations. Idéal pour décorer votre chambre ou votre salon, il apporte harmonie et sérénité au quotidien.",
               "photo": "images/articles/attrape-reve-blanc-et-noir-mvc4sockjmcj.jpg",
               "prixBoutique": 7.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQcN673Yfw90g8fS929Q1z",
+              "stripeProductId": "prod_VSOQUC8EIgsHvp",
+              "stripePriceId": "price_1URTdcLOfCA5mATuQ0SYczC9",
+              "stripeLinkId": "plink_1URTdcLOfCA5mATuXsDoKIXC",
+              "stripePrix": 8.22,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve blanc et noir",
+              "stripeDesc": "Cet attrape-rêve blanc et noir allie élégance et symbolisme pour créer une ambiance apaisante dans votre espace. Selon les croyances traditionnelles, il est censé filtrer les mauvais rêves et les énergies négatives, tout en laissant passer les rêves positifs et les bonnes vibrations. Idéal pour décorer votre chambre ou votre salon, il apporte harmonie et sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-yin-yang-noir-et-blanc-mvc59t23eupw",
@@ -26020,7 +26170,17 @@
               "description": "Cet attrape-rêve yin yang allie élégance et symbolisme pour harmoniser votre espace. Avec ses couleurs contrastées, il représente l'équilibre entre les énergies opposées et favorise un sommeil paisible et réparateur. Suspendu près de votre lit, il capte les mauvais rêves et les transforme en doux rêves positifs, tout en apportant une touche décorative raffinée à votre intérieur.",
               "photo": "images/articles/attrape-reve-yin-yang-noir-et-blanc-mvc59t24czpt.jpg",
               "prixBoutique": 5.5,
-              "stock": 19
+              "stock": 19,
+              "stripe": "https://buy.stripe.com/bJe00kewqfw9fb2gWd29Q1A",
+              "stripeProductId": "prod_VSOQbiXwFp3vwf",
+              "stripePriceId": "price_1URTddLOfCA5mATul3CAGDEB",
+              "stripeLinkId": "plink_1URTddLOfCA5mATumb4oqiYZ",
+              "stripePrix": 5.95,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve yin yang noir et blanc",
+              "stripeDesc": "Cet attrape-rêve yin yang allie élégance et symbolisme pour harmoniser votre espace. Avec ses couleurs contrastées, il représente l'équilibre entre les énergies opposées et favorise un sommeil paisible et réparateur. Suspendu près de votre lit, il capte les mauvais rêves et les transforme en doux rêves positifs, tout en apportant une touche décorative raffinée à votre intérieur.",
+              "stripeStock": 19,
+              "epuise": false
             },
             {
               "id": "attrapr-reve-couleur-de-marseille-mvc5ebwzzf6e",
@@ -26029,7 +26189,17 @@
               "description": "Attraprêve couleur de Marseille est un attrape-rêve délicat et coloré, inspiré par les teintes apaisantes de la Méditerranée. Ce rêveur artisanal, avec ses franges douces et son crochetage raffiné, est conçu pour filtrer les énergies négatives et favoriser des nuits paisibles et des rêves positifs. Idéal pour décorer votre espace de vie tout en invitant la sérénité et la protection bienveillante dans votre quotidien.",
               "photo": "images/articles/attrapr-reve-couleur-de-marseille-mvc5ebwzylbr.jpg",
               "prixBoutique": 2.5,
-              "stock": 26
+              "stock": 26,
+              "stripe": "https://buy.stripe.com/14AbJ21JEes59QI5dv29Q1B",
+              "stripeProductId": "prod_VSOQiGcg4yrAjt",
+              "stripePriceId": "price_1URTdeLOfCA5mATuPzZ2etmy",
+              "stripeLinkId": "plink_1URTdeLOfCA5mATufxtTqFvj",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Attrapr - rêve couleur de Marseille",
+              "stripeDesc": "Attraprêve couleur de Marseille est un attrape-rêve délicat et coloré, inspiré par les teintes apaisantes de la Méditerranée. Ce rêveur artisanal, avec ses franges douces et son crochetage raffiné, est conçu pour filtrer les énergies négatives et favoriser des nuits paisibles et des rêves positifs. Idéal pour décorer votre espace de vie tout en invitant la sérénité et la protection bienveillante dans votre quotidien.",
+              "stripeStock": 26,
+              "epuise": false
             },
             {
               "id": "attrape-reve-noir-et-blanc-mvc5liaebhyl",
@@ -26038,7 +26208,17 @@
               "description": "Attrape-rêve traditionnel alliant élégance et symbolisme, cet objet décoratif associe les couleurs noir et blanc pour créer une harmonie visuelle apaisante. Selon les croyances amérindiennes, il est censé protéger contre les mauvais rêves et favoriser un sommeil paisible en filtrant les énergies négatives. Idéal pour une ambiance zen et spirituelle dans votre intérieur, il apporte également une touche bohème et naturelle à votre décoration.",
               "photo": "images/articles/attrape-reve-noir-et-blanc-mvc5liaecf7z.jpg",
               "prixBoutique": 6.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E6oIgEycjX8MEcFX29Q1C",
+              "stripeProductId": "prod_VSOQ0Xgm6K6Xqu",
+              "stripePriceId": "price_1URTdeLOfCA5mATu7ecCHduU",
+              "stripeLinkId": "plink_1URTdfLOfCA5mATuzIDnaY4J",
+              "stripePrix": 7.4,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve noir et blanc",
+              "stripeDesc": "Attrape-rêve traditionnel alliant élégance et symbolisme, cet objet décoratif associe les couleurs noir et blanc pour créer une harmonie visuelle apaisante. Selon les croyances amérindiennes, il est censé protéger contre les mauvais rêves et favoriser un sommeil paisible en filtrant les énergies négatives. Idéal pour une ambiance zen et spirituelle dans votre intérieur, il apporte également une touche bohème et naturelle à votre décoration.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-noir-et-blanc-mvc60kqj9mgu",
@@ -26047,7 +26227,17 @@
               "description": "L'attrape-rêve noir et blanc est un objet décoratif aux influences amérindiennes, conçu pour apporter harmonie et sérénité dans votre intérieur. Selon les croyances, il capture les mauvais rêves et les énergies négatives pour ne laisser passer que les rêves positifs et apaisants. Suspendez-le près de votre lit ou dans un espace de détente pour en profiter pleinement.",
               "photo": "images/articles/attrape-reve-noir-et-blanc-mvc60kqjfrck.jpg",
               "prixBoutique": 2.5,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/eVq28scoi83HaUMdK129Q1D",
+              "stripeProductId": "prod_VSOQsWt0IyI6Sg",
+              "stripePriceId": "price_1URTdfLOfCA5mATu7LTI7U7c",
+              "stripeLinkId": "plink_1URTdfLOfCA5mATueDO3v8xY",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve noir et blanc",
+              "stripeDesc": "L'attrape-rêve noir et blanc est un objet décoratif aux influences amérindiennes, conçu pour apporter harmonie et sérénité dans votre intérieur. Selon les croyances, il capture les mauvais rêves et les énergies négatives pour ne laisser passer que les rêves positifs et apaisants. Suspendez-le près de votre lit ou dans un espace de détente pour en profiter pleinement.",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rose-carillon-mvc65grup3u6",
@@ -26056,7 +26246,17 @@
               "description": "Cet attrape-rêve rose, orné de plumes douces et de petits carillons, est un objet décoratif suspendu qui embellit votre intérieur tout en diffusant une énergie apaisante. Associé à la sérénité et à la détente, il aide à harmoniser les émotions et à créer une ambiance calme et positive. Idéal pour ajouter une touche poétique et bienveillante à votre espace de vie.",
               "photo": "images/articles/attrape-reve-rose-carillon-mvc65grurg7t.jpg",
               "prixBoutique": 8.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/9B64gAaga83Hd2UaxP29Q1E",
+              "stripeProductId": "prod_VSOQNjAqCiUL3g",
+              "stripePriceId": "price_1URTdgLOfCA5mATu8LU8GBWC",
+              "stripeLinkId": "plink_1URTdgLOfCA5mATuaOtnXX2m",
+              "stripePrix": 9.46,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rose carillon",
+              "stripeDesc": "Cet attrape-rêve rose, orné de plumes douces et de petits carillons, est un objet décoratif suspendu qui embellit votre intérieur tout en diffusant une énergie apaisante. Associé à la sérénité et à la détente, il aide à harmoniser les émotions et à créer une ambiance calme et positive. Idéal pour ajouter une touche poétique et bienveillante à votre espace de vie.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

@@ -14973,16 +14973,16 @@
               "photo": "images/articles/pendentif-labradorite-muoa7usuxrc5.jpg",
               "prixBoutique": 19.9,
               "stock": 14,
-              "stripe": "https://buy.stripe.com/3cIaEY9c64Rv1kc7lD29T3U",
+              "stripe": "https://buy.stripe.com/aFabJ21JEcjX3skbBT29P0O",
               "stripeProductId": "prod_VM92xGDnvrGNKT",
               "stripePriceId": "price_1ULQkGLOfCA5mATuqLSFfK1t",
-              "stripeLinkId": "plink_1URaEwLOfCA5mATuhqYo8jQT",
+              "stripeLinkId": "plink_1UREWKLOfCA5mATuxZDADrIp",
               "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendentif labradorite",
               "stripeDesc": "Ce pendentif en labradorite capture la lumière pour révéler ses reflets bleutés et verts, créant un jeu de couleurs unique à chaque mouvement. La labradorite est souvent appelée la pierre de magie et de mystère, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Portée en bijou, elle est appréciée pour son influence apaisante sur les émotions et son pouvoir de stimulation de la créativité.",
-              "stripeStock": 14,
-              "epuise": false
+              "stripeStock": 15,
+              "epuise": true
             },
             {
               "id": "pendentif-coeur-d-amethyste-muoaa1k5s3ll",
@@ -15404,10 +15404,10 @@
               "stripeDesc": "Ce bracelet en Améthyste dark est un allié précieux pour apaiser l'esprit et favoriser la sérénité au quotidien. Connue pour ses vertus calmantes, cette pierre favorise la concentration et aide à dissoudre les tensions émotionnelles. Parfaite pour une utilisation en méditation ou simplement portée comme accessoire bien-être, elle apporte une énergie apaisante et équilibrante. Elle accompagne le deuil, et vous aide dans vos addictions.",
               "stripePriceId": "price_1U9gO3LOfCA5mATu28qxzWsR",
               "stripePrix": 16.7,
-              "stripeLinkId": "plink_1URaEwLOfCA5mATuSBFoR87V",
-              "stripe": "https://buy.stripe.com/28EeVe73Y4RvaUMbBT29T3V",
-              "stripeStock": 2,
-              "epuise": false
+              "stripeLinkId": "plink_1UJyQRLOfCA5mATulBGtjko4",
+              "stripe": "https://buy.stripe.com/9B6eVedsm1Fj7IA21j28l2f",
+              "stripeStock": 3,
+              "epuise": true
             },
             {
               "id": "bracelet-amethyste-dark-10-mm-mte1u336sz9h",

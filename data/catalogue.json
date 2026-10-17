@@ -14992,15 +14992,15 @@
               "photo": "images/articles/pendentif-labradorite-muoa7usuxrc5.jpg",
               "prixBoutique": 19.9,
               "stock": 14,
-              "stripe": "https://buy.stripe.com/aFabJ21JEcjX3skbBT29P0O",
+              "stripe": "https://buy.stripe.com/dRmeVe882do18ME49r29T11",
               "stripeProductId": "prod_VM92xGDnvrGNKT",
               "stripePriceId": "price_1ULQkGLOfCA5mATuqLSFfK1t",
-              "stripeLinkId": "plink_1UREWKLOfCA5mATuxZDADrIp",
+              "stripeLinkId": "plink_1URYHqLOfCA5mATu6wfIUtzo",
               "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Pendentif labradorite",
               "stripeDesc": "Ce pendentif en labradorite capture la lumière pour révéler ses reflets bleutés et verts, créant un jeu de couleurs unique à chaque mouvement. La labradorite est souvent appelée la pierre de magie et de mystère, idéale pour renforcer la confiance en soi et protéger contre les énergies négatives. Portée en bijou, elle est appréciée pour son influence apaisante sur les émotions et son pouvoir de stimulation de la créativité.",
-              "stripeStock": 15,
+              "stripeStock": 14,
               "epuise": false
             },
             {
@@ -15423,9 +15423,9 @@
               "stripeDesc": "Ce bracelet en Améthyste dark est un allié précieux pour apaiser l'esprit et favoriser la sérénité au quotidien. Connue pour ses vertus calmantes, cette pierre favorise la concentration et aide à dissoudre les tensions émotionnelles. Parfaite pour une utilisation en méditation ou simplement portée comme accessoire bien-être, elle apporte une énergie apaisante et équilibrante. Elle accompagne le deuil, et vous aide dans vos addictions.",
               "stripePriceId": "price_1U9gO3LOfCA5mATu28qxzWsR",
               "stripePrix": 16.7,
-              "stripeLinkId": "plink_1UJyQRLOfCA5mATulBGtjko4",
-              "stripe": "https://buy.stripe.com/9B6eVedsm1Fj7IA21j28l2f",
-              "stripeStock": 3,
+              "stripeLinkId": "plink_1URYHqLOfCA5mATuhjjO6LZk",
+              "stripe": "https://buy.stripe.com/4gMbJ2fAues58ME35n29T12",
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -22846,7 +22846,17 @@
               "description": "Ces bougies rituelles sont spécialement conçues pour favoriser la spiritualité et l'éveil de la conscience. Leur flamme apaisante aide à créer une atmosphère propice à la méditation, à la relaxation et à l'introspection. Traditionnellement utilisées pour purifier l'énergie et renforcer l'intention lors de pratiques spirituelles ou de cérémonies.",
               "photo": "images/articles/bougie-individuelles-mvcgzkv0lb0m.jpg",
               "prixBoutique": 1,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/00w8wQdsmfw9e6YcFX29T13",
+              "stripeProductId": "prod_VSTEyjfwJqyfJ3",
+              "stripePriceId": "price_1URYHrLOfCA5mATu9ZYin1rQ",
+              "stripeLinkId": "plink_1URYHrLOfCA5mATuoWAq9bKY",
+              "stripePrix": 1.3,
+              "stripeMode": "live",
+              "stripeNom": "Bougie individuelles",
+              "stripeDesc": "Ces bougies rituelles sont spécialement conçues pour favoriser la spiritualité et l'éveil de la conscience. Leur flamme apaisante aide à créer une atmosphère propice à la méditation, à la relaxation et à l'introspection. Traditionnellement utilisées pour purifier l'énergie et renforcer l'intention lors de pratiques spirituelles ou de cérémonies.",
+              "stripeStock": 6,
+              "epuise": false
             },
             {
               "id": "bougies-de-benediction-mvch1mx019e2",
@@ -22855,7 +22865,17 @@
               "description": "Ces bougies rituelles sont spécialement conçues pour apporter des bénédictions et une énergie positive dans votre espace. Leur parfum subtil et leur flamme apaisante favorisent la concentration, la protection et l'harmonisation des émotions. Idéales pour les rituels, la méditation ou simplement pour créer une ambiance sereine et bienveillante à la maison.",
               "photo": "images/articles/bougies-de-benediction-mvch1mx0q0ro.jpg",
               "prixBoutique": 1,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/bJe5kE0FAes5d2UfS929T14",
+              "stripeProductId": "prod_VSTEXo6DNCljfu",
+              "stripePriceId": "price_1URYHrLOfCA5mATu178JMlEq",
+              "stripeLinkId": "plink_1URYHsLOfCA5mATuSd44y59A",
+              "stripePrix": 1.3,
+              "stripeMode": "live",
+              "stripeNom": "Bougies de bénédiction",
+              "stripeDesc": "Ces bougies rituelles sont spécialement conçues pour apporter des bénédictions et une énergie positive dans votre espace. Leur parfum subtil et leur flamme apaisante favorisent la concentration, la protection et l'harmonisation des émotions. Idéales pour les rituels, la méditation ou simplement pour créer une ambiance sereine et bienveillante à la maison.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },
@@ -25815,7 +25835,17 @@
               "description": "Ce papier d'Arménie dédié à l'Archange Saint Michel est une offrande parfumée et spirituelle, idéale pour purifier les espaces et renforcer la protection. Utilisé en lithothérapie et dans les rituels, il est souvent associé à une énergie forte pour chasser les influences négatives et favoriser la concentration. Parfait pour les méditations ou les cérémonies, il apporte une touche sacrée et apaisante à votre environnement.",
               "photo": "images/articles/papier-d-armenie-archange-st-michel-mvcfekejgdi5.jpg",
               "prixBoutique": 4.6,
-              "stock": 10
+              "stock": 10,
+              "stripe": "https://buy.stripe.com/eVq3cw4VQes53sk6hz29T15",
+              "stripeProductId": "prod_VSTE3mnCi1oqG7",
+              "stripePriceId": "price_1URYHsLOfCA5mATuZOqrTr7h",
+              "stripeLinkId": "plink_1URYHsLOfCA5mATuEbLHaSdw",
+              "stripePrix": 5.02,
+              "stripeMode": "live",
+              "stripeNom": "Papier d' arménie archange st michel",
+              "stripeDesc": "Ce papier d'Arménie dédié à l'Archange Saint Michel est une offrande parfumée et spirituelle, idéale pour purifier les espaces et renforcer la protection. Utilisé en lithothérapie et dans les rituels, il est souvent associé à une énergie forte pour chasser les influences négatives et favoriser la concentration. Parfait pour les méditations ou les cérémonies, il apporte une touche sacrée et apaisante à votre environnement.",
+              "stripeStock": 10,
+              "epuise": false
             },
             {
               "id": "papier-d-armenie-mvcfm137nj2r",
@@ -25824,7 +25854,17 @@
               "description": "Papier d'Arménie Tradition est un papier parfumé et désodorisant emblématique, fabriqué depuis 1885 à Paris. Ce produit allie élégance et bien-être en diffusant une fragrance douce et apaisante, idéale pour purifier l’atmosphère des espaces de vie. Traditionnellement utilisé pour son effet relaxant et son parfum subtil, il est parfait pour créer une ambiance agréable et harmonieuse dans votre intérieur.",
               "photo": "images/articles/papier-d-armenie-mvcfm137y7nu.jpg",
               "prixBoutique": 5.9,
-              "stock": 71
+              "stock": 71,
+              "stripe": "https://buy.stripe.com/28EcN6bkeabP1kc6hz29T16",
+              "stripeProductId": "prod_VSTEIJqa4jZ2yW",
+              "stripePriceId": "price_1URYHtLOfCA5mATuntqX3mzr",
+              "stripeLinkId": "plink_1URYHtLOfCA5mATuCXzaCTFE",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Papier d' Arménie",
+              "stripeDesc": "Papier d'Arménie Tradition est un papier parfumé et désodorisant emblématique, fabriqué depuis 1885 à Paris. Ce produit allie élégance et bien-être en diffusant une fragrance douce et apaisante, idéale pour purifier l’atmosphère des espaces de vie. Traditionnellement utilisé pour son effet relaxant et son parfum subtil, il est parfait pour créer une ambiance agréable et harmonieuse dans votre intérieur.",
+              "stripeStock": 71,
+              "epuise": false
             },
             {
               "id": "papier-d-armenie-nag-champa-mvcg9ac4nij6",
@@ -25833,7 +25873,17 @@
               "description": "Le NAG CHAMPA est un papier d'encens traditionnel, souvent utilisé pour ses propriétés purificatrices et apaisantes. Selon les croyances en lithothérapie et les pratiques énergétiques, il favorise la concentration, l'équilibre émotionnel et aide à créer une atmosphère harmonieuse. Idéal pour les rituels, la méditation ou simplement pour parfumer votre espace de vie avec une touche d'énergie positive.",
               "photo": "images/articles/papier-d-armenie-nag-champa-mvcg9ac46vrk.jpg",
               "prixBoutique": 4.6,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/14AcN6ewq4Rv3sk49r29T17",
+              "stripeProductId": "prod_VSTEohKBGKwL57",
+              "stripePriceId": "price_1URYHuLOfCA5mATuB17naiEa",
+              "stripeLinkId": "plink_1URYHuLOfCA5mATuPTlMciuw",
+              "stripePrix": 5.02,
+              "stripeMode": "live",
+              "stripeNom": "Papier d' arménie NAG CHAMPA",
+              "stripeDesc": "Le NAG CHAMPA est un papier d'encens traditionnel, souvent utilisé pour ses propriétés purificatrices et apaisantes. Selon les croyances en lithothérapie et les pratiques énergétiques, il favorise la concentration, l'équilibre émotionnel et aide à créer une atmosphère harmonieuse. Idéal pour les rituels, la méditation ou simplement pour parfumer votre espace de vie avec une touche d'énergie positive.",
+              "stripeStock": 11,
+              "epuise": false
             },
             {
               "id": "papier-d-armenie-sainte-rita-mvcgcwjfgm24",
@@ -25842,7 +25892,17 @@
               "description": "Ce papier d'arménie dédié à sainte Rita est un encens religieux traditionnel, souvent utilisé pour ses vertus apaisantes et protectrices. Selon les croyances, il favorise la sérénité, renforce la foi et aide à surmonter les épreuves avec courage et résilience. Parfait pour les rituels spirituels ou les moments de méditation, il diffuse une énergie positive et réconfortante dans votre environnement.",
               "photo": "images/articles/papier-d-armenie-sainte-rita-mvcgcwjfimfz.jpg",
               "prixBoutique": 4.6,
-              "stock": 12
+              "stock": 12,
+              "stripe": "https://buy.stripe.com/7sY14o882do1e6YfS929T18",
+              "stripeProductId": "prod_VSTEyrkgHjkzJD",
+              "stripePriceId": "price_1URYHuLOfCA5mATum9kGUg2P",
+              "stripeLinkId": "plink_1URYHvLOfCA5mATu1KRj4SUL",
+              "stripePrix": 5.02,
+              "stripeMode": "live",
+              "stripeNom": "Papier d'arménie sainte rita",
+              "stripeDesc": "Ce papier d'arménie dédié à sainte Rita est un encens religieux traditionnel, souvent utilisé pour ses vertus apaisantes et protectrices. Selon les croyances, il favorise la sérénité, renforce la foi et aide à surmonter les épreuves avec courage et résilience. Parfait pour les rituels spirituels ou les moments de méditation, il diffuse une énergie positive et réconfortante dans votre environnement.",
+              "stripeStock": 12,
+              "epuise": false
             },
             {
               "id": "papier-d-armenie-pontifical-mvcgf4f629gi",
@@ -25851,7 +25911,17 @@
               "description": "Ce Papier d'Arménie pontifical est un encens religieux aux notes profondes et envoûtantes, souvent utilisé pour purifier l'atmosphère et créer une ambiance sacrée. Traditionnellement employé dans les rituels spirituels et les cérémonies, il est réputé pour favoriser la concentration, la méditation et l'élévation des énergies positives. Son parfum chaud et enveloppant est idéal pour les moments de prière, de réflexion ou simplement pour embellir un intérieur avec une touche de sérénité et de spiritualité.",
               "photo": "images/articles/papier-d-armenie-pontifical-mvcgf4f6gmte.jpg",
               "prixBoutique": 4.6,
-              "stock": 19
+              "stock": 19,
+              "stripe": "https://buy.stripe.com/fZu3cwfAuabPe6YdK129T19",
+              "stripeProductId": "prod_VSTE9MS7S95mAb",
+              "stripePriceId": "price_1URYHvLOfCA5mATuVF92LOpT",
+              "stripeLinkId": "plink_1URYHvLOfCA5mATux9dcEO2k",
+              "stripePrix": 5.02,
+              "stripeMode": "live",
+              "stripeNom": "Papier d'Arménie pontifical",
+              "stripeDesc": "Ce Papier d'Arménie pontifical est un encens religieux aux notes profondes et envoûtantes, souvent utilisé pour purifier l'atmosphère et créer une ambiance sacrée. Traditionnellement employé dans les rituels spirituels et les cérémonies, il est réputé pour favoriser la concentration, la méditation et l'élévation des énergies positives. Son parfum chaud et enveloppant est idéal pour les moments de prière, de réflexion ou simplement pour embellir un intérieur avec une touche de sérénité et de spiritualité.",
+              "stripeStock": 19,
+              "epuise": false
             },
             {
               "id": "papier-d-armenie-benjoin-mvcgkt2ikeya",
@@ -25860,7 +25930,17 @@
               "description": "Le papier d'encens benjoin est un encens naturel réputé pour ses propriétés apaisantes et purifiantes. Utilisé depuis des siècles dans les rituels et les pratiques de bien-être, il aide à créer une atmosphère sereine et à favoriser la concentration. Son parfum chaud et boisé est idéal pour les moments de méditation, de relaxation ou pour embellir l’espace de vie.",
               "photo": "images/articles/papier-d-armenie-benjoin-mvcgkt2iwrbe.jpg",
               "prixBoutique": 4.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w7sM1JE0Bfgf69tL29T1a",
+              "stripeProductId": "prod_VSTEJNUez5efjD",
+              "stripePriceId": "price_1URYHwLOfCA5mATuQ9eWyP9R",
+              "stripeLinkId": "plink_1URYHwLOfCA5mATuEE2oCgRj",
+              "stripePrix": 5.02,
+              "stripeMode": "live",
+              "stripeNom": "Papier d'Arménie benjoin",
+              "stripeDesc": "Le papier d'encens benjoin est un encens naturel réputé pour ses propriétés apaisantes et purifiantes. Utilisé depuis des siècles dans les rituels et les pratiques de bien-être, il aide à créer une atmosphère sereine et à favoriser la concentration. Son parfum chaud et boisé est idéal pour les moments de méditation, de relaxation ou pour embellir l’espace de vie.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "papier-d-armenie-rose-mvcgo6hnt00e",
@@ -25869,7 +25949,17 @@
               "description": "Papier d'Arménie rose est un parfum désodorisant naturel, inspiré des traditions anciennes de la papeterie artisanale parisienne depuis 1885. Ce produit allie douceur florale et propriétés purifiantes, souvent utilisé pour rafraîchir l'atmosphère et apporter une touche de sérénité grâce à son parfum de rose. Idéal pour les espaces de vie, il est apprécié pour ses vertus apaisantes et son élégance intemporelle.",
               "photo": "images/articles/papier-d-armenie-rose-mvcgo6hntmro.jpg",
               "prixBoutique": 5.9,
-              "stock": 13
+              "stock": 13,
+              "stripe": "https://buy.stripe.com/3cIcN6gEydo10g86hz29T1b",
+              "stripeProductId": "prod_VSTEOCROsVQlS9",
+              "stripePriceId": "price_1URYHwLOfCA5mATujAmzbfjB",
+              "stripeLinkId": "plink_1URYHxLOfCA5mATuF9cHsSln",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Papier d'Arménie rose",
+              "stripeDesc": "Papier d'Arménie rose est un parfum désodorisant naturel, inspiré des traditions anciennes de la papeterie artisanale parisienne depuis 1885. Ce produit allie douceur florale et propriétés purifiantes, souvent utilisé pour rafraîchir l'atmosphère et apporter une touche de sérénité grâce à son parfum de rose. Idéal pour les espaces de vie, il est apprécié pour ses vertus apaisantes et son élégance intemporelle.",
+              "stripeStock": 13,
+              "epuise": false
             },
             {
               "id": "papier-d-armenie-marie-qui-defait-les-no-mvcgqli2w9p7",
@@ -25878,7 +25968,17 @@
               "description": "Ce papier d'Arménie dédié à Marie qui défait les nœuds est un encens religieux traditionnel, souvent utilisé pour purifier l'énergie et apporter sérénité. Selon les croyances, il favorise la résolution des conflits intérieurs et aide à retrouver l'équilibre émotionnel. Idéal pour les rituels de bien-être ou les moments de méditation, il diffuse une ambiance apaisante et protectrice.",
               "photo": "images/articles/papier-d-armenie-marie-qui-defait-les-no-mvcgqli27jam.jpg",
               "prixBoutique": 4.6,
-              "stock": 10
+              "stock": 10,
+              "stripe": "https://buy.stripe.com/6oU14ogEy3Nr1kccFX29T1c",
+              "stripeProductId": "prod_VSTETZjOY2sG96",
+              "stripePriceId": "price_1URYHxLOfCA5mATu4IcFHJ5N",
+              "stripeLinkId": "plink_1URYHxLOfCA5mATudOw3ZG1l",
+              "stripePrix": 5.02,
+              "stripeMode": "live",
+              "stripeNom": "Papier d'Arménie Marie qui défait les noeuds",
+              "stripeDesc": "Ce papier d'Arménie dédié à Marie qui défait les nœuds est un encens religieux traditionnel, souvent utilisé pour purifier l'énergie et apporter sérénité. Selon les croyances, il favorise la résolution des conflits intérieurs et aide à retrouver l'équilibre émotionnel. Idéal pour les rituels de bien-être ou les moments de méditation, il diffuse une ambiance apaisante et protectrice.",
+              "stripeStock": 10,
+              "epuise": false
             },
             {
               "id": "papier-d-armenie-jerusalem-mvcgt73ehsxr",
@@ -25887,7 +25987,17 @@
               "description": "Ce papier d'encens parfumée Jérusalem est une référence pour les amateurs de fragrances spirituelles et apaisantes. Utilisé traditionnellement pour purifier l'atmosphère et favoriser la concentration, il est idéal pour les rituels, la méditation ou simplement pour embaumer votre intérieur d'une douce odeur envoûtante. Ses notes profondes et chaleureuses aident à créer une ambiance de sérénité et de connexion aux traditions ancestrales.",
               "photo": "images/articles/papier-d-armenie-jerusalem-mvcgt73e7ywu.jpg",
               "prixBoutique": 4.6,
-              "stock": 24
+              "stock": 24,
+              "stripe": "https://buy.stripe.com/7sYaEYdsmdo1e6YgWd29T1d",
+              "stripeProductId": "prod_VSTEcfnrliukeU",
+              "stripePriceId": "price_1URYHyLOfCA5mATunpCAAPDV",
+              "stripeLinkId": "plink_1URYHyLOfCA5mATu9CuufPmV",
+              "stripePrix": 5.02,
+              "stripeMode": "live",
+              "stripeNom": "Papier d'Arménie Jérusalem",
+              "stripeDesc": "Ce papier d'encens parfumée Jérusalem est une référence pour les amateurs de fragrances spirituelles et apaisantes. Utilisé traditionnellement pour purifier l'atmosphère et favoriser la concentration, il est idéal pour les rituels, la méditation ou simplement pour embaumer votre intérieur d'une douce odeur envoûtante. Ses notes profondes et chaleureuses aident à créer une ambiance de sérénité et de connexion aux traditions ancestrales.",
+              "stripeStock": 24,
+              "epuise": false
             },
             {
               "id": "papier-d-armenie-sang-de-dragon-mvcgumf7d0rg",
@@ -25896,7 +26006,17 @@
               "description": "Ce papier d'encens sang de dragon, aussi appelé encens dragon, est une référence emblématique pour ses propriétés énergétiques puissantes. Utilisé traditionnellement pour purifier l'atmosphère et renforcer la concentration, il est souvent employé lors de rituels ou de méditations. Son parfum envoûtant et sa couleur rouge sang en font un allié précieux pour stimuler la vitalité et l'équilibre émotionnel.",
               "photo": "images/articles/papier-d-armenie-sang-de-dragon-mvcgumf7dc7c.jpg",
               "prixBoutique": 4.6,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/4gM28s5ZUdo1bYQ0Xf29T1e",
+              "stripeProductId": "prod_VSTEfomAlI2o4K",
+              "stripePriceId": "price_1URYHyLOfCA5mATulYnwWQaE",
+              "stripeLinkId": "plink_1URYHzLOfCA5mATuqAaTdQFm",
+              "stripePrix": 5.02,
+              "stripeMode": "live",
+              "stripeNom": "Papier d'Arménie sang de dragon",
+              "stripeDesc": "Ce papier d'encens sang de dragon, aussi appelé encens dragon, est une référence emblématique pour ses propriétés énergétiques puissantes. Utilisé traditionnellement pour purifier l'atmosphère et renforcer la concentration, il est souvent employé lors de rituels ou de méditations. Son parfum envoûtant et sa couleur rouge sang en font un allié précieux pour stimuler la vitalité et l'équilibre émotionnel.",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         }
@@ -25955,7 +26075,17 @@
               "description": "L’Attrape-rêve blanc est un objet décoratif et spirituel aux influences amérindiennes, conçu pour protéger le sommeil et filtrer les mauvaises énergies. Ses fils et plumes légères symbolisent un passage apaisant vers des rêves paisibles et positifs. Idéal pour la chambre ou comme élément de décoration bienveillante, il apporte harmonie et sérénité à votre espace.",
               "photo": "images/articles/attrape-reve-blanc-mvc2rnorbspi.jpg",
               "prixBoutique": 6.2,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/3cI00k73Y2JnbYQdK129T1f",
+              "stripeProductId": "prod_VSTEhCVYddx4P5",
+              "stripePriceId": "price_1URYHzLOfCA5mATuooFPnn0R",
+              "stripeLinkId": "plink_1URYHzLOfCA5mATuWpJPQ7oy",
+              "stripePrix": 6.67,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve blanc",
+              "stripeDesc": "L’Attrape-rêve blanc est un objet décoratif et spirituel aux influences amérindiennes, conçu pour protéger le sommeil et filtrer les mauvaises énergies. Ses fils et plumes légères symbolisent un passage apaisant vers des rêves paisibles et positifs. Idéal pour la chambre ou comme élément de décoration bienveillante, il apporte harmonie et sérénité à votre espace.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "attrape-reve-marron-mvc38ubptixn",
@@ -25964,7 +26094,17 @@
               "description": "Attrape-rêve traditionnel aux teintes marron et blanches, orné de plumes douces pour capturer les mauvais rêves et laisser passer les bons. Selon les croyances amérindiennes, il protège le sommeil et apporte une énergie apaisante et positive. Parfait pour décorer une chambre ou un espace de détente, il symbolise aussi la connexion avec la nature et la sérénité.",
               "photo": "images/articles/attrape-reve-marron-mvc38ubpaz56.jpg",
               "prixBoutique": 3.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/bJe3cw1JEes56Ew35n29T1g",
+              "stripeProductId": "prod_VSTEiy73bwWP8m",
+              "stripePriceId": "price_1URYI0LOfCA5mATuVj1ac5aW",
+              "stripeLinkId": "plink_1URYI0LOfCA5mATusXrmW1sy",
+              "stripePrix": 3.88,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve marron",
+              "stripeDesc": "Attrape-rêve traditionnel aux teintes marron et blanches, orné de plumes douces pour capturer les mauvais rêves et laisser passer les bons. Selon les croyances amérindiennes, il protège le sommeil et apporte une énergie apaisante et positive. Parfait pour décorer une chambre ou un espace de détente, il symbolise aussi la connexion avec la nature et la sérénité.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rose-mvc3jozbv8y4",
@@ -25973,7 +26113,17 @@
               "description": "Cet attrape-rêve rose, élégant et raffiné, est un objet décoratif aux couleurs apaisantes. Selon les croyances traditionnelles, il est censé protéger les rêves, filtrer les mauvaises énergies et favoriser un sommeil paisible et réparateur. Suspendu près du lit ou dans un espace de détente, il apporte une touche de douceur et d’harmonie à votre intérieur.",
               "photo": "images/articles/attrape-reve-rose-mvc3jozciw48.jpg",
               "prixBoutique": 3.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU3cwbkeabP5As8pH29T1h",
+              "stripeProductId": "prod_VSTE6L2NH1WujY",
+              "stripePriceId": "price_1URYI0LOfCA5mATue5sIbUCI",
+              "stripeLinkId": "plink_1URYI1LOfCA5mATucI2X2dEq",
+              "stripePrix": 3.88,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rose",
+              "stripeDesc": "Cet attrape-rêve rose, élégant et raffiné, est un objet décoratif aux couleurs apaisantes. Selon les croyances traditionnelles, il est censé protéger les rêves, filtrer les mauvaises énergies et favoriser un sommeil paisible et réparateur. Suspendu près du lit ou dans un espace de détente, il apporte une touche de douceur et d’harmonie à votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rose-et-rouge-mvc3m7ph2hbf",
@@ -25982,7 +26132,17 @@
               "description": "Cet attrape-rêve allie les couleurs vibrantes du rose et du rouge pour créer une décoration à la fois esthétique et apaisante. Selon les croyances traditionnelles, il est censé filtrer les mauvais rêves et les énergies négatives tout en laissant passer les rêves positifs et les bonnes vibrations. Parfait pour décorer une chambre ou un espace de méditation, il apporte harmonie et sérénité à votre environnement.",
               "photo": "images/articles/attrape-reve-rose-et-rouge-mvc3m7phswkk.jpg",
               "prixBoutique": 3.5,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/3cI4gAfAu4RvbYQfS929T1i",
+              "stripeProductId": "prod_VSTEFTTUMh2Aur",
+              "stripePriceId": "price_1URYI1LOfCA5mATuM5tnqTMY",
+              "stripeLinkId": "plink_1URYI1LOfCA5mATuybEB7xOC",
+              "stripePrix": 3.88,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rose et rouge",
+              "stripeDesc": "Cet attrape-rêve allie les couleurs vibrantes du rose et du rouge pour créer une décoration à la fois esthétique et apaisante. Selon les croyances traditionnelles, il est censé filtrer les mauvais rêves et les énergies négatives tout en laissant passer les rêves positifs et les bonnes vibrations. Parfait pour décorer une chambre ou un espace de méditation, il apporte harmonie et sérénité à votre environnement.",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "attrape-reve-bleu-mvc3oatpug9h",
@@ -25991,7 +26151,17 @@
               "description": "L'attrape-rêve bleu est un objet décoratif et spirituel qui symbolise la protection et le bien-être. Selon les traditions amérindiennes, il capture les mauvais rêves et les mauvaises énergies pour ne laisser passer que les rêves positifs. Suspendu au-dessus d’un lit ou dans un espace de vie, il apporte sérénité et harmonie à votre environnement.",
               "photo": "images/articles/attrape-reve-bleu-mvc3oatpdn54.jpg",
               "prixBoutique": 3.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMdRa9c60Bfd2UdK129T1j",
+              "stripeProductId": "prod_VSTEmaoOqjwqSs",
+              "stripePriceId": "price_1URYI2LOfCA5mATuX63muGFu",
+              "stripeLinkId": "plink_1URYI2LOfCA5mATuRWrZ9TCN",
+              "stripePrix": 3.88,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve bleu",
+              "stripeDesc": "L'attrape-rêve bleu est un objet décoratif et spirituel qui symbolise la protection et le bien-être. Selon les traditions amérindiennes, il capture les mauvais rêves et les mauvaises énergies pour ne laisser passer que les rêves positifs. Suspendu au-dessus d’un lit ou dans un espace de vie, il apporte sérénité et harmonie à votre environnement.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-noir-et-blanc-mvc3qzslgwvj",
@@ -26000,7 +26170,17 @@
               "description": "L'attrape-rêve noir et blanc est un objet décoratif et spirituel aux influences amérindiennes, conçu pour apporter paix et protection. Selon les croyances, il filtre les mauvais rêves et les énergies négatives tout en laissant passer les rêves positifs. Suspendez-le au-dessus de votre lit pour créer une ambiance apaisante et favoriser un sommeil réparateur.",
               "photo": "images/articles/attrape-reve-noir-et-blanc-mvc3qzslyugn.jpg",
               "prixBoutique": 6.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/8x2eVe0FAfw91kc0Xf29T1k",
+              "stripeProductId": "prod_VSTEh7E9s05eMR",
+              "stripePriceId": "price_1URYI2LOfCA5mATu0rIHWVmo",
+              "stripeLinkId": "plink_1URYI3LOfCA5mATuqqBvSP7K",
+              "stripePrix": 7.4,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve noir et blanc",
+              "stripeDesc": "L'attrape-rêve noir et blanc est un objet décoratif et spirituel aux influences amérindiennes, conçu pour apporter paix et protection. Selon les croyances, il filtre les mauvais rêves et les énergies négatives tout en laissant passer les rêves positifs. Suspendez-le au-dessus de votre lit pour créer une ambiance apaisante et favoriser un sommeil réparateur.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rouge-plume-beige-mvc3uddgn6jd",
@@ -26009,7 +26189,17 @@
               "description": "Cet attrape-rêve allie élégance et symbolisme avec ses plumes douces et sa structure en forme de toile d'araignée. Traditionnellement utilisé pour filtrer les mauvais rêves et apporter paix et sérénité, il est idéal pour décorer votre intérieur tout en favorisant un sommeil apaisé et une énergie positive. Ses couleurs chaudes et ses plumes légères en font un objet à la fois décoratif et porteur de bien-être.",
               "photo": "images/articles/attrape-reve-rouge-plume-beige-mvc3uddgcpa7.jpg",
               "prixBoutique": 7.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w5kE73Y6ZD8ME6hz29T1l",
+              "stripeProductId": "prod_VSTEl4KwxFYdXn",
+              "stripePriceId": "price_1URYI3LOfCA5mATuwLoJLsJ9",
+              "stripeLinkId": "plink_1URYI3LOfCA5mATulohIKwS3",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rouge plume beige",
+              "stripeDesc": "Cet attrape-rêve allie élégance et symbolisme avec ses plumes douces et sa structure en forme de toile d'araignée. Traditionnellement utilisé pour filtrer les mauvais rêves et apporter paix et sérénité, il est idéal pour décorer votre intérieur tout en favorisant un sommeil apaisé et une énergie positive. Ses couleurs chaudes et ses plumes légères en font un objet à la fois décoratif et porteur de bien-être.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-multicolore-mvc3zy9hnwae",
@@ -26018,7 +26208,17 @@
               "description": "Cet attrape-rêve multicolore est un objet décoratif et spirituel aux couleurs vibrantes, composé de plumes et de fils teints. Selon les croyances traditionnelles, il protège des mauvais rêves et favorise un sommeil paisible en filtrant les énergies négatives. Suspendu près du lit ou dans un espace de détente, il apporte harmonie et bien-être à votre environnement.",
               "photo": "images/articles/attrape-reve-multicolore-mvc3zy9i366o.jpg",
               "prixBoutique": 7.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/bJe5kEbkeabP1kceO529T1m",
+              "stripeProductId": "prod_VSTEzlAwxErcSE",
+              "stripePriceId": "price_1URYI4LOfCA5mATuRoojTUkH",
+              "stripeLinkId": "plink_1URYI4LOfCA5mATuf2qkJGId",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve multicolore",
+              "stripeDesc": "Cet attrape-rêve multicolore est un objet décoratif et spirituel aux couleurs vibrantes, composé de plumes et de fils teints. Selon les croyances traditionnelles, il protège des mauvais rêves et favorise un sommeil paisible en filtrant les énergies négatives. Suspendu près du lit ou dans un espace de détente, il apporte harmonie et bien-être à votre environnement.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rouge-plume-violette-mvc47z77n5ig",
@@ -26027,7 +26227,17 @@
               "description": "Cet attrape-rêve aux teintes rouge et violette allie élégance et symbolisme pour créer une ambiance apaisante dans votre intérieur. Selon les croyances, il capte les mauvaises énergies et les mauvais rêves pour ne laisser passer que les pensées positives et les rêves doux. Parfait pour décorer une chambre ou un espace de détente, il apporte harmonie et sérénité au quotidien.",
               "photo": "images/articles/attrape-reve-rouge-plume-violette-mvc47z77bhu3.jpg",
               "prixBoutique": 7.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E9AU882es54wogWd29T1n",
+              "stripeProductId": "prod_VSTEFsTlklkrmt",
+              "stripePriceId": "price_1URYI4LOfCA5mATuRbcqfzvE",
+              "stripeLinkId": "plink_1URYI5LOfCA5mATupCceNoWv",
+              "stripePrix": 8.43,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rouge plume violette",
+              "stripeDesc": "Cet attrape-rêve aux teintes rouge et violette allie élégance et symbolisme pour créer une ambiance apaisante dans votre intérieur. Selon les croyances, il capte les mauvaises énergies et les mauvais rêves pour ne laisser passer que les pensées positives et les rêves doux. Parfait pour décorer une chambre ou un espace de détente, il apporte harmonie et sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-en-coeur-violet-et-rose-mvc4cekbxpud",
@@ -26036,7 +26246,17 @@
               "description": "Cet attrape-rêve en forme de coeur allie les couleurs violette et rose pour créer une décoration à la fois apaisante et harmonieuse. Selon les croyances, il favorise la protection des rêves et apporte une énergie positive pour apaiser les émotions et favoriser un sommeil réparateur. Suspendez-le près de votre lit ou dans un espace de détente pour en profiter pleinement.",
               "photo": "images/articles/attrape-reve-en-coeur-violet-et-rose-mvc4cekbzngc.jpg",
               "prixBoutique": 6.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq14o5ZU83He6Y35n29T1o",
+              "stripeProductId": "prod_VSTEktkivtlIxy",
+              "stripePriceId": "price_1URYI5LOfCA5mATun0o3tSks",
+              "stripeLinkId": "plink_1URYI6LOfCA5mATulDn1L88u",
+              "stripePrix": 6.98,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve en coeur violet et rose",
+              "stripeDesc": "Cet attrape-rêve en forme de coeur allie les couleurs violette et rose pour créer une décoration à la fois apaisante et harmonieuse. Selon les croyances, il favorise la protection des rêves et apporte une énergie positive pour apaiser les émotions et favoriser un sommeil réparateur. Suspendez-le près de votre lit ou dans un espace de détente pour en profiter pleinement.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rouge-avec-monnaie-de-pape-mvc4h99813we",
@@ -26045,7 +26265,17 @@
               "description": "Cet attrape-rêve rouge, orné d’une monnaie de pape, est un objet décoratif à la fois esthétique et symbolique. Selon les croyances, il protège les rêves en filtrant les énergies négatives et favorise un sommeil paisible et réparateur. Ses couleurs vives et ses motifs inspirants en font un élément parfait pour égayer une chambre ou un espace de détente.",
               "photo": "images/articles/attrape-reve-rouge-avec-monnaie-de-pape-mvc4h998mpcn.jpg",
               "prixBoutique": 6.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMfZiewqfw94wo6hz29T1p",
+              "stripeProductId": "prod_VSTE3Z3paISZiX",
+              "stripePriceId": "price_1URYI6LOfCA5mATuWBwAL1Hw",
+              "stripeLinkId": "plink_1URYI6LOfCA5mATuEUUQ6tBr",
+              "stripePrix": 7.4,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rouge avec monnaie de pape",
+              "stripeDesc": "Cet attrape-rêve rouge, orné d’une monnaie de pape, est un objet décoratif à la fois esthétique et symbolique. Selon les croyances, il protège les rêves en filtrant les énergies négatives et favorise un sommeil paisible et réparateur. Ses couleurs vives et ses motifs inspirants en font un élément parfait pour égayer une chambre ou un espace de détente.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rose-et-bleu-coeur-mvc4j1ss9dj2",
@@ -26054,7 +26284,17 @@
               "description": "Cet attrape-rêve en forme de coeur, aux teintes douces de rose et bleu, est un objet décoratif apaisant et harmonisant. Selon les croyances, il favorise la protection des rêves, la sérénité et l'équilibre émotionnel en captant les énergies négatives pour ne laisser passer que les bonnes ondes. Idéal pour une chambre d'enfant ou un espace de détente, il apporte une touche poétique et bienveillante à votre intérieur.",
               "photo": "images/articles/attrape-reve-rose-et-bleu-coeur-mvc4j1ssb51d.jpg",
               "prixBoutique": 6.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/dRmeVe73YbfT2og6hz29T1q",
+              "stripeProductId": "prod_VSTEbHgT7UejkZ",
+              "stripePriceId": "price_1URYI7LOfCA5mATut7GPAjzk",
+              "stripeLinkId": "plink_1URYI7LOfCA5mATuAcJfWGGt",
+              "stripePrix": 7.4,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rose et bleu Coeur",
+              "stripeDesc": "Cet attrape-rêve en forme de coeur, aux teintes douces de rose et bleu, est un objet décoratif apaisant et harmonisant. Selon les croyances, il favorise la protection des rêves, la sérénité et l'équilibre émotionnel en captant les énergies négatives pour ne laisser passer que les bonnes ondes. Idéal pour une chambre d'enfant ou un espace de détente, il apporte une touche poétique et bienveillante à votre intérieur.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "attrape-reve-blanc-decor-en-bois-mvc4qhwy2xji",
@@ -26063,7 +26303,17 @@
               "description": "L'attrape-rêve blanc est une pièce décorative inspirée des traditions amérindiennes, conçue pour apporter harmonie et sérénité à votre intérieur. Selon les croyances, il capture les mauvais rêves et les mauvaises énergies pour ne laisser passer que les pensées positives. Suspendez-le près de votre lit ou dans un espace de détente pour favoriser un sommeil paisible et une ambiance apaisante.",
               "photo": "images/articles/attrape-reve-blanc-decor-en-bois-mvc4qhwyrr7i.jpg",
               "prixBoutique": 7.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY8wQ1JE3Nr9QIaxP29T1r",
+              "stripeProductId": "prod_VSTEkjzS0VQn04",
+              "stripePriceId": "price_1URYI7LOfCA5mATu0mMP6x5y",
+              "stripeLinkId": "plink_1URYI8LOfCA5mATu5uPpxM3W",
+              "stripePrix": 8.22,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve blanc décor en bois",
+              "stripeDesc": "L'attrape-rêve blanc est une pièce décorative inspirée des traditions amérindiennes, conçue pour apporter harmonie et sérénité à votre intérieur. Selon les croyances, il capture les mauvais rêves et les mauvaises énergies pour ne laisser passer que les pensées positives. Suspendez-le près de votre lit ou dans un espace de détente pour favoriser un sommeil paisible et une ambiance apaisante.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-blanc-et-noir-mvc4sock0j3f",
@@ -26072,7 +26322,17 @@
               "description": "Cet attrape-rêve blanc et noir allie élégance et symbolisme pour créer une ambiance apaisante dans votre espace. Selon les croyances traditionnelles, il est censé filtrer les mauvais rêves et les énergies négatives, tout en laissant passer les rêves positifs et les bonnes vibrations. Idéal pour décorer votre chambre ou votre salon, il apporte harmonie et sérénité au quotidien.",
               "photo": "images/articles/attrape-reve-blanc-et-noir-mvc4sockjmcj.jpg",
               "prixBoutique": 7.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFacN673Y6ZD9QIbBT29T1s",
+              "stripeProductId": "prod_VSTEtYF82twa6A",
+              "stripePriceId": "price_1URYI8LOfCA5mATu3WU9xyAO",
+              "stripeLinkId": "plink_1URYI8LOfCA5mATurhjzYF73",
+              "stripePrix": 8.22,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve blanc et noir",
+              "stripeDesc": "Cet attrape-rêve blanc et noir allie élégance et symbolisme pour créer une ambiance apaisante dans votre espace. Selon les croyances traditionnelles, il est censé filtrer les mauvais rêves et les énergies négatives, tout en laissant passer les rêves positifs et les bonnes vibrations. Idéal pour décorer votre chambre ou votre salon, il apporte harmonie et sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-yin-yang-noir-et-blanc-mvc59t23eupw",
@@ -26081,7 +26341,17 @@
               "description": "Cet attrape-rêve yin yang allie élégance et symbolisme pour harmoniser votre espace. Avec ses couleurs contrastées, il représente l'équilibre entre les énergies opposées et favorise un sommeil paisible et réparateur. Suspendu près de votre lit, il capte les mauvais rêves et les transforme en doux rêves positifs, tout en apportant une touche décorative raffinée à votre intérieur.",
               "photo": "images/articles/attrape-reve-yin-yang-noir-et-blanc-mvc59t24czpt.jpg",
               "prixBoutique": 5.5,
-              "stock": 19
+              "stock": 19,
+              "stripe": "https://buy.stripe.com/eVq4gAaga83H2oggWd29T1t",
+              "stripeProductId": "prod_VSTEtoRdNeXZtO",
+              "stripePriceId": "price_1URYI9LOfCA5mATunuTMrIvO",
+              "stripeLinkId": "plink_1URYI9LOfCA5mATutp9PACgr",
+              "stripePrix": 5.95,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve yin yang noir et blanc",
+              "stripeDesc": "Cet attrape-rêve yin yang allie élégance et symbolisme pour harmoniser votre espace. Avec ses couleurs contrastées, il représente l'équilibre entre les énergies opposées et favorise un sommeil paisible et réparateur. Suspendu près de votre lit, il capte les mauvais rêves et les transforme en doux rêves positifs, tout en apportant une touche décorative raffinée à votre intérieur.",
+              "stripeStock": 19,
+              "epuise": false
             },
             {
               "id": "attrapr-reve-couleur-de-marseille-mvc5ebwzzf6e",
@@ -26090,7 +26360,17 @@
               "description": "Attraprêve couleur de Marseille est un attrape-rêve délicat et coloré, inspiré par les teintes apaisantes de la Méditerranée. Ce rêveur artisanal, avec ses franges douces et son crochetage raffiné, est conçu pour filtrer les énergies négatives et favoriser des nuits paisibles et des rêves positifs. Idéal pour décorer votre espace de vie tout en invitant la sérénité et la protection bienveillante dans votre quotidien.",
               "photo": "images/articles/attrapr-reve-couleur-de-marseille-mvc5ebwzylbr.jpg",
               "prixBoutique": 2.5,
-              "stock": 26
+              "stock": 26,
+              "stripe": "https://buy.stripe.com/4gMaEYcoido13skfS929T1u",
+              "stripeProductId": "prod_VSTEyJYFSazWuf",
+              "stripePriceId": "price_1URYI9LOfCA5mATuDAtcafmz",
+              "stripeLinkId": "plink_1URYIALOfCA5mATu6PQtYsXS",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Attrapr - rêve couleur de Marseille",
+              "stripeDesc": "Attraprêve couleur de Marseille est un attrape-rêve délicat et coloré, inspiré par les teintes apaisantes de la Méditerranée. Ce rêveur artisanal, avec ses franges douces et son crochetage raffiné, est conçu pour filtrer les énergies négatives et favoriser des nuits paisibles et des rêves positifs. Idéal pour décorer votre espace de vie tout en invitant la sérénité et la protection bienveillante dans votre quotidien.",
+              "stripeStock": 26,
+              "epuise": false
             },
             {
               "id": "attrape-reve-noir-et-blanc-mvc5liaebhyl",
@@ -26099,7 +26379,17 @@
               "description": "Attrape-rêve traditionnel alliant élégance et symbolisme, cet objet décoratif associe les couleurs noir et blanc pour créer une harmonie visuelle apaisante. Selon les croyances amérindiennes, il est censé protéger contre les mauvais rêves et favoriser un sommeil paisible en filtrant les énergies négatives. Idéal pour une ambiance zen et spirituelle dans votre intérieur, il apporte également une touche bohème et naturelle à votre décoration.",
               "photo": "images/articles/attrape-reve-noir-et-blanc-mvc5liaecf7z.jpg",
               "prixBoutique": 6.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU9AU0FA97L8ME0Xf29T1v",
+              "stripeProductId": "prod_VSTEQubgQcIo0g",
+              "stripePriceId": "price_1URYIALOfCA5mATuG73jSIln",
+              "stripeLinkId": "plink_1URYIALOfCA5mATuBt3KPAMD",
+              "stripePrix": 7.4,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve noir et blanc",
+              "stripeDesc": "Attrape-rêve traditionnel alliant élégance et symbolisme, cet objet décoratif associe les couleurs noir et blanc pour créer une harmonie visuelle apaisante. Selon les croyances amérindiennes, il est censé protéger contre les mauvais rêves et favoriser un sommeil paisible en filtrant les énergies négatives. Idéal pour une ambiance zen et spirituelle dans votre intérieur, il apporte également une touche bohème et naturelle à votre décoration.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-noir-et-blanc-mvc60kqj9mgu",
@@ -26108,7 +26398,17 @@
               "description": "L'attrape-rêve noir et blanc est un objet décoratif aux influences amérindiennes, conçu pour apporter harmonie et sérénité dans votre intérieur. Selon les croyances, il capture les mauvais rêves et les énergies négatives pour ne laisser passer que les rêves positifs et apaisants. Suspendez-le près de votre lit ou dans un espace de détente pour en profiter pleinement.",
               "photo": "images/articles/attrape-reve-noir-et-blanc-mvc60kqjfrck.jpg",
               "prixBoutique": 2.5,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/bJe28s0FA97L9QIbBT29T1w",
+              "stripeProductId": "prod_VSTEhZwYMRY1HP",
+              "stripePriceId": "price_1URYIBLOfCA5mATuChxJkGi7",
+              "stripeLinkId": "plink_1URYIBLOfCA5mATuX8Vvft3p",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve noir et blanc",
+              "stripeDesc": "L'attrape-rêve noir et blanc est un objet décoratif aux influences amérindiennes, conçu pour apporter harmonie et sérénité dans votre intérieur. Selon les croyances, il capture les mauvais rêves et les énergies négatives pour ne laisser passer que les rêves positifs et apaisants. Suspendez-le près de votre lit ou dans un espace de détente pour en profiter pleinement.",
+              "stripeStock": 4,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rose-carillon-mvc65grup3u6",
@@ -26117,7 +26417,17 @@
               "description": "Cet attrape-rêve rose, orné de plumes douces et de petits carillons, est un objet décoratif suspendu qui embellit votre intérieur tout en diffusant une énergie apaisante. Associé à la sérénité et à la détente, il aide à harmoniser les émotions et à créer une ambiance calme et positive. Idéal pour ajouter une touche poétique et bienveillante à votre espace de vie.",
               "photo": "images/articles/attrape-reve-rose-carillon-mvc65grurg7t.jpg",
               "prixBoutique": 8.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/aFaeVeewq5Vz9QI49r29T1x",
+              "stripeProductId": "prod_VSTEhitq0ebAMF",
+              "stripePriceId": "price_1URYICLOfCA5mATuRFRwdx5Y",
+              "stripeLinkId": "plink_1URYICLOfCA5mATuQChcAqfD",
+              "stripePrix": 9.46,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rose carillon",
+              "stripeDesc": "Cet attrape-rêve rose, orné de plumes douces et de petits carillons, est un objet décoratif suspendu qui embellit votre intérieur tout en diffusant une énergie apaisante. Associé à la sérénité et à la détente, il aide à harmoniser les émotions et à créer une ambiance calme et positive. Idéal pour ajouter une touche poétique et bienveillante à votre espace de vie.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "attrape-reve-rouge-carillon-mvc6ims3v09q",
@@ -26126,7 +26436,17 @@
               "description": "Cet attrapa-rêve rouge allie douceur et spiritualité grâce à ses plumes colorées et ses petits carillons. Suspendu dans une chambre ou un espace de détente, il est censé purifier l’énergie ambiante et protéger des pensées négatives pour favoriser un sommeil apaisant. Selon les croyances, il aide aussi à garder une attitude positive et à équilibrer les émotions au quotidien.",
               "photo": "images/articles/attrape-reve-rouge-carillon-mvc6ims3uomq.jpg",
               "prixBoutique": 8.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/eVq28s3RM4RvbYQdK129T1y",
+              "stripeProductId": "prod_VSTEmnLtm3yea9",
+              "stripePriceId": "price_1URYICLOfCA5mATuXvg0wbEs",
+              "stripeLinkId": "plink_1URYIDLOfCA5mATuBVpx21wV",
+              "stripePrix": 9.46,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve rouge Carillon",
+              "stripeDesc": "Cet attrapa-rêve rouge allie douceur et spiritualité grâce à ses plumes colorées et ses petits carillons. Suspendu dans une chambre ou un espace de détente, il est censé purifier l’énergie ambiante et protéger des pensées négatives pour favoriser un sommeil apaisant. Selon les croyances, il aide aussi à garder une attitude positive et à équilibrer les émotions au quotidien.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "attrape-reve-blanc-carillon-mvc6mw6i51lu",
@@ -26135,7 +26455,17 @@
               "description": "Cet attrape-rêve blanc au carillon apporte une touche apaisante et spirituelle à votre intérieur. Selon les croyances traditionnelles, il favorise un sommeil paisible en filtrant les mauvaises énergies et les pensées négatives. Ses plumes légères et son mouvement mélodieux en font un objet idéal pour créer une ambiance harmonieuse et propice à la détente.",
               "photo": "images/articles/attrape-reve-blanc-carillon-mvc6mw6jrtlu.jpg",
               "prixBoutique": 8.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B68wQ0FAdo1e6YbBT29T1z",
+              "stripeProductId": "prod_VSTENKCK27sq0a",
+              "stripePriceId": "price_1URYIDLOfCA5mATuHlWVHqfl",
+              "stripeLinkId": "plink_1URYIDLOfCA5mATub0LrhNQD",
+              "stripePrix": 9.46,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve blanc Carillon",
+              "stripeDesc": "Cet attrape-rêve blanc au carillon apporte une touche apaisante et spirituelle à votre intérieur. Selon les croyances traditionnelles, il favorise un sommeil paisible en filtrant les mauvaises énergies et les pensées négatives. Ses plumes légères et son mouvement mélodieux en font un objet idéal pour créer une ambiance harmonieuse et propice à la détente.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "attrape-reve-noir-carillon-mvc6qi1ll7bc",
@@ -26144,7 +26474,17 @@
               "description": "Cet attrape-rêve noir allie élégance et symbolisme pour créer une ambiance apaisante dans votre intérieur. Selon les croyances, il capte les mauvais rêves et les énergies négatives pour ne laisser passer que les pensées positives. Suspendu près de votre lit ou dans un espace de détente, il apporte harmonie et sérénité au quotidien.",
               "photo": "images/articles/attrape-reve-noir-carillon-mvc6qi1lb5gy.jpg",
               "prixBoutique": 8.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/bJe3cw9c6fw94wocFX29T1A",
+              "stripeProductId": "prod_VSTEsuWehlOqve",
+              "stripePriceId": "price_1URYIELOfCA5mATuhtXofUqs",
+              "stripeLinkId": "plink_1URYIELOfCA5mATu9dcPstSM",
+              "stripePrix": 9.46,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve noir carillon",
+              "stripeDesc": "Cet attrape-rêve noir allie élégance et symbolisme pour créer une ambiance apaisante dans votre intérieur. Selon les croyances, il capte les mauvais rêves et les énergies négatives pour ne laisser passer que les pensées positives. Suspendu près de votre lit ou dans un espace de détente, il apporte harmonie et sérénité au quotidien.",
+              "stripeStock": 3,
+              "epuise": false
             },
             {
               "id": "attrape-reve-marron-mvcf19guth24",
@@ -26153,7 +26493,17 @@
               "description": "L'attrape-rêve est une décoration spirituelle et apaisante, souvent utilisée pour protéger le sommeil et favoriser des rêves positifs. Selon les croyances, il capte les mauvaises énergies et les mauvais rêves pour ne laisser passer que les pensées positives. Suspendu près du lit ou dans un espace de détente, il apporte harmonie et sérénité à votre environnement.",
               "photo": "images/articles/attrape-reve-marron-mvcf19gu2rxx.jpg",
               "prixBoutique": 7.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNicN6ewq6ZD4wogWd29T1B",
+              "stripeProductId": "prod_VSTEiR514gjFjq",
+              "stripePriceId": "price_1URYIELOfCA5mATuHGMOef7c",
+              "stripeLinkId": "plink_1URYIFLOfCA5mATuFK7CIdGx",
+              "stripePrix": 8.43,
+              "stripeMode": "live",
+              "stripeNom": "Attrape - rêve marron",
+              "stripeDesc": "L'attrape-rêve est une décoration spirituelle et apaisante, souvent utilisée pour protéger le sommeil et favoriser des rêves positifs. Selon les croyances, il capte les mauvaises énergies et les mauvais rêves pour ne laisser passer que les pensées positives. Suspendu près du lit ou dans un espace de détente, il apporte harmonie et sérénité à votre environnement.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -26455,7 +26805,17 @@
               "description": "Cette statuette Tara en laiton représente une déesse bienveillante aux multiples bras, symbole de protection et de compassion dans la tradition bouddhiste et tibétaine. Elle est souvent utilisée pour attirer la sérénité, renforcer la confiance en soi et favoriser un équilibre émotionnel. Placée dans un espace de méditation ou comme objet de décoration spirituelle, elle diffuse une énergie apaisante et inspirante.",
               "photo": "images/articles/statuette-tara-en-laiton-20-cm-mvc74pjpdq2x.jpg",
               "prixBoutique": 109.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNieVe73Yfw9d2UaxP29T1C",
+              "stripeProductId": "prod_VSTEmsJyj62SRz",
+              "stripePriceId": "price_1URYIFLOfCA5mATu87t6i62P",
+              "stripeLinkId": "plink_1URYIFLOfCA5mATu2pE09HoQ",
+              "stripePrix": 113.86,
+              "stripeMode": "live",
+              "stripeNom": "Statuette tara en laiton 20 cm",
+              "stripeDesc": "Cette statuette Tara en laiton représente une déesse bienveillante aux multiples bras, symbole de protection et de compassion dans la tradition bouddhiste et tibétaine. Elle est souvent utilisée pour attirer la sérénité, renforcer la confiance en soi et favoriser un équilibre émotionnel. Placée dans un espace de méditation ou comme objet de décoration spirituelle, elle diffuse une énergie apaisante et inspirante.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "statue-monolithique-emblematique-de-l-il-mvc7gr0wvjiy",
@@ -26464,7 +26824,17 @@
               "description": "Cette statue monolithique inspirante, connue sous le nom de moaï, incarne la puissance et la sagesse des traditions de l'île de Pâques. Selon les croyances, elle symbolise une énergie protectrice et une connexion profonde avec la terre et les ancêtres. Souvent utilisée pour renforcer la stabilité émotionnelle et l'équilibre énergétique, elle apporte une présence majestueuse et apaisante dans votre espace de vie.",
               "photo": "images/articles/statue-monolithique-emblematique-de-l-il-mvc7gr0wb0cj.jpg",
               "prixBoutique": 39.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A14o73Y1Fj3sk49r29T1D",
+              "stripeProductId": "prod_VSTEIvLXT6ejvM",
+              "stripePriceId": "price_1URYIGLOfCA5mATuA7S9Bgdy",
+              "stripeLinkId": "plink_1URYIGLOfCA5mATuy3lsgjQP",
+              "stripePrix": 41.5,
+              "stripeMode": "live",
+              "stripeNom": "Statue monolithique emblématique de l'île de pâques <moaï<",
+              "stripeDesc": "Cette statue monolithique inspirante, connue sous le nom de moaï, incarne la puissance et la sagesse des traditions de l'île de Pâques. Selon les croyances, elle symbolise une énergie protectrice et une connexion profonde avec la terre et les ancêtres. Souvent utilisée pour renforcer la stabilité émotionnelle et l'équilibre énergétique, elle apporte une présence majestueuse et apaisante dans votre espace de vie.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "statuette-amithara-laiton-18-cm-mvc7vyl4znuy",
@@ -26473,7 +26843,17 @@
               "description": "La statuette Amithara en laiton incarne une énergie apaisante et harmonieuse, souvent utilisée pour favoriser la sérénité et l'équilibre émotionnel. Selon les croyances en lithothérapie, elle aide à renforcer la connexion spirituelle et à apaiser les tensions intérieures. Idéale pour décorer un espace de méditation ou un coin calme de votre intérieur, elle diffuse une ambiance de paix et de bien-être.",
               "photo": "images/articles/statuette-amithara-laiton-18-cm-mvc7vyl4a5ju.jpg",
               "prixBoutique": 66,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIbJ2aga1Fjd2UeO529T1E",
+              "stripeProductId": "prod_VSTEB0FcdNF0q3",
+              "stripePriceId": "price_1URYIGLOfCA5mATu7DXysjd2",
+              "stripeLinkId": "plink_1URYIHLOfCA5mATuxXl74RXS",
+              "stripePrix": 68.48,
+              "stripeMode": "live",
+              "stripeNom": "Statuette Amithara laiton 18 cm",
+              "stripeDesc": "La statuette Amithara en laiton incarne une énergie apaisante et harmonieuse, souvent utilisée pour favoriser la sérénité et l'équilibre émotionnel. Selon les croyances en lithothérapie, elle aide à renforcer la connexion spirituelle et à apaiser les tensions intérieures. Idéale pour décorer un espace de méditation ou un coin calme de votre intérieur, elle diffuse une ambiance de paix et de bien-être.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -26831,7 +27211,17 @@
               "description": "Ce pompon rouge apporte une touche chaleureuse et vibrante à vos décors, tout en évoquant une énergie dynamique et stimulante. Traditionnellement utilisé pour dynamiser les espaces, il est souvent associé à la vitalité et à la joie. Parfait pour égayer vos paniers ou vos intérieurs, il invite à une ambiance positive et inspirante.",
               "photo": "images/articles/pompon-rouge-pour-deco-panier-mvc6we75llhu.jpg",
               "prixBoutique": 2.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E5kEdsm6ZD6Ew35n29T1F",
+              "stripeProductId": "prod_VSTEfFlufEkrCg",
+              "stripePriceId": "price_1URYIHLOfCA5mATuGNmYSwSU",
+              "stripeLinkId": "plink_1URYIHLOfCA5mATuylymYqCf",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Pompon rouge pour déco panier",
+              "stripeDesc": "Ce pompon rouge apporte une touche chaleureuse et vibrante à vos décors, tout en évoquant une énergie dynamique et stimulante. Traditionnellement utilisé pour dynamiser les espaces, il est souvent associé à la vitalité et à la joie. Parfait pour égayer vos paniers ou vos intérieurs, il invite à une ambiance positive et inspirante.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pompon-bleu-pour-decoration-panier-mvc6x9xd873d",
@@ -26840,7 +27230,17 @@
               "description": "Ce pompon bleu apporte une touche douce et apaisante à vos espaces, idéal pour décorer vos paniers ou créer une ambiance harmonieuse. En lithothérapie, le bleu est souvent associé à la sérénité, à la communication et à l’apaisement des émotions. Parfait pour égayer votre intérieur tout en favorisant un climat de calme et de bien-être.",
               "photo": "images/articles/pompon-bleu-pour-decoration-panier-mvc6x9xdsc9s.jpg",
               "prixBoutique": 2.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe28s1JE0Bf7IA35n29T1G",
+              "stripeProductId": "prod_VSTESHC5J6ZxoS",
+              "stripePriceId": "price_1URYIILOfCA5mATualLIjJ6G",
+              "stripeLinkId": "plink_1URYIILOfCA5mATuMW5FC1DF",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Pompon bleu pour décoration panier",
+              "stripeDesc": "Ce pompon bleu apporte une touche douce et apaisante à vos espaces, idéal pour décorer vos paniers ou créer une ambiance harmonieuse. En lithothérapie, le bleu est souvent associé à la sérénité, à la communication et à l’apaisement des émotions. Parfait pour égayer votre intérieur tout en favorisant un climat de calme et de bien-être.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pompon-pour-decoration-panier-noir-et-bl-mvc6yruhjj21",
@@ -26849,7 +27249,17 @@
               "description": "Ce pompon décoratif aux couleurs noir et blanc apporte une touche d'élégance et d'équilibre à vos espaces. Associé traditionnellement à la purification et à la protection, il peut être utilisé pour harmoniser les énergies d'une pièce. Idéal pour décorer vos paniers ou ajouter une note esthétique à vos créations, il symbolise aussi la dualité et l'harmonie entre les opposés.",
               "photo": "images/articles/pompon-pour-decoration-panier-noir-et-bl-mvc6yruhwdc1.jpg",
               "prixBoutique": 2.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM5kEaga6ZD5As21j29T1H",
+              "stripeProductId": "prod_VSTExQvjdvCpJ7",
+              "stripePriceId": "price_1URYIJLOfCA5mATuaZK4C6QU",
+              "stripeLinkId": "plink_1URYIJLOfCA5mATuZHDSyEE7",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Pompon pour décoration panier noir et blanc",
+              "stripeDesc": "Ce pompon décoratif aux couleurs noir et blanc apporte une touche d'élégance et d'équilibre à vos espaces. Associé traditionnellement à la purification et à la protection, il peut être utilisé pour harmoniser les énergies d'une pièce. Idéal pour décorer vos paniers ou ajouter une note esthétique à vos créations, il symbolise aussi la dualité et l'harmonie entre les opposés.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cactus-80-cm-mvc7m7eymume",
@@ -26858,7 +27268,17 @@
               "description": "Cette impressionnante statuette de Cactus en pierre naturelle mesure 80 centimètres et incarne une énergie puissante et protectrice. Selon la lithothérapie, elle est souvent associée à la vitalité, à la résilience et à la capacité de surmonter les défis avec sérénité. Idéale pour décorer un espace tout en attirant une énergie positive et dynamisante, elle rappelle aussi la patience et la persévérance.",
               "photo": "images/articles/cactus-80-cm-mvc7m7eye9f4.jpg",
               "prixBoutique": 137.4,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNibJ2bkees5aUM49r29T1I",
+              "stripeProductId": "prod_VSTETofLt9608v",
+              "stripePriceId": "price_1URYIJLOfCA5mATugX86HUIO",
+              "stripeLinkId": "plink_1URYIKLOfCA5mATuruMVSN3K",
+              "stripePrix": 142.28,
+              "stripeMode": "live",
+              "stripeNom": "Cactus 80 cm",
+              "stripeDesc": "Cette impressionnante statuette de Cactus en pierre naturelle mesure 80 centimètres et incarne une énergie puissante et protectrice. Selon la lithothérapie, elle est souvent associée à la vitalité, à la résilience et à la capacité de surmonter les défis avec sérénité. Idéale pour décorer un espace tout en attirant une énergie positive et dynamisante, elle rappelle aussi la patience et la persévérance.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

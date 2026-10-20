@@ -54,7 +54,15 @@
     univers: 'mineraux',
     nbModifs: 0,
     pendingPhotos: {},
-    rayonsOuverts: {}
+    rayonsOuverts: {},
+    rev: 0,               // compteur de modifications (jamais remis à zéro)
+    premiereModif: null,  // heure de la 1re modification pas encore en ligne
+    publication: false,   // une mise en ligne est en cours
+    autoBloque: false,    // mise en ligne auto suspendue (modif. depuis un autre appareil)
+    autoEssaiApres: 0,    // après un échec, pas de nouvel essai auto avant cette heure
+    autoEchecs: 0,
+    triDate: false,       // vue « tous les articles, du plus récent au plus ancien »
+    limiteDate: 100
   };
 
   var $ = function (id) { return document.getElementById(id); };
@@ -97,7 +105,8 @@
       'Accept': 'application/vnd.github+json',
       'X-GitHub-Api-Version': '2022-11-28'
     };
-    return fetch(GITAPI + endpoint + (options.method ? '' : '?t=' + Date.now()), options);
+    var sep = endpoint.indexOf('?') === -1 ? '?' : '&';
+    return fetch(GITAPI + endpoint + (options.method ? '' : sep + 't=' + Date.now()), options);
   }
 
   function okJson(r) {
@@ -123,11 +132,20 @@
   }
 
   /* Écrit plusieurs fichiers en UN commit (photos + catalogue), sans limite de
-     taille. Échoue proprement si la branche a bougé entre-temps (fast-forward). */
-  function committerFichiers(fichiers, message) {
-    var parentSha, baseTreeSha;
+     taille. Échoue proprement si la branche a bougé entre-temps (fast-forward).
+     attendu = { path, sha } : refuse d'écrire (erreur PAS_A_JOUR) si ce fichier
+     a changé en ligne depuis notre dernière lecture — sinon on effacerait ce
+     qu'un robot (liens de paiement, stock) y a écrit entre-temps.
+     Renvoie { shas : { chemin: sha du blob écrit } }. */
+  function committerFichiers(fichiers, message, attendu) {
+    var parentSha, baseTreeSha, shas = {};
     return ghg('git/ref/heads/' + BRANCH).then(okJson).then(function (ref) {
       parentSha = ref.object.sha;
+      if (!attendu) return null;
+      return ghg('contents/' + attendu.path + '?ref=' + parentSha).then(okJson).then(function (meta) {
+        if (meta.sha !== attendu.sha) throw new Error('PAS_A_JOUR');
+      });
+    }).then(function () {
       return ghg('git/commits/' + parentSha).then(okJson);
     }).then(function (commit) {
       baseTreeSha = commit.tree.sha;
@@ -135,6 +153,7 @@
       var chaine = Promise.resolve();
       fichiers.forEach(function (f) {
         chaine = chaine.then(function () { return creerBlob(f.base64); }).then(function (sha) {
+          shas[f.path] = sha;
           arbre.push({ path: f.path, mode: '100644', type: 'blob', sha: sha });
         });
       });
@@ -145,6 +164,8 @@
       return ghg('git/commits', { method: 'POST', body: JSON.stringify({ message: message, tree: tree.sha, parents: [parentSha] }) }).then(okJson);
     }).then(function (commit) {
       return ghg('git/refs/heads/' + BRANCH, { method: 'PATCH', body: JSON.stringify({ sha: commit.sha, force: false }) }).then(okJson);
+    }).then(function () {
+      return { shas: shas };
     });
   }
 
@@ -191,7 +212,13 @@
   function prixFr(prix) { return prix === null || prix === undefined ? '' : String(prix).replace('.', ','); }
   function aujourdhui() { var d = new Date(); return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0'); }
 
-  function markDirty() { state.nbModifs++; updateStatusbar(); sauverBrouillon(); }
+  function markDirty() {
+    if (!state.nbModifs) state.premiereModif = Date.now();
+    state.nbModifs++;
+    state.rev++;
+    updateStatusbar();
+    sauverBrouillon();
+  }
 
   /* ---------- Brouillon automatique ----------
      Chaque modification est gardée dans le navigateur : si la page est rechargée
@@ -249,17 +276,47 @@
     if (!state.catalogue.actualites) state.catalogue.actualites = [];
     state.pendingPhotos = b.pendingPhotos || {};
     state.nbModifs = b.nbModifs;
+    state.premiereModif = Date.now();
     state.empreinte = empreinteFrais;
     // state.sha reste celui qui vient d'être chargé : la mise en ligne passera.
+  }
+
+  /* ---------- Mise en ligne automatique ----------
+     Filet de sécurité : des changements qui attendent depuis 5 minutes sont mis
+     en ligne tout seuls, en arrière-plan (aucune fenêtre, la fiche ouverte n'est
+     pas touchée). Le bouton « Mettre en ligne » reste utilisable à tout moment. */
+  var AUTO_DELAI = 5 * 60 * 1000;
+
+  function infoAuto() {
+    if (state.autoBloque || !state.premiereModif) return '';
+    var cible = Math.max(state.premiereModif + AUTO_DELAI, state.autoEssaiApres);
+    var reste = cible - Date.now();
+    if (reste <= 0) return 'mise en ligne automatique imminente';
+    return 'mise en ligne automatique dans ' + Math.ceil(reste / 60000) + ' min';
   }
 
   function updateStatusbar() {
     var dirty = state.nbModifs > 0;
     $('dot').className = 'dot' + (dirty ? ' dirty' : '');
-    $('etat-txt').textContent = dirty
-      ? state.nbModifs + ' changement' + (state.nbModifs > 1 ? 's' : '') + ' à mettre en ligne'
-      : 'Tout est en ligne';
-    $('btn-publish').disabled = !dirty;
+    var txt;
+    if (state.publication) {
+      txt = 'Mise en ligne en cours…';
+    } else if (dirty) {
+      txt = state.nbModifs + ' changement' + (state.nbModifs > 1 ? 's' : '') + ' à mettre en ligne';
+      var info = infoAuto();
+      if (info) txt += ' · ' + info;
+    } else {
+      txt = 'Tout est en ligne';
+    }
+    $('etat-txt').textContent = txt;
+    $('btn-publish').disabled = !dirty || state.publication;
+  }
+
+  function verifierAutoPublication(immediat) {
+    if (!state.catalogue || !state.nbModifs || state.publication || state.autoBloque) return;
+    if (Date.now() < state.autoEssaiApres) return;
+    if (!state.premiereModif) state.premiereModif = Date.now();
+    if (immediat || Date.now() - state.premiereModif >= AUTO_DELAI) publish(true);
   }
 
   function setStatus(msg, ok) {
@@ -509,7 +566,10 @@
         '<div class="pastille" style="background:' + u.couleur + '"></div>' +
         '<div class="u-nom">' + esc(u.nom) + '</div>' +
         '<div class="u-compte">' + libelle + '</div>';
-      b.onclick = function () { state.univers = u.key; $('admin-search').value = ''; $('resultats-recherche').innerHTML = ''; render(); };
+      b.onclick = function () {
+        state.univers = u.key; state.triDate = false; majBoutonTri();
+        $('admin-search').value = ''; $('resultats-recherche').innerHTML = ''; render();
+      };
       grid.appendChild(b);
     });
   }
@@ -552,7 +612,7 @@
       prixTxt += ' <span style="color:var(--faded)">· en ligne ' + Number(art.prix).toLocaleString('fr-FR', { minimumFractionDigits: 2 }) + ' €</span>';
     }
     row.innerHTML =
-      (src ? '<img src="' + esc(src) + '" alt="">' : '<div class="noimg">💎</div>') +
+      (src ? '<img src="' + esc(src) + '" alt="" loading="lazy" decoding="async">' : '<div class="noimg">💎</div>') +
       '<div class="art-info">' +
       '<div class="art-nom">' + esc(art.nom) + '</div>' +
       '<div class="art-ligne2"><span class="art-prix">' + prixTxt + '</span>' + tags +
@@ -740,7 +800,7 @@
     // pour que la liste des résultats reste à jour ; sinon on rétablit la vue.
     var champ = $('admin-search');
     var q = champ ? champ.value.trim() : '';
-    if (q) renderRecherche(q); else rechercheActive(false);
+    if (q || state.triDate) renderRecherche(q); else rechercheActive(false);
   }
 
   /* ---------- Recherche ---------- */
@@ -763,12 +823,41 @@
   }
 
   var RECH_MAX = 80;
+  var DATE_PAGE = 100;
 
+  /* Date et heure d'ajout d'un article : elles sont inscrites dans son
+     identifiant, créé une fois pour toutes à l'ajout (« nom-<horodatage en
+     base 36><4 caractères aléatoires> », voir uid()). 0 si illisible. */
+  function dateAjout(art) {
+    var seg = String((art && art.id) || '').split('-').pop();
+    if (seg.length < 8) return 0;
+    var t = parseInt(seg.slice(0, 8), 36);
+    return (t > 1577836800000 && t < Date.now() + 86400000) ? t : 0;   // entre 2020 et demain
+  }
+
+  function libelleJour(t) {
+    if (!t) return 'Date d\'ajout inconnue';
+    var d = new Date(t), auj = new Date();
+    var ecart = Math.round((new Date(auj.getFullYear(), auj.getMonth(), auj.getDate()) -
+      new Date(d.getFullYear(), d.getMonth(), d.getDate())) / 86400000);
+    var long = d.toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+    if (ecart === 0) return 'Aujourd\'hui · ' + long;
+    if (ecart === 1) return 'Hier · ' + long;
+    return long.charAt(0).toUpperCase() + long.slice(1);
+  }
+
+  function heureAjout(t) {
+    var d = new Date(t);
+    return d.getHours() + 'h' + String(d.getMinutes()).padStart(2, '0');
+  }
+
+  /* Vue « résultats » : recherche par mots et/ou tri par date. Sans mots ni
+     tri par date, on revient à la vue normale (univers et rayons). */
   function renderRecherche(q) {
     var box = $('resultats-recherche');
     box.innerHTML = '';
     var tokens = norm(q).split(/\s+/).filter(function (t) { return t.length >= 2; });
-    if (!tokens.length) { rechercheActive(false); return; }
+    if (!tokens.length && !state.triDate) { rechercheActive(false); return; }
     rechercheActive(true);
 
     var qJoin = tokens.join(' ');
@@ -778,33 +867,66 @@
       (theme.familles || []).forEach(function (fam) {
         (fam.articles || []).forEach(function (art) {
           var nomN = norm(art.nom);
-          var hay = nomN + ' ' + norm(fam.nom) + ' ' + norm(theme.nom) + ' ' + norm(art.description || '');
-          // Recherche précise : TOUS les mots tapés doivent être présents.
-          if (!tokens.every(function (x) { return hay.indexOf(x) !== -1; })) return;
-          // Score : on remonte les correspondances dans le nom (les plus utiles).
           var score = 0;
-          if (nomN === qJoin) score += 1000;
-          else if (nomN.indexOf(qJoin) === 0) score += 500;
-          else if (nomN.indexOf(qJoin) !== -1) score += 200;
-          tokens.forEach(function (x) { if (nomN.indexOf(x) !== -1) score += 20; });
-          resultats.push({ art: art, fam: fam, ctx: theme.nom + ' › ' + fam.nom, score: score, len: nomN.length });
+          if (tokens.length) {
+            var hay = nomN + ' ' + norm(fam.nom) + ' ' + norm(theme.nom) + ' ' + norm(art.description || '');
+            // Recherche précise : TOUS les mots tapés doivent être présents.
+            if (!tokens.every(function (x) { return hay.indexOf(x) !== -1; })) return;
+            // Score : on remonte les correspondances dans le nom (les plus utiles).
+            if (nomN === qJoin) score += 1000;
+            else if (nomN.indexOf(qJoin) === 0) score += 500;
+            else if (nomN.indexOf(qJoin) !== -1) score += 200;
+            tokens.forEach(function (x) { if (nomN.indexOf(x) !== -1) score += 20; });
+          }
+          resultats.push({ art: art, fam: fam, ctx: theme.nom + ' › ' + fam.nom, score: score,
+            len: nomN.length, date: dateAjout(art) });
         });
       });
     });
-    resultats.sort(function (a, b) { return b.score - a.score || a.len - b.len; });
+    if (state.triDate) resultats.sort(function (a, b) { return b.date - a.date; });
+    else resultats.sort(function (a, b) { return b.score - a.score || a.len - b.len; });
 
     var carte = document.createElement('div');
     carte.className = 'rayon';
-    var titre = resultats.length
-      ? resultats.length + ' résultat' + (resultats.length > 1 ? 's' : '') + ' sur ' + nbArticlesTotal() + ' articles'
-      : 'Aucun résultat';
-    carte.innerHTML = '<div class="rayon-tete"><div><div class="etiq">Recherche</div><h3>' + esc(titre) + '</h3></div></div>';
-    resultats.slice(0, RECH_MAX).forEach(function (r) { carte.appendChild(articleRow(r.fam, r.art, r.ctx)); });
-    if (resultats.length > RECH_MAX) {
-      var plus = document.createElement('div');
-      plus.className = 'rayon-vide';
-      plus.textContent = 'Affichage des ' + RECH_MAX + ' premiers · ajoutez un mot pour affiner.';
-      carte.appendChild(plus);
+    var titre;
+    if (!resultats.length) titre = 'Aucun résultat';
+    else if (state.triDate && !tokens.length) titre = 'Tous les articles (' + resultats.length + '), du plus récent au plus ancien';
+    else titre = resultats.length + ' résultat' + (resultats.length > 1 ? 's' : '') + ' sur ' + nbArticlesTotal() + ' articles' +
+      (state.triDate ? ', du plus récent au plus ancien' : '');
+    carte.innerHTML = '<div class="rayon-tete"><div><div class="etiq">' + (state.triDate ? 'Triés par date d\'ajout' : 'Recherche') +
+      '</div><h3>' + esc(titre) + '</h3></div></div>';
+
+    if (state.triDate) {
+      // Groupés par jour (« Aujourd'hui », « Hier »…), avec l'heure d'ajout.
+      var jourPrecedent = null;
+      resultats.slice(0, state.limiteDate).forEach(function (r) {
+        var jour = r.date ? new Date(r.date).toDateString() : 'inconnu';
+        if (jour !== jourPrecedent) {
+          var sep = document.createElement('div');
+          sep.className = 'jour-sep';
+          sep.textContent = libelleJour(r.date);
+          carte.appendChild(sep);
+          jourPrecedent = jour;
+        }
+        carte.appendChild(articleRow(r.fam, r.art, (r.date ? 'ajouté à ' + heureAjout(r.date) + ' · ' : '') + r.ctx));
+      });
+      if (resultats.length > state.limiteDate) {
+        var suite = document.createElement('button');
+        suite.type = 'button';
+        suite.className = 'mini voir-plus';
+        var reste = resultats.length - state.limiteDate;
+        suite.textContent = 'Afficher les ' + Math.min(DATE_PAGE, reste) + ' suivants (encore ' + reste + ')';
+        suite.onclick = function () { state.limiteDate += DATE_PAGE; renderRecherche(q); };
+        carte.appendChild(suite);
+      }
+    } else {
+      resultats.slice(0, RECH_MAX).forEach(function (r) { carte.appendChild(articleRow(r.fam, r.art, r.ctx)); });
+      if (resultats.length > RECH_MAX) {
+        var plus = document.createElement('div');
+        plus.className = 'rayon-vide';
+        plus.textContent = 'Affichage des ' + RECH_MAX + ' premiers · ajoutez un mot pour affiner.';
+        carte.appendChild(plus);
+      }
     }
     if (!resultats.length) {
       var v = document.createElement('div'); v.className = 'rayon-vide';
@@ -812,6 +934,13 @@
       carte.appendChild(v);
     }
     box.appendChild(carte);
+  }
+
+  function majBoutonTri() {
+    var b = $('btn-tri-date');
+    if (!b) return;
+    b.classList.toggle('actif', state.triDate);
+    b.setAttribute('aria-pressed', state.triDate ? 'true' : 'false');
   }
 
   /* ---------- Formulaire article (avec aperçu) ---------- */
@@ -1063,26 +1192,32 @@
 
   /* ---------- Mise en ligne ---------- */
 
-  function publish() {
-    if (!state.nbModifs) return;
-    $('btn-publish').disabled = true;
+  /* auto = true : mise en ligne automatique, silencieuse (aucune alerte : un
+     échec réessaie plus tard, la gérante n'est jamais interrompue). */
+  function publish(auto) {
+    auto = auto === true;
+    if (!state.catalogue || !state.nbModifs || state.publication) return;
+    state.publication = true;
+    updateStatusbar();
 
-    // Un seul commit : toutes les photos en attente + le catalogue.
-    function fichiersACommitter() {
-      var fichiers = [];
-      Object.keys(state.pendingPhotos).forEach(function (path) {
-        fichiers.push({ path: path, base64: state.pendingPhotos[path] });
-      });
-      fichiers.push({ path: CATALOGUE_PATH, base64: b64EncodeUtf8(JSON.stringify(state.catalogue, null, 2)) });
-      return fichiers;
-    }
+    // Photo instantanée de ce qui part : la gérante peut continuer à ajouter
+    // des articles pendant l'envoi ; ces ajouts-là restent « à mettre en ligne ».
+    var instantane = null;
     function enregistrer() {
-      return committerFichiers(fichiersACommitter(), 'Catalogue : mise à jour depuis l\'administration');
+      var json = JSON.stringify(state.catalogue, null, 2);
+      var photos = Object.keys(state.pendingPhotos);
+      instantane = { json: json, photos: photos, rev: state.rev };
+      var fichiers = photos.map(function (p) { return { path: p, base64: state.pendingPhotos[p] }; });
+      fichiers.push({ path: CATALOGUE_PATH, base64: b64EncodeUtf8(json) });
+      return committerFichiers(fichiers, auto
+        ? 'Catalogue : mise en ligne automatique depuis l\'administration'
+        : 'Catalogue : mise à jour depuis l\'administration',
+        { path: CATALOGUE_PATH, sha: state.sha });
     }
-    // La branche a bougé (robot Stripe/stock) : le commit n'est pas en fast-forward.
-    function estConflit(e) { return /fast forward|fast-forward|does not match|not match|409|422/i.test(e.message); }
+    // Le catalogue a bougé en ligne (robot Stripe/stock) : on fusionne puis on réessaie.
+    function estConflit(e) { return /PAS_A_JOUR|fast forward|fast-forward|does not match|not match|409|422/i.test(e.message); }
 
-    setStatus('Enregistrement…');
+    setStatus(auto ? 'Mise en ligne automatique…' : 'Enregistrement…');
     enregistrer().catch(function (e) {
       if (!estConflit(e)) throw e;
       setStatus('La boutique a reçu des mises à jour automatiques (ventes, liens de paiement)… je les récupère et je réessaie…');
@@ -1090,19 +1225,43 @@
         if (!estConflit(e2)) throw e2;
         return fusionnerRobots().then(enregistrer);
       });
-    }).then(function () {
-      state.empreinte = empreinteSansRobot(state.catalogue);
-      state.pendingPhotos = {};
-      state.nbModifs = 0;
+    }).then(function (res) {
+      state.publication = false;
+      // Ce qui est en ligne = la photo instantanée (pas ce qui a été ajouté depuis).
+      state.sha = res.shas[CATALOGUE_PATH];
+      state.empreinte = empreinteSansRobot(JSON.parse(instantane.json));
+      instantane.photos.forEach(function (p) { delete state.pendingPhotos[p]; });
+      state.nbModifs = Math.max(0, state.rev - instantane.rev);
+      state.premiereModif = state.nbModifs ? Date.now() : null;
+      state.autoEssaiApres = 0;
+      state.autoEchecs = 0;
       sauverBrouillon();
       updateStatusbar();
-      setStatus('✓ C\'est en ligne ! Le site se met à jour dans 1 à 2 minutes.', true);
+      setStatus(auto
+        ? '✓ Mis en ligne automatiquement — le site se met à jour dans 1 à 2 minutes.'
+        : '✓ C\'est en ligne ! Le site se met à jour dans 1 à 2 minutes.', true);
     }).catch(function (e) {
-      updateStatusbar();
+      state.publication = false;
       if (e.message === 'CONFLIT_HUMAIN') {
+        // Jamais d'écrasement automatique du travail fait sur un autre appareil.
+        state.autoBloque = true;
+        updateStatusbar();
+        if (auto) {
+          setStatus('⚠️ La boutique a été modifiée depuis un autre appareil : mise en ligne automatique suspendue. Rechargez la page (touche F5) ; vos ajouts sont gardés en brouillon.');
+        } else {
+          setStatus('');
+          alert('Quelqu\'un d\'autre a modifié la boutique en même temps, depuis un autre appareil. Pour ne rien écraser, rechargez la page (touche F5) et refaites vos dernières modifications.');
+        }
+      } else if (auto) {
+        state.autoEchecs++;
+        state.autoEssaiApres = Date.now() + Math.min(10, 2 * state.autoEchecs) * 60000;
+        updateStatusbar();
+        setStatus('Mise en ligne automatique impossible pour l\'instant (connexion ?) : nouvel essai tout seul dans quelques minutes, ou cliquez « Mettre en ligne ».');
+      } else {
+        updateStatusbar();
         setStatus('');
-        alert('Quelqu\'un d\'autre a modifié la boutique en même temps, depuis un autre appareil. Pour ne rien écraser, rechargez la page (touche F5) et refaites vos dernières modifications.');
-      } else { setStatus(''); alert('Échec de la mise en ligne : ' + e.message); }
+        alert('Échec de la mise en ligne : ' + e.message);
+      }
     });
   }
 
@@ -1165,11 +1324,11 @@
   };
 
   $('btn-logout').onclick = function () {
-    if (state.nbModifs && !confirm('Des changements ne sont pas mis en ligne. Quitter quand même ?')) return;
+    if ((state.nbModifs || state.publication) && !confirm('Des changements ne sont pas mis en ligne. Quitter quand même ?')) return;
     localStorage.removeItem('geode-admin-token'); location.reload();
   };
 
-  $('btn-publish').onclick = publish;
+  $('btn-publish').onclick = function () { publish(false); };
 
   // Export CSV de l'inventaire (séparateur ; + BOM pour Excel français)
   $('btn-inventaire').onclick = function () {
@@ -1209,16 +1368,42 @@
   champRech.addEventListener('input', function () {
     clearTimeout(searchTimer);
     var q = champRech.value.trim();
+    state.limiteDate = DATE_PAGE;
     searchTimer = setTimeout(function () { renderRecherche(q); }, 120);
   });
-  // Échap vide la recherche et revient à la vue normale.
+  // Échap vide la recherche, coupe le tri par date et revient à la vue normale.
   champRech.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape') { champRech.value = ''; renderRecherche(''); champRech.blur(); }
+    if (e.key === 'Escape') {
+      champRech.value = ''; state.triDate = false; majBoutonTri();
+      renderRecherche(''); champRech.blur();
+    }
   });
   // Croix native du champ « type=search » : rafraîchir quand on efface.
   champRech.addEventListener('search', function () { renderRecherche(champRech.value.trim()); });
 
-  window.addEventListener('beforeunload', function (ev) { if (state.nbModifs) { ev.preventDefault(); ev.returnValue = ''; } });
+  // Tri par date d'ajout (uniquement dans l'admin) : marche aussi avec la recherche.
+  $('btn-tri-date').onclick = function () {
+    state.triDate = !state.triDate;
+    state.limiteDate = DATE_PAGE;
+    majBoutonTri();
+    renderRecherche(champRech.value.trim());
+  };
+
+  // Mise en ligne automatique : toutes les 15 s on rafraîchit le compte à
+  // rebours et on publie si des changements attendent depuis 5 minutes.
+  setInterval(function () {
+    if (!state.catalogue) return;
+    verifierAutoPublication(false);
+    updateStatusbar();
+  }, 15000);
+  // Onglet quitté, fenêtre réduite, écran verrouillé : on n'attend pas, on publie.
+  document.addEventListener('visibilitychange', function () {
+    if (document.visibilityState === 'hidden') verifierAutoPublication(true);
+  });
+
+  window.addEventListener('beforeunload', function (ev) {
+    if (state.nbModifs || state.publication) { ev.preventDefault(); ev.returnValue = ''; }
+  });
 
   if (state.token) start();
 })();

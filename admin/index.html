@@ -178,6 +178,13 @@
     .recherche-zone { margin-top: 22px; position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 12px 0; }
     .search-admin { width: 100%; box-sizing: border-box; border-radius: 999px; padding: 15px 22px; font-size: 16px; }
     .search-admin:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+    .recherche-barre { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+    .recherche-barre .search-admin { flex: 1 1 260px; min-width: 0; }
+    .tri-date { flex-shrink: 0; white-space: nowrap; }
+    .tri-date.actif { background: var(--accent); color: #16131a; }
+    .jour-sep { margin: 20px 0 6px; font-size: 12.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); }
+    .rayon-tete + .jour-sep { margin-top: 10px; }
+    .voir-plus { display: block; margin: 18px auto 4px; }
 
     /* ---- Fenêtre modale ---- */
     .modal {
@@ -309,8 +316,12 @@
       <div id="contenu"></div>
 
       <div class="recherche-zone">
-        <input id="admin-search" class="search-admin" type="search"
-               placeholder="🔍  Rechercher un article par son nom (parmi tous les rayons)…" aria-label="Rechercher un article">
+        <div class="recherche-barre">
+          <input id="admin-search" class="search-admin" type="search"
+                 placeholder="🔍  Rechercher un article par son nom (parmi tous les rayons)…" aria-label="Rechercher un article">
+          <button type="button" id="btn-tri-date" class="mini tri-date" aria-pressed="false"
+                  title="Afficher les articles du plus récent au plus ancien">🕒 Trier par date</button>
+        </div>
         <div id="resultats-recherche"></div>
       </div>
 

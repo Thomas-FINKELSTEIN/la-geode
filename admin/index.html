@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Ma boutique — La Géode</title>
   <meta name="robots" content="noindex, nofollow">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpolygon points='50,4 88,38 50,96 12,38' fill='%23b795e3'/%3E%3Cpolygon points='50,4 70,38 50,96 30,38' fill='%23d6c8ee'/%3E%3C/svg%3E">
@@ -21,172 +21,143 @@
     body {
       margin: 0; background: var(--bg); color: var(--ink);
       font-family: 'Jost', sans-serif; font-weight: 300;
-      font-size: 17px; line-height: 1.55;
+      font-size: 17px; line-height: 1.5;
     }
-    .wrap { max-width: 820px; margin: 0 auto; padding: 30px 18px 150px; }
-    h1 {
-      font-family: 'Cormorant Garamond', serif; font-weight: 600;
-      font-size: 40px; margin: 0;
-    }
+    .wrap { max-width: 920px; margin: 0 auto; padding: 0 18px 150px; }
     .sub { color: var(--accent); font-size: 12px; letter-spacing: 0.28em; text-transform: uppercase; }
+    h1 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 40px; margin: 0; }
     a { color: var(--accent); }
 
     /* ---- Boutons ---- */
     button {
-      font-family: 'Jost', sans-serif; font-size: 17px; font-weight: 400;
-      border: none; border-radius: 14px; padding: 13px 22px; cursor: pointer;
+      font-family: 'Jost', sans-serif; font-size: 16px; font-weight: 400;
+      border: none; border-radius: 12px; padding: 11px 18px; cursor: pointer;
       background: rgba(236, 231, 225, 0.09); color: var(--ink);
       transition: background 0.15s, filter 0.15s, transform 0.1s;
     }
     button:hover { background: rgba(236, 231, 225, 0.16); }
     button:active { transform: scale(0.98); }
+    button:disabled { opacity: 0.45; cursor: default; transform: none; }
     button.primary { background: var(--accent); color: #16131a; font-weight: 500; }
     button.primary:hover { filter: brightness(1.08); background: var(--accent); }
-    button.primary:disabled { opacity: 0.4; cursor: default; filter: none; }
+    button.primary:disabled { opacity: 0.4; filter: none; }
     button.gros {
-      width: 100%; padding: 18px; font-size: 18px; border-radius: 16px;
+      width: 100%; padding: 16px; font-size: 18px; border-radius: 14px;
       display: flex; align-items: center; justify-content: center; gap: 10px;
     }
-    button.gros .plus { font-size: 24px; line-height: 1; }
-    button.ghost {
-      background: transparent; border: 2px dashed rgba(236, 231, 225, 0.28);
-      color: var(--ink-soft);
-    }
-    button.ghost:hover { border-color: var(--accent); color: var(--ink); background: rgba(183,149,227,0.06); }
-    button.mini { font-size: 15px; padding: 9px 16px; border-radius: 11px; }
-    button.danger-link { background: none; color: var(--danger); padding: 10px 0; }
+    button.mini { font-size: 14.5px; padding: 8px 13px; border-radius: 10px; }
+    button.discret { background: transparent; color: var(--faded); }
+    button.discret:hover { background: rgba(236, 231, 225, 0.08); color: var(--ink); }
+    button.danger-link { background: none; color: var(--danger); padding: 10px 4px; }
     button.danger-link:hover { background: none; text-decoration: underline; }
 
     /* ---- Champs ---- */
-    input, textarea {
-      font-family: 'Jost', sans-serif; font-size: 18px; font-weight: 300;
+    input, textarea, select {
+      font-family: 'Jost', sans-serif; font-size: 17px; font-weight: 300;
       color: var(--ink); background: rgba(0, 0, 0, 0.32);
-      border: 1px solid var(--border); border-radius: 13px;
-      padding: 15px 16px; width: 100%;
+      border: 1px solid var(--border); border-radius: 12px;
+      padding: 13px 15px; width: 100%;
     }
-    input:focus, textarea:focus {
+    select option, select optgroup { background: var(--panel2); color: var(--ink); }
+    input:focus, textarea:focus, select:focus {
       outline: none; border-color: var(--accent);
       box-shadow: 0 0 0 3px rgba(183, 149, 227, 0.16);
     }
-    label { display: block; font-size: 16px; color: var(--ink); margin: 20px 0 7px; font-weight: 400; }
-    .hint { font-size: 14.5px; color: var(--faded); margin: 6px 0 0; }
+    label { display: block; font-size: 15.5px; color: var(--ink); margin: 16px 0 6px; font-weight: 400; }
+    .hint { font-size: 14px; color: var(--faded); margin: 6px 0 0; }
 
-    /* ---- Cartes ---- */
-    .card {
-      background: var(--panel); border: 1px solid var(--border);
-      border-radius: 20px; padding: 24px; margin-top: 20px;
-    }
+    .card { background: var(--panel); border: 1px solid var(--border); border-radius: 20px; padding: 24px; margin-top: 20px; }
 
-    /* ---- Bandeau d'explication ---- */
-    .explain {
-      background: linear-gradient(135deg, rgba(183,149,227,0.14), rgba(183,149,227,0.04));
-      border: 1px solid rgba(183,149,227,0.3);
-      border-radius: 20px; padding: 22px 24px; margin-top: 22px;
+    /* ---- Barre d'outils fixe (toujours visible) ---- */
+    .barre {
+      position: sticky; top: 0; z-index: 50; background: var(--bg);
+      padding: 12px 0 10px; border-bottom: 1px solid var(--border);
+      display: flex; flex-direction: column; gap: 10px;
     }
-    .explain h2 { font-family: 'Cormorant Garamond', serif; font-size: 24px; margin: 0 0 10px; font-weight: 600; }
-    .explain p { margin: 0 0 8px; font-size: 16.5px; color: var(--ink-soft); }
-    .explain .steps { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 14px; font-size: 15.5px; }
-    .explain .st { background: rgba(0,0,0,0.28); border-radius: 999px; padding: 8px 16px; }
-    .explain .fl { color: var(--accent); font-size: 20px; }
+    .barre-l1, .barre-l2 { display: flex; align-items: center; gap: 8px; }
+    .onglets { display: flex; gap: 6px; overflow-x: auto; flex: 1; min-width: 0; scrollbar-width: none; padding: 2px; }
+    .onglets::-webkit-scrollbar { display: none; }
+    .onglet {
+      display: inline-flex; align-items: center; gap: 7px; white-space: nowrap; flex-shrink: 0;
+      padding: 8px 13px; border-radius: 999px; font-size: 15px;
+      background: var(--panel); border: 1px solid var(--border); color: var(--ink-soft);
+    }
+    .onglet .pastille { width: 10px; height: 10px; border-radius: 50%; background: var(--uc, var(--accent)); }
+    .onglet .n { color: var(--faded); font-size: 13px; }
+    .onglet.actif { background: var(--panel2); border-color: var(--uc, var(--accent)); color: var(--ink); box-shadow: inset 0 0 0 1px var(--uc, var(--accent)); }
+    .onglet.affiches { border-style: dashed; margin-left: 6px; }
+    #btn-nouvel-article { white-space: nowrap; flex-shrink: 0; }
+    .btn-menu { width: 44px; height: 44px; padding: 0; font-size: 22px; line-height: 1; flex-shrink: 0; }
+    .search-admin { flex: 1; min-width: 0; border-radius: 999px; padding: 12px 20px; font-size: 16px; }
+    .tri-date { white-space: nowrap; border-radius: 999px; padding: 11px 16px; font-size: 15px; flex-shrink: 0; }
+    .tri-date.actif { background: var(--accent); color: #16131a; }
 
-    /* ---- Sélecteur d'univers ---- */
-    .univers-choix { margin-top: 30px; }
-    .section-titre {
-      display: flex; align-items: center; gap: 12px;
-      font-family: 'Cormorant Garamond', serif; font-weight: 600;
-      font-size: 30px; margin: 0 0 16px;
+    /* ---- Menus (⋯) ---- */
+    .menu {
+      position: fixed; z-index: 120; min-width: 250px; padding: 6px;
+      background: var(--panel2); border: 1px solid var(--border); border-radius: 14px;
+      box-shadow: 0 18px 50px rgba(0, 0, 0, 0.55);
     }
-    .section-titre .num {
-      display: inline-flex; align-items: center; justify-content: center;
-      width: 36px; height: 36px; border-radius: 50%;
-      background: var(--accent); color: #16131a; font-family: 'Jost', sans-serif;
-      font-size: 19px; font-weight: 500; flex-shrink: 0;
-    }
-    .univers-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; }
-    .u-btn {
-      position: relative; text-align: left; padding: 20px;
-      border-radius: 18px; border: 2px solid var(--border);
-      background: var(--panel); cursor: pointer;
-      transition: border-color 0.18s, transform 0.1s, background 0.18s;
-    }
-    .u-btn:hover { transform: translateY(-2px); background: var(--panel2); }
-    .u-btn .pastille { width: 34px; height: 34px; border-radius: 11px; margin-bottom: 12px; }
-    .u-btn .u-nom { font-family: 'Cormorant Garamond', serif; font-size: 23px; font-weight: 600; }
-    .u-btn .u-compte { font-size: 14.5px; color: var(--faded); margin-top: 3px; }
-    .u-btn.active { border-color: var(--uc, var(--accent)); background: var(--panel2); }
-    .u-btn.active::after {
-      content: '✓'; position: absolute; top: 16px; right: 18px;
-      color: var(--uc, var(--accent)); font-size: 20px;
-    }
+    .menu button { display: block; width: 100%; text-align: left; background: transparent; padding: 11px 14px; font-size: 16px; border-radius: 10px; }
+    .menu button:hover { background: rgba(236, 231, 225, 0.09); }
+    .menu button.danger { color: var(--danger); }
+    .menu hr { border: 0; border-top: 1px solid var(--border); margin: 5px 6px; }
 
-    /* ---- En-tête d'univers courant ---- */
-    .univers-entete {
-      display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
-      margin: 30px 0 4px;
-    }
-    .univers-entete .puce { width: 22px; height: 22px; border-radius: 7px; }
+    /* ---- En-tête d'univers ---- */
+    .univers-entete { display: flex; align-items: center; gap: 10px 14px; flex-wrap: wrap; margin: 18px 0 4px; }
+    .univers-entete .puce { width: 18px; height: 18px; border-radius: 6px; }
     .univers-entete h2 { font-family: 'Cormorant Garamond', serif; font-size: 30px; margin: 0; font-weight: 600; }
+    .univers-entete .compte { color: var(--faded); font-size: 15px; }
+    .univers-entete .spacer { flex: 1; }
     .voir-site {
-      font-size: 15px; color: var(--accent); text-decoration: none;
-      border: 1px solid rgba(183,149,227,0.4); border-radius: 999px; padding: 7px 15px;
-      white-space: nowrap;
+      font-size: 14.5px; color: var(--accent); text-decoration: none;
+      border: 1px solid rgba(183,149,227,0.4); border-radius: 999px; padding: 7px 14px; white-space: nowrap;
     }
     .voir-site:hover { background: rgba(183,149,227,0.1); }
 
-    /* ---- Rayon ---- */
-    .rayon { background: var(--panel); border: 1px solid var(--border); border-radius: 20px; padding: 22px; margin-top: 18px; }
-    .rayon-tete { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
-    .rayon-tete .etiq { font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--faded); }
-    .rayon-tete h3 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 25px; margin: 0; flex: 1; min-width: 0; }
-    .rayon-actions { display: flex; gap: 8px; flex-shrink: 0; }
-    button.mini.suppr { color: var(--danger); }
-    button.mini.suppr:hover { background: rgba(224, 138, 144, 0.14); }
-    .rayon-slogan { color: var(--faded); font-size: 15px; margin: 6px 0 0; }
-    .rayon-vide {
-      text-align: center; color: var(--muted); font-size: 16px;
-      padding: 20px; margin-top: 14px;
-      background: rgba(0,0,0,0.2); border-radius: 14px;
-    }
+    /* ---- Rayons (accordéon compact) ---- */
+    .rayon { background: var(--panel); border: 1px solid var(--border); border-radius: 16px; margin-top: 10px; }
+    .rayon-tete { display: flex; align-items: center; gap: 10px; padding: 11px 12px 11px 14px; cursor: pointer; border-radius: 16px; }
+    .rayon-tete:hover { background: rgba(236, 231, 225, 0.03); }
+    .rayon-tete .chevron { color: var(--faded); font-size: 15px; width: 14px; flex-shrink: 0; }
+    .rayon-tete h3 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 22px; margin: 0; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .rayon-tete .nb { color: var(--faded); font-size: 14px; white-space: nowrap; }
+    .rayon-actions { display: flex; gap: 6px; flex-shrink: 0; align-items: center; }
+    .rayon-actions .btn-menu { width: 38px; height: 38px; font-size: 19px; }
+    .rayon-corps { padding: 0 12px 12px 14px; }
+    .rayon-slogan { color: var(--faded); font-size: 14.5px; margin: 0 0 6px; }
+    .filtre-rayon { padding: 10px 16px; font-size: 15px; border-radius: 999px; margin: 2px 0 4px; }
+    .rayon-vide { text-align: center; color: var(--muted); font-size: 15.5px; padding: 18px; margin-top: 8px; background: rgba(0,0,0,0.2); border-radius: 12px; }
 
-    /* ---- Article (ligne) ---- */
+    /* ---- Article (ligne compacte, cliquable) ---- */
     .art {
-      display: flex; align-items: center; gap: 15px;
-      padding: 14px; margin-top: 12px;
-      background: var(--panel2); border-radius: 14px;
+      display: flex; align-items: center; gap: 12px; padding: 8px 10px; margin-top: 6px;
+      background: var(--panel2); border-radius: 12px; cursor: pointer;
     }
-    .art img { width: 66px; height: 50px; object-fit: cover; border-radius: 10px; flex-shrink: 0; }
-    .art .noimg {
-      width: 66px; height: 50px; border-radius: 10px; flex-shrink: 0;
-      background: rgba(236, 231, 225, 0.07);
-      display: flex; align-items: center; justify-content: center;
-      font-size: 20px; color: var(--faded);
-    }
+    .art:hover { background: #2a2234; }
+    .art img, .art .noimg { width: 54px; height: 41px; object-fit: cover; border-radius: 8px; flex-shrink: 0; }
+    .art .noimg { background: rgba(236, 231, 225, 0.07); display: flex; align-items: center; justify-content: center; font-size: 18px; color: var(--faded); }
     .art-info { flex: 1; min-width: 0; }
-    .art-nom { font-size: 17.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-    .art-ligne2 { font-size: 14.5px; color: var(--faded); margin-top: 2px; }
+    .art-nom { font-size: 16.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .art-ligne2 { font-size: 13.5px; color: var(--faded); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
     .art-prix { color: var(--accent); }
+    .art-actions { display: flex; gap: 6px; flex-shrink: 0; }
     .tag {
-      display: inline-block; font-size: 12px; letter-spacing: 0.03em;
-      color: var(--warn); border: 1px solid rgba(229, 192, 123, 0.45);
-      border-radius: 6px; padding: 1px 8px; margin-left: 8px; vertical-align: 1px;
+      display: inline-block; font-size: 12px; color: var(--warn); border: 1px solid rgba(229, 192, 123, 0.45);
+      border-radius: 6px; padding: 0 7px; margin-left: 7px; vertical-align: 1px;
     }
     .tag.tag-rouge { color: var(--danger); border-color: rgba(224, 138, 144, 0.5); }
     .tag.tag-stock { color: var(--ok); border-color: rgba(133, 201, 171, 0.45); }
-    .art-modif { flex-shrink: 0; }
+    .voir-plus { display: block; margin: 12px auto 2px; }
 
-    .add-rayon { margin-top: 24px; }
-    .recherche-zone { margin-top: 22px; position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 12px 0; }
-    .search-admin { width: 100%; box-sizing: border-box; border-radius: 999px; padding: 15px 22px; font-size: 16px; }
-    .search-admin:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
-    .recherche-barre { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
-    .recherche-barre .search-admin { flex: 1 1 260px; min-width: 0; }
-    .tri-date { flex-shrink: 0; white-space: nowrap; }
-    .tri-date.actif { background: var(--accent); color: #16131a; }
-    .jour-sep { margin: 20px 0 6px; font-size: 12.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); }
-    .rayon-tete + .jour-sep { margin-top: 10px; }
-    .voir-plus { display: block; margin: 18px auto 4px; }
+    /* ---- Résultats (recherche / tri par date) ---- */
+    #resultats-recherche:empty { display: none; }
+    .resultats-tete { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin: 16px 0 4px; }
+    .resultats-tete h3 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 24px; margin: 0; flex: 1; min-width: 0; }
+    .resultats-tete .etiq { font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--faded); }
+    .jour-sep { margin: 18px 0 4px; font-size: 12.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); }
 
-    /* ---- Fenêtre modale ---- */
+    /* ---- Fenêtres ---- */
     .modal {
       position: fixed; inset: 0; z-index: 100;
       background: rgba(10, 8, 13, 0.8); backdrop-filter: blur(5px);
@@ -195,38 +166,61 @@
     }
     .modal-box {
       background: var(--panel); border: 1px solid var(--border);
-      border-radius: 22px; padding: 28px; width: 100%; max-width: 560px;
+      border-radius: 22px; padding: 26px; width: 100%; max-width: 560px;
       box-shadow: 0 30px 80px rgba(0, 0, 0, 0.6);
     }
-    .modal-box.large { max-width: 900px; }
-    .modal-box h2 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 29px; margin: 0 0 4px; }
-    .modal-cols { display: grid; grid-template-columns: 1fr 250px; gap: 30px; }
-    @media (max-width: 760px) { .modal-cols { grid-template-columns: 1fr; } }
-    .form-actions { display: flex; gap: 12px; margin-top: 28px; align-items: center; flex-wrap: wrap; }
+    .modal-box h2 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 28px; margin: 0 0 4px; }
+    .form-actions { display: flex; gap: 12px; margin-top: 24px; align-items: center; flex-wrap: wrap; }
     .form-actions .spacer { flex: 1; }
 
-    /* ---- Aperçu ---- */
-    .preview-titre { font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--faded); margin: 18px 0 10px; }
-    .preview-card { background: rgba(236, 231, 225, 0.03); border: 1px solid rgba(236, 231, 225, 0.09); border-radius: 16px; overflow: hidden; }
-    .preview-card .ph { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block; background: radial-gradient(ellipse at 50% 40%, rgba(147, 102, 204, 0.12), transparent 70%); }
-    .preview-card .ph.vide2 { display: flex; align-items: center; justify-content: center; font-size: 26px; color: rgba(236, 231, 225, 0.25); }
-    .preview-body { padding: 14px 16px 16px; }
-    .preview-body h4 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 20px; margin: 0 0 3px; overflow-wrap: anywhere; }
-    .preview-prix { color: var(--accent); font-size: 15px; margin-bottom: 5px; }
-    .preview-body p { margin: 0; font-size: 13.5px; color: var(--ink-soft); overflow-wrap: anywhere; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    /* Fiche article : boutons toujours visibles en bas, plein écran sur téléphone */
+    .modal.modal-fiche { padding: 2.5vh 14px; }
+    .modal-box.fiche { max-width: 640px; padding: 0; display: flex; flex-direction: column; max-height: 95vh; }
+    .fiche-form { display: flex; flex-direction: column; flex: 1; min-height: 0; }
+    .fiche-tete { display: flex; align-items: center; gap: 10px; padding: 18px 22px 4px; }
+    .fiche-tete h2 { flex: 1; margin: 0; }
+    .fiche-corps { padding: 6px 22px 18px; overflow-y: auto; flex: 1; }
+    .fiche-pied {
+      display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+      padding: 12px 22px; border-top: 1px solid var(--border); background: var(--panel); border-radius: 0 0 22px 22px;
+    }
+    .fiche-pied .spacer { flex: 1; }
+    .zone-photo {
+      position: relative; width: 100%; aspect-ratio: 4 / 3; max-height: 290px; margin-top: 6px;
+      border: 2px dashed rgba(236, 231, 225, 0.28); border-radius: 16px; overflow: hidden;
+      display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px;
+      background: rgba(0, 0, 0, 0.25); color: var(--ink-soft); cursor: pointer; text-align: center; padding: 10px;
+    }
+    .zone-photo.vide { aspect-ratio: auto; height: 150px; }
+    .zone-photo:hover, .zone-photo.survol { border-color: var(--accent); background: rgba(183, 149, 227, 0.07); }
+    .zone-photo .ico { font-size: 34px; line-height: 1; }
+    .zone-photo .petit { font-size: 14px; color: var(--faded); }
+    .zone-photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+    .zone-photo .changer { position: absolute; right: 10px; bottom: 10px; background: rgba(0, 0, 0, 0.66); border-radius: 999px; padding: 6px 13px; font-size: 14px; }
+    .ligne-ia { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 10px; }
+    .ligne-ia .msg { margin: 0; flex: 1; min-width: 180px; }
+    .deux-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 
     /* ---- Barre du bas ---- */
     #statusbar {
       position: fixed; bottom: 0; left: 0; right: 0; z-index: 60;
-      padding: 15px 18px; background: rgba(15, 13, 18, 0.94); backdrop-filter: blur(10px);
+      padding: 13px 18px calc(13px + env(safe-area-inset-bottom)); background: rgba(15, 13, 18, 0.95); backdrop-filter: blur(10px);
       border-top: 1px solid var(--border);
     }
-    #statusbar .inner { max-width: 820px; margin: 0 auto; display: flex; align-items: center; gap: 14px; }
-    .etat { display: flex; align-items: center; gap: 10px; font-size: 16px; }
+    #statusbar .inner { max-width: 920px; margin: 0 auto; display: flex; align-items: center; gap: 14px; }
+    .etat { display: flex; align-items: center; gap: 10px; font-size: 15.5px; min-width: 0; }
     .dot { width: 12px; height: 12px; border-radius: 50%; background: var(--ok); flex-shrink: 0; }
     .dot.dirty { background: var(--warn); box-shadow: 0 0 0 4px rgba(229,192,123,0.18); }
     #statusbar .spacer { flex: 1; }
-    #btn-publish { padding: 15px 28px; font-size: 17px; }
+    #status-msg { min-width: 0; }
+    #btn-publish { padding: 13px 24px; font-size: 16.5px; flex-shrink: 0; }
+
+    /* Bouton flottant « + » (téléphone) */
+    #fab-nouvel-article {
+      display: none; position: fixed; right: 16px; bottom: calc(88px + env(safe-area-inset-bottom)); z-index: 55;
+      width: 60px; height: 60px; border-radius: 50%; padding: 0; font-size: 32px; line-height: 1;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.5);
+    }
 
     /* ---- Outil de recadrage ---- */
     .crop-modal {
@@ -253,21 +247,50 @@
     .crop-zoom input[type=range] { flex: 1; accent-color: var(--accent); height: 26px; }
 
     .hidden { display: none !important; }
+    #titre-connexion { padding-top: 30px; }
     .login-card { max-width: 460px; margin: 40px auto 0; }
     details.reglages { margin-top: 40px; }
     details.reglages > summary { color: var(--faded); font-size: 14px; cursor: pointer; }
     .help { font-size: 15px; color: var(--muted); }
     .help ol { padding-left: 20px; } .help li { margin-bottom: 6px; }
-    .msg { font-size: 15px; color: var(--muted); margin-top: 12px; min-height: 1em; }
+    .aide p { color: var(--ink-soft); margin: 0 0 10px; }
+    .msg { font-size: 14.5px; color: var(--muted); margin-top: 12px; min-height: 1em; }
     .msg.ok { color: var(--ok); }
     .msg.err { color: var(--danger); }
     .thumb-preview { max-width: 160px; border-radius: 12px; margin-top: 10px; display: block; }
+
+    /* ---- Téléphone ---- */
+    @media (max-width: 640px) {
+      body { font-size: 16px; }
+      .wrap { padding: 0 12px 150px; }
+      #btn-nouvel-article { display: none; }
+      #fab-nouvel-article { display: block; }
+      .tri-date .txt { display: none; }
+      .tri-date { padding: 11px 13px; }
+      .univers-entete h2 { font-size: 26px; }
+      .rayon-actions .txt, .art-actions .txt { display: none; }
+      .art-actions .btn-modifier { display: none; }
+      .univers-entete .voir-site { display: none; }
+      .modal.modal-fiche { padding: 0; align-items: stretch; }
+      .modal-box.fiche { max-width: none; max-height: none; min-height: 100%; border-radius: 0; border: 0; }
+      .fiche-tete { padding: 14px 16px 2px; }
+      .fiche-corps { padding: 4px 16px 16px; }
+      .fiche-pied { border-radius: 0; padding: 10px 16px calc(10px + env(safe-area-inset-bottom)); position: sticky; bottom: 0; gap: 8px; }
+      .fiche-pied button { flex: 1 1 100%; }
+      .fiche-pied .primary { order: -1 !important; }   /* le bouton principal en premier, en grand */
+      .fiche-pied #af-cancel, .fiche-pied .spacer { display: none; }   /* la croix ✕ en haut suffit */
+      .etat { font-size: 14px; }
+      #status-msg { display: none; }
+      #btn-publish { padding: 12px 16px; font-size: 15.5px; }
+    }
   </style>
 </head>
 <body>
   <div class="wrap">
-    <div class="sub">La Géode — Le Showroom</div>
-    <h1>Ma boutique</h1>
+    <div id="titre-connexion">
+      <div class="sub">La Géode — Le Showroom</div>
+      <h1>Ma boutique</h1>
+    </div>
 
     <!-- Connexion -->
     <div id="login" class="card login-card">
@@ -289,7 +312,7 @@
           <ol>
             <li>github.com (compte propriétaire) : Settings → Developer settings → Personal access tokens → <b>Fine-grained tokens</b></li>
             <li>Repository access : <b>Only select repositories → la-geode</b> ; Permissions → <b>Contents : Read and write</b></li>
-            <li>Une fois connecté, définissez le mot de passe dans « Réglages installateur » en bas</li>
+            <li>Une fois connecté, définissez le mot de passe (menu ⋯ → Changer le mot de passe)</li>
           </ol>
         </div>
       </details>
@@ -297,59 +320,26 @@
 
     <!-- Éditeur -->
     <div id="editor" class="hidden">
-      <div class="explain">
-        <h2>Comment ça marche&nbsp;?</h2>
-        <p>Votre site est comme votre magasin. Il a <b>4 grands univers</b>. Dans chaque univers, vous créez des <b>rayons</b> (par exemple «&nbsp;Bracelets&nbsp;»), et dans chaque rayon vous rangez vos <b>articles</b>.</p>
-        <p style="color:var(--faded);font-size:15px">Tout ce que vous ajoutez ici apparaît sur le vrai site, quelques minutes après avoir cliqué «&nbsp;Mettre en ligne&nbsp;».</p>
-        <div class="steps">
-          <span class="st">🏬 Univers</span><span class="fl">→</span>
-          <span class="st">🗂️ Rayon</span><span class="fl">→</span>
-          <span class="st">💎 Article</span>
+      <div class="barre" id="barre">
+        <div class="barre-l1">
+          <nav class="onglets" id="univers-onglets" aria-label="Univers"></nav>
+          <button class="primary" id="btn-nouvel-article" type="button">＋ Nouvel article</button>
+          <button class="btn-menu" id="btn-menu" type="button" aria-label="Plus d'options" aria-haspopup="true" aria-expanded="false">⋯</button>
         </div>
-      </div>
-
-      <div class="univers-choix">
-        <h2 class="section-titre"><span class="num">1</span> Choisissez votre univers</h2>
-        <div class="univers-grid" id="univers-grid"></div>
-      </div>
-
-      <div id="contenu"></div>
-
-      <div class="recherche-zone">
-        <div class="recherche-barre">
+        <div class="barre-l2">
           <input id="admin-search" class="search-admin" type="search"
-                 placeholder="🔍  Rechercher un article par son nom (parmi tous les rayons)…" aria-label="Rechercher un article">
-          <button type="button" id="btn-tri-date" class="mini tri-date" aria-pressed="false"
-                  title="Afficher les articles du plus récent au plus ancien">🕒 Trier par date</button>
+                 placeholder="🔍  Rechercher un article (nom, rayon…)" aria-label="Rechercher un article">
+          <button type="button" id="btn-tri-date" class="tri-date" aria-pressed="false"
+                  title="Afficher les articles du plus récent au plus ancien">🕒<span class="txt"> Trier par date</span></button>
         </div>
-        <div id="resultats-recherche"></div>
       </div>
 
-      <div class="card" style="display:flex;align-items:center;gap:16px;flex-wrap:wrap">
-        <div style="flex:1;min-width:200px">
-          <b>Inventaire</b>
-          <p class="hint" style="margin:4px 0 0">Télécharge la liste complète de vos articles (rayon, prix, stock) dans un tableau Excel. Pratique pour faire l'inventaire de la boutique.</p>
-        </div>
-        <button class="mini" id="btn-inventaire">📋 Exporter l'inventaire</button>
-      </div>
-
-      <details class="reglages">
-        <summary>Réglages installateur</summary>
-        <div class="card">
-          <h2 style="font-family:'Cormorant Garamond',serif;font-size:22px;margin:0">Mot de passe de connexion</h2>
-          <p class="help">Définir ou changer le mot de passe. Choisissez une petite phrase de 3-4 mots.</p>
-          <label for="np1">Nouveau mot de passe</label>
-          <input type="password" id="np1" autocomplete="new-password">
-          <label for="np2">Confirmer</label>
-          <input type="password" id="np2" autocomplete="new-password">
-          <div class="form-actions">
-            <button class="primary" id="btn-set-pass">Enregistrer le mot de passe</button>
-          </div>
-          <p class="msg" id="pass-msg"></p>
-        </div>
-      </details>
+      <div id="resultats-recherche"></div>
+      <div id="contenu"></div>
     </div>
   </div>
+
+  <button class="primary hidden" id="fab-nouvel-article" type="button" aria-label="Nouvel article" title="Nouvel article">＋</button>
 
   <div id="modal-root"></div>
 
@@ -358,7 +348,6 @@
       <div class="etat"><span class="dot" id="dot"></span><span id="etat-txt">Tout est en ligne</span></div>
       <span class="msg" id="status-msg" style="margin:0"></span>
       <span class="spacer"></span>
-      <button id="btn-logout" class="mini" style="background:transparent;color:var(--faded)">Quitter</button>
       <button class="primary" id="btn-publish" disabled>Mettre en ligne</button>
     </div>
   </div>

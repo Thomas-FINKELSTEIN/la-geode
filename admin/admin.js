@@ -40,11 +40,11 @@
 
   // Les 4 univers, dans l'ordre, avec leur couleur et leur page sur le site.
   var UNIVERS = [
-    { key: 'mineraux', nom: 'Minéraux', path: 'mineraux', couleur: '#b795e3' },
-    { key: 'bijoux', nom: 'Bijoux', path: 'bijoux', couleur: '#e0a3a8' },
-    { key: 'esoterisme', nom: 'Ésotérisme & encens', path: 'esoterisme', couleur: '#85c9ab' },
-    { key: 'decoration', nom: 'Décoration du monde', path: 'decoration', couleur: '#cdb289' },
-    { key: '__actus', nom: 'Affiches & promos', path: '', couleur: '#c9a86a' }
+    { key: 'mineraux', nom: 'Minéraux', court: 'Minéraux', path: 'mineraux', couleur: '#b795e3' },
+    { key: 'bijoux', nom: 'Bijoux', court: 'Bijoux', path: 'bijoux', couleur: '#e0a3a8' },
+    { key: 'esoterisme', nom: 'Ésotérisme & encens', court: 'Ésotérisme', path: 'esoterisme', couleur: '#85c9ab' },
+    { key: 'decoration', nom: 'Décoration du monde', court: 'Décoration', path: 'decoration', couleur: '#cdb289' },
+    { key: '__actus', nom: 'Affiches & promos', court: 'Affiches', path: '', couleur: '#c9a86a' }
   ];
 
   var state = {
@@ -62,7 +62,10 @@
     autoEssaiApres: 0,    // après un échec, pas de nouvel essai auto avant cette heure
     autoEchecs: 0,
     triDate: false,       // vue « tous les articles, du plus récent au plus ancien »
-    limiteDate: 100
+    limiteDate: 100,
+    limiteRayon: {},      // nombre d'articles affichés par rayon (par paquets de 50)
+    filtreRayon: {},      // texte du filtre de chaque gros rayon
+    dernierFamId: null    // rayon de la dernière fiche (rayon par défaut de « ＋ Nouvel article »)
   };
 
   var $ = function (id) { return document.getElementById(id); };
@@ -291,8 +294,8 @@
     if (state.autoBloque || !state.premiereModif) return '';
     var cible = Math.max(state.premiereModif + AUTO_DELAI, state.autoEssaiApres);
     var reste = cible - Date.now();
-    if (reste <= 0) return 'mise en ligne automatique imminente';
-    return 'mise en ligne automatique dans ' + Math.ceil(reste / 60000) + ' min';
+    if (reste <= 0) return 'mise en ligne auto imminente';
+    return 'mise en ligne auto dans ' + Math.ceil(reste / 60000) + ' min';
   }
 
   function updateStatusbar() {
@@ -302,7 +305,7 @@
     if (state.publication) {
       txt = 'Mise en ligne en cours…';
     } else if (dirty) {
-      txt = state.nbModifs + ' changement' + (state.nbModifs > 1 ? 's' : '') + ' à mettre en ligne';
+      txt = state.nbModifs + ' changement' + (state.nbModifs > 1 ? 's' : '') + ' en attente';
       var info = infoAuto();
       if (info) txt += ' · ' + info;
     } else {
@@ -524,12 +527,15 @@
 
   /* ---------- Fenêtre modale ---------- */
 
-  function openModal(html, large) {
+  /* classe : '' (fenêtre simple) ou 'fiche' (fiche article : boutons collés en
+     bas, plein écran sur téléphone). */
+  function openModal(html, classe) {
     closeModal();
+    fermerMenu();
     var overlay = document.createElement('div');
-    overlay.className = 'modal'; overlay.id = 'modal';
+    overlay.className = 'modal' + (classe === 'fiche' ? ' modal-fiche' : ''); overlay.id = 'modal';
     var box = document.createElement('div');
-    box.className = 'modal-box' + (large ? ' large' : '');
+    box.className = 'modal-box' + (classe ? ' ' + classe : '');
     box.innerHTML = html;
     overlay.appendChild(box);
     $('modal-root').appendChild(overlay);
@@ -537,7 +543,58 @@
     return box;
   }
   function closeModal() { var m = $('modal'); if (m) m.remove(); document.body.style.overflow = ''; }
-  document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape') closeModal(); });
+
+  /* ---------- Petits menus « ⋯ » ---------- */
+
+  var menuOuvert = null;
+  function fermerMenu() {
+    if (!menuOuvert) return;
+    if (menuOuvert._ancre) menuOuvert._ancre.setAttribute('aria-expanded', 'false');
+    menuOuvert.remove();
+    menuOuvert = null;
+  }
+  // items : [{ label, action, danger }] ou '-' pour un séparateur
+  function ouvrirMenu(ancre, items) {
+    var memeAncre = menuOuvert && menuOuvert._ancre === ancre;
+    fermerMenu();
+    if (memeAncre) return;                       // 2e clic sur ⋯ : on referme
+    var m = document.createElement('div');
+    m.className = 'menu';
+    m.setAttribute('role', 'menu');
+    m._ancre = ancre;
+    items.forEach(function (it) {
+      if (it === '-') { m.appendChild(document.createElement('hr')); return; }
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.textContent = it.label;
+      b.setAttribute('role', 'menuitem');
+      if (it.danger) b.className = 'danger';
+      b.onclick = function (e) { e.stopPropagation(); fermerMenu(); it.action(); };
+      m.appendChild(b);
+    });
+    document.body.appendChild(m);
+    var r = ancre.getBoundingClientRect();
+    var larg = m.offsetWidth, haut = m.offsetHeight;
+    var gauche = Math.min(Math.max(8, r.right - larg), window.innerWidth - larg - 8);
+    var haute = r.bottom + 6;
+    if (haute + haut > window.innerHeight - 8) haute = Math.max(8, r.top - haut - 6);
+    m.style.left = gauche + 'px';
+    m.style.top = haute + 'px';
+    ancre.setAttribute('aria-expanded', 'true');
+    menuOuvert = m;
+    var premier = m.querySelector('button');
+    if (premier) premier.focus();
+  }
+  document.addEventListener('click', function (e) {
+    if (menuOuvert && !menuOuvert.contains(e.target) && e.target !== menuOuvert._ancre) fermerMenu();
+  });
+  window.addEventListener('scroll', function () { fermerMenu(); }, true);
+  window.addEventListener('resize', function () { fermerMenu(); });
+  document.addEventListener('keydown', function (ev) {
+    if (ev.key !== 'Escape') return;
+    if (menuOuvert) { var a = menuOuvert._ancre; fermerMenu(); if (a) a.focus(); return; }
+    closeModal();
+  });
 
   /* ---------- Sélecteur d'univers ---------- */
 
@@ -550,37 +607,29 @@
     return n;
   }
 
-  function renderUniversGrid() {
-    var grid = $('univers-grid');
-    grid.innerHTML = '';
+  // Onglets des univers, dans la barre fixe en haut (toujours visibles).
+  function renderOnglets() {
+    var nav = $('univers-onglets');
+    nav.innerHTML = '';
     UNIVERS.forEach(function (u) {
       if (u.key !== '__actus' && !state.catalogue.themes[u.key]) return;
+      var actif = u.key === state.univers && !state.triDate;
       var b = document.createElement('button');
-      b.className = 'u-btn' + (u.key === state.univers ? ' active' : '');
+      b.type = 'button';
+      b.className = 'onglet' + (u.key === '__actus' ? ' affiches' : '') + (actif ? ' actif' : '');
       b.style.setProperty('--uc', u.couleur);
-      var compte = compteUnivers(u.key);
-      var libelle = u.key === '__actus'
-        ? compte + ' affiche' + (compte > 1 ? 's' : '')
-        : compte + ' article' + (compte > 1 ? 's' : '');
-      b.innerHTML =
-        '<div class="pastille" style="background:' + u.couleur + '"></div>' +
-        '<div class="u-nom">' + esc(u.nom) + '</div>' +
-        '<div class="u-compte">' + libelle + '</div>';
+      b.setAttribute('aria-pressed', actif ? 'true' : 'false');
+      b.title = u.nom;
+      b.innerHTML = '<span class="pastille"></span>' + esc(u.court) + ' <span class="n">' + compteUnivers(u.key) + '</span>';
       b.onclick = function () {
         state.univers = u.key; state.triDate = false; majBoutonTri();
-        $('admin-search').value = ''; $('resultats-recherche').innerHTML = ''; render();
+        $('admin-search').value = ''; $('resultats-recherche').innerHTML = '';
+        render();
+        window.scrollTo(0, 0);
       };
-      grid.appendChild(b);
+      nav.appendChild(b);
+      if (actif && typeof b.offsetLeft === 'number') nav.scrollLeft = Math.max(0, b.offsetLeft - 24);
     });
-  }
-
-  /* ---------- Ligne d'article ---------- */
-
-  function moveItem(arr, item, delta) {
-    var i = arr.indexOf(item), j = i + delta;
-    if (j < 0 || j >= arr.length) return;
-    arr.splice(i, 1); arr.splice(j, 0, item);
-    markDirty(); render();
   }
 
   function supprimerRayon(theme, fam) {
@@ -591,12 +640,7 @@
     }
   }
 
-  function dupliquer(fam, art) {
-    var copie = { id: slug(art.nom) + '-' + uid(), nom: art.nom + ' (copie)', prix: art.prix, stock: null, description: art.description || '', photo: art.photo || null };
-    fam.articles.splice(fam.articles.indexOf(art) + 1, 0, copie);
-    markDirty(); render();
-    openArticleForm(fam, copie);
-  }
+  /* ---------- Ligne d'article ---------- */
 
   function articleRow(fam, art, contexte) {
     var row = document.createElement('div');
@@ -618,138 +662,218 @@
       '<div class="art-ligne2"><span class="art-prix">' + prixTxt + '</span>' + tags +
       (contexte ? ' · ' + esc(contexte) : '') + '</div>' +
       '</div>';
-    var btn = document.createElement('button');
-    btn.className = 'mini art-modif';
-    btn.textContent = 'Modifier';
-    btn.onclick = function () { openArticleForm(fam, art); };
-    row.appendChild(btn);
+    row.title = 'Modifier « ' + art.nom + ' »';
+    // Toute la ligne ouvre la fiche (grande cible, pratique au doigt).
+    row.onclick = function () { openArticleForm(fam, art); };
+    var actions = document.createElement('div');
+    actions.className = 'art-actions';
+    var dup = document.createElement('button');
+    dup.type = 'button';
+    dup.className = 'mini';
+    dup.innerHTML = '⧉<span class="txt"> Dupliquer</span>';
+    dup.title = 'Nouvel article pré-rempli à partir de celui-ci (pratique pour une série)';
+    dup.setAttribute('aria-label', 'Dupliquer « ' + art.nom + ' »');
+    dup.onclick = function (e) { e.stopPropagation(); openArticleForm(fam, null, art); };
+    var mod = document.createElement('button');
+    mod.type = 'button';
+    mod.className = 'mini btn-modifier';
+    mod.textContent = 'Modifier';
+    mod.onclick = function (e) { e.stopPropagation(); openArticleForm(fam, art); };
+    actions.appendChild(dup);
+    actions.appendChild(mod);
+    row.appendChild(actions);
     return row;
   }
 
   /* ---------- Vue d'un univers (rayons + articles) ---------- */
 
+  function pluriel(n, mot) { return n + ' ' + mot + (n > 1 ? 's' : ''); }
+
   function renderUnivers(contenu) {
     var u = uInfo(state.univers);
     var theme = state.catalogue.themes[state.univers];
+    var familles = theme.familles || [];
 
+    // En-tête compact : nom, chiffres, lien vers le site, « ＋ Nouveau rayon ».
     var entete = document.createElement('div');
     entete.className = 'univers-entete';
     entete.innerHTML =
       '<span class="puce" style="background:' + u.couleur + '"></span>' +
       '<h2>' + esc(u.nom) + '</h2>' +
-      '<a class="voir-site" href="' + SITE + '/' + u.path + '/" target="_blank" rel="noopener">Voir cette page sur le site ↗</a>';
+      '<span class="compte">' + pluriel(familles.length, 'rayon') + ' · ' + pluriel(compteUnivers(state.univers), 'article') + '</span>' +
+      '<span class="spacer"></span>' +
+      '<a class="voir-site" href="' + SITE + '/' + u.path + '/" target="_blank" rel="noopener">Voir sur le site ↗</a>';
+    var btnNouv = document.createElement('button');
+    btnNouv.type = 'button';
+    btnNouv.className = 'mini';
+    btnNouv.textContent = '＋ Nouveau rayon';
+    btnNouv.onclick = function () { openRayonForm(theme, null); };
+    entete.appendChild(btnNouv);
     contenu.appendChild(entete);
 
-    var guide = document.createElement('p');
-    guide.className = 'hint';
-    guide.style.margin = '4px 0 0';
-    guide.textContent = '2. Voici les rayons de cet univers. Cliquez sur un rayon pour dérouler ses articles ; le bouton « Ajouter un article » reste toujours visible.';
-    contenu.appendChild(guide);
+    familles.forEach(function (fam) { contenu.appendChild(carteRayon(theme, fam)); });
 
-    (theme.familles || []).forEach(function (fam) {
-      var carte = document.createElement('div');
-      carte.className = 'rayon';
+    if (!familles.length) {
+      var vide = document.createElement('div');
+      vide.className = 'rayon-vide';
+      vide.textContent = 'Aucun rayon dans cet univers pour l\'instant. Cliquez sur « ＋ Nouveau rayon » pour commencer.';
+      contenu.appendChild(vide);
+    }
+  }
 
-      var n = (fam.articles || []).length;
-      // Rayon plié par défaut ; on garde ouverts ceux que la gérante a déroulés
-      // (mémorisés dans state) et les rayons vides (pour voir le bouton d'ajout).
-      var ouvert = !!state.rayonsOuverts[fam.id] || n === 0;
+  /* Un rayon = un accordéon. Ses articles ne sont construits qu'à l'ouverture
+     (un rayon de 566 articles ne ralentit plus la page tant qu'il est fermé). */
+  function carteRayon(theme, fam) {
+    var carte = document.createElement('div');
+    carte.className = 'rayon';
+    var n = (fam.articles || []).length;
+    var ouvert = !!state.rayonsOuverts[fam.id] || n === 0;
 
-      var tete = document.createElement('div');
-      tete.className = 'rayon-tete';
-      tete.style.cursor = 'pointer';
-      tete.innerHTML =
-        '<div style="flex:1;min-width:0;display:flex;align-items:baseline;gap:10px">' +
-        '<span class="chevron" style="font-size:18px;color:var(--faded);line-height:1">' + (ouvert ? '▾' : '▸') + '</span>' +
-        '<div style="min-width:0">' +
-        '<div class="etiq">Rayon</div>' +
-        '<h3>' + esc(fam.nom) + '  <span style="color:var(--faded);font-size:16px;font-family:\'Jost\',sans-serif;font-weight:300">(' + n + ' article' + (n > 1 ? 's' : '') + ')</span></h3>' +
-        '</div></div>';
-      var actionsRayon = document.createElement('div');
-      actionsRayon.className = 'rayon-actions';
-      var btnAdd = document.createElement('button');
-      btnAdd.className = 'mini primary';
-      btnAdd.innerHTML = '<span class="plus">＋</span> Ajouter un article';
-      btnAdd.onclick = function (e) { e.stopPropagation(); state.rayonsOuverts[fam.id] = true; openArticleForm(fam, null); };
-      actionsRayon.appendChild(btnAdd);
-      var btnRayon = document.createElement('button');
-      btnRayon.className = 'mini';
-      btnRayon.textContent = 'Renommer';
-      btnRayon.onclick = function (e) { e.stopPropagation(); openRayonForm(theme, fam); };
-      actionsRayon.appendChild(btnRayon);
-      var btnDel = document.createElement('button');
-      btnDel.className = 'mini suppr';
-      btnDel.textContent = 'Supprimer';
-      btnDel.onclick = function (e) { e.stopPropagation(); supprimerRayon(theme, fam); };
-      actionsRayon.appendChild(btnDel);
-      tete.appendChild(actionsRayon);
-      carte.appendChild(tete);
+    var tete = document.createElement('div');
+    tete.className = 'rayon-tete';
+    tete.innerHTML =
+      '<span class="chevron">' + (ouvert ? '▾' : '▸') + '</span>' +
+      '<h3>' + esc(fam.nom) + '</h3>' +
+      '<span class="nb">' + pluriel(n, 'article') + '</span>';
+    var actions = document.createElement('div');
+    actions.className = 'rayon-actions';
+    var btnAdd = document.createElement('button');
+    btnAdd.type = 'button';
+    btnAdd.className = 'mini primary';
+    btnAdd.innerHTML = '＋<span class="txt"> Ajouter ici</span>';
+    btnAdd.title = 'Ajouter un article dans « ' + fam.nom + ' »';
+    btnAdd.setAttribute('aria-label', 'Ajouter un article dans « ' + fam.nom + ' »');
+    btnAdd.onclick = function (e) { e.stopPropagation(); openArticleForm(fam, null); };
+    var btnPlus = document.createElement('button');
+    btnPlus.type = 'button';
+    btnPlus.className = 'btn-menu';
+    btnPlus.textContent = '⋯';
+    btnPlus.setAttribute('aria-label', 'Options du rayon « ' + fam.nom + ' »');
+    btnPlus.setAttribute('aria-haspopup', 'true');
+    btnPlus.onclick = function (e) {
+      e.stopPropagation();
+      ouvrirMenu(btnPlus, [
+        { label: '✏️  Modifier le rayon (nom, phrase)', action: function () { openRayonForm(theme, fam); } },
+        '-',
+        { label: '🗑️  Supprimer le rayon', danger: true, action: function () { supprimerRayon(theme, fam); } }
+      ]);
+    };
+    actions.appendChild(btnAdd);
+    actions.appendChild(btnPlus);
+    tete.appendChild(actions);
+    carte.appendChild(tete);
 
-      // Corps repliable : slogan + articles (masqué quand le rayon est plié).
-      var corps = document.createElement('div');
-      corps.className = 'rayon-corps';
-      if (!ouvert) corps.classList.add('hidden');
+    var corps = document.createElement('div');
+    corps.className = 'rayon-corps';
+    if (!ouvert) corps.classList.add('hidden');
+    carte.appendChild(corps);
+    var rempli = false;
+    function remplir() { if (!rempli) { rempli = true; remplirCorpsRayon(corps, fam); } }
+    if (ouvert) remplir();
 
-      if (fam.slogan) {
-        var sl = document.createElement('p');
-        sl.className = 'rayon-slogan';
-        sl.textContent = fam.slogan;
-        corps.appendChild(sl);
+    // Clic sur l'en-tête (hors boutons) : plier / déplier.
+    tete.onclick = function (e) {
+      if (e.target.closest('button')) return;
+      var plie = corps.classList.toggle('hidden');
+      state.rayonsOuverts[fam.id] = !plie;
+      if (!plie) remplir();
+      var chev = tete.querySelector('.chevron');
+      if (chev) chev.textContent = plie ? '▸' : '▾';
+    };
+    return carte;
+  }
+
+  var RAYON_PAGE = 50;
+
+  // Contenu d'un rayon ouvert : les plus récents d'abord, par paquets de 50,
+  // avec un filtre dès que le rayon est grand.
+  function remplirCorpsRayon(corps, fam) {
+    corps.innerHTML = '';
+    if (fam.slogan) {
+      var sl = document.createElement('p');
+      sl.className = 'rayon-slogan';
+      sl.textContent = fam.slogan;
+      corps.appendChild(sl);
+    }
+    var n = (fam.articles || []).length;
+    if (!n) {
+      var vide = document.createElement('div');
+      vide.className = 'rayon-vide';
+      vide.textContent = 'Ce rayon est vide. Cliquez sur « ＋ » (Ajouter ici) pour y mettre un premier article.';
+      corps.appendChild(vide);
+      return;
+    }
+    var filtre = null;
+    if (n > RAYON_PAGE) {
+      filtre = document.createElement('input');
+      filtre.type = 'search';
+      filtre.className = 'filtre-rayon';
+      filtre.placeholder = '🔎  Filtrer dans « ' + fam.nom + ' »…';
+      filtre.setAttribute('aria-label', 'Filtrer les articles du rayon ' + fam.nom);
+      filtre.value = state.filtreRayon[fam.id] || '';
+      corps.appendChild(filtre);
+    }
+    var liste = document.createElement('div');
+    corps.appendChild(liste);
+
+    function dessiner() {
+      liste.innerHTML = '';
+      var q = filtre ? filtre.value.trim() : '';
+      var tokens = norm(q).split(/\s+/).filter(function (t) { return t.length >= 2; });
+      var arts = fam.articles.slice().sort(function (a, b) { return dateAjout(b) - dateAjout(a); });
+      if (tokens.length) {
+        arts = arts.filter(function (a) {
+          var h = norm(a.nom + ' ' + (a.description || ''));
+          return tokens.every(function (x) { return h.indexOf(x) !== -1; });
+        });
       }
-
-      (fam.articles || []).forEach(function (art) { corps.appendChild(articleRow(fam, art)); });
-
-      if (!n) {
-        var vide = document.createElement('div');
-        vide.className = 'rayon-vide';
-        vide.textContent = 'Ce rayon est encore vide. Cliquez sur « Ajouter un article » ci-dessus pour votre premier article.';
-        corps.appendChild(vide);
+      var limite = state.limiteRayon[fam.id] || RAYON_PAGE;
+      arts.slice(0, limite).forEach(function (art) { liste.appendChild(articleRow(fam, art)); });
+      if (tokens.length && !arts.length) {
+        var rien = document.createElement('div');
+        rien.className = 'rayon-vide';
+        rien.textContent = 'Aucun article de ce rayon ne correspond à « ' + q + ' ».';
+        liste.appendChild(rien);
       }
-
-      carte.appendChild(corps);
-
-      // Clic sur l'en-tête (hors boutons) : plier / déplier le rayon.
-      tete.onclick = function (e) {
-        if (e.target.closest('button')) return;
-        var plie = corps.classList.toggle('hidden');
-        state.rayonsOuverts[fam.id] = !plie;
-        var chev = tete.querySelector('.chevron');
-        if (chev) chev.textContent = plie ? '▸' : '▾';
-      };
-
-      contenu.appendChild(carte);
-    });
-
-    var nouveau = document.createElement('div');
-    nouveau.className = 'add-rayon';
-    var btnNouv = document.createElement('button');
-    btnNouv.className = 'ghost gros';
-    btnNouv.innerHTML = '<span class="plus">＋</span> Créer un nouveau rayon dans « ' + esc(u.nom) + ' »';
-    btnNouv.onclick = function () { openRayonForm(theme, null); };
-    nouveau.appendChild(btnNouv);
-    contenu.appendChild(nouveau);
+      if (arts.length > limite) {
+        var reste = arts.length - limite;
+        var suite = document.createElement('button');
+        suite.type = 'button';
+        suite.className = 'mini voir-plus';
+        suite.textContent = 'Afficher les ' + Math.min(RAYON_PAGE, reste) + ' suivants (encore ' + reste + ')';
+        suite.onclick = function () { state.limiteRayon[fam.id] = limite + RAYON_PAGE; dessiner(); };
+        liste.appendChild(suite);
+      }
+    }
+    if (filtre) {
+      filtre.addEventListener('input', function () {
+        state.filtreRayon[fam.id] = filtre.value;
+        state.limiteRayon[fam.id] = RAYON_PAGE;
+        dessiner();
+      });
+    }
+    dessiner();
   }
 
   /* ---------- Vue affiches / promos ---------- */
 
   function renderActus(contenu) {
+    var actus = state.catalogue.actualites;
     var entete = document.createElement('div');
     entete.className = 'univers-entete';
     entete.innerHTML =
       '<span class="puce" style="background:#c9a86a"></span>' +
-      '<h2>Affiches & promotions</h2>' +
-      '<a class="voir-site" href="' + SITE + '/" target="_blank" rel="noopener">Voir la page d\'accueil ↗</a>';
+      '<h2>Affiches & promos</h2>' +
+      '<span class="compte">' + pluriel(actus.length, 'affiche') + ' · en haut de la page d\'accueil</span>' +
+      '<span class="spacer"></span>' +
+      '<a class="voir-site" href="' + SITE + '/" target="_blank" rel="noopener">Voir l\'accueil ↗</a>';
+    var btnAdd = document.createElement('button');
+    btnAdd.type = 'button';
+    btnAdd.className = 'mini primary';
+    btnAdd.textContent = '＋ Nouvelle affiche';
+    btnAdd.onclick = function () { openActuForm(null); };
+    entete.appendChild(btnAdd);
     contenu.appendChild(entete);
-
-    var guide = document.createElement('p');
-    guide.className = 'hint';
-    guide.style.margin = '4px 0 0';
-    guide.innerHTML = 'Ces affiches s\'affichent en haut de la page d\'accueil du site. Si vous mettez une date de fin, l\'affiche disparaît toute seule après cette date.';
-    contenu.appendChild(guide);
-
-    var carte = document.createElement('div');
-    carte.className = 'rayon';
-    var actus = state.catalogue.actualites;
 
     actus.forEach(function (actu) {
       var row = document.createElement('div');
@@ -757,41 +881,36 @@
       var src = photoSrcAdmin(actu.image);
       var etat = actu.fin
         ? (actu.fin < aujourdhui() ? '<span class="tag tag-rouge">terminée</span>' : '<span class="tag tag-stock">jusqu\'au ' + esc(actu.fin) + '</span>')
-        : '';
+        : '<span style="color:var(--faded)">permanente</span>';
       row.innerHTML =
         (src ? '<img src="' + esc(src) + '" alt="">' : '<div class="noimg">📣</div>') +
         '<div class="art-info"><div class="art-nom">' + esc(actu.titre) + '</div>' +
-        (etat ? '<div class="art-ligne2">' + etat + '</div>' : '') + '</div>';
+        '<div class="art-ligne2">' + etat + '</div></div>';
+      row.onclick = function () { openActuForm(actu); };
+      var actions = document.createElement('div');
+      actions.className = 'art-actions';
       var btn = document.createElement('button');
-      btn.className = 'mini art-modif';
+      btn.type = 'button';
+      btn.className = 'mini';
       btn.textContent = 'Modifier';
-      btn.onclick = function () { openActuForm(actu); };
-      row.appendChild(btn);
-      carte.appendChild(row);
+      btn.onclick = function (e) { e.stopPropagation(); openActuForm(actu); };
+      actions.appendChild(btn);
+      row.appendChild(actions);
+      contenu.appendChild(row);
     });
 
     if (!actus.length) {
       var vide = document.createElement('div');
       vide.className = 'rayon-vide';
-      vide.textContent = 'Aucune affiche pour l\'instant.';
-      carte.appendChild(vide);
+      vide.textContent = 'Aucune affiche pour l\'instant. Cliquez sur « ＋ Nouvelle affiche ».';
+      contenu.appendChild(vide);
     }
-
-    var add = document.createElement('div');
-    add.style.marginTop = '16px';
-    var btnAdd = document.createElement('button');
-    btnAdd.className = 'primary gros';
-    btnAdd.innerHTML = '<span class="plus">＋</span> Ajouter une affiche';
-    btnAdd.onclick = function () { openActuForm(null); };
-    add.appendChild(btnAdd);
-    carte.appendChild(add);
-    contenu.appendChild(carte);
   }
 
   /* ---------- Rendu général ---------- */
 
   function render() {
-    renderUniversGrid();
+    renderOnglets();
     var contenu = $('contenu');
     contenu.innerHTML = '';
     if (state.univers === '__actus') renderActus(contenu);
@@ -817,9 +936,15 @@
   // Pendant une recherche, on masque la vue « univers » pour ne montrer que
   // les résultats (plus clair). Quand la recherche est vide, on la ré-affiche.
   function rechercheActive(on) {
-    var choix = document.querySelector('.univers-choix');
-    if (choix) choix.style.display = on ? 'none' : '';
     $('contenu').style.display = on ? 'none' : '';
+  }
+
+  // Quitte la recherche et le tri par date : retour aux rayons de l'univers.
+  function quitterResultats() {
+    $('admin-search').value = '';
+    state.triDate = false;
+    majBoutonTri();
+    renderRecherche('');
   }
 
   var RECH_MAX = 80;
@@ -887,14 +1012,23 @@
     else resultats.sort(function (a, b) { return b.score - a.score || a.len - b.len; });
 
     var carte = document.createElement('div');
-    carte.className = 'rayon';
+    carte.className = 'resultats';
     var titre;
     if (!resultats.length) titre = 'Aucun résultat';
     else if (state.triDate && !tokens.length) titre = 'Tous les articles (' + resultats.length + '), du plus récent au plus ancien';
     else titre = resultats.length + ' résultat' + (resultats.length > 1 ? 's' : '') + ' sur ' + nbArticlesTotal() + ' articles' +
       (state.triDate ? ', du plus récent au plus ancien' : '');
-    carte.innerHTML = '<div class="rayon-tete"><div><div class="etiq">' + (state.triDate ? 'Triés par date d\'ajout' : 'Recherche') +
-      '</div><h3>' + esc(titre) + '</h3></div></div>';
+    var tete = document.createElement('div');
+    tete.className = 'resultats-tete';
+    tete.innerHTML = '<div style="flex:1;min-width:0"><div class="etiq">' + (state.triDate ? 'Triés par date d\'ajout' : 'Recherche') +
+      '</div><h3>' + esc(titre) + '</h3></div>';
+    var retour = document.createElement('button');
+    retour.type = 'button';
+    retour.className = 'mini';
+    retour.textContent = '← Revenir aux rayons';
+    retour.onclick = quitterResultats;
+    tete.appendChild(retour);
+    carte.appendChild(tete);
 
     if (state.triDate) {
       // Groupés par jour (« Aujourd'hui », « Hier »…), avec l'heure d'ajout.
@@ -941,83 +1075,175 @@
     if (!b) return;
     b.classList.toggle('actif', state.triDate);
     b.setAttribute('aria-pressed', state.triDate ? 'true' : 'false');
+    if (state.catalogue) renderOnglets();   // en tri par date, aucun univers n'est sélectionné
   }
 
-  /* ---------- Formulaire article (avec aperçu) ---------- */
+  /* ---------- Fiche article ----------
+     Ordre de travail naturel : la photo d'abord, l'IA remplit le nom et la
+     description, puis prix et quantité, puis le rayon (qui permet aussi de
+     déplacer un article). Les boutons restent collés en bas de la fiche.
+     - art     : article à modifier (sinon nouvel article)
+     - modele  : article à dupliquer (fiche pré-remplie ; rien n'est créé avant « Ajouter »)
+     - garde   : { prix, stock } repris de la fiche précédente (« Ajouter et en faire un autre ») */
 
-  function openArticleForm(fam, art) {
+  function listeRayons() {
+    var l = [];
+    UNIVERS.forEach(function (u) {
+      var t = state.catalogue.themes[u.key];
+      if (!t) return;
+      (t.familles || []).forEach(function (f) { l.push({ cle: u.key, univers: u.nom, theme: t, fam: f }); });
+    });
+    return l;
+  }
+
+  function trouverRayon(famId) {
+    var l = listeRayons();
+    for (var i = 0; i < l.length; i++) if (l[i].fam.id === famId) return l[i];
+    return null;
+  }
+
+  // Rayon proposé par « ＋ Nouvel article » : le dernier utilisé s'il est dans
+  // l'univers affiché, sinon le rayon ouvert de cet univers, sinon son premier.
+  function rayonParDefaut() {
+    var dernier = state.dernierFamId && trouverRayon(state.dernierFamId);
+    var t = state.catalogue.themes[state.univers];
+    var fams = (t && t.familles) || [];
+    if (dernier && dernier.cle === state.univers) return dernier.fam;
+    var ouvert = fams.filter(function (f) { return state.rayonsOuverts[f.id]; })[0];
+    if (ouvert) return ouvert;
+    if (fams.length) return fams[0];
+    if (dernier) return dernier.fam;
+    var tous = listeRayons();
+    return tous.length ? tous[0].fam : null;
+  }
+
+  function nouvelArticle() {
+    var fam = rayonParDefaut();
+    if (!fam) { alert('Créez d\'abord un rayon : ouvrez un univers puis « ＋ Nouveau rayon ».'); return; }
+    openArticleForm(fam, null);
+  }
+
+  function openArticleForm(fam, art, modele, garde) {
+    var source = art || modele || null;
     var photoTemp = null;
-    var box = openModal(
-      '<h2>' + (art ? 'Modifier l\'article' : 'Nouvel article') + '</h2>' +
-      '<p class="hint">Rayon : ' + esc(fam.nom) + '</p>' +
-      '<div class="modal-cols"><div>' +
-      '<form id="article-form">' +
-      '<label style="margin-top:6px">Nom de l\'article</label>' +
-      '<input id="af-nom" required value="' + esc(art ? art.nom : '') + '">' +
-      '<label>Prix en boutique (€)</label>' +
-      '<input id="af-prix" inputmode="decimal" placeholder="ex : 12,50" value="' + esc(art ? prixFr(art.prixBoutique != null ? art.prixBoutique : art.prix) : '') + '">' +
-      '<p class="hint" id="af-prix-hint"></p>' +
-      '<label>Combien en avez-vous à vendre en ligne ?</label>' +
-      '<input id="af-stock" inputmode="numeric" placeholder="ex : 3" value="' + esc(art && art.stock != null ? art.stock : '') + '">' +
-      '<p class="hint">Obligatoire dès que vous mettez un prix. Une fois ce nombre vendu, l\'article passe « épuisé » tout seul. Si vous en avez beaucoup, mettez un grand nombre (ex : 50).</p>' +
-      '<label>Description (facultatif)</label>' +
-      '<textarea id="af-desc" rows="3" placeholder="Vertus, origine, taille…">' + esc(art ? art.description || '' : '') + '</textarea>' +
-      '<label>Photo</label>' +
-      '<input id="af-photo" type="file" accept="image/*">' +
-      (IA_WORKER_URL ? '<button type="button" id="af-ia" class="mini" style="margin-top:12px">✨ Générer le titre et la description avec l\'IA</button><p class="hint" id="af-ia-msg"></p>' : '') +
-      '<div class="form-actions">' +
-      '<button type="submit" class="primary">' + (art ? 'Enregistrer' : 'Ajouter au rayon') + '</button>' +
-      '<button type="button" id="af-cancel">Annuler</button>' +
-      '<span class="spacer"></span>' +
-      (art ? '<button type="button" class="danger-link" id="af-delete">Supprimer</button>' : '') +
-      '</div></form></div>' +
-      '<div><div class="preview-titre">Aperçu sur le site</div>' +
-      '<div class="preview-card"><div id="pv-ph"></div>' +
-      '<div class="preview-body"><h4 id="pv-nom"></h4><div class="preview-prix" id="pv-prix"></div><p id="pv-desc"></p></div>' +
-      '</div></div></div>', true);
+    var photoExistante = source ? source.photo || null : null;
+    var titre = art ? 'Modifier l\'article' : modele ? 'Nouvel article (copie)' : 'Nouvel article';
+    var prixDe = function (a) { return prixFr(a.prixBoutique != null ? a.prixBoutique : a.prix); };
+    var prixInit = source ? prixDe(source) : garde ? garde.prix : '';
+    var stockInit = source ? (source.stock != null ? source.stock : '') : garde ? garde.stock : '';
 
-    function maj() {
-      var nom = $('af-nom').value.trim() || 'Nom de l\'article';
+    // Liste des rayons, groupés par univers
+    var options = '', groupe = null;
+    listeRayons().forEach(function (r) {
+      if (r.cle !== groupe) {
+        if (groupe) options += '</optgroup>';
+        options += '<optgroup label="' + esc(r.univers) + '">';
+        groupe = r.cle;
+      }
+      options += '<option value="' + esc(r.fam.id) + '"' + (r.fam === fam ? ' selected' : '') + '>' + esc(r.fam.nom) + '</option>';
+    });
+    if (groupe) options += '</optgroup>';
+
+    var pied = art
+      ? '<button type="button" class="danger-link" id="af-delete">Supprimer</button>' +
+        '<span class="spacer"></span>' +
+        '<button type="button" id="af-cancel">Annuler</button>' +
+        '<button type="submit" class="primary">Enregistrer</button>'
+      // Le bouton principal est le 1er bouton « submit » du formulaire : c'est lui
+      // que déclenche la touche Entrée ; l'ordre visuel est rétabli par « order ».
+      : '<button type="submit" class="primary" style="order:3">Ajouter l\'article</button>' +
+        '<button type="button" id="af-cancel" style="order:0">Annuler</button>' +
+        '<span class="spacer" style="order:1"></span>' +
+        '<button type="submit" id="af-suite" style="order:2" title="Ajoute cet article, puis ouvre une nouvelle fiche dans le même rayon (prix et quantité gardés)">Ajouter et en faire un autre</button>';
+
+    var box = openModal(
+      '<div class="fiche-tete"><h2>' + titre + '</h2>' +
+      '<button type="button" class="btn-menu discret" id="af-fermer" aria-label="Fermer la fiche">✕</button></div>' +
+      '<form id="article-form" class="fiche-form" novalidate>' +
+      '<div class="fiche-corps">' +
+      '<div class="zone-photo" id="af-zone" tabindex="0" role="button" aria-label="Ajouter ou changer la photo">' +
+      '<div id="af-zone-contenu" style="display:contents"></div></div>' +
+      '<input id="af-photo" type="file" accept="image/*" style="position:absolute;width:1px;height:1px;opacity:0;pointer-events:none">' +
+      (IA_WORKER_URL
+        ? '<div class="ligne-ia"><button type="button" id="af-ia" class="mini">✨ Remplir le nom et la description avec l\'IA</button>' +
+          '<p class="msg" id="af-ia-msg"></p></div>'
+        : '') +
+      '<label for="af-nom">Nom de l\'article</label>' +
+      '<input id="af-nom" autocomplete="off" value="' + esc(source ? source.nom : '') + '">' +
+      '<label for="af-desc">Description <span style="color:var(--faded);font-weight:300">(facultatif)</span></label>' +
+      '<textarea id="af-desc" rows="3" placeholder="Vertus, origine, taille…">' + esc(source ? source.description || '' : '') + '</textarea>' +
+      '<div class="deux-cols">' +
+      '<div><label for="af-prix">Prix en boutique (€)</label>' +
+      '<input id="af-prix" inputmode="decimal" placeholder="ex : 12,50" value="' + esc(prixInit) + '"></div>' +
+      '<div><label for="af-stock">Quantité en stock</label>' +
+      '<input id="af-stock" inputmode="numeric" placeholder="ex : 3" value="' + esc(stockInit) + '"></div>' +
+      '</div>' +
+      '<p class="hint" id="af-prix-hint"></p>' +
+      '<label for="af-rayon">Rayon</label>' +
+      '<select id="af-rayon">' + options + '</select>' +
+      '</div>' +
+      '<div class="fiche-pied">' + pied + '</div>' +
+      '</form>', 'fiche');
+
+    function rayonChoisi() {
+      var r = trouverRayon($('af-rayon').value);
+      return r ? r.fam : fam;
+    }
+
+    function majPhoto() {
+      var src = photoTemp ? 'data:image/jpeg;base64,' + photoTemp : photoSrcAdmin(photoExistante);
+      $('af-zone').classList.toggle('vide', !src);   // cadre compact tant qu'il n'y a pas de photo
+      $('af-zone-contenu').innerHTML = src
+        ? '<img src="' + esc(src) + '" alt=""><span class="changer">📷 Changer la photo</span>'
+        : '<span class="ico">📷</span><b>Ajouter une photo</b><span class="petit">Cliquez ici, ou glissez la photo dans ce cadre</span>';
+    }
+
+    function majPrix() {
       var ps = $('af-prix').value.trim().replace(/[€\s]/g, '').replace(',', '.');
       var pb = ps === '' || isNaN(Number(ps)) ? null : Number(ps);
-      var enligne = prixSite(pb);
-      $('pv-nom').textContent = nom;
-      $('pv-prix').textContent = prixLabel(enligne);
-      $('pv-desc').textContent = $('af-desc').value.trim();
+      var enligne = pb === null ? null : prixSite(pb);
       var hint = $('af-prix-hint');
-      if (pb === null) {
-        hint.innerHTML = 'Laissez vide pour afficher « Prix en boutique » (l\'article ne sera pas vendable en ligne).';
+      if (enligne === null) {
+        hint.textContent = 'Sans prix, le site affiche « Prix en boutique » : l\'article n\'est pas vendu en ligne.';
         hint.style.color = '';
       } else {
-        hint.innerHTML = '💳 Prix affiché et payé <b>sur le site : ' + enligne.toLocaleString('fr-FR', { minimumFractionDigits: 2 }) +
-          ' €</b> — vos ' + pb.toLocaleString('fr-FR') + ' € + les frais de paiement en ligne (calculés sur la commission la plus élevée, pour ne jamais perdre).';
+        hint.innerHTML = '💳 Prix payé sur le site : <b>' + enligne.toLocaleString('fr-FR', { minimumFractionDigits: 2 }) +
+          ' €</b> (frais de paiement inclus). Quand toute la quantité est vendue, l\'article passe « épuisé » tout seul.';
         hint.style.color = 'var(--accent-soft)';
       }
-      var src = photoTemp ? 'data:image/jpeg;base64,' + photoTemp : photoSrcAdmin(art ? art.photo : null);
-      $('pv-ph').innerHTML = src ? '<img class="ph" src="' + esc(src) + '" alt="">' : '<div class="ph vide2">💎</div>';
     }
-    ['af-nom', 'af-prix', 'af-desc'].forEach(function (id) { $(id).addEventListener('input', maj); });
 
-    $('af-photo').addEventListener('change', function () {
-      var f = $('af-photo').files[0];
+    function prendrePhoto(f) {
       if (!f) return;
       cropImage(f).then(function (b64) {
-        if (b64) { photoTemp = b64; maj(); }
-        else { $('af-photo').value = ''; }   // annulé : on remet à zéro le champ
+        if (b64) { photoTemp = b64; majPhoto(); }
+        $('af-photo').value = '';
       }).catch(function () { $('af-photo').value = ''; alertePhoto(); });
-    });
+    }
 
-    // Bouton « Générer avec l'IA » : envoie la photo au relais Cloudflare,
-    // remplit le titre + la description (la gérante relit et corrige).
+    var zone = $('af-zone');
+    zone.onclick = function () { $('af-photo').click(); };
+    zone.onkeydown = function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); $('af-photo').click(); } };
+    zone.addEventListener('dragover', function (e) { e.preventDefault(); zone.classList.add('survol'); });
+    zone.addEventListener('dragleave', function () { zone.classList.remove('survol'); });
+    zone.addEventListener('drop', function (e) {
+      e.preventDefault();
+      zone.classList.remove('survol');
+      var f = e.dataTransfer && e.dataTransfer.files && e.dataTransfer.files[0];
+      if (f && /^image\//.test(f.type)) prendrePhoto(f);
+    });
+    $('af-photo').addEventListener('change', function () { prendrePhoto($('af-photo').files[0]); });
+    $('af-prix').addEventListener('input', majPrix);
+
+    // ✨ IA : envoie la photo au relais Cloudflare, remplit le nom et la description.
     var btnIa = box.querySelector('#af-ia');
     if (btnIa) btnIa.onclick = function () {
       var msg = $('af-ia-msg');
-      // Récupère la photo : celle qu'on vient de choisir, sinon celle déjà enregistrée.
       var pImage;
       if (photoTemp) {
         pImage = Promise.resolve('data:image/jpeg;base64,' + photoTemp);
-      } else if (art && art.photo) {
-        var src = /^https?:/.test(art.photo) ? art.photo : '../' + art.photo;
+      } else if (photoExistante) {
+        var src = /^https?:/.test(photoExistante) ? photoExistante : '../' + photoExistante;
         pImage = fetch(src).then(function (r) { return r.blob(); }).then(function (b) {
           return new Promise(function (res, rej) {
             var fr = new FileReader();
@@ -1028,14 +1254,13 @@
         });
       } else {
         msg.className = 'msg err';
-        msg.textContent = 'Ajoutez d\'abord une photo, puis cliquez sur ce bouton.';
+        msg.textContent = 'Ajoutez d\'abord une photo (cadre ci-dessus), puis cliquez ici.';
         return;
       }
-
       btnIa.disabled = true;
       msg.className = 'msg';
-      msg.textContent = 'Génération en cours… (quelques secondes)';
-
+      msg.textContent = 'L\'IA regarde la photo… (quelques secondes)';
+      var cible = rayonChoisi();
       pImage.then(function (dataURI) {
         return fetch(IA_WORKER_URL, {
           method: 'POST',
@@ -1046,7 +1271,7 @@
             description: $('af-desc').value.trim(),
             // Titres des autres articles du rayon : le worker s'en sert pour reperer
             // la gamme et copier son format (ils ne sont jamais envoyes a l'IA).
-            exemples: fam.articles
+            exemples: (cible.articles || [])
               .filter(function (a) { return (!art || a.id !== art.id) && a.nom; })
               .map(function (a) { return a.nom; })
               .slice(0, 12)
@@ -1057,25 +1282,35 @@
       }).then(function (j) {
         if (typeof j.titre === 'string' && j.titre) $('af-nom').value = j.titre;
         if (typeof j.description === 'string' && j.description) $('af-desc').value = j.description;
-        maj();
         msg.className = 'msg ok';
-        msg.textContent = 'Proposition générée ✓ — relisez et modifiez si besoin avant d\'enregistrer.';
+        msg.textContent = '✓ C\'est rempli : relisez et corrigez si besoin.';
       }).catch(function (e) {
         msg.className = 'msg err';
-        msg.textContent = 'La génération a échoué : ' + e.message;
+        msg.textContent = 'L\'IA n\'a pas répondu : ' + e.message;
       }).finally(function () { btnIa.disabled = false; });
     };
 
+    // Deux boutons « Ajouter » : on retient lequel a été cliqué.
+    var enchainer = false;
+    var btnSuite = $('af-suite');
+    if (btnSuite) btnSuite.onclick = function () { enchainer = true; };
+
     $('article-form').onsubmit = function (ev) {
       ev.preventDefault();
+      var continuer = enchainer;
+      enchainer = false;
       var nom = $('af-nom').value.trim();
-      if (!nom) return;
-      var ps = $('af-prix').value.trim().replace(/[€\s]/g, '').replace(',', '.');
-      if (ps !== '' && (isNaN(Number(ps)) || Number(ps) < 0)) { alert('Prix invalide — écrivez par exemple : 12,50'); $('af-prix').focus(); return; }
-      var ss = $('af-stock').value.trim().replace(/\s/g, '');
-      if (ss !== '' && (!/^\d+$/.test(ss) || Number(ss) < 0)) { alert('Quantité invalide — écrivez un nombre entier, par exemple : 3'); $('af-stock').focus(); return; }
-      // Quantité obligatoire quand l'article a un prix (évite un stock illimité par oubli).
-      if (ps !== '' && ss === '') { alert('Indiquez combien vous en avez à vendre en ligne (le nombre d\'exemplaires). Si vous en avez beaucoup, mettez un grand nombre, par exemple 50.'); $('af-stock').focus(); return; }
+      if (!nom) { alert('Donnez un nom à l\'article (ou cliquez sur ✨ pour que l\'IA le propose à partir de la photo).'); $('af-nom').focus(); return; }
+      var prixSaisi = $('af-prix').value.trim();
+      var stockSaisi = $('af-stock').value.trim();
+      var ps = prixSaisi.replace(/[€\s]/g, '').replace(',', '.');
+      if (ps !== '' && (isNaN(Number(ps)) || Number(ps) < 0)) { alert('Prix invalide : écrivez par exemple 12,50'); $('af-prix').focus(); return; }
+      var ss = stockSaisi.replace(/\s/g, '');
+      if (ss !== '' && (!/^\d+$/.test(ss) || Number(ss) < 0)) { alert('Quantité invalide : écrivez un nombre entier, par exemple 3'); $('af-stock').focus(); return; }
+      // Quantité obligatoire avec un prix (évite un stock illimité par oubli).
+      if (ps !== '' && ss === '') { alert('Indiquez la quantité en stock. Si vous en avez beaucoup, mettez un grand nombre (par exemple 50).'); $('af-stock').focus(); return; }
+
+      var cible = rayonChoisi();
       var target = art || { id: slug(nom) + '-' + uid(), nom: '', prix: null, description: '', photo: null };
       target.nom = nom;
       var pb = ps === '' ? null : Number(ps);
@@ -1087,12 +1322,26 @@
         var path = 'images/articles/' + slug(nom) + '-' + uid() + '.jpg';
         state.pendingPhotos[path] = photoTemp;
         target.photo = path;
+      } else if (!art && photoExistante) {
+        target.photo = photoExistante;   // copie : même photo tant qu'on n'en choisit pas une autre
       }
-      if (!art) fam.articles.push(target);
+      if (!cible.articles) cible.articles = [];
+      if (art) {
+        if (cible !== fam) {             // changement de rayon : on déplace l'article
+          fam.articles.splice(fam.articles.indexOf(art), 1);
+          cible.articles.push(art);
+        }
+      } else {
+        cible.articles.push(target);
+      }
+      state.dernierFamId = cible.id;
+      state.rayonsOuverts[cible.id] = true;
       markDirty(); closeModal(); render();
+      if (continuer) openArticleForm(cible, null, null, { prix: prixSaisi, stock: stockSaisi });
     };
 
     box.querySelector('#af-cancel').onclick = closeModal;
+    box.querySelector('#af-fermer').onclick = closeModal;
     var del = box.querySelector('#af-delete');
     if (del) del.onclick = function () {
       if (confirm('Supprimer définitivement « ' + art.nom + ' » ?')) {
@@ -1100,15 +1349,15 @@
         markDirty(); closeModal(); render();
       }
     };
-    maj();
-    $('af-nom').focus();
+    majPhoto();
+    majPrix();
   }
 
   /* ---------- Formulaire rayon ---------- */
 
   function openRayonForm(theme, fam) {
     var box = openModal(
-      '<h2>' + (fam ? 'Renommer le rayon' : 'Nouveau rayon') + '</h2>' +
+      '<h2>' + (fam ? 'Modifier le rayon' : 'Nouveau rayon') + '</h2>' +
       '<p class="hint">Un rayon regroupe des articles qui vont ensemble (ex : Bracelets, Encens, Fontaines).</p>' +
       '<form id="rayon-form">' +
       '<label style="margin-top:14px">Nom du rayon</label>' +
@@ -1125,7 +1374,13 @@
       var nom = $('rf-nom').value.trim();
       if (!nom) return;
       if (fam) { fam.nom = nom; fam.slogan = $('rf-slogan').value.trim(); }
-      else { theme.familles.push({ id: slug(nom) + '-' + uid(), nom: nom, slogan: $('rf-slogan').value.trim(), articles: [] }); }
+      else {
+        var nouveau = { id: slug(nom) + '-' + uid(), nom: nom, slogan: $('rf-slogan').value.trim(), articles: [] };
+        if (!theme.familles) theme.familles = [];
+        theme.familles.push(nouveau);
+        state.rayonsOuverts[nouveau.id] = true;   // prêt à recevoir ses articles
+        state.dernierFamId = nouveau.id;
+      }
       markDirty(); closeModal(); render();
     };
     box.querySelector('#rf-cancel').onclick = closeModal;
@@ -1270,8 +1525,10 @@
   function start() {
     loadCatalogue().then(function () {
       $('login').classList.add('hidden');
+      $('titre-connexion').classList.add('hidden');
       $('editor').classList.remove('hidden');
       $('statusbar').classList.remove('hidden');
+      $('fab-nouvel-article').classList.remove('hidden');
       restaurerBrouillon();
       updateStatusbar();
       render();
@@ -1306,32 +1563,76 @@
     state.token = t; localStorage.setItem('geode-admin-token', t); start();
   };
 
-  $('btn-set-pass').onclick = function () {
-    var p1 = $('np1').value, p2 = $('np2').value, msg = $('pass-msg');
-    msg.className = 'msg err';
-    if (p1.length < 8) { msg.textContent = 'Mot de passe trop court (8 caractères minimum — une petite phrase est idéale).'; return; }
-    if (p1 !== p2) { msg.textContent = 'Les deux saisies ne correspondent pas.'; return; }
-    msg.className = 'msg'; msg.textContent = 'Chiffrement en cours…';
-    var btn = $('btn-set-pass'); btn.disabled = true;
-    chiffrerToken(state.token, p1)
-      .then(function (acces) {
-        return gh(ACCES_PATH).then(function (r) { return r.ok ? r.json().then(function (j) { return j.sha; }) : null; })
-          .then(function (sha) { return putFile(ACCES_PATH, b64EncodeUtf8(JSON.stringify(acces)), 'Admin : mot de passe de connexion mis à jour', sha || undefined); });
-      })
-      .then(function () { $('np1').value = ''; $('np2').value = ''; msg.className = 'msg ok'; msg.textContent = 'Mot de passe enregistré ✓ — utilisable d\'ici quelques minutes, depuis n\'importe quel ordinateur.'; })
-      .catch(function (e) { msg.className = 'msg err'; msg.textContent = 'Échec : ' + e.message; })
-      .finally(function () { btn.disabled = false; });
-  };
+  /* ---------- Menu « ⋯ » de la barre : outils moins fréquents ---------- */
 
-  $('btn-logout').onclick = function () {
-    if ((state.nbModifs || state.publication) && !confirm('Des changements ne sont pas mis en ligne. Quitter quand même ?')) return;
+  function ouvrirMotDePasse() {
+    var box = openModal(
+      '<h2>Mot de passe de connexion</h2>' +
+      '<p class="hint">Choisissez une petite phrase de 3-4 mots, facile à retenir. Elle servira sur tous vos appareils.</p>' +
+      '<label for="np1">Nouveau mot de passe</label>' +
+      '<input type="password" id="np1" autocomplete="new-password">' +
+      '<label for="np2">Confirmer</label>' +
+      '<input type="password" id="np2" autocomplete="new-password">' +
+      '<div class="form-actions">' +
+      '<button class="primary" id="btn-set-pass" type="button">Enregistrer le mot de passe</button>' +
+      '<button type="button" id="np-cancel">Fermer</button>' +
+      '</div>' +
+      '<p class="msg" id="pass-msg"></p>');
+    box.querySelector('#np-cancel').onclick = closeModal;
+    $('btn-set-pass').onclick = function () {
+      var p1 = $('np1').value, p2 = $('np2').value, msg = $('pass-msg');
+      msg.className = 'msg err';
+      if (p1.length < 8) { msg.textContent = 'Mot de passe trop court (8 caractères minimum : une petite phrase est idéale).'; return; }
+      if (p1 !== p2) { msg.textContent = 'Les deux saisies ne correspondent pas.'; return; }
+      msg.className = 'msg'; msg.textContent = 'Chiffrement en cours…';
+      var btn = $('btn-set-pass'); btn.disabled = true;
+      chiffrerToken(state.token, p1)
+        .then(function (acces) {
+          return gh(ACCES_PATH).then(function (r) { return r.ok ? r.json().then(function (j) { return j.sha; }) : null; })
+            .then(function (sha) { return putFile(ACCES_PATH, b64EncodeUtf8(JSON.stringify(acces)), 'Admin : mot de passe de connexion mis à jour', sha || undefined); });
+        })
+        .then(function () { $('np1').value = ''; $('np2').value = ''; msg.className = 'msg ok'; msg.textContent = 'Mot de passe enregistré ✓ Il fonctionnera d\'ici quelques minutes, sur tous vos appareils.'; })
+        .catch(function (e) { msg.className = 'msg err'; msg.textContent = 'Échec : ' + e.message; })
+        .finally(function () { btn.disabled = false; });
+    };
+    $('np1').focus();
+  }
+
+  function ouvrirAide() {
+    var box = openModal(
+      '<h2>Comment ça marche ?</h2>' +
+      '<div class="aide">' +
+      '<p>Votre site est rangé comme votre magasin : des <b>univers</b> (les onglets en haut), des <b>rayons</b> dans chaque univers, et des <b>articles</b> dans chaque rayon.</p>' +
+      '<p><b>＋ Nouvel article</b> : commencez par la photo, puis cliquez sur ✨ pour que l\'IA propose le nom et la description. Vérifiez, mettez le prix et la quantité, c\'est tout. « Ajouter et en faire un autre » enchaîne les articles d\'une même série.</p>' +
+      '<p><b>Retrouver un article</b> : tapez son nom dans la recherche en haut. Le bouton 🕒 montre les derniers articles ajoutés. Cliquez sur une ligne pour modifier ou supprimer l\'article ; « ⧉ » le duplique.</p>' +
+      '<p><b>Mise en ligne</b> : vos changements partent tout seuls sur le site 5 minutes après (ou tout de suite avec « Mettre en ligne »). Le site se met à jour 1 à 2 minutes plus tard.</p>' +
+      '</div>' +
+      '<div class="form-actions"><button class="primary" id="aide-ok" type="button">J\'ai compris</button></div>');
+    box.querySelector('#aide-ok').onclick = closeModal;
+  }
+
+  function deconnexion() {
+    if ((state.nbModifs || state.publication) && !confirm('Des changements ne sont pas encore en ligne. Se déconnecter quand même ?')) return;
     localStorage.removeItem('geode-admin-token'); location.reload();
+  }
+
+  $('btn-menu').onclick = function (e) {
+    e.stopPropagation();
+    ouvrirMenu($('btn-menu'), [
+      { label: '📋  Exporter l\'inventaire (Excel)', action: exporterInventaire },
+      { label: '❔  Comment ça marche', action: ouvrirAide },
+      { label: '🔑  Changer le mot de passe', action: ouvrirMotDePasse },
+      '-',
+      { label: '🚪  Se déconnecter', action: deconnexion }
+    ]);
   };
+  $('btn-nouvel-article').onclick = nouvelArticle;
+  $('fab-nouvel-article').onclick = nouvelArticle;
 
   $('btn-publish').onclick = function () { publish(false); };
 
   // Export CSV de l'inventaire (séparateur ; + BOM pour Excel français)
-  $('btn-inventaire').onclick = function () {
+  function exporterInventaire() {
     var lignes = [['Univers', 'Rayon', 'Article', 'Prix boutique (€)', 'Prix en ligne (€)', 'Stock en ligne', 'Épuisé', 'Description']];
     UNIVERS.forEach(function (u) {
       if (u.key === '__actus') return;
@@ -1361,7 +1662,7 @@
     a.download = nomFichier;
     a.click();
     URL.revokeObjectURL(a.href);
-  };
+  }
 
   var searchTimer = null;
   var champRech = $('admin-search');
@@ -1369,14 +1670,14 @@
     clearTimeout(searchTimer);
     var q = champRech.value.trim();
     state.limiteDate = DATE_PAGE;
-    searchTimer = setTimeout(function () { renderRecherche(q); }, 120);
+    searchTimer = setTimeout(function () {
+      renderRecherche(q);
+      if (q) window.scrollTo(0, 0);   // la barre est collée en haut : on montre les résultats
+    }, 120);
   });
   // Échap vide la recherche, coupe le tri par date et revient à la vue normale.
   champRech.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape') {
-      champRech.value = ''; state.triDate = false; majBoutonTri();
-      renderRecherche(''); champRech.blur();
-    }
+    if (e.key === 'Escape') { quitterResultats(); champRech.blur(); }
   });
   // Croix native du champ « type=search » : rafraîchir quand on efface.
   champRech.addEventListener('search', function () { renderRecherche(champRech.value.trim()); });
@@ -1387,6 +1688,7 @@
     state.limiteDate = DATE_PAGE;
     majBoutonTri();
     renderRecherche(champRech.value.trim());
+    window.scrollTo(0, 0);
   };
 
   // Mise en ligne automatique : toutes les 15 s on rafraîchit le compte à

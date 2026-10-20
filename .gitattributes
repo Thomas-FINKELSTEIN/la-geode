@@ -3,3 +3,4 @@
 *.yml text eol=lf
 *.yaml text eol=lf
 .github/scripts/*.js text eol=lf
+.github/tests/*.js text eol=lf

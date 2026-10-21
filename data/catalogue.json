@@ -23017,7 +23017,17 @@
               "description": "Ce bloc de sel gemme de l'Himalaya, aux teintes douces et apaisantes, est une véritable pépite pour la détente et le bien-être. Utilisé comme lampe de sel ou simplement comme objet décoratif, il purifie l'air et crée une ambiance zen propice à la relaxation. En lithothérapie, il est souvent associé à l'ouverture du cœur, à l'amour et à la douceur émotionnelle, tout en favorisant une énergie positive dans les espaces de vie.",
               "photo": "images/articles/himalaya-sel-rose-mvhwrzj2qezs.jpg",
               "prixBoutique": 17.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq3cw882bfTe6Y8pH2a42R",
+              "stripeProductId": "prod_VTtb7sA5YZIkSo",
+              "stripePriceId": "price_1USvoDLOfCA5mATuGi6FP0Zo",
+              "stripeLinkId": "plink_1USvoDLOfCA5mATuFgr9vAct",
+              "stripePrix": 18.76,
+              "stripeMode": "live",
+              "stripeNom": "Himalaya sel rose",
+              "stripeDesc": "Ce bloc de sel gemme de l'Himalaya, aux teintes douces et apaisantes, est une véritable pépite pour la détente et le bien-être. Utilisé comme lampe de sel ou simplement comme objet décoratif, il purifie l'air et crée une ambiance zen propice à la relaxation. En lithothérapie, il est souvent associé à l'ouverture du cœur, à l'amour et à la douceur émotionnelle, tout en favorisant une énergie positive dans les espaces de vie.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

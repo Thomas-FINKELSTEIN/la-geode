@@ -23053,7 +23053,7 @@
               "nom": "Sel gemme",
               "prix": 14.63,
               "description": "Le sel gemme est une pierre naturelle aux propriétés purificatrices et apaisantes. Utilisé depuis des siècles, il est réputé pour détoxifier l’organisme et favoriser un environnement harmonieux. Parfait pour les rituels de relaxation ou la décoration, il apporte une énergie positive et équilibrante à votre espace.",
-              "photo": "images/articles/sel-gemme-mvhwxkgbxlhx.jpg",
+              "photo": "images/articles/sel-gemme-mvhx25dgydxi.jpg",
               "prixBoutique": 13.9,
               "stock": 1,
               "stripe": "https://buy.stripe.com/7sY14o4VQ4Rv7IAdK12a42T",
@@ -23066,6 +23066,15 @@
               "stripeDesc": "Le sel gemme est une pierre naturelle aux propriétés purificatrices et apaisantes. Utilisé depuis des siècles, il est réputé pour détoxifier l’organisme et favoriser un environnement harmonieux. Parfait pour les rituels de relaxation ou la décoration, il apporte une énergie positive et équilibrante à votre espace.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bougeoir-de-sel-mvhx5g7g46pu",
+              "nom": "Bougeoir de sel",
+              "prix": 14.63,
+              "description": "Ce bougeoir en sel gemme pur est une pièce naturelle aux reflets dorés et translucides, idéale pour créer une ambiance apaisante et chaleureuse. Le sel gemme est connu pour purifier l’énergie d’un espace, réduire le stress et favoriser un sommeil réparateur grâce à ses propriétés ionisantes et son effet relaxant. Parfait pour une utilisation en lithothérapie ou simplement comme élément décoratif élégant dans votre intérieur.",
+              "photo": "images/articles/bougeoir-de-sel-mvhx5g7gtyu8.jpg",
+              "prixBoutique": 13.9,
+              "stock": 1
             }
           ]
         },

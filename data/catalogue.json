@@ -24636,7 +24636,17 @@
               "description": "Cette sphère en bois fossile est une pièce unique alliant beauté et énergie apaisante. Selon la lithothérapie, elle est souvent utilisée pour harmoniser les émotions et favoriser un sentiment de calme intérieur. Son aspect organique et ses reflets lumineux en font un objet décoratif tout en apportant une touche de bien-être à votre espace.",
               "photo": "images/articles/sphere-en-bois-fossile-mvi4mvryoz6s.jpg",
               "prixBoutique": 360,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00wdRabkegAd7IA49r2a42Z",
+              "stripeProductId": "prod_VTx9lHfDbvjung",
+              "stripePriceId": "price_1USzFCLOfCA5mATuIszqgzKX",
+              "stripeLinkId": "plink_1USzFDLOfCA5mATuGpjZSSWh",
+              "stripePrix": 372.36,
+              "stripeMode": "live",
+              "stripeNom": "Sphère en bois fossile",
+              "stripeDesc": "Cette sphère en bois fossile est une pièce unique alliant beauté et énergie apaisante. Selon la lithothérapie, elle est souvent utilisée pour harmoniser les émotions et favoriser un sentiment de calme intérieur. Son aspect organique et ses reflets lumineux en font un objet décoratif tout en apportant une touche de bien-être à votre espace.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

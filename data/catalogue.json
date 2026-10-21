@@ -23055,7 +23055,17 @@
               "description": "Le sel gemme est une pierre naturelle aux propriétés purificatrices et apaisantes. Utilisé depuis des siècles, il est réputé pour détoxifier l’organisme et favoriser un environnement harmonieux. Parfait pour les rituels de relaxation ou la décoration, il apporte une énergie positive et équilibrante à votre espace.",
               "photo": "images/articles/sel-gemme-mvhwxkgbxlhx.jpg",
               "prixBoutique": 13.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY14o4VQ4Rv7IAdK12a42T",
+              "stripeProductId": "prod_VTtffQO9R9ME65",
+              "stripePriceId": "price_1USvsQLOfCA5mATubEpKZ0BW",
+              "stripeLinkId": "plink_1USvsQLOfCA5mATu81fnw8XI",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Sel gemme",
+              "stripeDesc": "Le sel gemme est une pierre naturelle aux propriétés purificatrices et apaisantes. Utilisé depuis des siècles, il est réputé pour détoxifier l’organisme et favoriser un environnement harmonieux. Parfait pour les rituels de relaxation ou la décoration, il apporte une énergie positive et équilibrante à votre espace.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

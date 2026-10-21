@@ -4635,6 +4635,15 @@
               "stripeDesc": "Petits sachets de shungite, la Shungite est une pierre de grande protection contre les ondes électro-magnétiques; Elle se pose généralement sur le compteur électrique , prés des ordinateurs, de la box, les ondes sont alors absorbées à 95% par la shungite, effet protecteur qui s'installe dans votre environnement.",
               "stripeStock": 10,
               "epuise": false
+            },
+            {
+              "id": "obsidienne-mvhu3r7swf2j",
+              "nom": "Obsidienne brute Lame",
+              "prix": 3.36,
+              "description": "L'obsidienne brute est une pierre volcanique aux reflets sombres et profonds, souvent utilisée pour ses propriétés protectrices et équilibrantes. En lithothérapie, elle aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Son énergie puissante en fait un allié précieux pour les rituels de protection et de purification.",
+              "photo": "images/articles/obsidienne-brute-lame-mvhu9hvqf6b2.jpg",
+              "prixBoutique": 3,
+              "stock": 20
             }
           ]
         }

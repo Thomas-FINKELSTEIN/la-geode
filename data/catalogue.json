@@ -4864,7 +4864,17 @@
               "description": "Le jaspe polychrome est une pierre aux couleurs variées et apaisantes, idéale pour harmoniser les énergies. En lithothérapie, il est souvent utilisé pour renforcer la stabilité émotionnelle et favoriser la confiance en soi. Son éclat naturel en fait aussi un objet décoratif élégant et intemporel.",
               "photo": "images/articles/jaspe-polychrome-mviayn5zcr8h.jpg",
               "prixBoutique": 14.2,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFadRaewq5Vz6Ew9tL2a43j",
+              "stripeProductId": "prod_VU04GUKBQY1AFb",
+              "stripePriceId": "price_1UT24HLOfCA5mATuWYh0erTi",
+              "stripeLinkId": "plink_1UT24HLOfCA5mATujnvWNn4C",
+              "stripePrix": 14.94,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe polychrome",
+              "stripeDesc": "Le jaspe polychrome est une pierre aux couleurs variées et apaisantes, idéale pour harmoniser les énergies. En lithothérapie, il est souvent utilisé pour renforcer la stabilité émotionnelle et favoriser la confiance en soi. Son éclat naturel en fait aussi un objet décoratif élégant et intemporel.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "jaspe-polychrome-mvib3hshgmge",
@@ -4873,7 +4883,17 @@
               "description": "Le jaspe polychrome est une pierre aux couleurs variées et apaisantes, souvent utilisée pour harmoniser les énergies et favoriser la stabilité émotionnelle. En lithothérapie, il est réputé pour renforcer la confiance en soi et aider à surmonter les périodes de stress ou d'incertitude. Son aspect vibrant en fait aussi un objet décoratif élégant pour sublimer un intérieur ou une collection minérale.",
               "photo": "images/articles/jaspe-polychrome-mvib3hshtz0t.jpg",
               "prixBoutique": 17.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM7sM4VQdo1fb29tL2a43k",
+              "stripeProductId": "prod_VU04MUXsvkTFA1",
+              "stripePriceId": "price_1UT24ILOfCA5mATuCduG5eYc",
+              "stripeLinkId": "plink_1UT24ILOfCA5mATuG2hZkBz9",
+              "stripePrix": 18.14,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe polychrome",
+              "stripeDesc": "Le jaspe polychrome est une pierre aux couleurs variées et apaisantes, souvent utilisée pour harmoniser les énergies et favoriser la stabilité émotionnelle. En lithothérapie, il est réputé pour renforcer la confiance en soi et aider à surmonter les périodes de stress ou d'incertitude. Son aspect vibrant en fait aussi un objet décoratif élégant pour sublimer un intérieur ou une collection minérale.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

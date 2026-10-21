@@ -4643,7 +4643,17 @@
               "description": "L'obsidienne brute est une pierre volcanique aux reflets sombres et profonds, souvent utilisée pour ses propriétés protectrices et équilibrantes. En lithothérapie, elle aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Son énergie puissante en fait un allié précieux pour les rituels de protection et de purification.",
               "photo": "images/articles/obsidienne-brute-lame-mvhu9hvqf6b2.jpg",
               "prixBoutique": 3,
-              "stock": 20
+              "stock": 20,
+              "stripe": "https://buy.stripe.com/14AdRa4VQcjXbYQ35n2a42N",
+              "stripeProductId": "prod_VTsTHVnOM4aiKp",
+              "stripePriceId": "price_1USuiuLOfCA5mATuoHkgayyY",
+              "stripeLinkId": "plink_1USuiuLOfCA5mATuh6GayxGE",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne brute Lame",
+              "stripeDesc": "L'obsidienne brute est une pierre volcanique aux reflets sombres et profonds, souvent utilisée pour ses propriétés protectrices et équilibrantes. En lithothérapie, elle aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Son énergie puissante en fait un allié précieux pour les rituels de protection et de purification.",
+              "stripeStock": 20,
+              "epuise": false
             }
           ]
         }

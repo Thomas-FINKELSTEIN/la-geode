@@ -23074,7 +23074,17 @@
               "description": "Ce bougeoir en sel gemme pur est une pièce naturelle aux reflets dorés et translucides, idéale pour créer une ambiance apaisante et chaleureuse. Le sel gemme est connu pour purifier l’énergie d’un espace, réduire le stress et favoriser un sommeil réparateur grâce à ses propriétés ionisantes et son effet relaxant. Parfait pour une utilisation en lithothérapie ou simplement comme élément décoratif élégant dans votre intérieur.",
               "photo": "images/articles/bougeoir-de-sel-mvhx5g7gtyu8.jpg",
               "prixBoutique": 13.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUaEY1JEcjX9QI7lD2a42U",
+              "stripeProductId": "prod_VTtlhOOVZv6dMC",
+              "stripePriceId": "price_1USvyNLOfCA5mATuf6hciGsn",
+              "stripeLinkId": "plink_1USvyNLOfCA5mATuQwHCJ3yb",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Bougeoir de sel",
+              "stripeDesc": "Ce bougeoir en sel gemme pur est une pièce naturelle aux reflets dorés et translucides, idéale pour créer une ambiance apaisante et chaleureuse. Le sel gemme est connu pour purifier l’énergie d’un espace, réduire le stress et favoriser un sommeil réparateur grâce à ses propriétés ionisantes et son effet relaxant. Parfait pour une utilisation en lithothérapie ou simplement comme élément décoratif élégant dans votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -4750,7 +4750,17 @@
               "description": "Cette boule de jaspe bois fossile est une pierre aux reflets profonds et apaisants, idéale pour harmoniser les énergies. Traditionnellement utilisée en lithothérapie, elle est réputée pour renforcer la stabilité émotionnelle et favoriser la connexion à la nature. Parfaite pour décorer un espace de détente ou accompagner une pratique méditative.",
               "photo": "images/articles/jaspe-bois-fossile-mvi9hgt671ge.jpg",
               "prixBoutique": 24.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqeVeewqabPaUM35n2a43c",
+              "stripeProductId": "prod_VTzLbgr03Hr4mV",
+              "stripePriceId": "price_1UT1MYLOfCA5mATuh6JTTH9k",
+              "stripeLinkId": "plink_1UT1MZLOfCA5mATuI6gowhHI",
+              "stripePrix": 25.59,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe bois fossile",
+              "stripeDesc": "Cette boule de jaspe bois fossile est une pierre aux reflets profonds et apaisants, idéale pour harmoniser les énergies. Traditionnellement utilisée en lithothérapie, elle est réputée pour renforcer la stabilité émotionnelle et favoriser la connexion à la nature. Parfaite pour décorer un espace de détente ou accompagner une pratique méditative.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

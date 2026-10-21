@@ -23150,7 +23150,17 @@
               "description": "Bougeoir en sélénite, cette pierre lunaire aux reflets doux et apaisants est idéale pour créer une ambiance sereine dans votre espace. Connue pour ses propriétés purifiantes et son influence sur les énergies, elle favorise la clarté mentale et l’harmonie émotionnelle. Parfaite pour les rituels de méditation ou de relaxation, elle amplifie les intentions positives tout en illuminant votre intérieur avec une lumière douce et enveloppante.",
               "photo": "images/articles/bougeoir-en-selenite-mvi4evgslkm2.jpg",
               "prixBoutique": 13.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A00k73Yfw9gf6axP2a42Y",
+              "stripeProductId": "prod_VTx3jawpoZPfPE",
+              "stripePriceId": "price_1USz97LOfCA5mATuaNPhwnvB",
+              "stripeLinkId": "plink_1USz97LOfCA5mATu2ZhIRVsa",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Bougeoir en sélénite",
+              "stripeDesc": "Bougeoir en sélénite, cette pierre lunaire aux reflets doux et apaisants est idéale pour créer une ambiance sereine dans votre espace. Connue pour ses propriétés purifiantes et son influence sur les énergies, elle favorise la clarté mentale et l’harmonie émotionnelle. Parfaite pour les rituels de méditation ou de relaxation, elle amplifie les intentions positives tout en illuminant votre intérieur avec une lumière douce et enveloppante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

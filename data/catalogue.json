@@ -23047,6 +23047,15 @@
               "stripeDesc": "La halite, aussi connue sous le nom de pierre de sel, est une pierre naturelle aux propriétés purifiantes et apaisantes. Utilisée depuis des siècles, elle est réputée pour favoriser la détente, équilibrer les énergies et créer une atmosphère harmonieuse. Parfaite pour décorer votre intérieur tout en bénéficiant de ses vertus bienfaisantes, elle est idéale pour les espaces de méditation ou de repos.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "sel-gemme-mvhwxkgbl9aj",
+              "nom": "Sel gemme",
+              "prix": 14.63,
+              "description": "Le sel gemme est une pierre naturelle aux propriétés purificatrices et apaisantes. Utilisé depuis des siècles, il est réputé pour détoxifier l’organisme et favoriser un environnement harmonieux. Parfait pour les rituels de relaxation ou la décoration, il apporte une énergie positive et équilibrante à votre espace.",
+              "photo": "images/articles/sel-gemme-mvhwxkgbxlhx.jpg",
+              "prixBoutique": 13.9,
+              "stock": 1
             }
           ]
         },

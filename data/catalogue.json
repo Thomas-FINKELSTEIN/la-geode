@@ -22979,7 +22979,17 @@
               "description": "Ce bougeoir en gemme de sel pur est une pièce naturelle aux propriétés apaisantes et purificatrices. Utilisé comme source de lumière douce, il diffuse une ambiance chaleureuse tout en équilibrant les énergies de votre espace. En lithothérapie, la gemme de sel est souvent associée à la purification, à la protection et à l’harmonisation des émotions.",
               "photo": "images/articles/bougeoir-gemme-de-sel-mvhwebnhh9wq.jpg",
               "prixBoutique": 12.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFabJ2coi97L0g8cFX2a42Q",
+              "stripeProductId": "prod_VTtUY6NA8OhMh9",
+              "stripePriceId": "price_1USvhjLOfCA5mATuvK4uNjBO",
+              "stripeLinkId": "plink_1USvhjLOfCA5mATuHHI6ks4Q",
+              "stripePrix": 13.18,
+              "stripeMode": "live",
+              "stripeNom": "Bougeoir gemme de sel",
+              "stripeDesc": "Ce bougeoir en gemme de sel pur est une pièce naturelle aux propriétés apaisantes et purificatrices. Utilisé comme source de lumière douce, il diffuse une ambiance chaleureuse tout en équilibrant les énergies de votre espace. En lithothérapie, la gemme de sel est souvent associée à la purification, à la protection et à l’harmonisation des émotions.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "sel-gemme-mvhwhpkkjwrx",

@@ -4683,7 +4683,17 @@
               "description": "Cette druse de cristal de roche en provenance de Madagascar est une pièce naturelle et lumineuse, composée de cristaux transparents aux reflets éclatants. En lithothérapie, le cristal de roche est souvent associé à l’amplification des énergies positives, à la purification des chakras et à l’harmonisation des émotions. Il est aussi utilisé pour renforcer la concentration, clarifier les pensées et attirer la prospérité dans un espace.",
               "photo": "images/articles/cristal-de-roche-de-madagascar-druse-mvi8wl6rb8fe.jpg",
               "prixBoutique": 31.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6fZigEycjXd2U7lD2a438",
+              "stripeProductId": "prod_VTz4BCirWpgcS5",
+              "stripePriceId": "price_1UT16pLOfCA5mATuoplqLDtW",
+              "stripeLinkId": "plink_1UT16qLOfCA5mATuMH3Cj0Xj",
+              "stripePrix": 33.23,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche de Madagascar Druse",
+              "stripeDesc": "Cette druse de cristal de roche en provenance de Madagascar est une pièce naturelle et lumineuse, composée de cristaux transparents aux reflets éclatants. En lithothérapie, le cristal de roche est souvent associé à l’amplification des énergies positives, à la purification des chakras et à l’harmonisation des émotions. Il est aussi utilisé pour renforcer la concentration, clarifier les pensées et attirer la prospérité dans un espace.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

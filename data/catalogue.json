@@ -4731,7 +4731,17 @@
               "description": "Le jaspe rouge est une pierre naturelle aux reflets chauds et aux bandes colorées qui symbolisent la vitalité et la force intérieure. Très appréciée en lithothérapie, elle est souvent utilisée pour renforcer l'énergie vitale, stimuler la motivation et ancrer les émotions. Idéale pour ceux qui cherchent à retrouver équilibre et confiance en soi, cette pierre est aussi un excellent support pour apaiser les tensions et favoriser un bien-être profond.",
               "photo": "images/articles/jaspe-rouge-mvi9fn7l308x.jpg",
               "prixBoutique": 69.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B68wQaga97Lgf635n2a43b",
+              "stripeProductId": "prod_VTzJN0v3q364yr",
+              "stripePriceId": "price_1UT1L9LOfCA5mATu6ufVqhZX",
+              "stripeLinkId": "plink_1UT1L9LOfCA5mATupjW6OpMU",
+              "stripePrix": 72.51,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe rouge",
+              "stripeDesc": "Le jaspe rouge est une pierre naturelle aux reflets chauds et aux bandes colorées qui symbolisent la vitalité et la force intérieure. Très appréciée en lithothérapie, elle est souvent utilisée pour renforcer l'énergie vitale, stimuler la motivation et ancrer les émotions. Idéale pour ceux qui cherchent à retrouver équilibre et confiance en soi, cette pierre est aussi un excellent support pour apaiser les tensions et favoriser un bien-être profond.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

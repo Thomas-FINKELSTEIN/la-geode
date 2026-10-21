@@ -23093,7 +23093,17 @@
               "description": "Ce bougeoir en sel gemme pur est une pièce décorative et apaisante pour votre intérieur. Le sel de l’Himalaya, riche en minéraux, est réputé pour purifier l’énergie ambiante et créer une atmosphère sereine. Allumez une bougie à l’intérieur pour profiter de ses bienfaits relaxants tout en illuminant votre espace avec une douce lueur.",
               "photo": "images/articles/bougeoir-de-sel-mvhx7uuak0ga.jpg",
               "prixBoutique": 17.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu00k8822Jn6Ew8pH2a42V",
+              "stripeProductId": "prod_VTtqPXIq6W2EGC",
+              "stripePriceId": "price_1USw2aLOfCA5mATuopviGFIE",
+              "stripeLinkId": "plink_1USw2aLOfCA5mATunrG9LCAn",
+              "stripePrix": 18.76,
+              "stripeMode": "live",
+              "stripeNom": "Bougeoir de sel",
+              "stripeDesc": "Ce bougeoir en sel gemme pur est une pièce décorative et apaisante pour votre intérieur. Le sel de l’Himalaya, riche en minéraux, est réputé pour purifier l’énergie ambiante et créer une atmosphère sereine. Allumez une bougie à l’intérieur pour profiter de ses bienfaits relaxants tout en illuminant votre espace avec une douce lueur.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "bougeoir-de-gemme-de-sel-mvhxamhvb0vz",
@@ -23102,7 +23112,17 @@
               "description": "Ce bougeoir en gemme de sel rose offre une ambiance chaleureuse et apaisante grâce à ses flammes dansantes. La gemme de sel est réputée pour ses propriétés purificatrices et équilibrantes, aidant à créer une atmosphère sereine et harmonieuse dans votre espace. Idéal pour la méditation, la relaxation ou simplement pour embellir votre intérieur tout en bénéficiant de ses vertus énergétiques.",
               "photo": "images/articles/bougeoir-de-gemme-de-sel-mvhxamhvcnpc.jpg",
               "prixBoutique": 17.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2fZi4VQbfT7IAdK12a42W",
+              "stripeProductId": "prod_VTtqf26ZUPXdFY",
+              "stripePriceId": "price_1USw2bLOfCA5mATuj3QwKj4H",
+              "stripeLinkId": "plink_1USw2bLOfCA5mATu4wp0MHd1",
+              "stripePrix": 18.76,
+              "stripeMode": "live",
+              "stripeNom": "Bougeoir de gemme de sel",
+              "stripeDesc": "Ce bougeoir en gemme de sel rose offre une ambiance chaleureuse et apaisante grâce à ses flammes dansantes. La gemme de sel est réputée pour ses propriétés purificatrices et équilibrantes, aidant à créer une atmosphère sereine et harmonieuse dans votre espace. Idéal pour la méditation, la relaxation ou simplement pour embellir votre intérieur tout en bénéficiant de ses vertus énergétiques.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

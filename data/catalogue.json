@@ -27206,7 +27206,17 @@
               "description": "Ce bloc de sel gemme de l'Himalaya est une véritable pièce naturelle aux propriétés apaisantes et purifiantes. Utilisé comme lampe, il diffuse une lumière douce et enveloppante, idéale pour créer une ambiance relaxante et harmonieuse dans votre intérieur. En lithothérapie, il est souvent associé à la purification de l'énergie et à l'équilibre émotionnel, favorisant ainsi un bien-être profond et une sérénité durable.",
               "photo": "images/articles/lampe-himalaya-mvi54svhx4qw.jpg",
               "prixBoutique": 96.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI3cwbkefw9aUMdK12a432",
+              "stripeProductId": "prod_VTxNYdzcgPE9Y7",
+              "stripePriceId": "price_1USzScLOfCA5mATuAJoiv4kU",
+              "stripeLinkId": "plink_1USzSdLOfCA5mATu58VdQC6j",
+              "stripePrix": 100,
+              "stripeMode": "live",
+              "stripeNom": "Lampe Himalaya",
+              "stripeDesc": "Ce bloc de sel gemme de l'Himalaya est une véritable pièce naturelle aux propriétés apaisantes et purifiantes. Utilisé comme lampe, il diffuse une lumière douce et enveloppante, idéale pour créer une ambiance relaxante et harmonieuse dans votre intérieur. En lithothérapie, il est souvent associé à la purification de l'énergie et à l'équilibre émotionnel, favorisant ainsi un bien-être profond et une sérénité durable.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

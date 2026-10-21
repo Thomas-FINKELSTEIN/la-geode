@@ -22960,7 +22960,17 @@
               "description": "Ce bloc de sel himalayen rose est une véritable pépite naturelle aux multiples bienfaits. Utilisé comme bougie rituelle, il diffuse une lumière douce et apaisante tout en purifiant l’énergie ambiante. Traditionnellement associé à la détente, à l’équilibre émotionnel et à la réduction du stress, il est idéal pour créer une atmosphère sereine et harmonieuse dans votre espace de vie ou de méditation.",
               "photo": "images/articles/himalaya-sel-rose-bougie-rituel-mvhudzfirfs0.jpg",
               "prixBoutique": 22.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w28sbkeabPaUM21j2a42O",
+              "stripeProductId": "prod_VTsWzDAnC1OCKT",
+              "stripePriceId": "price_1USulkLOfCA5mATuZA27bZvH",
+              "stripeLinkId": "plink_1USulkLOfCA5mATuZ8n3iAzV",
+              "stripePrix": 23.93,
+              "stripeMode": "live",
+              "stripeNom": "Himalaya sel rose Bougie rituel",
+              "stripeDesc": "Ce bloc de sel himalayen rose est une véritable pépite naturelle aux multiples bienfaits. Utilisé comme bougie rituelle, il diffuse une lumière douce et apaisante tout en purifiant l’énergie ambiante. Traditionnellement associé à la détente, à l’équilibre émotionnel et à la réduction du stress, il est idéal pour créer une atmosphère sereine et harmonieuse dans votre espace de vie ou de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

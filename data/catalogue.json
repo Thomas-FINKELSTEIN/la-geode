@@ -4617,7 +4617,17 @@
               "description": "Cette géode en cristal de roche en forme de pointe est une pièce naturelle aux reflets lumineux et apaisants. En lithothérapie, elle est souvent utilisée pour amplifier les énergies positives et favoriser la clarté mentale. Idéale pour équilibrer les émotions et renforcer la concentration, elle peut être placée dans un espace de méditation ou tenue en main pour une connexion harmonieuse avec son environnement.",
               "photo": "images/articles/cristal-de-roche-en-pointe-geode-mvi4sozgyjrz.jpg",
               "prixBoutique": 399,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFafZi4VQ3Nr7IA0Xf2a439",
+              "stripeProductId": "prod_VTzE1fNUmkrBVL",
+              "stripePriceId": "price_1UT1FhLOfCA5mATuGF0qiM1e",
+              "stripeLinkId": "plink_1UT1FiLOfCA5mATuKbRXsX79",
+              "stripePrix": 412.67,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche en pointe géode",
+              "stripeDesc": "Cette géode en cristal de roche en forme de pointe est une pièce naturelle aux reflets lumineux et apaisants. En lithothérapie, elle est souvent utilisée pour amplifier les énergies positives et favoriser la clarté mentale. Idéale pour équilibrer les émotions et renforcer la concentration, elle peut être placée dans un espace de méditation ou tenue en main pour une connexion harmonieuse avec son environnement.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "geode-apophylite-mvi4zibpzwl9",

@@ -4826,7 +4826,17 @@
               "description": "",
               "photo": "images/articles/jaspe-rouge-mvi9p8f5yt63.jpg",
               "prixBoutique": 64.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A3cw73Y3Nre6Y6hz2a43h",
+              "stripeProductId": "prod_VTzReDjCeEshw3",
+              "stripePriceId": "price_1UT1SILOfCA5mATuUlQAvreM",
+              "stripeLinkId": "plink_1UT1SILOfCA5mATudRAlkeva",
+              "stripePrix": 66.93,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe rouge",
+              "stripeDesc": "",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

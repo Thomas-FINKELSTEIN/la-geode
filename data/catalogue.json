@@ -23131,7 +23131,17 @@
               "description": "Ce bougeoir en sel de l'Himalaya allie esthétique naturelle et bien-être. Le sel rose émet une lumière douce et apaisante, idéale pour créer une ambiance relaxante dans votre intérieur. Traditionnellement utilisé en lithothérapie pour purifier l'énergie et favoriser la détente, il est parfait pour les moments de méditation ou de repos.",
               "photo": "images/articles/bougeoir-en-sel-mvi45nhik6kk.jpg",
               "prixBoutique": 13.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm7sM1JEbfT6Ew9tL2a42X",
+              "stripeProductId": "prod_VTww8TTN1MRcJv",
+              "stripePriceId": "price_1USz2BLOfCA5mATuLMKiQZeb",
+              "stripeLinkId": "plink_1USz2BLOfCA5mATu7wx8kVvD",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Bougeoir en sel",
+              "stripeDesc": "Ce bougeoir en sel de l'Himalaya allie esthétique naturelle et bien-être. Le sel rose émet une lumière douce et apaisante, idéale pour créer une ambiance relaxante dans votre intérieur. Traditionnellement utilisé en lithothérapie pour purifier l'énergie et favoriser la détente, il est parfait pour les moments de méditation ou de repos.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

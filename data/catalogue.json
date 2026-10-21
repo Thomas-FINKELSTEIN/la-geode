@@ -23085,6 +23085,24 @@
               "stripeDesc": "Ce bougeoir en sel gemme pur est une pièce naturelle aux reflets dorés et translucides, idéale pour créer une ambiance apaisante et chaleureuse. Le sel gemme est connu pour purifier l’énergie d’un espace, réduire le stress et favoriser un sommeil réparateur grâce à ses propriétés ionisantes et son effet relaxant. Parfait pour une utilisation en lithothérapie ou simplement comme élément décoratif élégant dans votre intérieur.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bougeoir-de-sel-mvhx7uuaqyll",
+              "nom": "Bougeoir de sel",
+              "prix": 18.76,
+              "description": "Ce bougeoir en sel gemme pur est une pièce décorative et apaisante pour votre intérieur. Le sel de l’Himalaya, riche en minéraux, est réputé pour purifier l’énergie ambiante et créer une atmosphère sereine. Allumez une bougie à l’intérieur pour profiter de ses bienfaits relaxants tout en illuminant votre espace avec une douce lueur.",
+              "photo": "images/articles/bougeoir-de-sel-mvhx7uuak0ga.jpg",
+              "prixBoutique": 17.9,
+              "stock": 1
+            },
+            {
+              "id": "bougeoir-de-gemme-de-sel-mvhxamhvb0vz",
+              "nom": "Bougeoir de gemme de sel",
+              "prix": 18.76,
+              "description": "Ce bougeoir en gemme de sel rose offre une ambiance chaleureuse et apaisante grâce à ses flammes dansantes. La gemme de sel est réputée pour ses propriétés purificatrices et équilibrantes, aidant à créer une atmosphère sereine et harmonieuse dans votre espace. Idéal pour la méditation, la relaxation ou simplement pour embellir votre intérieur tout en bénéficiant de ses vertus énergétiques.",
+              "photo": "images/articles/bougeoir-de-gemme-de-sel-mvhxamhvcnpc.jpg",
+              "prixBoutique": 17.9,
+              "stock": 1
             }
           ]
         },

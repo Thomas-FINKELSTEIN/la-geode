@@ -31122,7 +31122,17 @@
               "description": "Ce diffuseur décoratif en forme de moines porteurs de coupes élégantes apporte une touche d'harmonie et de sérénité à votre intérieur. Associé traditionnellement à la méditation et à la concentration, il est idéal pour créer une ambiance apaisante et favoriser le bien-être. Parfait pour les espaces de détente ou de travail, il diffuse une énergie positive et inspirante.",
               "photo": "images/articles/diffuseur-deco-moines-mvjm22kpzyoz.jpg",
               "prixBoutique": 24.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqbJ25ZUgAd8ME49r2a43M",
+              "stripeProductId": "prod_VULGwaslF9mX5m",
+              "stripePriceId": "price_1UTMaOLOfCA5mATuiIjUCUy1",
+              "stripeLinkId": "plink_1UTMaOLOfCA5mATuR6WFIvDT",
+              "stripePrix": 26,
+              "stripeMode": "live",
+              "stripeNom": "Diffuseur déco moines",
+              "stripeDesc": "Ce diffuseur décoratif en forme de moines porteurs de coupes élégantes apporte une touche d'harmonie et de sérénité à votre intérieur. Associé traditionnellement à la méditation et à la concentration, il est idéal pour créer une ambiance apaisante et favoriser le bien-être. Parfait pour les espaces de détente ou de travail, il diffuse une énergie positive et inspirante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -5448,7 +5448,17 @@
               "description": "Ces papillons en obsidienne aux reflets profonds captent immédiatement l'attention. L'obsidienne papillon oeil céleste est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la connexion avec son intuition. Elle est idéale pour ceux qui cherchent à équilibrer leurs énergies et à renforcer leur confiance en soi.",
               "photo": "images/articles/obsidienne-papillon-oeil-celeste-mvjoqit7urzs.jpg",
               "prixBoutique": 74,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/eVqdRaewqes5aUM8pH2a43T",
+              "stripeProductId": "prod_VUMT8dXhSphijZ",
+              "stripePriceId": "price_1UTNkyLOfCA5mATuGq0XsZEi",
+              "stripeLinkId": "plink_1UTNkzLOfCA5mATu2PJnrVUi",
+              "stripePrix": 76.75,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne Papillon oeil céleste",
+              "stripeDesc": "Ces papillons en obsidienne aux reflets profonds captent immédiatement l'attention. L'obsidienne papillon oeil céleste est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser la connexion avec son intuition. Elle est idéale pour ceux qui cherchent à équilibrer leurs énergies et à renforcer leur confiance en soi.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

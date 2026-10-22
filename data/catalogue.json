@@ -5429,7 +5429,17 @@
               "description": "Ce galet d'obsidienne aux reflets mystérieux et à l'œil céleste captivant est une pierre aux énergies puissantes. En lithothérapie, elle est souvent utilisée pour purifier les émotions négatives, renforcer la protection spirituelle et favoriser une profonde introspection. Parfaite pour méditer ou porter sur soi, elle aide à retrouver un équilibre intérieur et à clarifier les pensées.",
               "photo": "images/articles/obsidienne-en-galet-oeil-celeste-mvjnrq67573n.jpg",
               "prixBoutique": 54,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14AcN6coi2Jn0g88pH2a43P",
+              "stripeProductId": "prod_VUM2BOQ5QEVmgT",
+              "stripePriceId": "price_1UTNKmLOfCA5mATu56iYjNOM",
+              "stripeLinkId": "plink_1UTNKmLOfCA5mATunIgLEhPh",
+              "stripePrix": 56.08,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne en Galet oeil céleste",
+              "stripeDesc": "Ce galet d'obsidienne aux reflets mystérieux et à l'œil céleste captivant est une pierre aux énergies puissantes. En lithothérapie, elle est souvent utilisée pour purifier les émotions négatives, renforcer la protection spirituelle et favoriser une profonde introspection. Parfaite pour méditer ou porter sur soi, elle aide à retrouver un équilibre intérieur et à clarifier les pensées.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

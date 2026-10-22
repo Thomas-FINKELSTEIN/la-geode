@@ -5339,7 +5339,17 @@
               "description": "L'hématite brute est une pierre aux reflets métalliques profonds et mystérieux, souvent utilisée pour son énergie protectrice et stabilisatrice. En lithothérapie, elle est réputée pour renforcer la concentration, ancrer les émotions et apporter un sentiment de sécurité intérieure. Son aspect brut et naturel en fait un objet décoratif unique, tout en offrant une connexion terreuse et apaisante.",
               "photo": "images/articles/hematite-brute-geode-mvj94ze50e0m.jpg",
               "prixBoutique": 14.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJecN6882gAd1kc5dv2a43I",
+              "stripeProductId": "prod_VUFRL5gjpJgYK2",
+              "stripePriceId": "price_1UTGwOLOfCA5mATuJ89wOuen",
+              "stripeLinkId": "plink_1UTGwOLOfCA5mATukaULvGAQ",
+              "stripePrix": 15.35,
+              "stripeMode": "live",
+              "stripeNom": "Hématite brute géode",
+              "stripeDesc": "L'hématite brute est une pierre aux reflets métalliques profonds et mystérieux, souvent utilisée pour son énergie protectrice et stabilisatrice. En lithothérapie, elle est réputée pour renforcer la concentration, ancrer les émotions et apporter un sentiment de sécurité intérieure. Son aspect brut et naturel en fait un objet décoratif unique, tout en offrant une connexion terreuse et apaisante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

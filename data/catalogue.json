@@ -28922,7 +28922,17 @@
               "description": "Cette statuette originale en forme de main stylisée apporte une touche décorative unique à votre espace. Selon les croyances en lithothérapie, elle est souvent associée à la protection et à l'ouverture des énergies positives, favorisant ainsi une ambiance harmonieuse. Idéale pour les bureaux ou les lieux de réception, elle peut aussi servir de support symbolique pour vos cartes de visite.",
               "photo": "images/articles/porte-carte-visite-mvjnujr54pu4.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe3cwfAu6ZD9QI49r2a43Q",
+              "stripeProductId": "prod_VUM5ALaYVvzusX",
+              "stripePriceId": "price_1UTNMsLOfCA5mATuzKsIvUCL",
+              "stripeLinkId": "plink_1UTNMsLOfCA5mATuGikBXhZQ",
+              "stripePrix": 25.07,
+              "stripeMode": "live",
+              "stripeNom": "Porte carte visite",
+              "stripeDesc": "Cette statuette originale en forme de main stylisée apporte une touche décorative unique à votre espace. Selon les croyances en lithothérapie, elle est souvent associée à la protection et à l'ouverture des énergies positives, favorisant ainsi une ambiance harmonieuse. Idéale pour les bureaux ou les lieux de réception, elle peut aussi servir de support symbolique pour vos cartes de visite.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

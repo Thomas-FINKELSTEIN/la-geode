@@ -5538,7 +5538,17 @@
               "description": "Ce triangle en sélénite, orné d’un motif inspirant l’oeil de Horus, est une pièce unique alliant beauté et énergie apaisante. La sélénite, pierre de lune par excellence, est réputée pour favoriser la connexion à l’intuition, apaiser l’esprit et purifier les émotions. Idéale pour les espaces de méditation ou comme objet de bien-être, elle amplifie la sérénité et aide à trouver un équilibre intérieur.",
               "photo": "images/articles/triangle-selenite-oeil-dhorus-mvjoy8dkv9aq.jpg",
               "prixBoutique": 12.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU8wQ882cjX4wo9tL2a43V",
+              "stripeProductId": "prod_VUMZ3IpHrginPU",
+              "stripePriceId": "price_1UTNqkLOfCA5mATuvvHxfJHQ",
+              "stripeLinkId": "plink_1UTNqkLOfCA5mATu8mNVjt2y",
+              "stripePrix": 13.6,
+              "stripeMode": "live",
+              "stripeNom": "Triangle sélénite oeil Dhorus",
+              "stripeDesc": "Ce triangle en sélénite, orné d’un motif inspirant l’oeil de Horus, est une pièce unique alliant beauté et énergie apaisante. La sélénite, pierre de lune par excellence, est réputée pour favoriser la connexion à l’intuition, apaiser l’esprit et purifier les émotions. Idéale pour les espaces de méditation ou comme objet de bien-être, elle amplifie la sérénité et aide à trouver un équilibre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

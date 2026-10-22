@@ -5557,7 +5557,17 @@
               "description": "La sélénite est une pierre aux reflets laiteux et apaisants, souvent appelée pierre de la clarté mentale et de la connexion spirituelle. Utilisée en lithothérapie pour purifier l’énergie et favoriser la sérénité, elle est idéale pour méditer ou créer une ambiance paisible dans un espace. Son énergie douce aide aussi à apaiser les émotions et à renforcer la concentration.",
               "photo": "images/articles/sphere-en-selenite-mvjp4qrrc918.jpg",
               "prixBoutique": 19.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/bJe6oI2NIcjX2og35n2a43W",
+              "stripeProductId": "prod_VUMf5GG5Hjl1Gu",
+              "stripePriceId": "price_1UTNvhLOfCA5mATuJzHPpgFk",
+              "stripeLinkId": "plink_1UTNviLOfCA5mATukV85ydBQ",
+              "stripePrix": 20.83,
+              "stripeMode": "live",
+              "stripeNom": "Sphère en sélénite",
+              "stripeDesc": "La sélénite est une pierre aux reflets laiteux et apaisants, souvent appelée pierre de la clarté mentale et de la connexion spirituelle. Utilisée en lithothérapie pour purifier l’énergie et favoriser la sérénité, elle est idéale pour méditer ou créer une ambiance paisible dans un espace. Son énergie douce aide aussi à apaiser les émotions et à renforcer la concentration.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

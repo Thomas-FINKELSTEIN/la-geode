@@ -4921,7 +4921,17 @@
               "description": "",
               "photo": "images/articles/apophylite-geode-mvj6ku0g74bc.jpg",
               "prixBoutique": 522,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w9AU3RM6ZDd2U49r2a43m",
+              "stripeProductId": "prod_VUEHNJjaVz46PO",
+              "stripePriceId": "price_1UTFp1LOfCA5mATu72u4yvrB",
+              "stripeLinkId": "plink_1UTFp1LOfCA5mATu9vdF8ByH",
+              "stripePrix": 539.8,
+              "stripeMode": "live",
+              "stripeNom": "Apophylite géode",
+              "stripeDesc": "",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

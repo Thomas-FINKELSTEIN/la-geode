@@ -5293,6 +5293,24 @@
               "stripeDesc": "La tourmaline brute est une pierre aux multiples couleurs et énergies puissantes, souvent associée à la protection et à l'équilibre émotionnel. Elle est réputée pour absorber les radiations électromagnétiques et favoriser un sentiment de sécurité intérieure. Idéale pour les collectionneurs ou ceux qui cherchent à renforcer leur connexion à la nature et à l'énergie vitale.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "tourmaline-noire-du-bresil-mvj90b599r61",
+              "nom": "Tourmaline noire du brésil",
+              "prix": 38.3,
+              "description": "La Tourmaline noire du Brésil est une pierre puissante aux énergies protectrices et équilibrantes. Utilisée en lithothérapie pour renforcer la volonté et apaiser les émotions, elle est idéale pour ceux qui cherchent à se recentrer et à renforcer leur ancrage. Son énergie profonde en fait un allié précieux pour le bien-être spirituel et physique au quotidien.",
+              "photo": "images/articles/tourmaline-noire-du-bresil-mvj90b590e5g.jpg",
+              "prixBoutique": 36.8,
+              "stock": 1
+            },
+            {
+              "id": "hematite-brute-geode-mvj93jsd4z0n",
+              "nom": "Hématite brute géode",
+              "prix": 26.83,
+              "description": "Cette hématite brute se présente sous une forme de géode aux reflets métalliques profonds et mystérieux. Riche en énergie protectrice, elle est souvent utilisée en lithothérapie pour renforcer la volonté et apaiser les émotions. Idéale pour équilibrer le flux énergétique et favoriser la concentration, elle est aussi prisée pour ses propriétés ancrage et stabilité.",
+              "photo": "images/articles/hematite-brute-geode-mvj93jsdsuer.jpg",
+              "prixBoutique": 25.7,
+              "stock": 1
             }
           ]
         },

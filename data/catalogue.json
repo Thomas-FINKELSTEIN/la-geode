@@ -5206,7 +5206,17 @@
               "description": "La labradorite brute est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l’intuition. Idéale pour les collectionneurs ou les amateurs de lithothérapie, elle est aussi utilisée pour équilibrer les émotions et favoriser une connexion spirituelle apaisante.",
               "photo": "images/articles/labradorite-brute-mvj8ccdq673v.jpg",
               "prixBoutique": 27.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI6oI9c66ZD2ogbBT2a43B",
+              "stripeProductId": "prod_VUF4yF1GXBcPIH",
+              "stripePriceId": "price_1UTGapLOfCA5mATugwSDfq3i",
+              "stripeLinkId": "plink_1UTGapLOfCA5mATuLUerQNAR",
+              "stripePrix": 28.89,
+              "stripeMode": "live",
+              "stripeNom": "Labradorite brute",
+              "stripeDesc": "La labradorite brute est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives, tout en stimulant la créativité et l’intuition. Idéale pour les collectionneurs ou les amateurs de lithothérapie, elle est aussi utilisée pour équilibrer les émotions et favoriser une connexion spirituelle apaisante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

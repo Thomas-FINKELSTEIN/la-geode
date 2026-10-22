@@ -5168,7 +5168,17 @@
               "description": "Cette labradorite brute est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. En lithothérapie, elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Idéale pour les collectionneurs ou les amateurs de pierres naturelles aux propriétés mystiques, elle apporte une touche d'énergie puissante et inspirante.",
               "photo": "images/articles/labradorite-brute-geode-mvj8717pbqz9.jpg",
               "prixBoutique": 36.75,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6cN6aga4Rv6Ew0Xf2a43z",
+              "stripeProductId": "prod_VUF0OkXGyTu5up",
+              "stripePriceId": "price_1UTGWsLOfCA5mATuFQNmg5Hd",
+              "stripeLinkId": "plink_1UTGWtLOfCA5mATuSatBAHFL",
+              "stripePrix": 38.25,
+              "stripeMode": "live",
+              "stripeNom": "Labradorite brute géode",
+              "stripeDesc": "Cette labradorite brute est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. En lithothérapie, elle est réputée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler la créativité. Idéale pour les collectionneurs ou les amateurs de pierres naturelles aux propriétés mystiques, elle apporte une touche d'énergie puissante et inspirante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

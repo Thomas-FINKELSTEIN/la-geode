@@ -5225,7 +5225,17 @@
               "description": "Cette labradorite brute, d'une beauté sauvage et mystérieuse, est une pierre puissante aux reflets changeants et irisés. Connue pour renforcer la confiance en soi et protéger contre les énergies négatives, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à stimuler leur intuition. Utilisée en lithothérapie pour son influence sur le chakra de la gorge, elle favorise aussi l'expression authentique et la clarté mentale.",
               "photo": "images/articles/labradorite-brute-1399-gr-mvj8fyby7zzj.jpg",
               "prixBoutique": 25.2,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x24gA1JEfw91kcfS92a43C",
+              "stripeProductId": "prod_VUF74ksK7kE3qx",
+              "stripePriceId": "price_1UTGdXLOfCA5mATurY3N4UFo",
+              "stripeLinkId": "plink_1UTGdXLOfCA5mATuNS6541EZ",
+              "stripePrix": 26.31,
+              "stripeMode": "live",
+              "stripeNom": "Labradorite brute 1399 gr",
+              "stripeDesc": "Cette labradorite brute, d'une beauté sauvage et mystérieuse, est une pierre puissante aux reflets changeants et irisés. Connue pour renforcer la confiance en soi et protéger contre les énergies négatives, elle est idéale pour ceux qui cherchent à équilibrer leurs émotions et à stimuler leur intuition. Utilisée en lithothérapie pour son influence sur le chakra de la gorge, elle favorise aussi l'expression authentique et la clarté mentale.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -5035,7 +5035,17 @@
               "description": "Le Shungite sous forme de géode est une pierre naturelle aux propriétés énergétiques exceptionnelles. Riche en carbone, elle est réputée pour protéger contre les ondes électromagnétiques et purifier l’énergie environnante. Utilisée en lithothérapie, elle favorise l’équilibre émotionnel et renforce la connexion à la terre, tout en apportant une sensation de calme et de sérénité au quotidien.",
               "photo": "images/articles/shungite-cristal-geode-mvj7kwovob9i.jpg",
               "prixBoutique": 1350,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B628s73Yfw97IAbBT2a43s",
+              "stripeProductId": "prod_VUEjVXIv7Wm2Ea",
+              "stripePriceId": "price_1UTGGALOfCA5mATulrn2mlPS",
+              "stripeLinkId": "plink_1UTGGALOfCA5mATueiyHLYji",
+              "stripePrix": 1395.61,
+              "stripeMode": "live",
+              "stripeNom": "Shungite cristal géode",
+              "stripeDesc": "Le Shungite sous forme de géode est une pierre naturelle aux propriétés énergétiques exceptionnelles. Riche en carbone, elle est réputée pour protéger contre les ondes électromagnétiques et purifier l’énergie environnante. Utilisée en lithothérapie, elle favorise l’équilibre émotionnel et renforce la connexion à la terre, tout en apportant une sensation de calme et de sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

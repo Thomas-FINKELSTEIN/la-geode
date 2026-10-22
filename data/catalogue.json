@@ -5301,7 +5301,17 @@
               "description": "La Tourmaline noire du Brésil est une pierre puissante aux énergies protectrices et équilibrantes. Utilisée en lithothérapie pour renforcer la volonté et apaiser les émotions, elle est idéale pour ceux qui cherchent à se recentrer et à renforcer leur ancrage. Son énergie profonde en fait un allié précieux pour le bien-être spirituel et physique au quotidien.",
               "photo": "images/articles/tourmaline-noire-du-bresil-mvj90b590e5g.jpg",
               "prixBoutique": 36.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM9AU1JE6ZD7IAbBT2a43G",
+              "stripeProductId": "prod_VUFQDGc46nnxtp",
+              "stripePriceId": "price_1UTGvOLOfCA5mATuifOJeVtS",
+              "stripeLinkId": "plink_1UTGvOLOfCA5mATuSqkZ1zvn",
+              "stripePrix": 38.3,
+              "stripeMode": "live",
+              "stripeNom": "Tourmaline noire du brésil",
+              "stripeDesc": "La Tourmaline noire du Brésil est une pierre puissante aux énergies protectrices et équilibrantes. Utilisée en lithothérapie pour renforcer la volonté et apaiser les émotions, elle est idéale pour ceux qui cherchent à se recentrer et à renforcer leur ancrage. Son énergie profonde en fait un allié précieux pour le bien-être spirituel et physique au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "hematite-brute-geode-mvj93jsd4z0n",
@@ -5310,7 +5320,17 @@
               "description": "Cette hématite brute se présente sous une forme de géode aux reflets métalliques profonds et mystérieux. Riche en énergie protectrice, elle est souvent utilisée en lithothérapie pour renforcer la volonté et apaiser les émotions. Idéale pour équilibrer le flux énergétique et favoriser la concentration, elle est aussi prisée pour ses propriétés ancrage et stabilité.",
               "photo": "images/articles/hematite-brute-geode-mvj93jsdsuer.jpg",
               "prixBoutique": 25.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq8wQ4VQdo17IA5dv2a43H",
+              "stripeProductId": "prod_VUFQ6OeIKlUe8I",
+              "stripePriceId": "price_1UTGvOLOfCA5mATu0QXaPYEq",
+              "stripeLinkId": "plink_1UTGvPLOfCA5mATu7Y7dujJm",
+              "stripePrix": 26.83,
+              "stripeMode": "live",
+              "stripeNom": "Hématite brute géode",
+              "stripeDesc": "Cette hématite brute se présente sous une forme de géode aux reflets métalliques profonds et mystérieux. Riche en énergie protectrice, elle est souvent utilisée en lithothérapie pour renforcer la volonté et apaiser les émotions. Idéale pour équilibrer le flux énergétique et favoriser la concentration, elle est aussi prisée pour ses propriétés ancrage et stabilité.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

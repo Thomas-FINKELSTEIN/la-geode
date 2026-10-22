@@ -23904,7 +23904,17 @@
               "description": "Ce bougeoir en verre élégant et intemporel apporte une touche de douceur et de sérénité à votre intérieur. Son design raffiné permet d'accueillir une bougie pour créer une ambiance chaleureuse et apaisante, idéale pour les moments de détente ou de méditation. Traditionnellement utilisé pour favoriser la concentration et la relaxation, il s’intègre parfaitement dans un espace dédié au bien-être ou à la décoration zen.",
               "photo": "images/articles/bougeoir-verre-mvjly1z6wgb1.jpg",
               "prixBoutique": 3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY3cw882cjX7IA6hz2a43L",
+              "stripeProductId": "prod_VULDhafmEFVrEj",
+              "stripePriceId": "price_1UTMXOLOfCA5mATuqqdXYEhL",
+              "stripeLinkId": "plink_1UTMXPLOfCA5mATuwKY3H4WI",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Bougeoir verre",
+              "stripeDesc": "Ce bougeoir en verre élégant et intemporel apporte une touche de douceur et de sérénité à votre intérieur. Son design raffiné permet d'accueillir une bougie pour créer une ambiance chaleureuse et apaisante, idéale pour les moments de détente ou de méditation. Traditionnellement utilisé pour favoriser la concentration et la relaxation, il s’intègre parfaitement dans un espace dédié au bien-être ou à la décoration zen.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -5467,7 +5467,17 @@
               "description": "Ce papillon en obsidienne dorée est une pièce unique alliant beauté et énergie protectrice. L'obsidienne, pierre de transformation et de purification, aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Parfait pour décorer votre intérieur tout en bénéficiant de ses vertus apaisantes et équilibrantes.",
               "photo": "images/articles/obsidienne-doree-papillon-mvjpl8hjqahr.jpg",
               "prixBoutique": 74,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/eVq14o5ZU2Jnfb25dv2a43Z",
+              "stripeProductId": "prod_VUMrzZcgFrFSNQ",
+              "stripePriceId": "price_1UTO87LOfCA5mATutkmBSg6C",
+              "stripeLinkId": "plink_1UTO88LOfCA5mATuC7WCtHWp",
+              "stripePrix": 76.75,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne dorée Papillon",
+              "stripeDesc": "Ce papillon en obsidienne dorée est une pièce unique alliant beauté et énergie protectrice. L'obsidienne, pierre de transformation et de purification, aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Parfait pour décorer votre intérieur tout en bénéficiant de ses vertus apaisantes et équilibrantes.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

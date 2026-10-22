@@ -5524,7 +5524,17 @@
               "description": "Ce galet d'obsidienne aux reflets profonds et mystérieux est une pierre aux énergies puissantes. Utilisée en lithothérapie pour son pouvoir de protection et de purification, elle aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Parfaite pour méditer ou porter sur soi au quotidien, elle favorise également la concentration et la connexion à son intuition.",
               "photo": "images/articles/galet-d-obsidienne-mvjqjd0u5a1n.jpg",
               "prixBoutique": 54,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe4gA1JE1Fj5As21j2a443",
+              "stripeProductId": "prod_VUNImQYmC4Fsvg",
+              "stripePriceId": "price_1UTOXnLOfCA5mATuiNYQxC7X",
+              "stripeLinkId": "plink_1UTOXoLOfCA5mATudbsjI7MC",
+              "stripePrix": 56.08,
+              "stripeMode": "live",
+              "stripeNom": "Galet d' obsidienne",
+              "stripeDesc": "Ce galet d'obsidienne aux reflets profonds et mystérieux est une pierre aux énergies puissantes. Utilisée en lithothérapie pour son pouvoir de protection et de purification, elle aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Parfaite pour méditer ou porter sur soi au quotidien, elle favorise également la concentration et la connexion à son intuition.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

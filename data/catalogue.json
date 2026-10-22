@@ -5634,10 +5634,10 @@
               "photo": "images/articles/sphere-en-selenite-mvjp4qrrc918.jpg",
               "prixBoutique": 19.9,
               "stock": 3,
-              "stripe": "https://buy.stripe.com/5kQdRa73Y83H1kc7lD2a444",
+              "stripe": "https://buy.stripe.com/8x28wQ73Yfw97IAaxP2a445",
               "stripeProductId": "prod_VUMf5GG5Hjl1Gu",
               "stripePriceId": "price_1UTNvhLOfCA5mATuJzHPpgFk",
-              "stripeLinkId": "plink_1UTOeVLOfCA5mATuAZkdiVId",
+              "stripeLinkId": "plink_1UTOevLOfCA5mATuNWVo0eNh",
               "stripePrix": 20.83,
               "stripeMode": "live",
               "stripeNom": "Sphère en sélénite",
@@ -24249,7 +24249,17 @@
               "description": "Ces petites pointes cristallines sont des outils subtils pour les soins énergétiques et le bien-être. Traditionnellement utilisées en lithothérapie pour harmoniser les émotions et équilibrer les chakras, elles amplifient les intentions positives et favorisent une énergie apaisante. Idéales pour les séances de relaxation ou les rituels de guérison, elles peuvent être tenues en main ou placées près de soi pour bénéficier de leurs vertus purificatrices.",
               "photo": "images/articles/petite-pointe-cristal-pour-soin-mvjqsm6vv2uh.jpg",
               "prixBoutique": 5,
-              "stock": 22
+              "stock": 22,
+              "stripe": "https://buy.stripe.com/8x27sM9c61Fj5As9tL2a446",
+              "stripeProductId": "prod_VUNP0mDbnZQf1o",
+              "stripePriceId": "price_1UTOewLOfCA5mATunYInbMKy",
+              "stripeLinkId": "plink_1UTOewLOfCA5mATutx598oX6",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Petite pointe cristal pour soin",
+              "stripeDesc": "Ces petites pointes cristallines sont des outils subtils pour les soins énergétiques et le bien-être. Traditionnellement utilisées en lithothérapie pour harmoniser les émotions et équilibrer les chakras, elles amplifient les intentions positives et favorisent une énergie apaisante. Idéales pour les séances de relaxation ou les rituels de guérison, elles peuvent être tenues en main ou placées près de soi pour bénéficier de leurs vertus purificatrices.",
+              "stripeStock": 22,
+              "epuise": false
             }
           ]
         },

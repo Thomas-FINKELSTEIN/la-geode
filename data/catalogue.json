@@ -22943,12 +22943,6 @@
           ]
         },
         {
-          "id": "sauge",
-          "nom": "Sauge",
-          "slogan": "Protection et purification : elle chasse le négatif et aide à la concentration.",
-          "articles": []
-        },
-        {
           "id": "bougies-neuvaines",
           "nom": "Bougies & neuvaines",
           "slogan": "Le monde magique des bougies, pour accompagner vos souhaits, prières et actions.",
@@ -23902,6 +23896,15 @@
               "stripeDesc": "Bougeoir en sélénite, cette pierre lunaire aux reflets doux et apaisants est idéale pour créer une ambiance sereine dans votre espace. Connue pour ses propriétés purifiantes et son influence sur les énergies, elle favorise la clarté mentale et l’harmonie émotionnelle. Parfaite pour les rituels de méditation ou de relaxation, elle amplifie les intentions positives tout en illuminant votre intérieur avec une lumière douce et enveloppante.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "bougeoir-verre-mvjly1z6a7yz",
+              "nom": "Bougeoir verre",
+              "prix": 3.36,
+              "description": "Ce bougeoir en verre élégant et intemporel apporte une touche de douceur et de sérénité à votre intérieur. Son design raffiné permet d'accueillir une bougie pour créer une ambiance chaleureuse et apaisante, idéale pour les moments de détente ou de méditation. Traditionnellement utilisé pour favoriser la concentration et la relaxation, il s’intègre parfaitement dans un espace dédié au bien-être ou à la décoration zen.",
+              "photo": "images/articles/bougeoir-verre-mvjly1z6wgb1.jpg",
+              "prixBoutique": 3,
+              "stock": 1
             }
           ]
         },

@@ -5263,7 +5263,17 @@
               "description": "Ce bloc de topurmaline brute est une pierre naturelle aux reflets profonds et aux couleurs variées, mêlant des teintes sombres et des éclats métalliques. En lithothérapie, la topurmaline est souvent associée à la protection énergétique et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Elle est idéale pour ceux qui cherchent à harmoniser leur environnement et à se reconnecter à une énergie stable et rassurante.",
               "photo": "images/articles/topurmaline-brute-mvj8w8255a27.jpg",
               "prixBoutique": 37.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa7sMdsm83H2og21j2a43E",
+              "stripeProductId": "prod_VUFKawmmrs9D6R",
+              "stripePriceId": "price_1UTGpnLOfCA5mATuGWNPkB8W",
+              "stripeLinkId": "plink_1UTGpoLOfCA5mATusTHYrQAj",
+              "stripePrix": 39.02,
+              "stripeMode": "live",
+              "stripeNom": "Topurmaline brute",
+              "stripeDesc": "Ce bloc de topurmaline brute est une pierre naturelle aux reflets profonds et aux couleurs variées, mêlant des teintes sombres et des éclats métalliques. En lithothérapie, la topurmaline est souvent associée à la protection énergétique et à l'équilibre émotionnel, aidant à apaiser les tensions et à renforcer la confiance en soi. Elle est idéale pour ceux qui cherchent à harmoniser leur environnement et à se reconnecter à une énergie stable et rassurante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

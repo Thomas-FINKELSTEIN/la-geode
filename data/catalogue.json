@@ -4918,7 +4918,7 @@
               "id": "apophylite-geode-mvj6ku0g4i2v",
               "nom": "Apophylite géode",
               "prix": 539.8,
-              "description": "",
+              "description": "Cette géode d'Apophylite est une pièce naturelle fascinante aux cristaux translucides et aux reflets bleutés. En lithothérapie, elle est souvent associée à l'ouverture du troisième œil, favorisant l'intuition et la connexion spirituelle. Elle est idéale pour purifier l'énergie et apporter clarté mentale dans votre environnement ou votre pratique méditative.",
               "photo": "images/articles/apophylite-geode-mvj6ku0g74bc.jpg",
               "prixBoutique": 522,
               "stock": 1,
@@ -4951,6 +4951,15 @@
               "stripeDesc": "Ce cristal de roche en forme de géode est une pièce naturelle fascinante, composée de quartz transparent aux reflets lumineux. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives, favoriser la clarté mentale et apporter une sensation de paix intérieure. Idéal pour décorer tout en bénéficiant de ses vertus apaisantes et purificatrices.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "apophylite-geode-mvj6rtlloi2x",
+              "nom": "Apophylite géode",
+              "prix": 992.51,
+              "description": "Cette géode d'apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. En lithothérapie, elle est souvent associée à l’ouverture du cœur et à la purification des énergies, aidant à apaiser les émotions et à favoriser la clarté mentale. Idéale pour décorer tout en bénéficiant de ses propriétés apaisantes et harmonisantes.",
+              "photo": "images/articles/apophylite-geode-mvj6rtlmsmke.jpg",
+              "prixBoutique": 960,
+              "stock": 1
             }
           ]
         },

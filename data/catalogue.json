@@ -5187,7 +5187,17 @@
               "description": "Cette labradorite brute aux reflets mystiques et changeants, pesant 869 grammes, est une pierre de protection et de transformation énergétique. Utilisée en lithothérapie pour renforcer la confiance en soi et apaiser les émotions, elle est idéale pour ceux qui cherchent à se reconnecter à leur intuition. Son énergie puissante en fait un allié précieux pour les méditations et les rituels de purification.",
               "photo": "images/articles/labradorite-brute-869-gr-mvj89qedcdib.jpg",
               "prixBoutique": 15.75,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x200kfAu2Jn8ME21j2a43A",
+              "stripeProductId": "prod_VUF2FcKCKSnNi6",
+              "stripePriceId": "price_1UTGYsLOfCA5mATuG673uulB",
+              "stripeLinkId": "plink_1UTGYtLOfCA5mATuVkW1mFDV",
+              "stripePrix": 16.54,
+              "stripeMode": "live",
+              "stripeNom": "Labradorite brute 869 gr",
+              "stripeDesc": "Cette labradorite brute aux reflets mystiques et changeants, pesant 869 grammes, est une pierre de protection et de transformation énergétique. Utilisée en lithothérapie pour renforcer la confiance en soi et apaiser les émotions, elle est idéale pour ceux qui cherchent à se reconnecter à leur intuition. Son énergie puissante en fait un allié précieux pour les méditations et les rituels de purification.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

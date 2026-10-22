@@ -5455,7 +5455,17 @@
               "description": "Ce crâne sculpté dans un cristal de roche transparent et pur est une pièce unique et mystérieuse, inspirée des traditions anciennes. Le cristal de roche est souvent associé à la clarté mentale, à l’harmonisation des énergies et à la purification des espaces. Idéal pour décorer tout en apportant une touche spirituelle et apaisante à votre intérieur ou votre pratique méditative.",
               "photo": "images/articles/crane-en-cristal-de-roche-du-perou-mvjocy80uo1q.jpg",
               "prixBoutique": 185,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM14o9c66ZDaUM6hz2a43R",
+              "stripeProductId": "prod_VUMJfN4uCPINtM",
+              "stripePriceId": "price_1UTNaiLOfCA5mATu1siHMPqV",
+              "stripeLinkId": "plink_1UTNajLOfCA5mATuNGS5FCVr",
+              "stripePrix": 191.48,
+              "stripeMode": "live",
+              "stripeNom": "Crâne en cristal de roche du pérou",
+              "stripeDesc": "Ce crâne sculpté dans un cristal de roche transparent et pur est une pièce unique et mystérieuse, inspirée des traditions anciennes. Le cristal de roche est souvent associé à la clarté mentale, à l’harmonisation des énergies et à la purification des espaces. Idéal pour décorer tout en apportant une touche spirituelle et apaisante à votre intérieur ou votre pratique méditative.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

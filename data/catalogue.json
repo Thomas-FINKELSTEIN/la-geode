@@ -28826,7 +28826,17 @@
               "description": "Ce kit Zen Bonsai vous permet de cultiver six arbres miniatures en suivant les principes de l’art traditionnel japonais. Idéal pour les amateurs de nature et de sérénité, ces bonsaïs favorisent la concentration et l’harmonie intérieure. Ils sont parfaits pour décorer votre intérieur tout en apportant une touche de calme et de bien-être au quotidien.",
               "photo": "images/articles/bonsai-a-creer-mvjbazqraya0.jpg",
               "prixBoutique": 14.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm3cwfAu83H1kcbBT2a43J",
+              "stripeProductId": "prod_VUGQKzcm4qHssE",
+              "stripePriceId": "price_1UTHtALOfCA5mATuDrsBN6mV",
+              "stripeLinkId": "plink_1UTHtALOfCA5mATuyn5rBtG1",
+              "stripePrix": 15.25,
+              "stripeMode": "live",
+              "stripeNom": "Bonsai à créer",
+              "stripeDesc": "Ce kit Zen Bonsai vous permet de cultiver six arbres miniatures en suivant les principes de l’art traditionnel japonais. Idéal pour les amateurs de nature et de sérénité, ces bonsaïs favorisent la concentration et l’harmonie intérieure. Ils sont parfaits pour décorer votre intérieur tout en apportant une touche de calme et de bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

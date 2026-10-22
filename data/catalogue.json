@@ -24268,7 +24268,17 @@
               "description": "Ces pointes de cristal aux reflets translucides et légèrement teintés sont des outils précieux pour les soins énergétiques. En lithothérapie, elles sont souvent utilisées pour purifier les espaces ou harmoniser les émotions grâce à leur capacité à canaliser et amplifier les énergies positives. Idéales pour les séances de méditation ou les rituels de bien-être, elles apportent une touche de sérénité et d’équilibre à votre quotidien.",
               "photo": "images/articles/moyenne-pointe-de-cristal-pour-soin-mvjqu8n930rg.jpg",
               "prixBoutique": 8,
-              "stock": 17
+              "stock": 17,
+              "stripe": "https://buy.stripe.com/3cIfZidsm0Bf5AsfS92a447",
+              "stripeProductId": "prod_VUNQ2FcOY8aX7C",
+              "stripePriceId": "price_1UTOg2LOfCA5mATufuF0rVXH",
+              "stripeLinkId": "plink_1UTOg2LOfCA5mATuyuIHj00d",
+              "stripePrix": 8.53,
+              "stripeMode": "live",
+              "stripeNom": "Moyenne pointe de cristal pour soin",
+              "stripeDesc": "Ces pointes de cristal aux reflets translucides et légèrement teintés sont des outils précieux pour les soins énergétiques. En lithothérapie, elles sont souvent utilisées pour purifier les espaces ou harmoniser les émotions grâce à leur capacité à canaliser et amplifier les énergies positives. Idéales pour les séances de méditation ou les rituels de bien-être, elles apportent une touche de sérénité et d’équilibre à votre quotidien.",
+              "stripeStock": 17,
+              "epuise": false
             }
           ]
         },

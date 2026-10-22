@@ -5016,7 +5016,17 @@
               "description": "Ce magnifique cristal de roche en forme de géode est une pièce naturelle aux reflets lumineux et apaisants. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives, favoriser la clarté mentale et renforcer la connexion à son intuition. Idéal pour décorer tout en apportant une touche d'harmonie et de sérénité à votre espace.",
               "photo": "images/articles/cristal-de-roche-geode-mvj7h4a6ezed.jpg",
               "prixBoutique": 649.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY9AU3RM3Nrfb27lD2a43r",
+              "stripeProductId": "prod_VUEgnsiyalFoU7",
+              "stripePriceId": "price_1UTGDKLOfCA5mATu1RD2P8cN",
+              "stripeLinkId": "plink_1UTGDKLOfCA5mATuDgMJ307j",
+              "stripePrix": 671.89,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche géode",
+              "stripeDesc": "Ce magnifique cristal de roche en forme de géode est une pièce naturelle aux reflets lumineux et apaisants. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives, favoriser la clarté mentale et renforcer la connexion à son intuition. Idéal pour décorer tout en apportant une touche d'harmonie et de sérénité à votre espace.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

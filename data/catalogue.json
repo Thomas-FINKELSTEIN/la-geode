@@ -5046,6 +5046,15 @@
               "stripeDesc": "Le Shungite sous forme de géode est une pierre naturelle aux propriétés énergétiques exceptionnelles. Riche en carbone, elle est réputée pour protéger contre les ondes électromagnétiques et purifier l’énergie environnante. Utilisée en lithothérapie, elle favorise l’équilibre émotionnel et renforce la connexion à la terre, tout en apportant une sensation de calme et de sérénité au quotidien.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "shungite-brute-mvj7nwfxpcuf",
+              "nom": "Shungite brute",
+              "prix": 41.92,
+              "description": "La shungite brute est une pierre naturelle aux propriétés uniques, reconnue pour ses vertus protectrices et purificatrices. Utilisée depuis longtemps en lithothérapie, elle est réputée pour absorber les ondes électromagnétiques et favoriser un environnement énergétique harmonieux. Idéale pour apaiser le stress et renforcer la connexion à la terre, elle se place souvent près des sources de pollution électromagnétique ou en méditation.",
+              "photo": "images/articles/shungite-brute-mvj7nwfxw0zb.jpg",
+              "prixBoutique": 40.3,
+              "stock": 1
             }
           ]
         },

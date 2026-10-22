@@ -5244,7 +5244,17 @@
               "description": "La tourmaline brute est une pierre aux couleurs profondes et variées, souvent associée à une énergie protectrice et équilibrante. Selon la lithothérapie, elle favoriserait la purification des chakras et renforcerait la connexion à la terre tout en stimulant la vitalité. Idéale pour les espaces de méditation ou comme objet de décoration naturelle, elle attire également les collectionneurs en quête d'une pièce unique et puissante.",
               "photo": "images/articles/tourmaline-brute-mvj8tc9ai3kv.jpg",
               "prixBoutique": 35.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu4gA1JEfw92og35n2a43D",
+              "stripeProductId": "prod_VUFIJLpMafCGfS",
+              "stripePriceId": "price_1UTGncLOfCA5mATu7m7VI6lC",
+              "stripeLinkId": "plink_1UTGncLOfCA5mATuPcNNDFzw",
+              "stripePrix": 37.16,
+              "stripeMode": "live",
+              "stripeNom": "Tourmaline brute",
+              "stripeDesc": "La tourmaline brute est une pierre aux couleurs profondes et variées, souvent associée à une énergie protectrice et équilibrante. Selon la lithothérapie, elle favoriserait la purification des chakras et renforcerait la connexion à la terre tout en stimulant la vitalité. Idéale pour les espaces de méditation ou comme objet de décoration naturelle, elle attire également les collectionneurs en quête d'une pièce unique et puissante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

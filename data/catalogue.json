@@ -5130,7 +5130,17 @@
               "description": "Cette labradorite brute est une pierre aux reflets magiques et changeants, souvent appelée pierre des mystiques. Riche en énergie spirituelle, elle est traditionnellement utilisée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler l'intuition. Idéale pour les méditations ou comme élément décoratif dans un espace dédié au bien-être, elle apporte une touche de mystère et de puissance naturelle.",
               "photo": "images/articles/labradorite-brute-geode-mvj82oy64p77.jpg",
               "prixBoutique": 38.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B628s0FA5Vz1kcdK12a43x",
+              "stripeProductId": "prod_VUExdGyvb2RR5n",
+              "stripePriceId": "price_1UTGTZLOfCA5mATuS68zwMLH",
+              "stripeLinkId": "plink_1UTGTZLOfCA5mATucSuygqKC",
+              "stripePrix": 39.85,
+              "stripeMode": "live",
+              "stripeNom": "Labradorite brute géode",
+              "stripeDesc": "Cette labradorite brute est une pierre aux reflets magiques et changeants, souvent appelée pierre des mystiques. Riche en énergie spirituelle, elle est traditionnellement utilisée pour renforcer la confiance en soi, protéger contre les énergies négatives et stimuler l'intuition. Idéale pour les méditations ou comme élément décoratif dans un espace dédié au bien-être, elle apporte une touche de mystère et de puissance naturelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

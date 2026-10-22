@@ -5570,6 +5570,22 @@
               "epuise": false
             }
           ]
+        },
+        {
+          "id": "quartz-hematoide-fume-rutile-rose-mvjpd17bqky0",
+          "nom": "Quartz hématoide ,fumé, rutile ,rose",
+          "slogan": "",
+          "articles": [
+            {
+              "id": "oeuf-quartz-hematoide-mvjpe7adknrj",
+              "nom": "Oeuf quartz hématoide",
+              "prix": 19.9,
+              "description": "Cet œuf en quartz hématoïde est une pièce naturelle aux reflets doux et légèrement dorés, souvent appréciée pour son énergie apaisante et équilibrante. Selon la lithothérapie, il favoriserait la purification des émotions et renforcerait la vitalité, tout en aidant à harmoniser les chakras du cœur et de la gorge. Idéal pour une décoration spirituelle ou comme outil de méditation, il apporte une touche de sérénité à votre environnement.",
+              "photo": "images/articles/oeuf-quartz-hematoide-mvjpe7adcjfr.jpg",
+              "prixBoutique": 19,
+              "stock": 1
+            }
+          ]
         }
       ]
     },
@@ -29061,6 +29077,15 @@
               "stripeDesc": "Cette statuette originale en forme de main stylisée apporte une touche décorative unique à votre espace. Selon les croyances en lithothérapie, elle est souvent associée à la protection et à l'ouverture des énergies positives, favorisant ainsi une ambiance harmonieuse. Idéale pour les bureaux ou les lieux de réception, elle peut aussi servir de support symbolique pour vos cartes de visite.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "support-doree-4-cm-mvjphlri7qlq",
+              "nom": "Support dorée 4 cm",
+              "prix": 5.43,
+              "description": "Ce support doré élégant de 4 cm est un accessoire raffiné pour sublimer vos encens, cristaux ou petits objets de décoration. Son éclat doré apporte une touche de lumière et de positivité à votre espace, tout en favorisant une ambiance harmonieuse et apaisante. Idéal pour les rituels de méditation ou simplement pour embellir votre intérieur, il diffuse une énergie chaleureuse et inspirante.",
+              "photo": "images/articles/support-doree-4-cm-mvjphlri2pes.jpg",
+              "prixBoutique": 5,
+              "stock": 2
             }
           ]
         },

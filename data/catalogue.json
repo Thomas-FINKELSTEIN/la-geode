@@ -4929,7 +4929,7 @@
               "stripePrix": 539.8,
               "stripeMode": "live",
               "stripeNom": "Apophylite géode",
-              "stripeDesc": "",
+              "stripeDesc": "Cette géode d'Apophylite est une pièce naturelle fascinante aux cristaux translucides et aux reflets bleutés. En lithothérapie, elle est souvent associée à l'ouverture du troisième œil, favorisant l'intuition et la connexion spirituelle. Elle est idéale pour purifier l'énergie et apporter clarté mentale dans votre environnement ou votre pratique méditative.",
               "stripeStock": 1,
               "epuise": false
             },
@@ -4959,7 +4959,17 @@
               "description": "Cette géode d'apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. En lithothérapie, elle est souvent associée à l’ouverture du cœur et à la purification des énergies, aidant à apaiser les émotions et à favoriser la clarté mentale. Idéale pour décorer tout en bénéficiant de ses propriétés apaisantes et harmonisantes.",
               "photo": "images/articles/apophylite-geode-mvj6rtlmsmke.jpg",
               "prixBoutique": 960,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe6oIewq5Vzfb25dv2a43o",
+              "stripeProductId": "prod_VUENgd4hoXMWRW",
+              "stripePriceId": "price_1UTFuILOfCA5mATuaWVa2SEP",
+              "stripeLinkId": "plink_1UTFuILOfCA5mATuwraN6rpn",
+              "stripePrix": 992.51,
+              "stripeMode": "live",
+              "stripeNom": "Apophylite géode",
+              "stripeDesc": "Cette géode d'apophylite offre une beauté cristalline unique avec ses cristaux translucides aux reflets bleutés et blancs. En lithothérapie, elle est souvent associée à l’ouverture du cœur et à la purification des énergies, aidant à apaiser les émotions et à favoriser la clarté mentale. Idéale pour décorer tout en bénéficiant de ses propriétés apaisantes et harmonisantes.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

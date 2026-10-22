@@ -4997,7 +4997,17 @@
               "description": "Le cristal de roche est une pierre pure et transparente, symbole de clarté mentale et d'harmonie énergétique. Utilisé depuis toujours pour amplifier les intentions et purifier l'environnement, il est idéal pour équilibrer les émotions et favoriser la concentration. Son énergie lumineuse en fait un allié précieux pour apaiser le stress et renforcer la connexion à son intuition.",
               "photo": "images/articles/cristal-de-roche-geode-mvj7djp4w3l4.jpg",
               "prixBoutique": 66.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu8wQ2NI97LaUMeO52a43q",
+              "stripeProductId": "prod_VUEdzBILWReBiE",
+              "stripePriceId": "price_1UTGAcLOfCA5mATurXmMAxfd",
+              "stripeLinkId": "plink_1UTGAcLOfCA5mATulvakjcJp",
+              "stripePrix": 69,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche géode",
+              "stripeDesc": "Le cristal de roche est une pierre pure et transparente, symbole de clarté mentale et d'harmonie énergétique. Utilisé depuis toujours pour amplifier les intentions et purifier l'environnement, il est idéal pour équilibrer les émotions et favoriser la concentration. Son énergie lumineuse en fait un allié précieux pour apaiser le stress et renforcer la connexion à son intuition.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

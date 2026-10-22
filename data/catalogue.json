@@ -5723,7 +5723,17 @@
               "description": "Le Lapis lazuli est une pierre précieuse aux reflets bleutés profonds et striés d'or, symbole de sagesse et de protection depuis l'Antiquité. Utilisée en lithothérapie pour apaiser les émotions et favoriser la communication, elle est souvent employée pour équilibrer le chakra de la gorge. Son énergie apaisante en fait un allié précieux pour méditation et concentration.",
               "photo": "images/articles/lapis-lazuli-mvjrzuzgwtkm.jpg",
               "prixBoutique": 101.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqfZi0FA4RvaUM21j2a503",
+              "stripeProductId": "prod_VUNxSX0FuayFik",
+              "stripePriceId": "price_1UTPBiLOfCA5mATuviMLkLVh",
+              "stripeLinkId": "plink_1UTPBiLOfCA5mATuNCtvkRCi",
+              "stripePrix": 105.48,
+              "stripeMode": "live",
+              "stripeNom": "Lapis lazuli",
+              "stripeDesc": "Le Lapis lazuli est une pierre précieuse aux reflets bleutés profonds et striés d'or, symbole de sagesse et de protection depuis l'Antiquité. Utilisée en lithothérapie pour apaiser les émotions et favoriser la communication, elle est souvent employée pour équilibrer le chakra de la gorge. Son énergie apaisante en fait un allié précieux pour méditation et concentration.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

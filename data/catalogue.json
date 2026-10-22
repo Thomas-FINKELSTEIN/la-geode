@@ -5054,7 +5054,17 @@
               "description": "La shungite brute est une pierre naturelle aux propriétés uniques, reconnue pour ses vertus protectrices et purificatrices. Utilisée depuis longtemps en lithothérapie, elle est réputée pour absorber les ondes électromagnétiques et favoriser un environnement énergétique harmonieux. Idéale pour apaiser le stress et renforcer la connexion à la terre, elle se place souvent près des sources de pollution électromagnétique ou en méditation.",
               "photo": "images/articles/shungite-brute-mvj7nwfxw0zb.jpg",
               "prixBoutique": 40.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14AaEYcoi83Hfb221j2a43t",
+              "stripeProductId": "prod_VUEmyhlhjI9R11",
+              "stripePriceId": "price_1UTGITLOfCA5mATuhM6iaaWY",
+              "stripeLinkId": "plink_1UTGIULOfCA5mATuNEUslpYJ",
+              "stripePrix": 41.92,
+              "stripeMode": "live",
+              "stripeNom": "Shungite brute",
+              "stripeDesc": "La shungite brute est une pierre naturelle aux propriétés uniques, reconnue pour ses vertus protectrices et purificatrices. Utilisée depuis longtemps en lithothérapie, elle est réputée pour absorber les ondes électromagnétiques et favoriser un environnement énergétique harmonieux. Idéale pour apaiser le stress et renforcer la connexion à la terre, elle se place souvent près des sources de pollution électromagnétique ou en méditation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

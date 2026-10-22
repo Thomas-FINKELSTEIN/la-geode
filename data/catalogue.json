@@ -5583,7 +5583,17 @@
               "description": "Cet œuf en quartz hématoïde est une pièce naturelle aux reflets doux et légèrement dorés, souvent appréciée pour son énergie apaisante et équilibrante. Selon la lithothérapie, il favoriserait la purification des émotions et renforcerait la vitalité, tout en aidant à harmoniser les chakras du cœur et de la gorge. Idéal pour une décoration spirituelle ou comme outil de méditation, il apporte une touche de sérénité à votre environnement.",
               "photo": "images/articles/oeuf-quartz-hematoide-mvjpe7adcjfr.jpg",
               "prixBoutique": 19,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe7sM4VQgAd7IAdK12a43X",
+              "stripeProductId": "prod_VUMoRF3wj488ec",
+              "stripePriceId": "price_1UTO5MLOfCA5mATu2XT7waP4",
+              "stripeLinkId": "plink_1UTO5MLOfCA5mATuMYLlfKUL",
+              "stripePrix": 19.9,
+              "stripeMode": "live",
+              "stripeNom": "Oeuf quartz hématoide",
+              "stripeDesc": "Cet œuf en quartz hématoïde est une pièce naturelle aux reflets doux et légèrement dorés, souvent appréciée pour son énergie apaisante et équilibrante. Selon la lithothérapie, il favoriserait la purification des émotions et renforcerait la vitalité, tout en aidant à harmoniser les chakras du cœur et de la gorge. Idéal pour une décoration spirituelle ou comme outil de méditation, il apporte une touche de sérénité à votre environnement.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }
@@ -29085,7 +29095,17 @@
               "description": "Ce support doré élégant de 4 cm est un accessoire raffiné pour sublimer vos encens, cristaux ou petits objets de décoration. Son éclat doré apporte une touche de lumière et de positivité à votre espace, tout en favorisant une ambiance harmonieuse et apaisante. Idéal pour les rituels de méditation ou simplement pour embellir votre intérieur, il diffuse une énergie chaleureuse et inspirante.",
               "photo": "images/articles/support-doree-4-cm-mvjphlri2pes.jpg",
               "prixBoutique": 5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/8x200kcoido17IA7lD2a43Y",
+              "stripeProductId": "prod_VUMpfKDb0B5Ugo",
+              "stripePriceId": "price_1UTO5MLOfCA5mATuXdITiNDB",
+              "stripeLinkId": "plink_1UTO5NLOfCA5mATutUcabzDJ",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Support dorée 4 cm",
+              "stripeDesc": "Ce support doré élégant de 4 cm est un accessoire raffiné pour sublimer vos encens, cristaux ou petits objets de décoration. Son éclat doré apporte une touche de lumière et de positivité à votre espace, tout en favorisant une ambiance harmonieuse et apaisante. Idéal pour les rituels de méditation ou simplement pour embellir votre intérieur, il diffuse une énergie chaleureuse et inspirante.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

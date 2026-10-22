@@ -5282,7 +5282,17 @@
               "description": "La tourmaline brute est une pierre aux multiples couleurs et énergies puissantes, souvent associée à la protection et à l'équilibre émotionnel. Elle est réputée pour absorber les radiations électromagnétiques et favoriser un sentiment de sécurité intérieure. Idéale pour les collectionneurs ou ceux qui cherchent à renforcer leur connexion à la nature et à l'énergie vitale.",
               "photo": "images/articles/tourmaline-brute-mvj8y35ayx9g.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00wcN60FA5Vz5AscFX2a43F",
+              "stripeProductId": "prod_VUFLFflFan9WTv",
+              "stripePriceId": "price_1UTGrALOfCA5mATuu8SpBMZK",
+              "stripeLinkId": "plink_1UTGrBLOfCA5mATutRehTppW",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Tourmaline brute",
+              "stripeDesc": "La tourmaline brute est une pierre aux multiples couleurs et énergies puissantes, souvent associée à la protection et à l'équilibre émotionnel. Elle est réputée pour absorber les radiations électromagnétiques et favoriser un sentiment de sécurité intérieure. Idéale pour les collectionneurs ou ceux qui cherchent à renforcer leur connexion à la nature et à l'énergie vitale.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

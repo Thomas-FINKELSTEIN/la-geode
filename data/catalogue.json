@@ -5410,7 +5410,17 @@
               "description": "Cette belle statuette de tortue en obsidienne incarne la sagesse et la protection. Selon la lithothérapie, l'obsidienne aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Elle est souvent utilisée pour apaiser l'esprit et favoriser une connexion profonde avec ses intuitions.",
               "photo": "images/articles/tortue-en-obsidienne-mvjnifsptbus.jpg",
               "prixBoutique": 95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI9AUcoi0Bfe6Y7lD2a43O",
+              "stripeProductId": "prod_VULvFy1eEYVpnI",
+              "stripePriceId": "price_1UTNDmLOfCA5mATuFcrFaWi9",
+              "stripeLinkId": "plink_1UTNDmLOfCA5mATubeowGg8I",
+              "stripePrix": 98.45,
+              "stripeMode": "live",
+              "stripeNom": "Tortue en obsidienne",
+              "stripeDesc": "Cette belle statuette de tortue en obsidienne incarne la sagesse et la protection. Selon la lithothérapie, l'obsidienne aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Elle est souvent utilisée pour apaiser l'esprit et favoriser une connexion profonde avec ses intuitions.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

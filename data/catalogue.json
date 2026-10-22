@@ -31141,7 +31141,17 @@
               "description": "Ce brûleur d'encens sculpté en forme d'éléphant apporte une touche décorative et spirituelle à votre espace. En lithothérapie, les pierres utilisées pour ce type d'objet sont souvent associées à la stabilité émotionnelle, à la force intérieure et à la connexion avec la terre. Idéal pour purifier l'air et créer une ambiance apaisante, il est parfait pour les rituels de méditation ou simplement pour embellir votre intérieur.",
               "photo": "images/articles/bruleur-en-pierre-mvjm8pexrweh.jpg",
               "prixBoutique": 24.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu6oI0FA97Lgf6eO52a43N",
+              "stripeProductId": "prod_VULMkpIUpy94It",
+              "stripePriceId": "price_1UTMfLLOfCA5mATuRvZ0VVd0",
+              "stripeLinkId": "plink_1UTMfMLOfCA5mATugYFJLDSu",
+              "stripePrix": 26,
+              "stripeMode": "live",
+              "stripeNom": "Brûleur en pierre",
+              "stripeDesc": "Ce brûleur d'encens sculpté en forme d'éléphant apporte une touche décorative et spirituelle à votre espace. En lithothérapie, les pierres utilisées pour ce type d'objet sont souvent associées à la stabilité émotionnelle, à la force intérieure et à la connexion avec la terre. Idéal pour purifier l'air et créer une ambiance apaisante, il est parfait pour les rituels de méditation ou simplement pour embellir votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -5421,6 +5421,15 @@
               "stripeDesc": "Cette belle statuette de tortue en obsidienne incarne la sagesse et la protection. Selon la lithothérapie, l'obsidienne aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Elle est souvent utilisée pour apaiser l'esprit et favoriser une connexion profonde avec ses intuitions.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "obsidienne-en-galet-oeil-celeste-mvjnrq67bzyn",
+              "nom": "Obsidienne en Galet oeil céleste",
+              "prix": 56.08,
+              "description": "Ce galet d'obsidienne aux reflets mystérieux et à l'œil céleste captivant est une pierre aux énergies puissantes. En lithothérapie, elle est souvent utilisée pour purifier les émotions négatives, renforcer la protection spirituelle et favoriser une profonde introspection. Parfaite pour méditer ou porter sur soi, elle aide à retrouver un équilibre intérieur et à clarifier les pensées.",
+              "photo": "images/articles/obsidienne-en-galet-oeil-celeste-mvjnrq67573n.jpg",
+              "prixBoutique": 54,
+              "stock": 1
             }
           ]
         }

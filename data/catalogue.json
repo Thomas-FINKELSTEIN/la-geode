@@ -5512,7 +5512,17 @@
               "description": "Ce crâne sculpté dans un cristal de roche pur et translucide est une pièce unique alliant beauté et énergie positive. En lithothérapie, le cristal de roche est souvent associé à la purification, à l’amplification des intentions et à l’harmonisation des chakras, favorisant ainsi clarté mentale et équilibre émotionnel. Idéal pour décorer tout en bénéficiant de ses vertus apaisantes, il peut aussi être utilisé comme objet de méditation ou de focalisation énergétique.",
               "photo": "images/articles/crane-en-cristal-de-roche-11x9x8-mvjoshcnn9pc.jpg",
               "prixBoutique": 360,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU9AU882fw93sk5dv2a43U",
+              "stripeProductId": "prod_VUMVFR7zXTlOTF",
+              "stripePriceId": "price_1UTNmSLOfCA5mATurGoZrZhD",
+              "stripeLinkId": "plink_1UTNmTLOfCA5mATuR1gWCL0w",
+              "stripePrix": 372.36,
+              "stripeMode": "live",
+              "stripeNom": "Crâne en cristal de roche 11x9x8",
+              "stripeDesc": "Ce crâne sculpté dans un cristal de roche pur et translucide est une pièce unique alliant beauté et énergie positive. En lithothérapie, le cristal de roche est souvent associé à la purification, à l’amplification des intentions et à l’harmonisation des chakras, favorisant ainsi clarté mentale et équilibre émotionnel. Idéal pour décorer tout en bénéficiant de ses vertus apaisantes, il peut aussi être utilisé comme objet de méditation ou de focalisation énergétique.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

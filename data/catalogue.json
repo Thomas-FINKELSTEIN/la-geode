@@ -5447,7 +5447,17 @@
           "id": "cristal-de-roche-mvjo36r3cpxx",
           "nom": "Cristal de roche",
           "slogan": "cristal de roche toutes formes",
-          "articles": []
+          "articles": [
+            {
+              "id": "crane-en-cristal-de-roche-du-perou-mvjocy80joyl",
+              "nom": "Crâne en cristal de roche du pérou",
+              "prix": 191.48,
+              "description": "Ce crâne sculpté dans un cristal de roche transparent et pur est une pièce unique et mystérieuse, inspirée des traditions anciennes. Le cristal de roche est souvent associé à la clarté mentale, à l’harmonisation des énergies et à la purification des espaces. Idéal pour décorer tout en apportant une touche spirituelle et apaisante à votre intérieur ou votre pratique méditative.",
+              "photo": "images/articles/crane-en-cristal-de-roche-du-perou-mvjocy80uo1q.jpg",
+              "prixBoutique": 185,
+              "stock": 1
+            }
+          ]
         }
       ]
     },

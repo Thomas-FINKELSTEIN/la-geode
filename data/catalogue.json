@@ -31109,6 +31109,22 @@
               "epuise": false
             }
           ]
+        },
+        {
+          "id": "diffuseur-huiles-essentielles-mvjm0entz086",
+          "nom": "Diffuseur huiles essentielles",
+          "slogan": "en pierre ou en résine",
+          "articles": [
+            {
+              "id": "diffuseur-deco-moines-mvjm22kp5nyr",
+              "nom": "Diffuseur déco moines",
+              "prix": 26,
+              "description": "Ce diffuseur décoratif en forme de moines porteurs de coupes élégantes apporte une touche d'harmonie et de sérénité à votre intérieur. Associé traditionnellement à la méditation et à la concentration, il est idéal pour créer une ambiance apaisante et favoriser le bien-être. Parfait pour les espaces de détente ou de travail, il diffuse une énergie positive et inspirante.",
+              "photo": "images/articles/diffuseur-deco-moines-mvjm22kpzyoz.jpg",
+              "prixBoutique": 24.9,
+              "stock": 1
+            }
+          ]
         }
       ]
     }

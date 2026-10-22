@@ -5685,7 +5685,17 @@
               "description": "Cette belle sphère en lapis-lazuli de 12 cm de diamètre incarne l'élégance et la profondeur de cette pierre sacrée, souvent appelée la pierre de la sagesse. En lithothérapie, elle est réputée pour favoriser la communication, la clarté mentale et l'expression des émotions, tout en apaisant les tensions intérieures. Idéale pour décorer un espace tout en bénéficiant de ses énergies harmonieuses, elle est aussi utilisée pour méditer ou créer une ambiance sereine.",
               "photo": "images/articles/sphere-lapis-lazuli-12-cm-diametre-mvjr6hqtkohi.jpg",
               "prixBoutique": 899,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x24gA1JE1FjaUMfS92a500",
+              "stripeProductId": "prod_VUNaHCqy7WUKQm",
+              "stripePriceId": "price_1UTOp7LOfCA5mATusaFZArq7",
+              "stripeLinkId": "plink_1UTOp7LOfCA5mATuUhkrkCfw",
+              "stripePrix": 929.46,
+              "stripeMode": "live",
+              "stripeNom": "Sphère Lapis lazuli 12 cm diamètre",
+              "stripeDesc": "Cette belle sphère en lapis-lazuli de 12 cm de diamètre incarne l'élégance et la profondeur de cette pierre sacrée, souvent appelée la pierre de la sagesse. En lithothérapie, elle est réputée pour favoriser la communication, la clarté mentale et l'expression des émotions, tout en apaisant les tensions intérieures. Idéale pour décorer un espace tout en bénéficiant de ses énergies harmonieuses, elle est aussi utilisée pour méditer ou créer une ambiance sereine.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -5809,7 +5809,17 @@
               "description": "Ce coeur en obsidienne aux reflets profonds et à l'œil céleste captivant est une pierre puissante et mystérieuse. Traditionnellement utilisée en lithothérapie pour protéger et renforcer le champ énergétique, elle aide à libérer les blocages émotionnels et favorise une profonde introspection. Parfaite pour ceux qui cherchent à apaiser leur esprit et à retrouver un équilibre intérieur, cette pierre peut aussi être utilisée comme talisman pour renforcer la confiance en soi et la résilience.",
               "photo": "images/articles/coeur-d-obsidienne-oeil-celeste-300-gr-mvl6yuf8o31d.jpg",
               "prixBoutique": 108,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B67sMaga2Jn2ogeO52a50H",
+              "stripeProductId": "prod_VUkyajXSkQPt9L",
+              "stripePriceId": "price_1UTlS9LOfCA5mATuvmIWRRfT",
+              "stripeLinkId": "plink_1UTlS9LOfCA5mATu5OPVVODU",
+              "stripePrix": 111.89,
+              "stripeMode": "live",
+              "stripeNom": "Coeur d'obsidienne oeil céleste 300 gr",
+              "stripeDesc": "Ce coeur en obsidienne aux reflets profonds et à l'œil céleste captivant est une pierre puissante et mystérieuse. Traditionnellement utilisée en lithothérapie pour protéger et renforcer le champ énergétique, elle aide à libérer les blocages émotionnels et favorise une profonde introspection. Parfaite pour ceux qui cherchent à apaiser leur esprit et à retrouver un équilibre intérieur, cette pierre peut aussi être utilisée comme talisman pour renforcer la confiance en soi et la résilience.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

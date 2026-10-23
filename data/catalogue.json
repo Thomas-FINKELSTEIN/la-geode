@@ -29705,7 +29705,17 @@
               "description": "Ce support élégant et moderne en métal noir est spécialement conçu pour exposer et sublimer vos sphères en pierres naturelles ou cristaux. Son design épuré et stable permet de mettre en valeur les énergies apaisantes ou dynamisantes des pierres posées dessus, tout en facilitant leur placement dans votre espace de bien-être. Idéal pour décorer votre intérieur tout en intégrant les bienfaits de la lithothérapie au quotidien.",
               "photo": "images/articles/support-en-metal-pour-sphere-mvktcxvl4450.jpg",
               "prixBoutique": 22.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/3cI9AUbkegAd4wo8pH2a50p",
+              "stripeProductId": "prod_VUerA5vutQVlBW",
+              "stripePriceId": "price_1UTfY9LOfCA5mATuUioHkacN",
+              "stripeLinkId": "plink_1UTfYALOfCA5mATuHW5QCUKl",
+              "stripePrix": 23.52,
+              "stripeMode": "live",
+              "stripeNom": "Support en métal pour sphère",
+              "stripeDesc": "Ce support élégant et moderne en métal noir est spécialement conçu pour exposer et sublimer vos sphères en pierres naturelles ou cristaux. Son design épuré et stable permet de mettre en valeur les énergies apaisantes ou dynamisantes des pierres posées dessus, tout en facilitant leur placement dans votre espace de bien-être. Idéal pour décorer votre intérieur tout en intégrant les bienfaits de la lithothérapie au quotidien.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "support-en-teck-20-cm-mvktgeqnffj7",
@@ -29714,7 +29724,17 @@
               "description": "Ce support en teck de 20 cm allie élégance et stabilité pour sublimer vos objets sacrés ou vos cristaux préférés. Son design organique et ses lignes harmonieuses en font un élément décoratif raffiné, tout en apportant une touche naturelle et apaisante à votre espace. En lithothérapie, le teck est souvent associé à une énergie positive et équilibrante, favorisant la connexion à la terre et la sérénité.",
               "photo": "images/articles/support-en-teck-20-cm-mvktgeqnncs6.jpg",
               "prixBoutique": 60,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU4gA8820Bfe6YfS92a50q",
+              "stripeProductId": "prod_VUerfQDDV8zrsh",
+              "stripePriceId": "price_1UTfYALOfCA5mATundcBwusv",
+              "stripeLinkId": "plink_1UTfYALOfCA5mATu13IYI6PM",
+              "stripePrix": 62.28,
+              "stripeMode": "live",
+              "stripeNom": "Support en teck 20 cm",
+              "stripeDesc": "Ce support en teck de 20 cm allie élégance et stabilité pour sublimer vos objets sacrés ou vos cristaux préférés. Son design organique et ses lignes harmonieuses en font un élément décoratif raffiné, tout en apportant une touche naturelle et apaisante à votre espace. En lithothérapie, le teck est souvent associé à une énergie positive et équilibrante, favorisant la connexion à la terre et la sérénité.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

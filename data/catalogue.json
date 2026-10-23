@@ -5761,7 +5761,17 @@
               "description": "Le Lapis lazuli est une pierre précieuse aux reflets bleu profond et scintillants, parsemée de paillettes dorées. Connue depuis l'Antiquité pour ses vertus protectrices et apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité, la communication et l'expression des émotions. Idéale pour équilibrer le mental et stimuler la confiance en soi, cette pierre naturelle est aussi appréciée pour son esthétique unique et son énergie harmonieuse.",
               "photo": "images/articles/lapis-lazuli-mvkn9ra0sr0f.jpg",
               "prixBoutique": 125,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00weVeewq4Rv4wodK12a506",
+              "stripeProductId": "prod_VUc6W31Y6B03a5",
+              "stripePriceId": "price_1UTcsSLOfCA5mATuBzG3O0gG",
+              "stripeLinkId": "plink_1UTcsTLOfCA5mATufvdEFNxs",
+              "stripePrix": 129.46,
+              "stripeMode": "live",
+              "stripeNom": "Lapis lazuli",
+              "stripeDesc": "Le Lapis lazuli est une pierre précieuse aux reflets bleu profond et scintillants, parsemée de paillettes dorées. Connue depuis l'Antiquité pour ses vertus protectrices et apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité, la communication et l'expression des émotions. Idéale pour équilibrer le mental et stimuler la confiance en soi, cette pierre naturelle est aussi appréciée pour son esthétique unique et son énergie harmonieuse.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "lapis-lazuli-1616-gr-mvkncc0hz0uf",
@@ -5770,7 +5780,17 @@
               "description": "Ce magnifique Lapis-lazuli brut de 1616 grammes est une pierre précieuse aux reflets profonds et mystérieux, souvent associée à la sagesse et à la protection. Utilisée depuis l'Antiquité, elle est réputée pour favoriser la communication, la clarté mentale et l'expression des émotions. Idéale pour les collectionneurs ou les amateurs de lithothérapie, elle apporte une énergie apaisante et inspirante au quotidien.",
               "photo": "images/articles/lapis-lazuli-1616-gr-mvkncc0htqx4.jpg",
               "prixBoutique": 261.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUbJ2fAu4Rvgf6fS92a507",
+              "stripeProductId": "prod_VUc6osTLOiAZZa",
+              "stripePriceId": "price_1UTcsTLOfCA5mATuFxXdYoJB",
+              "stripeLinkId": "plink_1UTcsULOfCA5mATuBlSnYDTs",
+              "stripePrix": 270.86,
+              "stripeMode": "live",
+              "stripeNom": "Lapis lazuli 1616 gr",
+              "stripeDesc": "Ce magnifique Lapis-lazuli brut de 1616 grammes est une pierre précieuse aux reflets profonds et mystérieux, souvent associée à la sagesse et à la protection. Utilisée depuis l'Antiquité, elle est réputée pour favoriser la communication, la clarté mentale et l'expression des émotions. Idéale pour les collectionneurs ou les amateurs de lithothérapie, elle apporte une énergie apaisante et inspirante au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

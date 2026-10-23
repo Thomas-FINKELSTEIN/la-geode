@@ -5752,7 +5752,17 @@
               "description": "Ce coeur en obsidienne oeil céleste est une pièce unique alliant beauté et symbolisme fort. L'obsidienne, pierre de protection et de transformation, est réputée pour aider à libérer les blocages émotionnels et à renforcer la confiance en soi. Son éclat mystérieux et son énergie puissante en font un allié précieux pour ceux qui cherchent à équilibrer leurs émotions et à se reconnecter à leur force intérieure.",
               "photo": "images/articles/coeur-d-obsidienne-oeil-celeste-mvl6le4s4a99.jpg",
               "prixBoutique": 116.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM28sfAu83HbYQ5dv2a50E",
+              "stripeProductId": "prod_VUknT3hAbGFewc",
+              "stripePriceId": "price_1UTlI3LOfCA5mATuPssWYZtt",
+              "stripeLinkId": "plink_1UTlI4LOfCA5mATuclK3uF3x",
+              "stripePrix": 120.47,
+              "stripeMode": "live",
+              "stripeNom": "Coeur d' obsidienne oeil céleste",
+              "stripeDesc": "Ce coeur en obsidienne oeil céleste est une pièce unique alliant beauté et symbolisme fort. L'obsidienne, pierre de protection et de transformation, est réputée pour aider à libérer les blocages émotionnels et à renforcer la confiance en soi. Son éclat mystérieux et son énergie puissante en font un allié précieux pour ceux qui cherchent à équilibrer leurs émotions et à se reconnecter à leur force intérieure.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

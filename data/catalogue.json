@@ -6060,7 +6060,17 @@
               "description": "La tourmaline noire est une pierre puissante et protectrice, idéale pour absorber les énergies négatives et renforcer votre champ d'énergie personnel. Utilisée en lithothérapie pour apaiser les émotions et favoriser un sentiment de sécurité, elle est souvent appelée la pierre des ancrages. Parfaite pour une méditation profonde ou comme élément décoratif dans un espace de bien-être, elle apporte calme et équilibre au quotidien.",
               "photo": "images/articles/tourmaline-noire-sphere-mvksrcg1eye6.jpg",
               "prixBoutique": 69.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY8wQ1JE83H0g8gWd2a50l",
+              "stripeProductId": "prod_VUeYc9OVHhB6yi",
+              "stripePriceId": "price_1UTfFDLOfCA5mATuJ9vargf6",
+              "stripeLinkId": "plink_1UTfFDLOfCA5mATuSzZtlwiy",
+              "stripePrix": 72.51,
+              "stripeMode": "live",
+              "stripeNom": "Tourmaline noire Sphère",
+              "stripeDesc": "La tourmaline noire est une pierre puissante et protectrice, idéale pour absorber les énergies négatives et renforcer votre champ d'énergie personnel. Utilisée en lithothérapie pour apaiser les émotions et favoriser un sentiment de sécurité, elle est souvent appelée la pierre des ancrages. Parfaite pour une méditation profonde ou comme élément décoratif dans un espace de bien-être, elle apporte calme et équilibre au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

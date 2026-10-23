@@ -5790,7 +5790,17 @@
               "description": "Ce coeur en obsidienne, pierre de protection et de transformation, est un allié puissant pour apaiser les émotions et libérer les blocages intérieurs. Traditionnellement utilisée en lithothérapie pour renforcer la résilience et favoriser la connexion à soi, elle aide à dissoudre les peurs et à retrouver un équilibre émotionnel. Son énergie intense en fait un objet idéal pour les personnes en quête de clarification mentale et de protection spirituelle.",
               "photo": "images/articles/coeur-obsidienne-318-gr-10-cm-mvl6sdm5zewq.jpg",
               "prixBoutique": 114.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w8wQgEy4Rvd2UaxP2a50G",
+              "stripeProductId": "prod_VUktQeLn6OjPRI",
+              "stripePriceId": "price_1UTlNFLOfCA5mATu9WG7qZvx",
+              "stripeLinkId": "plink_1UTlNFLOfCA5mATuYeEqj5Xp",
+              "stripePrix": 119.02,
+              "stripeMode": "live",
+              "stripeNom": "Coeur obsidienne 318 gr 10 cm",
+              "stripeDesc": "Ce coeur en obsidienne, pierre de protection et de transformation, est un allié puissant pour apaiser les émotions et libérer les blocages intérieurs. Traditionnellement utilisée en lithothérapie pour renforcer la résilience et favoriser la connexion à soi, elle aide à dissoudre les peurs et à retrouver un équilibre émotionnel. Son énergie intense en fait un objet idéal pour les personnes en quête de clarification mentale et de protection spirituelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

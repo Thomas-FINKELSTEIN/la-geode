@@ -5753,6 +5753,24 @@
               "stripeDesc": "Le Lapis lazuli est une pierre précieuse aux reflets bleutés profonds et mystérieux, souvent traversée de veines dorées. Symbole de sagesse et de protection, elle est utilisée en lithothérapie pour favoriser la communication, la clarté mentale et l’équilibre émotionnel. Portée en bijou ou placée dans un espace de vie, elle apporte sérénité et inspiration.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "lapis-lazuli-mvkn9ra02k8s",
+              "nom": "Lapis lazuli",
+              "prix": 129.46,
+              "description": "Le Lapis lazuli est une pierre précieuse aux reflets bleu profond et scintillants, parsemée de paillettes dorées. Connue depuis l'Antiquité pour ses vertus protectrices et apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité, la communication et l'expression des émotions. Idéale pour équilibrer le mental et stimuler la confiance en soi, cette pierre naturelle est aussi appréciée pour son esthétique unique et son énergie harmonieuse.",
+              "photo": "images/articles/lapis-lazuli-mvkn9ra0sr0f.jpg",
+              "prixBoutique": 125,
+              "stock": 1
+            },
+            {
+              "id": "lapis-lazuli-1616-gr-mvkncc0hz0uf",
+              "nom": "Lapis lazuli 1616 gr",
+              "prix": 270.86,
+              "description": "Ce magnifique Lapis-lazuli brut de 1616 grammes est une pierre précieuse aux reflets profonds et mystérieux, souvent associée à la sagesse et à la protection. Utilisée depuis l'Antiquité, elle est réputée pour favoriser la communication, la clarté mentale et l'expression des émotions. Idéale pour les collectionneurs ou les amateurs de lithothérapie, elle apporte une énergie apaisante et inspirante au quotidien.",
+              "photo": "images/articles/lapis-lazuli-1616-gr-mvkncc0htqx4.jpg",
+              "prixBoutique": 261.8,
+              "stock": 1
             }
           ]
         }

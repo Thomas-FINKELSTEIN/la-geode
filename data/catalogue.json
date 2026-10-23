@@ -5885,7 +5885,17 @@
               "description": "L'Obsidienne du Mexique est une pierre volcanique aux reflets profonds et mystérieux, souvent utilisée pour ses propriétés de protection et de renforcement de la volonté. En lithothérapie, elle est réputée pour aider à libérer les blocages émotionnels et à favoriser une connexion avec les énergies intérieures. Son énergie puissante en fait un allié précieux pour ceux qui cherchent à retrouver équilibre et confiance en soi.",
               "photo": "images/articles/obsidienne-mexique-mvl7f5w4ilnz.jpg",
               "prixBoutique": 125.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu14o0FAdo14wogWd2a50L",
+              "stripeProductId": "prod_VUlAzrqsdoWS9A",
+              "stripePriceId": "price_1UTleOLOfCA5mATul6ioAXUi",
+              "stripeLinkId": "plink_1UTleOLOfCA5mATuAtHnIViX",
+              "stripePrix": 130.19,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne Mexique",
+              "stripeDesc": "L'Obsidienne du Mexique est une pierre volcanique aux reflets profonds et mystérieux, souvent utilisée pour ses propriétés de protection et de renforcement de la volonté. En lithothérapie, elle est réputée pour aider à libérer les blocages émotionnels et à favoriser une connexion avec les énergies intérieures. Son énergie puissante en fait un allié précieux pour ceux qui cherchent à retrouver équilibre et confiance en soi.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

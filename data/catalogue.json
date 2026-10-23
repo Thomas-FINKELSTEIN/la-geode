@@ -5734,6 +5734,15 @@
               "stripeDesc": "Le Lapis lazuli est une pierre précieuse aux reflets bleutés profonds et striés d'or, symbole de sagesse et de protection depuis l'Antiquité. Utilisée en lithothérapie pour apaiser les émotions et favoriser la communication, elle est souvent employée pour équilibrer le chakra de la gorge. Son énergie apaisante en fait un allié précieux pour méditation et concentration.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "lapis-lazuli-mvkmxm21y5vu",
+              "nom": "Lapis lazuli",
+              "prix": 95.77,
+              "description": "Le Lapis lazuli est une pierre précieuse aux reflets bleutés profonds et mystérieux, souvent traversée de veines dorées. Symbole de sagesse et de protection, elle est utilisée en lithothérapie pour favoriser la communication, la clarté mentale et l’équilibre émotionnel. Portée en bijou ou placée dans un espace de vie, elle apporte sérénité et inspiration.",
+              "photo": "images/articles/lapis-lazuli-mvkmxm22vlq5.jpg",
+              "prixBoutique": 92.4,
+              "stock": 1
             }
           ]
         }

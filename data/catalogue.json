@@ -5733,7 +5733,17 @@
               "description": "Cette sphère d'obsidienne oeil céleste est une pièce fascinante alliant beauté et énergie puissante. L'obsidienne, pierre de protection et de transformation, est réputée pour absorber les énergies négatives et renforcer la connexion à soi-même. Parfaite pour méditer ou décorer un espace sacré, elle apporte équilibre et clarté mentale.",
               "photo": "images/articles/sphere-d-obsidienne-oeil-celeste-20-cm-d-mvl2hkpmo0yb.jpg",
               "prixBoutique": 1400,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm8wQfAugAd7IA5dv2a50z",
+              "stripeProductId": "prod_VUiwfEKdatK1lj",
+              "stripePriceId": "price_1UTjUnLOfCA5mATuw5nXkGvY",
+              "stripeLinkId": "plink_1UTjUnLOfCA5mATu05RDUB8N",
+              "stripePrix": 1447.29,
+              "stripeMode": "live",
+              "stripeNom": "Sphère d' Obsidienne oeil céleste 20 cm diamètre 10,200 kg",
+              "stripeDesc": "Cette sphère d'obsidienne oeil céleste est une pièce fascinante alliant beauté et énergie puissante. L'obsidienne, pierre de protection et de transformation, est réputée pour absorber les énergies négatives et renforcer la connexion à soi-même. Parfaite pour méditer ou décorer un espace sacré, elle apporte équilibre et clarté mentale.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

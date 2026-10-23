@@ -6122,7 +6122,17 @@
               "description": "Le Lapis Lazuli est une pierre précieuse aux reflets profonds et mystérieux, souvent associée à la sagesse et à la communication spirituelle. Utilisée depuis l'Antiquité, elle est réputée pour favoriser la clarté mentale et apaiser les émotions. Ses teintes bleutées intenses en font un allié idéal pour méditation et protection énergétique.",
               "photo": "images/articles/lapis-lazuli-10-cm-x-7-cm-mvl3s93jpinx.jpg",
               "prixBoutique": 69.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi6oI3RM4Rv6EwdK12a50B",
+              "stripeProductId": "prod_VUjWLmM4riEbtk",
+              "stripePriceId": "price_1UTk3vLOfCA5mATuQy156ucQ",
+              "stripeLinkId": "plink_1UTk3wLOfCA5mATuyhANce5b",
+              "stripePrix": 72.51,
+              "stripeMode": "live",
+              "stripeNom": "Lapis lazuli 10 cm x 7 cm",
+              "stripeDesc": "Le Lapis Lazuli est une pierre précieuse aux reflets profonds et mystérieux, souvent associée à la sagesse et à la communication spirituelle. Utilisée depuis l'Antiquité, elle est réputée pour favoriser la clarté mentale et apaiser les émotions. Ses teintes bleutées intenses en font un allié idéal pour méditation et protection énergétique.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

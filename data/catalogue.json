@@ -5695,7 +5695,17 @@
               "description": "La sphère obsidienne noire est une pierre aux reflets profonds et mystérieux, souvent utilisée pour ses propriétés protectrices et équilibrantes. En lithothérapie, elle est réputée pour aider à libérer les émotions bloquées et à renforcer la confiance en soi. Son énergie puissante en fait un allié idéal pour méditer ou décorer un espace avec une touche spirituelle.",
               "photo": "images/articles/sphere-obsidienne-noire-mvksc0qw7jix.jpg",
               "prixBoutique": 47,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/aFabJ25ZU1Fjfb28pH2a50k",
+              "stripeProductId": "prod_VUeMrhk18Vl0zv",
+              "stripePriceId": "price_1UTf3eLOfCA5mATueIcnY5QB",
+              "stripeLinkId": "plink_1UTf3eLOfCA5mATuqYe1T8Xw",
+              "stripePrix": 48.84,
+              "stripeMode": "live",
+              "stripeNom": "Sphère obsidienne noire",
+              "stripeDesc": "La sphère obsidienne noire est une pierre aux reflets profonds et mystérieux, souvent utilisée pour ses propriétés protectrices et équilibrantes. En lithothérapie, elle est réputée pour aider à libérer les émotions bloquées et à renforcer la confiance en soi. Son énergie puissante en fait un allié idéal pour méditer ou décorer un espace avec une touche spirituelle.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

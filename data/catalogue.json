@@ -5980,7 +5980,17 @@
               "description": "La sphère Obsidienne est une pierre de protection et de purification aux énergies puissantes. Utilisée en lithothérapie pour apaiser les émotions et libérer les blocages, elle aide à retrouver un équilibre intérieur. Son aspect sombre et mystérieux en fait un allié idéal pour les espaces de méditation ou de détente.",
               "photo": "images/articles/sphere-obsidienne-mvl7yacjzd42.jpg",
               "prixBoutique": 47,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B64gA0FAabP1kceO52a50Q",
+              "stripeProductId": "prod_VUlPnzhYEFDDeN",
+              "stripePriceId": "price_1UTlsqLOfCA5mATuMzCMNyFl",
+              "stripeLinkId": "plink_1UTlsqLOfCA5mATufokniOHJ",
+              "stripePrix": 48.84,
+              "stripeMode": "live",
+              "stripeNom": "Sphère Obsidienne",
+              "stripeDesc": "La sphère Obsidienne est une pierre de protection et de purification aux énergies puissantes. Utilisée en lithothérapie pour apaiser les émotions et libérer les blocages, elle aide à retrouver un équilibre intérieur. Son aspect sombre et mystérieux en fait un allié idéal pour les espaces de méditation ou de détente.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

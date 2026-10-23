@@ -5813,7 +5813,7 @@
               "stripeLinkId": "plink_1UTd1iLOfCA5mATuzWbCZrSi",
               "stripePrix": 15.77,
               "stripeMode": "live",
-              "stripeNom": "Sodalite Boule",
+              "stripeNom": "Sodalite Sphère 4 cm de diamètre",
               "stripeDesc": "La sodalite sous forme de boule est une pierre aux reflets bleutés profonds et apaisants, idéale pour équilibrer les émotions et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi et apaiser les tensions intérieures. Son énergie douce et stable en fait un allié précieux pour méditer ou décorer un espace de bien-être.",
               "stripeStock": 1,
               "epuise": false
@@ -5844,7 +5844,17 @@
               "description": "La sodalite est une pierre aux reflets bleutés profonds, souvent associée à la sagesse et à la clarté mentale. Sous forme de pyramide, elle amplifie ses propriétés énergétiques pour favoriser la concentration et apaiser les émotions. Idéale pour les espaces de travail ou de méditation, elle aide à trouver un équilibre intérieur et à renforcer la confiance en soi.",
               "photo": "images/articles/sodalite-triangulaire-5x5-mvknrwddhal5.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa28scoido15AsgWd2a50a",
+              "stripeProductId": "prod_VUcIdST661GQPI",
+              "stripePriceId": "price_1UTd4CLOfCA5mATurokFCWyw",
+              "stripeLinkId": "plink_1UTd4DLOfCA5mATu1lIIbISf",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Sodalite triangulaire 5x5",
+              "stripeDesc": "La sodalite est une pierre aux reflets bleutés profonds, souvent associée à la sagesse et à la clarté mentale. Sous forme de pyramide, elle amplifie ses propriétés énergétiques pour favoriser la concentration et apaiser les émotions. Idéale pour les espaces de travail ou de méditation, elle aide à trouver un équilibre intérieur et à renforcer la confiance en soi.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

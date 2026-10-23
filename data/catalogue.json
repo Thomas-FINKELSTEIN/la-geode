@@ -5619,7 +5619,17 @@
               "description": "L'Obsidienne oeil céleste est une pierre aux reflets profonds et mystérieux, souvent utilisée pour son énergie protectrice et apaisante. Selon la lithothérapie, elle favorise la connexion avec son intuition et aide à libérer les blocages émotionnels. Idéale pour méditer ou porter en bijou, elle est aussi appréciée pour son pouvoir de purification énergétique.",
               "photo": "images/articles/obsidienne-celeste-oeil-mvkrwz4yc2of.jpg",
               "prixBoutique": 39,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq4gAbkeabP8MEgWd2a50g",
+              "stripeProductId": "prod_VUeAlfRNaI0C1p",
+              "stripePriceId": "price_1UTesNLOfCA5mATuH0iYmECH",
+              "stripeLinkId": "plink_1UTesNLOfCA5mATusiqRqjWk",
+              "stripePrix": 40.57,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne céleste oeil",
+              "stripeDesc": "L'Obsidienne oeil céleste est une pierre aux reflets profonds et mystérieux, souvent utilisée pour son énergie protectrice et apaisante. Selon la lithothérapie, elle favorise la connexion avec son intuition et aide à libérer les blocages émotionnels. Idéale pour méditer ou porter en bijou, elle est aussi appréciée pour son pouvoir de purification énergétique.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

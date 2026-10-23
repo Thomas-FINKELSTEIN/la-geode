@@ -6103,7 +6103,17 @@
               "description": "Le lapis-lazuli est une pierre précieuse aux reflets profonds et mystérieux, souvent associée à la sagesse et à la protection. Utilisée depuis l'Antiquité pour ses propriétés apaisantes, elle favorise la clarté mentale et aide à surmonter les défis émotionnels. Son énergie intense en fait un allié idéal pour renforcer la confiance en soi et attirer la prospérité dans votre quotidien.",
               "photo": "images/articles/lapis-lazuli-12-cm-x-8-cm-mvl2prmvzomz.jpg",
               "prixBoutique": 128.1,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe5kEbkedo17IA21j2a50A",
+              "stripeProductId": "prod_VUj3KcDj0fk2Ic",
+              "stripePriceId": "price_1UTjaxLOfCA5mATurP61lJ4e",
+              "stripeLinkId": "plink_1UTjaxLOfCA5mATuws8Y3LNs",
+              "stripePrix": 132.67,
+              "stripeMode": "live",
+              "stripeNom": "Lapis lazuli 12 cm x 8 cm",
+              "stripeDesc": "Le lapis-lazuli est une pierre précieuse aux reflets profonds et mystérieux, souvent associée à la sagesse et à la protection. Utilisée depuis l'Antiquité pour ses propriétés apaisantes, elle favorise la clarté mentale et aide à surmonter les défis émotionnels. Son énergie intense en fait un allié idéal pour renforcer la confiance en soi et attirer la prospérité dans votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

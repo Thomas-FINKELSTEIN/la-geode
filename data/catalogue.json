@@ -6008,7 +6008,17 @@
               "description": "",
               "photo": "images/articles/sphere-en-lapis-lazuli-mvl20jnc6kqr.jpg",
               "prixBoutique": 320,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU00k4VQ2Jn6EwaxP2a50t",
+              "stripeProductId": "prod_VUij1UYEUVkbkh",
+              "stripePriceId": "price_1UTjHxLOfCA5mATuwZxLhUTa",
+              "stripeLinkId": "plink_1UTjHxLOfCA5mATuZa7Qud5f",
+              "stripePrix": 331.01,
+              "stripeMode": "live",
+              "stripeNom": "Sphère en Lapis lazuli",
+              "stripeDesc": "",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

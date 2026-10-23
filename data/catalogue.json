@@ -5733,7 +5733,17 @@
               "description": "Cette boule d'obsidienne à l'aspect mystérieux et profond incarne une énergie puissante et protectrice. Traditionnellement utilisée en lithothérapie, elle est réputée pour aider à équilibrer les émotions, favoriser la clarté mentale et renforcer la connexion spirituelle. Son regard céleste en son centre en fait un objet fascinant pour méditer ou décorer un espace de bien-être.",
               "photo": "images/articles/obsidienne-sphere-oeil-celeste-mvkt0kjzlbsq.jpg",
               "prixBoutique": 210,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY00k73Y3Nr4wo6hz2a50o",
+              "stripeProductId": "prod_VUefGBLzjnz7Yx",
+              "stripePriceId": "price_1UTfM9LOfCA5mATuzlCxDm2H",
+              "stripeLinkId": "plink_1UTfMALOfCA5mATuPM01c8Ip",
+              "stripePrix": 217.32,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne Sphère oeil céleste",
+              "stripeDesc": "Cette boule d'obsidienne à l'aspect mystérieux et profond incarne une énergie puissante et protectrice. Traditionnellement utilisée en lithothérapie, elle est réputée pour aider à équilibrer les émotions, favoriser la clarté mentale et renforcer la connexion spirituelle. Son regard céleste en son centre en fait un objet fascinant pour méditer ou décorer un espace de bien-être.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

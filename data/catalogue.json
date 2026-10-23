@@ -6027,7 +6027,17 @@
               "description": "Cette sphère en Lapis lazuli est une pièce fascinante qui capte immédiatement l'attention grâce à ses reflets profonds et mystérieux. Le Lapis lazuli est souvent associé à la sagesse, à la protection et à l'ouverture du cœur, aidant à apaiser les émotions et à favoriser la clarté mentale. Utilisée en lithothérapie, cette pierre précieuse est idéale pour créer un espace harmonieux et équilibré, tout en stimulant la confiance en soi et la communication.",
               "photo": "images/articles/sphere-en-lapis-lazuli-mvl23nqgnqji.jpg",
               "prixBoutique": 180,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM7sMfAu5Vz6EwfS92a50u",
+              "stripeProductId": "prod_VUil4VL535xjFC",
+              "stripePriceId": "price_1UTjKHLOfCA5mATuAt28H4j5",
+              "stripeLinkId": "plink_1UTjKHLOfCA5mATurK1gP8N7",
+              "stripePrix": 186.31,
+              "stripeMode": "live",
+              "stripeNom": "Sphère en Lapis lazuli",
+              "stripeDesc": "Cette sphère en Lapis lazuli est une pièce fascinante qui capte immédiatement l'attention grâce à ses reflets profonds et mystérieux. Le Lapis lazuli est souvent associé à la sagesse, à la protection et à l'ouverture du cœur, aidant à apaiser les émotions et à favoriser la clarté mentale. Utilisée en lithothérapie, cette pierre précieuse est idéale pour créer un espace harmonieux et équilibré, tout en stimulant la confiance en soi et la communication.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -29722,15 +29732,15 @@
               "photo": "images/articles/support-en-bois-mvjrfrpxibfj.jpg",
               "prixBoutique": 15.5,
               "stock": 4,
-              "stripe": "https://buy.stripe.com/5kQfZi4VQgAdfb2axP2a50n",
+              "stripe": "https://buy.stripe.com/28EfZi3RM3Nr2ogfS92a50v",
               "stripeProductId": "prod_VUNhgUo6hrjW43",
               "stripePriceId": "price_1UTOwBLOfCA5mATuio3LymDn",
-              "stripeLinkId": "plink_1UTfKhLOfCA5mATuU3H1NvWi",
+              "stripeLinkId": "plink_1UTjKILOfCA5mATu7VWveXOb",
               "stripePrix": 16.28,
               "stripeMode": "live",
               "stripeNom": "Support en bois",
               "stripeDesc": "Ce support en bois sculpté en forme d'étoile apporte une touche décorative et apaisante à votre intérieur. Selon les croyances en lithothérapie et en énergie positive, il est souvent utilisé pour favoriser l’équilibre émotionnel et attirer la chance. Son design unique en fait un objet idéal pour harmoniser les espaces tout en stimulant la créativité.",
-              "stripeStock": 3,
+              "stripeStock": 4,
               "epuise": false
             },
             {

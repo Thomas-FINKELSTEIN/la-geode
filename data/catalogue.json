@@ -6000,6 +6000,15 @@
               "stripeDesc": "Ce galet de Lapis lazuli, pierre aux reflets bleutés profonds et scintillants, est une véritable pierre de sagesse et de protection. Utilisée depuis l'Antiquité, elle est réputée pour favoriser la communication, la clarté mentale et l'expression des émotions tout en apaisant l'esprit. Idéale pour méditer ou à porter en bijou, elle attire aussi la chance et renforce la confiance en soi.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "sphere-en-lapis-lazuli-mvl20jncczfx",
+              "nom": "Sphère en Lapis lazuli",
+              "prix": 331.01,
+              "description": "",
+              "photo": "images/articles/sphere-en-lapis-lazuli-mvl20jnc6kqr.jpg",
+              "prixBoutique": 320,
+              "stock": 1
             }
           ]
         },

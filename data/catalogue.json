@@ -6018,7 +6018,17 @@
               "description": "Cette sphère en obsidienne mexicaine est une pierre aux énergies puissantes et protectrices. Utilisée en lithothérapie pour apaiser les émotions et favoriser la stabilité intérieure, elle aide à libérer les blocages et à renforcer la confiance en soi. Parfaite pour une méditation profonde ou comme élément décoratif aux vibrations apaisantes.",
               "photo": "images/articles/sphere-obsidienne-mexique-mvl86ayrcb8u.jpg",
               "prixBoutique": 45,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14AaEY9c62Jn2og35n2a50S",
+              "stripeProductId": "prod_VUlV6bSkuFfT0E",
+              "stripePriceId": "price_1UTlyrLOfCA5mATuT5bp8kT9",
+              "stripeLinkId": "plink_1UTlyrLOfCA5mATuh281ca6K",
+              "stripePrix": 46.78,
+              "stripeMode": "live",
+              "stripeNom": "Sphère Obsidienne Mexique",
+              "stripeDesc": "Cette sphère en obsidienne mexicaine est une pierre aux énergies puissantes et protectrices. Utilisée en lithothérapie pour apaiser les émotions et favoriser la stabilité intérieure, elle aide à libérer les blocages et à renforcer la confiance en soi. Parfaite pour une méditation profonde ou comme élément décoratif aux vibrations apaisantes.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

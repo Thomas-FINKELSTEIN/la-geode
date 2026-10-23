@@ -5806,7 +5806,17 @@
               "description": "La sodalite sous forme de boule est une pierre aux reflets bleutés profonds et apaisants, idéale pour équilibrer les émotions et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi et apaiser les tensions intérieures. Son énergie douce et stable en fait un allié précieux pour méditer ou décorer un espace de bien-être.",
               "photo": "images/articles/sodalite-boule-mvknkp8ghf8u.jpg",
               "prixBoutique": 15,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZufZi9c64Rv6EwcFX2a508",
+              "stripeProductId": "prod_VUcGT6mMerwhWp",
+              "stripePriceId": "price_1UTd1hLOfCA5mATugzOmDdcO",
+              "stripeLinkId": "plink_1UTd1iLOfCA5mATuzWbCZrSi",
+              "stripePrix": 15.77,
+              "stripeMode": "live",
+              "stripeNom": "Sodalite Boule",
+              "stripeDesc": "La sodalite sous forme de boule est une pierre aux reflets bleutés profonds et apaisants, idéale pour équilibrer les émotions et favoriser la clarté mentale. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi et apaiser les tensions intérieures. Son énergie douce et stable en fait un allié précieux pour méditer ou décorer un espace de bien-être.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "sodalite-en-sphere-5-cm-diametre-mvknojc1mlpd",
@@ -5815,7 +5825,17 @@
               "description": "La sodalite est une pierre aux reflets bleutés et aux éclats dorés, souvent associée à la sagesse et à la clarté mentale. En lithothérapie, elle est réputée pour favoriser la communication, apaiser les tensions émotionnelles et renforcer la confiance en soi. Idéale pour équilibrer les énergies et encourager une réflexion profonde, elle est appréciée pour son influence positive sur le bien-être intérieur.",
               "photo": "images/articles/sodalite-en-sphere-5-cm-diametre-mvknojc1zblz.jpg",
               "prixBoutique": 34,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm4gA9c6bfTd2UbBT2a509",
+              "stripeProductId": "prod_VUcG89Vf4nktdb",
+              "stripePriceId": "price_1UTd1iLOfCA5mATuxZE7KiSj",
+              "stripeLinkId": "plink_1UTd1iLOfCA5mATuan8kf88t",
+              "stripePrix": 35.41,
+              "stripeMode": "live",
+              "stripeNom": "Sodalite en sphère 5 cm diamètre",
+              "stripeDesc": "La sodalite est une pierre aux reflets bleutés et aux éclats dorés, souvent associée à la sagesse et à la clarté mentale. En lithothérapie, elle est réputée pour favoriser la communication, apaiser les tensions émotionnelles et renforcer la confiance en soi. Idéale pour équilibrer les énergies et encourager une réflexion profonde, elle est appréciée pour son influence positive sur le bien-être intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

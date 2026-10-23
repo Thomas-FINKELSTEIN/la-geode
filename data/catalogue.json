@@ -6124,7 +6124,17 @@
               "description": "Cette pointe de Cristal de roche de 20 cm est une pièce naturelle aux reflets lumineux et aux propriétés énergétiques puissantes. En lithothérapie, elle est souvent utilisée pour amplifier les intentions, purifier l’énergie environnante et favoriser la clarté mentale. Son éclat cristallin en fait aussi un élément décoratif élégant pour sublimer un intérieur ou une collection minérale.",
               "photo": "images/articles/pointe-de-cristal-de-roche-20-cm-mvl07bs2vig0.jpg",
               "prixBoutique": 65,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w14o2NIabP5AsgWd2a50r",
+              "stripeProductId": "prod_VUhupqXxE8RmaU",
+              "stripePriceId": "price_1UTiUtLOfCA5mATumSpSPtf3",
+              "stripeLinkId": "plink_1UTiUuLOfCA5mATunYXcfEVJ",
+              "stripePrix": 67.45,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de Cristal de roche 20 cm",
+              "stripeDesc": "Cette pointe de Cristal de roche de 20 cm est une pièce naturelle aux reflets lumineux et aux propriétés énergétiques puissantes. En lithothérapie, elle est souvent utilisée pour amplifier les intentions, purifier l’énergie environnante et favoriser la clarté mentale. Son éclat cristallin en fait aussi un élément décoratif élégant pour sublimer un intérieur ou une collection minérale.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

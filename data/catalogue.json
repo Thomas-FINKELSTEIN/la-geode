@@ -5611,6 +5611,15 @@
               "stripeDesc": "L'Obsidienne du Mexique est une pierre volcanique aux reflets profonds et mystérieux, souvent utilisée pour ses propriétés de protection et de purification énergétique. En lithothérapie, elle est réputée pour aider à libérer les blocages émotionnels et à renforcer la confiance en soi. Son énergie puissante en fait un allié précieux pour ceux qui cherchent à retrouver un équilibre intérieur et une connexion avec leurs émotions.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "obsidienne-celeste-oeil-mvkrwz4y2sjz",
+              "nom": "Obsidienne céleste oeil",
+              "prix": 40.57,
+              "description": "L'Obsidienne oeil céleste est une pierre aux reflets profonds et mystérieux, souvent utilisée pour son énergie protectrice et apaisante. Selon la lithothérapie, elle favorise la connexion avec son intuition et aide à libérer les blocages émotionnels. Idéale pour méditer ou porter en bijou, elle est aussi appréciée pour son pouvoir de purification énergétique.",
+              "photo": "images/articles/obsidienne-celeste-oeil-mvkrwz4yc2of.jpg",
+              "prixBoutique": 39,
+              "stock": 1
             }
           ]
         },

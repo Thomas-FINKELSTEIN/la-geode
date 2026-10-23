@@ -6046,7 +6046,17 @@
               "description": "Le Lapis lazuli est une pierre précieuse aux reflets bleutés profond et mystérieux, parsemée de paillettes dorées. Symbole de sagesse et de protection, elle est souvent utilisée en lithothérapie pour favoriser la communication, la clarté mentale et l'équilibre émotionnel. Idéale pour apaiser l'esprit et stimuler la confiance en soi, cette pierre est aussi très prisée pour ses propriétés méditatives et son énergie apaisante.",
               "photo": "images/articles/lapis-lazuli-10-cm-longueur-mvl2b9tsx8ev.jpg",
               "prixBoutique": 99.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14AaEYbke1Fj5As8pH2a50x",
+              "stripeProductId": "prod_VUirVyQBpQfkkC",
+              "stripePriceId": "price_1UTjQ6LOfCA5mATumDeNCOKe",
+              "stripeLinkId": "plink_1UTjQ6LOfCA5mATuJgfwrCg7",
+              "stripePrix": 103.52,
+              "stripeMode": "live",
+              "stripeNom": "Lapis lazuli 10 cm longueur",
+              "stripeDesc": "Le Lapis lazuli est une pierre précieuse aux reflets bleutés profond et mystérieux, parsemée de paillettes dorées. Symbole de sagesse et de protection, elle est souvent utilisée en lithothérapie pour favoriser la communication, la clarté mentale et l'équilibre émotionnel. Idéale pour apaiser l'esprit et stimuler la confiance en soi, cette pierre est aussi très prisée pour ses propriétés méditatives et son énergie apaisante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

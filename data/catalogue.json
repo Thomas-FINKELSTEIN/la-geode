@@ -5972,6 +5972,15 @@
               "stripeDesc": "Ce galet d'obsidienne aux reflets mystérieux et profonds, nommé oeil céleste, est une pierre fascinante aux propriétés énergétiques puissantes. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la protection spirituelle et renforcer la connexion à son intuition. Idéale pour méditer ou porter sur soi, elle aide à libérer les tensions et à retrouver un équilibre intérieur.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "sphere-obsidienne-mvl7yacjjyiq",
+              "nom": "Sphère Obsidienne",
+              "prix": 48.84,
+              "description": "La sphère Obsidienne est une pierre de protection et de purification aux énergies puissantes. Utilisée en lithothérapie pour apaiser les émotions et libérer les blocages, elle aide à retrouver un équilibre intérieur. Son aspect sombre et mystérieux en fait un allié idéal pour les espaces de méditation ou de détente.",
+              "photo": "images/articles/sphere-obsidienne-mvl7yacjzd42.jpg",
+              "prixBoutique": 47,
+              "stock": 1
             }
           ]
         },

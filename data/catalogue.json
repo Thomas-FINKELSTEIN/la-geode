@@ -5999,7 +5999,17 @@
               "description": "Cette sphère en obsidienne aux reflets profonds et mystérieux est une pièce unique pour équilibrer les énergies. L'oeil céleste gravé au centre symbolise la protection et l'ouverture spirituelle, aidant à clarifier les pensées et à apaiser les émotions. Idéale pour les espaces de méditation ou comme objet de bien-être, elle attire la sérénité et renforce la connexion à l'intuition.",
               "photo": "images/articles/sphere-obsidienne-oeil-celeste-mvl8069fk45t.jpg",
               "prixBoutique": 37,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe6oIcoi0Bf3sk8pH2a50R",
+              "stripeProductId": "prod_VUlRjsnKxkXozT",
+              "stripePriceId": "price_1UTluDLOfCA5mATun9bxj1tD",
+              "stripeLinkId": "plink_1UTluDLOfCA5mATuBRZux976",
+              "stripePrix": 38.51,
+              "stripeMode": "live",
+              "stripeNom": "Sphère Obsidienne oeil céleste",
+              "stripeDesc": "Cette sphère en obsidienne aux reflets profonds et mystérieux est une pièce unique pour équilibrer les énergies. L'oeil céleste gravé au centre symbolise la protection et l'ouverture spirituelle, aidant à clarifier les pensées et à apaiser les émotions. Idéale pour les espaces de méditation ou comme objet de bien-être, elle attire la sérénité et renforce la connexion à l'intuition.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

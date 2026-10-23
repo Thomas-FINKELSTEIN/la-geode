@@ -5714,7 +5714,17 @@
               "description": "Cette boule d'obsidienne oeil céleste est une pièce fascinante aux reflets profonds et mystérieux. En lithothérapie, elle est souvent utilisée pour apaiser les émotions et favoriser la connexion avec son intuition. Son énergie protectrice et équilibrante en fait un allié précieux pour méditer ou décorer un espace de bien-être.",
               "photo": "images/articles/obsidienne-celeste-oeil-mvksulu74flv.jpg",
               "prixBoutique": 336,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28EbJ2dsmdo1e6Y21j2a50m",
+              "stripeProductId": "prod_VUeavXafLuldn4",
+              "stripePriceId": "price_1UTfHgLOfCA5mATuLv9Ab5eh",
+              "stripeLinkId": "plink_1UTfHgLOfCA5mATuraq1XM7Z",
+              "stripePrix": 347.55,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne céleste oeil",
+              "stripeDesc": "Cette boule d'obsidienne oeil céleste est une pièce fascinante aux reflets profonds et mystérieux. En lithothérapie, elle est souvent utilisée pour apaiser les émotions et favoriser la connexion avec son intuition. Son énergie protectrice et équilibrante en fait un allié précieux pour méditer ou décorer un espace de bien-être.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

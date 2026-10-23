@@ -6124,7 +6124,17 @@
               "description": "Ce cristal de roche en forme de pyramide est une pièce pure et énergétique, idéale pour équilibrer les espaces. Selon la lithothérapie, il amplifie les vibrations positives et favorise la clarté mentale et la concentration. Parfait pour décorer tout en apportant une touche de bien-être à votre intérieur.",
               "photo": "images/articles/cristal-de-roche-triangulaire10x10-pyram-mvl1yks98p03.jpg",
               "prixBoutique": 450,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x27sM4VQ1Fj3skcFX2a50s",
+              "stripeProductId": "prod_VUiiDP3Uyr5UGb",
+              "stripePriceId": "price_1UTjGaLOfCA5mATuYpXoculu",
+              "stripeLinkId": "plink_1UTjGbLOfCA5mATuQRIFs8OH",
+              "stripePrix": 465.38,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche triangulaire10x10 Pyramide",
+              "stripeDesc": "Ce cristal de roche en forme de pyramide est une pièce pure et énergétique, idéale pour équilibrer les espaces. Selon la lithothérapie, il amplifie les vibrations positives et favorise la clarté mentale et la concentration. Parfait pour décorer tout en apportant une touche de bien-être à votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

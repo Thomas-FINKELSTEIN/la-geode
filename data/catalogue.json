@@ -6047,6 +6047,22 @@
               "epuise": false
             }
           ]
+        },
+        {
+          "id": "tourmaline-noire-mvkspyz3jgg9",
+          "nom": "Tourmaline noire",
+          "slogan": "",
+          "articles": [
+            {
+              "id": "tourmaline-noire-sphere-mvksrcg17y9a",
+              "nom": "Tourmaline noire Sphère",
+              "prix": 72.51,
+              "description": "La tourmaline noire est une pierre puissante et protectrice, idéale pour absorber les énergies négatives et renforcer votre champ d'énergie personnel. Utilisée en lithothérapie pour apaiser les émotions et favoriser un sentiment de sécurité, elle est souvent appelée la pierre des ancrages. Parfaite pour une méditation profonde ou comme élément décoratif dans un espace de bien-être, elle apporte calme et équilibre au quotidien.",
+              "photo": "images/articles/tourmaline-noire-sphere-mvksrcg1eye6.jpg",
+              "prixBoutique": 69.9,
+              "stock": 1
+            }
+          ]
         }
       ]
     },

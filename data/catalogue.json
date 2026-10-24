@@ -6075,7 +6075,17 @@
               "description": "Cette statuette en obsidienne oeil céleste tortue incarne une énergie puissante et protectrice, souvent utilisée pour renforcer la connexion avec la Terre et favoriser l'équilibre émotionnel. En lithothérapie, elle est réputée pour aider à libérer les blocages énergétiques et à apaiser les peurs profondes. Un objet décoratif et spirituel idéal pour méditer ou garder près de soi au quotidien.",
               "photo": "images/articles/obsidienne-celeste-tortue-oeil-mvmfw8u3g2gh.jpg",
               "prixBoutique": 95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe5kEcoi1Fj5As5dv2a50Z",
+              "stripeProductId": "prod_VV5FDqZCxD1SfO",
+              "stripePriceId": "price_1UU55DLOfCA5mATuwfLK04FD",
+              "stripeLinkId": "plink_1UU55ELOfCA5mATuO8Vbiz0b",
+              "stripePrix": 98.45,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne céleste tortue oeil",
+              "stripeDesc": "Cette statuette en obsidienne oeil céleste tortue incarne une énergie puissante et protectrice, souvent utilisée pour renforcer la connexion avec la Terre et favoriser l'équilibre émotionnel. En lithothérapie, elle est réputée pour aider à libérer les blocages énergétiques et à apaiser les peurs profondes. Un objet décoratif et spirituel idéal pour méditer ou garder près de soi au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

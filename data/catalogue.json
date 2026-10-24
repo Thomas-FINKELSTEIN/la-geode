@@ -30187,7 +30187,17 @@
               "description": "Ce support élégant en métal noir est idéal pour exposer et sublimer vos cristaux ou pierres naturelles. Son design sobre et intemporel permet de mettre en valeur les énergies des minéraux tout en apportant une touche moderne à votre espace. Parfait pour les collectionneurs ou les amateurs de lithothérapie, il facilite aussi la méditation et la connexion avec les propriétés apaisantes ou dynamisantes des pierres posées dessus.",
               "photo": "images/articles/support-metal-noir-mvm2gil4x9ut.jpg",
               "prixBoutique": 4,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2cN69c63Nr6EwfS92a50U",
+              "stripeProductId": "prod_VUzB7nqQOz62h6",
+              "stripePriceId": "price_1UTzDFLOfCA5mATuQCdo6elv",
+              "stripeLinkId": "plink_1UTzDFLOfCA5mATueun67t9m",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Support métal noir",
+              "stripeDesc": "Ce support élégant en métal noir est idéal pour exposer et sublimer vos cristaux ou pierres naturelles. Son design sobre et intemporel permet de mettre en valeur les énergies des minéraux tout en apportant une touche moderne à votre espace. Parfait pour les collectionneurs ou les amateurs de lithothérapie, il facilite aussi la méditation et la connexion avec les propriétés apaisantes ou dynamisantes des pierres posées dessus.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

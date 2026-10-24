@@ -29638,7 +29638,17 @@
               "description": "Cette belle statuette de sainte Thérèse incarne douceur et sérénité, souvent associée à la protection et à la guidance spirituelle. Dans un cadre décoratif ou spirituel, elle apporte une touche de calme et de réconfort à votre intérieur. Idéale pour les amateurs de symboles religieux ou de décoration inspirante, elle peut aussi servir d'objet de méditation ou de dévotion.",
               "photo": "images/articles/statue-de-sainte-therese-mvmm7yqteyez.jpg",
               "prixBoutique": 23.85,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNieVe882do16Ew35n2a51b",
+              "stripeProductId": "prod_VV86FEUgRyvFD0",
+              "stripePriceId": "price_1UU7qeLOfCA5mATun2fXH8iO",
+              "stripeLinkId": "plink_1UU7qeLOfCA5mATu0NMPjZhg",
+              "stripePrix": 24.91,
+              "stripeMode": "live",
+              "stripeNom": "Statue de sainte thérèse",
+              "stripeDesc": "Cette belle statuette de sainte Thérèse incarne douceur et sérénité, souvent associée à la protection et à la guidance spirituelle. Dans un cadre décoratif ou spirituel, elle apporte une touche de calme et de réconfort à votre intérieur. Idéale pour les amateurs de symboles religieux ou de décoration inspirante, elle peut aussi servir d'objet de méditation ou de dévotion.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

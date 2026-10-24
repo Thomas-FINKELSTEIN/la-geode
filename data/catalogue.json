@@ -6141,7 +6141,17 @@
               "description": "Cette sphère en obsidienne aux reflets profonds et mystérieux capture l'énergie apaisante et protectrice de cette pierre volcanique. Traditionnellement utilisée en lithothérapie pour équilibrer les émotions et renforcer la connexion à son intuition, elle est idéale pour créer un espace harmonieux. Son aspect unique en fait un objet décoratif tout en invitant à la méditation et à la sérénité au quotidien.",
               "photo": "images/articles/sphere-obsidienne-oeil-celeste-mvml9irzm1ge.jpg",
               "prixBoutique": 118,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x23cw5ZUfw9e6Y5dv2a514",
+              "stripeProductId": "prod_VV7gr4AazQLO3k",
+              "stripePriceId": "price_1UU7QhLOfCA5mATu2HyrnDN3",
+              "stripeLinkId": "plink_1UU7QiLOfCA5mATuKVfI8emF",
+              "stripePrix": 122.23,
+              "stripeMode": "live",
+              "stripeNom": "Sphère obsidienne oeil céleste",
+              "stripeDesc": "Cette sphère en obsidienne aux reflets profonds et mystérieux capture l'énergie apaisante et protectrice de cette pierre volcanique. Traditionnellement utilisée en lithothérapie pour équilibrer les émotions et renforcer la connexion à son intuition, elle est idéale pour créer un espace harmonieux. Son aspect unique en fait un objet décoratif tout en invitant à la méditation et à la sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

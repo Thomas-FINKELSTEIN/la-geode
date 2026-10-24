@@ -5365,7 +5365,17 @@
               "description": "L'obsidienne est une pierre volcanique aux reflets profonds et mystérieux, souvent utilisée pour ses propriétés protectrices et équilibrantes. En lithothérapie, elle aide à libérer les blocages émotionnels et favorise une connexion profonde avec son intuition. Parfaite pour apaiser l'esprit et renforcer la confiance en soi, elle est idéale pour une utilisation quotidienne en méditation ou en accessoire décoratif.",
               "photo": "images/articles/obsidienne-2-cm-env-oeil-celeste-mvmf0d1hqnjz.jpg",
               "prixBoutique": 3,
-              "stock": 16
+              "stock": 16,
+              "stripe": "https://buy.stripe.com/00w5kEcoi3NrbYQ8pH2a50X",
+              "stripeProductId": "prod_VV4vlWZVchovZP",
+              "stripePriceId": "price_1UU4m7LOfCA5mATuAtARNDGU",
+              "stripeLinkId": "plink_1UU4m7LOfCA5mATuT8y2lQCA",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne 2 cm env oeil céleste",
+              "stripeDesc": "L'obsidienne est une pierre volcanique aux reflets profonds et mystérieux, souvent utilisée pour ses propriétés protectrices et équilibrantes. En lithothérapie, elle aide à libérer les blocages émotionnels et favorise une connexion profonde avec son intuition. Parfaite pour apaiser l'esprit et renforcer la confiance en soi, elle est idéale pour une utilisation quotidienne en méditation ou en accessoire décoratif.",
+              "stripeStock": 16,
+              "epuise": false
             }
           ]
         },

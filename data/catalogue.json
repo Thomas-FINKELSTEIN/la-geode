@@ -6160,7 +6160,17 @@
               "description": "Cette sphère en obsidienne oeil céleste est une pièce fascinante alliant beauté et énergie puissante. L'obsidienne, pierre de protection et de transformation, est souvent utilisée pour absorber les énergies négatives et renforcer la confiance en soi. Parfaite pour méditer ou décorer un espace sacré, elle apporte une touche mystique et apaisante à votre quotidien.",
               "photo": "images/articles/sphere-obsidienne-oeil-celeste-mvmlbvg7w0d4.jpg",
               "prixBoutique": 195,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQeVeaga83H2ogfS92a515",
+              "stripeProductId": "prod_VV7jUST2LBgjmp",
+              "stripePriceId": "price_1UU7TdLOfCA5mATuh5fdg2JH",
+              "stripeLinkId": "plink_1UU7TdLOfCA5mATuEppvdI2b",
+              "stripePrix": 201.81,
+              "stripeMode": "live",
+              "stripeNom": "Sphère obsidienne oeil céleste",
+              "stripeDesc": "Cette sphère en obsidienne oeil céleste est une pièce fascinante alliant beauté et énergie puissante. L'obsidienne, pierre de protection et de transformation, est souvent utilisée pour absorber les énergies négatives et renforcer la confiance en soi. Parfaite pour méditer ou décorer un espace sacré, elle apporte une touche mystique et apaisante à votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "coeur-obsidienne-oeil-celeste-mvmlddwuspna",
@@ -6169,7 +6179,17 @@
               "description": "Ce coeur en obsidienne aux reflets bleutés, appelé oeil céleste, est une pierre aux énergies apaisantes et protectrices. Traditionnellement utilisée en lithothérapie pour favoriser la sérénité et équilibrer les émotions, elle aide à apaiser les peurs et les angoisses. Parfaite pour une méditation ou une décoration spirituelle, elle attire aussi la douceur et la connexion à l’intuition.",
               "photo": "images/articles/coeur-obsidienne-oeil-celeste-mvmlddwua43u.jpg",
               "prixBoutique": 97.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B63cw2NI6ZD9QIgWd2a516",
+              "stripeProductId": "prod_VV7jDrPASEyC5A",
+              "stripePriceId": "price_1UU7TdLOfCA5mATuRnzLV7X0",
+              "stripeLinkId": "plink_1UU7TeLOfCA5mATumq6Tnk9E",
+              "stripePrix": 101.5,
+              "stripeMode": "live",
+              "stripeNom": "Coeur obsidienne oeil céleste",
+              "stripeDesc": "Ce coeur en obsidienne aux reflets bleutés, appelé oeil céleste, est une pierre aux énergies apaisantes et protectrices. Traditionnellement utilisée en lithothérapie pour favoriser la sérénité et équilibrer les émotions, elle aide à apaiser les peurs et les angoisses. Parfaite pour une méditation ou une décoration spirituelle, elle attire aussi la douceur et la connexion à l’intuition.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -6255,7 +6255,17 @@
               "description": "Cette sphère en obsidienne oeil céleste est une pièce fascinante aux reflets profonds et mystérieux. L'obsidienne est souvent utilisée en lithothérapie pour son pouvoir de protection et de purification énergétique, aidant à dissoudre les blocages émotionnels et à renforcer la confiance en soi. Son aspect unique et ses jeux de lumière en font un objet décoratif tout en offrant une énergie apaisante et équilibrante au quotidien.",
               "photo": "images/articles/sphere-obsidienne-oeil-celeste-mvmljuvy5qji.jpg",
               "prixBoutique": 217.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa7sM88283HbYQaxP2a51a",
+              "stripeProductId": "prod_VV7oyYy7HSxaex",
+              "stripePriceId": "price_1UU7YULOfCA5mATufTJFu9mZ",
+              "stripeLinkId": "plink_1UU7YULOfCA5mATu18jf1MFa",
+              "stripePrix": 225.07,
+              "stripeMode": "live",
+              "stripeNom": "Sphère obsidienne oeil céleste",
+              "stripeDesc": "Cette sphère en obsidienne oeil céleste est une pièce fascinante aux reflets profonds et mystérieux. L'obsidienne est souvent utilisée en lithothérapie pour son pouvoir de protection et de purification énergétique, aidant à dissoudre les blocages émotionnels et à renforcer la confiance en soi. Son aspect unique et ses jeux de lumière en font un objet décoratif tout en offrant une énergie apaisante et équilibrante au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -6152,6 +6152,24 @@
               "stripeDesc": "Cette sphère en obsidienne aux reflets profonds et mystérieux capture l'énergie apaisante et protectrice de cette pierre volcanique. Traditionnellement utilisée en lithothérapie pour équilibrer les émotions et renforcer la connexion à son intuition, elle est idéale pour créer un espace harmonieux. Son aspect unique en fait un objet décoratif tout en invitant à la méditation et à la sérénité au quotidien.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "sphere-obsidienne-oeil-celeste-mvmlbvg7m79r",
+              "nom": "Sphère obsidienne oeil céleste",
+              "prix": 201.81,
+              "description": "Cette sphère en obsidienne oeil céleste est une pièce fascinante alliant beauté et énergie puissante. L'obsidienne, pierre de protection et de transformation, est souvent utilisée pour absorber les énergies négatives et renforcer la confiance en soi. Parfaite pour méditer ou décorer un espace sacré, elle apporte une touche mystique et apaisante à votre quotidien.",
+              "photo": "images/articles/sphere-obsidienne-oeil-celeste-mvmlbvg7w0d4.jpg",
+              "prixBoutique": 195,
+              "stock": 1
+            },
+            {
+              "id": "coeur-obsidienne-oeil-celeste-mvmlddwuspna",
+              "nom": "Coeur obsidienne oeil céleste",
+              "prix": 101.5,
+              "description": "Ce coeur en obsidienne aux reflets bleutés, appelé oeil céleste, est une pierre aux énergies apaisantes et protectrices. Traditionnellement utilisée en lithothérapie pour favoriser la sérénité et équilibrer les émotions, elle aide à apaiser les peurs et les angoisses. Parfaite pour une méditation ou une décoration spirituelle, elle attire aussi la douceur et la connexion à l’intuition.",
+              "photo": "images/articles/coeur-obsidienne-oeil-celeste-mvmlddwua43u.jpg",
+              "prixBoutique": 97.95,
+              "stock": 1
             }
           ]
         },

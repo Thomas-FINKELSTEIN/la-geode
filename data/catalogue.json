@@ -5357,6 +5357,15 @@
               "stripeDesc": "L'obsidienne brute est une pierre volcanique aux reflets sombres et profonds, souvent utilisée pour ses propriétés protectrices et équilibrantes. En lithothérapie, elle aide à libérer les blocages émotionnels et à renforcer la confiance en soi. Son énergie puissante en fait un allié précieux pour les rituels de protection et de purification.",
               "stripeStock": 20,
               "epuise": false
+            },
+            {
+              "id": "obsidienne-2-cm-env-oeil-celeste-mvmf0d1hd747",
+              "nom": "Obsidienne 2 cm env oeil céleste",
+              "prix": 3.36,
+              "description": "L'obsidienne est une pierre volcanique aux reflets profonds et mystérieux, souvent utilisée pour ses propriétés protectrices et équilibrantes. En lithothérapie, elle aide à libérer les blocages émotionnels et favorise une connexion profonde avec son intuition. Parfaite pour apaiser l'esprit et renforcer la confiance en soi, elle est idéale pour une utilisation quotidienne en méditation ou en accessoire décoratif.",
+              "photo": "images/articles/obsidienne-2-cm-env-oeil-celeste-mvmf0d1hqnjz.jpg",
+              "prixBoutique": 3,
+              "stock": 16
             }
           ]
         },
@@ -25916,25 +25925,6 @@
               "stripePrix": 17.83,
               "stripeLinkId": "plink_1UJrOgLOfCA5mATubv4B3U8m",
               "stripe": "https://buy.stripe.com/dRmaEYdsmcjXe6Y49r28k1w",
-              "stripeStock": 1,
-              "epuise": false
-            },
-            {
-              "id": "labradorite-taille-9-cm-mui47bf2ab7u",
-              "nom": "Labradorite taille 9 cm",
-              "prix": 27.65,
-              "description": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives. Idéale pour les personnes en quête de spiritualité ou de connexion à leur intuition, elle est aussi très prisée en décoration pour son éclat unique.",
-              "photo": "images/articles/labradorite-taille-9-cm-mui47bf2lco7.jpg",
-              "prixBoutique": 26.5,
-              "stock": 1,
-              "stripeProductId": "prod_VKWRoAmb3X8Xwv",
-              "stripeMode": "live",
-              "stripeNom": "Labradorite taille 9 cm",
-              "stripeDesc": "La labradorite est une pierre aux reflets magiques et changeants, souvent appelée pierre de feu. Elle est réputée pour renforcer la confiance en soi et protéger contre les énergies négatives. Idéale pour les personnes en quête de spiritualité ou de connexion à leur intuition, elle est aussi très prisée en décoration pour son éclat unique.",
-              "stripePriceId": "price_1UJrOgLOfCA5mATu54XIu3ng",
-              "stripePrix": 27.65,
-              "stripeLinkId": "plink_1UJrOgLOfCA5mATuMPjWqTAT",
-              "stripe": "https://buy.stripe.com/28E9AU5ZUbfT6EwdK128k1x",
               "stripeStock": 1,
               "epuise": false
             },

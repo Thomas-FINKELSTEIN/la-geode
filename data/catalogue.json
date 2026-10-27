@@ -30457,7 +30457,17 @@
               "description": "Ces charmantes statuettes en bois de chine représentent des figures joyeuses inspirées des Laughing Buddhas, symboles de bonheur et de sérénité. Selon la lithothérapie et les croyances traditionnelles, elles attirent une énergie positive et aident à apaiser les tensions du quotidien. Parfaites pour décorer un espace de méditation ou un coin bien-être, elles diffusent une ambiance de calme et de légèreté.",
               "photo": "images/articles/statuette-bouddha-bois-de-chine-mvqrp80sg43y.jpg",
               "prixBoutique": 2.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/6oU4gAagacjX0g8cFX2a51Z",
+              "stripeProductId": "prod_VWDbsD6cp1Yi7V",
+              "stripePriceId": "price_1UVBA6LOfCA5mATu41n2Sliz",
+              "stripeLinkId": "plink_1UVBA6LOfCA5mATuRuQZpmf2",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Statuette bouddha bois de chine",
+              "stripeDesc": "Ces charmantes statuettes en bois de chine représentent des figures joyeuses inspirées des Laughing Buddhas, symboles de bonheur et de sérénité. Selon la lithothérapie et les croyances traditionnelles, elles attirent une énergie positive et aident à apaiser les tensions du quotidien. Parfaites pour décorer un espace de méditation ou un coin bien-être, elles diffusent une ambiance de calme et de légèreté.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

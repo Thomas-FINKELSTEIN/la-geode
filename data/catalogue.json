@@ -30609,7 +30609,17 @@
               "description": "Cette statuette bouddha dorée incarne sérénité et harmonie, idéale pour créer un espace apaisant dans votre intérieur. Selon les croyances en lithothérapie et en symbolisme spirituel, elle favorise la concentration, la paix intérieure et l’équilibre émotionnel. Un objet décoratif et méditatif qui apporte une touche de douceur et de bien-être au quotidien.",
               "photo": "images/articles/statuette-bouddha-doree-mvqryxd5al6j.jpg",
               "prixBoutique": 2.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm3cwdsmes51kc6hz2a527",
+              "stripeProductId": "prod_VWDiDxsXBkMa0Y",
+              "stripePriceId": "price_1UVBHRLOfCA5mATujyGdyleZ",
+              "stripeLinkId": "plink_1UVBHRLOfCA5mATuXeIbZS9m",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Statuette bouddha dorée",
+              "stripeDesc": "Cette statuette bouddha dorée incarne sérénité et harmonie, idéale pour créer un espace apaisant dans votre intérieur. Selon les croyances en lithothérapie et en symbolisme spirituel, elle favorise la concentration, la paix intérieure et l’équilibre émotionnel. Un objet décoratif et méditatif qui apporte une touche de douceur et de bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

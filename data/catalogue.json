@@ -7002,7 +7002,17 @@
               "description": "Cette opale brute du Brésil, aux reflets irisés et aux teintes douces, est une pièce naturelle riche en énergie positive. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la créativité et renforcer la connexion à soi-même. Parfaite pour les amateurs de pierres brutes et d'énergies naturelles, elle peut être placée dans un espace de vie ou utilisée en méditation pour son effet harmonisant.",
               "photo": "images/articles/opale-brute-du-bresil-mvqgenenubhc.jpg",
               "prixBoutique": 6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28EeVedsm4Rv2ogaxP2a51s",
+              "stripeProductId": "prod_VW8VzLyEC4tj9Y",
+              "stripePriceId": "price_1UV6EALOfCA5mATujWh0gWTq",
+              "stripeLinkId": "plink_1UV6EBLOfCA5mATuSPLuB1qD",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Opale brute du brésil",
+              "stripeDesc": "Cette opale brute du Brésil, aux reflets irisés et aux teintes douces, est une pièce naturelle riche en énergie positive. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la créativité et renforcer la connexion à soi-même. Parfaite pour les amateurs de pierres brutes et d'énergies naturelles, elle peut être placée dans un espace de vie ou utilisée en méditation pour son effet harmonisant.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

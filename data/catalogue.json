@@ -30920,7 +30920,17 @@
               "description": "La coquille d'hormeau est une pièce naturelle aux reflets irisés et apaisants, souvent utilisée pour son énergie harmonieuse et équilibrante. En lithothérapie, elle est réputée pour favoriser la sérénité et aider à apaiser les émotions. Son aspect organique et ses couleurs douces en font un objet décoratif tout en bien-être, idéal pour une ambiance calme et positive.",
               "photo": "images/articles/coquille-d-hormeau-mvqn8nzn1pj6.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqfZigEyabP9QIfS92a51J",
+              "stripeProductId": "prod_VWBa1qeTzo7lix",
+              "stripePriceId": "price_1UV9DILOfCA5mATuTzMks8hD",
+              "stripeLinkId": "plink_1UV9DILOfCA5mATu83Eb9Jmq",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Coquille d'hormeau",
+              "stripeDesc": "La coquille d'hormeau est une pièce naturelle aux reflets irisés et apaisants, souvent utilisée pour son énergie harmonieuse et équilibrante. En lithothérapie, elle est réputée pour favoriser la sérénité et aider à apaiser les émotions. Son aspect organique et ses couleurs douces en font un objet décoratif tout en bien-être, idéal pour une ambiance calme et positive.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

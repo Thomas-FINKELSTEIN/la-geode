@@ -28993,7 +28993,17 @@
               "description": "L'encens sauge blanche est un encens pur aux notes boisées et douces, réputé pour ses vertus purificatrices et apaisantes. Utilisé depuis des siècles pour créer une atmosphère sereine et équilibrante, il est idéal pour favoriser la concentration et apaiser les émotions. Parfait pour les rituels de bien-être ou simplement pour parfumer votre intérieur avec une touche naturelle et relaxante.",
               "photo": "images/articles/sauge-blanche-encens-mvqnca244ku0.jpg",
               "prixBoutique": 2.5,
-              "stock": 12
+              "stock": 12,
+              "stripe": "https://buy.stripe.com/00wbJ21JEes56Ew7lD2a51K",
+              "stripeProductId": "prod_VWBd8QjCYQKnxx",
+              "stripePriceId": "price_1UV9G1LOfCA5mATuy1xVCQWJ",
+              "stripeLinkId": "plink_1UV9G1LOfCA5mATuFFFzrjij",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Sauge blanche encens",
+              "stripeDesc": "L'encens sauge blanche est un encens pur aux notes boisées et douces, réputé pour ses vertus purificatrices et apaisantes. Utilisé depuis des siècles pour créer une atmosphère sereine et équilibrante, il est idéal pour favoriser la concentration et apaiser les émotions. Parfait pour les rituels de bien-être ou simplement pour parfumer votre intérieur avec une touche naturelle et relaxante.",
+              "stripeStock": 12,
+              "epuise": false
             }
           ]
         }

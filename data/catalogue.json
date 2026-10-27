@@ -6861,6 +6861,24 @@
               "stripeDesc": "Cette belle Opale rose, aux reflets doux et apaisants, est une pierre précieuse aux propriétés énergétiques exceptionnelles. En lithothérapie, elle est souvent utilisée pour favoriser l’ouverture du cœur, renforcer la compassion et apaiser les émotions. Son énergie douce et réconfortante en fait un allié idéal pour retrouver sérénité et équilibre intérieur.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "opale-rose-galet-mvqfsd4j7dg8",
+              "nom": "Opale rose Galet",
+              "prix": 18.76,
+              "description": "Ce galet d'opale rose est une pierre douce et apaisante, souvent utilisée en lithothérapie pour favoriser l'ouverture du cœur et renforcer les sentiments d'amour et de compassion. Elle est réputée pour aider à apaiser les émotions et à apporter une énergie bienveillante dans les relations. Idéale pour méditer ou porter en bijou, elle est aussi appréciée pour ses propriétés harmonisantes sur l'esprit.",
+              "photo": "images/articles/opale-rose-galet-mvqfsd4jin3g.jpg",
+              "prixBoutique": 17.9,
+              "stock": 1
+            },
+            {
+              "id": "opale-rose-galet-mvqft9b69izx",
+              "nom": "Opale rose Galet",
+              "prix": 18.76,
+              "description": "Cette belle Opale rose, aux reflets doux et apaisants, est une pierre précieuse aux propriétés énergétiques exceptionnelles. En lithothérapie, elle est souvent utilisée pour favoriser l’harmonie émotionnelle, apaiser les tensions et ouvrir le cœur à l’amour et à la compassion. Idéale pour les espaces de méditation ou comme talisman personnel, elle diffuse une énergie douce et réconfortante.",
+              "photo": "images/articles/opale-rose-galet-mvqft9b673qo.jpg",
+              "prixBoutique": 17.9,
+              "stock": 1
             }
           ]
         }

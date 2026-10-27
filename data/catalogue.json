@@ -29031,7 +29031,17 @@
               "description": "Ces briquets en charbon de bois sont des éléments naturels souvent utilisés pour purifier l’énergie ambiante et favoriser un environnement apaisant. En lithothérapie, ils sont associés à la purification, à la protection et à la reconnexion avec la terre, aidant à équilibrer les émotions et à clarifier les pensées. Idéal pour les rituels de nettoyage énergétique ou simplement pour allumer un feu avec une touche de spiritualité naturelle.",
               "photo": "images/articles/charbon-de-bois-mvqoqoxlrebc.jpg",
               "prixBoutique": 3.9,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/dRm9AU5ZUabP4woeO52a51M",
+              "stripeProductId": "prod_VWCGo9nbwCDwQe",
+              "stripePriceId": "price_1UV9rvLOfCA5mATuUHrWmf4C",
+              "stripeLinkId": "plink_1UV9rvLOfCA5mATuBpws4Md1",
+              "stripePrix": 4.29,
+              "stripeMode": "live",
+              "stripeNom": "Charbon de bois",
+              "stripeDesc": "Ces briquets en charbon de bois sont des éléments naturels souvent utilisés pour purifier l’énergie ambiante et favoriser un environnement apaisant. En lithothérapie, ils sont associés à la purification, à la protection et à la reconnexion avec la terre, aidant à équilibrer les émotions et à clarifier les pensées. Idéal pour les rituels de nettoyage énergétique ou simplement pour allumer un feu avec une touche de spiritualité naturelle.",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         }

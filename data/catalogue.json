@@ -6862,7 +6862,17 @@
               "description": "Ce beau Quartz rose en forme de triangle est une pierre douce et apaisante, souvent utilisée pour favoriser l'amour, la compassion et l'harmonie émotionnelle. Idéal pour équilibrer les énergies et apaiser les tensions, il est parfait pour les espaces de méditation ou comme objet décoratif bienveillant. Ses vibrations tendres en font un allié précieux pour cultiver la sérénité au quotidien.",
               "photo": "images/articles/quartz-rose-triangle-6-cm-l-x-4-cm-h-mvqg2gs02gwv.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E14o2NIcjXd2U6hz2a51p",
+              "stripeProductId": "prod_VW8LNJZHMFdHCJ",
+              "stripePriceId": "price_1UV657LOfCA5mATuQwA9WmCT",
+              "stripeLinkId": "plink_1UV658LOfCA5mATutcU39y4x",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Quartz rose Triangle 6 cm L x 4 cm H",
+              "stripeDesc": "Ce beau Quartz rose en forme de triangle est une pierre douce et apaisante, souvent utilisée pour favoriser l'amour, la compassion et l'harmonie émotionnelle. Idéal pour équilibrer les énergies et apaiser les tensions, il est parfait pour les espaces de méditation ou comme objet décoratif bienveillant. Ses vibrations tendres en font un allié précieux pour cultiver la sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

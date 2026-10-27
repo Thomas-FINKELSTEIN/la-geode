@@ -6399,7 +6399,7 @@
         },
         {
           "id": "quartz-hematoide-fume-rutile-rose-mvjpd17bqky0",
-          "nom": "Quartz hématoide ,fumé, rutile ,rose",
+          "nom": "Quartz hématoide ,fumé, rutile",
           "slogan": "",
           "articles": [
             {
@@ -6949,6 +6949,15 @@
               "stripeDesc": "Cette sphère en Quartz rose de 4 centimètres est une pierre douce et apaisante, souvent utilisée pour favoriser l’amour et l’harmonie. Elle aide à ouvrir le cœur, à apaiser les émotions et à renforcer les relations. Idéale pour une ambiance sereine, elle peut être placée sur une table, dans un coin méditatif ou portée comme talisman pour diffuser une énergie bienveillante au quotidien.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "quartz-rose-en-forme-de-coupelle-16cm-x--mvqgqv5rte33",
+              "nom": "Quartz rose en forme de coupelle 16cm x 11 cm",
+              "prix": 102.49,
+              "description": "Cette belle coupelle en Quartz rose incarne douceur et harmonie, une pierre apaisante réputée pour ouvrir le cœur et favoriser les relations bienveillantes. Idéale pour purifier les énergies négatives et cultiver la compassion, elle est souvent utilisée en méditation ou comme objet décoratif porteur de sérénité. Son énergie douce en fait aussi un allié précieux pour apaiser les émotions et renforcer la confiance en soi.",
+              "photo": "images/articles/quartz-rose-en-forme-de-coupelle-16cm-x--mvqgqv5rh0ca.jpg",
+              "prixBoutique": 98.9,
+              "stock": 1
             }
           ]
         },

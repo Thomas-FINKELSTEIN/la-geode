@@ -5403,7 +5403,17 @@
               "description": "Le Quartz rose est une pierre douce et apaisante, souvent appelée la pierre de l'amour et de la compassion. Elle favorise l'harmonie émotionnelle, aide à ouvrir le cœur et à renforcer les liens affectifs. Idéale pour apaiser les tensions et cultiver un sentiment de paix intérieure, elle est aussi utilisée pour attirer l'abondance et la douceur dans les relations.",
               "photo": "images/articles/quartz-rose-galets-mvqgv5ko9n7w.jpg",
               "prixBoutique": 2.5,
-              "stock": 32
+              "stock": 32,
+              "stripe": "https://buy.stripe.com/6oUdRadsm5Vz0g8cFX2a51x",
+              "stripeProductId": "prod_VW8hsNboFq0YtI",
+              "stripePriceId": "price_1UV6QZLOfCA5mATuVGfbq2ya",
+              "stripeLinkId": "plink_1UV6QZLOfCA5mATuImaD27dc",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Quartz rose Galets",
+              "stripeDesc": "Le Quartz rose est une pierre douce et apaisante, souvent appelée la pierre de l'amour et de la compassion. Elle favorise l'harmonie émotionnelle, aide à ouvrir le cœur et à renforcer les liens affectifs. Idéale pour apaiser les tensions et cultiver un sentiment de paix intérieure, elle est aussi utilisée pour attirer l'abondance et la douceur dans les relations.",
+              "stripeStock": 32,
+              "epuise": false
             }
           ]
         },

@@ -6957,7 +6957,17 @@
               "description": "Cette belle coupelle en Quartz rose incarne douceur et harmonie, une pierre apaisante réputée pour ouvrir le cœur et favoriser les relations bienveillantes. Idéale pour purifier les énergies négatives et cultiver la compassion, elle est souvent utilisée en méditation ou comme objet décoratif porteur de sérénité. Son énergie douce en fait aussi un allié précieux pour apaiser les émotions et renforcer la confiance en soi.",
               "photo": "images/articles/quartz-rose-en-forme-de-coupelle-16cm-x--mvqgqv5rh0ca.jpg",
               "prixBoutique": 98.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B628s1JEabP8MEeO52a51w",
+              "stripeProductId": "prod_VW8eITHs4BpVOi",
+              "stripePriceId": "price_1UV6NRLOfCA5mATu84Xhf3di",
+              "stripeLinkId": "plink_1UV6NRLOfCA5mATuPNGGhMPY",
+              "stripePrix": 102.49,
+              "stripeMode": "live",
+              "stripeNom": "Quartz rose en forme de coupelle 16cm x 11 cm",
+              "stripeDesc": "Cette belle coupelle en Quartz rose incarne douceur et harmonie, une pierre apaisante réputée pour ouvrir le cœur et favoriser les relations bienveillantes. Idéale pour purifier les énergies négatives et cultiver la compassion, elle est souvent utilisée en méditation ou comme objet décoratif porteur de sérénité. Son énergie douce en fait aussi un allié précieux pour apaiser les émotions et renforcer la confiance en soi.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

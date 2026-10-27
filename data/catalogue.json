@@ -6843,7 +6843,17 @@
               "description": "Ce bâton de Quartz rose est un outil naturel idéal pour apaiser le corps et l’esprit. Associé traditionnellement à l’amour inconditionnel et à l’harmonie émotionnelle, il favorise la douceur et la compassion. Parfait pour les séances de massage ou de méditation, il aide à équilibrer les énergies et à cultiver un état de sérénité profonde.",
               "photo": "images/articles/quartz-rose-de-massage-baton-10-cm-mvqfyecib2vl.jpg",
               "prixBoutique": 29.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/bJe9AU4VQ4Rvd2UcFX2a51n",
+              "stripeProductId": "prod_VW8IyeCkF4VNiP",
+              "stripePriceId": "price_1UV61vLOfCA5mATuvtcW6VeA",
+              "stripeLinkId": "plink_1UV61wLOfCA5mATufy9JExK8",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Quartz rose de massage Bâton 10 cm",
+              "stripeDesc": "Ce bâton de Quartz rose est un outil naturel idéal pour apaiser le corps et l’esprit. Associé traditionnellement à l’amour inconditionnel et à l’harmonie émotionnelle, il favorise la douceur et la compassion. Parfait pour les séances de massage ou de méditation, il aide à équilibrer les énergies et à cultiver un état de sérénité profonde.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

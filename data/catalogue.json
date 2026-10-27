@@ -6792,6 +6792,22 @@
               "epuise": false
             }
           ]
+        },
+        {
+          "id": "quartz-rose-mvqfd1giz0f3",
+          "nom": "Quartz rose",
+          "slogan": "",
+          "articles": [
+            {
+              "id": "sphere-en-quartz-rose-mvqff5fmy21t",
+              "nom": "Sphère en Quartz rose",
+              "prix": 31.17,
+              "description": "Cette sphère en Quartz rose est une pièce apaisante et harmonieuse, idéale pour équilibrer les émotions et favoriser la sérénité. Le Quartz rose est souvent utilisé en lithothérapie pour ouvrir le cœur, renforcer l’amour et la compassion, tout en apaisant les tensions. Son énergie douce en fait un allié précieux pour créer une ambiance de bien-être à la maison ou au bureau.",
+              "photo": "images/articles/sphere-en-quartz-rose-mvqff5fnsysm.jpg",
+              "prixBoutique": 29.9,
+              "stock": 4
+            }
+          ]
         }
       ]
     },

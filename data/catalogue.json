@@ -5479,7 +5479,17 @@
               "description": "Ces galets de shungite poli captent l'attention par leur éclat profond et leur couleur noire mystérieuse. Utilisée depuis des siècles, cette pierre est réputée pour ses propriétés purificatrices, aidant à absorber les énergies négatives et à équilibrer le champ électromagnétique autour de soi. Parfaite pour une utilisation quotidienne, elle peut être placée dans un espace de vie ou portée en accessoire pour favoriser un bien-être harmonieux et une ambiance apaisante.",
               "photo": "images/articles/shungite-poli-galets-mvqjzsky8w55.jpg",
               "prixBoutique": 14,
-              "stock": 43
+              "stock": 43,
+              "stripe": "https://buy.stripe.com/cNibJ2coi97L9QI35n2a51H",
+              "stripeProductId": "prod_VWA7gKVwzZcasc",
+              "stripePriceId": "price_1UV7nZLOfCA5mATueNLDHaNR",
+              "stripeLinkId": "plink_1UV7naLOfCA5mATux5uctN9G",
+              "stripePrix": 14.73,
+              "stripeMode": "live",
+              "stripeNom": "Shungite poli Galets",
+              "stripeDesc": "Ces galets de shungite poli captent l'attention par leur éclat profond et leur couleur noire mystérieuse. Utilisée depuis des siècles, cette pierre est réputée pour ses propriétés purificatrices, aidant à absorber les énergies négatives et à équilibrer le champ électromagnétique autour de soi. Parfaite pour une utilisation quotidienne, elle peut être placée dans un espace de vie ou portée en accessoire pour favoriser un bien-être harmonieux et une ambiance apaisante.",
+              "stripeStock": 43,
+              "epuise": false
             }
           ]
         },

@@ -5395,6 +5395,15 @@
               "stripeDesc": "L'Epidote est une pierre aux reflets verts et noirs captivants, souvent appelée pierre de transformation. En lithothérapie, elle est réputée pour son énergie apaisante et équilibrante, aidant à libérer les tensions émotionnelles et à renforcer la confiance en soi. Idéale pour ceux qui cherchent à retrouver un état de calme intérieur et à harmoniser leurs émotions, elle est aussi utilisée pour stimuler la clarté mentale et la prise de décision.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "quartz-rose-galets-mvqgv5koa4k2",
+              "nom": "Quartz rose Galets",
+              "prix": 2.85,
+              "description": "Le Quartz rose est une pierre douce et apaisante, souvent appelée la pierre de l'amour et de la compassion. Elle favorise l'harmonie émotionnelle, aide à ouvrir le cœur et à renforcer les liens affectifs. Idéale pour apaiser les tensions et cultiver un sentiment de paix intérieure, elle est aussi utilisée pour attirer l'abondance et la douceur dans les relations.",
+              "photo": "images/articles/quartz-rose-galets-mvqgv5ko9n7w.jpg",
+              "prixBoutique": 2.5,
+              "stock": 32
             }
           ]
         },

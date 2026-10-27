@@ -30362,7 +30362,17 @@
               "description": "Cette statuette bouddha rouge incarne une énergie apaisante et bienveillante, idéale pour créer un espace de sérénité dans votre intérieur. Associée traditionnellement à la méditation et à la paix intérieure, elle est souvent utilisée pour favoriser la concentration et l'équilibre émotionnel. Son design chaleureux en fait un objet décoratif tout en invitant à la détente au quotidien.",
               "photo": "images/articles/statuette-bouddha-rouge-mvqrgyt571t9.jpg",
               "prixBoutique": 2.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm5kE2NI5Vz7IA35n2a51U",
+              "stripeProductId": "prod_VWDU1poyU1mwjL",
+              "stripePriceId": "price_1UVB3vLOfCA5mATunwUl14IY",
+              "stripeLinkId": "plink_1UVB3wLOfCA5mATupnuCSQek",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Statuette bouddha rouge",
+              "stripeDesc": "Cette statuette bouddha rouge incarne une énergie apaisante et bienveillante, idéale pour créer un espace de sérénité dans votre intérieur. Associée traditionnellement à la méditation et à la paix intérieure, elle est souvent utilisée pour favoriser la concentration et l'équilibre émotionnel. Son design chaleureux en fait un objet décoratif tout en invitant à la détente au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

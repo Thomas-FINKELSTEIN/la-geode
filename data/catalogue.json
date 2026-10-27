@@ -5498,7 +5498,17 @@
               "description": "La shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent utilisée pour purifier l’énergie environnante et protéger des ondes négatives. Ses propriétés absorbantes en font un allié précieux pour équilibrer le corps et l’esprit, favorisant ainsi détente et bien-être au quotidien. Idéale pour les espaces de vie ou de travail, elle est aussi appréciée pour ses vertus apaisantes sur les émotions.",
               "photo": "images/articles/shungite-ronde-mvqk5wu914if.jpg",
               "prixBoutique": 5,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/7sYaEYewq3NrbYQfS92a51I",
+              "stripeProductId": "prod_VWAC7Zlbw6CQHd",
+              "stripePriceId": "price_1UV7s4LOfCA5mATuiUv0VVvG",
+              "stripeLinkId": "plink_1UV7s5LOfCA5mATuFdYWAY6Y",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Shungite ronde",
+              "stripeDesc": "La shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent utilisée pour purifier l’énergie environnante et protéger des ondes négatives. Ses propriétés absorbantes en font un allié précieux pour équilibrer le corps et l’esprit, favorisant ainsi détente et bien-être au quotidien. Idéale pour les espaces de vie ou de travail, elle est aussi appréciée pour ses vertus apaisantes sur les émotions.",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         },

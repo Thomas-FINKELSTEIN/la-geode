@@ -5460,7 +5460,17 @@
               "description": "Le shungite est une pierre naturelle aux propriétés énergétiques uniques, souvent utilisée pour absorber les ondes électromagnétiques et purifier l’énergie environnante. Son apparence sombre et mystérieuse en fait un allié précieux pour apaiser le stress et favoriser un équilibre émotionnel. Idéale pour les espaces de vie ou comme objet de méditation, elle est aussi appréciée pour ses vertus protectrices et son influence sur le bien-être général.",
               "photo": "images/articles/shungite-cristal-mvqjt23mpm7d.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY28sbke5Vzgf649r2a51G",
+              "stripeProductId": "prod_VWA22frTcmvJQd",
+              "stripePriceId": "price_1UV7iILOfCA5mATuk62COMDu",
+              "stripeLinkId": "plink_1UV7iILOfCA5mATuFZHtpOeA",
+              "stripePrix": 25.07,
+              "stripeMode": "live",
+              "stripeNom": "Shungite cristal",
+              "stripeDesc": "Le shungite est une pierre naturelle aux propriétés énergétiques uniques, souvent utilisée pour absorber les ondes électromagnétiques et purifier l’énergie environnante. Son apparence sombre et mystérieuse en fait un allié précieux pour apaiser le stress et favoriser un équilibre émotionnel. Idéale pour les espaces de vie ou comme objet de méditation, elle est aussi appréciée pour ses vertus protectrices et son influence sur le bien-être général.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

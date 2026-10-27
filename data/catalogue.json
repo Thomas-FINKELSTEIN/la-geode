@@ -6919,7 +6919,17 @@
               "description": "Cette sphère en Quartz rose de 4 centimètres est une pierre douce et apaisante, souvent utilisée pour favoriser l’amour et l’harmonie. Elle aide à ouvrir le cœur, à apaiser les émotions et à renforcer les relations. Idéale pour une ambiance sereine, elle peut être placée sur une table, dans un coin méditatif ou portée comme talisman pour diffuser une énergie bienveillante au quotidien.",
               "photo": "images/articles/sphere-quartz-rose-4-cm-mvqgjpena1tb.jpg",
               "prixBoutique": 14,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq28sgEydo1d2U9tL2a51u",
+              "stripeProductId": "prod_VW8Z7szSZ3kyQh",
+              "stripePriceId": "price_1UV6HzLOfCA5mATuvMExS8FT",
+              "stripeLinkId": "plink_1UV6I0LOfCA5mATuc5AgyfMB",
+              "stripePrix": 14.73,
+              "stripeMode": "live",
+              "stripeNom": "Sphère Quartz rose 4 cm",
+              "stripeDesc": "Cette sphère en Quartz rose de 4 centimètres est une pierre douce et apaisante, souvent utilisée pour favoriser l’amour et l’harmonie. Elle aide à ouvrir le cœur, à apaiser les émotions et à renforcer les relations. Idéale pour une ambiance sereine, elle peut être placée sur une table, dans un coin méditatif ou portée comme talisman pour diffuser une énergie bienveillante au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -30571,7 +30571,17 @@
               "description": "Cette statuette bouddha dorée incarne la sérénité et l'équilibre intérieur. Symbole de paix et de méditation, elle est souvent utilisée pour créer une ambiance apaisante dans les espaces de vie ou de travail. Selon la lithothérapie et les croyances énergétiques, elle favorise la connexion à soi-même et aide à cultiver une attitude positive et bienveillante.",
               "photo": "images/articles/statuette-bouddha-doree-mvqrvskapyur.jpg",
               "prixBoutique": 2.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI6oI4VQ5Vz6Ew0Xf2a525",
+              "stripeProductId": "prod_VWDghnqxiV3Awu",
+              "stripePriceId": "price_1UVBFLLOfCA5mATuJ05uE3jn",
+              "stripeLinkId": "plink_1UVBFLLOfCA5mATu2wXIj6ZX",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Statuette bouddha dorée",
+              "stripeDesc": "Cette statuette bouddha dorée incarne la sérénité et l'équilibre intérieur. Symbole de paix et de méditation, elle est souvent utilisée pour créer une ambiance apaisante dans les espaces de vie ou de travail. Selon la lithothérapie et les croyances énergétiques, elle favorise la connexion à soi-même et aide à cultiver une attitude positive et bienveillante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

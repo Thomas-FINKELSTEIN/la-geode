@@ -7161,7 +7161,17 @@
               "description": "Cette plaque en shungite ornée d’un motif fleur de vie est une pièce unique alliant beauté et propriétés énergétiques. La shungite est réputée pour purifier l’énergie ambiante, protéger des ondes négatives et favoriser un environnement apaisant. Idéale pour décorer votre intérieur tout en bénéficiant de ses vertus équilibrantes, elle peut être posée sur une table, une étagère ou même utilisée comme support méditatif.",
               "photo": "images/articles/plaque-shungite-fleur-de-vie-mvqjfliosfga.jpg",
               "prixBoutique": 59.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm6oI0FAes52og49r2a51B",
+              "stripeProductId": "prod_VW9rGSR3q3CUeY",
+              "stripePriceId": "price_1UV7Y9LOfCA5mATuF1VjUBME",
+              "stripeLinkId": "plink_1UV7Y9LOfCA5mATuvu0c8SR5",
+              "stripePrix": 62.23,
+              "stripeMode": "live",
+              "stripeNom": "Plaque Shungite fleur de vie",
+              "stripeDesc": "Cette plaque en shungite ornée d’un motif fleur de vie est une pièce unique alliant beauté et propriétés énergétiques. La shungite est réputée pour purifier l’énergie ambiante, protéger des ondes négatives et favoriser un environnement apaisant. Idéale pour décorer votre intérieur tout en bénéficiant de ses vertus équilibrantes, elle peut être posée sur une table, une étagère ou même utilisée comme support méditatif.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -30438,7 +30438,17 @@
               "description": "Cette statuette en bois de chine représente un bouddha souriant, symbole de sérénité et de joie intérieure. Traditionnellement associée à l'équilibre émotionnel et à la méditation, elle invite à cultiver la paix et la positivité dans votre espace de vie. Parfaite pour décorer tout en apportant une énergie apaisante et inspirante au quotidien.",
               "photo": "images/articles/statuette-bouddha-bois-de-chine-mvqrn20yyk82.jpg",
               "prixBoutique": 2.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E14o882fw9gf67lD2a51Y",
+              "stripeProductId": "prod_VWDZ0paHhKVoB1",
+              "stripePriceId": "price_1UVB8VLOfCA5mATuC0X4UgbC",
+              "stripeLinkId": "plink_1UVB8VLOfCA5mATu9KWFjcuD",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Statuette bouddha bois de chine",
+              "stripeDesc": "Cette statuette en bois de chine représente un bouddha souriant, symbole de sérénité et de joie intérieure. Traditionnellement associée à l'équilibre émotionnel et à la méditation, elle invite à cultiver la paix et la positivité dans votre espace de vie. Parfaite pour décorer tout en apportant une énergie apaisante et inspirante au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -6824,7 +6824,17 @@
               "description": "Ce bâton de Quartz rose est un outil naturel idéal pour apaiser les émotions et favoriser la douceur dans votre quotidien. Utilisé en lithothérapie pour son énergie bienveillante, il est souvent employé pour ouvrir le cœur, renforcer l’amour et la compassion. Parfait pour les séances de relaxation ou de massage, il aide à harmoniser les chakras et à cultiver une ambiance sereine.",
               "photo": "images/articles/quartz-rose-baton-de-massage-mvqfvgoyjdgp.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E9AU8822Jn6Ew8pH2a51m",
+              "stripeProductId": "prod_VW8GQ0BiTNENgr",
+              "stripePriceId": "price_1UV60OLOfCA5mATu2aXNXTiP",
+              "stripeLinkId": "plink_1UV60OLOfCA5mATuuPfz6tgW",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Quartz rose Bâton de massage 12 cm",
+              "stripeDesc": "Ce bâton de Quartz rose est un outil naturel idéal pour apaiser les émotions et favoriser la douceur dans votre quotidien. Utilisé en lithothérapie pour son énergie bienveillante, il est souvent employé pour ouvrir le cœur, renforcer l’amour et la compassion. Parfait pour les séances de relaxation ou de massage, il aide à harmoniser les chakras et à cultiver une ambiance sereine.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

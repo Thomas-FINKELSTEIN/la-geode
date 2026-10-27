@@ -5384,7 +5384,17 @@
               "description": "L'Epidote est une pierre aux reflets verts et noirs captivants, souvent appelée pierre de transformation. En lithothérapie, elle est réputée pour son énergie apaisante et équilibrante, aidant à libérer les tensions émotionnelles et à renforcer la confiance en soi. Idéale pour ceux qui cherchent à retrouver un état de calme intérieur et à harmoniser leurs émotions, elle est aussi utilisée pour stimuler la clarté mentale et la prise de décision.",
               "photo": "images/articles/epidolite-mvqgmmo9aqg7.jpg",
               "prixBoutique": 21.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq14ofAugAd2og6hz2a51v",
+              "stripeProductId": "prod_VW8b4gT65pTyx0",
+              "stripePriceId": "price_1UV6KBLOfCA5mATuXIBofy7V",
+              "stripeLinkId": "plink_1UV6KBLOfCA5mATuoM6D5G0R",
+              "stripePrix": 22.49,
+              "stripeMode": "live",
+              "stripeNom": "Epidolite",
+              "stripeDesc": "L'Epidote est une pierre aux reflets verts et noirs captivants, souvent appelée pierre de transformation. En lithothérapie, elle est réputée pour son énergie apaisante et équilibrante, aidant à libérer les tensions émotionnelles et à renforcer la confiance en soi. Idéale pour ceux qui cherchent à retrouver un état de calme intérieur et à harmoniser leurs émotions, elle est aussi utilisée pour stimuler la clarté mentale et la prise de décision.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

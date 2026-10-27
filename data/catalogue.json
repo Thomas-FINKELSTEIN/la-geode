@@ -5376,6 +5376,15 @@
               "stripeDesc": "L'obsidienne est une pierre volcanique aux reflets profonds et mystérieux, souvent utilisée pour ses propriétés protectrices et équilibrantes. En lithothérapie, elle aide à libérer les blocages émotionnels et favorise une connexion profonde avec son intuition. Parfaite pour apaiser l'esprit et renforcer la confiance en soi, elle est idéale pour une utilisation quotidienne en méditation ou en accessoire décoratif.",
               "stripeStock": 16,
               "epuise": false
+            },
+            {
+              "id": "epidolite-mvqgmmo9r7un",
+              "nom": "Epidolite",
+              "prix": 22.49,
+              "description": "L'Epidote est une pierre aux reflets verts et noirs captivants, souvent appelée pierre de transformation. En lithothérapie, elle est réputée pour son énergie apaisante et équilibrante, aidant à libérer les tensions émotionnelles et à renforcer la confiance en soi. Idéale pour ceux qui cherchent à retrouver un état de calme intérieur et à harmoniser leurs émotions, elle est aussi utilisée pour stimuler la clarté mentale et la prise de décision.",
+              "photo": "images/articles/epidolite-mvqgmmo9aqg7.jpg",
+              "prixBoutique": 21.5,
+              "stock": 1
             }
           ]
         },

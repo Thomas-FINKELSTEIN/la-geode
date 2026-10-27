@@ -6818,6 +6818,22 @@
               "epuise": false
             }
           ]
+        },
+        {
+          "id": "opale-mvqfom64qx5q",
+          "nom": "Opale",
+          "slogan": "",
+          "articles": [
+            {
+              "id": "opale-rose-galet-poli-mvqfpne4m9hw",
+              "nom": "Opale rose Galet poli",
+              "prix": 18.76,
+              "description": "Cette belle Opale rose, aux reflets doux et apaisants, est une pierre précieuse aux propriétés énergétiques exceptionnelles. En lithothérapie, elle est souvent utilisée pour favoriser l’harmonie émotionnelle, apaiser les tensions et renforcer la confiance en soi. Son énergie douce et enveloppante en fait un allié idéal pour les moments de méditation ou de relaxation.",
+              "photo": "images/articles/opale-rose-galet-poli-mvqfpne41v3i.jpg",
+              "prixBoutique": 17.9,
+              "stock": 1
+            }
+          ]
         }
       ]
     },

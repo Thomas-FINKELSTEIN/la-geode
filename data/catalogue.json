@@ -5414,6 +5414,15 @@
               "stripeDesc": "Le Quartz rose est une pierre douce et apaisante, souvent appelée la pierre de l'amour et de la compassion. Elle favorise l'harmonie émotionnelle, aide à ouvrir le cœur et à renforcer les liens affectifs. Idéale pour apaiser les tensions et cultiver un sentiment de paix intérieure, elle est aussi utilisée pour attirer l'abondance et la douceur dans les relations.",
               "stripeStock": 32,
               "epuise": false
+            },
+            {
+              "id": "shungite-brute-mvqjic5myejc",
+              "nom": "Shungite brute",
+              "prix": 3.36,
+              "description": "La shungite brute est une pierre naturelle aux propriétés énergétiques remarquables, souvent utilisée pour absorber les ondes électromagnétiques et protéger l'environnement quotidien. Riche en carbone, elle est réputée pour son action purifiante et équilibrante sur les émotions, aidant à apaiser le stress et à favoriser un bien-être harmonieux. Idéale pour les espaces de vie ou de travail, elle se place près des appareils électroniques ou simplement comme objet de décoration aux vertus subtiles.",
+              "photo": "images/articles/shungite-brute-mvqjic5mc29b.jpg",
+              "prixBoutique": 3,
+              "stock": 18
             }
           ]
         },

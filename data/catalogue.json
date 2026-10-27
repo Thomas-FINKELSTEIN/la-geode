@@ -7142,7 +7142,17 @@
               "description": "Cette plaque en shungite sculptée en forme d'arbre de vie est une pièce unique alliant beauté et propriétés protectrices. La shungite est réputée pour purifier l'énergie ambiante et renforcer le bien-être en absorbant les ondes négatives. Idéale pour décorer un espace tout en favorisant une atmosphère apaisante et équilibrée, elle s'intègre parfaitement dans un intérieur ou comme objet de méditation.",
               "photo": "images/articles/plaque-shungite-arbre-de-vie-mvqjdhoi9tfi.jpg",
               "prixBoutique": 59.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E9AU5ZU1Fj1kc8pH2a51A",
+              "stripeProductId": "prod_VW9qMtc9zPck5z",
+              "stripePriceId": "price_1UV7WiLOfCA5mATul3tU8mfZ",
+              "stripeLinkId": "plink_1UV7WiLOfCA5mATugJBFWjoQ",
+              "stripePrix": 62.23,
+              "stripeMode": "live",
+              "stripeNom": "Plaque Shungite arbre de vie",
+              "stripeDesc": "Cette plaque en shungite sculptée en forme d'arbre de vie est une pièce unique alliant beauté et propriétés protectrices. La shungite est réputée pour purifier l'énergie ambiante et renforcer le bien-être en absorbant les ondes négatives. Idéale pour décorer un espace tout en favorisant une atmosphère apaisante et équilibrée, elle s'intègre parfaitement dans un intérieur ou comme objet de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

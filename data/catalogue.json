@@ -6983,7 +6983,17 @@
               "description": "La 0pale rose brute du Pérou est une pierre naturelle aux teintes douces et apaisantes, parfaite pour créer une ambiance sereine. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions et réduire les tensions, aidant à retrouver un état de calme intérieur. Son énergie douce en fait un allié idéal pour les espaces de détente ou les pratiques de méditation.",
               "photo": "images/articles/0pale-rose-brute-du-perou-galet-mvqgb2qixnkb.jpg",
               "prixBoutique": 6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIdRa3RM6ZDaUM49r2a51r",
+              "stripeProductId": "prod_VW8SNsDZeRSKOj",
+              "stripePriceId": "price_1UV6BYLOfCA5mATuzuGj7jVB",
+              "stripeLinkId": "plink_1UV6BYLOfCA5mATuN1mOYt75",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "0pale rose brute du Pérou Galet",
+              "stripeDesc": "La 0pale rose brute du Pérou est une pierre naturelle aux teintes douces et apaisantes, parfaite pour créer une ambiance sereine. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions et réduire les tensions, aidant à retrouver un état de calme intérieur. Son énergie douce en fait un allié idéal pour les espaces de détente ou les pratiques de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

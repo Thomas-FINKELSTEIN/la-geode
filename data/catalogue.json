@@ -29012,7 +29012,17 @@
               "description": "La sauge blanche de Californie est une plante sacrée utilisée depuis des siècles pour ses vertus purificatrices et protectrices. Ses feuilles, séchées et assemblées en fagot, dégagent une énergie apaisante et clarifiante, idéale pour nettoyer les espaces négatifs et favoriser un environnement harmonieux. En lithothérapie et en rituels, elle est souvent employée pour purifier l’énergie, apaiser les émotions et renforcer la connexion spirituelle.",
               "photo": "images/articles/fagot-de-sauge-blanche-de-californie-mvqnsmde11hs.jpg",
               "prixBoutique": 13.5,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/9B6cN6dsm2Jn7IAcFX2a51L",
+              "stripeProductId": "prod_VWBqPL427WRdfw",
+              "stripePriceId": "price_1UV9SLLOfCA5mATuPGxBmgXB",
+              "stripeLinkId": "plink_1UV9SMLOfCA5mATuykuSdncS",
+              "stripePrix": 14.22,
+              "stripeMode": "live",
+              "stripeNom": "Fagot de sauge blanche de Californie",
+              "stripeDesc": "La sauge blanche de Californie est une plante sacrée utilisée depuis des siècles pour ses vertus purificatrices et protectrices. Ses feuilles, séchées et assemblées en fagot, dégagent une énergie apaisante et clarifiante, idéale pour nettoyer les espaces négatifs et favoriser un environnement harmonieux. En lithothérapie et en rituels, elle est souvent employée pour purifier l’énergie, apaiser les émotions et renforcer la connexion spirituelle.",
+              "stripeStock": 11,
+              "epuise": false
             }
           ]
         }

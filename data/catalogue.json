@@ -6900,7 +6900,17 @@
               "description": "Ce Quartz rose en forme de pointe est une pierre d'amour et de douceur, idéale pour apaiser les émotions et favoriser la compassion. Utilisée en lithothérapie, elle aide à ouvrir le cœur et à renforcer les liens affectifs. Parfaite pour une décoration zen ou comme outil de méditation, elle diffuse une énergie apaisante et harmonieuse dans votre espace.",
               "photo": "images/articles/quartz-rose-h-pointe-8-cm-mvqgh3zz1sl7.jpg",
               "prixBoutique": 32,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B600k73Y3Nre6YfS92a51t",
+              "stripeProductId": "prod_VW8XLYpWsmoqwy",
+              "stripePriceId": "price_1UV6G1LOfCA5mATuCoLCFMec",
+              "stripeLinkId": "plink_1UV6G1LOfCA5mATu0Vm7Aoro",
+              "stripePrix": 33.34,
+              "stripeMode": "live",
+              "stripeNom": "Quartz rose H Pointe 8 cm",
+              "stripeDesc": "Ce Quartz rose en forme de pointe est une pierre d'amour et de douceur, idéale pour apaiser les émotions et favoriser la compassion. Utilisée en lithothérapie, elle aide à ouvrir le cœur et à renforcer les liens affectifs. Parfaite pour une décoration zen ou comme outil de méditation, elle diffuse une énergie apaisante et harmonieuse dans votre espace.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

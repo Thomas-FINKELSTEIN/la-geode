@@ -7123,7 +7123,17 @@
               "description": "La shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent utilisée pour absorber les ondes électromagnétiques et purifier l’énergie ambiante. Sous cette forme sphérique, elle diffuse une harmonie apaisante et favorise un équilibre émotionnel. Idéale pour les espaces de vie ou de travail, elle est aussi prisée pour ses vertus protectrices et son influence positive sur le bien-être général.",
               "photo": "images/articles/shungite-sphere-mvqgxuj3fq7w.jpg",
               "prixBoutique": 89,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/6oU3cw73Yfw91kc9tL2a51y",
+              "stripeProductId": "prod_VW8kk8PmG0gc6n",
+              "stripePriceId": "price_1UV6SdLOfCA5mATuSWec4wWH",
+              "stripeLinkId": "plink_1UV6SdLOfCA5mATuUZw8FGGs",
+              "stripePrix": 92.25,
+              "stripeMode": "live",
+              "stripeNom": "Shungite Sphère",
+              "stripeDesc": "La shungite est une pierre naturelle aux propriétés énergétiques exceptionnelles, souvent utilisée pour absorber les ondes électromagnétiques et purifier l’énergie ambiante. Sous cette forme sphérique, elle diffuse une harmonie apaisante et favorise un équilibre émotionnel. Idéale pour les espaces de vie ou de travail, elle est aussi prisée pour ses vertus protectrices et son influence positive sur le bien-être général.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

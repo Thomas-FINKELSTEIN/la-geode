@@ -25776,7 +25776,17 @@
               "description": "Ces bougies originales en forme de dents sont idéales pour accompagner vos rituels de purification ou de protection. Traditionnellement utilisées pour renforcer l'énergie positive et apaiser les tensions, elles peuvent être allumées lors de cérémonies ou simplement pour créer une ambiance apaisante. Leur forme unique en fait un objet décoratif tout en gardant une intention spirituelle forte.",
               "photo": "images/articles/bougie-individuelle-d-accompagnement-mvqtspqomukx.jpg",
               "prixBoutique": 0.95,
-              "stock": 20
+              "stock": 20,
+              "stripe": "https://buy.stripe.com/dRm6oIgEydo1bYQ7lD2a52c",
+              "stripeProductId": "prod_VWEXdQMWI5IoTq",
+              "stripePriceId": "price_1UVC4rLOfCA5mATuWktYKt5H",
+              "stripeLinkId": "plink_1UVC4rLOfCA5mATutDhHDKu1",
+              "stripePrix": 1.25,
+              "stripeMode": "live",
+              "stripeNom": "Bougie individuelle d'accompagnement",
+              "stripeDesc": "Ces bougies originales en forme de dents sont idéales pour accompagner vos rituels de purification ou de protection. Traditionnellement utilisées pour renforcer l'énergie positive et apaiser les tensions, elles peuvent être allumées lors de cérémonies ou simplement pour créer une ambiance apaisante. Leur forme unique en fait un objet décoratif tout en gardant une intention spirituelle forte.",
+              "stripeStock": 20,
+              "epuise": false
             }
           ]
         },

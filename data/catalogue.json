@@ -7218,7 +7218,17 @@
               "description": "Le shungite sous forme de bâton est un outil naturel aux propriétés absorbantes et protectrices. Utilisé en lithothérapie pour équilibrer les énergies du corps et de l’esprit, il est souvent employé pour purifier les espaces et apaiser les tensions. Idéal pour des séances de massage ou comme accessoire de bien-être au quotidien.",
               "photo": "images/articles/shungite-de-massage-baton-mvqjns90fpyl.jpg",
               "prixBoutique": 27,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/6oU00kdsm0Bfgf6fS92a51E",
+              "stripeProductId": "prod_VW9z0a3WXmxMJF",
+              "stripePriceId": "price_1UV7f2LOfCA5mATuyKNbHz13",
+              "stripeLinkId": "plink_1UV7f3LOfCA5mATufQxqbdTi",
+              "stripePrix": 28.17,
+              "stripeMode": "live",
+              "stripeNom": "Shungite Bâton de massage",
+              "stripeDesc": "Le shungite sous forme de bâton est un outil naturel aux propriétés absorbantes et protectrices. Utilisé en lithothérapie pour équilibrer les énergies du corps et de l’esprit, il est souvent employé pour purifier les espaces et apaiser les tensions. Idéal pour des séances de massage ou comme accessoire de bien-être au quotidien.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

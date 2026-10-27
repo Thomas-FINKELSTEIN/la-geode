@@ -30629,10 +30629,10 @@
               "photo": "images/articles/statuette-bouddha-doree-mvqrzt16byzo.jpg",
               "prixBoutique": 2.9,
               "stock": 1,
-              "stripe": "https://buy.stripe.com/00wcN6gEycjXe6Y9tL2a528",
-              "stripeProductId": "prod_VWDk1RdWglk621",
-              "stripePriceId": "price_1UVBJ4LOfCA5mATuK2hSSS3C",
-              "stripeLinkId": "plink_1UVBJ5LOfCA5mATuyXiPWBJs",
+              "stripe": "https://buy.stripe.com/cNi6oIbke0Bffb2bBT2a529",
+              "stripeProductId": "prod_VWDleHhauUwyxe",
+              "stripePriceId": "price_1UVBJYLOfCA5mATuPi2DUUsl",
+              "stripeLinkId": "plink_1UVBJYLOfCA5mATu6AaeALGi",
               "stripePrix": 3.26,
               "stripeMode": "live",
               "stripeNom": "Statuette bouddha dorée",
@@ -30647,7 +30647,17 @@
               "description": "Cette élégante statuette bouddha dorée incarne la sérénité et l'équilibre intérieur. Selon les traditions, elle favorise la méditation et aide à apaiser les émotions, tout en attirant une énergie positive et harmonieuse dans votre espace. Parfaite pour décorer tout en cultivant un environnement paisible et inspirant.",
               "photo": "images/articles/statuette-bouddha-doree-mvqs1czl95si.jpg",
               "prixBoutique": 2.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqcN6ewq3Nrgf649r2a52a",
+              "stripeProductId": "prod_VWDlcYvd1UQIq6",
+              "stripePriceId": "price_1UVBJYLOfCA5mATurvo58iWL",
+              "stripeLinkId": "plink_1UVBJZLOfCA5mATuj2qup5E3",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Statuette bouddha dorée",
+              "stripeDesc": "Cette élégante statuette bouddha dorée incarne la sérénité et l'équilibre intérieur. Selon les traditions, elle favorise la méditation et aide à apaiser les émotions, tout en attirant une énergie positive et harmonieuse dans votre espace. Parfaite pour décorer tout en cultivant un environnement paisible et inspirant.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -30533,7 +30533,17 @@
               "description": "Cette statuette bouddha noire incarne une énergie apaisante et une présence méditative, idéale pour cultiver la sérénité dans votre espace. Associée traditionnellement à la protection et à l'équilibre émotionnel, elle est souvent utilisée pour favoriser la concentration et la paix intérieure. Parfaite pour décorer votre intérieur tout en invitant une ambiance de calme et de bien-être au quotidien.",
               "photo": "images/articles/statuette-bouddha-noire-mvqrtepu6ixh.jpg",
               "prixBoutique": 2.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqdRa4VQabP8ME21j2a523",
+              "stripeProductId": "prod_VWDeGF13OjQ8sB",
+              "stripePriceId": "price_1UVBDGLOfCA5mATuWXAU2OKb",
+              "stripeLinkId": "plink_1UVBDHLOfCA5mATuaiGnjot2",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Statuette bouddha noire",
+              "stripeDesc": "Cette statuette bouddha noire incarne une énergie apaisante et une présence méditative, idéale pour cultiver la sérénité dans votre espace. Associée traditionnellement à la protection et à l'équilibre émotionnel, elle est souvent utilisée pour favoriser la concentration et la paix intérieure. Parfaite pour décorer votre intérieur tout en invitant une ambiance de calme et de bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

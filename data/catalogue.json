@@ -7377,7 +7377,17 @@
               "description": "Cette géode d'améthyste aux reflets violets profonds et aux cristaux brillants est une pièce spectaculaire pour sublimer votre intérieur. En lithothérapie, l'améthyste est souvent associée à la sérénité, à la paix mentale et à une énergie apaisante, aidant à calmer les émotions et à favoriser un sommeil réparateur. Elle est aussi utilisée pour renforcer la concentration et équilibrer les chakras, tout en apportant une touche de spiritualité et d'élégance naturelle à votre espace.",
               "photo": "images/articles/amethyste-10-cm-h-x-15-cm-l-mvru3t4oz8te.jpg",
               "prixBoutique": 106.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu6oIfAugAdbYQ35n2a52o",
+              "stripeProductId": "prod_VWUwdUCMR47kwK",
+              "stripePriceId": "price_1UVRwZLOfCA5mATuMJEKMbxC",
+              "stripeLinkId": "plink_1UVRwZLOfCA5mATukq7TQSPt",
+              "stripePrix": 110.34,
+              "stripeMode": "live",
+              "stripeNom": "Améthyste 10 cm H x 15 cm L",
+              "stripeDesc": "Cette géode d'améthyste aux reflets violets profonds et aux cristaux brillants est une pièce spectaculaire pour sublimer votre intérieur. En lithothérapie, l'améthyste est souvent associée à la sérénité, à la paix mentale et à une énergie apaisante, aidant à calmer les émotions et à favoriser un sommeil réparateur. Elle est aussi utilisée pour renforcer la concentration et équilibrer les chakras, tout en apportant une touche de spiritualité et d'élégance naturelle à votre espace.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

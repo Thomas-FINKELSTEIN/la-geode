@@ -5521,6 +5521,15 @@
               "stripeDesc": "La Pierre des fées est une pierre naturelle aux formes organiques et douces, souvent liée à la magie et à la protection. Selon la lithothérapie, elle favoriserait l’équilibre émotionnel et renforcerait la connexion avec les énergies positives de la nature. Idéale pour apaiser le mental et attirer la chance, elle est souvent utilisée en méditation ou comme objet décoratif porteur de sérénité.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pierre-des-fees-mvsaz2ypsna4",
+              "nom": "Pierre des fées",
+              "prix": 13.7,
+              "description": "La Pierre des fées est un galet naturel aux formes organiques et apaisantes, souvent utilisé pour son énergie douce et protectrice. En lithothérapie, elle est réputée pour favoriser la sérénité, aider à lâcher prise et renforcer la connexion avec la nature. Idéale pour une méditation ou une décoration zen, elle apporte une touche de magie et de bien-être au quotidien.",
+              "photo": "images/articles/pierre-des-fees-mvsaz2ypdhiq.jpg",
+              "prixBoutique": 13,
+              "stock": 1
             }
           ]
         },

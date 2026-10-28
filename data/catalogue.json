@@ -26633,7 +26633,17 @@
               "description": "La cornaline, pierre de vitalité et de passion, est ici présentée sous forme de rouleau pratique pour un massage bien-être au quotidien. Selon la lithothérapie, elle stimule l’énergie vitale, renforce la confiance en soi et aide à équilibrer les émotions. Idéale pour accompagner les moments de stress ou pour dynamiser une routine de soin.",
               "photo": "images/articles/roll-on-cornaline-mvrytgm1nbms.jpg",
               "prixBoutique": 9.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/3cI28sewq0Bfe6YeO52a52L",
+              "stripeProductId": "prod_VWX4MquB5n0y0Z",
+              "stripePriceId": "price_1UVU0BLOfCA5mATuuDxLkllo",
+              "stripeLinkId": "plink_1UVU0BLOfCA5mATuW3LjAfaS",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Roll' on Cornaline",
+              "stripeDesc": "La cornaline, pierre de vitalité et de passion, est ici présentée sous forme de rouleau pratique pour un massage bien-être au quotidien. Selon la lithothérapie, elle stimule l’énergie vitale, renforce la confiance en soi et aide à équilibrer les émotions. Idéale pour accompagner les moments de stress ou pour dynamiser une routine de soin.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

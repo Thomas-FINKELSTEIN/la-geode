@@ -5434,7 +5434,17 @@
               "description": "La calcite optique est une pierre aux reflets translucides et aux teintes douces, souvent utilisée pour son pouvoir de purification énergétique. Selon la lithothérapie, elle favoriserait la clarté mentale, l’équilibre émotionnel et renforcerait la connexion entre les chakras. Idéale pour apaiser les tensions et éclaircir les idées, elle est souvent placée dans les espaces de vie ou portée en bijou pour ses bienfaits harmonisants.",
               "photo": "images/articles/calcite-optique-7-cm-x-4-cm-mvs86iknbuan.jpg",
               "prixBoutique": 38.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00wdRa0FA83H9QI0Xf2a535",
+              "stripeProductId": "prod_VWbIYotiW0H33p",
+              "stripePriceId": "price_1UVY5qLOfCA5mATu5G7oyO4K",
+              "stripeLinkId": "plink_1UVY5qLOfCA5mATuCZdU3Sm4",
+              "stripePrix": 40.47,
+              "stripeMode": "live",
+              "stripeNom": "Calcite optique 7 cm x 4 cm",
+              "stripeDesc": "La calcite optique est une pierre aux reflets translucides et aux teintes douces, souvent utilisée pour son pouvoir de purification énergétique. Selon la lithothérapie, elle favoriserait la clarté mentale, l’équilibre émotionnel et renforcerait la connexion entre les chakras. Idéale pour apaiser les tensions et éclaircir les idées, elle est souvent placée dans les espaces de vie ou portée en bijou pour ses bienfaits harmonisants.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -5320,7 +5320,17 @@
               "description": "La calcite orange est une pierre douce et lumineuse, idéale pour apporter chaleur et énergie positive dans votre quotidien. Associée traditionnellement à la vitalité et à la confiance en soi, elle aide à stimuler la créativité et à renforcer l’optimisme. Parfaite pour les espaces de vie ou de travail, elle favorise également un bien-être émotionnel et une harmonie apaisante.",
               "photo": "images/articles/calcite-orange-13x9-cm-mvs7gedbia9a.jpg",
               "prixBoutique": 39,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNiaEYcoicjX8MEbBT2a52X",
+              "stripeProductId": "prod_VWaycNfaTWTfuW",
+              "stripePriceId": "price_1UVXmBLOfCA5mATuD42ZeV39",
+              "stripeLinkId": "plink_1UVXmCLOfCA5mATuyXP0FY5h",
+              "stripePrix": 40.57,
+              "stripeMode": "live",
+              "stripeNom": "Calcite orange 13x9 cm",
+              "stripeDesc": "La calcite orange est une pierre douce et lumineuse, idéale pour apporter chaleur et énergie positive dans votre quotidien. Associée traditionnellement à la vitalité et à la confiance en soi, elle aide à stimuler la créativité et à renforcer l’optimisme. Parfaite pour les espaces de vie ou de travail, elle favorise également un bien-être émotionnel et une harmonie apaisante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

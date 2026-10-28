@@ -26386,7 +26386,17 @@
               "description": "La pointe de calcite orange est une pierre énergétique aux reflets doux et apaisants. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions, favoriser la confiance en soi et stimuler la créativité. Son énergie chaleureuse en fait un allié précieux pour apaiser les tensions et harmoniser le flux d'énergie dans le corps.",
               "photo": "images/articles/pointe-de-calcite-orange-mvs925jo78mx.jpg",
               "prixBoutique": 22.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/bJe28s9c6cjXgf6gWd2a537",
+              "stripeProductId": "prod_VWbhDukbqqC83L",
+              "stripePriceId": "price_1UVYTrLOfCA5mATuyVscM0is",
+              "stripeLinkId": "plink_1UVYTrLOfCA5mATunpizE93T",
+              "stripePrix": 23.52,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de calcite orange",
+              "stripeDesc": "La pointe de calcite orange est une pierre énergétique aux reflets doux et apaisants. En lithothérapie, elle est souvent utilisée pour équilibrer les émotions, favoriser la confiance en soi et stimuler la créativité. Son énergie chaleureuse en fait un allié précieux pour apaiser les tensions et harmoniser le flux d'énergie dans le corps.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

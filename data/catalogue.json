@@ -5821,7 +5821,17 @@
               "description": "La fleur de sélénite est une pierre lumineuse aux reflets doux et apaisants, souvent associée à une énergie purificatrice et harmonisante. En lithothérapie, elle est utilisée pour apaiser les émotions, favoriser la clarté mentale et attirer la sérénité dans le quotidien. Son aspect unique et sa douceur en font un objet décoratif tout en offrant un soutien subtil pour l'équilibre énergétique.",
               "photo": "images/articles/fleur-de-selenite-mvs9l1dtbae4.jpg",
               "prixBoutique": 10,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYaEY1JEabP3sk49r2a53d",
+              "stripeProductId": "prod_VWbvqRudkn31M3",
+              "stripePriceId": "price_1UVYhyLOfCA5mATuC5jI36Op",
+              "stripeLinkId": "plink_1UVYhyLOfCA5mATuaa5lP0aH",
+              "stripePrix": 10.6,
+              "stripeMode": "live",
+              "stripeNom": "Fleur de sélénite",
+              "stripeDesc": "La fleur de sélénite est une pierre lumineuse aux reflets doux et apaisants, souvent associée à une énergie purificatrice et harmonisante. En lithothérapie, elle est utilisée pour apaiser les émotions, favoriser la clarté mentale et attirer la sérénité dans le quotidien. Son aspect unique et sa douceur en font un objet décoratif tout en offrant un soutien subtil pour l'équilibre énergétique.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

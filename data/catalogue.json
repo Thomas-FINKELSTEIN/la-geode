@@ -7536,7 +7536,17 @@
               "description": "Cette pointe en oeil de tigre est une pierre aux énergies puissantes, souvent utilisée pour renforcer la confiance en soi et stimuler la motivation. En lithothérapie, elle est réputée pour son influence sur la vitalité et la protection contre les énergies négatives. Idéale pour dynamiser votre quotidien, elle peut être placée dans un espace de travail ou portée en bijou pour en bénéficier au quotidien.",
               "photo": "images/articles/pointe-oeil-de-tigre-mvs6k5kwnwi1.jpg",
               "prixBoutique": 36,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqcN69c697L7IA7lD2a52Q",
+              "stripeProductId": "prod_VWaZLcziQ1JY73",
+              "stripePriceId": "price_1UVXNxLOfCA5mATukT4cYpEK",
+              "stripeLinkId": "plink_1UVXNyLOfCA5mATunDirkGaZ",
+              "stripePrix": 37.47,
+              "stripeMode": "live",
+              "stripeNom": "Pointe oeil de tigre",
+              "stripeDesc": "Cette pointe en oeil de tigre est une pierre aux énergies puissantes, souvent utilisée pour renforcer la confiance en soi et stimuler la motivation. En lithothérapie, elle est réputée pour son influence sur la vitalité et la protection contre les énergies négatives. Idéale pour dynamiser votre quotidien, elle peut être placée dans un espace de travail ou portée en bijou pour en bénéficier au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

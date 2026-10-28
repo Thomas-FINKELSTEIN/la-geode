@@ -7135,6 +7135,15 @@
               "stripeDesc": "La sélénite est une pierre aux reflets laiteux et apaisants, souvent appelée pierre de la clarté mentale et de la connexion spirituelle. Utilisée en lithothérapie pour purifier l’énergie et favoriser la sérénité, elle est idéale pour méditer ou créer une ambiance paisible dans un espace. Son énergie douce aide aussi à apaiser les émotions et à renforcer la concentration.",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "baton-de-selenite-mvsebo80vo9c",
+              "nom": "Batôn de sélénite",
+              "prix": 18.87,
+              "description": "La sélénite est une pierre aux propriétés apaisantes et purificatrices, idéale pour harmoniser les énergies autour de vous. Sous forme de batôn, elle facilite la méditation et favorise un état de calme intérieur en absorbant les tensions. Utilisée en lithothérapie, elle est souvent placée près des sources de stress ou dans les espaces de vie pour créer une ambiance sereine et équilibrée.",
+              "photo": "images/articles/baton-de-selenite-mvsebo800dbl.jpg",
+              "prixBoutique": 18,
+              "stock": 5
             }
           ]
         },

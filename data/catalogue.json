@@ -7190,7 +7190,17 @@
               "description": "Ce crayon en sélénite est une pierre aux reflets lunaires et à l'énergie apaisante, idéale pour purifier les espaces et favoriser la sérénité. Utilisée en lithothérapie, elle est souvent associée à la connexion avec la lune et à l'harmonisation des émotions. Parfaite pour méditer ou décorer votre intérieur avec une touche de douceur minérale.",
               "photo": "images/articles/crayon-en-selenite-mvses5vzgywn.jpg",
               "prixBoutique": 6.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq9AUagafw96Ew5dv2a53G",
+              "stripeProductId": "prod_VWeJaalOsVe4Ra",
+              "stripePriceId": "price_1UVb0fLOfCA5mATunsr4Bpou",
+              "stripeLinkId": "plink_1UVb0gLOfCA5mATuMZ4nnmj2",
+              "stripePrix": 6.98,
+              "stripeMode": "live",
+              "stripeNom": "Crayon en sélénite",
+              "stripeDesc": "Ce crayon en sélénite est une pierre aux reflets lunaires et à l'énergie apaisante, idéale pour purifier les espaces et favoriser la sérénité. Utilisée en lithothérapie, elle est souvent associée à la connexion avec la lune et à l'harmonisation des émotions. Parfaite pour méditer ou décorer votre intérieur avec une touche de douceur minérale.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

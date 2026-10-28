@@ -26538,7 +26538,17 @@
               "description": "La Neuvaine Saint-benoît est un bâton d'encens spécialement bénit et dédié à la prière, souvent utilisé pour invoquer la protection et la guidance de Saint Benoît. Traditionnellement, il est employé pour purifier l'énergie des espaces, renforcer la concentration spirituelle et favoriser la paix intérieure. Idéal pour les rituels de dévotion ou les moments de méditation, il apporte une touche sacrée à votre pratique spirituelle.",
               "photo": "images/articles/neuvaine-saint-benoit-mvsaoyc0et0f.jpg",
               "prixBoutique": 13.7,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/bJe8wQ3RM97L1kccFX2a53n",
+              "stripeProductId": "prod_VWcRyC1lrKnWh4",
+              "stripePriceId": "price_1UVZCDLOfCA5mATuLBOlieY9",
+              "stripeLinkId": "plink_1UVZCDLOfCA5mATuVmUEVlTn",
+              "stripePrix": 14.42,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine Saint-benoît",
+              "stripeDesc": "La Neuvaine Saint-benoît est un bâton d'encens spécialement bénit et dédié à la prière, souvent utilisé pour invoquer la protection et la guidance de Saint Benoît. Traditionnellement, il est employé pour purifier l'énergie des espaces, renforcer la concentration spirituelle et favoriser la paix intérieure. Idéal pour les rituels de dévotion ou les moments de méditation, il apporte une touche sacrée à votre pratique spirituelle.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

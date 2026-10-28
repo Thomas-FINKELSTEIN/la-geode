@@ -6509,7 +6509,17 @@
               "description": "Ce cristal de roche brut, aux facettes naturelles et translucides, est une pierre d'une pureté exceptionnelle. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives, clarifier les pensées et favoriser la connexion à son intuition. Idéal pour équilibrer les émotions et apporter une sensation de paix intérieure, il est aussi apprécié pour ses vertus purificatrices dans les espaces de vie.",
               "photo": "images/articles/cristal-de-roche-brut-mvru08dp1yst.jpg",
               "prixBoutique": 32,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZuaEY9c66ZD3sk21j2a52n",
+              "stripeProductId": "prod_VWUtJPR7E5pYIi",
+              "stripePriceId": "price_1UVRtsLOfCA5mATufFNOkFrL",
+              "stripeLinkId": "plink_1UVRtsLOfCA5mATuFgSHEmpk",
+              "stripePrix": 33.34,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche brut",
+              "stripeDesc": "Ce cristal de roche brut, aux facettes naturelles et translucides, est une pierre d'une pureté exceptionnelle. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives, clarifier les pensées et favoriser la connexion à son intuition. Idéal pour équilibrer les émotions et apporter une sensation de paix intérieure, il est aussi apprécié pour ses vertus purificatrices dans les espaces de vie.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -7593,7 +7593,17 @@
               "description": "Pierre brute aux reflets dorés et aux motifs chatoyants, l'Oeil de tigre est une pierre de protection et de courage. Utilisée en lithothérapie pour renforcer la confiance en soi et équilibrer les énergies, elle est idéale pour ceux qui cherchent à surmonter les défis du quotidien. Son énergie positive et apaisante en fait un allié précieux pour le bien-être émotionnel et spirituel.",
               "photo": "images/articles/oeil-de-tigre-brut-mvs6u39ciqpy.jpg",
               "prixBoutique": 2.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2bJ21JEdo13skdK12a52T",
+              "stripeProductId": "prod_VWag3vvGVd1o0d",
+              "stripePriceId": "price_1UVXVLLOfCA5mATuN4XlBsmh",
+              "stripeLinkId": "plink_1UVXVMLOfCA5mATuC8dn1GOD",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Oeil de tigre brut",
+              "stripeDesc": "Pierre brute aux reflets dorés et aux motifs chatoyants, l'Oeil de tigre est une pierre de protection et de courage. Utilisée en lithothérapie pour renforcer la confiance en soi et équilibrer les énergies, elle est idéale pour ceux qui cherchent à surmonter les défis du quotidien. Son énergie positive et apaisante en fait un allié précieux pour le bien-être émotionnel et spirituel.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

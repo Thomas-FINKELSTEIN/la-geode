@@ -7023,10 +7023,10 @@
               "photo": "images/articles/cristal-de-roche-lazer-mvsdy73dmx96.jpg",
               "prixBoutique": 188,
               "stock": 1,
-              "stripe": "https://buy.stripe.com/3cI4gA1JE97L7IAcFX2a53z",
-              "stripeProductId": "prod_VWduyJ23eCe916",
-              "stripePriceId": "price_1UVacuLOfCA5mATuSpNqaJUL",
-              "stripeLinkId": "plink_1UVacuLOfCA5mATupLnelZcT",
+              "stripe": "https://buy.stripe.com/7sYeVe9c6cjX4wogWd2a53A",
+              "stripeProductId": "prod_VWdvJGynC8KZF7",
+              "stripePriceId": "price_1UVadyLOfCA5mATuASrk1NDM",
+              "stripeLinkId": "plink_1UVadyLOfCA5mATu6Fz1OgzM",
               "stripePrix": 194.58,
               "stripeMode": "live",
               "stripeNom": "Cristal de roche Lazer",
@@ -7041,7 +7041,17 @@
               "description": "Ce cristal de roche brut, aux reflets translucides et aux facettes naturelles, est une pierre d'une pureté exceptionnelle. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives, favoriser la clarté mentale et renforcer la connexion à son intuition. Parfait pour purifier les espaces ou accompagner une méditation, il est aussi apprécié pour son pouvoir de protection et d'équilibre émotionnel.",
               "photo": "images/articles/cristal-de-roche-brut-mvsdzlmxjim2.jpg",
               "prixBoutique": 44,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E14obkecjXfb27lD2a53B",
+              "stripeProductId": "prod_VWdvzx6VzChbPG",
+              "stripePriceId": "price_1UVadzLOfCA5mATuNKGRGitU",
+              "stripeLinkId": "plink_1UVadzLOfCA5mATuKmAkhwCZ",
+              "stripePrix": 45.74,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche brut",
+              "stripeDesc": "Ce cristal de roche brut, aux reflets translucides et aux facettes naturelles, est une pierre d'une pureté exceptionnelle. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives, favoriser la clarté mentale et renforcer la connexion à son intuition. Parfait pour purifier les espaces ou accompagner une méditation, il est aussi apprécié pour son pouvoir de protection et d'équilibre émotionnel.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

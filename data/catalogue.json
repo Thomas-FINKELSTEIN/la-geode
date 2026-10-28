@@ -27478,7 +27478,17 @@
               "description": "Cette boule en améthyste est une pièce naturelle aux reflets violets apaisants, idéale pour équilibrer les énergies. En lithothérapie, l'améthyste est souvent utilisée pour favoriser la sérénité, améliorer la concentration et apaiser les émotions. Parfaite pour une méditation profonde ou comme élément décoratif spirituel dans votre intérieur.",
               "photo": "images/articles/sphere-amethyste-mvrvgavjaens.jpg",
               "prixBoutique": 106.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY8wQaga4Rvgf69tL2a52s",
+              "stripeProductId": "prod_VWVYgvHRIL2Nlt",
+              "stripePriceId": "price_1UVSX0LOfCA5mATuhXTdwvFT",
+              "stripeLinkId": "plink_1UVSX1LOfCA5mATuSIAX6Xud",
+              "stripePrix": 110.34,
+              "stripeMode": "live",
+              "stripeNom": "Sphère Améthyste",
+              "stripeDesc": "Cette boule en améthyste est une pièce naturelle aux reflets violets apaisants, idéale pour équilibrer les énergies. En lithothérapie, l'améthyste est souvent utilisée pour favoriser la sérénité, améliorer la concentration et apaiser les émotions. Parfaite pour une méditation profonde ou comme élément décoratif spirituel dans votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

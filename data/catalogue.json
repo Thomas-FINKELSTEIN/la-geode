@@ -26652,7 +26652,17 @@
               "description": "Ce Roll'on en cristal de roche est un accessoire pratique et élégant pour emporter avec soi les bienfaits de cette pierre lumineuse. Le cristal de roche, connu pour son énergie purificatrice et clarificatrice, est souvent utilisé en lithothérapie pour équilibrer les émotions et renforcer la vitalité. Son effet harmonisant en fait un allié idéal pour apaiser le mental et favoriser une énergie positive au quotidien.",
               "photo": "images/articles/roll-on-cristal-de-roche-mvrz6seg4ro1.jpg",
               "prixBoutique": 9.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/14A00kfAubfT2oggWd2a52M",
+              "stripeProductId": "prod_VWXE4NKveWAX25",
+              "stripePriceId": "price_1UVUAOLOfCA5mATuo3OP7TiS",
+              "stripeLinkId": "plink_1UVUAPLOfCA5mATuG7S5JcJ5",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Roll'on Cristal de roche",
+              "stripeDesc": "Ce Roll'on en cristal de roche est un accessoire pratique et élégant pour emporter avec soi les bienfaits de cette pierre lumineuse. Le cristal de roche, connu pour son énergie purificatrice et clarificatrice, est souvent utilisé en lithothérapie pour équilibrer les émotions et renforcer la vitalité. Son effet harmonisant en fait un allié idéal pour apaiser le mental et favoriser une énergie positive au quotidien.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

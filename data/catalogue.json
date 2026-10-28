@@ -7185,7 +7185,17 @@
               "description": "Cette pointe de Quartz rose, d'une énergie douce et apaisante, est un allié précieux pour favoriser l'harmonie émotionnelle et renforcer l'amour de soi. Utilisée en lithothérapie, elle aide à équilibrer les chakras du cœur et à apaiser les tensions. Parfaite pour méditer ou décorer un espace de bien-être, elle diffuse une vibration positive et réconfortante.",
               "photo": "images/articles/pointe-de-quartz-rose-598-gr-12-cm-h-mvrw2vounykc.jpg",
               "prixBoutique": 84,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w7sM73Y83H8MEdK12a52t",
+              "stripeProductId": "prod_VWVpLEFIc9MAry",
+              "stripePriceId": "price_1UVSnxLOfCA5mATuRVIpkUxv",
+              "stripeLinkId": "plink_1UVSnxLOfCA5mATuQkSb1a2c",
+              "stripePrix": 87.09,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de Quartz rose 598 gr 12 cm H",
+              "stripeDesc": "Cette pointe de Quartz rose, d'une énergie douce et apaisante, est un allié précieux pour favoriser l'harmonie émotionnelle et renforcer l'amour de soi. Utilisée en lithothérapie, elle aide à équilibrer les chakras du cœur et à apaiser les tensions. Parfaite pour méditer ou décorer un espace de bien-être, elle diffuse une vibration positive et réconfortante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -31129,7 +31129,17 @@
               "description": "Cette statuette en bronze de 4 cm incarne une figure symbolique aux traits puissants et élégants. Traditionnellement, les statuettes en bronze sont associées à une énergie protectrice et à une connexion avec la terre, favorisant l'équilibre et la stabilité émotionnelle. Elles sont souvent utilisées pour décorer un espace tout en apportant une touche d'harmonie et de sérénité à votre environnement.",
               "photo": "images/articles/statuette-en-bronze-4-cm-mvrxzu9djmqz.jpg",
               "prixBoutique": 9.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/7sY4gAcoi0Bf0g8axP2a52J",
+              "stripeProductId": "prod_VWWh0MWix0xaTP",
+              "stripePriceId": "price_1UVTduLOfCA5mATucG1wyAGe",
+              "stripeLinkId": "plink_1UVTdvLOfCA5mATuWq011TAK",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Statuette en bronze 4 cm",
+              "stripeDesc": "Cette statuette en bronze de 4 cm incarne une figure symbolique aux traits puissants et élégants. Traditionnellement, les statuettes en bronze sont associées à une énergie protectrice et à une connexion avec la terre, favorisant l'équilibre et la stabilité émotionnelle. Elles sont souvent utilisées pour décorer un espace tout en apportant une touche d'harmonie et de sérénité à votre environnement.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

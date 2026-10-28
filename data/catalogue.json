@@ -31789,7 +31789,17 @@
               "description": "Cette statuette de Bouddha en position mudra incarne la sérénité et l'équilibre intérieur. Traditionnellement associée à la méditation et à la paix de l'esprit, elle est souvent utilisée pour favoriser la concentration et apaiser les émotions. Parfaite pour décorer un espace de détente ou un autel spirituel, elle apporte une énergie calme et bienveillante à votre environnement.",
               "photo": "images/articles/shakyamuni-mudra-bouddha-8-cm-mvs9xeapmdl8.jpg",
               "prixBoutique": 8.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe3cw5ZU5Vz1kc0Xf2a53j",
+              "stripeProductId": "prod_VWc57SWG20e80g",
+              "stripePriceId": "price_1UVYrCLOfCA5mATu2Wg4xmjP",
+              "stripeLinkId": "plink_1UVYrCLOfCA5mATuVcoQyOZ5",
+              "stripePrix": 9.05,
+              "stripeMode": "live",
+              "stripeNom": "Shakyamuni mudra bouddha 8 cm",
+              "stripeDesc": "Cette statuette de Bouddha en position mudra incarne la sérénité et l'équilibre intérieur. Traditionnellement associée à la méditation et à la paix de l'esprit, elle est souvent utilisée pour favoriser la concentration et apaiser les émotions. Parfaite pour décorer un espace de détente ou un autel spirituel, elle apporte une énergie calme et bienveillante à votre environnement.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

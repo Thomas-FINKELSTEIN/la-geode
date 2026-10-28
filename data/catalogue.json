@@ -5555,7 +5555,17 @@
               "description": "Ces galets d'Oeil de tigre captent immédiatement l'attention avec leurs reflets dorés et leurs motifs chatoyants rappelant les rayures d'un tigre. En lithothérapie, cette pierre est souvent associée à la protection, au courage et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Idéale pour une utilisation en méditation ou portée en bijou, elle est aussi appréciée pour son énergie stimulante et son pouvoir de connexion à la terre.",
               "photo": "images/articles/oeil-de-tigre-galets-mvs6f5m3t6ut.jpg",
               "prixBoutique": 2,
-              "stock": 48
+              "stock": 48,
+              "stripe": "https://buy.stripe.com/4gMcN6gEy0Bf4wo35n2a52P",
+              "stripeProductId": "prod_VWaVufVpY9oXX8",
+              "stripePriceId": "price_1UVXKALOfCA5mATu6xlFUnfX",
+              "stripeLinkId": "plink_1UVXKALOfCA5mATuTX40vrhw",
+              "stripePrix": 2.33,
+              "stripeMode": "live",
+              "stripeNom": "Oeil de tigre Galets",
+              "stripeDesc": "Ces galets d'Oeil de tigre captent immédiatement l'attention avec leurs reflets dorés et leurs motifs chatoyants rappelant les rayures d'un tigre. En lithothérapie, cette pierre est souvent associée à la protection, au courage et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à apaiser les tensions du quotidien. Idéale pour une utilisation en méditation ou portée en bijou, elle est aussi appréciée pour son énergie stimulante et son pouvoir de connexion à la terre.",
+              "stripeStock": 48,
+              "epuise": false
             }
           ]
         },

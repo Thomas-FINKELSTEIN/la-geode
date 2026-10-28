@@ -7828,7 +7828,17 @@
               "description": "Ce magnifique coeur en Agathe incarne douceur et équilibre émotionnel. Associée traditionnellement à la sérénité et à la protection, cette pierre naturelle aide à apaiser les tensions et à renforcer la confiance en soi. Parfaite pour une décoration harmonieuse ou comme objet de méditation, elle diffuse une énergie apaisante au quotidien.",
               "photo": "images/articles/coeur-d-agathe-mvs95r0pzjrn.jpg",
               "prixBoutique": 9.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqbJ20FA5Vz1kcbBT2a538",
+              "stripeProductId": "prod_VWbjHhHjRcUM5t",
+              "stripePriceId": "price_1UVYWLLOfCA5mATu0okpOg0z",
+              "stripeLinkId": "plink_1UVYWLLOfCA5mATuZsHvk5Wt",
+              "stripePrix": 10.08,
+              "stripeMode": "live",
+              "stripeNom": "Coeur d' Agathe",
+              "stripeDesc": "Ce magnifique coeur en Agathe incarne douceur et équilibre émotionnel. Associée traditionnellement à la sérénité et à la protection, cette pierre naturelle aide à apaiser les tensions et à renforcer la confiance en soi. Parfaite pour une décoration harmonieuse ou comme objet de méditation, elle diffuse une énergie apaisante au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -5916,7 +5916,17 @@
               "description": "Les galets de Mangano sont des pierres naturelles aux reflets doux et aux teintes subtiles, souvent recherchées pour leur harmonie visuelle et leur douceur au toucher. En lithothérapie, cette pierre est appréciée pour ses vertus apaisantes et son influence positive sur l'équilibre émotionnel, aidant à calmer les tensions et à favoriser la sérénité au quotidien. Idéale pour une utilisation en méditation ou en décoration, elle est aussi plébiscitée pour ses propriétés supposées de protection et de connexion à la terre.",
               "photo": "images/articles/mangano-mvsa7l23dvzy.jpg",
               "prixBoutique": 8,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/8x26oI0FAabP4wo9tL2a53l",
+              "stripeProductId": "prod_VWcDukS1m6TOk6",
+              "stripePriceId": "price_1UVYyoLOfCA5mATuFGUFQDY8",
+              "stripeLinkId": "plink_1UVYyoLOfCA5mATu5Rsn6knp",
+              "stripePrix": 8.53,
+              "stripeMode": "live",
+              "stripeNom": "Mangano",
+              "stripeDesc": "Les galets de Mangano sont des pierres naturelles aux reflets doux et aux teintes subtiles, souvent recherchées pour leur harmonie visuelle et leur douceur au toucher. En lithothérapie, cette pierre est appréciée pour ses vertus apaisantes et son influence positive sur l'équilibre émotionnel, aidant à calmer les tensions et à favoriser la sérénité au quotidien. Idéale pour une utilisation en méditation ou en décoration, elle est aussi plébiscitée pour ses propriétés supposées de protection et de connexion à la terre.",
+              "stripeStock": 11,
+              "epuise": false
             }
           ]
         },

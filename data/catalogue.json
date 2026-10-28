@@ -6030,7 +6030,17 @@
               "description": "",
               "photo": "images/articles/cristal-de-roche-mvse4lvko60u.jpg",
               "prixBoutique": 0.5,
-              "stock": 21
+              "stock": 21,
+              "stripe": "https://buy.stripe.com/eVq9AU882do16EweO52a53D",
+              "stripeProductId": "prod_VWdzkl7Kz94n0t",
+              "stripePriceId": "price_1UVah9LOfCA5mATuwTKa5Urm",
+              "stripeLinkId": "plink_1UVahALOfCA5mATuOEmGCt3a",
+              "stripePrix": 0.78,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche",
+              "stripeDesc": "",
+              "stripeStock": 21,
+              "epuise": false
             }
           ]
         },

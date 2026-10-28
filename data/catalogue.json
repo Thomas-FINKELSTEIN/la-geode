@@ -7985,7 +7985,17 @@
               "description": "Cette sphère d'Améthyste, pierre aux reflets violets apaisants, est un véritable symbole de sérénité et de connexion spirituelle. En lithothérapie, elle est souvent utilisée pour favoriser la détente, apaiser les émotions et renforcer la clarté mentale. Idéale pour créer une ambiance harmonieuse dans votre espace de vie ou de travail, elle est aussi appréciée pour ses propriétés méditatives et son énergie purifiante.",
               "photo": "images/articles/sphere-d-amethyste-mvsd4l3eub5h.jpg",
               "prixBoutique": 87.15,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU4gAcoido1bYQ8pH2a53u",
+              "stripeProductId": "prod_VWdY3sWg3eghB0",
+              "stripePriceId": "price_1UVaHOLOfCA5mATuVwz5PslG",
+              "stripeLinkId": "plink_1UVaHPLOfCA5mATud9EoGEw4",
+              "stripePrix": 90.34,
+              "stripeMode": "live",
+              "stripeNom": "Sphère d'Améthyste",
+              "stripeDesc": "Cette sphère d'Améthyste, pierre aux reflets violets apaisants, est un véritable symbole de sérénité et de connexion spirituelle. En lithothérapie, elle est souvent utilisée pour favoriser la détente, apaiser les émotions et renforcer la clarté mentale. Idéale pour créer une ambiance harmonieuse dans votre espace de vie ou de travail, elle est aussi appréciée pour ses propriétés méditatives et son énergie purifiante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

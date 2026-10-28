@@ -26671,7 +26671,17 @@
               "description": "Le Roll'on Jaspe rouge est un accessoire pratique et élégant pour profiter des bienfaits de cette pierre énergétique au quotidien. Le jaspe rouge est traditionnellement associé à la vitalité, à la force et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à ancrer l'énergie vitale. Idéal pour une utilisation en lithothérapie, ce rouleau peut être utilisé pour masser les zones de tension ou simplement gardé dans une poche pour une sensation de réconfort et de protection.",
               "photo": "images/articles/roll-on-jaspe-rouge-mvrzkwvy4d6d.jpg",
               "prixBoutique": 9.5,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/dRm5kE4VQdo17IAcFX2a52N",
+              "stripeProductId": "prod_VWXPJfJrI32c5H",
+              "stripePriceId": "price_1UVUKoLOfCA5mATuDDszVPLc",
+              "stripeLinkId": "plink_1UVUKoLOfCA5mATucZL6wDsk",
+              "stripePrix": 10.08,
+              "stripeMode": "live",
+              "stripeNom": "Roll'on Jaspe rouge",
+              "stripeDesc": "Le Roll'on Jaspe rouge est un accessoire pratique et élégant pour profiter des bienfaits de cette pierre énergétique au quotidien. Le jaspe rouge est traditionnellement associé à la vitalité, à la force et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à ancrer l'énergie vitale. Idéal pour une utilisation en lithothérapie, ce rouleau peut être utilisé pour masser les zones de tension ou simplement gardé dans une poche pour une sensation de réconfort et de protection.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

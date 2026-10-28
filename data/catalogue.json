@@ -7223,7 +7223,17 @@
               "description": "Ce galet de Quartz rose est une pierre douce et apaisante, idéale pour favoriser l'harmonie émotionnelle et la sérénité. En lithothérapie, il est souvent utilisé pour ouvrir le cœur, renforcer l'amour inconditionnel et apaiser les tensions. Parfait pour une méditation ou une décoration zen, il diffuse une énergie bienveillante et réconfortante au quotidien.",
               "photo": "images/articles/galet-de-quartz-rose-mvrw76rw0yzc.jpg",
               "prixBoutique": 24.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28EeVe5ZUdo19QIeO52a52v",
+              "stripeProductId": "prod_VWVsOLVVfbBptU",
+              "stripePriceId": "price_1UVSrDLOfCA5mATu27Zz05ru",
+              "stripeLinkId": "plink_1UVSrDLOfCA5mATuuyXanScD",
+              "stripePrix": 26,
+              "stripeMode": "live",
+              "stripeNom": "Galet de Quartz rose",
+              "stripeDesc": "Ce galet de Quartz rose est une pierre douce et apaisante, idéale pour favoriser l'harmonie émotionnelle et la sérénité. En lithothérapie, il est souvent utilisé pour ouvrir le cœur, renforcer l'amour inconditionnel et apaiser les tensions. Parfait pour une méditation ou une décoration zen, il diffuse une énergie bienveillante et réconfortante au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

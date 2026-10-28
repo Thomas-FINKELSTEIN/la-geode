@@ -8004,7 +8004,17 @@
               "description": "Cette pointe d'améthyste aux reflets violets profonds et aux facettes lumineuses est une pièce naturelle aux énergies apaisantes. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité, équilibrer les émotions et stimuler la clarté mentale. Idéale pour décorer votre espace tout en bénéficiant de ses vertus harmonisantes, elle apporte une touche élégante et spirituelle à votre intérieur.",
               "photo": "images/articles/pointe-amethyste-mvsdcca2ip0l.jpg",
               "prixBoutique": 220,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm14o0FA0BfaUM8pH2a53v",
+              "stripeProductId": "prod_VWddFojI5wwmo3",
+              "stripePriceId": "price_1UVaLpLOfCA5mATuVdGW6A1o",
+              "stripeLinkId": "plink_1UVaLpLOfCA5mATuVyNmRK5u",
+              "stripePrix": 227.65,
+              "stripeMode": "live",
+              "stripeNom": "Pointe Améthyste",
+              "stripeDesc": "Cette pointe d'améthyste aux reflets violets profonds et aux facettes lumineuses est une pièce naturelle aux énergies apaisantes. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité, équilibrer les émotions et stimuler la clarté mentale. Idéale pour décorer votre espace tout en bénéficiant de ses vertus harmonisantes, elle apporte une touche élégante et spirituelle à votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

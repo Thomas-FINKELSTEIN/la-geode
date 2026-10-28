@@ -5415,7 +5415,17 @@
               "description": "La calcite optique est une pierre aux reflets translucides et aux couleurs douces, souvent utilisée pour son énergie apaisante et clarifiante. En lithothérapie, elle est réputée pour favoriser la concentration, équilibrer les émotions et renforcer la communication intuitive. Idéale pour les espaces de travail ou de méditation, elle aide aussi à apaiser les tensions et à harmoniser les énergies.",
               "photo": "images/articles/calcite-optique-mvs84nm6gh1y.jpg",
               "prixBoutique": 39.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu14ocoi0Bf0g849r2a534",
+              "stripeProductId": "prod_VWbGV7VdMlRqDk",
+              "stripePriceId": "price_1UVY4QLOfCA5mATuN67prF9Q",
+              "stripeLinkId": "plink_1UVY4QLOfCA5mATub0vwFjTr",
+              "stripePrix": 41.5,
+              "stripeMode": "live",
+              "stripeNom": "Calcite optique",
+              "stripeDesc": "La calcite optique est une pierre aux reflets translucides et aux couleurs douces, souvent utilisée pour son énergie apaisante et clarifiante. En lithothérapie, elle est réputée pour favoriser la concentration, équilibrer les émotions et renforcer la communication intuitive. Idéale pour les espaces de travail ou de méditation, elle aide aussi à apaiser les tensions et à harmoniser les énergies.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

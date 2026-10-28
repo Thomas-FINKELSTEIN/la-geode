@@ -5358,7 +5358,17 @@
               "description": "Cette cornaline de Madagascar AAA, d'une belle teinte orangée, est une pierre précieuse aux multiples vertus énergétiques. En lithothérapie, elle est souvent utilisée pour renforcer la vitalité, stimuler la confiance en soi et apporter une touche de chaleur à votre quotidien. Parfaite pour être portée en bijou ou simplement gardée dans un espace de vie pour une ambiance dynamique et positive.",
               "photo": "images/articles/cornaline-de-madagascar-aaa-181-gr-mvs7ucit4wbn.jpg",
               "prixBoutique": 12.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRmaEYcoibfT6EwcFX2a531",
+              "stripeProductId": "prod_VWb8AQbt3yPtAk",
+              "stripePriceId": "price_1UVXwgLOfCA5mATuDtTbo83i",
+              "stripeLinkId": "plink_1UVXwgLOfCA5mATukCRdfK6o",
+              "stripePrix": 13.39,
+              "stripeMode": "live",
+              "stripeNom": "Cornaline de Madagascar AAA 181 gr",
+              "stripeDesc": "Cette cornaline de Madagascar AAA, d'une belle teinte orangée, est une pierre précieuse aux multiples vertus énergétiques. En lithothérapie, elle est souvent utilisée pour renforcer la vitalité, stimuler la confiance en soi et apporter une touche de chaleur à votre quotidien. Parfaite pour être portée en bijou ou simplement gardée dans un espace de vie pour une ambiance dynamique et positive.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -7174,7 +7174,17 @@
               "description": "Cette géode de cristal de roche aux reflets translucides et aux facettes brillantes est une pièce naturelle fascinante. En lithothérapie, elle est souvent utilisée pour renforcer la clarté mentale, apaiser les émotions et favoriser un état de sérénité. Son énergie est idéale pour équilibrer le corps et l’esprit, tout en apportant une touche élégante à votre intérieur.",
               "photo": "images/articles/geode-de-cristal-de-roche-mvsf3jxjj867.jpg",
               "prixBoutique": 191.84,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm00k4VQfw90g86hz2a53O",
+              "stripeProductId": "prod_VWeQHeYRBfGfv1",
+              "stripePriceId": "price_1UVb82LOfCA5mATuVfyD4sXR",
+              "stripeLinkId": "plink_1UVb82LOfCA5mATul32mcaMk",
+              "stripePrix": 198.55,
+              "stripeMode": "live",
+              "stripeNom": "Géode de cristal de roche",
+              "stripeDesc": "Cette géode de cristal de roche aux reflets translucides et aux facettes brillantes est une pièce naturelle fascinante. En lithothérapie, elle est souvent utilisée pour renforcer la clarté mentale, apaiser les émotions et favoriser un état de sérénité. Son énergie est idéale pour équilibrer le corps et l’esprit, tout en apportant une touche élégante à votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

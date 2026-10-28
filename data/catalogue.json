@@ -7847,7 +7847,17 @@
               "description": "Ce magnifique Coeur d'Agathe, taillé en forme de cœur, est une pierre douce et apaisante qui symbolise l'amour inconditionnel et la compassion. En lithothérapie, elle est souvent utilisée pour ouvrir le cœur, favoriser la guérison émotionnelle et renforcer les liens affectifs. Idéale pour apaiser les peines et cultiver la tendresse envers soi-même et les autres, elle peut être portée en bijou ou simplement gardée près de soi pour bénéficier de ses vibrations bienveillantes.",
               "photo": "images/articles/coeur-dagathe-mvs96wroneko.jpg",
               "prixBoutique": 9.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14AaEY9c6abP2ogbBT2a539",
+              "stripeProductId": "prod_VWbky9zRfbHx30",
+              "stripePriceId": "price_1UVYXGLOfCA5mATuFdiaf1Gc",
+              "stripeLinkId": "plink_1UVYXGLOfCA5mATumlHJo4ut",
+              "stripePrix": 10.08,
+              "stripeMode": "live",
+              "stripeNom": "Coeur dAgathe",
+              "stripeDesc": "Ce magnifique Coeur d'Agathe, taillé en forme de cœur, est une pierre douce et apaisante qui symbolise l'amour inconditionnel et la compassion. En lithothérapie, elle est souvent utilisée pour ouvrir le cœur, favoriser la guérison émotionnelle et renforcer les liens affectifs. Idéale pour apaiser les peines et cultiver la tendresse envers soi-même et les autres, elle peut être portée en bijou ou simplement gardée près de soi pour bénéficier de ses vibrations bienveillantes.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

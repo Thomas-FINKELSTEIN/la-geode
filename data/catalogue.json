@@ -26576,7 +26576,17 @@
               "description": "Ce magnifique réflécteur de lumière en diamant de cristal est une pièce unique qui capte et diffuse une énergie lumineuse apaisante et harmonieuse. Selon la lithothérapie, il est souvent associé à une amplification des intentions positives, favorisant clarté mentale et équilibre émotionnel. Idéal pour illuminer un espace tout en apportant une touche de bien-être et de sérénité à votre quotidien.",
               "photo": "images/articles/reflecteur-de-lumiere-en-diamant-de-cris-mvrwjakl3tfu.jpg",
               "prixBoutique": 34.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYfZibkedo1gf6fS92a52z",
+              "stripeProductId": "prod_VWW2EeBFBCGCVs",
+              "stripePriceId": "price_1UVT0JLOfCA5mATucjYRGy1B",
+              "stripeLinkId": "plink_1UVT0JLOfCA5mATuNhDCulRo",
+              "stripePrix": 35.92,
+              "stripeMode": "live",
+              "stripeNom": "Réflecteur de lumière en diamant de cristal",
+              "stripeDesc": "Ce magnifique réflécteur de lumière en diamant de cristal est une pièce unique qui capte et diffuse une énergie lumineuse apaisante et harmonieuse. Selon la lithothérapie, il est souvent associé à une amplification des intentions positives, favorisant clarté mentale et équilibre émotionnel. Idéal pour illuminer un espace tout en apportant une touche de bien-être et de sérénité à votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

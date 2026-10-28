@@ -5536,7 +5536,17 @@
               "description": "Ce galet d'améthyste aux reflets doux et apaisants est une pierre aux multiples vertus en lithothérapie. Connue pour favoriser la sérénité et apaiser les émotions, elle aide à calmer l'esprit et à favoriser un sommeil réparateur. Idéale pour les moments de stress ou de surmenage, elle peut être utilisée en méditation ou simplement tenue en main pour se ressourcer.",
               "photo": "images/articles/galet-d-amethyste-mvrugdcbxmzy.jpg",
               "prixBoutique": 6,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/fZu28s8823Nr9QI8pH2a52q",
+              "stripeProductId": "prod_VWV6ttA2elh32I",
+              "stripePriceId": "price_1UVS5xLOfCA5mATuC8rOQsUO",
+              "stripeLinkId": "plink_1UVS5xLOfCA5mATuzcbnjE2E",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Galet d' Améthyste",
+              "stripeDesc": "Ce galet d'améthyste aux reflets doux et apaisants est une pierre aux multiples vertus en lithothérapie. Connue pour favoriser la sérénité et apaiser les émotions, elle aide à calmer l'esprit et à favoriser un sommeil réparateur. Idéale pour les moments de stress ou de surmenage, elle peut être utilisée en méditation ou simplement tenue en main pour se ressourcer.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

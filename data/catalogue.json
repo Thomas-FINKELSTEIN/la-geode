@@ -27573,7 +27573,17 @@
               "description": "Cette sphère de Quartz rose de 6 cm de diamètre est une pièce harmonieuse et apaisante, idéale pour équilibrer les émotions et favoriser la sérénité. Le Quartz rose est souvent utilisé en lithothérapie pour ouvrir le cœur, renforcer l’amour et la compassion, tout en apaisant les tensions. Parfait pour la méditation, la décoration ou comme cadeau bienveillant, il diffuse une énergie douce et réconfortante.",
               "photo": "images/articles/sphere-de-quartz-rose-6-cm-diametre-mvrwcvgk8h5c.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq00kcoi4Rv4wodK12a52x",
+              "stripeProductId": "prod_VWVx7SLGNtb0qr",
+              "stripePriceId": "price_1UVSvXLOfCA5mATuASpTDrHj",
+              "stripeLinkId": "plink_1UVSvXLOfCA5mATuo2puTAET",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Sphère de Quartz rose 6 cm diamètre",
+              "stripeDesc": "Cette sphère de Quartz rose de 6 cm de diamètre est une pièce harmonieuse et apaisante, idéale pour équilibrer les émotions et favoriser la sérénité. Le Quartz rose est souvent utilisé en lithothérapie pour ouvrir le cœur, renforcer l’amour et la compassion, tout en apaisant les tensions. Parfait pour la méditation, la décoration ou comme cadeau bienveillant, il diffuse une énergie douce et réconfortante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

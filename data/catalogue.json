@@ -6471,7 +6471,17 @@
               "description": "Ce cristal de roche brut, pur et transparent, est une pierre d'une énergie apaisante et clarifiante. Traditionnellement utilisée en lithothérapie pour amplifier les intentions et favoriser la concentration, elle aide aussi à équilibrer les émotions et à apporter sérénité et harmonie dans le quotidien. Parfait pour décorer votre intérieur tout en bénéficiant de ses vertus énergétiques naturelles.",
               "photo": "images/articles/cristal-de-roche-brut-mvrtsfoq7nds.jpg",
               "prixBoutique": 25.92,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2cN64VQ3Nr3sk7lD2a52l",
+              "stripeProductId": "prod_VWUnfPjme6Y0c6",
+              "stripePriceId": "price_1UVRnxLOfCA5mATuwirymAUK",
+              "stripeLinkId": "plink_1UVRnxLOfCA5mATuvrtNmwfx",
+              "stripePrix": 27.05,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche brut",
+              "stripeDesc": "Ce cristal de roche brut, pur et transparent, est une pierre d'une énergie apaisante et clarifiante. Traditionnellement utilisée en lithothérapie pour amplifier les intentions et favoriser la concentration, elle aide aussi à équilibrer les émotions et à apporter sérénité et harmonie dans le quotidien. Parfait pour décorer votre intérieur tout en bénéficiant de ses vertus énergétiques naturelles.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

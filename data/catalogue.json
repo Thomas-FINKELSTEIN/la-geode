@@ -5517,7 +5517,17 @@
               "description": "Cette belle pièce de cyanite azur, aux reflets doux et apaisants, est une pierre naturelle aux propriétés énergétiques remarquables. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité, équilibrer les émotions et apaiser les tensions du quotidien. Son énergie calme et harmonieuse en fait un allié précieux pour méditation et relaxation.",
               "photo": "images/articles/cyanite-azur-mvrueeo05bxk.jpg",
               "prixBoutique": 5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x228sbkedo1bYQgWd2a52p",
+              "stripeProductId": "prod_VWV4O3IGWmiqro",
+              "stripePriceId": "price_1UVS4RLOfCA5mATuKxg0cfhN",
+              "stripeLinkId": "plink_1UVS4RLOfCA5mATuSb4YWrYo",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Cyanite azur",
+              "stripeDesc": "Cette belle pièce de cyanite azur, aux reflets doux et apaisants, est une pierre naturelle aux propriétés énergétiques remarquables. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité, équilibrer les émotions et apaiser les tensions du quotidien. Son énergie calme et harmonieuse en fait un allié précieux pour méditation et relaxation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

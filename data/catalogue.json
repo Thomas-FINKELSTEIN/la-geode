@@ -7204,7 +7204,17 @@
               "description": "Le Quartz rose est une pierre douce et apaisante, souvent appelée la pierre de l'amour et de la compassion. Elle favorise l'harmonie émotionnelle, aide à ouvrir le cœur et à cultiver des relations saines. Idéale pour apaiser les tensions et renforcer la confiance en soi, elle est aussi utilisée pour attirer l'abondance et la tendresse dans les relations.",
               "photo": "images/articles/sphere-quartz-rose-h-9-cm-mvrw4zn3zlhi.jpg",
               "prixBoutique": 38.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq6oIfAu83H1kc6hz2a52u",
+              "stripeProductId": "prod_VWVrBjjnOilsI6",
+              "stripePriceId": "price_1UVSpgLOfCA5mATuVRheGDrk",
+              "stripeLinkId": "plink_1UVSpgLOfCA5mATuGGXU1B79",
+              "stripePrix": 40.37,
+              "stripeMode": "live",
+              "stripeNom": "Sphère Quartz rose H 9 cm",
+              "stripeDesc": "Le Quartz rose est une pierre douce et apaisante, souvent appelée la pierre de l'amour et de la compassion. Elle favorise l'harmonie émotionnelle, aide à ouvrir le cœur et à cultiver des relations saines. Idéale pour apaiser les tensions et renforcer la confiance en soi, elle est aussi utilisée pour attirer l'abondance et la tendresse dans les relations.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

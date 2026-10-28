@@ -7612,7 +7612,17 @@
               "description": "OEIL DE TIGRE BRUT",
               "photo": "images/articles/oeil-de-tigre-brut-mvs6z5sfjzva.jpg",
               "prixBoutique": 1,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/4gM7sM9c63Nre6YgWd2a52U",
+              "stripeProductId": "prod_VWakTY9OPGMzmp",
+              "stripePriceId": "price_1UVXZJLOfCA5mATu0VFQBvqr",
+              "stripeLinkId": "plink_1UVXZJLOfCA5mATu2GpPdmev",
+              "stripePrix": 1.3,
+              "stripeMode": "live",
+              "stripeNom": "Oeil de tigre brut",
+              "stripeDesc": "OEIL DE TIGRE BRUT",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

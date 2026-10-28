@@ -7022,7 +7022,17 @@
               "description": "Ce bâton de Cristal de roche Lazer est une pièce pure et lumineuse, réputée pour amplifier les énergies positives et clarifier les pensées. Utilisé en lithothérapie, il favorise l’équilibre émotionnel et aide à dissoudre les blocages énergétiques. Parfait pour méditer ou décorer un espace avec une touche de sérénité et de pureté.",
               "photo": "images/articles/cristal-de-roche-lazer-mvsdy73dmx96.jpg",
               "prixBoutique": 188,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI4gA1JE97L7IAcFX2a53z",
+              "stripeProductId": "prod_VWduyJ23eCe916",
+              "stripePriceId": "price_1UVacuLOfCA5mATuSpNqaJUL",
+              "stripeLinkId": "plink_1UVacuLOfCA5mATupLnelZcT",
+              "stripePrix": 194.58,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche Lazer",
+              "stripeDesc": "Ce bâton de Cristal de roche Lazer est une pièce pure et lumineuse, réputée pour amplifier les énergies positives et clarifier les pensées. Utilisé en lithothérapie, il favorise l’équilibre émotionnel et aide à dissoudre les blocages énergétiques. Parfait pour méditer ou décorer un espace avec une touche de sérénité et de pureté.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "cristal-de-roche-brut-mvsdzlmxxo15",

@@ -7815,6 +7815,22 @@
               "epuise": false
             }
           ]
+        },
+        {
+          "id": "agathe-mvs947cy1erz",
+          "nom": "Agathe",
+          "slogan": "",
+          "articles": [
+            {
+              "id": "coeur-d-agathe-mvs95r0prfhu",
+              "nom": "Coeur d' Agathe",
+              "prix": 10.08,
+              "description": "Ce magnifique coeur en Agathe incarne douceur et équilibre émotionnel. Associée traditionnellement à la sérénité et à la protection, cette pierre naturelle aide à apaiser les tensions et à renforcer la confiance en soi. Parfaite pour une décoration harmonieuse ou comme objet de méditation, elle diffuse une énergie apaisante au quotidien.",
+              "photo": "images/articles/coeur-d-agathe-mvs95r0pzjrn.jpg",
+              "prixBoutique": 9.5,
+              "stock": 1
+            }
+          ]
         }
       ]
     },

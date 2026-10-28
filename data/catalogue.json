@@ -31091,7 +31091,17 @@
               "description": "Cette statuette en bronze représente une figure élégante et symbolique, souvent utilisée pour apporter harmonie et équilibre dans un espace. Selon les croyances en lithothérapie et en feng shui, elle est réputée pour favoriser la concentration et la sérénité, tout en attirant des énergies positives. Idéale pour décorer votre intérieur tout en cultivant un environnement apaisant et inspirant.",
               "photo": "images/articles/statuette-en-bronze-mvrxwscy2rux.jpg",
               "prixBoutique": 9.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/cNidRabke83Hd2UeO52a52G",
+              "stripeProductId": "prod_VWWfBnkxfr7uh5",
+              "stripePriceId": "price_1UVTbjLOfCA5mATuzN1WhWRW",
+              "stripeLinkId": "plink_1UVTbkLOfCA5mATu27dsqhKO",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Statuette en bronze",
+              "stripeDesc": "Cette statuette en bronze représente une figure élégante et symbolique, souvent utilisée pour apporter harmonie et équilibre dans un espace. Selon les croyances en lithothérapie et en feng shui, elle est réputée pour favoriser la concentration et la sérénité, tout en attirant des énergies positives. Idéale pour décorer votre intérieur tout en cultivant un environnement apaisant et inspirant.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

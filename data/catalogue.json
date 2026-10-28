@@ -31034,7 +31034,17 @@
               "description": "Ces élégantes statuettes en bronze représentent des figures méditatives, parfaites pour créer une ambiance de sérénité et de paix dans votre espace. Traditionnellement, elles sont associées à la concentration, à l'équilibre émotionnel et à la connexion avec une énergie apaisante. Idéales pour la décoration intérieure ou comme objet de méditation, elles apportent une touche artistique et spirituelle à votre quotidien.",
               "photo": "images/articles/statuette-en-bronze-mvrxhzsar0lj.jpg",
               "prixBoutique": 9.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/00wfZi73YabP2ogeO52a52C",
+              "stripeProductId": "prod_VWWTC2kGtuUUsX",
+              "stripePriceId": "price_1UVTQRLOfCA5mATukAqJtZHd",
+              "stripeLinkId": "plink_1UVTQSLOfCA5mATukcqFc4cC",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Statuette en bronze",
+              "stripeDesc": "Ces élégantes statuettes en bronze représentent des figures méditatives, parfaites pour créer une ambiance de sérénité et de paix dans votre espace. Traditionnellement, elles sont associées à la concentration, à l'équilibre émotionnel et à la connexion avec une énergie apaisante. Idéales pour la décoration intérieure ou comme objet de méditation, elles apportent une touche artistique et spirituelle à votre quotidien.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

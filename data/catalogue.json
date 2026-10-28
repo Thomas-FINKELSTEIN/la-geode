@@ -7143,7 +7143,17 @@
               "description": "La sélénite est une pierre aux propriétés apaisantes et purificatrices, idéale pour harmoniser les énergies autour de vous. Sous forme de batôn, elle facilite la méditation et favorise un état de calme intérieur en absorbant les tensions. Utilisée en lithothérapie, elle est souvent placée près des sources de stress ou dans les espaces de vie pour créer une ambiance sereine et équilibrée.",
               "photo": "images/articles/baton-de-selenite-mvsebo800dbl.jpg",
               "prixBoutique": 18,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/00w3cwewqabP3sk21j2a53E",
+              "stripeProductId": "prod_VWe4NnLdG2RpAj",
+              "stripePriceId": "price_1UVamQLOfCA5mATuQjjfpYIy",
+              "stripeLinkId": "plink_1UVamRLOfCA5mATuk45TFnH2",
+              "stripePrix": 18.87,
+              "stripeMode": "live",
+              "stripeNom": "Batôn de sélénite",
+              "stripeDesc": "La sélénite est une pierre aux propriétés apaisantes et purificatrices, idéale pour harmoniser les énergies autour de vous. Sous forme de batôn, elle facilite la méditation et favorise un état de calme intérieur en absorbant les tensions. Utilisée en lithothérapie, elle est souvent placée près des sources de stress ou dans les espaces de vie pour créer une ambiance sereine et équilibrée.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

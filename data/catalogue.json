@@ -6022,6 +6022,15 @@
               "stripeDesc": "Cette petite pointe d'améthyste aux reflets doux et légèrement translucides est une pierre aux multiples vertus. En lithothérapie, elle est souvent utilisée pour apaiser les émotions, favoriser la sérénité et renforcer la connexion spirituelle. Idéale pour les espaces de méditation ou comme objet de bien-être au quotidien, elle diffuse une énergie calme et harmonieuse.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "cristal-de-roche-mvse4lvkce5i",
+              "nom": "Cristal de roche",
+              "prix": 0.78,
+              "description": "",
+              "photo": "images/articles/cristal-de-roche-mvse4lvko60u.jpg",
+              "prixBoutique": 0.5,
+              "stock": 21
             }
           ]
         },

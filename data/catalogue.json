@@ -5502,6 +5502,15 @@
               "stripeDesc": "Cette géode de citrine offre une beauté naturelle et lumineuse grâce à ses cristaux dorés et translucides. La citrine est souvent associée à l'énergie solaire, apportant joie, vitalité et optimisme. Utilisée en lithothérapie, elle est réputée pour renforcer la confiance en soi et attirer l'abondance.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pierre-des-fees-mvsay7ogzg0f",
+              "nom": "Pierre des fées",
+              "prix": 13.7,
+              "description": "La Pierre des fées est une pierre naturelle aux formes organiques et douces, souvent liée à la magie et à la protection. Selon la lithothérapie, elle favoriserait l’équilibre émotionnel et renforcerait la connexion avec les énergies positives de la nature. Idéale pour apaiser le mental et attirer la chance, elle est souvent utilisée en méditation ou comme objet décoratif porteur de sérénité.",
+              "photo": "images/articles/pierre-des-fees-mvsay7ogygyd.jpg",
+              "prixBoutique": 13,
+              "stock": 1
             }
           ]
         },

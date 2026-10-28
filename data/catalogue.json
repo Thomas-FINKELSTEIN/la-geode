@@ -5339,7 +5339,17 @@
               "description": "Cette cornaline en forme de géode est une pierre aux reflets chauds et dorés, captivante par ses motifs internes uniques. En lithothérapie, elle est souvent associée à la vitalité, à la confiance en soi et à l'énergie positive, aidant à renforcer la motivation et à apaiser les émotions. Parfaite pour décorer tout en bénéficiant de ses propriétés harmonisantes, elle s’intègre aussi bien dans un espace méditatif qu’en accessoire de bien-être au quotidien.",
               "photo": "images/articles/cornaline-geode-10-cm-mvs7qoxisj5z.jpg",
               "prixBoutique": 22.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa00k73Y2Jn7IAfS92a530",
+              "stripeProductId": "prod_VWb6S30EgbzxY4",
+              "stripePriceId": "price_1UVXttLOfCA5mATuJ0g6gJTA",
+              "stripeLinkId": "plink_1UVXttLOfCA5mATuQsoWATkF",
+              "stripePrix": 23.93,
+              "stripeMode": "live",
+              "stripeNom": "Cornaline géode 10 cm",
+              "stripeDesc": "Cette cornaline en forme de géode est une pierre aux reflets chauds et dorés, captivante par ses motifs internes uniques. En lithothérapie, elle est souvent associée à la vitalité, à la confiance en soi et à l'énergie positive, aidant à renforcer la motivation et à apaiser les émotions. Parfaite pour décorer tout en bénéficiant de ses propriétés harmonisantes, elle s’intègre aussi bien dans un espace méditatif qu’en accessoire de bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

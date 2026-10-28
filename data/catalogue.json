@@ -5935,7 +5935,17 @@
               "description": "Cette belle pierre de citrine en forme de galet naturel diffuse une douce énergie positive et favorise l’harmonie intérieure. Associée à la vitalité et à la joie de vivre, elle est souvent utilisée pour éclaircir les pensées et renforcer la confiance en soi. Idéale pour une ambiance apaisante et lumineuse, elle peut être placée dans un espace de vie ou portée en bijou pour bénéficier de ses bienfaits au quotidien.",
               "photo": "images/articles/citrine-galets-mvsalkk87pat.jpg",
               "prixBoutique": 5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqcN69c61Fj2og0Xf2a53m",
+              "stripeProductId": "prod_VWcOYh6iK1VzLR",
+              "stripePriceId": "price_1UVZ9NLOfCA5mATukjwfP0fi",
+              "stripeLinkId": "plink_1UVZ9NLOfCA5mATu3NnUnfPa",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Citrine Galets",
+              "stripeDesc": "Cette belle pierre de citrine en forme de galet naturel diffuse une douce énergie positive et favorise l’harmonie intérieure. Associée à la vitalité et à la joie de vivre, elle est souvent utilisée pour éclaircir les pensées et renforcer la confiance en soi. Idéale pour une ambiance apaisante et lumineuse, elle peut être placée dans un espace de vie ou portée en bijou pour bénéficier de ses bienfaits au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

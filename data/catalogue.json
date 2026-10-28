@@ -5802,7 +5802,17 @@
               "description": "La fleur de sélénite est une formation cristalline naturelle aux formes organiques et apaisantes, souvent appelée pierre de lumière. En lithothérapie, elle est réputée pour purifier l’énergie environnante, favoriser la connexion spirituelle et apaiser les émotions. Idéale pour les espaces de méditation ou les collections minérales, elle est aussi utilisée pour son effet harmonisant sur le mental.",
               "photo": "images/articles/fleur-de-selenite-mvs9j36x4vqt.jpg",
               "prixBoutique": 10,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E7sM9c6gAd8ME5dv2a53c",
+              "stripeProductId": "prod_VWbug7aIzaNysE",
+              "stripePriceId": "price_1UVYgMLOfCA5mATuSwiV661G",
+              "stripeLinkId": "plink_1UVYgMLOfCA5mATuSuiI2oOw",
+              "stripePrix": 10.6,
+              "stripeMode": "live",
+              "stripeNom": "Fleur de sélénite",
+              "stripeDesc": "La fleur de sélénite est une formation cristalline naturelle aux formes organiques et apaisantes, souvent appelée pierre de lumière. En lithothérapie, elle est réputée pour purifier l’énergie environnante, favoriser la connexion spirituelle et apaiser les émotions. Idéale pour les espaces de méditation ou les collections minérales, elle est aussi utilisée pour son effet harmonisant sur le mental.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

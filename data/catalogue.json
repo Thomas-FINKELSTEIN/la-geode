@@ -31053,7 +31053,17 @@
               "description": "Ces petites statuettes en bronze représentent des figures énergétiques souvent utilisées pour renforcer la protection et l'équilibre spirituel. Selon les croyances en lithothérapie et en symbolisme, elles aident à canaliser les énergies positives et à favoriser la concentration. Idéales pour décorer un espace tout en invitant la sérénité et la connexion aux traditions ancestrales.",
               "photo": "images/articles/statuette-en-bronze-mvrxo0i9fme8.jpg",
               "prixBoutique": 9.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/bJe8wQewqcjX0g835n2a52D",
+              "stripeProductId": "prod_VWWYkYsznJJUGq",
+              "stripePriceId": "price_1UVTUwLOfCA5mATuf9fLYd2l",
+              "stripeLinkId": "plink_1UVTUxLOfCA5mATuNw8HO7Wo",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Statuette en bronze",
+              "stripeDesc": "Ces petites statuettes en bronze représentent des figures énergétiques souvent utilisées pour renforcer la protection et l'équilibre spirituel. Selon les croyances en lithothérapie et en symbolisme, elles aident à canaliser les énergies positives et à favoriser la concentration. Idéales pour décorer un espace tout en invitant la sérénité et la connexion aux traditions ancestrales.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

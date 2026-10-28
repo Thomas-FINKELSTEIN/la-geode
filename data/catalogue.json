@@ -26595,7 +26595,17 @@
               "description": "Ce Roll'on en Quartz rose est un accessoire élégant et pratique pour emporter avec vous les bienfaits apaisants de cette pierre. Le Quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et la guérison émotionnelle. Idéal pour une utilisation quotidienne, il aide à apaiser les tensions et à cultiver une énergie positive dans votre quotidien.",
               "photo": "images/articles/on-quartz-rose-roll-mvrwmfhv9y1j.jpg",
               "prixBoutique": 9.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu28sewqabPaUM35n2a52A",
+              "stripeProductId": "prod_VWW4241cjZgKcM",
+              "stripePriceId": "price_1UVT2gLOfCA5mATuc341foDT",
+              "stripeLinkId": "plink_1UVT2hLOfCA5mATuRdVIXBo9",
+              "stripePrix": 10.08,
+              "stripeMode": "live",
+              "stripeNom": "'on Quartz rose Roll",
+              "stripeDesc": "Ce Roll'on en Quartz rose est un accessoire élégant et pratique pour emporter avec vous les bienfaits apaisants de cette pierre. Le Quartz rose est souvent associé à l'ouverture du cœur, favorisant l'amour, la compassion et la guérison émotionnelle. Idéal pour une utilisation quotidienne, il aide à apaiser les tensions et à cultiver une énergie positive dans votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

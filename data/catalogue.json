@@ -5472,7 +5472,17 @@
               "description": "La Pierre des fées est une pierre naturelle aux formes organiques et apaisantes, souvent utilisée pour son énergie bienveillante et protectrice. Selon la lithothérapie, elle favorise la connexion avec la nature et aide à apaiser les émotions, tout en renforçant la sérénité au quotidien. Idéale pour les espaces de méditation ou comme objet de décoration spirituelle, elle est aussi appréciée pour ses vertus harmonisantes.",
               "photo": "images/articles/pierre-des-fees-10-cm-mvs9ryuzaira.jpg",
               "prixBoutique": 57,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28EbJ2coi97L1kc35n2a53h",
+              "stripeProductId": "prod_VWc1tP5N3msaAG",
+              "stripePriceId": "price_1UVYn5LOfCA5mATudx0ja6aT",
+              "stripeLinkId": "plink_1UVYn5LOfCA5mATu4Ojf7NtN",
+              "stripePrix": 59.18,
+              "stripeMode": "live",
+              "stripeNom": "Pierre des fées 10 cm",
+              "stripeDesc": "La Pierre des fées est une pierre naturelle aux formes organiques et apaisantes, souvent utilisée pour son énergie bienveillante et protectrice. Selon la lithothérapie, elle favorise la connexion avec la nature et aide à apaiser les émotions, tout en renforçant la sérénité au quotidien. Idéale pour les espaces de méditation ou comme objet de décoration spirituelle, elle est aussi appréciée pour ses vertus harmonisantes.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

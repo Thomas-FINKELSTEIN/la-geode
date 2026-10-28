@@ -27236,7 +27236,17 @@
               "description": "Cette protection plate pour téléphone est conçue pour offrir une barrière énergétique entre vous et les ondes électromagnétiques émises par votre appareil. Selon les croyances en lithothérapie, elle aide à préserver votre énergie vitale et favorise un équilibre émotionnel en réduisant les perturbations extérieures. Idéale pour un usage quotidien, elle se glisse facilement dans votre téléphone et vous accompagne partout pour un bien-être accru.",
               "photo": "images/articles/protection-plate-pour-telephone-mvsa22nlf2e8.jpg",
               "prixBoutique": 8.9,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/aFa3cw3RMbfTaUM5dv2a53k",
+              "stripeProductId": "prod_VWc9JL5CEQqsF5",
+              "stripePriceId": "price_1UVYuoLOfCA5mATuvR5pBzNv",
+              "stripeLinkId": "plink_1UVYuoLOfCA5mATuZ3TjoNR3",
+              "stripePrix": 9.46,
+              "stripeMode": "live",
+              "stripeNom": "Protection plate pour téléphone",
+              "stripeDesc": "Cette protection plate pour téléphone est conçue pour offrir une barrière énergétique entre vous et les ondes électromagnétiques émises par votre appareil. Selon les croyances en lithothérapie, elle aide à préserver votre énergie vitale et favorise un équilibre émotionnel en réduisant les perturbations extérieures. Idéale pour un usage quotidien, elle se glisse facilement dans votre téléphone et vous accompagne partout pour un bien-être accru.",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         },

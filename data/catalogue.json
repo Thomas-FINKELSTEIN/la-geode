@@ -31072,7 +31072,17 @@
               "description": "Cette statuette en bronze représente une figure stylisée aux traits expressifs, idéale pour apporter une touche décorative et spirituelle à votre intérieur. Selon les croyances en lithothérapie et en symbolisme énergétique, les objets en bronze sont souvent associés à la stabilité, à la protection et à la connexion avec la terre. Elle peut servir d'élément central pour méditer, attirer des énergies positives ou simplement embellir un espace avec une touche d'artisanat raffiné.",
               "photo": "images/articles/statuette-en-bronze-mvrxr4ai277z.jpg",
               "prixBoutique": 9.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E8wQ1JE2Jn5AsbBT2a52E",
+              "stripeProductId": "prod_VWWbYJbEGPuwWS",
+              "stripePriceId": "price_1UVTXoLOfCA5mATujU2dk0GQ",
+              "stripeLinkId": "plink_1UVTXoLOfCA5mATuQlyhXaZY",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Statuette en bronze 4 cm",
+              "stripeDesc": "Cette statuette en bronze représente une figure stylisée aux traits expressifs, idéale pour apporter une touche décorative et spirituelle à votre intérieur. Selon les croyances en lithothérapie et en symbolisme énergétique, les objets en bronze sont souvent associés à la stabilité, à la protection et à la connexion avec la terre. Elle peut servir d'élément central pour méditer, attirer des énergies positives ou simplement embellir un espace avec une touche d'artisanat raffiné.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

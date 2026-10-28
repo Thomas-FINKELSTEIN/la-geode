@@ -5377,7 +5377,17 @@
               "description": "Cette cornaline en provenance de Madagascar est une pierre aux reflets chauds et dorés, souvent utilisée pour renforcer la vitalité et l'énergie positive. En lithothérapie, elle est réputée pour stimuler la confiance en soi et aider à surmonter les peurs. Parfaite pour une utilisation quotidienne, elle peut être portée en bijou ou simplement tenue en méditation pour bénéficier de ses bienfaits apaisants.",
               "photo": "images/articles/cornaline-madagascar-172-gr-mvs7zcpxevhf.jpg",
               "prixBoutique": 15.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w14o5ZU5VzaUM5dv2a532",
+              "stripeProductId": "prod_VWbCLkAEOix88p",
+              "stripePriceId": "price_1UVY0PLOfCA5mATuEfEqBSIs",
+              "stripeLinkId": "plink_1UVY0QLOfCA5mATuCcQ6iy8G",
+              "stripePrix": 16.49,
+              "stripeMode": "live",
+              "stripeNom": "Cornaline Madagascar 172 gr",
+              "stripeDesc": "Cette cornaline en provenance de Madagascar est une pierre aux reflets chauds et dorés, souvent utilisée pour renforcer la vitalité et l'énergie positive. En lithothérapie, elle est réputée pour stimuler la confiance en soi et aider à surmonter les peurs. Parfaite pour une utilisation quotidienne, elle peut être portée en bijou ou simplement tenue en méditation pour bénéficier de ses bienfaits apaisants.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -26557,7 +26557,17 @@
               "description": "Ce bâton de neuvaine est une offrande spirituelle et symbolique dédiée à la Vierge Marie, connue pour ses vertus de protection et de libération des énergies négatives. Traditionnellement utilisé pour prier et invoquer une aide divine, il est souvent associé à la paix intérieure et à la résolution des tensions émotionnelles. Idéal pour accompagner une période de réflexion ou de demande spirituelle, il s’intègre parfaitement dans un rituel de bien-être ou de méditation.",
               "photo": "images/articles/neuvaine-marie-qui-defait-les-noeuds-mvsaqozai60x.jpg",
               "prixBoutique": 13.7,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/7sYbJ2coi5Vze6Y0Xf2a53o",
+              "stripeProductId": "prod_VWcTGjME7NPmqH",
+              "stripePriceId": "price_1UVZEBLOfCA5mATure2daTBE",
+              "stripeLinkId": "plink_1UVZEBLOfCA5mATuUPrZJEbm",
+              "stripePrix": 14.42,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine Marie qui défait les noeuds",
+              "stripeDesc": "Ce bâton de neuvaine est une offrande spirituelle et symbolique dédiée à la Vierge Marie, connue pour ses vertus de protection et de libération des énergies négatives. Traditionnellement utilisé pour prier et invoquer une aide divine, il est souvent associé à la paix intérieure et à la résolution des tensions émotionnelles. Idéal pour accompagner une période de réflexion ou de demande spirituelle, il s’intègre parfaitement dans un rituel de bien-être ou de méditation.",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         },

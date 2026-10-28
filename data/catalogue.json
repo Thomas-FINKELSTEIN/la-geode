@@ -7242,7 +7242,17 @@
               "description": "Ce galet de Quartz rose en forme de boule est une pierre douce et apaisante, idéale pour harmoniser les émotions et favoriser la sérénité. En lithothérapie, il est souvent utilisé pour ouvrir le cœur à l’amour et renforcer les liens affectifs. Son énergie bienveillante en fait un allié précieux pour apaiser les tensions et cultiver la confiance en soi.",
               "photo": "images/articles/galet-de-quartz-rose-mvrw8v387tsn.jpg",
               "prixBoutique": 24.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ7sM0FAabP9QI0Xf2a52w",
+              "stripeProductId": "prod_VWVuyXR05OVKqZ",
+              "stripePriceId": "price_1UVSsULOfCA5mATuChQj3pYp",
+              "stripeLinkId": "plink_1UVSsVLOfCA5mATufiik53Rq",
+              "stripePrix": 26,
+              "stripeMode": "live",
+              "stripeNom": "Galet de Quartz rose",
+              "stripeDesc": "Ce galet de Quartz rose en forme de boule est une pierre douce et apaisante, idéale pour harmoniser les émotions et favoriser la sérénité. En lithothérapie, il est souvent utilisé pour ouvrir le cœur à l’amour et renforcer les liens affectifs. Son énergie bienveillante en fait un allié précieux pour apaiser les tensions et cultiver la confiance en soi.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

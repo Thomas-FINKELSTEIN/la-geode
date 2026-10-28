@@ -5992,7 +5992,17 @@
               "description": "La magnésite se présente ici sous forme de galets naturels aux teintes douces et apaisantes. Utilisée en lithothérapie pour favoriser la détente et équilibrer les émotions, elle est souvent employée pour apaiser les tensions et favoriser un sommeil réparateur. Ces galets peuvent être utilisés en méditation ou simplement comme éléments décoratifs pour une ambiance harmonieuse.",
               "photo": "images/articles/magnesite-galets-mvsb1imfot0n.jpg",
               "prixBoutique": 12,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/dRm28s9c6es5aUM35n2a53r",
+              "stripeProductId": "prod_VWca1TEevTE4F9",
+              "stripePriceId": "price_1UVZLMLOfCA5mATuTkoyYhqn",
+              "stripeLinkId": "plink_1UVZLNLOfCA5mATuBYUeFffA",
+              "stripePrix": 12.67,
+              "stripeMode": "live",
+              "stripeNom": "Magnésite Galets",
+              "stripeDesc": "La magnésite se présente ici sous forme de galets naturels aux teintes douces et apaisantes. Utilisée en lithothérapie pour favoriser la détente et équilibrer les émotions, elle est souvent employée pour apaiser les tensions et favoriser un sommeil réparateur. Ces galets peuvent être utilisés en méditation ou simplement comme éléments décoratifs pour une ambiance harmonieuse.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

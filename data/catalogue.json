@@ -5491,7 +5491,17 @@
               "description": "Cette géode de citrine offre une beauté naturelle et lumineuse grâce à ses cristaux dorés et translucides. La citrine est souvent associée à l'énergie solaire, apportant joie, vitalité et optimisme. Utilisée en lithothérapie, elle est réputée pour renforcer la confiance en soi et attirer l'abondance.",
               "photo": "images/articles/citrine-x-geode-15-cm-8-cm-mvs9ujn5j1l3.jpg",
               "prixBoutique": 59.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14AeVecoi83Hgf6fS92a53i",
+              "stripeProductId": "prod_VWc3FVOKMqtcLr",
+              "stripePriceId": "price_1UVYp0LOfCA5mATuDzLM5Xse",
+              "stripeLinkId": "plink_1UVYp0LOfCA5mATulLPBVl71",
+              "stripePrix": 61.56,
+              "stripeMode": "live",
+              "stripeNom": "Citrine x géode 15 cm 8 cm",
+              "stripeDesc": "Cette géode de citrine offre une beauté naturelle et lumineuse grâce à ses cristaux dorés et translucides. La citrine est souvent associée à l'énergie solaire, apportant joie, vitalité et optimisme. Utilisée en lithothérapie, elle est réputée pour renforcer la confiance en soi et attirer l'abondance.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

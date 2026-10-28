@@ -7631,7 +7631,17 @@
               "description": "Ces magnifiques coeurs en oeil de tigre captent immédiatement l'attention avec leurs reflets dorés et leurs motifs uniques en forme de tigre. En lithothérapie, cette pierre est souvent associée à la protection, à la confiance en soi et à l'équilibre émotionnel. Elle est idéale pour renforcer la vitalité et apporter une énergie positive au quotidien.",
               "photo": "images/articles/coeur-en-oeil-de-tigre-mvs78insrq0q.jpg",
               "prixBoutique": 19,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/eVq28s73YgAd5AsdK12a52V",
+              "stripeProductId": "prod_VWas0SZjv8S51l",
+              "stripePriceId": "price_1UVXgKLOfCA5mATuB5st9FCb",
+              "stripeLinkId": "plink_1UVXgKLOfCA5mATuvKCtIhxm",
+              "stripePrix": 19.9,
+              "stripeMode": "live",
+              "stripeNom": "Coeur en oeil de tigre",
+              "stripeDesc": "Ces magnifiques coeurs en oeil de tigre captent immédiatement l'attention avec leurs reflets dorés et leurs motifs uniques en forme de tigre. En lithothérapie, cette pierre est souvent associée à la protection, à la confiance en soi et à l'équilibre émotionnel. Elle est idéale pour renforcer la vitalité et apporter une énergie positive au quotidien.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

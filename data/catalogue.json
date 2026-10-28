@@ -5745,7 +5745,17 @@
               "description": "Ces galets de calcite orange aux reflets doux et aux motifs naturels captivants sont parfaits pour apporter une touche chaleureuse à votre intérieur. En lithothérapie, la calcite orange est souvent associée à la joie, à la créativité et à une énergie positive, aidant à stimuler l’enthousiasme et à équilibrer les émotions. Idéale pour décorer une table, un bureau ou une étagère, elle peut aussi être utilisée en méditation pour renforcer la confiance en soi et attirer la prospérité.",
               "photo": "images/articles/galet-de-calcite-orange-mvs8smi4yp8l.jpg",
               "prixBoutique": 7.5,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/7sYaEY4VQ83Hd2U8pH2a536",
+              "stripeProductId": "prod_VWberEJ8aRx5pL",
+              "stripePriceId": "price_1UVYRILOfCA5mATuMUF6CGj3",
+              "stripeLinkId": "plink_1UVYRILOfCA5mATu99w0Jvlk",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Galet de calcite orange",
+              "stripeDesc": "Ces galets de calcite orange aux reflets doux et aux motifs naturels captivants sont parfaits pour apporter une touche chaleureuse à votre intérieur. En lithothérapie, la calcite orange est souvent associée à la joie, à la créativité et à une énergie positive, aidant à stimuler l’enthousiasme et à équilibrer les émotions. Idéale pour décorer une table, un bureau ou une étagère, elle peut aussi être utilisée en méditation pour renforcer la confiance en soi et attirer la prospérité.",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         },

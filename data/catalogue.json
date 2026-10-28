@@ -5453,7 +5453,17 @@
               "description": "La calcite orange est une pierre douce et lumineuse, souvent appelée pierre de la joie et de la vitalité. En lithothérapie, elle est réputée pour stimuler l'énergie vitale, renforcer la confiance en soi et apporter une sensation de bien-être général. Elle est idéale pour illuminer les espaces de vie et favoriser une ambiance chaleureuse et positive.",
               "photo": "images/articles/calcite-orange-mvs9apoqfi55.jpg",
               "prixBoutique": 42,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU7sMcoi2Jn9QI5dv2a53a",
+              "stripeProductId": "prod_VWbn521lvFD6KD",
+              "stripePriceId": "price_1UVYaBLOfCA5mATuNZWLIfJY",
+              "stripeLinkId": "plink_1UVYaBLOfCA5mATuHYTzVWt8",
+              "stripePrix": 43.67,
+              "stripeMode": "live",
+              "stripeNom": "Calcite orange",
+              "stripeDesc": "La calcite orange est une pierre douce et lumineuse, souvent appelée pierre de la joie et de la vitalité. En lithothérapie, elle est réputée pour stimuler l'énergie vitale, renforcer la confiance en soi et apporter une sensation de bien-être général. Elle est idéale pour illuminer les espaces de vie et favoriser une ambiance chaleureuse et positive.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

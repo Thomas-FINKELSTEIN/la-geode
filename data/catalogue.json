@@ -7482,7 +7482,17 @@
               "description": "Le cristal de roche est une pierre pure et transparente, symbole de clarté mentale et d’harmonie énergétique. Utilisé depuis toujours pour amplifier les intentions et purifier l’espace, il favorise la concentration et la sérénité au quotidien. Idéal pour équilibrer les émotions et renforcer la connexion à son intuition, il s’intègre parfaitement dans les pratiques de méditation ou comme élément décoratif lumineux.",
               "photo": "images/articles/pointe-cristal-de-roche-mvsbkj064cge.jpg",
               "prixBoutique": 4.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B600k0FA97L7IA21j2a53t",
+              "stripeProductId": "prod_VWcpGRFdY0Qjcy",
+              "stripePriceId": "price_1UVZZoLOfCA5mATu7DvTO4wZ",
+              "stripeLinkId": "plink_1UVZZoLOfCA5mATupgo0BzSf",
+              "stripePrix": 5.22,
+              "stripeMode": "live",
+              "stripeNom": "Pointe Cristal de roche",
+              "stripeDesc": "Le cristal de roche est une pierre pure et transparente, symbole de clarté mentale et d’harmonie énergétique. Utilisé depuis toujours pour amplifier les intentions et purifier l’espace, il favorise la concentration et la sérénité au quotidien. Idéal pour équilibrer les émotions et renforcer la connexion à son intuition, il s’intègre parfaitement dans les pratiques de méditation ou comme élément décoratif lumineux.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

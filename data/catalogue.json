@@ -8042,7 +8042,17 @@
               "description": "Ces magnifiques coeurs en Améthyste captent immédiatement l'attention avec leur éclat profond et leur forme symbolique. En lithothérapie, l'Améthyste est souvent associée à la sérénité, aidant à apaiser l'esprit et à favoriser un sommeil réparateur. Elle est aussi réputée pour renforcer la clarté mentale et équilibrer les émotions, ce qui en fait un allié précieux pour le bien-être au quotidien.",
               "photo": "images/articles/coeur-amethyste-mvsdgdxlsoyj.jpg",
               "prixBoutique": 19.8,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/3cI5kEdsmfw9bYQ0Xf2a53x",
+              "stripeProductId": "prod_VWdgFypWh8m1eU",
+              "stripePriceId": "price_1UVaOrLOfCA5mATu93B8eNJl",
+              "stripeLinkId": "plink_1UVaOsLOfCA5mATuUSihHGiq",
+              "stripePrix": 20.73,
+              "stripeMode": "live",
+              "stripeNom": "Coeur Améthyste",
+              "stripeDesc": "Ces magnifiques coeurs en Améthyste captent immédiatement l'attention avec leur éclat profond et leur forme symbolique. En lithothérapie, l'Améthyste est souvent associée à la sérénité, aidant à apaiser l'esprit et à favoriser un sommeil réparateur. Elle est aussi réputée pour renforcer la clarté mentale et équilibrer les émotions, ce qui en fait un allié précieux pour le bien-être au quotidien.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

@@ -5528,6 +5528,15 @@
               "stripeDesc": "Cette belle pièce de cyanite azur, aux reflets doux et apaisants, est une pierre naturelle aux propriétés énergétiques remarquables. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité, équilibrer les émotions et apaiser les tensions du quotidien. Son énergie calme et harmonieuse en fait un allié précieux pour méditation et relaxation.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "galet-d-amethyste-mvrugdcbi7l1",
+              "nom": "Galet d' Améthyste",
+              "prix": 6.46,
+              "description": "Ce galet d'améthyste aux reflets doux et apaisants est une pierre aux multiples vertus en lithothérapie. Connue pour favoriser la sérénité et apaiser les émotions, elle aide à calmer l'esprit et à favoriser un sommeil réparateur. Idéale pour les moments de stress ou de surmenage, elle peut être utilisée en méditation ou simplement tenue en main pour se ressourcer.",
+              "photo": "images/articles/galet-d-amethyste-mvrugdcbxmzy.jpg",
+              "prixBoutique": 6,
+              "stock": 2
             }
           ]
         },

@@ -27388,7 +27388,17 @@
               "description": "Cette pointe de citrine en forme pyramidale est une pierre aux reflets dorés et apaisants, souvent utilisée pour attirer la prospérité et renforcer la confiance en soi. En lithothérapie, elle est réputée pour purifier l’énergie et stimuler la motivation, aidant ainsi à surmonter les blocages émotionnels. Idéale pour décorer un espace tout en bénéficiant de ses vertus harmonisantes, elle s’intègre parfaitement dans une pratique spirituelle ou un environnement bien-être.",
               "photo": "images/articles/pointe-de-citrine-mvsb6wymgrmv.jpg",
               "prixBoutique": 26.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFadRa2NIfw98MEbBT2a53s",
+              "stripeProductId": "prod_VWcfmBw76QjW3C",
+              "stripePriceId": "price_1UVZPwLOfCA5mATudzZIjJuq",
+              "stripeLinkId": "plink_1UVZPwLOfCA5mATuyW8mbGul",
+              "stripePrix": 28.07,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de citrine",
+              "stripeDesc": "Cette pointe de citrine en forme pyramidale est une pierre aux reflets dorés et apaisants, souvent utilisée pour attirer la prospérité et renforcer la confiance en soi. En lithothérapie, elle est réputée pour purifier l’énergie et stimuler la motivation, aidant ainsi à surmonter les blocages émotionnels. Idéale pour décorer un espace tout en bénéficiant de ses vertus harmonisantes, elle s’intègre parfaitement dans une pratique spirituelle ou un environnement bien-être.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

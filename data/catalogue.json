@@ -27941,7 +27941,17 @@
               "description": "Cette sphère en opale rose est une pièce unique alliant beauté et douceur. En lithothérapie, l'opale rose est souvent associée à l'ouverture du cœur, favorisant l'amour, la compassion et une énergie apaisante. Elle est idéale pour créer une ambiance harmonieuse et renforcer la connexion avec ses émotions positives.",
               "photo": "images/articles/sphere-en-opale-rose-mvs7oagvezag.jpg",
               "prixBoutique": 49.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi8wQagaes5d2U21j2a52Z",
+              "stripeProductId": "prod_VWb4iu5yex5QGr",
+              "stripePriceId": "price_1UVXs6LOfCA5mATuaCeRt8I4",
+              "stripeLinkId": "plink_1UVXs6LOfCA5mATubneB6EeO",
+              "stripePrix": 51.84,
+              "stripeMode": "live",
+              "stripeNom": "Sphère en opale rose",
+              "stripeDesc": "Cette sphère en opale rose est une pièce unique alliant beauté et douceur. En lithothérapie, l'opale rose est souvent associée à l'ouverture du cœur, favorisant l'amour, la compassion et une énergie apaisante. Elle est idéale pour créer une ambiance harmonieuse et renforcer la connexion avec ses émotions positives.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

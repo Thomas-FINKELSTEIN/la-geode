@@ -7162,7 +7162,17 @@
               "description": "La sélénite est une pierre d'une énergie apaisante et purificatrice, idéale pour créer un environnement harmonieux. Utilisée en lithothérapie, elle est souvent placée près des lits ou des espaces de méditation pour favoriser la sérénité et un sommeil réparateur. Son éclat lumineux et sa douceur en font aussi un allié pour équilibrer les émotions et renforcer la connexion à son intuition.",
               "photo": "images/articles/baton-selenite-mvseopkfrvy3.jpg",
               "prixBoutique": 14.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU9AUewqes5fb235n2a53F",
+              "stripeProductId": "prod_VWeGY8xawbhApc",
+              "stripePriceId": "price_1UVaxVLOfCA5mATuiLfj229Y",
+              "stripeLinkId": "plink_1UVaxVLOfCA5mATujoDJIL9k",
+              "stripePrix": 15.66,
+              "stripeMode": "live",
+              "stripeNom": "Batôn sélénite",
+              "stripeDesc": "La sélénite est une pierre d'une énergie apaisante et purificatrice, idéale pour créer un environnement harmonieux. Utilisée en lithothérapie, elle est souvent placée près des lits ou des espaces de méditation pour favoriser la sérénité et un sommeil réparateur. Son éclat lumineux et sa douceur en font aussi un allié pour équilibrer les émotions et renforcer la connexion à son intuition.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

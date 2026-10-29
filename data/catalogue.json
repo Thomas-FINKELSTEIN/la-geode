@@ -9103,7 +9103,17 @@
               "description": "Le Coeur de Fluorite est une pierre aux reflets verts éclatants et aux facettes douces qui captent la lumière. En lithothérapie, elle est souvent associée à la clarté mentale, à la concentration et à l'équilibre émotionnel, aidant à apaiser les tensions et à stimuler la communication. Idéale pour les espaces de travail ou comme objet de méditation, elle apporte une énergie harmonieuse et apaisante au quotidien.",
               "photo": "images/articles/coeur-de-fluorite-mvtuelhm3umz.jpg",
               "prixBoutique": 9.5,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/7sY00k3RM4Rvgf6eO52a60w",
+              "stripeProductId": "prod_VX1aqAOivmVBGo",
+              "stripePriceId": "price_1UVxXBLOfCA5mATuKJXVnJgI",
+              "stripeLinkId": "plink_1UVxXBLOfCA5mATumqVDpe5P",
+              "stripePrix": 10.08,
+              "stripeMode": "live",
+              "stripeNom": "Coeur de Fluorite",
+              "stripeDesc": "Le Coeur de Fluorite est une pierre aux reflets verts éclatants et aux facettes douces qui captent la lumière. En lithothérapie, elle est souvent associée à la clarté mentale, à la concentration et à l'équilibre émotionnel, aidant à apaiser les tensions et à stimuler la communication. Idéale pour les espaces de travail ou comme objet de méditation, elle apporte une énergie harmonieuse et apaisante au quotidien.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

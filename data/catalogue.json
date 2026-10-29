@@ -6125,7 +6125,17 @@
               "description": "Ces galets de pyrite aux reflets dorés et métalliques captent immédiatement l'attention. Connue sous le nom de pierre du succès, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi, attirer la prospérité et stimuler l'énergie vitale. Son éclat brillant en fait aussi un choix populaire pour sublimer les espaces de vie ou de travail.",
               "photo": "images/articles/pyrite-galets-mvta1f23pjcd.jpg",
               "prixBoutique": 7.5,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/7sYcN6dsm2JnbYQ5dv2a53X",
+              "stripeProductId": "prod_VWsOZWBcCvYsH8",
+              "stripePriceId": "price_1UVodOLOfCA5mATuEdEcsGKf",
+              "stripeLinkId": "plink_1UVodOLOfCA5mATuKKDhUYc2",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Pyrite Galets",
+              "stripeDesc": "Ces galets de pyrite aux reflets dorés et métalliques captent immédiatement l'attention. Connue sous le nom de pierre du succès, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi, attirer la prospérité et stimuler l'énergie vitale. Son éclat brillant en fait aussi un choix populaire pour sublimer les espaces de vie ou de travail.",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         },

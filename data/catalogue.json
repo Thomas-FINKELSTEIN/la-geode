@@ -32556,7 +32556,17 @@
               "description": "La statuette Tara blanche incarne la compassion et la protection, souvent utilisée pour attirer la sérénité et renforcer la connexion spirituelle. Selon la lithothérapie, elle favorise l'apaisement des émotions et aide à surmonter les épreuves avec grâce. Idéale pour décorer un espace de méditation ou un lieu de vie, elle diffuse une énergie bienveillante et rassurante.",
               "photo": "images/articles/tara-blanche-13-cm-mvtdjsypayuh.jpg",
               "prixBoutique": 99,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa7sMdsmfw9gf6bBT2a547",
+              "stripeProductId": "prod_VWtyTCD2ApSNYO",
+              "stripePriceId": "price_1UVqAdLOfCA5mATuhF7wicy8",
+              "stripeLinkId": "plink_1UVqAdLOfCA5mATuUlak6eOJ",
+              "stripePrix": 102.59,
+              "stripeMode": "live",
+              "stripeNom": "Tara blanche 13 cm",
+              "stripeDesc": "La statuette Tara blanche incarne la compassion et la protection, souvent utilisée pour attirer la sérénité et renforcer la connexion spirituelle. Selon la lithothérapie, elle favorise l'apaisement des émotions et aide à surmonter les épreuves avec grâce. Idéale pour décorer un espace de méditation ou un lieu de vie, elle diffuse une énergie bienveillante et rassurante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

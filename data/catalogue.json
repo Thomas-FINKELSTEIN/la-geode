@@ -6326,6 +6326,15 @@
               "stripeDesc": "L’Opale d'Australie est une pierre aux reflets magiques et changeants, souvent appelée pierre de créativité et d’inspiration. En lithothérapie, elle est réputée pour apaiser les émotions, favoriser la connexion spirituelle et renforcer la confiance en soi. Idéale pour ceux qui cherchent à harmoniser leur énergie et à stimuler leur intuition, elle est aussi prisée pour ses propriétés apaisantes sur le stress et les tensions.",
               "stripeStock": 34,
               "epuise": false
+            },
+            {
+              "id": "bois-fossile-mvto719c7zgt",
+              "nom": "Bois fossile",
+              "prix": 10.08,
+              "description": "Ce galet de bois fossile est une pièce unique aux reflets dorés et aux textures profondes, témoignant de la transformation minérale de la matière organique au fil des millénaires. En lithothérapie, il est souvent utilisé pour renforcer la connexion à la nature et favoriser un sentiment de stabilité intérieure. Son énergie apaisante est idéale pour méditer ou simplement décorer un espace avec une touche d'histoire naturelle.",
+              "photo": "images/articles/bois-fossile-mvto719ccc5v.jpg",
+              "prixBoutique": 9.5,
+              "stock": 1
             }
           ]
         },

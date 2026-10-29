@@ -9084,7 +9084,17 @@
               "description": "Cette Fluorite multicolore en forme de galet est une pierre aux couleurs vibrantes et apaisantes, idéale pour harmoniser les énergies. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, la clarté mentale et équilibrer les émotions. Parfaite pour une décoration naturelle ou comme objet de méditation, elle apporte une touche de bien-être et d'élégance à votre quotidien.",
               "photo": "images/articles/fluorite-multicolore-mvtud1ua9iiz.jpg",
               "prixBoutique": 7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe6oI882es59QI5dv2a60v",
+              "stripeProductId": "prod_VX1ZF41dfPTCHx",
+              "stripePriceId": "price_1UVxVyLOfCA5mATuvBPMEPMs",
+              "stripeLinkId": "plink_1UVxVzLOfCA5mATusr8AQNho",
+              "stripePrix": 7.5,
+              "stripeMode": "live",
+              "stripeNom": "Fluorite multicolore",
+              "stripeDesc": "Cette Fluorite multicolore en forme de galet est une pierre aux couleurs vibrantes et apaisantes, idéale pour harmoniser les énergies. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, la clarté mentale et équilibrer les émotions. Parfaite pour une décoration naturelle ou comme objet de méditation, elle apporte une touche de bien-être et d'élégance à votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

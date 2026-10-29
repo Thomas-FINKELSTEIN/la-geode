@@ -9122,7 +9122,17 @@
               "description": "Ces boules de fluorite multicolore captent immédiatement l'attention avec leurs reflets changeants et leurs couleurs vives. En lithothérapie, cette pierre est souvent associée à l'équilibre mental et à la concentration, aidant à clarifier les idées et à stimuler l'intellect. Elle est aussi utilisée pour harmoniser les émotions et apporter une énergie positive au quotidien.",
               "photo": "images/articles/fluorite-multicolore-mvtuhnorsl7z.jpg",
               "prixBoutique": 7.6,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/9B68wQbke1Fj7IA6hz2a60x",
+              "stripeProductId": "prod_VX1cY0rxUo1Tgk",
+              "stripePriceId": "price_1UVxZXLOfCA5mATulYCpjqaE",
+              "stripeLinkId": "plink_1UVxZXLOfCA5mATuENrIrSrm",
+              "stripePrix": 8.12,
+              "stripeMode": "live",
+              "stripeNom": "Fluorite multicolore",
+              "stripeDesc": "Ces boules de fluorite multicolore captent immédiatement l'attention avec leurs reflets changeants et leurs couleurs vives. En lithothérapie, cette pierre est souvent associée à l'équilibre mental et à la concentration, aidant à clarifier les idées et à stimuler l'intellect. Elle est aussi utilisée pour harmoniser les émotions et apporter une énergie positive au quotidien.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

@@ -8943,6 +8943,15 @@
               "stripeDesc": "L'Aventurine est une pierre douce et apaisante, souvent appelée la pierre de la chance et de la prospérité. Elle est réputée pour apporter équilibre émotionnel, sérénité et harmonie dans la vie quotidienne. Idéale pour créer un environnement positif, elle est aussi utilisée pour renforcer la confiance en soi et attirer les opportunités.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "fluorite-multicolore-mvttan3wwtxw",
+              "nom": "Fluorite multicolore",
+              "prix": 31.17,
+              "description": "Cette boule de Fluorite multicolore est une pierre aux couleurs vibrantes et captivantes, idéale pour dynamiser votre espace. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, équilibrer les émotions et renforcer la clarté mentale. Parfaite pour les débutants comme pour les passionnés, elle apporte une énergie harmonieuse et apaisante au quotidien.",
+              "photo": "images/articles/fluorite-multicolore-mvttan3w2vrg.jpg",
+              "prixBoutique": 29.9,
+              "stock": 1
             }
           ]
         }

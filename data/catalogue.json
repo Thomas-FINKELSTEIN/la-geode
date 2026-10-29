@@ -5700,7 +5700,17 @@
               "description": "La Rhodocrosite est une pierre aux reflets roses et blancs, souvent appelée pierre de l'amour et de la compassion. En lithothérapie, elle est réputée pour apaiser les émotions, favoriser l'harmonie dans les relations et renforcer la confiance en soi. Idéale pour ceux qui cherchent à équilibrer leur cœur et à cultiver des sentiments positifs.",
               "photo": "images/articles/rhodocrosite-de-collection-mvtnsfaw1wj7.jpg",
               "prixBoutique": 390,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm28s5ZU3NrbYQaxP2a607",
+              "stripeProductId": "prod_VWyby8lL3kH6wO",
+              "stripePriceId": "price_1UVuduLOfCA5mATus00sudfI",
+              "stripeLinkId": "plink_1UVudvLOfCA5mATu59IPhKxy",
+              "stripePrix": 403.36,
+              "stripeMode": "live",
+              "stripeNom": "Rhodocrosite de collection",
+              "stripeDesc": "La Rhodocrosite est une pierre aux reflets roses et blancs, souvent appelée pierre de l'amour et de la compassion. En lithothérapie, elle est réputée pour apaiser les émotions, favoriser l'harmonie dans les relations et renforcer la confiance en soi. Idéale pour ceux qui cherchent à équilibrer leur cœur et à cultiver des sentiments positifs.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

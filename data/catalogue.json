@@ -8468,6 +8468,22 @@
               "epuise": false
             }
           ]
+        },
+        {
+          "id": "pyrite-mvt9evi5j8ng",
+          "nom": "Pyrite",
+          "slogan": "",
+          "articles": [
+            {
+              "id": "pyrite-ovale-mvt9g17odte2",
+              "nom": "Pyrite Ovale",
+              "prix": 30.24,
+              "description": "La Pyrite, aussi appelée or des fous pour son éclat métallique doré, est une pierre aux multiples vertus énergétiques. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi, stimuler la motivation et attirer la prospérité. Son énergie dynamique en fait un allié précieux pour booster la concentration et l'équilibre émotionnel au quotidien.",
+              "photo": "images/articles/pyrite-ovale-mvt9g17ot5rb.jpg",
+              "prixBoutique": 29,
+              "stock": 1
+            }
+          ]
         }
       ]
     },

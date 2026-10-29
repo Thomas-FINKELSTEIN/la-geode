@@ -8970,7 +8970,17 @@
               "description": "Cet oeuf de fluorite aux reflets verts et dorés est une pierre naturelle aux multiples facettes. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, équilibrer les émotions et favoriser la clarté mentale. Son énergie apaisante en fait un allié précieux pour le bien-être au quotidien.",
               "photo": "images/articles/oeuf-de-fluorite-mvttcglh2yoo.jpg",
               "prixBoutique": 14.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYaEY73Ydo16EwbBT2a60m",
+              "stripeProductId": "prod_VX1666iwASrh9g",
+              "stripePriceId": "price_1UVx4aLOfCA5mATumx0qLxvc",
+              "stripeLinkId": "plink_1UVx4bLOfCA5mATu6B8e34G9",
+              "stripePrix": 15.66,
+              "stripeMode": "live",
+              "stripeNom": "Oeuf de fluorite",
+              "stripeDesc": "Cet oeuf de fluorite aux reflets verts et dorés est une pierre naturelle aux multiples facettes. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, équilibrer les émotions et favoriser la clarté mentale. Son énergie apaisante en fait un allié précieux pour le bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

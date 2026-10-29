@@ -8932,7 +8932,17 @@
               "description": "L'Aventurine est une pierre douce et apaisante, souvent appelée la pierre de la chance et de la prospérité. Elle est réputée pour apporter équilibre émotionnel, sérénité et harmonie dans la vie quotidienne. Idéale pour créer un environnement positif, elle est aussi utilisée pour renforcer la confiance en soi et attirer les opportunités.",
               "photo": "images/articles/aventurine-boule-mvtt9jlxebsr.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQeVeewqgAd8MEbBT2a60k",
+              "stripeProductId": "prod_VX146tE47O6kdI",
+              "stripePriceId": "price_1UVx2JLOfCA5mATuDI8qPF5N",
+              "stripeLinkId": "plink_1UVx2JLOfCA5mATuRnRlO0nQ",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Aventurine Boule",
+              "stripeDesc": "L'Aventurine est une pierre douce et apaisante, souvent appelée la pierre de la chance et de la prospérité. Elle est réputée pour apporter équilibre émotionnel, sérénité et harmonie dans la vie quotidienne. Idéale pour créer un environnement positif, elle est aussi utilisée pour renforcer la confiance en soi et attirer les opportunités.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

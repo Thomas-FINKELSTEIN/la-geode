@@ -5624,7 +5624,17 @@
               "description": "Cette sphère en pyrite capte immédiatement l'attention avec ses reflets dorés et métalliques qui évoquent richesse et abondance. En lithothérapie, la pyrite est souvent utilisée pour renforcer la confiance en soi, stimuler la motivation et attirer la prospérité. Son énergie dynamique en fait un allié idéal pour booster la concentration et l'équilibre émotionnel au quotidien.",
               "photo": "images/articles/sphere-en-pyrite-mvtbhj3udawm.jpg",
               "prixBoutique": 104.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe4gA4VQfw94wo5dv2a540",
+              "stripeProductId": "prod_VWt2mFqtHTgseV",
+              "stripePriceId": "price_1UVpGdLOfCA5mATui8JWEyTS",
+              "stripeLinkId": "plink_1UVpGeLOfCA5mATuDpojsZZm",
+              "stripePrix": 108.07,
+              "stripeMode": "live",
+              "stripeNom": "Sphère en Pyrite",
+              "stripeDesc": "Cette sphère en pyrite capte immédiatement l'attention avec ses reflets dorés et métalliques qui évoquent richesse et abondance. En lithothérapie, la pyrite est souvent utilisée pour renforcer la confiance en soi, stimuler la motivation et attirer la prospérité. Son énergie dynamique en fait un allié idéal pour booster la concentration et l'équilibre émotionnel au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

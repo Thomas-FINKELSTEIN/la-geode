@@ -27521,7 +27521,17 @@
               "description": "Ces galets de Shiva Lingham, aux teintes douces et apaisantes, sont des pierres naturelles aux propriétés énergétiques profondes. Traditionnellement utilisées en lithothérapie pour favoriser l'équilibre émotionnel et la connexion spirituelle, elles sont souvent associées à la sérénité et à la stabilité intérieure. Parfaites pour la méditation ou comme éléments décoratifs dans un espace sacré, elles apportent une touche de bien-être et de calme au quotidien.",
               "photo": "images/articles/shiva-lingham-mvto2odeyd4q.jpg",
               "prixBoutique": 4,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/fZu9AU1JE3Nr2ogbBT2a60b",
+              "stripeProductId": "prod_VWyjfdK5Gz3NWG",
+              "stripePriceId": "price_1UVulgLOfCA5mATuprKqSSvN",
+              "stripeLinkId": "plink_1UVulgLOfCA5mATuR2ofJQvg",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Shiva Lingham",
+              "stripeDesc": "Ces galets de Shiva Lingham, aux teintes douces et apaisantes, sont des pierres naturelles aux propriétés énergétiques profondes. Traditionnellement utilisées en lithothérapie pour favoriser l'équilibre émotionnel et la connexion spirituelle, elles sont souvent associées à la sérénité et à la stabilité intérieure. Parfaites pour la méditation ou comme éléments décoratifs dans un espace sacré, elles apportent une touche de bien-être et de calme au quotidien.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

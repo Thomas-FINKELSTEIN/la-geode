@@ -5597,6 +5597,25 @@
               "stripeDesc": "La Pierre des fées est une pièce unique et mystérieuse, souvent associée aux légendes et à l'énergie des pierres naturelles. Selon la lithothérapie, elle est réputée pour apporter protection, sérénité et équilibre émotionnel, aidant à apaiser les esprits et à renforcer la connexion avec la nature. Idéale pour décorer tout intérieur tout en invitant une touche de magie et de bien-être au quotidien.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "sphere-en-pyrite-mvta87bg38dp",
+              "nom": "Sphère en Pyrite",
+              "prix": 106.52,
+              "description": "Cette sphère en pyrite capte immédiatement l'attention avec son éclat métallique et ses reflets dorés, rappelant la lumière du soleil. En lithothérapie, la pyrite est souvent appelée la pierre de l'abondance et de la confiance, aidant à renforcer la motivation et à attirer la prospérité dans la vie quotidienne. Son énergie dynamique en fait un allié précieux pour stimuler la concentration et renforcer le sentiment de sécurité intérieure.",
+              "photo": "images/articles/sphere-en-pyrite-mvta87bgars0.jpg",
+              "prixBoutique": 102.8,
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU4gA9c65Vz6EwdK12a53Z",
+              "stripeProductId": "prod_VWsTSpmxKtFk4D",
+              "stripePriceId": "price_1UVoidLOfCA5mATu5XhnGUkq",
+              "stripeLinkId": "plink_1UVoidLOfCA5mATusox2hQ9x",
+              "stripePrix": 106.52,
+              "stripeMode": "live",
+              "stripeNom": "Sphère en Pyrite",
+              "stripeDesc": "Cette sphère en pyrite capte immédiatement l'attention avec son éclat métallique et ses reflets dorés, rappelant la lumière du soleil. En lithothérapie, la pyrite est souvent appelée la pierre de l'abondance et de la confiance, aidant à renforcer la motivation et à attirer la prospérité dans la vie quotidienne. Son énergie dynamique en fait un allié précieux pour stimuler la concentration et renforcer le sentiment de sécurité intérieure.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -6154,25 +6173,6 @@
               "stripeNom": "Pyrite en cube",
               "stripeDesc": "La pyrite, souvent appelée or des fous à cause de son éclat métallique doré, est une pierre puissante pour attirer la prospérité et renforcer la confiance en soi. En lithothérapie, elle est utilisée pour stimuler l'énergie vitale et équilibrer les émotions, aidant à surmonter les doutes et à attirer l'abondance. Son énergie dynamique en fait un allié idéal pour booster la motivation et la réussite dans les projets personnels ou professionnels.",
               "stripeStock": 7,
-              "epuise": false
-            },
-            {
-              "id": "sphere-en-pyrite-mvta87bg38dp",
-              "nom": "Sphère en Pyrite",
-              "prix": 106.52,
-              "description": "Cette sphère en pyrite capte immédiatement l'attention avec son éclat métallique et ses reflets dorés, rappelant la lumière du soleil. En lithothérapie, la pyrite est souvent appelée la pierre de l'abondance et de la confiance, aidant à renforcer la motivation et à attirer la prospérité dans la vie quotidienne. Son énergie dynamique en fait un allié précieux pour stimuler la concentration et renforcer le sentiment de sécurité intérieure.",
-              "photo": "images/articles/sphere-en-pyrite-mvta87bgars0.jpg",
-              "prixBoutique": 102.8,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/6oU4gA9c65Vz6EwdK12a53Z",
-              "stripeProductId": "prod_VWsTSpmxKtFk4D",
-              "stripePriceId": "price_1UVoidLOfCA5mATu5XhnGUkq",
-              "stripeLinkId": "plink_1UVoidLOfCA5mATusox2hQ9x",
-              "stripePrix": 106.52,
-              "stripeMode": "live",
-              "stripeNom": "Sphère en Pyrite",
-              "stripeDesc": "Cette sphère en pyrite capte immédiatement l'attention avec son éclat métallique et ses reflets dorés, rappelant la lumière du soleil. En lithothérapie, la pyrite est souvent appelée la pierre de l'abondance et de la confiance, aidant à renforcer la motivation et à attirer la prospérité dans la vie quotidienne. Son énergie dynamique en fait un allié précieux pour stimuler la concentration et renforcer le sentiment de sécurité intérieure.",
-              "stripeStock": 1,
               "epuise": false
             }
           ]

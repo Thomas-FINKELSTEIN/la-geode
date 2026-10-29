@@ -8951,7 +8951,17 @@
               "description": "Cette boule de Fluorite multicolore est une pierre aux couleurs vibrantes et captivantes, idéale pour dynamiser votre espace. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, équilibrer les émotions et renforcer la clarté mentale. Parfaite pour les débutants comme pour les passionnés, elle apporte une énergie harmonieuse et apaisante au quotidien.",
               "photo": "images/articles/fluorite-multicolore-mvttan3w2vrg.jpg",
               "prixBoutique": 29.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI28sbkeabP4wo5dv2a60l",
+              "stripeProductId": "prod_VX15lFFyKaWMRt",
+              "stripePriceId": "price_1UVx35LOfCA5mATu9LTspSyJ",
+              "stripeLinkId": "plink_1UVx35LOfCA5mATu0bMBduZA",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Fluorite multicolore",
+              "stripeDesc": "Cette boule de Fluorite multicolore est une pierre aux couleurs vibrantes et captivantes, idéale pour dynamiser votre espace. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, équilibrer les émotions et renforcer la clarté mentale. Parfaite pour les débutants comme pour les passionnés, elle apporte une énergie harmonieuse et apaisante au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

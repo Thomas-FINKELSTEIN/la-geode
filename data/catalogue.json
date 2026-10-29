@@ -9046,7 +9046,17 @@
               "description": "Cette belle Fluorite multicolore de 4 cm est une pierre aux couleurs vibrantes et apaisantes, idéale pour équilibrer les énergies. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, la clarté mentale et la communication. Parfaite pour décorer une table ou un bureau, elle apporte harmonie et sérénité au quotidien.",
               "photo": "images/articles/fluorite-multicolore-4-cm-mvtu6ux2xpo1.jpg",
               "prixBoutique": 7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZufZi2NIdo1e6YfS92a60t",
+              "stripeProductId": "prod_VX1Uc6SPVFYS4i",
+              "stripePriceId": "price_1UVxRLLOfCA5mATuaOu3ZLal",
+              "stripeLinkId": "plink_1UVxRMLOfCA5mATuVVEL7jnE",
+              "stripePrix": 7.5,
+              "stripeMode": "live",
+              "stripeNom": "Fluorite multicolore 4 cm",
+              "stripeDesc": "Cette belle Fluorite multicolore de 4 cm est une pierre aux couleurs vibrantes et apaisantes, idéale pour équilibrer les énergies. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, la clarté mentale et la communication. Parfaite pour décorer une table ou un bureau, elle apporte harmonie et sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

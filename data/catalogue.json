@@ -9008,7 +9008,17 @@
               "description": "Ces bâtonnets de Fluorite multicolore captivent par leurs teintes douces et changeantes, alliant des nuances de violet, orange et vert. Pierre prisée en lithothérapie, elle est réputée pour apaiser l’esprit, clarifier les idées et réduire le stress, tout en renforçant la confiance en soi. Parfaite pour décorer un bureau ou accompagner vos moments de méditation, elle apporte harmonie et équilibre au quotidien.",
               "photo": "images/articles/fluorite-multicolore-mvttqy71p4el.jpg",
               "prixBoutique": 13.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/5kQeVeewq83H7IAcFX2a60o",
+              "stripeProductId": "prod_VX1HJ4DTyTCzyG",
+              "stripePriceId": "price_1UVxFMLOfCA5mATujinlrGnS",
+              "stripeLinkId": "plink_1UVxFNLOfCA5mATuujr0OcVP",
+              "stripePrix": 14.22,
+              "stripeMode": "live",
+              "stripeNom": "Fluorite multicolore",
+              "stripeDesc": "Ces bâtonnets de Fluorite multicolore captivent par leurs teintes douces et changeantes, alliant des nuances de violet, orange et vert. Pierre prisée en lithothérapie, elle est réputée pour apaiser l’esprit, clarifier les idées et réduire le stress, tout en renforçant la confiance en soi. Parfaite pour décorer un bureau ou accompagner vos moments de méditation, elle apporte harmonie et équilibre au quotidien.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

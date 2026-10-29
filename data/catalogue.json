@@ -6106,7 +6106,17 @@
               "description": "La pyrite brute, aussi appelée or des fous pour son éclat métallique doré, est une pierre puissante aux multiples vertus. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi, attirer l’abondance et stimuler la motivation. Son énergie dynamique en fait un allié idéal pour ceux qui cherchent à booster leur énergie vitale et leur détermination.",
               "photo": "images/articles/pyrite-brute-cristal-mvt94b468s68.jpg",
               "prixBoutique": 14,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu6oIaga83H4wo35n2a53R",
+              "stripeProductId": "prod_VWryggrYqGafWW",
+              "stripePriceId": "price_1UVoEWLOfCA5mATuTNFybT8s",
+              "stripeLinkId": "plink_1UVoEWLOfCA5mATuQjDlN8b1",
+              "stripePrix": 14.73,
+              "stripeMode": "live",
+              "stripeNom": "Pyrite brute cristal",
+              "stripeDesc": "La pyrite brute, aussi appelée or des fous pour son éclat métallique doré, est une pierre puissante aux multiples vertus. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi, attirer l’abondance et stimuler la motivation. Son énergie dynamique en fait un allié idéal pour ceux qui cherchent à booster leur énergie vitale et leur détermination.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

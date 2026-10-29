@@ -5681,7 +5681,17 @@
               "description": "L'Aigue marine est une pierre aux reflets bleutés apaisants, souvent associée à la sérénité et à la purification des énergies. Selon les croyances en lithothérapie, elle favorise la clarté mentale et aide à apaiser les émotions perturbées. Idéale pour les espaces de méditation ou comme pierre de protection, elle est aussi utilisée pour équilibrer les chakras de la gorge et du cœur.",
               "photo": "images/articles/aigue-marine-mvtnbaoi4b6s.jpg",
               "prixBoutique": 94.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI8wQfAu0Bf8ME35n2a604",
+              "stripeProductId": "prod_VWyNmydnaPmhl4",
+              "stripePriceId": "price_1UVuR1LOfCA5mATunX7UrJ5Y",
+              "stripeLinkId": "plink_1UVuR1LOfCA5mATuwgHyDgUq",
+              "stripePrix": 97.94,
+              "stripeMode": "live",
+              "stripeNom": "Aigue marine",
+              "stripeDesc": "L'Aigue marine est une pierre aux reflets bleutés apaisants, souvent associée à la sérénité et à la purification des énergies. Selon les croyances en lithothérapie, elle favorise la clarté mentale et aide à apaiser les émotions perturbées. Idéale pour les espaces de méditation ou comme pierre de protection, elle est aussi utilisée pour équilibrer les chakras de la gorge et du cœur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

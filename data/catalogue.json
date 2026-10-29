@@ -6220,7 +6220,17 @@
               "description": "Ces galets de Larimar, aux teintes bleutées et turquoise uniques, captent l'essence même de la mer des Caraïbes. Appelée aussi pierre des sirènes, elle est réputée pour apaiser les émotions, favoriser la sérénité et renforcer la connexion à son intuition. Idéale pour méditation ou décoration, elle diffuse une énergie calme et protectrice au quotidien.",
               "photo": "images/articles/larimar-galets-mvtn32wx2i26.jpg",
               "prixBoutique": 9,
-              "stock": 10
+              "stock": 10,
+              "stripe": "https://buy.stripe.com/6oUfZicoifw99QIdK12a602",
+              "stripeProductId": "prod_VWyHgJzfflbX1A",
+              "stripePriceId": "price_1UVuKrLOfCA5mATu18guUv27",
+              "stripeLinkId": "plink_1UVuKsLOfCA5mATuBKKWE5I0",
+              "stripePrix": 9.57,
+              "stripeMode": "live",
+              "stripeNom": "Larimar Galets",
+              "stripeDesc": "Ces galets de Larimar, aux teintes bleutées et turquoise uniques, captent l'essence même de la mer des Caraïbes. Appelée aussi pierre des sirènes, elle est réputée pour apaiser les émotions, favoriser la sérénité et renforcer la connexion à son intuition. Idéale pour méditation ou décoration, elle diffuse une énergie calme et protectrice au quotidien.",
+              "stripeStock": 10,
+              "epuise": false
             }
           ]
         },

@@ -6372,7 +6372,17 @@
               "description": "Ces galets de fluorite multicolore captivent par leurs reflets changeants et leurs teintes vibrantes, mêlant pourpre profond et vert émeraude. En lithothérapie, la fluorite est souvent associée à la concentration, à la clarté mentale et à l’équilibre émotionnel, aidant à structurer les pensées et à renforcer la confiance en soi. Idéale pour décorer un espace ou à porter en bijou, elle apporte une énergie harmonieuse et stimulante au quotidien.",
               "photo": "images/articles/fluorite-multicolore-mvtu94nepup5.jpg",
               "prixBoutique": 6.5,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/28EfZi2NI0Bfgf60Xf2a60u",
+              "stripeProductId": "prod_VX1WzP0gQJggjH",
+              "stripePriceId": "price_1UVxT3LOfCA5mATuv3NwtbpF",
+              "stripeLinkId": "plink_1UVxT3LOfCA5mATuN45UYMqK",
+              "stripePrix": 6.98,
+              "stripeMode": "live",
+              "stripeNom": "Fluorite multicolore",
+              "stripeDesc": "Ces galets de fluorite multicolore captivent par leurs reflets changeants et leurs teintes vibrantes, mêlant pourpre profond et vert émeraude. En lithothérapie, la fluorite est souvent associée à la concentration, à la clarté mentale et à l’équilibre émotionnel, aidant à structurer les pensées et à renforcer la confiance en soi. Idéale pour décorer un espace ou à porter en bijou, elle apporte une énergie harmonieuse et stimulante au quotidien.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

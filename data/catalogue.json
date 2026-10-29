@@ -6334,7 +6334,17 @@
               "description": "Ce galet de bois fossile est une pièce unique aux reflets dorés et aux textures profondes, témoignant de la transformation minérale de la matière organique au fil des millénaires. En lithothérapie, il est souvent utilisé pour renforcer la connexion à la nature et favoriser un sentiment de stabilité intérieure. Son énergie apaisante est idéale pour méditer ou simplement décorer un espace avec une touche d'histoire naturelle.",
               "photo": "images/articles/bois-fossile-mvto719ccc5v.jpg",
               "prixBoutique": 9.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZufZidsmdo1fb2gWd2a60c",
+              "stripeProductId": "prod_VWymfFdnnH0UrT",
+              "stripePriceId": "price_1UVuowLOfCA5mATuxiJuxK5v",
+              "stripeLinkId": "plink_1UVuowLOfCA5mATu2fkG7OJX",
+              "stripePrix": 10.08,
+              "stripeMode": "live",
+              "stripeNom": "Bois fossile",
+              "stripeDesc": "Ce galet de bois fossile est une pièce unique aux reflets dorés et aux textures profondes, témoignant de la transformation minérale de la matière organique au fil des millénaires. En lithothérapie, il est souvent utilisé pour renforcer la connexion à la nature et favoriser un sentiment de stabilité intérieure. Son énergie apaisante est idéale pour méditer ou simplement décorer un espace avec une touche d'histoire naturelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

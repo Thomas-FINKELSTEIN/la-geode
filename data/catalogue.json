@@ -6136,6 +6136,15 @@
               "stripeDesc": "Ces galets de pyrite aux reflets dorés et métalliques captent immédiatement l'attention. Connue sous le nom de pierre du succès, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi, attirer la prospérité et stimuler l'énergie vitale. Son éclat brillant en fait aussi un choix populaire pour sublimer les espaces de vie ou de travail.",
               "stripeStock": 9,
               "epuise": false
+            },
+            {
+              "id": "pyrite-en-cube-mvta3tschqcj",
+              "nom": "Pyrite en cube",
+              "prix": 8.53,
+              "description": "La pyrite, souvent appelée or des fous à cause de son éclat métallique doré, est une pierre puissante pour attirer la prospérité et renforcer la confiance en soi. En lithothérapie, elle est utilisée pour stimuler l'énergie vitale et équilibrer les émotions, aidant à surmonter les doutes et à attirer l'abondance. Son énergie dynamique en fait un allié idéal pour booster la motivation et la réussite dans les projets personnels ou professionnels.",
+              "photo": "images/articles/pyrite-en-cube-mvta3tscl259.jpg",
+              "prixBoutique": 8,
+              "stock": 7
             }
           ]
         },

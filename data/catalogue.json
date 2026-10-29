@@ -27502,7 +27502,17 @@
               "description": "Ces pierres ovales de Shiva lingham sont des symboles puissants de spiritualité et de connexion à l'énergie sacrée. Selon les traditions, elles favorisent l'équilibre émotionnel, renforcent la confiance en soi et aident à apaiser le mental pour une méditation profonde. Parfaites pour les pratiques spirituelles ou comme éléments décoratifs porteurs de sens, elles invitent à la sérénité et à l'harmonie intérieure.",
               "photo": "images/articles/shiva-lingham-mvto1cjbwfff.jpg",
               "prixBoutique": 6,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/dRm6oI2NIdo18ME21j2a60a",
+              "stripeProductId": "prod_VWyipbf0qVFsUK",
+              "stripePriceId": "price_1UVukcLOfCA5mATuLvI0srjG",
+              "stripeLinkId": "plink_1UVukcLOfCA5mATu63MuxlYl",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Shiva lingham",
+              "stripeDesc": "Ces pierres ovales de Shiva lingham sont des symboles puissants de spiritualité et de connexion à l'énergie sacrée. Selon les traditions, elles favorisent l'équilibre émotionnel, renforcent la confiance en soi et aident à apaiser le mental pour une méditation profonde. Parfaites pour les pratiques spirituelles ou comme éléments décoratifs porteurs de sens, elles invitent à la sérénité et à l'harmonie intérieure.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

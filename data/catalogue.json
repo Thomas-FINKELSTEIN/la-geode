@@ -5662,7 +5662,17 @@
               "description": "Cette sphère en Larimar, pierre rare aux reflets bleutés et turquoise, est une véritable pépite de bien-être. Connue pour ses propriétés apaisantes, elle aide à calmer le stress et favorise la sérénité émotionnelle. Parfaite pour une méditation ou une décoration spirituelle, elle attire aussi la protection et l'harmonie dans votre quotidien.",
               "photo": "images/articles/sphere-en-larimar-3-cm-mvtn8k6pg6v3.jpg",
               "prixBoutique": 199,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E3cw882bfTfb2axP2a603",
+              "stripeProductId": "prod_VWyLV7efwI917P",
+              "stripePriceId": "price_1UVuP1LOfCA5mATuz0tRonvs",
+              "stripeLinkId": "plink_1UVuP1LOfCA5mATuxq1bqIus",
+              "stripePrix": 205.95,
+              "stripeMode": "live",
+              "stripeNom": "Sphère en Larimar 3 cm",
+              "stripeDesc": "Cette sphère en Larimar, pierre rare aux reflets bleutés et turquoise, est une véritable pépite de bien-être. Connue pour ses propriétés apaisantes, elle aide à calmer le stress et favorise la sérénité émotionnelle. Parfaite pour une méditation ou une décoration spirituelle, elle attire aussi la protection et l'harmonie dans votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

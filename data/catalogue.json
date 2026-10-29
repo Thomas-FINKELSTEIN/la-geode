@@ -8913,7 +8913,17 @@
               "description": "La Fluorite est une pierre aux couleurs vives et apaisantes, souvent appelée pierre de la concentration et de la clarté mentale. Elle est réputée pour favoriser l'équilibre émotionnel, renforcer la confiance en soi et stimuler l'intellect. Idéale pour les espaces de travail ou de méditation, elle aide à harmoniser les énergies et à apporter une touche de sérénité au quotidien.",
               "photo": "images/articles/fluorite-ovale-mvtt07c4xvlr.jpg",
               "prixBoutique": 8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUbJ23RMbfT6EwbBT2a60j",
+              "stripeProductId": "prod_VX0xSR1coOTZd7",
+              "stripePriceId": "price_1UVwvKLOfCA5mATuccC7G5DU",
+              "stripeLinkId": "plink_1UVwvKLOfCA5mATuEIqKzpWK",
+              "stripePrix": 8.53,
+              "stripeMode": "live",
+              "stripeNom": "Fluorite Ovale",
+              "stripeDesc": "La Fluorite est une pierre aux couleurs vives et apaisantes, souvent appelée pierre de la concentration et de la clarté mentale. Elle est réputée pour favoriser l'équilibre émotionnel, renforcer la confiance en soi et stimuler l'intellect. Idéale pour les espaces de travail ou de méditation, elle aide à harmoniser les énergies et à apporter une touche de sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

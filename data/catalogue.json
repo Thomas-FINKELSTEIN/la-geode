@@ -8868,7 +8868,17 @@
               "description": "Ce triangle en aventurine, sculpté en forme de pyramide, est une pièce harmonieuse et apaisante. Cette pierre aux reflets verts et dorés est souvent utilisée en lithothérapie pour équilibrer les émotions, favoriser la sérénité et renforcer la confiance en soi. Idéale pour décorer votre espace tout en bénéficiant de ses énergies positives au quotidien.",
               "photo": "images/articles/triangle-en-aventurine-mvtsiwlh5uzd.jpg",
               "prixBoutique": 29.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/4gM00k3RM2Jn1kcaxP2a60h",
+              "stripeProductId": "prod_VX0jCLCSPAGkg0",
+              "stripePriceId": "price_1UVwiCLOfCA5mATu2Ret9xE6",
+              "stripeLinkId": "plink_1UVwiCLOfCA5mATu3NgRyZvh",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Triangle en Aventurine",
+              "stripeDesc": "Ce triangle en aventurine, sculpté en forme de pyramide, est une pièce harmonieuse et apaisante. Cette pierre aux reflets verts et dorés est souvent utilisée en lithothérapie pour équilibrer les émotions, favoriser la sérénité et renforcer la confiance en soi. Idéale pour décorer votre espace tout en bénéficiant de ses énergies positives au quotidien.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

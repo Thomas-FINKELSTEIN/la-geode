@@ -6353,7 +6353,17 @@
               "description": "Ces œufs fossiles aux reflets irisés rappellent la beauté mystérieuse de l'opale d'Australie, une pierre souvent associée à la créativité et à l'inspiration. En lithothérapie, elle est réputée pour apaiser les émotions et favoriser une connexion profonde avec son intuition. Parfaits pour les amateurs de minéraux uniques, ils apportent une touche d'énergie douce et harmonieuse à votre intérieur ou collection.",
               "photo": "images/articles/opale-d-australie-mvtojyncsoyr.jpg",
               "prixBoutique": 18,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/dRmcN6fAu97LbYQ5dv2a60d",
+              "stripeProductId": "prod_VWywxoW0TK2PVH",
+              "stripePriceId": "price_1UVuyhLOfCA5mATuzJz9Q3fb",
+              "stripeLinkId": "plink_1UVuyhLOfCA5mATuyw8lYKlb",
+              "stripePrix": 18.87,
+              "stripeMode": "live",
+              "stripeNom": "Opale d' Australie",
+              "stripeDesc": "Ces œufs fossiles aux reflets irisés rappellent la beauté mystérieuse de l'opale d'Australie, une pierre souvent associée à la créativité et à l'inspiration. En lithothérapie, elle est réputée pour apaiser les émotions et favoriser une connexion profonde avec son intuition. Parfaits pour les amateurs de minéraux uniques, ils apportent une touche d'énergie douce et harmonieuse à votre intérieur ou collection.",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         },

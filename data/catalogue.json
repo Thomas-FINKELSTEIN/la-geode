@@ -8894,7 +8894,17 @@
               "description": "La fluorite se présente ici sous forme de bâton aux teintes vert émeraude apaisantes et lumineuses. Connue pour son énergie harmonieuse, elle favorise la concentration, la clarté mentale et l'équilibre émotionnel. Idéale pour purifier l'espace et stimuler la créativité, elle est souvent utilisée en lithothérapie pour apaiser les tensions et renforcer la confiance en soi.",
               "photo": "images/articles/baton-de-fluorite-mvtslmilmz09.jpg",
               "prixBoutique": 29.9,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/7sYbJ2dsmgAd1kcgWd2a60i",
+              "stripeProductId": "prod_VX0mC9TVUpoiFY",
+              "stripePriceId": "price_1UVwkVLOfCA5mATu7hRlFGtJ",
+              "stripeLinkId": "plink_1UVwkVLOfCA5mATuad1Uf70B",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Bâton de fluorite",
+              "stripeDesc": "La fluorite se présente ici sous forme de bâton aux teintes vert émeraude apaisantes et lumineuses. Connue pour son énergie harmonieuse, elle favorise la concentration, la clarté mentale et l'équilibre émotionnel. Idéale pour purifier l'espace et stimuler la créativité, elle est souvent utilisée en lithothérapie pour apaiser les tensions et renforcer la confiance en soi.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

@@ -6117,6 +6117,15 @@
               "stripeDesc": "La pyrite brute, aussi appelée or des fous pour son éclat métallique doré, est une pierre puissante aux multiples vertus. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi, attirer l’abondance et stimuler la motivation. Son énergie dynamique en fait un allié idéal pour ceux qui cherchent à booster leur énergie vitale et leur détermination.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "pyrite-galets-mvta1f23y5cr",
+              "nom": "Pyrite Galets",
+              "prix": 8.02,
+              "description": "Ces galets de pyrite aux reflets dorés et métalliques captent immédiatement l'attention. Connue sous le nom de pierre du succès, elle est souvent utilisée en lithothérapie pour renforcer la confiance en soi, attirer la prospérité et stimuler l'énergie vitale. Son éclat brillant en fait aussi un choix populaire pour sublimer les espaces de vie ou de travail.",
+              "photo": "images/articles/pyrite-galets-mvta1f23pjcd.jpg",
+              "prixBoutique": 7.5,
+              "stock": 9
             }
           ]
         },

@@ -8989,7 +8989,17 @@
               "description": "Ce prisme de fluorite aux teintes douces et légèrement bleutées est une pierre aux multiples facettes, aussi bien visuelles que symboliques. En lithothérapie, elle est souvent associée à la concentration, à la clarté mentale et à l'équilibre émotionnel, aidant à apaiser les tensions et à stimuler la communication. Son énergie harmonieuse en fait un allié précieux pour ceux qui cherchent à structurer leurs pensées et à renforcer leur confiance en soi.",
               "photo": "images/articles/prisme-de-fluorite-mvttexn86d8u.jpg",
               "prixBoutique": 22.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B69AUcoies52ogcFX2a60n",
+              "stripeProductId": "prod_VX18RaFfYLlVXT",
+              "stripePriceId": "price_1UVx6ILOfCA5mATul8Mprsrh",
+              "stripeLinkId": "plink_1UVx6JLOfCA5mATuBLoY9etq",
+              "stripePrix": 23.93,
+              "stripeMode": "live",
+              "stripeNom": "Prisme de fluorite",
+              "stripeDesc": "Ce prisme de fluorite aux teintes douces et légèrement bleutées est une pierre aux multiples facettes, aussi bien visuelles que symboliques. En lithothérapie, elle est souvent associée à la concentration, à la clarté mentale et à l'équilibre émotionnel, aidant à apaiser les tensions et à stimuler la communication. Son énergie harmonieuse en fait un allié précieux pour ceux qui cherchent à structurer leurs pensées et à renforcer leur confiance en soi.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

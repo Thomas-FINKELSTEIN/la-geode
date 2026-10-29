@@ -8519,7 +8519,17 @@
               "description": "La pyrite, aussi appelée or des fous pour son éclat métallique doré, est une pierre aux multiples vertus énergétiques. En lithothérapie, elle est souvent utilisée pour stimuler la confiance en soi, renforcer la volonté et attirer la prospérité. Son énergie dynamique et protectrice en fait un allié précieux pour booster la motivation et équilibrer les émotions au quotidien.",
               "photo": "images/articles/pyrite-mvt9v9hgtytp.jpg",
               "prixBoutique": 29,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIbJ29c61Fj9QI49r2a53U",
+              "stripeProductId": "prod_VWsJeEr5bTCbdt",
+              "stripePriceId": "price_1UVoYnLOfCA5mATu4g1LAuMR",
+              "stripeLinkId": "plink_1UVoYnLOfCA5mATu44h0l0Av",
+              "stripePrix": 30.24,
+              "stripeMode": "live",
+              "stripeNom": "Pyrite",
+              "stripeDesc": "La pyrite, aussi appelée or des fous pour son éclat métallique doré, est une pierre aux multiples vertus énergétiques. En lithothérapie, elle est souvent utilisée pour stimuler la confiance en soi, renforcer la volonté et attirer la prospérité. Son énergie dynamique et protectrice en fait un allié précieux pour booster la motivation et équilibrer les émotions au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

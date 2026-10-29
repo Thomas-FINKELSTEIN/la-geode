@@ -8962,6 +8962,15 @@
               "stripeDesc": "Cette boule de Fluorite multicolore est une pierre aux couleurs vibrantes et captivantes, idéale pour dynamiser votre espace. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, équilibrer les émotions et renforcer la clarté mentale. Parfaite pour les débutants comme pour les passionnés, elle apporte une énergie harmonieuse et apaisante au quotidien.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "oeuf-de-fluorite-mvttcglhwj6c",
+              "nom": "Oeuf de fluorite",
+              "prix": 15.66,
+              "description": "Cet oeuf de fluorite aux reflets verts et dorés est une pierre naturelle aux multiples facettes. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, équilibrer les émotions et favoriser la clarté mentale. Son énergie apaisante en fait un allié précieux pour le bien-être au quotidien.",
+              "photo": "images/articles/oeuf-de-fluorite-mvttcglh2yoo.jpg",
+              "prixBoutique": 14.9,
+              "stock": 1
             }
           ]
         }

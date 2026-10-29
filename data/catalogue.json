@@ -27464,7 +27464,17 @@
               "description": "La pointe de lépidolite est une pierre douce et apaisante, souvent utilisée en lithothérapie pour ses vertus calmantes et équilibrantes. Elle est réputée pour aider à libérer les tensions émotionnelles et favoriser un état de sérénité profonde. Idéale pour accompagner les moments de stress ou de surmenage, elle peut aussi soutenir la concentration et apaiser les esprits agités.",
               "photo": "images/articles/pointe-de-lepidolite-mvtnvyy9gecv.jpg",
               "prixBoutique": 39.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/bJefZi8824Rvd2UfS92a608",
+              "stripeProductId": "prod_VWyeuaUH9vcZan",
+              "stripePriceId": "price_1UVugjLOfCA5mATu1FusdLhP",
+              "stripeLinkId": "plink_1UVugjLOfCA5mATuek40luNh",
+              "stripePrix": 41.5,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de lépidolite",
+              "stripeDesc": "La pointe de lépidolite est une pierre douce et apaisante, souvent utilisée en lithothérapie pour ses vertus calmantes et équilibrantes. Elle est réputée pour aider à libérer les tensions émotionnelles et favoriser un état de sérénité profonde. Idéale pour accompagner les moments de stress ou de surmenage, elle peut aussi soutenir la concentration et apaiser les esprits agités.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

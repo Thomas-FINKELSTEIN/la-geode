@@ -8557,7 +8557,17 @@
               "description": "Ce beau coeur en pyrite incarne l'énergie de protection et de prospérité, souvent associée à cette pierre scintillante. En lithothérapie, la pyrite est réputée pour renforcer la confiance en soi et attirer l'abondance, tout en éloignant les énergies négatives. Parfaite pour décorer votre intérieur ou à offrir, elle apporte une touche de lumière et de positivité au quotidien.",
               "photo": "images/articles/coeur-en-pyrite-mvt9xoxnkzb0.jpg",
               "prixBoutique": 81,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIaEYcoi2Jn1kcfS92a53W",
+              "stripeProductId": "prod_VWsLC5bDUv3J4b",
+              "stripePriceId": "price_1UVoaeLOfCA5mATuPvOrImho",
+              "stripeLinkId": "plink_1UVoaeLOfCA5mATulcPJG3hE",
+              "stripePrix": 83.98,
+              "stripeMode": "live",
+              "stripeNom": "Coeur en Pyrite",
+              "stripeDesc": "Ce beau coeur en pyrite incarne l'énergie de protection et de prospérité, souvent associée à cette pierre scintillante. En lithothérapie, la pyrite est réputée pour renforcer la confiance en soi et attirer l'abondance, tout en éloignant les énergies négatives. Parfaite pour décorer votre intérieur ou à offrir, elle apporte une touche de lumière et de positivité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

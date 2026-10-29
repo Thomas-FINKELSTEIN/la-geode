@@ -9034,7 +9034,17 @@
               "description": "Ce galet en cornaline, pierre aux reflets chauds et dorés, est une belle pièce naturelle aux propriétés énergétiques apaisantes. En lithothérapie, elle est souvent utilisée pour renforcer la vitalité, stimuler la confiance en soi et équilibrer les émotions. Parfaite pour une méditation ou une décoration intérieure, elle apporte une touche de douceur et de dynamisme à votre quotidien.",
               "photo": "images/articles/galet-en-cornaline-mvtttdgzb8v6.jpg",
               "prixBoutique": 14,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq6oIdsm5Vz7IA0Xf2a60p",
+              "stripeProductId": "prod_VX1J9hLfnjIUxy",
+              "stripePriceId": "price_1UVxHKLOfCA5mATuC0YyOcWY",
+              "stripeLinkId": "plink_1UVxHKLOfCA5mATuXhzSMs8q",
+              "stripePrix": 14.73,
+              "stripeMode": "live",
+              "stripeNom": "Galet en Cornaline",
+              "stripeDesc": "Ce galet en cornaline, pierre aux reflets chauds et dorés, est une belle pièce naturelle aux propriétés énergétiques apaisantes. En lithothérapie, elle est souvent utilisée pour renforcer la vitalité, stimuler la confiance en soi et équilibrer les émotions. Parfaite pour une méditation ou une décoration intérieure, elle apporte une touche de douceur et de dynamisme à votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

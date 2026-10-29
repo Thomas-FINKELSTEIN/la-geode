@@ -27483,7 +27483,17 @@
               "description": "Cette pointe en jaspe rouge est une pièce raffinée et énergétique, souvent utilisée pour ancrer et stabiliser. Le jaspe rouge est traditionnellement associé à la vitalité, à la force et à la détermination, aidant à renforcer la confiance en soi et à dynamiser l'énergie vitale. Idéale pour les espaces de travail ou comme objet de méditation, elle apporte une touche de puissance et de passion.",
               "photo": "images/articles/jaspe-rouge-pointe-mvtnyb9j5xd0.jpg",
               "prixBoutique": 22.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14AaEYaga1Fjgf60Xf2a609",
+              "stripeProductId": "prod_VWyff3E1JC23mM",
+              "stripePriceId": "price_1UVuiQLOfCA5mATu3DAh5Iym",
+              "stripeLinkId": "plink_1UVuiQLOfCA5mATuWoe3z4vi",
+              "stripePrix": 23.52,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe rouge pointe",
+              "stripeDesc": "Cette pointe en jaspe rouge est une pièce raffinée et énergétique, souvent utilisée pour ancrer et stabiliser. Le jaspe rouge est traditionnellement associé à la vitalité, à la force et à la détermination, aidant à renforcer la confiance en soi et à dynamiser l'énergie vitale. Idéale pour les espaces de travail ou comme objet de méditation, elle apporte une touche de puissance et de passion.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

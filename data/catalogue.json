@@ -8881,6 +8881,22 @@
               "epuise": false
             }
           ]
+        },
+        {
+          "id": "fluorite-mvtskmp1li48",
+          "nom": "Fluorite",
+          "slogan": "",
+          "articles": [
+            {
+              "id": "baton-de-fluorite-mvtslmilkeem",
+              "nom": "Bâton de fluorite",
+              "prix": 31.17,
+              "description": "La fluorite se présente ici sous forme de bâton aux teintes vert émeraude apaisantes et lumineuses. Connue pour son énergie harmonieuse, elle favorise la concentration, la clarté mentale et l'équilibre émotionnel. Idéale pour purifier l'espace et stimuler la créativité, elle est souvent utilisée en lithothérapie pour apaiser les tensions et renforcer la confiance en soi.",
+              "photo": "images/articles/baton-de-fluorite-mvtslmilmz09.jpg",
+              "prixBoutique": 29.9,
+              "stock": 5
+            }
+          ]
         }
       ]
     },

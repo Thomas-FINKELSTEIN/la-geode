@@ -6277,7 +6277,17 @@
               "description": "La cornaline est une pierre précieuse au charme chaleureux et à la couleur orangée envoûtante, souvent associée à la vitalité et à l'énergie positive. En lithothérapie, elle est réputée pour renforcer la confiance en soi, stimuler la créativité et apporter une touche de joie au quotidien. Portée en bijou ou simplement gardée en poche, elle est idéale pour ceux qui cherchent à cultiver un état d’esprit dynamique et optimiste.",
               "photo": "images/articles/cornaline-cristal-mvtnh3pmrx4a.jpg",
               "prixBoutique": 14,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqaEYcoi4Rv4wo9tL2a605",
+              "stripeProductId": "prod_VWySAMWZStflCo",
+              "stripePriceId": "price_1UVuVQLOfCA5mATu7cNFn1PG",
+              "stripeLinkId": "plink_1UVuVQLOfCA5mATuTephDrym",
+              "stripePrix": 14.73,
+              "stripeMode": "live",
+              "stripeNom": "Cornaline cristal",
+              "stripeDesc": "La cornaline est une pierre précieuse au charme chaleureux et à la couleur orangée envoûtante, souvent associée à la vitalité et à l'énergie positive. En lithothérapie, elle est réputée pour renforcer la confiance en soi, stimuler la créativité et apporter une touche de joie au quotidien. Portée en bijou ou simplement gardée en poche, elle est idéale pour ceux qui cherchent à cultiver un état d’esprit dynamique et optimiste.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

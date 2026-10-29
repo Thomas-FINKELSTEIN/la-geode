@@ -8849,7 +8849,17 @@
               "description": "L'aventurine verte est une pierre naturelle aux reflets apaisants, souvent appelée la pierre de la chance et de la prospérité. En lithothérapie, elle est réputée pour favoriser l'équilibre émotionnel, renforcer la confiance en soi et attirer la sérénité au quotidien. Son énergie douce et harmonieuse en fait un allié idéal pour apaiser les tensions et stimuler la créativité.",
               "photo": "images/articles/aventurine-verte-pyramide-mvtro78e2qfx.jpg",
               "prixBoutique": 10.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe5kE4VQgAd4wo8pH2a60g",
+              "stripeProductId": "prod_VX0LuDtCygUQbd",
+              "stripePriceId": "price_1UVwL6LOfCA5mATumSyTJ4Pz",
+              "stripeLinkId": "plink_1UVwL6LOfCA5mATuvr5W75nh",
+              "stripePrix": 11.53,
+              "stripeMode": "live",
+              "stripeNom": "Aventurine verte Pyramide",
+              "stripeDesc": "L'aventurine verte est une pierre naturelle aux reflets apaisants, souvent appelée la pierre de la chance et de la prospérité. En lithothérapie, elle est réputée pour favoriser l'équilibre émotionnel, renforcer la confiance en soi et attirer la sérénité au quotidien. Son énergie douce et harmonieuse en fait un allié idéal pour apaiser les tensions et stimuler la créativité.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

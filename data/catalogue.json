@@ -7326,7 +7326,17 @@
               "description": "Cette pointe de cristal de roche, d'une pureté et d'une transparence exceptionnelles, est un véritable symbole de clarté et d'énergie positive. Utilisée en lithothérapie pour amplifier les intentions et purifier l'espace environnant, elle favorise la concentration et l'équilibre émotionnel. Parfaite pour décorer votre intérieur tout en bénéficiant de ses propriétés harmonisantes, elle s'intègre aussi bien dans un cadre spirituel que dans une ambiance zen.",
               "photo": "images/articles/pointe-de-cristal-de-roche-10-cm-mvtdldwwg4ye.jpg",
               "prixBoutique": 229,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w5kE0FAgAd7IAaxP2a600",
+              "stripeProductId": "prod_VWtz6jTgOw1xEz",
+              "stripePriceId": "price_1UVqBiLOfCA5mATuBYGEbkBQ",
+              "stripeLinkId": "plink_1UVqBiLOfCA5mATurCD8R6vP",
+              "stripePrix": 236.96,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de cristal de roche 10 cm",
+              "stripeDesc": "Cette pointe de cristal de roche, d'une pureté et d'une transparence exceptionnelles, est un véritable symbole de clarté et d'énergie positive. Utilisée en lithothérapie pour amplifier les intentions et purifier l'espace environnant, elle favorise la concentration et l'équilibre émotionnel. Parfaite pour décorer votre intérieur tout en bénéficiant de ses propriétés harmonisantes, elle s'intègre aussi bien dans un cadre spirituel que dans une ambiance zen.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

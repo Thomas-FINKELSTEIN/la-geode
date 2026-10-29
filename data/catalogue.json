@@ -6269,6 +6269,15 @@
               "stripeDesc": "Ces galets de Larimar, aux teintes bleutées et turquoise uniques, captent l'essence même de la mer des Caraïbes. Appelée aussi pierre des sirènes, elle est réputée pour apaiser les émotions, favoriser la sérénité et renforcer la connexion à son intuition. Idéale pour méditation ou décoration, elle diffuse une énergie calme et protectrice au quotidien.",
               "stripeStock": 10,
               "epuise": false
+            },
+            {
+              "id": "cornaline-cristal-mvtnh3pmht8o",
+              "nom": "Cornaline cristal",
+              "prix": 14.73,
+              "description": "La cornaline est une pierre précieuse au charme chaleureux et à la couleur orangée envoûtante, souvent associée à la vitalité et à l'énergie positive. En lithothérapie, elle est réputée pour renforcer la confiance en soi, stimuler la créativité et apporter une touche de joie au quotidien. Portée en bijou ou simplement gardée en poche, elle est idéale pour ceux qui cherchent à cultiver un état d’esprit dynamique et optimiste.",
+              "photo": "images/articles/cornaline-cristal-mvtnh3pmrx4a.jpg",
+              "prixBoutique": 14,
+              "stock": 1
             }
           ]
         },

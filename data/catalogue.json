@@ -8924,6 +8924,15 @@
               "stripeDesc": "La Fluorite est une pierre aux couleurs vives et apaisantes, souvent appelée pierre de la concentration et de la clarté mentale. Elle est réputée pour favoriser l'équilibre émotionnel, renforcer la confiance en soi et stimuler l'intellect. Idéale pour les espaces de travail ou de méditation, elle aide à harmoniser les énergies et à apporter une touche de sérénité au quotidien.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "aventurine-boule-mvtt9jlxdp33",
+              "nom": "Aventurine Boule",
+              "prix": 31.17,
+              "description": "L'Aventurine est une pierre douce et apaisante, souvent appelée la pierre de la chance et de la prospérité. Elle est réputée pour apporter équilibre émotionnel, sérénité et harmonie dans la vie quotidienne. Idéale pour créer un environnement positif, elle est aussi utilisée pour renforcer la confiance en soi et attirer les opportunités.",
+              "photo": "images/articles/aventurine-boule-mvtt9jlxebsr.jpg",
+              "prixBoutique": 29.9,
+              "stock": 1
             }
           ]
         }

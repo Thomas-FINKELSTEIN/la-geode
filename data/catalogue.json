@@ -27331,7 +27331,17 @@
               "description": "Ce cristal laser extra pour soin se présente sous une forme élégante et pure, aux reflets translucides qui captent la lumière. En lithothérapie, il est souvent utilisé pour purifier l’énergie et favoriser un état de bien-être profond, aidant à apaiser les tensions émotionnelles et à renforcer la concentration. Idéal pour les pratiques de soin énergétique ou comme élément décoratif aux propriétés apaisantes.",
               "photo": "images/articles/laser-extra-pour-soin-cristal-de-roche-mvtdtiogu7vi.jpg",
               "prixBoutique": 343,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZufZi9c683H7IAbBT2a601",
+              "stripeProductId": "prod_VWu6j3d7nM5X9U",
+              "stripePriceId": "price_1UVqHuLOfCA5mATuY46idGv1",
+              "stripeLinkId": "plink_1UVqHuLOfCA5mATuiPi1gRmK",
+              "stripePrix": 354.79,
+              "stripeMode": "live",
+              "stripeNom": "Laser extra pour soin cristal de roche",
+              "stripeDesc": "Ce cristal laser extra pour soin se présente sous une forme élégante et pure, aux reflets translucides qui captent la lumière. En lithothérapie, il est souvent utilisé pour purifier l’énergie et favoriser un état de bien-être profond, aidant à apaiser les tensions émotionnelles et à renforcer la concentration. Idéal pour les pratiques de soin énergétique ou comme élément décoratif aux propriétés apaisantes.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

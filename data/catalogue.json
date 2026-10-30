@@ -7786,7 +7786,17 @@
               "description": "Ce quartz fumé se présente sous la forme d’une géode cristalline aux reflets profonds et mystérieux, où se mêlent des nuances de brun et de gris. Appelé aussi pierre de fumée, il est réputé pour ses propriétés apaisantes et équilibrantes, aidant à clarifier les pensées et à apaiser les émotions. Souvent utilisé en lithothérapie pour favoriser la concentration et la protection énergétique, il est idéal pour les espaces de méditation ou comme objet de décoration spirituelle.",
               "photo": "images/articles/quartz-fume-geode-cristalline-mvuui8zt98uy.jpg",
               "prixBoutique": 115,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY4gA9c6abP0g80Xf2a60Y",
+              "stripeProductId": "prod_VXHsX0gEJPDNZn",
+              "stripePriceId": "price_1UWDJALOfCA5mATucLevTSGP",
+              "stripeLinkId": "plink_1UWDJBLOfCA5mATunihNUSoU",
+              "stripePrix": 119.13,
+              "stripeMode": "live",
+              "stripeNom": "Quartz fumé Géode cristalline",
+              "stripeDesc": "Ce quartz fumé se présente sous la forme d’une géode cristalline aux reflets profonds et mystérieux, où se mêlent des nuances de brun et de gris. Appelé aussi pierre de fumée, il est réputé pour ses propriétés apaisantes et équilibrantes, aidant à clarifier les pensées et à apaiser les émotions. Souvent utilisé en lithothérapie pour favoriser la concentration et la protection énergétique, il est idéal pour les espaces de méditation ou comme objet de décoration spirituelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

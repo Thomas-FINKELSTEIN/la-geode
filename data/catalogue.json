@@ -6752,7 +6752,17 @@
               "description": "La rhodonite est une pierre aux reflets roses et bruns, souvent appelée pierre de l'amour et du pardon. Elle est réputée pour apaiser les émotions, favoriser la compassion et renforcer les liens affectifs. Idéale pour ceux qui cherchent à équilibrer leur cœur et à cultiver la tendresse envers eux-mêmes et les autres.",
               "photo": "images/articles/galet-rhodonite-mvv5g7b5rmud.jpg",
               "prixBoutique": 6.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/9B66oIgEybfT4woaxP2a61k",
+              "stripeProductId": "prod_VXMp0nN3Lbk7o4",
+              "stripePriceId": "price_1UWI5fLOfCA5mATuAV5tWT1O",
+              "stripeLinkId": "plink_1UWI5fLOfCA5mATuM6Y5DzW9",
+              "stripePrix": 6.98,
+              "stripeMode": "live",
+              "stripeNom": "Galet Rhodonite",
+              "stripeDesc": "La rhodonite est une pierre aux reflets roses et bruns, souvent appelée pierre de l'amour et du pardon. Elle est réputée pour apaiser les émotions, favoriser la compassion et renforcer les liens affectifs. Idéale pour ceux qui cherchent à équilibrer leur cœur et à cultiver la tendresse envers eux-mêmes et les autres.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

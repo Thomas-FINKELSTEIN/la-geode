@@ -8251,7 +8251,17 @@
               "description": "Cette sphère de Cristal de roche AAA est une pièce pure et lumineuse, idéale pour purifier les énergies autour de vous. En lithothérapie, elle est souvent utilisée pour renforcer la clarté mentale, favoriser la concentration et équilibrer les émotions. Son éclat naturel en fait aussi un objet décoratif élégant pour sublimer votre intérieur.",
               "photo": "images/articles/sphere-de-cristal-de-roche-aaa-6-cm-diam-mvuuo1tc4aon.jpg",
               "prixBoutique": 59.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/cNi7sMaga5Vz5As35n2a60Z",
+              "stripeProductId": "prod_VXHxmFAYAZjBoT",
+              "stripePriceId": "price_1UWDNWLOfCA5mATuithW7Awq",
+              "stripeLinkId": "plink_1UWDNXLOfCA5mATue2aPffE1",
+              "stripePrix": 62.18,
+              "stripeMode": "live",
+              "stripeNom": "Sphère de Cristal de roche AAA 6 cm diamètre",
+              "stripeDesc": "Cette sphère de Cristal de roche AAA est une pièce pure et lumineuse, idéale pour purifier les énergies autour de vous. En lithothérapie, elle est souvent utilisée pour renforcer la clarté mentale, favoriser la concentration et équilibrer les émotions. Son éclat naturel en fait aussi un objet décoratif élégant pour sublimer votre intérieur.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

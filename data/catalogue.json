@@ -6638,7 +6638,17 @@
               "description": "Ce galet d'Unakite est une pierre naturelle aux reflets rouges, verts et noirs, offrant une harmonie visuelle apaisante. En lithothérapie, elle est souvent appelée la pierre de l'équilibre émotionnel, aidant à apaiser les tensions et à favoriser la stabilité intérieure. Idéale pour les espaces de méditation ou comme objet de bien-être au quotidien, elle est aussi appréciée pour son énergie réconfortante et son rôle dans la connexion entre le cœur et l'esprit.",
               "photo": "images/articles/galet-unakite-mvv4vuij8hgc.jpg",
               "prixBoutique": 7.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM8wQ0FAdo18MEeO52a61e",
+              "stripeProductId": "prod_VXMZV637MhCxIL",
+              "stripePriceId": "price_1UWHqKLOfCA5mATuRsXDwz8X",
+              "stripeLinkId": "plink_1UWHqKLOfCA5mATuRkZjbnKO",
+              "stripePrix": 8.48,
+              "stripeMode": "live",
+              "stripeNom": "Galet Unakite",
+              "stripeDesc": "Ce galet d'Unakite est une pierre naturelle aux reflets rouges, verts et noirs, offrant une harmonie visuelle apaisante. En lithothérapie, elle est souvent appelée la pierre de l'équilibre émotionnel, aidant à apaiser les tensions et à favoriser la stabilité intérieure. Idéale pour les espaces de méditation ou comme objet de bien-être au quotidien, elle est aussi appréciée pour son énergie réconfortante et son rôle dans la connexion entre le cœur et l'esprit.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

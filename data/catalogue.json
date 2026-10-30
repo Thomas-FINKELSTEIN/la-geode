@@ -6600,7 +6600,17 @@
               "description": "Ce galet d'Agate arbre est une pierre naturelle aux motifs organiques et apaisants, souvent associée à la connexion avec la nature et à l'équilibre émotionnel. En lithothérapie, elle est réputée pour favoriser la sérénité et aider à apaiser les tensions du quotidien. Idéale pour une décoration naturelle ou comme objet de méditation, elle apporte une énergie douce et harmonieuse.",
               "photo": "images/articles/agate-arbre-galets-mvv4i1h6zman.jpg",
               "prixBoutique": 7.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM8wQ2NIes59QI21j2a61c",
+              "stripeProductId": "prod_VXMOPTb9mKG1JD",
+              "stripePriceId": "price_1UWHfxLOfCA5mATusVWLszPZ",
+              "stripeLinkId": "plink_1UWHfyLOfCA5mATu2rJBRGeV",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Agate arbre Galets",
+              "stripeDesc": "Ce galet d'Agate arbre est une pierre naturelle aux motifs organiques et apaisants, souvent associée à la connexion avec la nature et à l'équilibre émotionnel. En lithothérapie, elle est réputée pour favoriser la sérénité et aider à apaiser les tensions du quotidien. Idéale pour une décoration naturelle ou comme objet de méditation, elle apporte une énergie douce et harmonieuse.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

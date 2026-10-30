@@ -9387,7 +9387,17 @@
               "description": "La Septaria est une pierre fascinante aux motifs uniques, souvent appelée pierre de la transformation. Elle est réputée pour son énergie apaisante et son pouvoir de protection, aidant à libérer les blocages émotionnels et à favoriser un équilibre intérieur. Utilisée en lithothérapie, elle est idéale pour les personnes en quête de sérénité et de reconnexion avec leur chemin de vie.",
               "photo": "images/articles/septaria-galet-150-gr-mvurwqll36kj.jpg",
               "prixBoutique": 8.1,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRmfZi5ZU6ZD5As49r2a60M",
+              "stripeProductId": "prod_VXGipBY3J3HBSj",
+              "stripePriceId": "price_1UWCAoLOfCA5mATujuyRnzeu",
+              "stripeLinkId": "plink_1UWCAoLOfCA5mATuRpXN7cmg",
+              "stripePrix": 8.64,
+              "stripeMode": "live",
+              "stripeNom": "Septaria galet 150 gr",
+              "stripeDesc": "La Septaria est une pierre fascinante aux motifs uniques, souvent appelée pierre de la transformation. Elle est réputée pour son énergie apaisante et son pouvoir de protection, aidant à libérer les blocages émotionnels et à favoriser un équilibre intérieur. Utilisée en lithothérapie, elle est idéale pour les personnes en quête de sérénité et de reconnexion avec leur chemin de vie.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

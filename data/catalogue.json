@@ -6505,7 +6505,17 @@
               "description": "Le jaspe jaune galet est une pierre douce et apaisante, souvent utilisée pour équilibrer les énergies et favoriser la sérénité au quotidien. Associée traditionnellement à la vitalité et à la joie de vivre, elle aide à renforcer la confiance en soi et à apaiser les tensions émotionnelles. Parfaite pour une ambiance harmonieuse, elle peut être placée dans un espace de vie ou tenue en méditation pour bénéficier de ses bienfaits.",
               "photo": "images/articles/jaspe-jaune-galets-mvv3mrd0p3qc.jpg",
               "prixBoutique": 6.5,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/3cIbJ20FAes56Ew9tL2a616",
+              "stripeProductId": "prod_VXM0Hhfiue3ntg",
+              "stripePriceId": "price_1UWHIQLOfCA5mATujktJMoSe",
+              "stripeLinkId": "plink_1UWHIQLOfCA5mATuziOH2PPt",
+              "stripePrix": 6.98,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe jaune Galets",
+              "stripeDesc": "Le jaspe jaune galet est une pierre douce et apaisante, souvent utilisée pour équilibrer les énergies et favoriser la sérénité au quotidien. Associée traditionnellement à la vitalité et à la joie de vivre, elle aide à renforcer la confiance en soi et à apaiser les tensions émotionnelles. Parfaite pour une ambiance harmonieuse, elle peut être placée dans un espace de vie ou tenue en méditation pour bénéficier de ses bienfaits.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

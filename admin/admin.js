@@ -252,29 +252,21 @@
     if (!confirm('Bonne nouvelle : vos modifications non mises en ligne (' + b.nbModifs +
       ' changement' + (b.nbModifs > 1 ? 's' : '') + ', le ' + quand + ') ont été retrouvées.\n\n' +
       'Voulez-vous les récupérer ?')) {
-      try { localStorage.removeItem(BROUILLON_KEY); } catch (e) {}
-      return;
-    }
-    var frais = state.catalogue;
-    var empreinteFrais = empreinteSansRobot(frais);
-    if (empreinteFrais !== b.empreinte) {
-      if (!confirm('Attention : la boutique a aussi été modifiée depuis un autre appareil entre-temps. ' +
-        'Récupérer le brouillon peut écraser ces autres modifications.\n\nRécupérer quand même ?')) {
+      // Un clic trop rapide ne doit pas jeter le travail : on redemande.
+      if (confirm('Supprimer DÉFINITIVEMENT ces ' + b.nbModifs + ' modification(s) non mises en ligne ?\n\n' +
+        '« Annuler » = finalement les récupérer.')) {
         try { localStorage.removeItem(BROUILLON_KEY); } catch (e) {}
         return;
       }
     }
-    // On repart du brouillon, en y greffant les champs des robots (ventes, stocks)
-    // de la version fraîche : aucune vente n'est perdue.
-    var parId = {};
-    chaqueArticle(frais, function (a) { parId[a.id] = a; });
-    chaqueArticle(b.catalogue, function (a) {
-      var d = parId[a.id];
-      if (!d) return;
-      CHAMPS_ROBOT.forEach(function (c) {
-        if (d[c] === undefined) delete a[c]; else a[c] = d[c];
-      });
-    });
+    var frais = state.catalogue;
+    var empreinteFrais = empreinteSansRobot(frais);
+    if (b.empreinte) {
+      // Fusion avec la version en ligne : rien de ce qui a été fait ailleurs n'est écrasé.
+      fusionTroisVoies(JSON.parse(b.empreinte), b.catalogue, frais);
+    }
+    // Champs des robots (ventes, stocks) de la version fraîche : aucune vente n'est perdue.
+    grefferRobots(b.catalogue, frais);
     state.catalogue = b.catalogue;
     if (!state.catalogue.actualites) state.catalogue.actualites = [];
     state.pendingPhotos = b.pendingPhotos || {};
@@ -498,8 +490,124 @@
     return JSON.stringify(copie);
   }
 
-  /* Récupère la dernière version en ligne ; si seuls les robots ont écrit,
-     greffe leurs champs dans notre copie et met à jour le sha pour republier. */
+  /* Fusion à trois voies, article par article (comme Git) :
+     base    = dernière version en ligne connue (celle dont notre copie est partie)
+     local   = notre copie, modifiée SUR PLACE (les fiches ouvertes restent valides)
+     distant = la version en ligne actuelle
+     Règles : tout ce qui a été fait ici est gardé ; ce qui a changé ailleurs sur
+     ce qu'on n'a pas touché est récupéré ; même article modifié des deux côtés :
+     notre version l'emporte. Plus jamais de refus en bloc.
+     Renvoie le nombre de changements récupérés d'ailleurs. */
+  function fusionTroisVoies(base, local, distant) {
+    var recup = 0;
+    function humain(a) {
+      var c = {};
+      Object.keys(a).sort().forEach(function (k) { if (CHAMPS_ROBOT.indexOf(k) === -1) c[k] = a[k]; });
+      return JSON.stringify(c);
+    }
+    function indexer(cat) {
+      var fams = {}, arts = {};
+      Object.keys(cat.themes || {}).forEach(function (t) {
+        (cat.themes[t].familles || []).forEach(function (f) {
+          fams[f.id] = { t: t, f: f };
+          (f.articles || []).forEach(function (a) { arts[a.id] = { fam: f.id, a: a, sig: humain(a) + '@' + f.id }; });
+        });
+      });
+      return { fams: fams, arts: arts };
+    }
+    function metaRayon(f) { return JSON.stringify([f.nom, f.slogan || '']); }
+    var B = indexer(base), L = indexer(local), D = indexer(distant);
+
+    // 1) Rayons créés ou modifiés ailleurs
+    Object.keys(D.fams).forEach(function (id) {
+      var d = D.fams[id], l = L.fams[id], b = B.fams[id];
+      if (!l && !b) {
+        if (!local.themes[d.t]) local.themes[d.t] = { nom: distant.themes[d.t].nom, familles: [] };
+        if (!local.themes[d.t].familles) local.themes[d.t].familles = [];
+        var nf = JSON.parse(JSON.stringify(d.f));
+        nf.articles = [];
+        local.themes[d.t].familles.push(nf);
+        L.fams[id] = { t: d.t, f: nf };
+        recup++;
+      } else if (l && b && metaRayon(l.f) === metaRayon(b.f) && metaRayon(d.f) !== metaRayon(b.f)) {
+        l.f.nom = d.f.nom; l.f.slogan = d.f.slogan;
+        recup++;
+      }
+    });
+
+    // 2) Articles
+    function retirer(e) { var arr = L.fams[e.fam].f.articles; var i = arr.indexOf(e.a); if (i !== -1) arr.splice(i, 1); }
+    function placer(a, famId) {
+      var lf = L.fams[famId];
+      if (!lf) return false;
+      if (!lf.f.articles) lf.f.articles = [];
+      lf.f.articles.push(a);
+      return true;
+    }
+    var ids = {};
+    [B.arts, L.arts, D.arts].forEach(function (x) { Object.keys(x).forEach(function (k) { ids[k] = 1; }); });
+    Object.keys(ids).forEach(function (id) {
+      var b = B.arts[id], l = L.arts[id], d = D.arts[id];
+      if (!b) {                                               // nouvel article
+        if (d && !l && placer(JSON.parse(JSON.stringify(d.a)), d.fam)) recup++;   // ajouté ailleurs
+        return;                                               // ajouté ici : gardé
+      }
+      if (!l) return;                                         // supprimé ici : on garde la suppression
+      var changeIci = l.sig !== b.sig;
+      var changeAilleurs = !d || d.sig !== b.sig;
+      if (!changeAilleurs || changeIci) return;               // rien ailleurs, ou notre version prime
+      if (!d) { retirer(l); recup++; return; }                // supprimé ailleurs, intact ici
+      Object.keys(l.a).forEach(function (k) { if (CHAMPS_ROBOT.indexOf(k) === -1) delete l.a[k]; });
+      Object.keys(d.a).forEach(function (k) { if (CHAMPS_ROBOT.indexOf(k) === -1) l.a[k] = d.a[k]; });
+      if (d.fam !== l.fam && L.fams[d.fam]) { retirer(l); placer(l.a, d.fam); }
+      recup++;
+    });
+
+    // 3) Rayons supprimés ailleurs, restés intacts et vides ici
+    Object.keys(B.fams).forEach(function (id) {
+      var l = L.fams[id];
+      if (!D.fams[id] && l && metaRayon(l.f) === metaRayon(B.fams[id].f) && !(l.f.articles || []).length) {
+        var arr = local.themes[l.t].familles;
+        arr.splice(arr.indexOf(l.f), 1);
+        recup++;
+      }
+    });
+
+    // 4) Affiches
+    function idxAff(cat) { var m = {}; (cat.actualites || []).forEach(function (a) { m[a.id] = a; }); return m; }
+    var bA = idxAff(base), lA = idxAff(local), dA = idxAff(distant);
+    if (!local.actualites) local.actualites = [];
+    var idsA = {};
+    [bA, lA, dA].forEach(function (x) { Object.keys(x).forEach(function (k) { idsA[k] = 1; }); });
+    Object.keys(idsA).forEach(function (id) {
+      var b = bA[id], l = lA[id], d = dA[id];
+      if (!b) { if (d && !l) { local.actualites.push(JSON.parse(JSON.stringify(d))); recup++; } return; }
+      if (!l) return;
+      var sb = JSON.stringify(b);
+      if (JSON.stringify(l) !== sb) return;
+      if (!d) { local.actualites.splice(local.actualites.indexOf(l), 1); recup++; return; }
+      if (JSON.stringify(d) !== sb) {
+        Object.keys(l).forEach(function (k) { delete l[k]; });
+        Object.assign(l, JSON.parse(JSON.stringify(d)));
+        recup++;
+      }
+    });
+    return recup;
+  }
+
+  // Greffe les champs des robots (ventes, liens de paiement, stock) de « source » dans « cible ».
+  function grefferRobots(cible, source) {
+    var parId = {};
+    chaqueArticle(source, function (a) { parId[a.id] = a; });
+    chaqueArticle(cible, function (a) {
+      var d = parId[a.id];
+      if (!d) return;
+      CHAMPS_ROBOT.forEach(function (c) { if (d[c] === undefined) delete a[c]; else a[c] = d[c]; });
+    });
+  }
+
+  /* Récupère la dernière version en ligne et la fusionne avec notre copie
+     (voir fusionTroisVoies), puis met à jour le sha pour republier. */
   function fusionnerRobots() {
     var shaDistant;
     return gh(CATALOGUE_PATH).then(function (r) {
@@ -511,17 +619,12 @@
     }).then(function (txt) {
       var distant = JSON.parse(txt);
       if (!distant.actualites) distant.actualites = [];
-      if (empreinteSansRobot(distant) !== state.empreinte) throw new Error('CONFLIT_HUMAIN');
-      var parId = {};
-      chaqueArticle(distant, function (a) { parId[a.id] = a; });
-      chaqueArticle(state.catalogue, function (a) {
-        var d = parId[a.id];
-        if (!d) return;
-        CHAMPS_ROBOT.forEach(function (c) {
-          if (d[c] === undefined) delete a[c]; else a[c] = d[c];
-        });
-      });
+      var base = state.empreinte ? JSON.parse(state.empreinte) : distant;
+      var recup = fusionTroisVoies(base, state.catalogue, distant);
+      grefferRobots(state.catalogue, distant);
+      state.empreinte = empreinteSansRobot(distant);
       state.sha = shaDistant;
+      if (recup) render();
     });
   }
 

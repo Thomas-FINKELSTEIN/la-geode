@@ -28135,7 +28135,17 @@
               "description": "La magnétite est une pierre aux propriétés énergétiques puissantes, souvent utilisée en lithothérapie pour renforcer la vitalité et l’équilibre émotionnel. Ses qualités magnétiques traditionnelles en font un allié pour stimuler la circulation énergétique et renforcer la confiance en soi. Idéale pour les personnes cherchant à harmoniser leur énergie ou à se reconnecter à leur force intérieure, elle est aussi appréciée pour ses vertus protectrices.",
               "photo": "images/articles/magnetite-mvurpyxe8xsg.jpg",
               "prixBoutique": 12,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/7sY5kE3RMes55As6hz2a60K",
+              "stripeProductId": "prod_VXGchzjTsgdTs2",
+              "stripePriceId": "price_1UWC5hLOfCA5mATuvliu77OG",
+              "stripeLinkId": "plink_1UWC5hLOfCA5mATuZm3gSHxW",
+              "stripePrix": 12.67,
+              "stripeMode": "live",
+              "stripeNom": "Magnétite",
+              "stripeDesc": "La magnétite est une pierre aux propriétés énergétiques puissantes, souvent utilisée en lithothérapie pour renforcer la vitalité et l’équilibre émotionnel. Ses qualités magnétiques traditionnelles en font un allié pour stimuler la circulation énergétique et renforcer la confiance en soi. Idéale pour les personnes cherchant à harmoniser leur énergie ou à se reconnecter à leur force intérieure, elle est aussi appréciée pour ses vertus protectrices.",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         },

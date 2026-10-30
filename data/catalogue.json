@@ -7611,7 +7611,17 @@
               "description": "Ce cristal de roche brut en forme de géode est une pièce naturelle aux reflets translucides et aux facettes lumineuses. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives, favoriser la clarté mentale et apporter une sensation de paix intérieure. Idéal pour purifier les espaces et équilibrer les émotions, il est apprécié aussi bien pour sa beauté que pour ses vertus apaisantes.",
               "photo": "images/articles/geode-cristal-de-roche-brut-mvv16wr98xoy.jpg",
               "prixBoutique": 41,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu00kbke3Nrgf6eO52a613",
+              "stripeProductId": "prod_VXKujjnXfsvLfT",
+              "stripePriceId": "price_1UWGEJLOfCA5mATuyqiNgHJB",
+              "stripeLinkId": "plink_1UWGEKLOfCA5mATuRngautlN",
+              "stripePrix": 42.64,
+              "stripeMode": "live",
+              "stripeNom": "Géode Cristal de roche brut",
+              "stripeDesc": "Ce cristal de roche brut en forme de géode est une pièce naturelle aux reflets translucides et aux facettes lumineuses. En lithothérapie, il est souvent utilisé pour amplifier les énergies positives, favoriser la clarté mentale et apporter une sensation de paix intérieure. Idéal pour purifier les espaces et équilibrer les émotions, il est apprécié aussi bien pour sa beauté que pour ses vertus apaisantes.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -9342,7 +9342,17 @@
               "description": "Ce coeur en jaspe polychrome allie les couleurs douces et apaisantes du jaspe avec une forme symbolisant l'amour et l'équilibre émotionnel. En lithothérapie, il est souvent utilisé pour renforcer la confiance en soi et favoriser la stabilité affective. Une pierre idéale pour apaiser les tensions et harmoniser les relations, tout en apportant une touche décorative chaleureuse à votre intérieur.",
               "photo": "images/articles/coeur-de-jaspe-polychrome-mvurfswbwmft.jpg",
               "prixBoutique": 11.5,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/7sY9AUcoibfTfb2axP2a60H",
+              "stripeProductId": "prod_VXGVPQOjtc5etg",
+              "stripePriceId": "price_1UWBy3LOfCA5mATuIJ9Xrwh9",
+              "stripeLinkId": "plink_1UWBy4LOfCA5mATuhp5btWfV",
+              "stripePrix": 12.15,
+              "stripeMode": "live",
+              "stripeNom": "Coeur de Jaspe polychrome",
+              "stripeDesc": "Ce coeur en jaspe polychrome allie les couleurs douces et apaisantes du jaspe avec une forme symbolisant l'amour et l'équilibre émotionnel. En lithothérapie, il est souvent utilisé pour renforcer la confiance en soi et favoriser la stabilité affective. Une pierre idéale pour apaiser les tensions et harmoniser les relations, tout en apportant une touche décorative chaleureuse à votre intérieur.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

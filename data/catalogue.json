@@ -6676,7 +6676,17 @@
               "description": "Le jaspe mokaite est une pierre naturelle au charme doux et apaisant, reconnaissable à ses nuances chaudes et ses motifs organiques. En lithothérapie, il est souvent utilisé pour favoriser la stabilité émotionnelle et renforcer la confiance en soi. Idéal pour apaiser les tensions et encourager un équilibre intérieur, ce galet peut être posé sur une table de nuit ou tenu en méditation pour une sensation de calme et de sérénité.",
               "photo": "images/articles/galet-jaspe-mokaite-mvv5004xn8qg.jpg",
               "prixBoutique": 6.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28EbJ2dsmgAdaUM21j2a61g",
+              "stripeProductId": "prod_VXMcBvgoRTPJNM",
+              "stripePriceId": "price_1UWHtXLOfCA5mATunQRlLera",
+              "stripeLinkId": "plink_1UWHtXLOfCA5mATuCDHIXGKj",
+              "stripePrix": 6.98,
+              "stripeMode": "live",
+              "stripeNom": "Galet Jaspe mokaite",
+              "stripeDesc": "Le jaspe mokaite est une pierre naturelle au charme doux et apaisant, reconnaissable à ses nuances chaudes et ses motifs organiques. En lithothérapie, il est souvent utilisé pour favoriser la stabilité émotionnelle et renforcer la confiance en soi. Idéal pour apaiser les tensions et encourager un équilibre intérieur, ce galet peut être posé sur une table de nuit ou tenu en méditation pour une sensation de calme et de sérénité.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

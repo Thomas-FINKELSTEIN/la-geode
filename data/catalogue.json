@@ -9419,6 +9419,22 @@
               "epuise": false
             }
           ]
+        },
+        {
+          "id": "unakite-mvusg8ag8vme",
+          "nom": "Unakite",
+          "slogan": "",
+          "articles": [
+            {
+              "id": "pointe-d-unakite-mvushs29l2cl",
+              "nom": "Pointe d' Unakite",
+              "prix": 23.52,
+              "description": "La pointe d'Unakite est une pierre aux reflets verts et roses, symbole d'équilibre et d'harmonie entre le cœur et l'esprit. En lithothérapie, elle est souvent utilisée pour apaiser les émotions et favoriser la sérénité au quotidien. Idéale pour les personnes en quête de stabilité émotionnelle, elle est aussi appréciée pour ses propriétés énergétiques apaisantes.",
+              "photo": "images/articles/pointe-d-unakite-mvushs29w6yz.jpg",
+              "prixBoutique": 22.5,
+              "stock": 1
+            }
+          ]
         }
       ]
     },

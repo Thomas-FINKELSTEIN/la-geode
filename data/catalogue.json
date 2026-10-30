@@ -7805,7 +7805,17 @@
               "description": "Cette sphère de Quartz fumé est une pièce naturelle aux reflets profonds et apaisants. En lithothérapie, elle est souvent utilisée pour son pouvoir de stabilisation émotionnelle et son influence sur l’énergie vitale, aidant à ancrer et à harmoniser. Idéale pour les espaces de méditation ou comme objet décoratif aux vertus apaisantes.",
               "photo": "images/articles/sphere-de-quartz-fume-mvuur2ypf3px.jpg",
               "prixBoutique": 25.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/7sYdRa73Y3NraUM9tL2a610",
+              "stripeProductId": "prod_VXHz5GdRg5kvcK",
+              "stripePriceId": "price_1UWDPnLOfCA5mATuwUoccCBW",
+              "stripeLinkId": "plink_1UWDPnLOfCA5mATurruBsjIe",
+              "stripePrix": 27.03,
+              "stripeMode": "live",
+              "stripeNom": "Sphère de Quartz fumé",
+              "stripeDesc": "Cette sphère de Quartz fumé est une pièce naturelle aux reflets profonds et apaisants. En lithothérapie, elle est souvent utilisée pour son pouvoir de stabilisation émotionnelle et son influence sur l’énergie vitale, aidant à ancrer et à harmoniser. Idéale pour les espaces de méditation ou comme objet décoratif aux vertus apaisantes.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

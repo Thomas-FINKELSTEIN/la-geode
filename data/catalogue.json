@@ -6790,7 +6790,17 @@
               "description": "Ces cabochons de cristal d roche aux reflets translucides et légèrement teintés de gris sont des pierres d'une pureté exceptionnelle. En lithothérapie, le cristal d roche est souvent utilisé pour amplifier les énergies positives et favoriser la clarté mentale, aidant ainsi à clarifier les pensées et à renforcer la concentration. Il est aussi apprécié pour son pouvoir de protection et d'équilibrage des émotions, tout en apportant une touche élégante à vos créations ou accessoires.",
               "photo": "images/articles/cristal-d-roche-mvv9xxu5gln3.jpg",
               "prixBoutique": 2.6,
-              "stock": 90
+              "stock": 90,
+              "stripe": "https://buy.stripe.com/bJe3cwdsm5Vze6YeO52a61p",
+              "stripeProductId": "prod_VXOrvuJilA5iMb",
+              "stripePriceId": "price_1UWK3MLOfCA5mATujFxplCsH",
+              "stripeLinkId": "plink_1UWK3MLOfCA5mATueMhiieBb",
+              "stripePrix": 2.95,
+              "stripeMode": "live",
+              "stripeNom": "Cristal d roche",
+              "stripeDesc": "Ces cabochons de cristal d roche aux reflets translucides et légèrement teintés de gris sont des pierres d'une pureté exceptionnelle. En lithothérapie, le cristal d roche est souvent utilisé pour amplifier les énergies positives et favoriser la clarté mentale, aidant ainsi à clarifier les pensées et à renforcer la concentration. Il est aussi apprécié pour son pouvoir de protection et d'équilibrage des émotions, tout en apportant une touche élégante à vos créations ou accessoires.",
+              "stripeStock": 90,
+              "epuise": false
             }
           ]
         },

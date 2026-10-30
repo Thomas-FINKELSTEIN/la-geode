@@ -29113,7 +29113,17 @@
               "description": "Ces porte-clés en shungite allient élégance et bienfaits naturels. La shungite, pierre aux propriétés purificatrices, est réputée pour absorber les ondes électromagnétiques et protéger l’énergie vitale. Idéale pour accompagner votre quotidien, elle favorise un environnement harmonieux et un esprit apaisé.",
               "photo": "images/articles/porte-cle-en-shungite-mvusmt5dvuda.jpg",
               "prixBoutique": 17,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/bJe7sMfAucjX3skeO52a60S",
+              "stripeProductId": "prod_VXH2Y5hqzA3ozk",
+              "stripePriceId": "price_1UWCUOLOfCA5mATulYe09lDm",
+              "stripeLinkId": "plink_1UWCUPLOfCA5mATuMFChKzb7",
+              "stripePrix": 17.83,
+              "stripeMode": "live",
+              "stripeNom": "Porte clé en Shungite",
+              "stripeDesc": "Ces porte-clés en shungite allient élégance et bienfaits naturels. La shungite, pierre aux propriétés purificatrices, est réputée pour absorber les ondes électromagnétiques et protéger l’énergie vitale. Idéale pour accompagner votre quotidien, elle favorise un environnement harmonieux et un esprit apaisé.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

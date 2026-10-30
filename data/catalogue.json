@@ -6706,6 +6706,15 @@
               "stripeDesc": "La Fluorite, aussi appelée pierre de la chance, est un minéral aux couleurs vives et aux reflets captivants. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, l'intuition et la clarté mentale. Elle aide également à équilibrer les émotions et à renforcer la confiance en soi, tout en attirant l'abondance et la prospérité dans la vie quotidienne.",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "galet-amethyste-mvv54d9drjzb",
+              "nom": "Galet Améthyste",
+              "prix": 8.02,
+              "description": "Ces galets d'améthyste aux reflets violets et blancs captifs apportent une énergie apaisante et spirituelle. Utilisés en lithothérapie, ils sont réputés pour favoriser la sérénité, renforcer la concentration et équilibrer les émotions. Parfaits pour une méditation profonde ou comme éléments décoratifs dans un espace de bien-être.",
+              "photo": "images/articles/galet-amethyste-mvv54d9d7mb1.jpg",
+              "prixBoutique": 7.5,
+              "stock": 2
             }
           ]
         },

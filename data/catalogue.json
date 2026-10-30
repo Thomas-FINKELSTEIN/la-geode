@@ -28116,7 +28116,17 @@
               "description": "Ce lot de pierres de magnétite aux reflets métalliques et à l’énergie puissante est idéal pour renforcer votre vitalité et votre ancrage. En lithothérapie, la magnétite est souvent utilisée pour stimuler la concentration, équilibrer les émotions et attirer la prospérité. Parfaite pour une utilisation quotidienne, elle peut être portée en bijou ou simplement tenue en méditation pour bénéficier de ses propriétés dynamisantes. Ces pierres sont aimantées.",
               "photo": "images/articles/magnetite-lot-de-2-mvurncg28b0f.jpg",
               "prixBoutique": 25,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/8x28wQ2NI83H9QIcFX2a60J",
+              "stripeProductId": "prod_VXGa13nm3B081W",
+              "stripePriceId": "price_1UWC3iLOfCA5mATuJBTDDpc0",
+              "stripeLinkId": "plink_1UWC3iLOfCA5mATuu0TossBq",
+              "stripePrix": 26.1,
+              "stripeMode": "live",
+              "stripeNom": "Magnétite Lot de 2",
+              "stripeDesc": "Ce lot de pierres de magnétite aux reflets métalliques et à l’énergie puissante est idéal pour renforcer votre vitalité et votre ancrage. En lithothérapie, la magnétite est souvent utilisée pour stimuler la concentration, équilibrer les émotions et attirer la prospérité. Parfaite pour une utilisation quotidienne, elle peut être portée en bijou ou simplement tenue en méditation pour bénéficier de ses propriétés dynamisantes. Ces pierres sont aimantées.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

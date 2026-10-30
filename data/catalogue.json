@@ -29125,7 +29125,17 @@
               "description": "Cette bouteille en verre est  parfaite pour égayer votre espace tout en favorisant le bien-être. Idéale pour les passionnés de minéraux ou ceux qui cherchent à intégrer une touche spirituelle et apaisante dans leur quotidien.",
               "photo": "images/articles/bouteille-en-verre-mvv1i6ikah9z.jpg",
               "prixBoutique": 7.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu5kEgEyes50g8eO52a614",
+              "stripeProductId": "prod_VXL2wPN9dmtwhx",
+              "stripePriceId": "price_1UWGMpLOfCA5mATumtFDGQMS",
+              "stripeLinkId": "plink_1UWGMpLOfCA5mATug5r9WZzF",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Bouteille en verre",
+              "stripeDesc": "Cette bouteille en verre est  parfaite pour égayer votre espace tout en favorisant le bien-être. Idéale pour les passionnés de minéraux ou ceux qui cherchent à intégrer une touche spirituelle et apaisante dans leur quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -8194,7 +8194,17 @@
               "description": "Le cristal de roche est une pierre pure et lumineuse, symbole de clarté mentale et d'harmonie énergétique. Utilisé depuis des siècles pour amplifier les intentions et purifier l'espace, il est idéal pour équilibrer les émotions et favoriser la concentration. Son énergie apaisante en fait un allié précieux pour méditer ou décorer un intérieur avec une touche de sérénité.",
               "photo": "images/articles/cristal-de-roche-12-cm-mvutz2qrnmak.jpg",
               "prixBoutique": 40.55,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM3cwbke2Jnd2UfS92a60W",
+              "stripeProductId": "prod_VXHe3kjzji86qp",
+              "stripePriceId": "price_1UWD4lLOfCA5mATuSX6YISBB",
+              "stripeLinkId": "plink_1UWD4lLOfCA5mATuhdamK1qf",
+              "stripePrix": 42.18,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche 12 cm",
+              "stripeDesc": "Le cristal de roche est une pierre pure et lumineuse, symbole de clarté mentale et d'harmonie énergétique. Utilisé depuis des siècles pour amplifier les intentions et purifier l'espace, il est idéal pour équilibrer les émotions et favoriser la concentration. Son énergie apaisante en fait un allié précieux pour méditer ou décorer un intérieur avec une touche de sérénité.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

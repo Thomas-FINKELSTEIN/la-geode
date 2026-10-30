@@ -28218,7 +28218,17 @@
               "description": "Cette pointe de cristal de roche est une pièce naturelle aux reflets translucides et aux nuances douces, souvent utilisée pour son énergie purificatrice. En lithothérapie, elle est réputée pour amplifier les vibrations positives, favoriser la clarté mentale et renforcer la connexion à son intuition. Idéale pour équilibrer les émotions et apporter une touche élégante à votre espace ou vos pratiques énergétiques.",
               "photo": "images/articles/pointe-de-cristal-de-roche-mvusequpcz1i.jpg",
               "prixBoutique": 34.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY9AUaga97Lgf6axP2a60O",
+              "stripeProductId": "prod_VXGwiboiaiMaFQ",
+              "stripePriceId": "price_1UWCObLOfCA5mATue5o8slRp",
+              "stripeLinkId": "plink_1UWCObLOfCA5mATu3cjQYGnB",
+              "stripePrix": 35.92,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de cristal de roche",
+              "stripeDesc": "Cette pointe de cristal de roche est une pièce naturelle aux reflets translucides et aux nuances douces, souvent utilisée pour son énergie purificatrice. En lithothérapie, elle est réputée pour amplifier les vibrations positives, favoriser la clarté mentale et renforcer la connexion à son intuition. Idéale pour équilibrer les émotions et apporter une touche élégante à votre espace ou vos pratiques énergétiques.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

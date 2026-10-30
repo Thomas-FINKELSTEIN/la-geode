@@ -29429,7 +29429,17 @@
               "description": "Ces pointes de cristal de roche, d'une pureté lumineuse et d'une élégance naturelle, sont des pierres aux propriétés énergétiques exceptionnelles. En lithothérapie, elles sont souvent utilisées pour amplifier les intentions, clarifier les pensées et renforcer la connexion à son énergie spirituelle. Leur forme pointue favorise également la concentration et la protection, tout en apportant une touche raffinée à votre intérieur ou à vos créations.",
               "photo": "images/articles/pointe-de-cristal-de-roche-reiki-mvv82btjjpmw.jpg",
               "prixBoutique": 5,
-              "stock": 33
+              "stock": 33,
+              "stripe": "https://buy.stripe.com/3cIdRa8822Jn5As0Xf2a61m",
+              "stripeProductId": "prod_VXO0iNiiHFJeGL",
+              "stripePriceId": "price_1UWJEaLOfCA5mATuMoRYfZS0",
+              "stripeLinkId": "plink_1UWJEaLOfCA5mATumSBUAvGv",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de cristal de roche <reiki<",
+              "stripeDesc": "Ces pointes de cristal de roche, d'une pureté lumineuse et d'une élégance naturelle, sont des pierres aux propriétés énergétiques exceptionnelles. En lithothérapie, elles sont souvent utilisées pour amplifier les intentions, clarifier les pensées et renforcer la connexion à son énergie spirituelle. Leur forme pointue favorise également la concentration et la protection, tout en apportant une touche raffinée à votre intérieur ou à vos créations.",
+              "stripeStock": 33,
+              "epuise": false
             }
           ]
         },

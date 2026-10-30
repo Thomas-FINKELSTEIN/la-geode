@@ -6486,7 +6486,17 @@
               "description": "Ces galets de Jade de Chine, lisses et aux teintes douces, sont des pierres naturelles aux propriétés apaisantes et équilibrantes. En lithothérapie, le Jade est souvent associé à la sérénité, à la protection et à l’harmonie émotionnelle, aidant à apaiser les tensions et à renforcer la connexion à soi. Idéal pour une décoration zen ou pour accompagner vos moments de méditation et de détente.",
               "photo": "images/articles/galet-de-jade-de-chine-mvv2vyaz14gr.jpg",
               "prixBoutique": 6.5,
-              "stock": 10
+              "stock": 10,
+              "stripe": "https://buy.stripe.com/aFa5kE4VQ97L3skbBT2a615",
+              "stripeProductId": "prod_VXLfAjGmjuPnrM",
+              "stripePriceId": "price_1UWGyLLOfCA5mATuTjTYXwY8",
+              "stripeLinkId": "plink_1UWGyLLOfCA5mATudLUdhQz8",
+              "stripePrix": 6.98,
+              "stripeMode": "live",
+              "stripeNom": "Galet de Jade de Chine",
+              "stripeDesc": "Ces galets de Jade de Chine, lisses et aux teintes douces, sont des pierres naturelles aux propriétés apaisantes et équilibrantes. En lithothérapie, le Jade est souvent associé à la sérénité, à la protection et à l’harmonie émotionnelle, aidant à apaiser les tensions et à renforcer la connexion à soi. Idéal pour une décoration zen ou pour accompagner vos moments de méditation et de détente.",
+              "stripeStock": 10,
+              "epuise": false
             }
           ]
         },

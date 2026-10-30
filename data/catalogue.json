@@ -6744,6 +6744,15 @@
               "stripeDesc": "La Chiastolite est une pierre fascinante aux motifs en croix bien visibles, souvent appelée pierre de la chance ou de la protection. En lithothérapie, elle est réputée pour renforcer la volonté, équilibrer les énergies et favoriser la concentration. Idéale pour les personnes en quête de clarté mentale ou de stabilité émotionnelle, elle est aussi utilisée pour apaiser les tensions et renforcer la confiance en soi.",
               "stripeStock": 3,
               "epuise": false
+            },
+            {
+              "id": "galet-rhodonite-mvv5g7b51ode",
+              "nom": "Galet Rhodonite",
+              "prix": 6.98,
+              "description": "La rhodonite est une pierre aux reflets roses et bruns, souvent appelée pierre de l'amour et du pardon. Elle est réputée pour apaiser les émotions, favoriser la compassion et renforcer les liens affectifs. Idéale pour ceux qui cherchent à équilibrer leur cœur et à cultiver la tendresse envers eux-mêmes et les autres.",
+              "photo": "images/articles/galet-rhodonite-mvv5g7b5rmud.jpg",
+              "prixBoutique": 6.5,
+              "stock": 2
             }
           ]
         },

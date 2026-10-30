@@ -7672,7 +7672,17 @@
               "description": "Ce  quartz fumé aux cristaux élégants et profonds est une pièce naturelle aux énergies puissantes. En lithothérapie, il aide à ancrer les émotions, à apaiser le mental et à renforcer la volonté, tout en purifiant l’espace environnant. Parfait pour décorer tout en cultivant un environnement harmonieux et équilibré.",
               "photo": "images/articles/quartz-fume-mvuq14mjsqhr.jpg",
               "prixBoutique": 7.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMcN6aga2Jngf60Xf2a60B",
+              "stripeProductId": "prod_VXFrayDnu7AMOk",
+              "stripePriceId": "price_1UWBLtLOfCA5mATufuoR0aXh",
+              "stripeLinkId": "plink_1UWBLtLOfCA5mATuhPsCVhhj",
+              "stripePrix": 8.22,
+              "stripeMode": "live",
+              "stripeNom": "Quartz fumé",
+              "stripeDesc": "Ce  quartz fumé aux cristaux élégants et profonds est une pièce naturelle aux énergies puissantes. En lithothérapie, il aide à ancrer les émotions, à apaiser le mental et à renforcer la volonté, tout en purifiant l’espace environnant. Parfait pour décorer tout en cultivant un environnement harmonieux et équilibré.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

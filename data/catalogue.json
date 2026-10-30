@@ -6214,6 +6214,15 @@
               "epuise": false
             },
             {
+              "id": "quartz-rutile-mvupan30lf57",
+              "nom": "quartz rutile",
+              "prix": 6.46,
+              "description": "Le Quartz rutile est une pierre aux reflets dorés et énergétiques, souvent appelée pierre de l'abondance et de la vitalité. En lithothérapie, il est réputé pour stimuler la motivation, renforcer la confiance en soi et activer les flux d'énergie dans le corps. Idéal pour dynamiser l'esprit et attirer la prospérité, il est apprécié pour son pouvoir harmonisant et revitalisant.",
+              "photo": "images/articles/quartz-rutile-mvupan30wpgt.jpg",
+              "prixBoutique": 6,
+              "stock": 1
+            },
+            {
               "id": "pyrite-brute-cristal-mvt94b46sv06",
               "nom": "Pyrite brute cristal",
               "prix": 14.73,
@@ -7636,6 +7645,15 @@
               "stripeDesc": "Cet œuf en quartz hématoïde est une pièce naturelle aux reflets doux et légèrement dorés, souvent appréciée pour son énergie apaisante et équilibrante. Selon la lithothérapie, il favoriserait la purification des émotions et renforcerait la vitalité, tout en aidant à harmoniser les chakras du cœur et de la gorge. Idéal pour une décoration spirituelle ou comme outil de méditation, il apporte une touche de sérénité à votre environnement.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "quartz-fume-geode-mvupfxlxlxsh",
+              "nom": "Quartz fumé Géode",
+              "prix": null,
+              "description": "Ce Quartz fumé en forme de géode naturelle est une pièce fascinante aux reflets profonds et mystérieux. Appelé aussi pierre de fumée, il est souvent utilisé en lithothérapie pour son énergie apaisante et stabilisatrice, aidant à ancrer les émotions et à apaiser l’esprit. Idéal pour créer une ambiance harmonieuse dans votre intérieur ou pour accompagner vos moments de méditation et de détente.",
+              "photo": "images/articles/quartz-fume-geode-mvupfxlxos69.jpg",
+              "prixBoutique": null,
+              "stock": null
             }
           ]
         },
@@ -8751,6 +8769,31 @@
               "stripeDesc": "Ce magnifique Coeur d'Agathe, taillé en forme de cœur, est une pierre douce et apaisante qui symbolise l'amour inconditionnel et la compassion. En lithothérapie, elle est souvent utilisée pour ouvrir le cœur, favoriser la guérison émotionnelle et renforcer les liens affectifs. Idéale pour apaiser les peines et cultiver la tendresse envers soi-même et les autres, elle peut être portée en bijou ou simplement gardée près de soi pour bénéficier de ses vibrations bienveillantes.",
               "stripeStock": 1,
               "epuise": false
+            }
+          ]
+        },
+        {
+          "id": "amazonite-mvuo8mwte8fd",
+          "nom": "Amazonite",
+          "slogan": "",
+          "articles": [
+            {
+              "id": "sphere-amazonite-4-cm-de-diametre-mvuoa824kqp3",
+              "nom": "Sphère Amazonite 4 cm de diamètre",
+              "prix": 13.7,
+              "description": "Cette sphère en amazonite, pierre aux reflets verts et bleus apaisants, est un objet minéral idéal pour équilibrer les énergies. En lithothérapie, l'amazonite est souvent utilisée pour favoriser la sérénité, apaiser les émotions et renforcer la connexion à soi. Parfaite pour une décoration naturelle ou comme outil de bien-être, elle apporte une touche harmonieuse à votre intérieur.",
+              "photo": "images/articles/sphere-amazonite-4-cm-de-diametre-mvuoa8242rii.jpg",
+              "prixBoutique": 13,
+              "stock": 2
+            },
+            {
+              "id": "sphere-amazonite-3-cm-mvuom0svm6g0",
+              "nom": "Sphère Amazonite 3 cm",
+              "prix": 6.46,
+              "description": "Cette sphère en amazonite de 3 cm est une pierre aux reflets verts et bleus apaisants, idéale pour équilibrer les émotions et favoriser la sérénité. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi et apaiser les tensions du quotidien. Parfaite pour une décoration spirituelle ou comme objet de méditation, elle diffuse une énergie harmonieuse et protectrice.",
+              "photo": "images/articles/sphere-amazonite-3-cm-mvuom0svsftv.jpg",
+              "prixBoutique": 6,
+              "stock": 1
             }
           ]
         },
@@ -22126,13 +22169,6 @@
               "epuise": false
             },
             {
-              "id": "bracelet-malachite-8-mm-mtk6buczocia",
-              "nom": "Bracelet malachite 8 mm",
-              "prix": 29.1,
-              "description": "La malachite aide à soulager les maux de dos, et associer une pierre de lune elles soulagent la  polyarthrite, tensions musculaires, articulations et tendons.",
-              "photo": "images/articles/bracelet-malachite-8-mm-mtk6buczu0ig.jpg",
-              "prixBoutique": 27.9,
-              "stock": 1,
               "stripe": "https://buy.stripe.com/eVq6oI0FAabP2og8pH2a545",
               "stripeProductId": "prod_VBc7GlAZCB48fb",
               "stripePriceId": "price_1UBEsrLOfCA5mATugsx6T0zp",
@@ -22142,7 +22178,14 @@
               "stripeNom": "Bracelet malachite 8 mm",
               "stripeDesc": "La malachite aide à soulager les maux de dos, et associer une pierre de lune elles soulagent la  polyarthrite, tensions musculaires, articulations et tendons.",
               "stripeStock": 1,
-              "epuise": false
+              "epuise": false,
+              "id": "bracelet-malachite-8-mm-mtk6buczocia",
+              "nom": "Bracelet malachite 8 mm",
+              "prix": 29.1,
+              "description": "La malachite aide à soulager les maux de dos, et associer une pierre de lune elles soulagent la  polyarthrite, tensions musculaires, articulations et tendons.",
+              "photo": "images/articles/bracelet-malachite-8-mm-mtk6buczu0ig.jpg",
+              "prixBoutique": 27.9,
+              "stock": 1
             },
             {
               "id": "bracelet-iolite-baroque-mtka49u03385",
@@ -22164,13 +22207,6 @@
               "epuise": false
             },
             {
-              "id": "bracelet-lapis-lazuli-8-mm-mtkacuu83s65",
-              "nom": "Bracelet lapis lazuli 8 mm",
-              "prix": 20.83,
-              "description": "Le lapis lazuli réduit le stress, atténue les migraines, allège les problèmes d' insomnie, aide à la communication, aussi pour les problèmes de peau( psyorasis, eczéma...)",
-              "photo": "images/articles/bracelet-lapis-lazuli-8-mm-mtkacuu8x9w5.jpg",
-              "prixBoutique": 19.9,
-              "stock": 3,
               "stripe": "https://buy.stripe.com/14AfZibke97L9QIaxP2a544",
               "stripeProductId": "prod_VBdvCx1CY3xuHi",
               "stripePriceId": "price_1UBGdnLOfCA5mATuC7fAw7yn",
@@ -22180,7 +22216,14 @@
               "stripeNom": "Bracelet lapis lazuli 8 mm",
               "stripeDesc": "Le lapis lazuli réduit le stress, atténue les migraines, allège les problèmes d' insomnie, aide à la communication, aussi pour les problèmes de peau( psyorasis, eczéma...)",
               "stripeStock": 3,
-              "epuise": false
+              "epuise": false,
+              "id": "bracelet-lapis-lazuli-8-mm-mtkacuu83s65",
+              "nom": "Bracelet lapis lazuli 8 mm",
+              "prix": 20.83,
+              "description": "Le lapis lazuli réduit le stress, atténue les migraines, allège les problèmes d' insomnie, aide à la communication, aussi pour les problèmes de peau( psyorasis, eczéma...)",
+              "photo": "images/articles/bracelet-lapis-lazuli-8-mm-mtkacuu8x9w5.jpg",
+              "prixBoutique": 19.9,
+              "stock": 3
             },
             {
               "id": "bracelet-lapis-lazuli-6-mm-mtkajawo18a5",
@@ -27612,13 +27655,6 @@
               "epuise": false
             },
             {
-              "id": "bougie-individuelle-d-accompagnement-mvqtspqo5sos",
-              "nom": "Bougie individuelle d'accompagnement",
-              "prix": 1.25,
-              "description": "Ces bougies originales en forme de dents sont idéales pour accompagner vos rituels de purification ou de protection. Traditionnellement utilisées pour renforcer l'énergie positive et apaiser les tensions, elles peuvent être allumées lors de cérémonies ou simplement pour créer une ambiance apaisante. Leur forme unique en fait un objet décoratif tout en gardant une intention spirituelle forte.",
-              "photo": "images/articles/bougie-individuelle-d-accompagnement-mvqtspqomukx.jpg",
-              "prixBoutique": 0.95,
-              "stock": 16,
               "stripe": "https://buy.stripe.com/bJebJ21JE4Rvgf69tL2a546",
               "stripeProductId": "prod_VWEXdQMWI5IoTq",
               "stripePriceId": "price_1UVC4rLOfCA5mATuWktYKt5H",
@@ -27628,7 +27664,14 @@
               "stripeNom": "Bougie individuelle d'accompagnement",
               "stripeDesc": "Ces bougies originales en forme de dents sont idéales pour accompagner vos rituels de purification ou de protection. Traditionnellement utilisées pour renforcer l'énergie positive et apaiser les tensions, elles peuvent être allumées lors de cérémonies ou simplement pour créer une ambiance apaisante. Leur forme unique en fait un objet décoratif tout en gardant une intention spirituelle forte.",
               "stripeStock": 16,
-              "epuise": false
+              "epuise": false,
+              "id": "bougie-individuelle-d-accompagnement-mvqtspqo5sos",
+              "nom": "Bougie individuelle d'accompagnement",
+              "prix": 1.25,
+              "description": "Ces bougies originales en forme de dents sont idéales pour accompagner vos rituels de purification ou de protection. Traditionnellement utilisées pour renforcer l'énergie positive et apaiser les tensions, elles peuvent être allumées lors de cérémonies ou simplement pour créer une ambiance apaisante. Leur forme unique en fait un objet décoratif tout en gardant une intention spirituelle forte.",
+              "photo": "images/articles/bougie-individuelle-d-accompagnement-mvqtspqomukx.jpg",
+              "prixBoutique": 0.95,
+              "stock": 16
             },
             {
               "id": "neuvaine-saint-benoit-mvsaoyc0khss",
@@ -33820,13 +33863,6 @@
               "epuise": false
             },
             {
-              "id": "support-en-verre-mvkmvo1fx0ts",
-              "nom": "Support en verre",
-              "prix": 3.88,
-              "description": "Ce support en verre aux arêtes nettes et à la surface légèrement texturée apporte une touche élégante et moderne à votre espace. Idéal pour poser vos cristaux ou bijoux en pierres naturelles, il permet de sublimer vos éléments tout en les protégeant. En lithothérapie, les supports en verre sont souvent utilisés pour harmoniser l’énergie des pierres et faciliter leur rayonnement positif dans votre environnement.",
-              "photo": "images/articles/support-en-verre-mvkmvo1fqaqz.jpg",
-              "prixBoutique": 3.5,
-              "stock": 2,
               "stripe": "https://buy.stripe.com/eVqfZi2NI2Jn6Ew5dv2a543",
               "stripeProductId": "prod_VUbtvMJJ2QVmV4",
               "stripePriceId": "price_1UVpVnLOfCA5mATuVkhPgIFR",
@@ -33836,7 +33872,14 @@
               "stripeNom": "Support en verre",
               "stripeDesc": "Ce support en verre aux arêtes nettes et à la surface légèrement texturée apporte une touche élégante et moderne à votre espace. Idéal pour poser vos cristaux ou bijoux en pierres naturelles, il permet de sublimer vos éléments tout en les protégeant. En lithothérapie, les supports en verre sont souvent utilisés pour harmoniser l’énergie des pierres et faciliter leur rayonnement positif dans votre environnement.",
               "stripeStock": 2,
-              "epuise": false
+              "epuise": false,
+              "id": "support-en-verre-mvkmvo1fx0ts",
+              "nom": "Support en verre",
+              "prix": 3.88,
+              "description": "Ce support en verre aux arêtes nettes et à la surface légèrement texturée apporte une touche élégante et moderne à votre espace. Idéal pour poser vos cristaux ou bijoux en pierres naturelles, il permet de sublimer vos éléments tout en les protégeant. En lithothérapie, les supports en verre sont souvent utilisés pour harmoniser l’énergie des pierres et faciliter leur rayonnement positif dans votre environnement.",
+              "photo": "images/articles/support-en-verre-mvkmvo1fqaqz.jpg",
+              "prixBoutique": 3.5,
+              "stock": 2
             },
             {
               "id": "support-en-metal-pour-sphere-mvktcxvl286s",

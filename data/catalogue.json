@@ -6220,7 +6220,17 @@
               "description": "Le Quartz rutile est une pierre aux reflets dorés et énergétiques, souvent appelée pierre de l'abondance et de la vitalité. En lithothérapie, il est réputé pour stimuler la motivation, renforcer la confiance en soi et activer les flux d'énergie dans le corps. Idéal pour dynamiser l'esprit et attirer la prospérité, il est apprécié pour son pouvoir harmonisant et revitalisant.",
               "photo": "images/articles/quartz-rutile-mvupan30wpgt.jpg",
               "prixBoutique": 6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq5kE3RM2Jn6Ew7lD2a60y",
+              "stripeProductId": "prod_VXFbYULbB07SUp",
+              "stripePriceId": "price_1UWB5yLOfCA5mATubSwfYFd3",
+              "stripeLinkId": "plink_1UWB5zLOfCA5mATuViFJ7FjM",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "quartz rutile",
+              "stripeDesc": "Le Quartz rutile est une pierre aux reflets dorés et énergétiques, souvent appelée pierre de l'abondance et de la vitalité. En lithothérapie, il est réputé pour stimuler la motivation, renforcer la confiance en soi et activer les flux d'énergie dans le corps. Idéal pour dynamiser l'esprit et attirer la prospérité, il est apprécié pour son pouvoir harmonisant et revitalisant.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "pyrite-brute-cristal-mvt94b46sv06",
@@ -8784,7 +8794,17 @@
               "description": "Cette sphère en amazonite, pierre aux reflets verts et bleus apaisants, est un objet minéral idéal pour équilibrer les énergies. En lithothérapie, l'amazonite est souvent utilisée pour favoriser la sérénité, apaiser les émotions et renforcer la connexion à soi. Parfaite pour une décoration naturelle ou comme outil de bien-être, elle apporte une touche harmonieuse à votre intérieur.",
               "photo": "images/articles/sphere-amazonite-4-cm-de-diametre-mvuoa8242rii.jpg",
               "prixBoutique": 13,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/fZu28scoi3Nr6Ew5dv2a60z",
+              "stripeProductId": "prod_VXFbpA87qmsHOV",
+              "stripePriceId": "price_1UWB5zLOfCA5mATuOMpzJh7M",
+              "stripeLinkId": "plink_1UWB5zLOfCA5mATurT0hUi2m",
+              "stripePrix": 13.7,
+              "stripeMode": "live",
+              "stripeNom": "Sphère Amazonite 4 cm de diamètre",
+              "stripeDesc": "Cette sphère en amazonite, pierre aux reflets verts et bleus apaisants, est un objet minéral idéal pour équilibrer les énergies. En lithothérapie, l'amazonite est souvent utilisée pour favoriser la sérénité, apaiser les émotions et renforcer la connexion à soi. Parfaite pour une décoration naturelle ou comme outil de bien-être, elle apporte une touche harmonieuse à votre intérieur.",
+              "stripeStock": 2,
+              "epuise": false
             },
             {
               "id": "sphere-amazonite-3-cm-mvuom0svm6g0",
@@ -8793,7 +8813,17 @@
               "description": "Cette sphère en amazonite de 3 cm est une pierre aux reflets verts et bleus apaisants, idéale pour équilibrer les émotions et favoriser la sérénité. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi et apaiser les tensions du quotidien. Parfaite pour une décoration spirituelle ou comme objet de méditation, elle diffuse une énergie harmonieuse et protectrice.",
               "photo": "images/articles/sphere-amazonite-3-cm-mvuom0svsftv.jpg",
               "prixBoutique": 6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ4gAgEydo12ogfS92a60A",
+              "stripeProductId": "prod_VXFbo1LmIC4ka5",
+              "stripePriceId": "price_1UWB5zLOfCA5mATuWyMuhISg",
+              "stripeLinkId": "plink_1UWB60LOfCA5mATu2Pq8pcbn",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Sphère Amazonite 3 cm",
+              "stripeDesc": "Cette sphère en amazonite de 3 cm est une pierre aux reflets verts et bleus apaisants, idéale pour équilibrer les émotions et favoriser la sérénité. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi et apaiser les tensions du quotidien. Parfaite pour une décoration spirituelle ou comme objet de méditation, elle diffuse une énergie harmonieuse et protectrice.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

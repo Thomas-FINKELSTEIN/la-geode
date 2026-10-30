@@ -6714,7 +6714,17 @@
               "description": "Ces galets d'améthyste aux reflets violets et blancs captifs apportent une énergie apaisante et spirituelle. Utilisés en lithothérapie, ils sont réputés pour favoriser la sérénité, renforcer la concentration et équilibrer les émotions. Parfaits pour une méditation profonde ou comme éléments décoratifs dans un espace de bien-être.",
               "photo": "images/articles/galet-amethyste-mvv54d9d7mb1.jpg",
               "prixBoutique": 7.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/8x28wQ1JE1Fj8ME5dv2a61i",
+              "stripeProductId": "prod_VXMgMuhBpK3y5z",
+              "stripePriceId": "price_1UWHwjLOfCA5mATuvMRdcoNb",
+              "stripeLinkId": "plink_1UWHwkLOfCA5mATuB473wVQm",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Galet Améthyste",
+              "stripeDesc": "Ces galets d'améthyste aux reflets violets et blancs captifs apportent une énergie apaisante et spirituelle. Utilisés en lithothérapie, ils sont réputés pour favoriser la sérénité, renforcer la concentration et équilibrer les émotions. Parfaits pour une méditation profonde ou comme éléments décoratifs dans un espace de bien-être.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

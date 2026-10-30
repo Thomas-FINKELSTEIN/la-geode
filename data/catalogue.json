@@ -6657,7 +6657,17 @@
               "description": "Ces galets d'Angélite aux reflets doux et aux teintes délicates apportent une énergie apaisante et une touche de sérénité. Associée traditionnellement à la communication et à la purification des chakras, elle favorise l'expression des émotions et aide à trouver des réponses intérieures. Idéale pour méditer ou décorer un espace de bien-être, elle inspire aussi la douceur et la connexion avec l'univers céleste.",
               "photo": "images/articles/galet-angelite-mvv4x6m16c2y.jpg",
               "prixBoutique": 12,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28EeVe8826ZD7IA9tL2a61f",
+              "stripeProductId": "prod_VXMaDJ4R1F0tRx",
+              "stripePriceId": "price_1UWHrPLOfCA5mATuVxzx670G",
+              "stripeLinkId": "plink_1UWHrPLOfCA5mATuxso8D1Aw",
+              "stripePrix": 12.67,
+              "stripeMode": "live",
+              "stripeNom": "Galet Angélite",
+              "stripeDesc": "Ces galets d'Angélite aux reflets doux et aux teintes délicates apportent une énergie apaisante et une touche de sérénité. Associée traditionnellement à la communication et à la purification des chakras, elle favorise l'expression des émotions et aide à trouver des réponses intérieures. Idéale pour méditer ou décorer un espace de bien-être, elle inspire aussi la douceur et la connexion avec l'univers céleste.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

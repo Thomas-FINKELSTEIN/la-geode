@@ -5738,7 +5738,17 @@
               "description": "Cette géode de cristal de roche en forme de pyramide est une pièce naturelle aux reflets lumineux et apaisants. En lithothérapie, elle est souvent utilisée pour renforcer la clarté mentale, équilibrer les énergies et favoriser la sérénité au quotidien. Son éclat purifie l’environnement et aide à harmoniser les émotions.",
               "photo": "images/articles/geode-de-cristal-de-roche-mvutouspby5u.jpg",
               "prixBoutique": 565,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI4gAagabfT7IAdK12a60U",
+              "stripeProductId": "prod_VXHWi7jnT3rYgj",
+              "stripePriceId": "price_1UWCx3LOfCA5mATunu8BJkh9",
+              "stripeLinkId": "plink_1UWCx3LOfCA5mATui6khE8V4",
+              "stripePrix": 584.24,
+              "stripeMode": "live",
+              "stripeNom": "Géode de cristal de roche",
+              "stripeDesc": "Cette géode de cristal de roche en forme de pyramide est une pièce naturelle aux reflets lumineux et apaisants. En lithothérapie, elle est souvent utilisée pour renforcer la clarté mentale, équilibrer les énergies et favoriser la sérénité au quotidien. Son éclat purifie l’environnement et aide à harmoniser les émotions.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

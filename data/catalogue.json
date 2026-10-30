@@ -5757,7 +5757,17 @@
               "description": "Ce crâne en cristal de roche du Pérou est une pièce unique alliant beauté minérale et symbolisme puissant. Traditionnellement utilisé en lithothérapie pour renforcer la clarté mentale et apaiser les émotions, il est souvent associé à une énergie purificatrice et protectrice. Idéal pour la méditation ou comme objet décoratif spirituel, il attire également les propriétés de concentration et d'équilibre énergétique.",
               "photo": "images/articles/crane-de-cristal-de-roche-du-perou-10x9x-mvutsufbewb1.jpg",
               "prixBoutique": 330,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFabJ23RMfw99QI35n2a60V",
+              "stripeProductId": "prod_VXHZ31tQ2DboGR",
+              "stripePriceId": "price_1UWD03LOfCA5mATu4XnWfmv9",
+              "stripeLinkId": "plink_1UWD03LOfCA5mATutT8Nqlgg",
+              "stripePrix": 341.35,
+              "stripeMode": "live",
+              "stripeNom": "Crâne de cristal de roche du Pérou 10x9x8",
+              "stripeDesc": "Ce crâne en cristal de roche du Pérou est une pièce unique alliant beauté minérale et symbolisme puissant. Traditionnellement utilisé en lithothérapie pour renforcer la clarté mentale et apaiser les émotions, il est souvent associé à une énergie purificatrice et protectrice. Idéal pour la méditation ou comme objet décoratif spirituel, il attire également les propriétés de concentration et d'équilibre énergétique.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

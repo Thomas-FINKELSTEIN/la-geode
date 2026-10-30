@@ -28059,7 +28059,17 @@
               "description": "La pointe d'Hématite est une pierre aux reflets métalliques profonds, souvent utilisée pour son énergie stabilisatrice et ancrante. En lithothérapie, elle est réputée pour aider à équilibrer les émotions, renforcer la volonté et favoriser un sentiment de protection. Son utilisation courante inclut la méditation ou le port en bijou pour bénéficier de ses vertus apaisantes au quotidien.",
               "photo": "images/articles/pointe-d-hematite-mvur4m5w4v0l.jpg",
               "prixBoutique": 29.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/fZu28s1JE4Rv7IA49r2a60G",
+              "stripeProductId": "prod_VXGMNRb0Bxq0jl",
+              "stripePriceId": "price_1UWBpcLOfCA5mATuBgPYVJBb",
+              "stripeLinkId": "plink_1UWBpcLOfCA5mATuCLiO1iSv",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Pointe d'Hématite",
+              "stripeDesc": "La pointe d'Hématite est une pierre aux reflets métalliques profonds, souvent utilisée pour son énergie stabilisatrice et ancrante. En lithothérapie, elle est réputée pour aider à équilibrer les émotions, renforcer la volonté et favoriser un sentiment de protection. Son utilisation courante inclut la méditation ou le port en bijou pour bénéficier de ses vertus apaisantes au quotidien.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

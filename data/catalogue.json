@@ -6733,7 +6733,17 @@
               "description": "La Chiastolite est une pierre fascinante aux motifs en croix bien visibles, souvent appelée pierre de la chance ou de la protection. En lithothérapie, elle est réputée pour renforcer la volonté, équilibrer les énergies et favoriser la concentration. Idéale pour les personnes en quête de clarté mentale ou de stabilité émotionnelle, elle est aussi utilisée pour apaiser les tensions et renforcer la confiance en soi.",
               "photo": "images/articles/galet-chiastolite-mvv5cswxwavu.jpg",
               "prixBoutique": 3,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/bJefZi3RM4Rv1kcbBT2a61j",
+              "stripeProductId": "prod_VXMmzhCZ5LDkzQ",
+              "stripePriceId": "price_1UWI37LOfCA5mATu7G8K87FB",
+              "stripeLinkId": "plink_1UWI38LOfCA5mATu1Xz5jLeY",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Galet Chiastolite",
+              "stripeDesc": "La Chiastolite est une pierre fascinante aux motifs en croix bien visibles, souvent appelée pierre de la chance ou de la protection. En lithothérapie, elle est réputée pour renforcer la volonté, équilibrer les énergies et favoriser la concentration. Idéale pour les personnes en quête de clarté mentale ou de stabilité émotionnelle, elle est aussi utilisée pour apaiser les tensions et renforcer la confiance en soi.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

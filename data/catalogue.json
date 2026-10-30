@@ -9406,7 +9406,17 @@
               "description": "La Septaria est une pierre fascinante aux reflets dorés et aux motifs uniques, rappelant les paysages minéraux de la Terre. Appelée aussi pierre de la sagesse, elle est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser l'équilibre intérieur. Idéale pour méditer ou décorer une pièce, elle attire également la chance et la prospérité selon les croyances traditionnelles.",
               "photo": "images/articles/septaria-138gr-mvusaydu0ner.jpg",
               "prixBoutique": 8.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa4gA0FAcjX8MEaxP2a60N",
+              "stripeProductId": "prod_VXGt6Ywz6gXyq5",
+              "stripePriceId": "price_1UWCLULOfCA5mATuXsuPeLsX",
+              "stripeLinkId": "plink_1UWCLVLOfCA5mATuXmM1RGoJ",
+              "stripePrix": 8.84,
+              "stripeMode": "live",
+              "stripeNom": "Septaria 138gr",
+              "stripeDesc": "La Septaria est une pierre fascinante aux reflets dorés et aux motifs uniques, rappelant les paysages minéraux de la Terre. Appelée aussi pierre de la sagesse, elle est souvent utilisée en lithothérapie pour apaiser les émotions et favoriser l'équilibre intérieur. Idéale pour méditer ou décorer une pièce, elle attire également la chance et la prospérité selon les croyances traditionnelles.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

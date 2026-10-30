@@ -9451,7 +9451,17 @@
               "description": "L'Unakite est une pierre aux couleurs envoûtantes, mêlant des reflets verts et roses qui symbolisent l'équilibre entre le cœur et l'esprit. Très prisée en lithothérapie, elle est souvent appelée la pierre de la compassion et de la guérison émotionnelle, aidant à apaiser les tensions et à renforcer la connexion avec soi-même. Idéale pour les espaces de méditation ou comme objet de bien-être, elle diffuse une énergie apaisante et harmonieuse.",
               "photo": "images/articles/unakite-triangle-mvusju8hkqsz.jpg",
               "prixBoutique": 11.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQaEY3RM83H3sk0Xf2a60R",
+              "stripeProductId": "prod_VXH0uZhaC33DNU",
+              "stripePriceId": "price_1UWCSGLOfCA5mATumFLZb4B2",
+              "stripeLinkId": "plink_1UWCSGLOfCA5mATuQNLPyTBX",
+              "stripePrix": 12.36,
+              "stripeMode": "live",
+              "stripeNom": "Unakite triangle",
+              "stripeDesc": "L'Unakite est une pierre aux couleurs envoûtantes, mêlant des reflets verts et roses qui symbolisent l'équilibre entre le cœur et l'esprit. Très prisée en lithothérapie, elle est souvent appelée la pierre de la compassion et de la guérison émotionnelle, aidant à apaiser les tensions et à renforcer la connexion avec soi-même. Idéale pour les espaces de méditation ou comme objet de bien-être, elle diffuse une énergie apaisante et harmonieuse.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

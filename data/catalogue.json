@@ -9304,7 +9304,17 @@
               "description": "Ce galet de jaspe polychrome est une pierre aux couleurs envoûtantes, mêlant des teintes douces et profondes pour un effet apaisant et harmonieux. En lithothérapie, il est souvent utilisé pour équilibrer les émotions, renforcer la confiance en soi et favoriser la stabilité intérieure. Idéal pour méditer ou porter en bijou, il apporte une énergie positive au quotidien.",
               "photo": "images/articles/jaspe-polychrome-galet-mvuq9ttoppg0.jpg",
               "prixBoutique": 9.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqcN688283H2oggWd2a60D",
+              "stripeProductId": "prod_VXFy2wyyT8tHE8",
+              "stripePriceId": "price_1UWBSULOfCA5mATulGPpsg1z",
+              "stripeLinkId": "plink_1UWBSULOfCA5mATu7PYN9lIY",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe polychrome Galet",
+              "stripeDesc": "Ce galet de jaspe polychrome est une pierre aux couleurs envoûtantes, mêlant des teintes douces et profondes pour un effet apaisant et harmonieux. En lithothérapie, il est souvent utilisé pour équilibrer les émotions, renforcer la confiance en soi et favoriser la stabilité intérieure. Idéal pour méditer ou porter en bijou, il apporte une énergie positive au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

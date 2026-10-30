@@ -6410,7 +6410,17 @@
               "description": "Ce galet de rubis sur cordiérite est une pierre naturelle aux reflets profonds et aux couleurs chaudes, mêlant énergie et douceur. En lithothérapie, il est souvent associé à la passion et à la vitalité, tout en apaisant les tensions émotionnelles. Idéal pour stimuler la confiance en soi et équilibrer les émotions, il se prête parfaitement à une utilisation en méditation ou comme objet décoratif énergisant.",
               "photo": "images/articles/rubis-sur-cordierite-mvurtyt5vgy9.jpg",
               "prixBoutique": 5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E28sdsm2Jn9QIaxP2a60L",
+              "stripeProductId": "prod_VXGgzEBIRu6zTu",
+              "stripePriceId": "price_1UWC8hLOfCA5mATuf8TQciYJ",
+              "stripeLinkId": "plink_1UWC8hLOfCA5mATuYKpPmLYN",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Rubis sur cordiérite",
+              "stripeDesc": "Ce galet de rubis sur cordiérite est une pierre naturelle aux reflets profonds et aux couleurs chaudes, mêlant énergie et douceur. En lithothérapie, il est souvent associé à la passion et à la vitalité, tout en apaisant les tensions émotionnelles. Idéal pour stimuler la confiance en soi et équilibrer les émotions, il se prête parfaitement à une utilisation en méditation ou comme objet décoratif énergisant.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -6763,6 +6763,15 @@
               "stripeDesc": "La rhodonite est une pierre aux reflets roses et bruns, souvent appelée pierre de l'amour et du pardon. Elle est réputée pour apaiser les émotions, favoriser la compassion et renforcer les liens affectifs. Idéale pour ceux qui cherchent à équilibrer leur cœur et à cultiver la tendresse envers eux-mêmes et les autres.",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "apophylite-mvv9vhh13yaz",
+              "nom": "Apophylite",
+              "prix": 5.43,
+              "description": "L'Apophylite est une pierre aux reflets bleutés et translucides, souvent appelée pierre de la clarté mentale. En lithothérapie, elle est réputée pour favoriser la communication, l'intuition et la connexion avec son environnement spirituel. Idéale pour apaiser l'esprit et renforcer la confiance en soi, elle est aussi utilisée pour purifier les énergies et encourager une vision plus claire des situations.",
+              "photo": "images/articles/apophylite-mvv9vhh1ed0f.jpg",
+              "prixBoutique": 5,
+              "stock": 34
             }
           ]
         },

@@ -6581,7 +6581,17 @@
               "description": "Ces galets de Quartz bleu aux reflets doux et apaisants sont des alliés précieux pour l'équilibre émotionnel. En lithothérapie, cette pierre est souvent utilisée pour favoriser la sérénité, apaiser les tensions et encourager une communication harmonieuse. Idéal pour créer une ambiance calme à la maison ou à emporter avec soi pour un moment de détente au quotidien.",
               "photo": "images/articles/quartz-bleu-galets-mvv4etgj0wbx.jpg",
               "prixBoutique": 7.5,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/28E7sM2NI3Nr5As49r2a61b",
+              "stripeProductId": "prod_VXMMLwr6Vx8NnQ",
+              "stripePriceId": "price_1UWHdWLOfCA5mATuxrWaBiju",
+              "stripeLinkId": "plink_1UWHdXLOfCA5mATuDxMwTNJS",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Quartz bleu Galets",
+              "stripeDesc": "Ces galets de Quartz bleu aux reflets doux et apaisants sont des alliés précieux pour l'équilibre émotionnel. En lithothérapie, cette pierre est souvent utilisée pour favoriser la sérénité, apaiser les tensions et encourager une communication harmonieuse. Idéal pour créer une ambiance calme à la maison ou à emporter avec soi pour un moment de détente au quotidien.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

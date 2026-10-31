@@ -6828,7 +6828,17 @@
               "description": "Le Jaspe de Chine est une pierre aux reflets dorés et aux motifs organiques fascinants, souvent utilisée pour renforcer la vitalité et l'énergie vitale. En lithothérapie, il est réputé pour favoriser la stabilité émotionnelle et aider à surmonter les périodes de stress ou de doute. Idéal pour une utilisation quotidienne, il peut être porté en bijou ou simplement gardé dans un espace de vie pour équilibrer les énergies.",
               "photo": "images/articles/jaspe-de-chine-mvw5exnbe7r3.jpg",
               "prixBoutique": 3,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/aFafZi0FAfw92og21j2a61r",
+              "stripeProductId": "prod_VXd4YttPYkX5vK",
+              "stripePriceId": "price_1UWXnvLOfCA5mATuAvWo8pOo",
+              "stripeLinkId": "plink_1UWXnvLOfCA5mATumB8QUgxq",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe de chine",
+              "stripeDesc": "Le Jaspe de Chine est une pierre aux reflets dorés et aux motifs organiques fascinants, souvent utilisée pour renforcer la vitalité et l'énergie vitale. En lithothérapie, il est réputé pour favoriser la stabilité émotionnelle et aider à surmonter les périodes de stress ou de doute. Idéal pour une utilisation quotidienne, il peut être porté en bijou ou simplement gardé dans un espace de vie pour équilibrer les énergies.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

@@ -7113,7 +7113,17 @@
               "description": "Ces galets d'Angélite aux teintes douces et apaisantes sont des pierres d'une grande pureté énergétique. En lithothérapie, elle est souvent associée à la communication avec les anges et à l'ouverture du cœur, favorisant la paix intérieure et la connexion spirituelle. Idéale pour méditer ou décorer un espace de bien-être, elle aide aussi à apaiser les émotions et à renforcer la confiance en soi.",
               "photo": "images/articles/angelite-galets-mvwis0qpkwq7.jpg",
               "prixBoutique": 4,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/5kQbJ2fAu6ZD6EwaxP2a61K",
+              "stripeProductId": "prod_VXj6yaiViEjjiq",
+              "stripePriceId": "price_1UWddyLOfCA5mATuKcxW8kF1",
+              "stripeLinkId": "plink_1UWddzLOfCA5mATutlBopltR",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Angélite Galets",
+              "stripeDesc": "Ces galets d'Angélite aux teintes douces et apaisantes sont des pierres d'une grande pureté énergétique. En lithothérapie, elle est souvent associée à la communication avec les anges et à l'ouverture du cœur, favorisant la paix intérieure et la connexion spirituelle. Idéale pour méditer ou décorer un espace de bien-être, elle aide aussi à apaiser les émotions et à renforcer la confiance en soi.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

@@ -7170,7 +7170,17 @@
               "description": "La cornaline est une pierre précieuse aux reflets chauds et apaisants, souvent utilisée pour renforcer la vitalité et l'énergie positive. En lithothérapie, elle est réputée pour stimuler la confiance en soi et aider à surmonter les émotions négatives comme la colère ou le stress. Ces galets de cornaline peuvent être utilisés en méditation, portés en bijou ou simplement gardés dans un espace de vie pour favoriser un environnement harmonieux.",
               "photo": "images/articles/cornaline-galets-mvwmksxyaox1.jpg",
               "prixBoutique": 5,
-              "stock": 15
+              "stock": 15,
+              "stripe": "https://buy.stripe.com/5kQ28s8825Vz8ME7lD2a61N",
+              "stripeProductId": "prod_VXkopyXxr26PS5",
+              "stripePriceId": "price_1UWfIsLOfCA5mATuniqUgFOX",
+              "stripeLinkId": "plink_1UWfItLOfCA5mATuS30Csugt",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Cornaline Galets",
+              "stripeDesc": "La cornaline est une pierre précieuse aux reflets chauds et apaisants, souvent utilisée pour renforcer la vitalité et l'énergie positive. En lithothérapie, elle est réputée pour stimuler la confiance en soi et aider à surmonter les émotions négatives comme la colère ou le stress. Ces galets de cornaline peuvent être utilisés en méditation, portés en bijou ou simplement gardés dans un espace de vie pour favoriser un environnement harmonieux.",
+              "stripeStock": 15,
+              "epuise": false
             }
           ]
         },

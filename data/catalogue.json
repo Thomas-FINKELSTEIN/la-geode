@@ -7037,7 +7037,17 @@
               "description": "Ces pierres d'améthyste chevron aux reflets violets et blancs captivants sont parfaites pour apporter calme et sérénité. En lithothérapie, elles sont souvent utilisées pour favoriser la connexion spirituelle, apaiser les émotions et stimuler la clarté mentale. Idéales pour une méditation apaisante ou comme élément décoratif dans un espace de détente.",
               "photo": "images/articles/amethyste-chevron-mvw8ngku7dcp.jpg",
               "prixBoutique": 4,
-              "stock": 12
+              "stock": 12,
+              "stripe": "https://buy.stripe.com/fZu9AU5ZUfw92ogdK12a61D",
+              "stripeProductId": "prod_VXeWGXZ5txIDbH",
+              "stripePriceId": "price_1UWZDkLOfCA5mATuh88iFJ6R",
+              "stripeLinkId": "plink_1UWZDkLOfCA5mATuSpnYI3tD",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Améthyste chevron",
+              "stripeDesc": "Ces pierres d'améthyste chevron aux reflets violets et blancs captivants sont parfaites pour apporter calme et sérénité. En lithothérapie, elles sont souvent utilisées pour favoriser la connexion spirituelle, apaiser les émotions et stimuler la clarté mentale. Idéales pour une méditation apaisante ou comme élément décoratif dans un espace de détente.",
+              "stripeStock": 12,
+              "epuise": false
             }
           ]
         },

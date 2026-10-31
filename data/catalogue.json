@@ -6999,7 +6999,17 @@
               "description": "Ces galets d'améthyste aux reflets violets profonds et aux nuances subtiles captent immédiatement l'attention. En lithothérapie, cette pierre est souvent associée à la sérénité et à la paix intérieure, aidant à apaiser les émotions et à favoriser un état de calme. Utilisée depuis des siècles, elle est aussi réputée pour renforcer la concentration et équilibrer les énergies, ce qui en fait un allié précieux pour le bien-être au quotidien.",
               "photo": "images/articles/amethyste-galets-mvw823hxupbk.jpg",
               "prixBoutique": 2,
-              "stock": 133
+              "stock": 133,
+              "stripe": "https://buy.stripe.com/4gM8wQewqdo18MEbBT2a61B",
+              "stripeProductId": "prod_VXeGQCssWDxKtk",
+              "stripePriceId": "price_1UWYxdLOfCA5mATuWpRLINP2",
+              "stripeLinkId": "plink_1UWYxeLOfCA5mATuT2dZCFRq",
+              "stripePrix": 2.33,
+              "stripeMode": "live",
+              "stripeNom": "Améthyste Galets",
+              "stripeDesc": "Ces galets d'améthyste aux reflets violets profonds et aux nuances subtiles captent immédiatement l'attention. En lithothérapie, cette pierre est souvent associée à la sérénité et à la paix intérieure, aidant à apaiser les émotions et à favoriser un état de calme. Utilisée depuis des siècles, elle est aussi réputée pour renforcer la concentration et équilibrer les énergies, ce qui en fait un allié précieux pour le bien-être au quotidien.",
+              "stripeStock": 133,
+              "epuise": false
             }
           ]
         },

@@ -7227,7 +7227,17 @@
               "description": "Ces galets d'opale jaune aux reflets doux et apaisants sont des pierres naturelles aux multiples vertus. En lithothérapie, elle est souvent associée à la joie et à la vitalité, aidant à éclaircir les émotions et à apporter une énergie positive au quotidien. Parfaite pour une utilisation en méditation ou en décoration, elle incarne aussi une touche de douceur et d'harmonie dans votre intérieur.",
               "photo": "images/articles/opale-jaune-galets-mvwnnltqll3v.jpg",
               "prixBoutique": 6,
-              "stock": 14
+              "stock": 14,
+              "stripe": "https://buy.stripe.com/bJefZi5ZU4Rv8ME5dv2a61Q",
+              "stripeProductId": "prod_VXlIR1bneveyeh",
+              "stripePriceId": "price_1UWfm5LOfCA5mATu9fhESfWj",
+              "stripeLinkId": "plink_1UWfm5LOfCA5mATuyZzUcUCM",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Opale jaune Galets",
+              "stripeDesc": "Ces galets d'opale jaune aux reflets doux et apaisants sont des pierres naturelles aux multiples vertus. En lithothérapie, elle est souvent associée à la joie et à la vitalité, aidant à éclaircir les émotions et à apporter une énergie positive au quotidien. Parfaite pour une utilisation en méditation ou en décoration, elle incarne aussi une touche de douceur et d'harmonie dans votre intérieur.",
+              "stripeStock": 14,
+              "epuise": false
             }
           ]
         },

@@ -6809,7 +6809,17 @@
               "description": "Ces galets d'aigue marine aux teintes douces et apaisantes sont des pierres naturelles aux propriétés énergétiques subtiles. Selon la lithothérapie, elle favorise la sérénité et aide à apaiser les émotions, tout en stimulant la clarté mentale et la communication. Idéale pour une utilisation en méditation ou en décoration, elle apporte une touche de calme et d'harmonie à votre quotidien.",
               "photo": "images/articles/aigue-marine-mvw54clknspv.jpg",
               "prixBoutique": 6,
-              "stock": 22
+              "stock": 22,
+              "stripe": "https://buy.stripe.com/cNi00kagabfT8ME0Xf2a61q",
+              "stripeProductId": "prod_VXcvDCirHlfyCE",
+              "stripePriceId": "price_1UWXfzLOfCA5mATun6Dtpfwf",
+              "stripeLinkId": "plink_1UWXg0LOfCA5mATuLikuRPYA",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Aigue marine",
+              "stripeDesc": "Ces galets d'aigue marine aux teintes douces et apaisantes sont des pierres naturelles aux propriétés énergétiques subtiles. Selon la lithothérapie, elle favorise la sérénité et aide à apaiser les émotions, tout en stimulant la clarté mentale et la communication. Idéale pour une utilisation en méditation ou en décoration, elle apporte une touche de calme et d'harmonie à votre quotidien.",
+              "stripeStock": 22,
+              "epuise": false
             }
           ]
         },

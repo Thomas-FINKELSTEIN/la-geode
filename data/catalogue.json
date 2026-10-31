@@ -6942,7 +6942,17 @@
               "description": "Ces galets d'Agate Mozambique captivent par leurs reflets dorés et leurs nuances profondes, alliant élégance et douceur. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel et à la protection, aidant à apaiser les tensions et à renforcer la confiance en soi. Idéale pour une décoration naturelle ou comme objet de méditation, elle invite à une énergie harmonieuse au quotidien.",
               "photo": "images/articles/agate-mozambique-mvw7581jq26z.jpg",
               "prixBoutique": 6,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/9B6eVedsm6ZD4wo6hz2a61x",
+              "stripeProductId": "prod_VXdqmeQ5FPGEKd",
+              "stripePriceId": "price_1UWYYyLOfCA5mATuHyw2padP",
+              "stripeLinkId": "plink_1UWYYyLOfCA5mATuv5f6a5TF",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Agate mozambique",
+              "stripeDesc": "Ces galets d'Agate Mozambique captivent par leurs reflets dorés et leurs nuances profondes, alliant élégance et douceur. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel et à la protection, aidant à apaiser les tensions et à renforcer la confiance en soi. Idéale pour une décoration naturelle ou comme objet de méditation, elle invite à une énergie harmonieuse au quotidien.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

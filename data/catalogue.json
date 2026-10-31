@@ -6847,7 +6847,17 @@
               "description": "Ces galets de Jade aux teintes douces et variées sont des pierres naturelles aux propriétés apaisantes et harmonisantes. En lithothérapie, la Jade est souvent associée à la sérénité, à la protection et à l'équilibre émotionnel. Idéale pour méditer ou décorer un espace de bien-être, elle favorise également la concentration et la connexion à la nature.",
               "photo": "images/articles/jade-galets-mvw5q0up5iqe.jpg",
               "prixBoutique": 2,
-              "stock": 41
+              "stock": 41,
+              "stripe": "https://buy.stripe.com/5kQ4gA4VQ97L5As35n2a61s",
+              "stripeProductId": "prod_VXdCd0cLZ75Cfn",
+              "stripePriceId": "price_1UWXwHLOfCA5mATu06tDGxXa",
+              "stripeLinkId": "plink_1UWXwHLOfCA5mATuZALdNZO2",
+              "stripePrix": 2.33,
+              "stripeMode": "live",
+              "stripeNom": "Jade Galets",
+              "stripeDesc": "Ces galets de Jade aux teintes douces et variées sont des pierres naturelles aux propriétés apaisantes et harmonisantes. En lithothérapie, la Jade est souvent associée à la sérénité, à la protection et à l'équilibre émotionnel. Idéale pour méditer ou décorer un espace de bien-être, elle favorise également la concentration et la connexion à la nature.",
+              "stripeStock": 41,
+              "epuise": false
             }
           ]
         },

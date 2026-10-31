@@ -6961,7 +6961,17 @@
               "description": "Ces galets d'agate bleue aux reflets apaisants sont des pierres naturelles aux couleurs douces et variées. En lithothérapie, l'agate bleue est souvent associée à la sérénité et à la communication harmonieuse, aidant à apaiser les émotions et à favoriser la clarté mentale. Parfaite pour une décoration zen ou comme objet de méditation, elle invite au calme et à l'équilibre intérieur.",
               "photo": "images/articles/agate-bleue-galets-mvw7l286moax.jpg",
               "prixBoutique": 6,
-              "stock": 67
+              "stock": 67,
+              "stripe": "https://buy.stripe.com/fZuaEY4VQ97L6EwcFX2a61z",
+              "stripeProductId": "prod_VXe2vKiWqXOQBF",
+              "stripePriceId": "price_1UWYkjLOfCA5mATugMDdDKtj",
+              "stripeLinkId": "plink_1UWYkjLOfCA5mATuRBeZqcHg",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Agate bleue Galets",
+              "stripeDesc": "Ces galets d'agate bleue aux reflets apaisants sont des pierres naturelles aux couleurs douces et variées. En lithothérapie, l'agate bleue est souvent associée à la sérénité et à la communication harmonieuse, aidant à apaiser les émotions et à favoriser la clarté mentale. Parfaite pour une décoration zen ou comme objet de méditation, elle invite au calme et à l'équilibre intérieur.",
+              "stripeStock": 67,
+              "epuise": false
             }
           ]
         },

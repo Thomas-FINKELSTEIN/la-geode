@@ -7208,7 +7208,17 @@
               "description": "La citrine est une pierre solaire aux teintes chaudes et apaisantes, idéale pour attirer la joie et l'abondance dans votre quotidien. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi et éclaircir les pensées négatives. Ces galets naturels peuvent être placés dans votre poche, sur votre table de travail ou intégrés à vos pratiques de méditation pour une énergie positive et revitalisante.",
               "photo": "images/articles/citrine-galets-mvwni5imp7ss.jpg",
               "prixBoutique": 5,
-              "stock": 15
+              "stock": 15,
+              "stripe": "https://buy.stripe.com/8x2eVe882es54wo5dv2a61P",
+              "stripeProductId": "prod_VXlED4MDJRokOU",
+              "stripePriceId": "price_1UWfhzLOfCA5mATuaYW0gShD",
+              "stripeLinkId": "plink_1UWfi0LOfCA5mATuEsPhekvv",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Citrine Galets",
+              "stripeDesc": "La citrine est une pierre solaire aux teintes chaudes et apaisantes, idéale pour attirer la joie et l'abondance dans votre quotidien. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi et éclaircir les pensées négatives. Ces galets naturels peuvent être placés dans votre poche, sur votre table de travail ou intégrés à vos pratiques de méditation pour une énergie positive et revitalisante.",
+              "stripeStock": 15,
+              "epuise": false
             }
           ]
         },

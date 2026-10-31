@@ -7018,7 +7018,17 @@
               "description": "L'Agate bostwana est une pierre naturelle aux reflets doux et aux motifs uniques, souvent recherchée pour son harmonie visuelle et son énergie apaisante. En lithothérapie, elle est associée à un équilibre émotionnel et à une protection contre les énergies négatives, favorisant ainsi la sérénité au quotidien. Ces galets peuvent être utilisés en décoration, en méditation ou simplement comme objet de bien-être à garder près de soi.",
               "photo": "images/articles/agate-bostwana-mvw8hh31gcg4.jpg",
               "prixBoutique": 5,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/eVq28sewq3Nrgf621j2a61C",
+              "stripeProductId": "prod_VXeSlntMHfgSES",
+              "stripePriceId": "price_1UWZ99LOfCA5mATuRDBAVqqd",
+              "stripeLinkId": "plink_1UWZ99LOfCA5mATu5iN3O5mM",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Agate bostwana",
+              "stripeDesc": "L'Agate bostwana est une pierre naturelle aux reflets doux et aux motifs uniques, souvent recherchée pour son harmonie visuelle et son énergie apaisante. En lithothérapie, elle est associée à un équilibre émotionnel et à une protection contre les énergies négatives, favorisant ainsi la sérénité au quotidien. Ces galets peuvent être utilisés en décoration, en méditation ou simplement comme objet de bien-être à garder près de soi.",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         },

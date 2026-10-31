@@ -6904,7 +6904,17 @@
               "description": "Ces galets d'agate crazy lace aux motifs tourbillonnants et aux teintes douces captent l'attention par leur beauté naturelle. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel et à la protection, aidant à apaiser les tensions et à renforcer la sérénité au quotidien. Elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une attitude positive.",
               "photo": "images/articles/agate-crazy-lace-mvw6t6layajd.jpg",
               "prixBoutique": 4,
-              "stock": 14
+              "stock": 14,
+              "stripe": "https://buy.stripe.com/bJe5kEdsm0Bfe6Y5dv2a61v",
+              "stripeProductId": "prod_VXdh3UWK3uzhIB",
+              "stripePriceId": "price_1UWYPkLOfCA5mATutvL5e5LS",
+              "stripeLinkId": "plink_1UWYPkLOfCA5mATuKuiwDufF",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Agate crazy lace",
+              "stripeDesc": "Ces galets d'agate crazy lace aux motifs tourbillonnants et aux teintes douces captent l'attention par leur beauté naturelle. En lithothérapie, cette pierre est souvent associée à l'équilibre émotionnel et à la protection, aidant à apaiser les tensions et à renforcer la sérénité au quotidien. Elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à cultiver une attitude positive.",
+              "stripeStock": 14,
+              "epuise": false
             }
           ]
         },

@@ -6866,7 +6866,17 @@
               "description": "L'agate blanche est une pierre douce et apaisante, souvent utilisée pour favoriser la sérénité et l'équilibre émotionnel. Selon la lithothérapie, elle aide à renforcer la confiance en soi et à apaiser les tensions du quotidien. Son énergie calme et harmonieuse en fait un allié précieux pour méditation et relaxation.",
               "photo": "images/articles/agate-blanche-galets-mvw6c35b0xwk.jpg",
               "prixBoutique": 3,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/00w28sdsm2Jn2og8pH2a61t",
+              "stripeProductId": "prod_VXdTpSkRaaflk2",
+              "stripePriceId": "price_1UWYCsLOfCA5mATubJG06h6R",
+              "stripeLinkId": "plink_1UWYCsLOfCA5mATurR6G4LHi",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Agate blanche Galets",
+              "stripeDesc": "L'agate blanche est une pierre douce et apaisante, souvent utilisée pour favoriser la sérénité et l'équilibre émotionnel. Selon la lithothérapie, elle aide à renforcer la confiance en soi et à apaiser les tensions du quotidien. Son énergie calme et harmonieuse en fait un allié précieux pour méditation et relaxation.",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         },

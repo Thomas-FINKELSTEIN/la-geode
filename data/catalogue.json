@@ -6942,7 +6942,17 @@
               "description": "Ces galets d’Agate mousse aux teintes douces et apaisantes sont des pierres naturelles aux reflets changeants, souvent associées à la sérénité et à l’équilibre émotionnel. En lithothérapie, elles sont réputées pour favoriser la connexion à la nature et apaiser les tensions du quotidien. Idéales pour une méditation ou une décoration zen, elles s’intègrent aussi parfaitement dans des créations artisanales ou des rituels bien-être.",
               "photo": "images/articles/agate-mousse-mvw77atik82h.jpg",
               "prixBoutique": 2.5,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/9B6dRa9c62Jngf6fS92a61y",
+              "stripeProductId": "prod_VXdsrHi1vp5V2x",
+              "stripePriceId": "price_1UWYaOLOfCA5mATuHXoK53bw",
+              "stripeLinkId": "plink_1UWYaOLOfCA5mATu6ap6ruUT",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Agate mousse",
+              "stripeDesc": "Ces galets d’Agate mousse aux teintes douces et apaisantes sont des pierres naturelles aux reflets changeants, souvent associées à la sérénité et à l’équilibre émotionnel. En lithothérapie, elles sont réputées pour favoriser la connexion à la nature et apaiser les tensions du quotidien. Idéales pour une méditation ou une décoration zen, elles s’intègrent aussi parfaitement dans des créations artisanales ou des rituels bien-être.",
+              "stripeStock": 11,
+              "epuise": false
             }
           ]
         },

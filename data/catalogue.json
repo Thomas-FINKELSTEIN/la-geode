@@ -7094,7 +7094,17 @@
               "description": "Ces galets d'amazonite aux reflets turquoise et verts apaisants sont parfaits pour harmoniser les énergies. Utilisée en lithothérapie, cette pierre est réputée pour favoriser la sérénité, renforcer la confiance en soi et équilibrer les émotions. Idéale pour une méditation ou une décoration naturelle, elle apporte une touche de douceur et de calme dans votre quotidien.",
               "photo": "images/articles/amazonite-galets-mvwi1nipuat8.jpg",
               "prixBoutique": 4,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/bJebJ20FAes5e6Y49r2a61J",
+              "stripeProductId": "prod_VXilcKrhw1s3Ue",
+              "stripePriceId": "price_1UWdK6LOfCA5mATuuaT58Dfx",
+              "stripeLinkId": "plink_1UWdK7LOfCA5mATuUXZD0rLW",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Amazonite Galets",
+              "stripeDesc": "Ces galets d'amazonite aux reflets turquoise et verts apaisants sont parfaits pour harmoniser les énergies. Utilisée en lithothérapie, cette pierre est réputée pour favoriser la sérénité, renforcer la confiance en soi et équilibrer les émotions. Idéale pour une méditation ou une décoration naturelle, elle apporte une touche de douceur et de calme dans votre quotidien.",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         },

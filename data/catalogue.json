@@ -7056,7 +7056,17 @@
               "description": "Ces galets d'agate striée aux teintes douces et apaisantes sont parfaits pour apporter sérénité et équilibre dans votre quotidien. En lithothérapie, cette pierre est souvent utilisée pour renforcer la stabilité émotionnelle et favoriser la patience. Idéale à porter sur soi, à placer dans un espace de méditation ou à intégrer dans une décoration bien-être, elle aide à harmoniser les énergies.",
               "photo": "images/articles/agate-striee-mvw949ukwk05.jpg",
               "prixBoutique": 4,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/00w28sagado16EweO52a61E",
+              "stripeProductId": "prod_VXejo0rloDknJy",
+              "stripePriceId": "price_1UWZQHLOfCA5mATuR4ZP9DRE",
+              "stripeLinkId": "plink_1UWZQHLOfCA5mATuDLxww5Yf",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Agate striée",
+              "stripeDesc": "Ces galets d'agate striée aux teintes douces et apaisantes sont parfaits pour apporter sérénité et équilibre dans votre quotidien. En lithothérapie, cette pierre est souvent utilisée pour renforcer la stabilité émotionnelle et favoriser la patience. Idéale à porter sur soi, à placer dans un espace de méditation ou à intégrer dans une décoration bien-être, elle aide à harmoniser les énergies.",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         },

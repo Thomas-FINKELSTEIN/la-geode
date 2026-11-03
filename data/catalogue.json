@@ -34571,7 +34571,17 @@
               "description": "Cette tête de bouddha en résine incarne une énergie de sérénité et de paix intérieure. Selon les croyances en lithothérapie, elle favorise la connexion spirituelle et aide à apaiser les émotions, tout en apportant une touche de calme dans votre espace. Idéale pour la méditation ou comme élément décoratif inspirant.",
               "photo": "images/articles/tete-de-bouddha-mw0xys0het98.jpg",
               "prixBoutique": 12.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/5kQ8wQ9c65Vz0g8axP2a61T",
+              "stripeProductId": "prod_VYt68UAoOobvx1",
+              "stripePriceId": "price_1UXlJqLOfCA5mATulcaBdr0Y",
+              "stripeLinkId": "plink_1UXlJqLOfCA5mATubgDS1IIk",
+              "stripePrix": 13.18,
+              "stripeMode": "live",
+              "stripeNom": "Tête de bouddha",
+              "stripeDesc": "Cette tête de bouddha en résine incarne une énergie de sérénité et de paix intérieure. Selon les croyances en lithothérapie, elle favorise la connexion spirituelle et aide à apaiser les émotions, tout en apportant une touche de calme dans votre espace. Idéale pour la méditation ou comme élément décoratif inspirant.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

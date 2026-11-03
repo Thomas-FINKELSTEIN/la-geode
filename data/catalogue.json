@@ -33690,7 +33690,17 @@
               "description": "Lampe décorative",
               "photo": "images/articles/lampe-decorative-mw0yme7lkix5.jpg",
               "prixBoutique": 39.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/8x214o5ZU5Vz3sk9tL2a61V",
+              "stripeProductId": "prod_VYtH6EmJhGVzdz",
+              "stripePriceId": "price_1UXlV7LOfCA5mATuKZ3hGMzJ",
+              "stripeLinkId": "plink_1UXlV8LOfCA5mATu982yB6B9",
+              "stripePrix": 41.5,
+              "stripeMode": "live",
+              "stripeNom": "Lampe décorative",
+              "stripeDesc": "Lampe décorative",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

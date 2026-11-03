@@ -7265,7 +7265,17 @@
               "description": "La Chrysoprase est une pierre précieuse au charme vert apaisant, souvent appelée la pierre de l'espoir et de la croissance. En lithothérapie, elle est réputée pour favoriser la sérénité, renforcer la confiance en soi et équilibrer les émotions. Idéale pour les espaces de méditation ou comme talisman porte-bonheur, elle est aussi appréciée pour ses vertus harmonisantes sur le plan physique et mental.",
               "photo": "images/articles/chrysoprase-galets-mw0tin8q03p1.jpg",
               "prixBoutique": 5,
-              "stock": 19
+              "stock": 19,
+              "stripe": "https://buy.stripe.com/eVq7sM1JEgAdgf6cFX2a61S",
+              "stripeProductId": "prod_VYqy8g28FYpazZ",
+              "stripePriceId": "price_1UXjG6LOfCA5mATuJ8tzqBuz",
+              "stripeLinkId": "plink_1UXjG7LOfCA5mATurFPX7f8b",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Chrysoprase Galets",
+              "stripeDesc": "La Chrysoprase est une pierre précieuse au charme vert apaisant, souvent appelée la pierre de l'espoir et de la croissance. En lithothérapie, elle est réputée pour favoriser la sérénité, renforcer la confiance en soi et équilibrer les émotions. Idéale pour les espaces de méditation ou comme talisman porte-bonheur, elle est aussi appréciée pour ses vertus harmonisantes sur le plan physique et mental.",
+              "stripeStock": 19,
+              "epuise": false
             }
           ]
         },

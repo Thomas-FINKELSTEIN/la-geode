@@ -36330,7 +36330,17 @@
               "description": "Cette décoration maison apporte une touche d'élégance et d'harmonie à votre intérieur grâce à ses motifs inspirés de la nature. Les éléments dorés et les textures douces évoquent une énergie apaisante et positive, idéale pour créer une ambiance sereine et équilibrée. Parfaite pour sublimer un coin de votre espace tout en apportant une touche artistique et raffinée.",
               "photo": "images/articles/decoration-maison-mw0zdy5dwgnv.jpg",
               "prixBoutique": 65.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY7sM2NI6ZD1kc9tL2a61Y",
+              "stripeProductId": "prod_VYtdo1PoCPIqYZ",
+              "stripePriceId": "price_1UXlpuLOfCA5mATucjcTkWGB",
+              "stripeLinkId": "plink_1UXlpuLOfCA5mATuYKi7ecCi",
+              "stripePrix": 68.43,
+              "stripeMode": "live",
+              "stripeNom": "Décoration maison",
+              "stripeDesc": "Cette décoration maison apporte une touche d'élégance et d'harmonie à votre intérieur grâce à ses motifs inspirés de la nature. Les éléments dorés et les textures douces évoquent une énergie apaisante et positive, idéale pour créer une ambiance sereine et équilibrée. Parfaite pour sublimer un coin de votre espace tout en apportant une touche artistique et raffinée.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

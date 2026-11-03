@@ -33682,6 +33682,15 @@
               "stripeDesc": "Lampe d'ambiance",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "lampe-decorative-mw0yme7lna0p",
+              "nom": "Lampe décorative",
+              "prix": 41.5,
+              "description": "Lampe décorative",
+              "photo": "images/articles/lampe-decorative-mw0yme7lkix5.jpg",
+              "prixBoutique": 39.9,
+              "stock": 2
             }
           ]
         },

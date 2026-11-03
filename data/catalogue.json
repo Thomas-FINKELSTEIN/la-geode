@@ -33671,7 +33671,17 @@
               "description": "Lampe d'ambiance",
               "photo": "images/articles/lampe-decorative-mw0ybf1ls071.jpg",
               "prixBoutique": 39.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x214o9c683H5As7lD2a61U",
+              "stripeProductId": "prod_VYt9pG7UeY8dPI",
+              "stripePriceId": "price_1UXlMuLOfCA5mATuQUasbB6g",
+              "stripeLinkId": "plink_1UXlMuLOfCA5mATujfg6FB8i",
+              "stripePrix": 41.5,
+              "stripeMode": "live",
+              "stripeNom": "Lampe décorative",
+              "stripeDesc": "Lampe d'ambiance",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

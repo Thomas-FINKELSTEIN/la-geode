@@ -30647,7 +30647,17 @@
               "description": "La chiastolite aussi appelé l'andalousite à croix est une pierre qui est principalement réputée pour ses propriétés d' ancrage, de protection et d'accompagnement lors des périodes de transition; Elle apaise le mental, calme les peurs, les angoisses le stress chronique et les ruminations mentales, elle tempère les émotions excessives et renforce la confiance en soi.",
               "photo": "images/articles/chiastolite-mw1wgu0oml35.jpg",
               "prixBoutique": 3,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/28E9AUcoiabPe6YaxP2a622",
+              "stripeProductId": "prod_VZ8YLHhZLiKnOk",
+              "stripePriceId": "price_1UY0H8LOfCA5mATu7KR5S3ND",
+              "stripeLinkId": "plink_1UY0H8LOfCA5mATuqZonPv1V",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Chiastolite",
+              "stripeDesc": "La chiastolite aussi appelé l'andalousite à croix est une pierre qui est principalement réputée pour ses propriétés d' ancrage, de protection et d'accompagnement lors des périodes de transition; Elle apaise le mental, calme les peurs, les angoisses le stress chronique et les ruminations mentales, elle tempère les émotions excessives et renforce la confiance en soi.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

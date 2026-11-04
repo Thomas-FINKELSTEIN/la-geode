@@ -33872,6 +33872,15 @@
               "stripeDesc": "Lampe décorative",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "pyramide-selenite-mw2bql6ay4z8",
+              "nom": "Pyramide sélénite",
+              "prix": 98.45,
+              "description": "La pyramide de sélénite est une pièce minérale aux reflets lunaires et apaisants, idéale pour harmoniser les énergies de votre espace. En lithothérapie, la sélénite est souvent utilisée pour favoriser la clarté mentale, la sérénité et la connexion à l’intuition. Elle amplifie les vibrations positives et est parfaite pour les méditations ou les environnements de travail.",
+              "photo": "images/articles/pyramide-selenite-mw2bql6a8puo.jpg",
+              "prixBoutique": 95,
+              "stock": 1
             }
           ]
         },

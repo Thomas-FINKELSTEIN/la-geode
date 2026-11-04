@@ -30666,7 +30666,17 @@
               "description": "Ces galets de Quartz fumé, aux reflets élégants et profonds, captent l'attention par leur beauté naturelle et leur énergie apaisante. En lithothérapie, cette pierre est souvent utilisée pour ancrer les énergies, favoriser la concentration et apaiser les émotions. Idéale pour une déco zen ou pour accompagner vos moments de méditation et de détente.",
               "photo": "images/articles/quartz-fume-galet-mw1x4xd4v2ah.jpg",
               "prixBoutique": 3,
-              "stock": 45
+              "stock": 45,
+              "stripe": "https://buy.stripe.com/bJe6oI1JE3Nr2og7lD2a623",
+              "stripeProductId": "prod_VZ8rcQInX3ZgbA",
+              "stripePriceId": "price_1UY0ZILOfCA5mATu9u5gt2cK",
+              "stripeLinkId": "plink_1UY0ZILOfCA5mATuXYgwi601",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Quartz fumé Galet",
+              "stripeDesc": "Ces galets de Quartz fumé, aux reflets élégants et profonds, captent l'attention par leur beauté naturelle et leur énergie apaisante. En lithothérapie, cette pierre est souvent utilisée pour ancrer les énergies, favoriser la concentration et apaiser les émotions. Idéale pour une déco zen ou pour accompagner vos moments de méditation et de détente.",
+              "stripeStock": 45,
+              "epuise": false
             }
           ]
         },

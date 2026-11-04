@@ -30609,7 +30609,17 @@
               "description": "Le quartz fumé apporte l'ancrage et la stabilité, l' apaisement du stress, la protection énergétique et la clarté mentale; le quartz fumé agit sur le chakra racine situé à la base de la colonne vertébrale.",
               "photo": "images/articles/quartz-fume-mw1tw0exwhiu.jpg",
               "prixBoutique": 5,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/8x23cw4VQabP7IA7lD2a620",
+              "stripeProductId": "prod_VZ7OaF5Ma80ivg",
+              "stripePriceId": "price_1UXz9NLOfCA5mATukDWsUexo",
+              "stripeLinkId": "plink_1UXz9OLOfCA5mATu7aTbnBVm",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Quartz fumé",
+              "stripeDesc": "Le quartz fumé apporte l'ancrage et la stabilité, l' apaisement du stress, la protection énergétique et la clarté mentale; le quartz fumé agit sur le chakra racine situé à la base de la colonne vertébrale.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

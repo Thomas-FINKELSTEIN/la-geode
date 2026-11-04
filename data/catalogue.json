@@ -30685,7 +30685,17 @@
               "description": "La Fluorite, aussi appelée pierre de l'abondance, se distingue par ses teintes vert émeraude et ses reflets lumineux. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, équilibrer les émotions et favoriser la clarté mentale. Idéale pour les espaces de travail ou comme talisman personnel, elle attire également la prospérité et l'harmonie dans la vie quotidienne.",
               "photo": "images/articles/fluorite-galet-mw1xx5qe78qh.jpg",
               "prixBoutique": 3,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/3cIeVegEy4Rvfb2bBT2a624",
+              "stripeProductId": "prod_VZ9C3hOpnajuEh",
+              "stripePriceId": "price_1UY0uYLOfCA5mATu7kuouSa0",
+              "stripeLinkId": "plink_1UY0uZLOfCA5mATu8jyO2z4i",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Fluorite Galet",
+              "stripeDesc": "La Fluorite, aussi appelée pierre de l'abondance, se distingue par ses teintes vert émeraude et ses reflets lumineux. En lithothérapie, elle est souvent utilisée pour stimuler la concentration, équilibrer les émotions et favoriser la clarté mentale. Idéale pour les espaces de travail ou comme talisman personnel, elle attire également la prospérité et l'harmonie dans la vie quotidienne.",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         },

@@ -30704,7 +30704,17 @@
               "description": "Ces galets d'émeraude naturelle apportent une énergie apaisante et équilibrante, idéale pour calmer le stress et favoriser la concentration. Utilisés en lithothérapie, ils sont souvent associés à la purification des émotions et à l’harmonisation du cœur. Parfaits pour une méditation ou une décoration zen, ils symbolisent aussi l’amour inconditionnel et la clarté d’esprit.",
               "photo": "images/articles/emeraude-galet-mw1yaz72yv7l.jpg",
               "prixBoutique": 4,
-              "stock": 12
+              "stock": 12,
+              "stripe": "https://buy.stripe.com/5kQ3cwewq2Jn4wo0Xf2a625",
+              "stripeProductId": "prod_VZ9SMxC4P9skPv",
+              "stripePriceId": "price_1UY19uLOfCA5mATusaBB3Otx",
+              "stripeLinkId": "plink_1UY19uLOfCA5mATudiF5ISMN",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Emeraude Galet",
+              "stripeDesc": "Ces galets d'émeraude naturelle apportent une énergie apaisante et équilibrante, idéale pour calmer le stress et favoriser la concentration. Utilisés en lithothérapie, ils sont souvent associés à la purification des émotions et à l’harmonisation du cœur. Parfaits pour une méditation ou une décoration zen, ils symbolisent aussi l’amour inconditionnel et la clarté d’esprit.",
+              "stripeStock": 12,
+              "epuise": false
             }
           ]
         },

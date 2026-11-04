@@ -30723,7 +30723,17 @@
               "description": "Le jaspe héliotrope est une pierre naturelle aux reflets profonds et aux motifs organiques captivants, mêlant des teintes vertes et brunes. Appelé aussi pierre de la vitalité, il est souvent utilisé en lithothérapie pour renforcer l’énergie vitale et favoriser l’équilibre émotionnel. Idéal pour apaiser les tensions et stimuler la confiance en soi, il est apprécié pour son influence harmonisante sur le corps et l’esprit.",
               "photo": "images/articles/jaspe-heliotrope-mw1zpx7pabaf.jpg",
               "prixBoutique": 4,
-              "stock": 57
+              "stock": 57,
+              "stripe": "https://buy.stripe.com/cNi28s0FAcjXbYQ6hz2a626",
+              "stripeProductId": "prod_VZDZQvzWrMJzNE",
+              "stripePriceId": "price_1UY58ZLOfCA5mATuB2f2awRs",
+              "stripeLinkId": "plink_1UY58aLOfCA5mATuxCfx73aN",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe héliotrope",
+              "stripeDesc": "Le jaspe héliotrope est une pierre naturelle aux reflets profonds et aux motifs organiques captivants, mêlant des teintes vertes et brunes. Appelé aussi pierre de la vitalité, il est souvent utilisé en lithothérapie pour renforcer l’énergie vitale et favoriser l’équilibre émotionnel. Idéal pour apaiser les tensions et stimuler la confiance en soi, il est apprécié pour son influence harmonisante sur le corps et l’esprit.",
+              "stripeStock": 57,
+              "epuise": false
             }
           ]
         },

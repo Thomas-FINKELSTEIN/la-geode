@@ -30742,7 +30742,17 @@
               "description": "Le jaspe rouge est une pierre naturelle au charme profond et à l'énergie puissante, souvent utilisée pour renforcer la vitalité et la détermination. Associée traditionnellement à la stabilité émotionnelle, elle aide à ancrer les pensées et à apaiser les tensions intérieures. Idéale pour les collectionneurs ou les amateurs de lithothérapie, cette pierre apporte une touche chaleureuse et protectrice à votre quotidien.",
               "photo": "images/articles/jaspe-rouge-galet-mw27v1ofzru8.jpg",
               "prixBoutique": 3,
-              "stock": 55
+              "stock": 55,
+              "stripe": "https://buy.stripe.com/cNi4gA1JE97L4woaxP2a627",
+              "stripeProductId": "prod_VZDhLgCbbKwBZo",
+              "stripePriceId": "price_1UY5FrLOfCA5mATubZhZ9rJe",
+              "stripeLinkId": "plink_1UY5FrLOfCA5mATuNszAphtg",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe rouge Galet",
+              "stripeDesc": "Le jaspe rouge est une pierre naturelle au charme profond et à l'énergie puissante, souvent utilisée pour renforcer la vitalité et la détermination. Associée traditionnellement à la stabilité émotionnelle, elle aide à ancrer les pensées et à apaiser les tensions intérieures. Idéale pour les collectionneurs ou les amateurs de lithothérapie, cette pierre apporte une touche chaleureuse et protectrice à votre quotidien.",
+              "stripeStock": 55,
+              "epuise": false
             }
           ]
         },

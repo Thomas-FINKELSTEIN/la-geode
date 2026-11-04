@@ -33880,7 +33880,17 @@
               "description": "La pyramide de sélénite est une pièce minérale aux reflets lunaires et apaisants, idéale pour harmoniser les énergies de votre espace. En lithothérapie, la sélénite est souvent utilisée pour favoriser la clarté mentale, la sérénité et la connexion à l’intuition. Elle amplifie les vibrations positives et est parfaite pour les méditations ou les environnements de travail.",
               "photo": "images/articles/pyramide-selenite-mw2bql6a8puo.jpg",
               "prixBoutique": 95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B68wQfAu1Fj2ogfS92a628",
+              "stripeProductId": "prod_VZFR7YofygeqVU",
+              "stripePriceId": "price_1UY6wsLOfCA5mATueCxO68Lh",
+              "stripeLinkId": "plink_1UY6wsLOfCA5mATuzJShmVCc",
+              "stripePrix": 98.45,
+              "stripeMode": "live",
+              "stripeNom": "Pyramide sélénite",
+              "stripeDesc": "La pyramide de sélénite est une pièce minérale aux reflets lunaires et apaisants, idéale pour harmoniser les énergies de votre espace. En lithothérapie, la sélénite est souvent utilisée pour favoriser la clarté mentale, la sérénité et la connexion à l’intuition. Elle amplifie les vibrations positives et est parfaite pour les méditations ou les environnements de travail.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

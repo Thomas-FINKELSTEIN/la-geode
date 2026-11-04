@@ -30628,7 +30628,17 @@
               "description": "Le quartz souffre agit sur le chakra du plexus solaire; il donne de la clarté mentale pour l'individu qui le porte. Sur le plan mental et émotionnel, il stimule la force intérieure, l'affirmation de soi et le rayonnement personnel.",
               "photo": "images/articles/quartz-souffre-mw1uogch8f7h.jpg",
               "prixBoutique": 3,
-              "stock": 17
+              "stock": 17,
+              "stripe": "https://buy.stripe.com/cNibJ2coi1Fjd2U49r2a621",
+              "stripeProductId": "prod_VZ7klHntNbDOOO",
+              "stripePriceId": "price_1UXzUkLOfCA5mATuV127yQIu",
+              "stripeLinkId": "plink_1UXzUkLOfCA5mATuxrNusSqO",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Quartz souffre",
+              "stripeDesc": "Le quartz souffre agit sur le chakra du plexus solaire; il donne de la clarté mentale pour l'individu qui le porte. Sur le plan mental et émotionnel, il stimule la force intérieure, l'affirmation de soi et le rayonnement personnel.",
+              "stripeStock": 17,
+              "epuise": false
             }
           ]
         },

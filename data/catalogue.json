@@ -7352,6 +7352,15 @@
               "stripeDesc": "Le jaspe sang de dragon est une pierre naturelle aux reflets profonds et mystérieux, souvent teintée de rouge et de noir. En lithothérapie, il est réputé pour renforcer la vitalité et l’énergie vitale, aidant à surmonter les périodes de fatigue ou de stress. Cette pierre est aussi associée à la protection et à l’ancrage, favorisant la stabilité émotionnelle et la confiance en soi.",
               "stripeStock": 9,
               "epuise": false
+            },
+            {
+              "id": "jaspe-sanguin-mw3nytzko6ci",
+              "nom": "Jaspe sanguin",
+              "prix": 3.36,
+              "description": "Le jaspe sanguin est une pierre aux reflets profonds et apaisants, souvent utilisée en lithothérapie pour renforcer la vitalité et l’énergie vitale. Associée à la stabilité émotionnelle, elle aide à ancrer les pensées et à apaiser les tensions intérieures. Idéale pour les espaces de méditation ou comme objet de bien-être au quotidien, elle favorise un sentiment de sécurité et de connexion à soi-même.",
+              "photo": "images/articles/jaspe-sanguin-mw3nytzkzqsj.jpg",
+              "prixBoutique": 3,
+              "stock": 4
             }
           ]
         },

@@ -7436,7 +7436,17 @@
               "description": "Le jaspe héliotrope est une pierre naturelle aux reflets verts et rouges, souvent associée à l'équilibre émotionnel et à la vitalité. En lithothérapie, il est réputé pour renforcer la confiance en soi et apaiser les tensions intérieures. Parfait pour une décoration naturelle ou comme objet de méditation, il apporte une énergie harmonieuse au quotidien.",
               "photo": "images/articles/jaspe-heliotrope-mw3rpminymys.jpg",
               "prixBoutique": 4,
-              "stock": 29
+              "stock": 29,
+              "stripe": "https://buy.stripe.com/eVq28s4VQ2Jn6Ew9tL2a62h",
+              "stripeProductId": "prod_VZcuuw4iCIhDtQ",
+              "stripePriceId": "price_1UYTerLOfCA5mATuO9kxQGIp",
+              "stripeLinkId": "plink_1UYTerLOfCA5mATuO0ootf6u",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe héliotrope",
+              "stripeDesc": "Le jaspe héliotrope est une pierre naturelle aux reflets verts et rouges, souvent associée à l'équilibre émotionnel et à la vitalité. En lithothérapie, il est réputé pour renforcer la confiance en soi et apaiser les tensions intérieures. Parfait pour une décoration naturelle ou comme objet de méditation, il apporte une énergie harmonieuse au quotidien.",
+              "stripeStock": 29,
+              "epuise": false
             }
           ]
         },

@@ -7417,7 +7417,17 @@
               "description": "Le Jaspe jaune de Chine est une pierre naturelle au charme doux et apaisant, aux reflets chauds et variés. En lithothérapie, il est souvent associé à la vitalité, à la joie et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à libérer les tensions. Son énergie bienveillante en fait un allié précieux pour cultiver la sérénité au quotidien et harmoniser les émotions.",
               "photo": "images/articles/jaspe-jaune-de-chine-mw3r75dzxps0.jpg",
               "prixBoutique": 3,
-              "stock": 63
+              "stock": 63,
+              "stripe": "https://buy.stripe.com/6oU28s882fw9bYQ35n2a62g",
+              "stripeProductId": "prod_VZcgXSywCH94I9",
+              "stripePriceId": "price_1UYTQvLOfCA5mATuNPNgtU3Z",
+              "stripeLinkId": "plink_1UYTQvLOfCA5mATu5qqKaOOE",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe jaune de chine",
+              "stripeDesc": "Le Jaspe jaune de Chine est une pierre naturelle au charme doux et apaisant, aux reflets chauds et variés. En lithothérapie, il est souvent associé à la vitalité, à la joie et à l'équilibre émotionnel, aidant à renforcer la confiance en soi et à libérer les tensions. Son énergie bienveillante en fait un allié précieux pour cultiver la sérénité au quotidien et harmoniser les émotions.",
+              "stripeStock": 63,
+              "epuise": false
             }
           ]
         },

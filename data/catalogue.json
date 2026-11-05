@@ -7303,7 +7303,17 @@
               "description": "Le jaspe brèche est une pierre naturelle aux reflets chauds et aux motifs organiques uniques, souvent associée à la stabilité émotionnelle et à la protection. Utilisée en lithothérapie, elle favorise l'équilibre intérieur et aide à surmonter les périodes de stress ou de transition. Parfaite pour une décoration naturelle ou comme objet de méditation, elle apporte une énergie apaisante et ancrée.",
               "photo": "images/articles/jaspe-breche-mw3eagx4pwxz.jpg",
               "prixBoutique": 3,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/aFacN65ZU3Nr6Ew5dv2a62a",
+              "stripeProductId": "prod_VZWqAEaZR7l12r",
+              "stripePriceId": "price_1UYNnHLOfCA5mATuutZbh1JV",
+              "stripeLinkId": "plink_1UYNnHLOfCA5mATukM6w8wwA",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe brèche",
+              "stripeDesc": "Le jaspe brèche est une pierre naturelle aux reflets chauds et aux motifs organiques uniques, souvent associée à la stabilité émotionnelle et à la protection. Utilisée en lithothérapie, elle favorise l'équilibre intérieur et aide à surmonter les périodes de stress ou de transition. Parfaite pour une décoration naturelle ou comme objet de méditation, elle apporte une énergie apaisante et ancrée.",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         },

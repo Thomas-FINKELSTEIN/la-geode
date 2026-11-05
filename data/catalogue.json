@@ -7379,7 +7379,17 @@
               "description": "Le jaspe brechique est une pierre naturelle aux reflets profonds et aux motifs tourbillonnants, souvent associée à la stabilité émotionnelle et à la protection. En lithothérapie, il est réputé pour renforcer la confiance en soi et apaiser les tensions intérieures. Idéal pour une décoration minérale ou une utilisation en méditation, il apporte une énergie apaisante et ancrée.",
               "photo": "images/articles/jaspe-brechnique-mw3qdli0dkvh.jpg",
               "prixBoutique": 3,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/28E5kE73YbfT1kc5dv2a62e",
+              "stripeProductId": "prod_VZcJNzfWPSX0Dc",
+              "stripePriceId": "price_1UYT4lLOfCA5mATuwY2bie9v",
+              "stripeLinkId": "plink_1UYT4mLOfCA5mATuV1xVujPv",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe brechnique",
+              "stripeDesc": "Le jaspe brechique est une pierre naturelle aux reflets profonds et aux motifs tourbillonnants, souvent associée à la stabilité émotionnelle et à la protection. En lithothérapie, il est réputé pour renforcer la confiance en soi et apaiser les tensions intérieures. Idéal pour une décoration minérale ou une utilisation en méditation, il apporte une énergie apaisante et ancrée.",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         },

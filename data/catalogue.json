@@ -7360,7 +7360,17 @@
               "description": "Le jaspe sanguin est une pierre aux reflets profonds et apaisants, souvent utilisée en lithothérapie pour renforcer la vitalité et l’énergie vitale. Associée à la stabilité émotionnelle, elle aide à ancrer les pensées et à apaiser les tensions intérieures. Idéale pour les espaces de méditation ou comme objet de bien-être au quotidien, elle favorise un sentiment de sécurité et de connexion à soi-même.",
               "photo": "images/articles/jaspe-sanguin-mw3nytzkzqsj.jpg",
               "prixBoutique": 3,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/7sY4gA5ZUcjX6Ew9tL2a62d",
+              "stripeProductId": "prod_VZbDI1S4fCFvST",
+              "stripePriceId": "price_1UYS1QLOfCA5mATuR0ALXYg2",
+              "stripeLinkId": "plink_1UYS1QLOfCA5mATuwQ2lnnnU",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe sanguin",
+              "stripeDesc": "Le jaspe sanguin est une pierre aux reflets profonds et apaisants, souvent utilisée en lithothérapie pour renforcer la vitalité et l’énergie vitale. Associée à la stabilité émotionnelle, elle aide à ancrer les pensées et à apaiser les tensions intérieures. Idéale pour les espaces de méditation ou comme objet de bien-être au quotidien, elle favorise un sentiment de sécurité et de connexion à soi-même.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

@@ -7398,7 +7398,17 @@
               "description": "Le jaspe dalmatien est une pierre aux motifs noirs et blancs contrastés, souvent appelée pierre de stabilité. En lithothérapie, il est réputé pour renforcer la confiance en soi, apaiser les émotions et favoriser un équilibre intérieur. Idéal pour ceux qui cherchent à retrouver sérénité et ancrage dans leur quotidien.",
               "photo": "images/articles/jaspe-dalmatien-mw3r52q7ssja.jpg",
               "prixBoutique": 5,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/eVqbJ20FAabP9QI6hz2a62f",
+              "stripeProductId": "prod_VZceYmmt07GpA0",
+              "stripePriceId": "price_1UYTPQLOfCA5mATuTSLWPqZx",
+              "stripeLinkId": "plink_1UYTPQLOfCA5mATuNsm52SRc",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe dalmatien",
+              "stripeDesc": "Le jaspe dalmatien est une pierre aux motifs noirs et blancs contrastés, souvent appelée pierre de stabilité. En lithothérapie, il est réputé pour renforcer la confiance en soi, apaiser les émotions et favoriser un équilibre intérieur. Idéal pour ceux qui cherchent à retrouver sérénité et ancrage dans leur quotidien.",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         },

@@ -7322,7 +7322,17 @@
               "description": "Ces galets de Jaspe océan captent les nuances apaisantes des profondeurs marines, mêlant verts et gris pour une harmonie visuelle envoûtante. En lithothérapie, cette pierre est souvent associée à la sérénité et à la connexion avec les énergies fluides, aidant à apaiser les émotions et à favoriser un état de calme intérieur. Parfaite pour une décoration naturelle ou comme support méditatif, elle invite à la détente et à l’équilibre émotionnel au quotidien.",
               "photo": "images/articles/jaspe-ocean-mw3enbehet13.jpg",
               "prixBoutique": 4,
-              "stock": 14
+              "stock": 14,
+              "stripe": "https://buy.stripe.com/aFa6oIewq0Bf3sk35n2a62b",
+              "stripeProductId": "prod_VZX0wrwuouuT5s",
+              "stripePriceId": "price_1UYNwxLOfCA5mATu15az9frO",
+              "stripeLinkId": "plink_1UYNwyLOfCA5mATuEF0o9Qk1",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe océan",
+              "stripeDesc": "Ces galets de Jaspe océan captent les nuances apaisantes des profondeurs marines, mêlant verts et gris pour une harmonie visuelle envoûtante. En lithothérapie, cette pierre est souvent associée à la sérénité et à la connexion avec les énergies fluides, aidant à apaiser les émotions et à favoriser un état de calme intérieur. Parfaite pour une décoration naturelle ou comme support méditatif, elle invite à la détente et à l’équilibre émotionnel au quotidien.",
+              "stripeStock": 14,
+              "epuise": false
             }
           ]
         },

@@ -7284,7 +7284,17 @@
               "description": "Ces galets de jaspe paysage captent toute la beauté des paysages minéraux avec leurs motifs terreux et apaisants. En lithothérapie, cette pierre est souvent associée à la stabilité émotionnelle et à la connexion avec la nature, aidant à ancrer les énergies et à apaiser le mental. Parfaite pour une décoration naturelle ou une utilisation en méditation, elle invite au calme et à l’harmonie intérieure.",
               "photo": "images/articles/jaspe-paysage-mw3cjyc9q6t2.jpg",
               "prixBoutique": 5,
-              "stock": 10
+              "stock": 10,
+              "stripe": "https://buy.stripe.com/cNicN65ZU0Bf7IAcFX2a629",
+              "stripeProductId": "prod_VZW4MUM70KtaF4",
+              "stripePriceId": "price_1UYN2DLOfCA5mATuXkXCLEoY",
+              "stripeLinkId": "plink_1UYN2ELOfCA5mATuGyUR7imR",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe paysage",
+              "stripeDesc": "Ces galets de jaspe paysage captent toute la beauté des paysages minéraux avec leurs motifs terreux et apaisants. En lithothérapie, cette pierre est souvent associée à la stabilité émotionnelle et à la connexion avec la nature, aidant à ancrer les énergies et à apaiser le mental. Parfaite pour une décoration naturelle ou une utilisation en méditation, elle invite au calme et à l’harmonie intérieure.",
+              "stripeStock": 10,
+              "epuise": false
             }
           ]
         },

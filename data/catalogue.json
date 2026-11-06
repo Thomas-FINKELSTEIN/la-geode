@@ -7702,7 +7702,17 @@
               "description": "La sodalite est une pierre aux reflets bleutés profonds, souvent associée à la sagesse et à la clarté mentale. Elle est réputée pour favoriser la communication et apaiser les tensions émotionnelles, tout en renforçant la confiance en soi. Idéale pour les moments de réflexion ou de méditation, elle est aussi utilisée pour équilibrer les énergies et stimuler la créativité.",
               "photo": "images/articles/sodalite-galets-mw4uqh6buj7q.jpg",
               "prixBoutique": 6,
-              "stock": 12
+              "stock": 12,
+              "stripe": "https://buy.stripe.com/5kQaEYdsmcjXaUMfS92a62x",
+              "stripeProductId": "prod_VZuXdBus2sHHuW",
+              "stripePriceId": "price_1UYkhzLOfCA5mATuU0Giuift",
+              "stripeLinkId": "plink_1UYkhzLOfCA5mATuWgdtvjcC",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Sodalite Galets",
+              "stripeDesc": "La sodalite est une pierre aux reflets bleutés profonds, souvent associée à la sagesse et à la clarté mentale. Elle est réputée pour favoriser la communication et apaiser les tensions émotionnelles, tout en renforçant la confiance en soi. Idéale pour les moments de réflexion ou de méditation, elle est aussi utilisée pour équilibrer les énergies et stimuler la créativité.",
+              "stripeStock": 12,
+              "epuise": false
             }
           ]
         },

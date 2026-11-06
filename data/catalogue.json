@@ -7569,7 +7569,17 @@
               "description": "La Howlite se présente sous forme de galets naturels aux reflets doux et apaisants, souvent veinés de motifs délicats. Utilisée en lithothérapie, cette pierre est réputée pour ses vertus calmantes et équilibrantes, aidant à apaiser les émotions et à favoriser la sérénité au quotidien. Elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à retrouver un état de bien-être intérieur.",
               "photo": "images/articles/howlite-galets-mw4rc1jz7qoc.jpg",
               "prixBoutique": 4,
-              "stock": 92
+              "stock": 92,
+              "stripe": "https://buy.stripe.com/aFaeVe9c66ZD7IA0Xf2a62o",
+              "stripeProductId": "prod_VZszT11LhLmt1Z",
+              "stripePriceId": "price_1UYjDsLOfCA5mATuUmn8sKFf",
+              "stripeLinkId": "plink_1UYjDsLOfCA5mATu1VcuNLLX",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Howlite Galets",
+              "stripeDesc": "La Howlite se présente sous forme de galets naturels aux reflets doux et apaisants, souvent veinés de motifs délicats. Utilisée en lithothérapie, cette pierre est réputée pour ses vertus calmantes et équilibrantes, aidant à apaiser les émotions et à favoriser la sérénité au quotidien. Elle est idéale pour ceux qui cherchent à harmoniser leur énergie et à retrouver un état de bien-être intérieur.",
+              "stripeStock": 92,
+              "epuise": false
             }
           ]
         },

@@ -7694,6 +7694,15 @@
               "stripeDesc": "Le Lapis lazuli est une pierre précieuse aux reflets bleutés profonds et mystérieux, souvent utilisée depuis l'Antiquité pour ses propriétés apaisantes et protectrices. En lithothérapie, il est réputé pour favoriser la sérénité, stimuler la communication et renforcer la confiance en soi. Idéal pour équilibrer les émotions et apporter une énergie positive au quotidien, il se décline ici sous forme de galets naturels aux teintes variées.",
               "stripeStock": 44,
               "epuise": false
+            },
+            {
+              "id": "sodalite-galets-mw4uqh6bsccr",
+              "nom": "Sodalite Galets",
+              "prix": 6.46,
+              "description": "La sodalite est une pierre aux reflets bleutés profonds, souvent associée à la sagesse et à la clarté mentale. Elle est réputée pour favoriser la communication et apaiser les tensions émotionnelles, tout en renforçant la confiance en soi. Idéale pour les moments de réflexion ou de méditation, elle est aussi utilisée pour équilibrer les énergies et stimuler la créativité.",
+              "photo": "images/articles/sodalite-galets-mw4uqh6buj7q.jpg",
+              "prixBoutique": 6,
+              "stock": 12
             }
           ]
         },

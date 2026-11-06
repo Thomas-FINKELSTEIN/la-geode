@@ -7588,7 +7588,17 @@
               "description": "Ces galets d'opale verte aux reflets apaisants captent toute l'attention avec leurs teintes douces et variées. En lithothérapie, cette pierre est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à apaiser les tensions et à favoriser une énergie harmonieuse au quotidien. Idéale pour les espaces de détente ou comme objet de méditation, elle est aussi appréciée pour ses propriétés supposées de protection et de connexion à la nature.",
               "photo": "images/articles/opale-verte-galets-mw4sasv3zh58.jpg",
               "prixBoutique": 2,
-              "stock": 19
+              "stock": 19,
+              "stripe": "https://buy.stripe.com/28E4gA0FA6ZDgf65dv2a62q",
+              "stripeProductId": "prod_VZtRa8XDsioWsJ",
+              "stripePriceId": "price_1UYjePLOfCA5mATuJ49udRlv",
+              "stripeLinkId": "plink_1UYjeQLOfCA5mATup2qcORHb",
+              "stripePrix": 2.33,
+              "stripeMode": "live",
+              "stripeNom": "Opale verte Galets",
+              "stripeDesc": "Ces galets d'opale verte aux reflets apaisants captent toute l'attention avec leurs teintes douces et variées. En lithothérapie, cette pierre est souvent associée à la sérénité et à l'équilibre émotionnel, aidant à apaiser les tensions et à favoriser une énergie harmonieuse au quotidien. Idéale pour les espaces de détente ou comme objet de méditation, elle est aussi appréciée pour ses propriétés supposées de protection et de connexion à la nature.",
+              "stripeStock": 19,
+              "epuise": false
             }
           ]
         },

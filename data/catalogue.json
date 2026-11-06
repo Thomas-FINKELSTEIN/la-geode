@@ -7645,7 +7645,17 @@
               "description": "La Rhodonite se présente ici sous forme de galets naturels aux reflets rosés et noirs, parfaits pour une touche apaisante dans votre intérieur ou pour une utilisation en lithothérapie. Cette pierre est réputée pour favoriser l’ouverture du cœur, aider à surmonter les blessures émotionnelles et renforcer la compassion. Idéale pour les moments de méditation ou simplement à porter en poche pour une énergie bienveillante au quotidien.",
               "photo": "images/articles/rhodonite-galets-mw4t7dotmd38.jpg",
               "prixBoutique": 5,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/9B614oaga4Rv5As21j2a62t",
+              "stripeProductId": "prod_VZtqAaqE4cTFfu",
+              "stripePriceId": "price_1UYk2YLOfCA5mATuROtUs9rM",
+              "stripeLinkId": "plink_1UYk2YLOfCA5mATujCdXzLuJ",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Rhodonite Galets",
+              "stripeDesc": "La Rhodonite se présente ici sous forme de galets naturels aux reflets rosés et noirs, parfaits pour une touche apaisante dans votre intérieur ou pour une utilisation en lithothérapie. Cette pierre est réputée pour favoriser l’ouverture du cœur, aider à surmonter les blessures émotionnelles et renforcer la compassion. Idéale pour les moments de méditation ou simplement à porter en poche pour une énergie bienveillante au quotidien.",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         },

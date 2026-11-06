@@ -7740,7 +7740,17 @@
               "description": "Ces galets d'obsidienne neige captent immédiatement l'attention avec leur éclat profond et leurs reflets bleutés. En lithothérapie, cette pierre est souvent utilisée pour apaiser les émotions et favoriser la clarté mentale, aidant à dissoudre les tensions intérieures. Elle est aussi réputée pour renforcer la connexion à soi et faciliter la transition vers une énergie plus sereine et équilibrée.",
               "photo": "images/articles/obsidienne-neige-mw55ort154tu.jpg",
               "prixBoutique": 5.5,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/fZu4gA3RMabPd2UaxP2a62z",
+              "stripeProductId": "prod_VZzTeYLEzGIcWS",
+              "stripePriceId": "price_1UYpUjLOfCA5mATuHoc7IWyf",
+              "stripeLinkId": "plink_1UYpUkLOfCA5mATuzzJleeJd",
+              "stripePrix": 5.95,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne neige",
+              "stripeDesc": "Ces galets d'obsidienne neige captent immédiatement l'attention avec leur éclat profond et leurs reflets bleutés. En lithothérapie, cette pierre est souvent utilisée pour apaiser les émotions et favoriser la clarté mentale, aidant à dissoudre les tensions intérieures. Elle est aussi réputée pour renforcer la connexion à soi et faciliter la transition vers une énergie plus sereine et équilibrée.",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         },

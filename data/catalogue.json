@@ -7512,7 +7512,17 @@
               "description": "La Larvikite est une pierre aux reflets bleutés et scintillants, souvent appelée pierre de lumière. En lithothérapie, elle est réputée pour apporter sérénité et harmonie, aidant à apaiser les émotions et à renforcer la confiance en soi. Idéale pour créer une ambiance paisible dans votre espace de vie ou pour une utilisation en méditation.",
               "photo": "images/articles/larvikite-mw4p8f1rfg42.jpg",
               "prixBoutique": 7,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/8x28wQ1JEabP5As35n2a62l",
+              "stripeProductId": "prod_VZs3uGG1e45WvV",
+              "stripePriceId": "price_1UYiIyLOfCA5mATu78dQcnsJ",
+              "stripeLinkId": "plink_1UYiIyLOfCA5mATuU3UY4FTu",
+              "stripePrix": 7.5,
+              "stripeMode": "live",
+              "stripeNom": "Larvikite",
+              "stripeDesc": "La Larvikite est une pierre aux reflets bleutés et scintillants, souvent appelée pierre de lumière. En lithothérapie, elle est réputée pour apporter sérénité et harmonie, aidant à apaiser les émotions et à renforcer la confiance en soi. Idéale pour créer une ambiance paisible dans votre espace de vie ou pour une utilisation en méditation.",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         },

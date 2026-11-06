@@ -7778,7 +7778,17 @@
               "description": "L'onyx noir trida est une pierre aux reflets profonds et mystérieux, souvent utilisée pour son énergie protectrice et stabilisatrice. En lithothérapie, il est réputé pour renforcer la confiance en soi et aider à surmonter les peurs ou les doutes. Idéal pour équilibrer les émotions et apporter une sensation de sécurité intérieure, il se prête parfaitement à une utilisation quotidienne en méditation ou en décoration spirituelle.",
               "photo": "images/articles/onyx-noir-trida-mw56se5z8y7l.jpg",
               "prixBoutique": 3,
-              "stock": 18
+              "stock": 18,
+              "stripe": "https://buy.stripe.com/00waEY9c6do14wo35n2a62B",
+              "stripeProductId": "prod_VZzyNiUj5ea4Zs",
+              "stripePriceId": "price_1UYpyXLOfCA5mATuds7bP2xh",
+              "stripeLinkId": "plink_1UYpyXLOfCA5mATu9lF3CipM",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Onyx noir trida",
+              "stripeDesc": "L'onyx noir trida est une pierre aux reflets profonds et mystérieux, souvent utilisée pour son énergie protectrice et stabilisatrice. En lithothérapie, il est réputé pour renforcer la confiance en soi et aider à surmonter les peurs ou les doutes. Idéal pour équilibrer les émotions et apporter une sensation de sécurité intérieure, il se prête parfaitement à une utilisation quotidienne en méditation ou en décoration spirituelle.",
+              "stripeStock": 18,
+              "epuise": false
             }
           ]
         },

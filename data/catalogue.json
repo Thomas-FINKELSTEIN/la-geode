@@ -7713,6 +7713,15 @@
               "stripeDesc": "La sodalite est une pierre aux reflets bleutés profonds, souvent associée à la sagesse et à la clarté mentale. Elle est réputée pour favoriser la communication et apaiser les tensions émotionnelles, tout en renforçant la confiance en soi. Idéale pour les moments de réflexion ou de méditation, elle est aussi utilisée pour équilibrer les énergies et stimuler la créativité.",
               "stripeStock": 12,
               "epuise": false
+            },
+            {
+              "id": "obsidienne-acajou-mw53mpvr41q7",
+              "nom": "Obsidienne acajou",
+              "prix": 5.43,
+              "description": "L'obsidienne acajou est une pierre aux reflets somptueux et aux énergies profondes, souvent utilisée pour son pouvoir de protection et de stabilisation émotionnelle. Ses teintes chaudes et ses motifs naturels en font un allié précieux pour apaiser les tensions intérieures et renforcer la confiance en soi. Idéale pour les pratiques de méditation ou simplement comme objet décoratif, elle attire également ceux qui cherchent à ancrer leur énergie et à retrouver un équilibre intérieur.",
+              "photo": "images/articles/obsidienne-acajou-mw53mpvrk9y0.jpg",
+              "prixBoutique": 5,
+              "stock": 9
             }
           ]
         },

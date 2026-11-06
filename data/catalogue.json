@@ -7816,7 +7816,17 @@
               "description": "Ces galets d'Oeil de faucon, aux reflets sombres et profonds, captent immédiatement l'attention par leur beauté mystérieuse. En lithothérapie, cette pierre est souvent associée à la protection et à la stabilité émotionnelle, aidant à apaiser les esprits agités et à renforcer la confiance en soi. Idéale pour une décoration intérieure ou pour accompagner vos pratiques énergétiques, elle est aussi appréciée pour ses propriétés apaisantes et son influence sur l'équilibre mental.",
               "photo": "images/articles/oeil-de-faucon-galets-mw57cmezbiza.jpg",
               "prixBoutique": 5,
-              "stock": 18
+              "stock": 18,
+              "stripe": "https://buy.stripe.com/3cI7sM5ZUabPfb26hz2a62D",
+              "stripeProductId": "prod_Va0ERSl2t7U9dn",
+              "stripePriceId": "price_1UYqDuLOfCA5mATuzrGaKxfc",
+              "stripeLinkId": "plink_1UYqDuLOfCA5mATusIoxclqf",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Oeil de faucon Galets",
+              "stripeDesc": "Ces galets d'Oeil de faucon, aux reflets sombres et profonds, captent immédiatement l'attention par leur beauté mystérieuse. En lithothérapie, cette pierre est souvent associée à la protection et à la stabilité émotionnelle, aidant à apaiser les esprits agités et à renforcer la confiance en soi. Idéale pour une décoration intérieure ou pour accompagner vos pratiques énergétiques, elle est aussi appréciée pour ses propriétés apaisantes et son influence sur l'équilibre mental.",
+              "stripeStock": 18,
+              "epuise": false
             }
           ]
         },

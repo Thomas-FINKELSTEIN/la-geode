@@ -7531,7 +7531,17 @@
               "description": "L'hématite est une pierre aux reflets métalliques profonds, idéale pour ancrer l'énergie et renforcer la concentration. Utilisée en lithothérapie, elle est souvent appelée la pierre du sang pour ses propriétés de vitalité et de protection. Parfaite pour les personnes cherchant à équilibrer leurs émotions et à renforcer leur détermination au quotidien.",
               "photo": "images/articles/hematite-galets-mw4qglxygwnx.jpg",
               "prixBoutique": 4,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/7sYeVe5ZUes5bYQ5dv2a62m",
+              "stripeProductId": "prod_VZsbR5tO3Gkjk7",
+              "stripePriceId": "price_1UYiq9LOfCA5mATu4RmULxjm",
+              "stripeLinkId": "plink_1UYiqALOfCA5mATunw0sJ1NM",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Hématite Galets",
+              "stripeDesc": "L'hématite est une pierre aux reflets métalliques profonds, idéale pour ancrer l'énergie et renforcer la concentration. Utilisée en lithothérapie, elle est souvent appelée la pierre du sang pour ses propriétés de vitalité et de protection. Parfaite pour les personnes cherchant à équilibrer leurs émotions et à renforcer leur détermination au quotidien.",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         },

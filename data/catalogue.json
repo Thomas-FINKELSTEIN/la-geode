@@ -7835,7 +7835,17 @@
               "description": "Ces galets de rubis sur zoizite allient la puissance énergétique du rubis, pierre de passion et de vitalité, à la douceur apaisante de la zoizite, souvent associée à la clarté mentale et à la sérénité. Parfaits pour équilibrer les émotions et renforcer la confiance en soi, ils sont idéaux pour une méditation ou une décoration spirituelle. Leur beauté naturelle en fait aussi un choix élégant pour sublimer un espace de bien-être ou un bureau.",
               "photo": "images/articles/rubis-sur-zoizite-mw57ug5w5cnd.jpg",
               "prixBoutique": 6,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/4gM4gA9c697Lgf66hz2a62E",
+              "stripeProductId": "prod_Va0SLrAM39vVig",
+              "stripePriceId": "price_1UYqRALOfCA5mATuw0y2f3zE",
+              "stripeLinkId": "plink_1UYqRBLOfCA5mATuxtmKVFit",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Rubis sur zoizite",
+              "stripeDesc": "Ces galets de rubis sur zoizite allient la puissance énergétique du rubis, pierre de passion et de vitalité, à la douceur apaisante de la zoizite, souvent associée à la clarté mentale et à la sérénité. Parfaits pour équilibrer les émotions et renforcer la confiance en soi, ils sont idéaux pour une méditation ou une décoration spirituelle. Leur beauté naturelle en fait aussi un choix élégant pour sublimer un espace de bien-être ou un bureau.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

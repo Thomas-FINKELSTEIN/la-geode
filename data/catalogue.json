@@ -7797,7 +7797,17 @@
               "description": "Ces galets d'oeil de taureau, aux reflets dorés et bruns, sont des pierres naturelles aux propriétés énergétiques remarquables. En lithothérapie, ils sont souvent associés à la protection, à la stabilité émotionnelle et à l'ancrage dans le quotidien. Idéaux pour apaiser le mental et renforcer la confiance en soi, ils se prêtent aussi bien à une utilisation en méditation qu'à une décoration intérieure harmonieuse.",
               "photo": "images/articles/oeil-de-taureau-galets-mw56w45vku52.jpg",
               "prixBoutique": 5,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/9B6bJ2fAu4RvbYQ5dv2a62C",
+              "stripeProductId": "prod_Va01sCLWSlmUbZ",
+              "stripePriceId": "price_1UYq1MLOfCA5mATuaxHj5d5Y",
+              "stripeLinkId": "plink_1UYq1MLOfCA5mATu3kKWylqr",
+              "stripePrix": 5.43,
+              "stripeMode": "live",
+              "stripeNom": "Oeil de taureau Galets",
+              "stripeDesc": "Ces galets d'oeil de taureau, aux reflets dorés et bruns, sont des pierres naturelles aux propriétés énergétiques remarquables. En lithothérapie, ils sont souvent associés à la protection, à la stabilité émotionnelle et à l'ancrage dans le quotidien. Idéaux pour apaiser le mental et renforcer la confiance en soi, ils se prêtent aussi bien à une utilisation en méditation qu'à une décoration intérieure harmonieuse.",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         },

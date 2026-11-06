@@ -7664,7 +7664,17 @@
               "description": "La rhodonite sous forme de galets est une pierre douce et apaisante, aux reflets roses et noirs qui captivent immédiatement. Connue pour ses vertus harmonisantes, elle aide à équilibrer les émotions et à apaiser les tensions du cœur, tout en renforçant la confiance en soi. Idéale pour une utilisation quotidienne, elle peut être posée sur un bureau, glissée dans une poche ou même tenue en méditation pour bénéficier de son énergie bienveillante.",
               "photo": "images/articles/rhodonite-galets-mw4tonss142b.jpg",
               "prixBoutique": 3,
-              "stock": 33
+              "stock": 33,
+              "stripe": "https://buy.stripe.com/8x2bJ2coi5Vz8ME6hz2a62v",
+              "stripeProductId": "prod_VZu3uKSMZfwTIf",
+              "stripePriceId": "price_1UYkFWLOfCA5mATuCepVGbls",
+              "stripeLinkId": "plink_1UYkFXLOfCA5mATuZwaWHeti",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Rhodonite Galets",
+              "stripeDesc": "La rhodonite sous forme de galets est une pierre douce et apaisante, aux reflets roses et noirs qui captivent immédiatement. Connue pour ses vertus harmonisantes, elle aide à équilibrer les émotions et à apaiser les tensions du cœur, tout en renforçant la confiance en soi. Idéale pour une utilisation quotidienne, elle peut être posée sur un bureau, glissée dans une poche ou même tenue en méditation pour bénéficier de son énergie bienveillante.",
+              "stripeStock": 33,
+              "epuise": false
             }
           ]
         },

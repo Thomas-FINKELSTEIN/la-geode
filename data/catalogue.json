@@ -7474,7 +7474,17 @@
               "description": "Ces galets de grenat, aux reflets profonds et mystérieux, captent instantanément l'attention par leur éclat sombre et leur énergie puissante. En lithothérapie, le grenat est souvent associé à la vitalité, à la passion et à la régénération des forces physiques et émotionnelles. Idéal pour stimuler la motivation et renforcer la confiance en soi, il est aussi utilisé pour ancrer l'énergie et favoriser un sentiment de sécurité intérieure.",
               "photo": "images/articles/grenat-galets-mw4nxy4o0f89.jpg",
               "prixBoutique": 6,
-              "stock": 12
+              "stock": 12,
+              "stripe": "https://buy.stripe.com/9B614ofAu83Hfb2gWd2a62j",
+              "stripeProductId": "prod_VZrSMKiqyzWS3S",
+              "stripePriceId": "price_1UYhjzLOfCA5mATuo6ExiZuT",
+              "stripeLinkId": "plink_1UYhjzLOfCA5mATumIhIxU91",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Grenat Galets",
+              "stripeDesc": "Ces galets de grenat, aux reflets profonds et mystérieux, captent instantanément l'attention par leur éclat sombre et leur énergie puissante. En lithothérapie, le grenat est souvent associé à la vitalité, à la passion et à la régénération des forces physiques et émotionnelles. Idéal pour stimuler la motivation et renforcer la confiance en soi, il est aussi utilisé pour ancrer l'énergie et favoriser un sentiment de sécurité intérieure.",
+              "stripeStock": 12,
+              "epuise": false
             }
           ]
         },

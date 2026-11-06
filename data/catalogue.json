@@ -7550,7 +7550,17 @@
               "description": "L'hématite sous forme de galets est une pierre naturelle aux reflets métalliques profonds et apaisants. Très prisée en lithothérapie, elle est réputée pour renforcer la concentration, stabiliser les émotions et ancrer l'énergie. Idéale pour une utilisation quotidienne, elle peut être placée sur votre bureau, dans votre poche ou même utilisée en méditation pour un effet harmonisant.",
               "photo": "images/articles/hematite-galets-mw4qi5wn7ku3.jpg",
               "prixBoutique": 2.5,
-              "stock": 36
+              "stock": 36,
+              "stripe": "https://buy.stripe.com/dRm28sdsm4Rv7IA21j2a62n",
+              "stripeProductId": "prod_VZsc4qVUzVRZub",
+              "stripePriceId": "price_1UYirOLOfCA5mATuPyA84aQd",
+              "stripeLinkId": "plink_1UYirOLOfCA5mATuxM83jpot",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Hématite Galets",
+              "stripeDesc": "L'hématite sous forme de galets est une pierre naturelle aux reflets métalliques profonds et apaisants. Très prisée en lithothérapie, elle est réputée pour renforcer la concentration, stabiliser les émotions et ancrer l'énergie. Idéale pour une utilisation quotidienne, elle peut être placée sur votre bureau, dans votre poche ou même utilisée en méditation pour un effet harmonisant.",
+              "stripeStock": 36,
+              "epuise": false
             }
           ]
         },

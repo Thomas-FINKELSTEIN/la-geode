@@ -7493,7 +7493,17 @@
               "description": "La lépidolite est une pierre douce et apaisante, souvent appelée la pierre de la sérénité. Riche en lithium, elle est traditionnellement utilisée pour calmer les émotions, réduire le stress et favoriser un état de paix intérieure. Idéale pour ceux qui cherchent à équilibrer leurs énergies et à apaiser les tensions du quotidien.",
               "photo": "images/articles/lepidolite-galets-mw4p7f16je1v.jpg",
               "prixBoutique": 4,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/fZu9AU9c6do1fb2gWd2a62k",
+              "stripeProductId": "prod_VZs2VJkV1iQGFD",
+              "stripePriceId": "price_1UYiIDLOfCA5mATuy05RHHJ6",
+              "stripeLinkId": "plink_1UYiIDLOfCA5mATunz2mSJvu",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Lépidolite Galets",
+              "stripeDesc": "La lépidolite est une pierre douce et apaisante, souvent appelée la pierre de la sérénité. Riche en lithium, elle est traditionnellement utilisée pour calmer les émotions, réduire le stress et favoriser un état de paix intérieure. Idéale pour ceux qui cherchent à équilibrer leurs énergies et à apaiser les tensions du quotidien.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

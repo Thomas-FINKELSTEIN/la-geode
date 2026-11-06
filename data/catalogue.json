@@ -7626,7 +7626,17 @@
               "description": "La phrénite est une pierre douce et apaisante, souvent utilisée en lithothérapie pour favoriser la sérénité et l'équilibre émotionnel. Ses teintes délicates et ses reflets subtils en font une pierre idéale pour apaiser les tensions et favoriser la connexion à soi-même. Elle est particulièrement appréciée pour son énergie réconfortante, aidant à libérer les blocages et à retrouver une harmonie intérieure.",
               "photo": "images/articles/phrenite-mw4sz4f9qqs8.jpg",
               "prixBoutique": 5.5,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/00w3cw0FA2Jn5As6hz2a62s",
+              "stripeProductId": "prod_VZtj1ElAg4Vsw3",
+              "stripePriceId": "price_1UYjwKLOfCA5mATu7Jd5dcBV",
+              "stripeLinkId": "plink_1UYjwLLOfCA5mATuaDQyjxnb",
+              "stripePrix": 5.95,
+              "stripeMode": "live",
+              "stripeNom": "Phrénite",
+              "stripeDesc": "La phrénite est une pierre douce et apaisante, souvent utilisée en lithothérapie pour favoriser la sérénité et l'équilibre émotionnel. Ses teintes délicates et ses reflets subtils en font une pierre idéale pour apaiser les tensions et favoriser la connexion à soi-même. Elle est particulièrement appréciée pour son énergie réconfortante, aidant à libérer les blocages et à retrouver une harmonie intérieure.",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         },

@@ -7979,6 +7979,15 @@
               "stripeDesc": "La rhyolite est une pierre volcanique aux reflets doux et aux teintes variées, souvent utilisée pour son énergie apaisante et équilibrante. En lithothérapie, elle est réputée pour favoriser la sérénité et aider à libérer les tensions émotionnelles. Idéale pour une utilisation quotidienne, elle peut être tenue en main ou placée dans un espace de vie pour créer une ambiance harmonieuse.",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "fluorite-galets-mw6kqbavsnwv",
+              "nom": "Fluorite Galets",
+              "prix": 7.5,
+              "description": "Ce galet de fluorite aux reflets pourpres et translucides est une pierre aux multiples facettes, aussi bien visuelles qu'énergétiques. En lithothérapie, elle est souvent associée à la concentration, à l'équilibre mental et à la clarté d'esprit, aidant à structurer les idées et à renforcer la confiance en soi. Son énergie apaisante en fait aussi un allié précieux pour apaiser les tensions émotionnelles et favoriser un état de sérénité au quotidien.",
+              "photo": "images/articles/fluorite-galets-mw6kqbavezds.jpg",
+              "prixBoutique": 7,
+              "stock": 1
             }
           ]
         },

@@ -8025,7 +8025,17 @@
               "description": "Le jaspe kambaba est une pierre naturelle au charme vert profond et apaisant, souvent utilisée en lithothérapie pour son énergie stabilisatrice. Associée à la sérénité et à la connexion avec la nature, elle favorise l'équilibre émotionnel et aide à apaiser les tensions du quotidien. Idéale pour les espaces de méditation ou comme objet de bien-être, elle incarne douceur et harmonie.",
               "photo": "images/articles/jaspe-kambaba-mw6laotadrj2.jpg",
               "prixBoutique": 6,
-              "stock": 14
+              "stock": 14,
+              "stripe": "https://buy.stripe.com/28E7sM2NIes50g88pH2a62U",
+              "stripeProductId": "prod_VaMmLWCU6j4d1i",
+              "stripePriceId": "price_1UZC2qLOfCA5mATucMMHUrDJ",
+              "stripeLinkId": "plink_1UZC2qLOfCA5mATu1JIyXIFi",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe kambaba",
+              "stripeDesc": "Le jaspe kambaba est une pierre naturelle au charme vert profond et apaisant, souvent utilisée en lithothérapie pour son énergie stabilisatrice. Associée à la sérénité et à la connexion avec la nature, elle favorise l'équilibre émotionnel et aide à apaiser les tensions du quotidien. Idéale pour les espaces de méditation ou comme objet de bien-être, elle incarne douceur et harmonie.",
+              "stripeStock": 14,
+              "epuise": false
             }
           ]
         },

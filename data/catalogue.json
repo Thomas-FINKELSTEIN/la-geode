@@ -7922,6 +7922,15 @@
               "stripeDesc": "Ces galets d'obsidienne larme d'apache captivent par leur éclat profond et leur texture lisse. En lithothérapie, cette pierre est souvent utilisée pour apaiser les émotions douloureuses et favoriser la transformation intérieure. Elle est idéale pour ceux qui cherchent à se libérer des blocages émotionnels et à retrouver un équilibre spirituel.",
               "stripeStock": 38,
               "epuise": false
+            },
+            {
+              "id": "pierre-de-lave-mw6hihrolype",
+              "nom": "Pierre de lave",
+              "prix": 4.4,
+              "description": "Ces œufs en pierre de lave sont des éléments naturels aux textures uniques et aux propriétés énergétiques remarquables. Selon la lithothérapie, cette pierre noire favorise la protection, l’ancrage et aide à libérer les tensions émotionnelles. Parfaite pour décorer un espace tout en bénéficiant de ses vertus apaisantes, elle est aussi utilisée pour équilibrer les énergies dans un intérieur.",
+              "photo": "images/articles/pierre-de-lave-mw6hihrornsm.jpg",
+              "prixBoutique": 4,
+              "stock": 8
             }
           ]
         },

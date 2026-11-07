@@ -7854,7 +7854,17 @@
               "description": "Ces galets d’oeil de fer, aux reflets dorés et noirs captivants, sont des pierres naturelles aux énergies puissantes. En lithothérapie, ils sont souvent associés à la protection, à la stabilité émotionnelle et à l’ancrage dans le quotidien. Parfaits pour une utilisation en méditation ou en décoration, ils apportent une touche d’équilibre et de force positive à votre environnement.",
               "photo": "images/articles/oeil-de-fer-mw65r57zyz0e.jpg",
               "prixBoutique": 2.5,
-              "stock": 132
+              "stock": 132,
+              "stripe": "https://buy.stripe.com/eVq4gA9c697L6EwaxP2a62F",
+              "stripeProductId": "prod_VaFlNollZRgBti",
+              "stripePriceId": "price_1UZ5FnLOfCA5mATuV3VbXT8P",
+              "stripeLinkId": "plink_1UZ5FnLOfCA5mATu2QLsIcyx",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Oeil de fer",
+              "stripeDesc": "Ces galets d’oeil de fer, aux reflets dorés et noirs captivants, sont des pierres naturelles aux énergies puissantes. En lithothérapie, ils sont souvent associés à la protection, à la stabilité émotionnelle et à l’ancrage dans le quotidien. Parfaits pour une utilisation en méditation ou en décoration, ils apportent une touche d’équilibre et de force positive à votre environnement.",
+              "stripeStock": 132,
+              "epuise": false
             }
           ]
         },

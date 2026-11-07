@@ -7930,7 +7930,17 @@
               "description": "Ces œufs en pierre de lave sont des éléments naturels aux textures uniques et aux propriétés énergétiques remarquables. Selon la lithothérapie, cette pierre noire favorise la protection, l’ancrage et aide à libérer les tensions émotionnelles. Parfaite pour décorer un espace tout en bénéficiant de ses vertus apaisantes, elle est aussi utilisée pour équilibrer les énergies dans un intérieur.",
               "photo": "images/articles/pierre-de-lave-mw6hihrornsm.jpg",
               "prixBoutique": 4,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/8x26oI73YabPaUMbBT2a62J",
+              "stripeProductId": "prod_VaL4SOovJDuWwx",
+              "stripePriceId": "price_1UZAOOLOfCA5mATuuX2ODMrl",
+              "stripeLinkId": "plink_1UZAOOLOfCA5mATu750gxdjz",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Pierre de lave",
+              "stripeDesc": "Ces œufs en pierre de lave sont des éléments naturels aux textures uniques et aux propriétés énergétiques remarquables. Selon la lithothérapie, cette pierre noire favorise la protection, l’ancrage et aide à libérer les tensions émotionnelles. Parfaite pour décorer un espace tout en bénéficiant de ses vertus apaisantes, elle est aussi utilisée pour équilibrer les énergies dans un intérieur.",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         },

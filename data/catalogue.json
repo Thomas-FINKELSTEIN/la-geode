@@ -7892,7 +7892,17 @@
               "description": "L'Onyx noir est une pierre puissante et mystérieuse, souvent utilisée pour renforcer la protection et absorber les énergies négatives. Appéciée en lithothérapie pour son influence stabilisatrice, elle aide à apaiser les émotions et à retrouver un équilibre intérieur. Idéale pour ceux qui cherchent à renforcer leur confiance et leur détermination au quotidien.",
               "photo": "images/articles/onyx-noir-galets-mw6hdhqqr5b4.jpg",
               "prixBoutique": 4,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/cNi28sbke97L3sk49r2a62H",
+              "stripeProductId": "prod_VaL0oTgpSJrNfF",
+              "stripePriceId": "price_1UZAKWLOfCA5mATuMe5pLyV6",
+              "stripeLinkId": "plink_1UZAKWLOfCA5mATu43r02RUG",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Onyx noir Galets",
+              "stripeDesc": "L'Onyx noir est une pierre puissante et mystérieuse, souvent utilisée pour renforcer la protection et absorber les énergies négatives. Appéciée en lithothérapie pour son influence stabilisatrice, elle aide à apaiser les émotions et à retrouver un équilibre intérieur. Idéale pour ceux qui cherchent à renforcer leur confiance et leur détermination au quotidien.",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         },

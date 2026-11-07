@@ -8044,7 +8044,17 @@
               "description": "L'opale brute est une pierre aux reflets mystiques et aux jeux de couleurs uniques, souvent associée à la créativité et à l'inspiration. En lithothérapie, elle est réputée pour apaiser les émotions et favoriser une connexion profonde avec son intuition. Parfaite pour ceux qui cherchent à harmoniser leur énergie et à cultiver une spiritualité apaisante.",
               "photo": "images/articles/opale-brute-cristal-mw6mmthy7ej8.jpg",
               "prixBoutique": 3,
-              "stock": 22
+              "stock": 22,
+              "stripe": "https://buy.stripe.com/dRmdRa9c64Rv7IA6hz2a62V",
+              "stripeProductId": "prod_VaNNSAF8yGVIPW",
+              "stripePriceId": "price_1UZCd6LOfCA5mATuux5r6gFt",
+              "stripeLinkId": "plink_1UZCd6LOfCA5mATuArIJ5d4L",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Opale brute cristal",
+              "stripeDesc": "L'opale brute est une pierre aux reflets mystiques et aux jeux de couleurs uniques, souvent associée à la créativité et à l'inspiration. En lithothérapie, elle est réputée pour apaiser les émotions et favoriser une connexion profonde avec son intuition. Parfaite pour ceux qui cherchent à harmoniser leur énergie et à cultiver une spiritualité apaisante.",
+              "stripeStock": 22,
+              "epuise": false
             }
           ]
         },

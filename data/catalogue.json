@@ -7949,7 +7949,17 @@
               "description": "La tourmaline noire, aussi appelée schörl, est une pierre aux puissantes propriétés protectrices et équilibrantes. Utilisée en lithothérapie pour absorber les énergies négatives et renforcer le champ énergétique, elle favorise la stabilité émotionnelle et la concentration. Parfaite pour les personnes en quête de sérénité ou de protection spirituelle, elle est souvent employée en méditation ou portée comme talisman.",
               "photo": "images/articles/tourmaline-noire-galets-mw6hrx2s8nzg.jpg",
               "prixBoutique": 7,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/7sY14o882gAd0g8cFX2a62K",
+              "stripeProductId": "prod_VaLBsQIWTcc3Qw",
+              "stripePriceId": "price_1UZAVRLOfCA5mATuLlhAqXLi",
+              "stripeLinkId": "plink_1UZAVRLOfCA5mATuqtgbjFuD",
+              "stripePrix": 7.5,
+              "stripeMode": "live",
+              "stripeNom": "Tourmaline noire Galets",
+              "stripeDesc": "La tourmaline noire, aussi appelée schörl, est une pierre aux puissantes propriétés protectrices et équilibrantes. Utilisée en lithothérapie pour absorber les énergies négatives et renforcer le champ énergétique, elle favorise la stabilité émotionnelle et la concentration. Parfaite pour les personnes en quête de sérénité ou de protection spirituelle, elle est souvent employée en méditation ou portée comme talisman.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

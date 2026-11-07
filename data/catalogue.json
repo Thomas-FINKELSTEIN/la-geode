@@ -7873,7 +7873,17 @@
               "description": "L'Unakite est une pierre aux couleurs envoûtantes, mêlant des reflets verts et roses qui symbolisent l'équilibre et l'harmonie. Selon la lithothérapie, elle est souvent appelée la pierre de la compassion et de la guérison émotionnelle, aidant à apaiser les tensions et à renforcer la connexion avec soi-même. Idéale pour les espaces de détente ou comme talisman personnel, elle est appréciée pour ses propriétés apaisantes et son énergie bienveillante.",
               "photo": "images/articles/unakite-galets-mw65t3fpp0wk.jpg",
               "prixBoutique": 2.5,
-              "stock": 100
+              "stock": 100,
+              "stripe": "https://buy.stripe.com/5kQ9AU5ZU83Hd2U35n2a62G",
+              "stripeProductId": "prod_VaFmFW5Bd09IWA",
+              "stripePriceId": "price_1UZ5HHLOfCA5mATuiHdB7TqG",
+              "stripeLinkId": "plink_1UZ5HHLOfCA5mATuMZze5c2k",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Unakite Galets",
+              "stripeDesc": "L'Unakite est une pierre aux couleurs envoûtantes, mêlant des reflets verts et roses qui symbolisent l'équilibre et l'harmonie. Selon la lithothérapie, elle est souvent appelée la pierre de la compassion et de la guérison émotionnelle, aidant à apaiser les tensions et à renforcer la connexion avec soi-même. Idéale pour les espaces de détente ou comme talisman personnel, elle est appréciée pour ses propriétés apaisantes et son énergie bienveillante.",
+              "stripeStock": 100,
+              "epuise": false
             }
           ]
         },

@@ -7968,7 +7968,17 @@
               "description": "La rhyolite est une pierre volcanique aux reflets doux et aux teintes variées, souvent utilisée pour son énergie apaisante et équilibrante. En lithothérapie, elle est réputée pour favoriser la sérénité et aider à libérer les tensions émotionnelles. Idéale pour une utilisation quotidienne, elle peut être tenue en main ou placée dans un espace de vie pour créer une ambiance harmonieuse.",
               "photo": "images/articles/la-rhyolite-mw6humvu8p2j.jpg",
               "prixBoutique": 4,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/bJe28sgEy0Bf2og35n2a62L",
+              "stripeProductId": "prod_VaLD08FWW5vVP6",
+              "stripePriceId": "price_1UZAXRLOfCA5mATu0a90NPmw",
+              "stripeLinkId": "plink_1UZAXRLOfCA5mATuUK9Nfcp1",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "La rhyolite",
+              "stripeDesc": "La rhyolite est une pierre volcanique aux reflets doux et aux teintes variées, souvent utilisée pour son énergie apaisante et équilibrante. En lithothérapie, elle est réputée pour favoriser la sérénité et aider à libérer les tensions émotionnelles. Idéale pour une utilisation quotidienne, elle peut être tenue en main ou placée dans un espace de vie pour créer une ambiance harmonieuse.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

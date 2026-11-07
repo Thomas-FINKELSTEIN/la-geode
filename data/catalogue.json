@@ -7911,7 +7911,17 @@
               "description": "Ces galets d'obsidienne larme d'apache captivent par leur éclat profond et leur texture lisse. En lithothérapie, cette pierre est souvent utilisée pour apaiser les émotions douloureuses et favoriser la transformation intérieure. Elle est idéale pour ceux qui cherchent à se libérer des blocages émotionnels et à retrouver un équilibre spirituel.",
               "photo": "images/articles/obsidienne-larme-d-apache-mw6hficzqscl.jpg",
               "prixBoutique": 4,
-              "stock": 38
+              "stock": 38,
+              "stripe": "https://buy.stripe.com/fZu5kE0FA2Jn0g8fS92a62I",
+              "stripeProductId": "prod_VaL2zgPsxAErSO",
+              "stripePriceId": "price_1UZAM6LOfCA5mATuaoypJdlA",
+              "stripeLinkId": "plink_1UZAM7LOfCA5mATuXoK0ByHo",
+              "stripePrix": 4.4,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne larme d' apache",
+              "stripeDesc": "Ces galets d'obsidienne larme d'apache captivent par leur éclat profond et leur texture lisse. En lithothérapie, cette pierre est souvent utilisée pour apaiser les émotions douloureuses et favoriser la transformation intérieure. Elle est idéale pour ceux qui cherchent à se libérer des blocages émotionnels et à retrouver un équilibre spirituel.",
+              "stripeStock": 38,
+              "epuise": false
             }
           ]
         },

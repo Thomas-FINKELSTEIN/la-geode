@@ -8006,7 +8006,17 @@
               "description": "calme et libère les tensions, calme les insomnies, libère des peurs nocturnes.",
               "photo": "images/articles/mangano-mw6kz0ut9as4.jpg",
               "prixBoutique": 8,
-              "stock": 11
+              "stock": 11,
+              "stripe": "https://buy.stripe.com/bJe14ocoi5Vz3skaxP2a62T",
+              "stripeProductId": "prod_VaMhQWBzmKplsy",
+              "stripePriceId": "price_1UZBy2LOfCA5mATuaeXMfGfI",
+              "stripeLinkId": "plink_1UZBy2LOfCA5mATuz5A6kWdq",
+              "stripePrix": 8.53,
+              "stripeMode": "live",
+              "stripeNom": "Mangano",
+              "stripeDesc": "calme et libère les tensions, calme les insomnies, libère des peurs nocturnes.",
+              "stripeStock": 11,
+              "epuise": false
             }
           ]
         },

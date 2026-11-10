@@ -34716,7 +34716,17 @@
               "description": "Cette lampe en sélénite pyramidale diffuse une lumière douce et enveloppante, idéale pour créer une ambiance apaisante dans votre intérieur. La sélénite, pierre de clarté et de purification, est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les énergies et stimuler la connexion à son intuition. Son éclat lumineux et son énergie apaisante en font un allié précieux pour se ressourcer après une journée chargée.",
               "photo": "images/articles/lampe-en-selenite-pyramidale-mwagn7doqfgf.jpg",
               "prixBoutique": 96.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E28s4VQcjXaUMbBT2a634",
+              "stripeProductId": "prod_VbNhgjBRB8BbyT",
+              "stripePriceId": "price_1UaAvuLOfCA5mATub1plceiA",
+              "stripeLinkId": "plink_1UaAvuLOfCA5mATuvedJzzCr",
+              "stripePrix": 100.42,
+              "stripeMode": "live",
+              "stripeNom": "Lampe en sélénite Pyramidale",
+              "stripeDesc": "Cette lampe en sélénite pyramidale diffuse une lumière douce et enveloppante, idéale pour créer une ambiance apaisante dans votre intérieur. La sélénite, pierre de clarté et de purification, est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les énergies et stimuler la connexion à son intuition. Son éclat lumineux et son énergie apaisante en font un allié précieux pour se ressourcer après une journée chargée.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

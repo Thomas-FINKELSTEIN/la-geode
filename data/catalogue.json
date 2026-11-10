@@ -36698,7 +36698,17 @@
               "description": "Cette élégante statuette d'éléphant en métal patiné incarne force et sagesse, deux qualités traditionnellement associées à cet animal emblématique. Idéale pour décorer votre espace tout en attirant des énergies positives, elle est souvent utilisée en lithothérapie pour renforcer la stabilité émotionnelle et la connexion à la terre. Son design raffiné en fait un objet décoratif à la fois puissant et apaisant, parfait pour les amateurs de symboles porteurs de sens.",
               "photo": "images/articles/elephant-40-cm-mwawb26rjead.jpg",
               "prixBoutique": 69.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU28s8823Nr6Ew35n2a63l",
+              "stripeProductId": "prod_VbUlSHtWCa1tKG",
+              "stripePriceId": "price_1UaHmGLOfCA5mATueTGf8UEU",
+              "stripeLinkId": "plink_1UaHmHLOfCA5mATuYXJ6e683",
+              "stripePrix": 72.51,
+              "stripeMode": "live",
+              "stripeNom": "Éléphant 40 cm",
+              "stripeDesc": "Cette élégante statuette d'éléphant en métal patiné incarne force et sagesse, deux qualités traditionnellement associées à cet animal emblématique. Idéale pour décorer votre espace tout en attirant des énergies positives, elle est souvent utilisée en lithothérapie pour renforcer la stabilité émotionnelle et la connexion à la terre. Son design raffiné en fait un objet décoratif à la fois puissant et apaisant, parfait pour les amateurs de symboles porteurs de sens.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

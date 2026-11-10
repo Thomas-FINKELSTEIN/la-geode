@@ -36642,6 +36642,15 @@
               "stripeDesc": "tortue argentée de décoration",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "statue-en-resine-mwaj0b9ad6q8",
+              "nom": "Statue en résine",
+              "prix": 25.07,
+              "description": "Statue en résine",
+              "photo": "images/articles/statue-en-resine-mwaj0b9aukqa.jpg",
+              "prixBoutique": 24,
+              "stock": 1
             }
           ]
         },

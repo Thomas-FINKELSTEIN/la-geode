@@ -9411,7 +9411,17 @@
               "description": "Ce Quartz fumé en forme de géode naturelle est une pièce fascinante aux reflets profonds et mystérieux. Appelé aussi pierre de fumée, il est souvent utilisé en lithothérapie pour son énergie apaisante et stabilisatrice, aidant à ancrer les émotions et à apaiser l’esprit. Idéal pour créer une ambiance harmonieuse dans votre intérieur ou pour accompagner vos moments de méditation et de détente.",
               "photo": "images/articles/quartz-fume-geode-mvupfxlxos69.jpg",
               "prixBoutique": 5.4,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYeVeewqes54wo7lD2a63k",
+              "stripeProductId": "prod_VbTZAMHsqpHQ9z",
+              "stripePriceId": "price_1UaGc6LOfCA5mATutLYD6bbR",
+              "stripeLinkId": "plink_1UaGc6LOfCA5mATubibiS963",
+              "stripePrix": 5.84,
+              "stripeMode": "live",
+              "stripeNom": "Quartz fumé",
+              "stripeDesc": "Ce Quartz fumé en forme de géode naturelle est une pièce fascinante aux reflets profonds et mystérieux. Appelé aussi pierre de fumée, il est souvent utilisé en lithothérapie pour son énergie apaisante et stabilisatrice, aidant à ancrer les émotions et à apaiser l’esprit. Idéal pour créer une ambiance harmonieuse dans votre intérieur ou pour accompagner vos moments de méditation et de détente.",
+              "stripeStock": 1,
+              "epuise": false
             },
             {
               "id": "quartz-fume-mvuq14mjqjxr",

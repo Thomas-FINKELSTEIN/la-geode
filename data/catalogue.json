@@ -36650,7 +36650,17 @@
               "description": "Statue en résine",
               "photo": "images/articles/statue-en-resine-mwaj0b9aukqa.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm3cwaga83Hd2UcFX2a63f",
+              "stripeProductId": "prod_VbOlmmR6hsOK60",
+              "stripePriceId": "price_1UaByNLOfCA5mATuHdM6YjBG",
+              "stripeLinkId": "plink_1UaByNLOfCA5mATuzmuh2Lrk",
+              "stripePrix": 25.07,
+              "stripeMode": "live",
+              "stripeNom": "Statue en résine",
+              "stripeDesc": "Statue en résine",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

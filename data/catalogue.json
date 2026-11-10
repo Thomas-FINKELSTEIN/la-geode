@@ -34850,7 +34850,17 @@
               "description": "Cette lampe en marbre de 60 cm allie élégance et douceur pour sublimer votre intérieur. Le marbre, pierre naturelle apaisante, est souvent utilisé en lithothérapie pour favoriser la sérénité et équilibrer les énergies. Son éclat lumineux et sa texture raffinée en font un objet décoratif à la fois esthétique et bénéfique pour créer une ambiance harmonieuse et apaisante dans votre espace de vie.",
               "photo": "images/articles/lampe-en-marbre-60-cm-mwaht6w6qk76.jpg",
               "prixBoutique": 183.99,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIeVefAu4Rv7IAgWd2a63c",
+              "stripeProductId": "prod_VbOD3miFmENaJs",
+              "stripePriceId": "price_1UaBRSLOfCA5mATuqQ1q00Rw",
+              "stripeLinkId": "plink_1UaBRSLOfCA5mATuUcYFps1z",
+              "stripePrix": 190.43,
+              "stripeMode": "live",
+              "stripeNom": "Lampe en marbre 60 cm",
+              "stripeDesc": "Cette lampe en marbre de 60 cm allie élégance et douceur pour sublimer votre intérieur. Le marbre, pierre naturelle apaisante, est souvent utilisé en lithothérapie pour favoriser la sérénité et équilibrer les énergies. Son éclat lumineux et sa texture raffinée en font un objet décoratif à la fois esthétique et bénéfique pour créer une ambiance harmonieuse et apaisante dans votre espace de vie.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

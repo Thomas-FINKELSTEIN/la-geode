@@ -34380,7 +34380,17 @@
               "description": "Verre soufflé sur bois flotté",
               "photo": "images/articles/verre-souffle-sur-bois-flotte-60-cm-h-mwageq8vhhmi.jpg",
               "prixBoutique": 138,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ4gA882gAd1kccFX2a631",
+              "stripeProductId": "prod_VbNa6T7tVvF5oK",
+              "stripePriceId": "price_1UaApULOfCA5mATuFi0tnETS",
+              "stripeLinkId": "plink_1UaApULOfCA5mATu0knIXp2O",
+              "stripePrix": 142.9,
+              "stripeMode": "live",
+              "stripeNom": "Verre soufflé sur bois flotté 60 cm H",
+              "stripeDesc": "Verre soufflé sur bois flotté",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -34425,7 +34425,17 @@
               "description": "La Fontaine Anna est une statuette élégante et raffinée qui incarne une énergie apaisante et harmonieuse. Selon la lithothérapie, elle est souvent associée à la purification des émotions et à la connexion avec les éléments naturels pour favoriser un bien-être profond. Son design unique en fait une pièce de décoration idéale pour les espaces de méditation ou les lieux où l’on souhaite cultiver la sérénité.",
               "photo": "images/articles/fontaine-anna-mwagrh5a5rb8.jpg",
               "prixBoutique": 32.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/dRm5kEbke3Nr2og8pH2a636",
+              "stripeProductId": "prod_VbNkc46bezLuI8",
+              "stripePriceId": "price_1UaAz7LOfCA5mATu7YyAP4cz",
+              "stripeLinkId": "plink_1UaAz8LOfCA5mATu6t96VCrz",
+              "stripePrix": 33.86,
+              "stripeMode": "live",
+              "stripeNom": "Fontaine Anna",
+              "stripeDesc": "La Fontaine Anna est une statuette élégante et raffinée qui incarne une énergie apaisante et harmonieuse. Selon la lithothérapie, elle est souvent associée à la purification des émotions et à la connexion avec les éléments naturels pour favoriser un bien-être profond. Son design unique en fait une pièce de décoration idéale pour les espaces de méditation ou les lieux où l’on souhaite cultiver la sérénité.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

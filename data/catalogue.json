@@ -36612,7 +36612,17 @@
               "description": "Cette décoration en métal aux formes organiques et fluides apporte une touche d'élégance moderne à votre intérieur. Selon les croyances en lithothérapie, les objets métalliques comme celui-ci peuvent favoriser la connexion avec les énergies subtiles et renforcer la concentration. Son design harmonieux en fait un élément décoratif unique, idéal pour équilibrer les espaces et stimuler une ambiance apaisante.",
               "photo": "images/articles/decoration-metal-mwai55180r2n.jpg",
               "prixBoutique": 21.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqeVe73Ydo11kc5dv2a63d",
+              "stripeProductId": "prod_VbONzi7txEYTze",
+              "stripePriceId": "price_1UaBaZLOfCA5mATubfayaji9",
+              "stripeLinkId": "plink_1UaBaZLOfCA5mATucQrrfz3r",
+              "stripePrix": 22.9,
+              "stripeMode": "live",
+              "stripeNom": "Décoration métal",
+              "stripeDesc": "Cette décoration en métal aux formes organiques et fluides apporte une touche d'élégance moderne à votre intérieur. Selon les croyances en lithothérapie, les objets métalliques comme celui-ci peuvent favoriser la connexion avec les énergies subtiles et renforcer la concentration. Son design harmonieux en fait un élément décoratif unique, idéal pour équilibrer les espaces et stimuler une ambiance apaisante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

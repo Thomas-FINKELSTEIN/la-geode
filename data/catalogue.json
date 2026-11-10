@@ -36536,7 +36536,17 @@
               "description": "Cette belle statuette de cactus en pierre naturelle apporte une touche décorative unique et organique à votre intérieur. Selon la lithothérapie, les pierres inspirées de plantes comme le cactus sont souvent associées à la vitalité et à la résilience, aidant à renforcer la détermination et l’énergie positive. Idéale pour les espaces zen ou les amateurs de décoration minérale, elle peut aussi servir de support méditatif pour se reconnecter à la nature.",
               "photo": "images/articles/cactus-90-cm-h-mwah96mt7tta.jpg",
               "prixBoutique": 114.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI4gAaga4RvaUMgWd2a639",
+              "stripeProductId": "prod_VbNykwNyiic1Y0",
+              "stripePriceId": "price_1UaBCOLOfCA5mATuxJq0VT7a",
+              "stripeLinkId": "plink_1UaBCOLOfCA5mATueuOus4XU",
+              "stripePrix": 118.4,
+              "stripeMode": "live",
+              "stripeNom": "Cactus 90 cm H",
+              "stripeDesc": "Cette belle statuette de cactus en pierre naturelle apporte une touche décorative unique et organique à votre intérieur. Selon la lithothérapie, les pierres inspirées de plantes comme le cactus sont souvent associées à la vitalité et à la résilience, aidant à renforcer la détermination et l’énergie positive. Idéale pour les espaces zen ou les amateurs de décoration minérale, elle peut aussi servir de support méditatif pour se reconnecter à la nature.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

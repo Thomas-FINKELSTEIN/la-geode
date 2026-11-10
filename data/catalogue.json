@@ -34812,7 +34812,17 @@
               "description": "Cette lampe au cristal de roche brut diffuse une lumière douce et enveloppante, idéale pour créer une ambiance apaisante dans votre intérieur. Le cristal de roche est souvent associé à la purification de l’énergie et à l’harmonisation des émotions, favorisant ainsi la détente et la concentration. Parfait pour une décoration naturelle et spirituelle, il apporte une touche d’élégance minérale à votre espace de vie.",
               "photo": "images/articles/lampe-cristal-de-roche-brute-mwahao7h5q99.jpg",
               "prixBoutique": 139,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14AcN6fAu3Nr6EweO52a63a",
+              "stripeProductId": "prod_VbNzRtnMmTdezC",
+              "stripePriceId": "price_1UaBDWLOfCA5mATutsGyM4ze",
+              "stripeLinkId": "plink_1UaBDWLOfCA5mATunN72LneO",
+              "stripePrix": 143.93,
+              "stripeMode": "live",
+              "stripeNom": "Lampe cristal de roche brute",
+              "stripeDesc": "Cette lampe au cristal de roche brut diffuse une lumière douce et enveloppante, idéale pour créer une ambiance apaisante dans votre intérieur. Le cristal de roche est souvent associé à la purification de l’énergie et à l’harmonisation des émotions, favorisant ainsi la détente et la concentration. Parfait pour une décoration naturelle et spirituelle, il apporte une touche d’élégance minérale à votre espace de vie.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

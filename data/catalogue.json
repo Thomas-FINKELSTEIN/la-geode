@@ -10215,7 +10215,17 @@
               "description": "Cette pointe de quartz rose, d'une belle teinte douce et apaisante, est une pièce exceptionnelle pour équilibrer les énergies positives dans votre environnement. Le quartz rose est souvent utilisé en lithothérapie pour favoriser l'amour, la compassion et la guérison émotionnelle, aidant à apaiser le cœur et à renforcer les relations. Idéale pour les espaces de méditation ou comme objet décoratif bienveillant, elle diffuse une énergie harmonieuse et apaisante.",
               "photo": "images/articles/pointe-de-quartz-rose-2920-gr-18-cm-mwah2dzyqj7f.jpg",
               "prixBoutique": 296,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w7sM5ZUcjX9QI49r2a638",
+              "stripeProductId": "prod_VbNteSkmV5U45p",
+              "stripePriceId": "price_1UaB7ILOfCA5mATuuelXl7yW",
+              "stripeLinkId": "plink_1UaB7JLOfCA5mATu0VEb5oG5",
+              "stripePrix": 306.21,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de quartz rose 2920 gr 18 cm",
+              "stripeDesc": "Cette pointe de quartz rose, d'une belle teinte douce et apaisante, est une pièce exceptionnelle pour équilibrer les énergies positives dans votre environnement. Le quartz rose est souvent utilisé en lithothérapie pour favoriser l'amour, la compassion et la guérison émotionnelle, aidant à apaiser le cœur et à renforcer les relations. Idéale pour les espaces de méditation ou comme objet décoratif bienveillant, elle diffuse une énergie harmonieuse et apaisante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

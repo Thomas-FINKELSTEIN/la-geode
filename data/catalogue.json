@@ -36631,7 +36631,17 @@
               "description": "tortue argentée de décoration",
               "photo": "images/articles/tortue-de-decoration-mwaidt8umbt0.jpg",
               "prixBoutique": 9.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUcN6gEy6ZDbYQ0Xf2a63e",
+              "stripeProductId": "prod_VbOTItyPIxRioI",
+              "stripePriceId": "price_1UaBgyLOfCA5mATuBHtyRLSx",
+              "stripeLinkId": "plink_1UaBgyLOfCA5mATu7kOvw7k6",
+              "stripePrix": 10.08,
+              "stripeMode": "live",
+              "stripeNom": "Tortue de décoration",
+              "stripeDesc": "tortue argentée de décoration",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

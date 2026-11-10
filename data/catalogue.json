@@ -38640,7 +38640,17 @@
               "description": "Ce cadre bouddha sur deux panneaux imposants apporte une touche spirituelle et apaisante à votre intérieur. Symbole de sérénité et de sagesse, il est idéal pour créer une ambiance harmonieuse et propice à la méditation. Ses motifs détaillés et son aura mystique en font un objet décoratif unique, parfait pour les espaces dédiés au bien-être et à la connexion avec l'énergie positive.",
               "photo": "images/articles/cadre-bouddha-180-cm-h-x-60-cm-l-mwaga1uui7a9.jpg",
               "prixBoutique": 289,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU00k882es50g8cFX2a630",
+              "stripeProductId": "prod_VbNX1Iu46DT18Z",
+              "stripePriceId": "price_1UaAmVLOfCA5mATu805lthgM",
+              "stripeLinkId": "plink_1UaAmVLOfCA5mATuPkX42pHv",
+              "stripePrix": 298.97,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha 180 cm H x 60 cm l",
+              "stripeDesc": "Ce cadre bouddha sur deux panneaux imposants apporte une touche spirituelle et apaisante à votre intérieur. Symbole de sérénité et de sagesse, il est idéal pour créer une ambiance harmonieuse et propice à la méditation. Ses motifs détaillés et son aura mystique en font un objet décoratif unique, parfait pour les espaces dédiés au bien-être et à la connexion avec l'énergie positive.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

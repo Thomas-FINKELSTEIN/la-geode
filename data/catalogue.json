@@ -35635,7 +35635,17 @@
               "description": "Cette délicate statuette représente un ange aux traits doux et apaisants, souvent utilisé pour apporter sérénité et protection dans les espaces de vie. En lithothérapie, les figures angéliques sont associées à une énergie bienveillante, aidant à purifier les émotions et à renforcer la connexion spirituelle. Idéale pour décorer une étagère ou une table de chevet, elle diffuse une ambiance de douceur et d’harmonie.",
               "photo": "images/articles/ange-mwagknrxitsg.jpg",
               "prixBoutique": 21.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIdRaaga1Fjfb27lD2a633",
+              "stripeProductId": "prod_VbNfVHygs6yWYv",
+              "stripePriceId": "price_1UaAtwLOfCA5mATueJ0Kw4Kq",
+              "stripeLinkId": "plink_1UaAtwLOfCA5mATuLM7mkSUx",
+              "stripePrix": 22.49,
+              "stripeMode": "live",
+              "stripeNom": "Ange",
+              "stripeDesc": "Cette délicate statuette représente un ange aux traits doux et apaisants, souvent utilisé pour apporter sérénité et protection dans les espaces de vie. En lithothérapie, les figures angéliques sont associées à une énergie bienveillante, aidant à purifier les émotions et à renforcer la connexion spirituelle. Idéale pour décorer une étagère ou une table de chevet, elle diffuse une ambiance de douceur et d’harmonie.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

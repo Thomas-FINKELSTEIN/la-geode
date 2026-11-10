@@ -35807,7 +35807,17 @@
               "description": "Cette délicate statuette d'Ange en pierre blanche apporte une touche d'innocence et de pureté à votre intérieur. Selon les croyances en lithothérapie, elle est souvent associée à la protection, à la sérénité et à l'ouverture du cœur, aidant à apaiser les émotions et à renforcer la connexion spirituelle. Idéale pour décorer tout espace avec une énergie bienveillante et apaisante.",
               "photo": "images/articles/ange-mwakk4ngfqod.jpg",
               "prixBoutique": 9.9,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/14A5kEdsm5Vz2ogbBT2a63h",
+              "stripeProductId": "prod_VbPSErmcx16EL7",
+              "stripePriceId": "price_1UaCduLOfCA5mATuVVMCW32d",
+              "stripeLinkId": "plink_1UaCdvLOfCA5mATutJvFyhge",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Ange",
+              "stripeDesc": "Cette délicate statuette d'Ange en pierre blanche apporte une touche d'innocence et de pureté à votre intérieur. Selon les croyances en lithothérapie, elle est souvent associée à la protection, à la sérénité et à l'ouverture du cœur, aidant à apaiser les émotions et à renforcer la connexion spirituelle. Idéale pour décorer tout espace avec une énergie bienveillante et apaisante.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

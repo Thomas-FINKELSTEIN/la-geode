@@ -8972,7 +8972,17 @@
               "description": "L'obsidienne acajou est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur intuition et leur ancrage. Utilisée en lithothérapie pour apaiser les émotions et favoriser la protection énergétique, elle aide à libérer les blocages et à retrouver un équilibre intérieur. Son énergie puissante en fait un allié précieux pour les méditations et les rituels de purification.",
               "photo": "images/articles/obsidienne-acajou-mwadtg0wysa6.jpg",
               "prixBoutique": 5.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe6oI3RM1Fje6Y9tL2a62X",
+              "stripeProductId": "prod_VbMQrjISEWRJUy",
+              "stripePriceId": "price_1Ua9hILOfCA5mATuAyfu2X29",
+              "stripeLinkId": "plink_1Ua9hILOfCA5mATuCMu7MFTa",
+              "stripePrix": 6.26,
+              "stripeMode": "live",
+              "stripeNom": "Obsidienne acajou",
+              "stripeDesc": "L'obsidienne acajou est une pierre aux reflets profonds et mystérieux, idéale pour ceux qui cherchent à renforcer leur intuition et leur ancrage. Utilisée en lithothérapie pour apaiser les émotions et favoriser la protection énergétique, elle aide à libérer les blocages et à retrouver un équilibre intérieur. Son énergie puissante en fait un allié précieux pour les méditations et les rituels de purification.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

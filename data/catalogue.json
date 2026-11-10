@@ -10196,7 +10196,17 @@
               "description": "Cette pointe de quartz rose de 27 cm est une pièce élégante et énergétique, idéale pour harmoniser les espaces et apaiser les émotions. Le quartz rose est souvent utilisé en lithothérapie pour favoriser l’amour, la douceur et la compassion, aidant à ouvrir le cœur et à renforcer les liens. Son énergie apaisante en fait un allié précieux pour créer une ambiance sereine et bienveillante à la maison ou au bureau.",
               "photo": "images/articles/pointe-de-quartz-rose-27-cm-2195-gr-mwagz7dpdwx1.jpg",
               "prixBoutique": 224.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY14o2NIdo1gf65dv2a637",
+              "stripeProductId": "prod_VbNq3mRRfFcizz",
+              "stripePriceId": "price_1UaB4uLOfCA5mATu4a5XE3q1",
+              "stripeLinkId": "plink_1UaB4uLOfCA5mATusv8aFjHa",
+              "stripePrix": 232.72,
+              "stripeMode": "live",
+              "stripeNom": "Pointe de quartz rose 27 cm  2195 GR",
+              "stripeDesc": "Cette pointe de quartz rose de 27 cm est une pièce élégante et énergétique, idéale pour harmoniser les espaces et apaiser les émotions. Le quartz rose est souvent utilisé en lithothérapie pour favoriser l’amour, la douceur et la compassion, aidant à ouvrir le cœur et à renforcer les liens. Son énergie apaisante en fait un allié précieux pour créer une ambiance sereine et bienveillante à la maison ou au bureau.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

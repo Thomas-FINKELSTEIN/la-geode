@@ -34697,7 +34697,17 @@
               "description": "Cette lampe en sel gemme de 20 cm de hauteur diffuse une lumière douce et enveloppante, idéale pour créer une ambiance apaisante dans votre intérieur. Le sel, naturellement riche en minéraux, est réputé pour purifier l’énergie ambiante et favoriser la détente, aidant ainsi à réduire le stress et les tensions. Utilisée en lithothérapie, elle est souvent placée dans les chambres ou les espaces de travail pour équilibrer les émotions et améliorer la qualité du sommeil.",
               "photo": "images/articles/lampe-de-sel-20-cm-h-mwagikf1bu02.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B628s9c6cjX6Ew21j2a632",
+              "stripeProductId": "prod_VbNdJDTZcdEiVW",
+              "stripePriceId": "price_1UaAsNLOfCA5mATurouB6pZf",
+              "stripeLinkId": "plink_1UaAsOLOfCA5mATuqBoVRE8i",
+              "stripePrix": 20.83,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de sel 20 cm H",
+              "stripeDesc": "Cette lampe en sel gemme de 20 cm de hauteur diffuse une lumière douce et enveloppante, idéale pour créer une ambiance apaisante dans votre intérieur. Le sel, naturellement riche en minéraux, est réputé pour purifier l’énergie ambiante et favoriser la détente, aidant ainsi à réduire le stress et les tensions. Utilisée en lithothérapie, elle est souvent placée dans les chambres ou les espaces de travail pour équilibrer les émotions et améliorer la qualité du sommeil.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

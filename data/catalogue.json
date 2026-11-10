@@ -34417,7 +34417,17 @@
           "id": "fontaines",
           "nom": "Fontaines",
           "slogan": "Le ruissellement de l'eau pour la plénitude et la zénitude de votre intérieur.",
-          "articles": []
+          "articles": [
+            {
+              "id": "fontaine-anna-mwagrh596ty2",
+              "nom": "Fontaine Anna",
+              "prix": 33.86,
+              "description": "La Fontaine Anna est une statuette élégante et raffinée qui incarne une énergie apaisante et harmonieuse. Selon la lithothérapie, elle est souvent associée à la purification des émotions et à la connexion avec les éléments naturels pour favoriser un bien-être profond. Son design unique en fait une pièce de décoration idéale pour les espaces de méditation ou les lieux où l’on souhaite cultiver la sérénité.",
+              "photo": "images/articles/fontaine-anna-mwagrh5a5rb8.jpg",
+              "prixBoutique": 32.5,
+              "stock": 2
+            }
+          ]
         },
         {
           "id": "lampes-decoratives",

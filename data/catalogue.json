@@ -36736,7 +36736,17 @@
               "description": "Ce plateau en bois de couleur mangue apporte une touche douce et chaleureuse à votre intérieur. Idéal pour poser vos cristaux, encens ou petits objets de décoration, il diffuse une énergie apaisante et harmonieuse. Son design naturel et ses dimensions pratiques en font un accessoire polyvalent pour créer une ambiance bien-être dans votre espace.",
               "photo": "images/articles/plateau-vide-poche-mangue-20-5-x-20-5-mwddxukzu84b.jpg",
               "prixBoutique": 10.7,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/bJecN62NIbfT3skbBT2a63r",
+              "stripeProductId": "prod_Vc9EMplLdL9yhc",
+              "stripePriceId": "price_1UauwOLOfCA5mATudkDz6AJG",
+              "stripeLinkId": "plink_1UauwOLOfCA5mATu00lkuZv8",
+              "stripePrix": 11.32,
+              "stripeMode": "live",
+              "stripeNom": "Plateau vide poche mangue 20,5 x 20,5",
+              "stripeDesc": "Ce plateau en bois de couleur mangue apporte une touche douce et chaleureuse à votre intérieur. Idéal pour poser vos cristaux, encens ou petits objets de décoration, il diffuse une énergie apaisante et harmonieuse. Son design naturel et ses dimensions pratiques en font un accessoire polyvalent pour créer une ambiance bien-être dans votre espace.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

@@ -30135,7 +30135,17 @@
               "description": "Cette plaque en bois gravée d'un mandala est une pièce décorative et apaisante, souvent utilisée pour harmoniser les énergies d'un espace. En lithothérapie et en feng shui, les motifs géométriques comme celui-ci favorisent la concentration et l'équilibre émotionnel. Idéale pour méditer ou simplement embellir une pièce, elle apporte une touche de sérénité et de positivité au quotidien.",
               "photo": "images/articles/plaque-en-bois-mwde8l0opm16.jpg",
               "prixBoutique": 19.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/4gM7sM9c6es5aUM0Xf2a63s",
+              "stripeProductId": "prod_Vc9NyUREXG50Ze",
+              "stripePriceId": "price_1Uav4SLOfCA5mATuU1W7CkNs",
+              "stripeLinkId": "plink_1Uav4TLOfCA5mATuSMdprkib",
+              "stripePrix": 20.83,
+              "stripeMode": "live",
+              "stripeNom": "Plaque en bois",
+              "stripeDesc": "Cette plaque en bois gravée d'un mandala est une pièce décorative et apaisante, souvent utilisée pour harmoniser les énergies d'un espace. En lithothérapie et en feng shui, les motifs géométriques comme celui-ci favorisent la concentration et l'équilibre émotionnel. Idéale pour méditer ou simplement embellir une pièce, elle apporte une touche de sérénité et de positivité au quotidien.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

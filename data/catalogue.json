@@ -38993,7 +38993,17 @@
               "description": "Ce cadre décoratif représentant un bouddha en méditation apporte une touche de sérénité et de paix à votre intérieur. Associé traditionnellement à la tranquillité et à l'équilibre émotionnel, il est idéal pour créer une ambiance apaisante et favoriser la concentration. Parfait pour les espaces de détente ou de travail, il incarne une énergie positive et harmonieuse.",
               "photo": "images/articles/cadre-bouddha-mwdct4f2xaeq.jpg",
               "prixBoutique": 9.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm6oI73Y97Ld2UdK12a63n",
+              "stripeProductId": "prod_Vc8jreQ9GIBuLY",
+              "stripePriceId": "price_1UauRgLOfCA5mATujjTU3DEF",
+              "stripeLinkId": "plink_1UauRgLOfCA5mATuRt3ORFpw",
+              "stripePrix": 10.55,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha",
+              "stripeDesc": "Ce cadre décoratif représentant un bouddha en méditation apporte une touche de sérénité et de paix à votre intérieur. Associé traditionnellement à la tranquillité et à l'équilibre émotionnel, il est idéal pour créer une ambiance apaisante et favoriser la concentration. Parfait pour les espaces de détente ou de travail, il incarne une énergie positive et harmonieuse.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

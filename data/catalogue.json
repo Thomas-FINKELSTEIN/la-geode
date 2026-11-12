@@ -30211,7 +30211,17 @@
               "description": "Cette plaque en bois sculpté représente des motifs symboliques inspirés de la spiritualité et de la nature. Elle allie esthétique raffinée et énergie apaisante, souvent utilisée pour créer une ambiance harmonieuse dans un espace de méditation ou de détente. Ses symboles, comme le lotus et l’Om, sont traditionnellement associés à la purification, à la croissance spirituelle et à l’équilibre émotionnel.",
               "photo": "images/articles/plaque-en-bois-mwdf8etjobig.jpg",
               "prixBoutique": 19.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/9B63cw4VQes5gf60Xf2a63w",
+              "stripeProductId": "prod_Vc9p6272QcCOvn",
+              "stripePriceId": "price_1UavVRLOfCA5mATumqWKw1Qz",
+              "stripeLinkId": "plink_1UavVRLOfCA5mATug0Wfu8CA",
+              "stripePrix": 20.83,
+              "stripeMode": "live",
+              "stripeNom": "Plaque en bois",
+              "stripeDesc": "Cette plaque en bois sculpté représente des motifs symboliques inspirés de la spiritualité et de la nature. Elle allie esthétique raffinée et énergie apaisante, souvent utilisée pour créer une ambiance harmonieuse dans un espace de méditation ou de détente. Ses symboles, comme le lotus et l’Om, sont traditionnellement associés à la purification, à la croissance spirituelle et à l’équilibre émotionnel.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

@@ -36007,7 +36007,17 @@
               "description": "Cette statue en résine représente une figure dynamique et puissante, souvent utilisée pour symboliser la maîtrise de soi et l'équilibre énergétique. En lithothérapie et décoration spirituelle, elle est appréciée pour son influence sur la confiance en soi et la vitalité. Elle s’intègre parfaitement dans un espace dédié à la méditation ou comme élément décoratif inspirant.",
               "photo": "images/articles/statue-en-resine-29-x-16-x-33-mwdrtma3uqqk.jpg",
               "prixBoutique": 42.4,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ3cwewqfw91kccFX2a63F",
+              "stripeProductId": "prod_VcFVrAJW29xbG8",
+              "stripePriceId": "price_1Ub10QLOfCA5mATuab6VrFJV",
+              "stripeLinkId": "plink_1Ub10QLOfCA5mATuKqqaVcHs",
+              "stripePrix": 44.09,
+              "stripeMode": "live",
+              "stripeNom": "Statue en résine 29 x 16 x 33",
+              "stripeDesc": "Cette statue en résine représente une figure dynamique et puissante, souvent utilisée pour symboliser la maîtrise de soi et l'équilibre énergétique. En lithothérapie et décoration spirituelle, elle est appréciée pour son influence sur la confiance en soi et la vitalité. Elle s’intègre parfaitement dans un espace dédié à la méditation ou comme élément décoratif inspirant.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

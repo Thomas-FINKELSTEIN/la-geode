@@ -36945,7 +36945,17 @@
               "description": "Cette bouteille en verre teinté d’un bleu profond et enveloppée de corde naturelle apporte une touche rustique et mystique à votre intérieur. Traditionnellement utilisée pour créer une ambiance apaisante, elle peut aussi servir de support pour une LED, diffusant une douce lumière relaxante propice à la méditation et au bien-être. Son design unique en fait un objet décoratif à la fois esthétique et porteur d’une énergie calme et équilibrante.",
               "photo": "images/articles/bouteille-en-verre-a-led-mwdsaxlv8kfb.jpg",
               "prixBoutique": 12.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU6oI2NIes5d2U0Xf2a63H",
+              "stripeProductId": "prod_VcFiyHyP78rpba",
+              "stripePriceId": "price_1Ub1DSLOfCA5mATuaEMipdc6",
+              "stripeLinkId": "plink_1Ub1DTLOfCA5mATuGrHlnrL9",
+              "stripePrix": 13.6,
+              "stripeMode": "live",
+              "stripeNom": "Bouteille en verre à led",
+              "stripeDesc": "Cette bouteille en verre teinté d’un bleu profond et enveloppée de corde naturelle apporte une touche rustique et mystique à votre intérieur. Traditionnellement utilisée pour créer une ambiance apaisante, elle peut aussi servir de support pour une LED, diffusant une douce lumière relaxante propice à la méditation et au bien-être. Son design unique en fait un objet décoratif à la fois esthétique et porteur d’une énergie calme et équilibrante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

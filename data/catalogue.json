@@ -36926,7 +36926,17 @@
               "description": "Cette bouteille décorative à LED diffuse une lumière douce et apaisante, idéale pour créer une ambiance chaleureuse dans votre intérieur. Les fils lumineux intégrés apportent une touche d’élégance et de sérénité, tout en symbolisant une énergie positive et harmonieuse. Parfaite pour une décoration zen ou comme élément central dans un espace de détente, elle peut aussi servir de support pour des rituels de méditation ou de relaxation.",
               "photo": "images/articles/bouteille-verre-a-led-mwds6ffeusox.jpg",
               "prixBoutique": 12.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/dRm8wQ4VQbfTbYQ5dv2a63G",
+              "stripeProductId": "prod_VcFf7Mn4K5rq9p",
+              "stripePriceId": "price_1Ub1A7LOfCA5mATuLhfOa1HD",
+              "stripeLinkId": "plink_1Ub1A7LOfCA5mATudpQnJbml",
+              "stripePrix": 13.6,
+              "stripeMode": "live",
+              "stripeNom": "Bouteille verre à led",
+              "stripeDesc": "Cette bouteille décorative à LED diffuse une lumière douce et apaisante, idéale pour créer une ambiance chaleureuse dans votre intérieur. Les fils lumineux intégrés apportent une touche d’élégance et de sérénité, tout en symbolisant une énergie positive et harmonieuse. Parfaite pour une décoration zen ou comme élément central dans un espace de détente, elle peut aussi servir de support pour des rituels de méditation ou de relaxation.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

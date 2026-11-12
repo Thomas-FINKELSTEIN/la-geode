@@ -30154,7 +30154,17 @@
               "description": "Cette plaque en bois sculpté représente un motif symbolique inspiré des énergies universelles et de l'équilibre. Elle est idéale pour décorer votre espace tout en apportant une touche de sérénité et de connexion spirituelle. En lithothérapie et symbolisme, les formes géométriques et les motifs comme celui-ci sont souvent associés à la protection, à la méditation et à l'harmonisation des énergies.",
               "photo": "images/articles/plaque-en-bois-mwdek57cckgo.jpg",
               "prixBoutique": 19.9,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/cNi8wQ4VQ83H0g8dK12a63t",
+              "stripeProductId": "prod_Vc9WzrrUwTYlGG",
+              "stripePriceId": "price_1UavD8LOfCA5mATuenGixC3G",
+              "stripeLinkId": "plink_1UavD8LOfCA5mATuBMlE0UsB",
+              "stripePrix": 20.83,
+              "stripeMode": "live",
+              "stripeNom": "Plaque en bois",
+              "stripeDesc": "Cette plaque en bois sculpté représente un motif symbolique inspiré des énergies universelles et de l'équilibre. Elle est idéale pour décorer votre espace tout en apportant une touche de sérénité et de connexion spirituelle. En lithothérapie et symbolisme, les formes géométriques et les motifs comme celui-ci sont souvent associés à la protection, à la méditation et à l'harmonisation des énergies.",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         },

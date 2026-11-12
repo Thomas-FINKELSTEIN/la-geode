@@ -30230,7 +30230,17 @@
               "description": "Cette petite plaque en bois de 10 cm est une pièce décorative raffinée, inspirée par les motifs géométriques sacrés souvent utilisés pour harmoniser les espaces. Selon la lithothérapie et les croyances énergétiques, les formes symétriques et les motifs répétitifs aident à équilibrer les énergies positives dans un lieu. Parfaite pour sublimer une étagère, une table ou un mur, elle apporte une touche apaisante et élégante à votre intérieur.",
               "photo": "images/articles/petite-plaque-en-bois-10-cm-mwdfau20h3kg.jpg",
               "prixBoutique": 16.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/5kQ6oI3RM97L6EweO52a63x",
+              "stripeProductId": "prod_Vc9qjCioMNqcAl",
+              "stripePriceId": "price_1UavXELOfCA5mATuZiQdU8m6",
+              "stripeLinkId": "plink_1UavXELOfCA5mATuFwjyCL8X",
+              "stripePrix": 17.73,
+              "stripeMode": "live",
+              "stripeNom": "Petite plaque en bois 10 cm",
+              "stripeDesc": "Cette petite plaque en bois de 10 cm est une pièce décorative raffinée, inspirée par les motifs géométriques sacrés souvent utilisés pour harmoniser les espaces. Selon la lithothérapie et les croyances énergétiques, les formes symétriques et les motifs répétitifs aident à équilibrer les énergies positives dans un lieu. Parfaite pour sublimer une étagère, une table ou un mur, elle apporte une touche apaisante et élégante à votre intérieur.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

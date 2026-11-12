@@ -35012,7 +35012,17 @@
               "description": "Cette lampe décorative en forme de rose apporte une touche douce et romantique à votre intérieur. La lumière chaude émise favorise une ambiance apaisante et réconfortante, idéale pour se détendre après une longue journée. En lithothérapie, la rose est souvent associée à l’amour, à la paix émotionnelle et à la guérison du cœur, ce qui en fait un choix parfait pour cultiver un espace harmonieux et bienveillant.",
               "photo": "images/articles/lampe-en-forme-de-rose-mwdnb8uyei6l.jpg",
               "prixBoutique": 64.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/28E14o1JEdo19QIcFX2a63z",
+              "stripeProductId": "prod_VcDToyuUX9wQMo",
+              "stripePriceId": "price_1Uaz2ELOfCA5mATuQ965MbaA",
+              "stripeLinkId": "plink_1Uaz2ELOfCA5mATuGmF3dJJF",
+              "stripePrix": 67.34,
+              "stripeMode": "live",
+              "stripeNom": "Lampe en forme de rose",
+              "stripeDesc": "Cette lampe décorative en forme de rose apporte une touche douce et romantique à votre intérieur. La lumière chaude émise favorise une ambiance apaisante et réconfortante, idéale pour se détendre après une longue journée. En lithothérapie, la rose est souvent associée à l’amour, à la paix émotionnelle et à la guérison du cœur, ce qui en fait un choix parfait pour cultiver un espace harmonieux et bienveillant.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

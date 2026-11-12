@@ -34993,7 +34993,17 @@
               "description": "Cette lampe originale allie élégance et symbolisme fort grâce à sa base sculptée en forme de rhinocéros. En lithothérapie, le rhinocéros est souvent associé à la protection, la force intérieure et la détermination, aidant à renforcer la confiance en soi et à surmonter les défis émotionnels. Son ambiance chaleureuse et sa lumière douce en font un objet décoratif unique pour sublimer votre intérieur tout en vous entourant d’une énergie positive.",
               "photo": "images/articles/lampe-rhinoceros-mwdn7754e016.jpg",
               "prixBoutique": 49.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNieVe1JE1Fj6EwfS92a63y",
+              "stripeProductId": "prod_VcDPAcieXFY1I9",
+              "stripePriceId": "price_1Uayz8LOfCA5mATupsmw7ZUX",
+              "stripeLinkId": "plink_1Uayz8LOfCA5mATuVo8Drz35",
+              "stripePrix": 51.89,
+              "stripeMode": "live",
+              "stripeNom": "Lampe rhinocéros",
+              "stripeDesc": "Cette lampe originale allie élégance et symbolisme fort grâce à sa base sculptée en forme de rhinocéros. En lithothérapie, le rhinocéros est souvent associé à la protection, la force intérieure et la détermination, aidant à renforcer la confiance en soi et à surmonter les défis émotionnels. Son ambiance chaleureuse et sa lumière douce en font un objet décoratif unique pour sublimer votre intérieur tout en vous entourant d’une énergie positive.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

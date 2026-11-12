@@ -30173,7 +30173,17 @@
               "description": "Cette plaque en bois gravée de motifs inspirés de symboles énergétiques apporte une touche d'harmonie et de sérénité à votre intérieur. Les motifs en spirales et en fleurs sont souvent associés à l'équilibre des énergies et à la connexion avec la nature, favorisant ainsi un environnement apaisant. Idéale pour décorer une table, un bureau ou un espace méditatif, elle invite à la contemplation et au bien-être au quotidien.",
               "photo": "images/articles/plaque-en-bois-mwdezy7hy29o.jpg",
               "prixBoutique": 19.9,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/dRm5kE73Y1Fj5As5dv2a63u",
+              "stripeProductId": "prod_Vc9i49vWLpp6YP",
+              "stripePriceId": "price_1UavP3LOfCA5mATuSd2xg0CS",
+              "stripeLinkId": "plink_1UavP3LOfCA5mATuUtgq3zOq",
+              "stripePrix": 20.83,
+              "stripeMode": "live",
+              "stripeNom": "Plaque en bois",
+              "stripeDesc": "Cette plaque en bois gravée de motifs inspirés de symboles énergétiques apporte une touche d'harmonie et de sérénité à votre intérieur. Les motifs en spirales et en fleurs sont souvent associés à l'équilibre des énergies et à la connexion avec la nature, favorisant ainsi un environnement apaisant. Idéale pour décorer une table, un bureau ou un espace méditatif, elle invite à la contemplation et au bien-être au quotidien.",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         },

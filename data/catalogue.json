@@ -30192,7 +30192,17 @@
               "description": "Cette plaque en bois représente une Hamsa, un symbole puissant aux origines anciennes, souvent utilisé pour protéger et attirer la chance. Selon les traditions, ce talisman apporte une énergie positive, éloigne les mauvaises influences et renforce la confiance en soi. Idéal pour décorer votre intérieur tout en bénéficiant de ses vertus protectrices et harmonisantes.",
               "photo": "images/articles/plaque-en-bois-mwdf4bgrmgcd.jpg",
               "prixBoutique": 19.9,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/eVq28sbke97L5AsdK12a63v",
+              "stripeProductId": "prod_Vc9lfLPbzaxhkd",
+              "stripePriceId": "price_1UavSILOfCA5mATujjXoKInE",
+              "stripeLinkId": "plink_1UavSILOfCA5mATuM2HyeYMT",
+              "stripePrix": 20.83,
+              "stripeMode": "live",
+              "stripeNom": "Plaque en bois",
+              "stripeDesc": "Cette plaque en bois représente une Hamsa, un symbole puissant aux origines anciennes, souvent utilisé pour protéger et attirer la chance. Selon les traditions, ce talisman apporte une énergie positive, éloigne les mauvaises influences et renforce la confiance en soi. Idéal pour décorer votre intérieur tout en bénéficiant de ses vertus protectrices et harmonisantes.",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         },

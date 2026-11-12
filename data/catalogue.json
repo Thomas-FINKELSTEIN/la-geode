@@ -39031,7 +39031,17 @@
               "description": "Ce cadre représentant un bouddha en méditation apporte une touche de sérénité et d'harmonie à votre intérieur. Symbole universel de paix et de sagesse, il est idéal pour créer une ambiance apaisante dans votre espace de vie ou de travail. Parfait pour ceux qui recherchent un élément décoratif inspirant et porteur d'énergie positive.",
               "photo": "images/articles/cadre-bouddha-40-cm-x-40-cm-mwddlso91ir3.jpg",
               "prixBoutique": 9.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU7sM2NIdo1d2UdK12a63p",
+              "stripeProductId": "prod_Vc95shcbxjUdnJ",
+              "stripePriceId": "price_1UaunJLOfCA5mATuM39WkfwN",
+              "stripeLinkId": "plink_1UaunKLOfCA5mATuy1dja6cV",
+              "stripePrix": 10.55,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha 40 cm x 40 cm",
+              "stripeDesc": "Ce cadre représentant un bouddha en méditation apporte une touche de sérénité et d'harmonie à votre intérieur. Symbole universel de paix et de sagesse, il est idéal pour créer une ambiance apaisante dans votre espace de vie ou de travail. Parfait pour ceux qui recherchent un élément décoratif inspirant et porteur d'énergie positive.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

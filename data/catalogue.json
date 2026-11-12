@@ -35836,7 +35836,17 @@
               "description": "Cette statuette dorée en aluminium apporte une touche élégante et lumineuse à votre intérieur. Selon la lithothérapie, elle est souvent associée à une énergie positive et à une ambiance harmonieuse, favorisant la sérénité et l’équilibre émotionnel. Parfaite pour décorer tout espace, elle peut aussi servir de support méditatif pour apaiser le mental et renforcer la connexion à une énergie vibrante.",
               "photo": "images/articles/statuette-doree-aluminium-68-cm-h-x-40-c-mwddv0bbn782.jpg",
               "prixBoutique": 96.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa28sfAu83H3sk0Xf2a63q",
+              "stripeProductId": "prod_Vc9Ca2ydjtUfYB",
+              "stripePriceId": "price_1UauuILOfCA5mATuaLTBRwPG",
+              "stripeLinkId": "plink_1UauuILOfCA5mATuryFK0OKt",
+              "stripePrix": 100,
+              "stripeMode": "live",
+              "stripeNom": "Statuette dorée aluminium 68 cm H x 40 cm L",
+              "stripeDesc": "Cette statuette dorée en aluminium apporte une touche élégante et lumineuse à votre intérieur. Selon la lithothérapie, elle est souvent associée à une énergie positive et à une ambiance harmonieuse, favorisant la sérénité et l’équilibre émotionnel. Parfaite pour décorer tout espace, elle peut aussi servir de support méditatif pour apaiser le mental et renforcer la connexion à une énergie vibrante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

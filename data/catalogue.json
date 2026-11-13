@@ -10697,7 +10697,17 @@
               "description": "Cette agathe aux reflets dorés et aux motifs organiques captivants est une pierre naturelle aux multiples vertus apaisantes. En lithothérapie, elle est souvent utilisée pour renforcer la stabilité émotionnelle, favoriser la confiance en soi et apaiser les tensions du quotidien. Son énergie douce et équilibrante en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps.",
               "photo": "images/articles/agathe-mweu7q330jn3.jpg",
               "prixBoutique": 365,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w00kfAu2Jnfb249r2a63J",
+              "stripeProductId": "prod_VcWqsrcgWsCqCX",
+              "stripePriceId": "price_1UbHmTLOfCA5mATuwfiKhpyY",
+              "stripeLinkId": "plink_1UbHmTLOfCA5mATutZXGRAD1",
+              "stripePrix": 377.52,
+              "stripeMode": "live",
+              "stripeNom": "Agathe",
+              "stripeDesc": "Cette agathe aux reflets dorés et aux motifs organiques captivants est une pierre naturelle aux multiples vertus apaisantes. En lithothérapie, elle est souvent utilisée pour renforcer la stabilité émotionnelle, favoriser la confiance en soi et apaiser les tensions du quotidien. Son énergie douce et équilibrante en fait un allié précieux pour ceux qui cherchent à harmoniser leur esprit et leur corps.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

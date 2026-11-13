@@ -37325,7 +37325,17 @@
               "description": "Cette élégante statuette en forme d'éléphant doré incarne force, sagesse et protection selon les traditions. Symbole de loyauté et de patience, elle est souvent utilisée pour harmoniser les énergies du foyer et renforcer la détermination. Parfaite pour décorer tout espace avec une touche de bienveillance et de positivité.",
               "photo": "images/articles/elephant-doree-mwf2d6lutnug.jpg",
               "prixBoutique": 34.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/7sYaEY3RM1Fjd2UeO52a700",
+              "stripeProductId": "prod_VcaWOYL8lMqoJi",
+              "stripePriceId": "price_1UbLLNLOfCA5mATuyuOTXwmz",
+              "stripeLinkId": "plink_1UbLLNLOfCA5mATukYo5owZc",
+              "stripePrix": 36.34,
+              "stripeMode": "live",
+              "stripeNom": "Éléphant dorée",
+              "stripeDesc": "Cette élégante statuette en forme d'éléphant doré incarne force, sagesse et protection selon les traditions. Symbole de loyauté et de patience, elle est souvent utilisée pour harmoniser les énergies du foyer et renforcer la détermination. Parfaite pour décorer tout espace avec une touche de bienveillance et de positivité.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

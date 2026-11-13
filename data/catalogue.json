@@ -10263,7 +10263,17 @@
               "description": "Cette sphère en quartz rose de 20 cm de diamètre est une pièce majestueuse et apaisante, idéale pour harmoniser les énergies de votre espace. Le quartz rose est souvent utilisé en lithothérapie pour favoriser l'amour, la douceur et la compassion, aidant à apaiser les émotions et à renforcer la confiance en soi. Placez-la dans votre salon, chambre ou bureau pour diffuser une ambiance de sérénité et d'équilibre émotionnel.",
               "photo": "images/articles/sphere-en-quartz-rose-20-cm-d-mwf1p3vgjonj.jpg",
               "prixBoutique": 399,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU3cw4VQdo1fb2dK12a642",
+              "stripeProductId": "prod_VcaDIyfaL1Sdet",
+              "stripePriceId": "price_1UbL3BLOfCA5mATuK8riMlvv",
+              "stripeLinkId": "plink_1UbL3BLOfCA5mATuQf1hKDIe",
+              "stripePrix": 412.67,
+              "stripeMode": "live",
+              "stripeNom": "Sphère en quartz rose 20 cm D",
+              "stripeDesc": "Cette sphère en quartz rose de 20 cm de diamètre est une pièce majestueuse et apaisante, idéale pour harmoniser les énergies de votre espace. Le quartz rose est souvent utilisé en lithothérapie pour favoriser l'amour, la douceur et la compassion, aidant à apaiser les émotions et à renforcer la confiance en soi. Placez-la dans votre salon, chambre ou bureau pour diffuser une ambiance de sérénité et d'équilibre émotionnel.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

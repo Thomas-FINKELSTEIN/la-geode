@@ -39696,7 +39696,17 @@
               "description": "Ce cadre décoratif représente un bouddha apaisant, entouré d'éléments symboliques comme une fleur de lotus et des motifs inspirés de l'art asiatique. Idéal pour apporter sérénité et harmonie dans votre espace, il est souvent utilisé pour favoriser la méditation et la connexion à une énergie paisible. Parfait pour les amateurs de décoration spirituelle et de bien-être au quotidien.",
               "photo": "images/articles/cadre-bouddha-mwf2leca1a50.jpg",
               "prixBoutique": 6.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w4gA1JEabP9QI9tL2a702",
+              "stripeProductId": "prod_VcacshokNMy0rL",
+              "stripePriceId": "price_1UbLRULOfCA5mATumPCmpMyI",
+              "stripeLinkId": "plink_1UbLRULOfCA5mATurYz3KXvF",
+              "stripePrix": 7.19,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha",
+              "stripeDesc": "Ce cadre décoratif représente un bouddha apaisant, entouré d'éléments symboliques comme une fleur de lotus et des motifs inspirés de l'art asiatique. Idéal pour apporter sérénité et harmonie dans votre espace, il est souvent utilisé pour favoriser la méditation et la connexion à une énergie paisible. Parfait pour les amateurs de décoration spirituelle et de bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

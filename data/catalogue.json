@@ -37078,7 +37078,17 @@
               "description": "Ce vase en verre bleuté apporte une touche élégante et apaisante à votre intérieur. Son design simple et intemporel permet de sublimer les éléments naturels comme les fleurs ou les bougies. En lithothérapie, les tons bleutés sont souvent associés à la sérénité, à la paix intérieure et à une énergie apaisante, favorisant ainsi un environnement harmonieux et relaxant.",
               "photo": "images/articles/vase-en-verre-bleute-mwf0prtf27z2.jpg",
               "prixBoutique": 36.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFafZi0FA83H5As9tL2a63T",
+              "stripeProductId": "prod_VcZmaJJlB2ryaZ",
+              "stripePriceId": "price_1UbKceLOfCA5mATuaAGgF1DX",
+              "stripeLinkId": "plink_1UbKceLOfCA5mATuEuleNAHo",
+              "stripePrix": 38.4,
+              "stripeMode": "live",
+              "stripeNom": "Vase en verre bleuté",
+              "stripeDesc": "Ce vase en verre bleuté apporte une touche élégante et apaisante à votre intérieur. Son design simple et intemporel permet de sublimer les éléments naturels comme les fleurs ou les bougies. En lithothérapie, les tons bleutés sont souvent associés à la sérénité, à la paix intérieure et à une énergie apaisante, favorisant ainsi un environnement harmonieux et relaxant.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

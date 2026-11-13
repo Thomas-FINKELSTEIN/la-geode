@@ -10206,7 +10206,17 @@
               "description": "Ce Quartz rose brut est une pièce naturelle aux formes organiques et aux teintes douces, parfait pour apporter douceur et harmonie à votre intérieur. En lithothérapie, il est souvent utilisé pour favoriser l’ouverture du cœur, apaiser les émotions et renforcer les liens affectifs. Son énergie bienveillante en fait un allié idéal pour créer une ambiance sereine et positive.",
               "photo": "images/articles/quartz-rose-brut-15-cm-h-x-18-cm-l-mwf1df9wwnnc.jpg",
               "prixBoutique": 78,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi5kE3RM0Bfd2U35n2a63Z",
+              "stripeProductId": "prod_Vca4tCEbbcOO2B",
+              "stripePriceId": "price_1UbKuNLOfCA5mATuGLHQEz7e",
+              "stripeLinkId": "plink_1UbKuNLOfCA5mATuuK9BoGdM",
+              "stripePrix": 80.88,
+              "stripeMode": "live",
+              "stripeNom": "Quartz rose brut 15 cm H x 18 cm L",
+              "stripeDesc": "Ce Quartz rose brut est une pièce naturelle aux formes organiques et aux teintes douces, parfait pour apporter douceur et harmonie à votre intérieur. En lithothérapie, il est souvent utilisé pour favoriser l’ouverture du cœur, apaiser les émotions et renforcer les liens affectifs. Son énergie bienveillante en fait un allié idéal pour créer une ambiance sereine et positive.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

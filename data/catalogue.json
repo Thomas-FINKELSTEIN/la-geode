@@ -34751,7 +34751,17 @@
               "description": "Ce verre soufflé, délicatement posé sur un support en bois flotté, allie élégance et harmonie naturelle. Son design apaisant en fait un objet décoratif idéal pour sublimer un intérieur tout en invitant à la sérénité. En lithothérapie, les objets en verre soufflé sont souvent associés à la purification des énergies et à la connexion avec les éléments naturels, favorisant ainsi un bien-être profond et une ambiance paisible.",
               "photo": "images/articles/verre-souffle-sur-bois-flotte-mwf212em1ols.jpg",
               "prixBoutique": 39.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqdRabke2JnaUM35n2a646",
+              "stripeProductId": "prod_VcaMxtWKQAaMs7",
+              "stripePriceId": "price_1UbLCFLOfCA5mATuUkiJN1rG",
+              "stripeLinkId": "plink_1UbLCFLOfCA5mATutsJ61pkd",
+              "stripePrix": 41.09,
+              "stripeMode": "live",
+              "stripeNom": "Verre soufflé sur bois flotté",
+              "stripeDesc": "Ce verre soufflé, délicatement posé sur un support en bois flotté, allie élégance et harmonie naturelle. Son design apaisant en fait un objet décoratif idéal pour sublimer un intérieur tout en invitant à la sérénité. En lithothérapie, les objets en verre soufflé sont souvent associés à la purification des énergies et à la connexion avec les éléments naturels, favorisant ainsi un bien-être profond et une ambiance paisible.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

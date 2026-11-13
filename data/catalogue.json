@@ -30344,7 +30344,17 @@
               "description": "Coquille naturelle de saint Jacques, idéale pour recharger vos pierres et cristaux avec l'énergie positive des océans. Selon la lithothérapie, elle favorise l'ouverture du cœur, la protection et l'équilibre émotionnel. Parfaite pour les rituels de purification ou comme élément décoratif porteur de sérénité.",
               "photo": "images/articles/coquille-st-jacques-pour-rechargement-de-mwf1sxdktl3g.jpg",
               "prixBoutique": 10,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/6oUeVebkecjX7IA35n2a644",
+              "stripeProductId": "prod_VcaGdeUeHGRPdv",
+              "stripePriceId": "price_1UbL64LOfCA5mATufqFTVQX0",
+              "stripeLinkId": "plink_1UbL64LOfCA5mATuBQm6XHn8",
+              "stripePrix": 10.6,
+              "stripeMode": "live",
+              "stripeNom": "Coquille st jacques pour rechargement de pierres",
+              "stripeDesc": "Coquille naturelle de saint Jacques, idéale pour recharger vos pierres et cristaux avec l'énergie positive des océans. Selon la lithothérapie, elle favorise l'ouverture du cœur, la protection et l'équilibre émotionnel. Parfaite pour les rituels de purification ou comme élément décoratif porteur de sérénité.",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         },

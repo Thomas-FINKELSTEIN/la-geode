@@ -34618,7 +34618,17 @@
               "description": "Ce récipient en bois flotté, aux formes organiques et naturelles, est parfait pour accueillir vos pierres et cristaux préférés. Son énergie apaisante et chaleureuse en fait un objet idéal pour créer un espace harmonieux dans votre intérieur. Traditionnellement utilisé pour favoriser la détente et l'équilibre émotionnel, il peut aussi servir de support décoratif tout en amplifiant les propriétés des pierres qu'il contient.",
               "photo": "images/articles/recipient-en-bois-flotte-mwf12jswaywk.jpg",
               "prixBoutique": 39.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa3cw73YgAd0g8cFX2a63W",
+              "stripeProductId": "prod_VcZwh0JO7bdNzU",
+              "stripePriceId": "price_1UbKmDLOfCA5mATu7CCfeP1X",
+              "stripeLinkId": "plink_1UbKmDLOfCA5mATuCbVGGPRF",
+              "stripePrix": 41.56,
+              "stripeMode": "live",
+              "stripeNom": "Récipient en bois flotté",
+              "stripeDesc": "Ce récipient en bois flotté, aux formes organiques et naturelles, est parfait pour accueillir vos pierres et cristaux préférés. Son énergie apaisante et chaleureuse en fait un objet idéal pour créer un espace harmonieux dans votre intérieur. Traditionnellement utilisé pour favoriser la détente et l'équilibre émotionnel, il peut aussi servir de support décoratif tout en amplifiant les propriétés des pierres qu'il contient.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

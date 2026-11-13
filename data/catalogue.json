@@ -9933,7 +9933,17 @@
               "description": "Ce cristal de roche brut aux facettes naturelles et translucides est une pièce unique pleine d'énergie pure. Selon la lithothérapie, il amplifie les vibrations positives, favorise la clarté mentale et aide à harmoniser les émotions. Idéal pour purifier les espaces ou accompagner vos pratiques énergétiques au quotidien.",
               "photo": "images/articles/pointe-cristal-de-roche-brut-30x12-cm-mwf1idizslo4.jpg",
               "prixBoutique": 333.2,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2cN69c63Nr0g89tL2a640",
+              "stripeProductId": "prod_Vca8AGRIPCh7XQ",
+              "stripePriceId": "price_1UbKyCLOfCA5mATuDlS8mESe",
+              "stripeLinkId": "plink_1UbKyCLOfCA5mATuxgWWRR0L",
+              "stripePrix": 344.66,
+              "stripeMode": "live",
+              "stripeNom": "Pointe Cristal de roche brut 30x12 cm",
+              "stripeDesc": "Ce cristal de roche brut aux facettes naturelles et translucides est une pièce unique pleine d'énergie pure. Selon la lithothérapie, il amplifie les vibrations positives, favorise la clarté mentale et aide à harmoniser les émotions. Idéal pour purifier les espaces ou accompagner vos pratiques énergétiques au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

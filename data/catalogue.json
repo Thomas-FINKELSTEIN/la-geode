@@ -35088,7 +35088,17 @@
               "description": "Cette lampe au socle élégant en marbre diffuse une lumière douce et apaisante, idéale pour créer une ambiance chaleureuse dans votre intérieur. Le marbre, pierre naturelle aux propriétés harmonisantes, est souvent utilisé pour équilibrer les énergies et favoriser la sérénité. Parfait pour une décoration raffinée tout en apportant une touche de bien-être à votre espace de vie.",
               "photo": "images/articles/lampe-socle-en-marbre-mweujhgeggo3.jpg",
               "prixBoutique": 151.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFafZi2NIgAd0g85dv2a63N",
+              "stripeProductId": "prod_VcWzHEvlCUOY6J",
+              "stripePriceId": "price_1UbHvTLOfCA5mATu8BuxA5bZ",
+              "stripeLinkId": "plink_1UbHvTLOfCA5mATuaionSbmM",
+              "stripePrix": 157.32,
+              "stripeMode": "live",
+              "stripeNom": "Lampe socle en marbre",
+              "stripeDesc": "Cette lampe au socle élégant en marbre diffuse une lumière douce et apaisante, idéale pour créer une ambiance chaleureuse dans votre intérieur. Le marbre, pierre naturelle aux propriétés harmonisantes, est souvent utilisé pour équilibrer les énergies et favoriser la sérénité. Parfait pour une décoration raffinée tout en apportant une touche de bien-être à votre espace de vie.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

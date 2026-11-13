@@ -5738,7 +5738,17 @@
               "description": "Cette tour en spinelle de 34 cm de hauteur est une pièce majestueuse et énergétique, idéale pour équilibrer les espaces de vie. Le spinelle, pierre de vitalité et de passion, est souvent utilisé en lithothérapie pour stimuler la confiance en soi et renforcer la détermination. Son énergie dynamique en fait un allié précieux pour dynamiser votre environnement et renforcer votre motivation au quotidien.",
               "photo": "images/articles/tour-en-spinelle-34-cm-h-mwf1m5rzx6tv.jpg",
               "prixBoutique": 159.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa3cw5ZU5Vz2ogcFX2a641",
+              "stripeProductId": "prod_VcaB9R8DidMRj3",
+              "stripePriceId": "price_1UbL15LOfCA5mATu5eQPztfj",
+              "stripeLinkId": "plink_1UbL16LOfCA5mATu4ricDjcO",
+              "stripePrix": 165.22,
+              "stripeMode": "live",
+              "stripeNom": "Tour en spinelle 34 cm H",
+              "stripeDesc": "Cette tour en spinelle de 34 cm de hauteur est une pièce majestueuse et énergétique, idéale pour équilibrer les espaces de vie. Le spinelle, pierre de vitalité et de passion, est souvent utilisé en lithothérapie pour stimuler la confiance en soi et renforcer la détermination. Son énergie dynamique en fait un allié précieux pour dynamiser votre environnement et renforcer votre motivation au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

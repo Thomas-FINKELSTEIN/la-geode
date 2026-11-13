@@ -37306,7 +37306,17 @@
               "description": "Cette décoration en résine représente trois angelots réunis, symbolisant l'harmonie, la protection et l'amour inconditionnel. Parfaitement adaptée pour une ambiance apaisante et positive, elle apporte une touche de douceur et de bienveillance à votre intérieur. Idéale pour les espaces de méditation ou les chambres d'enfants, elle diffuse une énergie rassurante et inspirante.",
               "photo": "images/articles/decoration-en-resine-29x12x20-cm-mwf28nkluipm.jpg",
               "prixBoutique": 38.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu5kEfAudo14wo21j2a647",
+              "stripeProductId": "prod_VcaSFF2ebIasKM",
+              "stripePriceId": "price_1UbLHtLOfCA5mATu9cTlKv2M",
+              "stripeLinkId": "plink_1UbLHuLOfCA5mATu6PNkayOb",
+              "stripePrix": 40.47,
+              "stripeMode": "live",
+              "stripeNom": "Décoration en résine 29x12x20 cm",
+              "stripeDesc": "Cette décoration en résine représente trois angelots réunis, symbolisant l'harmonie, la protection et l'amour inconditionnel. Parfaitement adaptée pour une ambiance apaisante et positive, elle apporte une touche de douceur et de bienveillance à votre intérieur. Idéale pour les espaces de méditation ou les chambres d'enfants, elle diffuse une énergie rassurante et inspirante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

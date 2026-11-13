@@ -34732,7 +34732,17 @@
               "description": "Ce récipient en teck, au bois chaleureux et aux veines naturelles, apporte une touche d'élégance et de sérénité à votre intérieur. Le teck est souvent utilisé pour ses propriétés apaisantes et son énergie stabilisatrice, favorisant un environnement harmonieux et équilibré. Idéal pour y déposer des pierres, des cristaux ou simplement pour une décoration naturelle et intemporelle.",
               "photo": "images/articles/recipient-en-teck-mwf1uprsw5t1.jpg",
               "prixBoutique": 69.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFafZi3RMes5bYQ0Xf2a645",
+              "stripeProductId": "prod_VcaHjvrtnqJEeB",
+              "stripePriceId": "price_1UbL7QLOfCA5mATu3h1qC3Jg",
+              "stripeLinkId": "plink_1UbL7QLOfCA5mATuP4fbFo8h",
+              "stripePrix": 72.51,
+              "stripeMode": "live",
+              "stripeNom": "Récipient en teck",
+              "stripeDesc": "Ce récipient en teck, au bois chaleureux et aux veines naturelles, apporte une touche d'élégance et de sérénité à votre intérieur. Le teck est souvent utilisé pour ses propriétés apaisantes et son énergie stabilisatrice, favorisant un environnement harmonieux et équilibré. Idéal pour y déposer des pierres, des cristaux ou simplement pour une décoration naturelle et intemporelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

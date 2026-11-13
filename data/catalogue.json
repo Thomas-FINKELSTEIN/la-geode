@@ -37344,7 +37344,17 @@
               "description": "Cette décoration en bois et aluminium allie élégance et symbolisme pour dynamiser votre espace. Sa forme unique évoque un mouvement harmonieux, souvent associé à l'énergie vitale et à la fluidité émotionnelle en lithothérapie. Idéale pour apporter une touche artistique et apaisante à votre intérieur, elle stimule également la créativité et l'équilibre intérieur.",
               "photo": "images/articles/decoration-bois-et-aluminium-mwf2h2pgwxb7.jpg",
               "prixBoutique": 55.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm5kEdsmfw97IA5dv2a701",
+              "stripeProductId": "prod_VcaZLct0BYYFNO",
+              "stripePriceId": "price_1UbLOJLOfCA5mATuwOd6Z962",
+              "stripeLinkId": "plink_1UbLOJLOfCA5mATuRvNyuUBK",
+              "stripePrix": 57.73,
+              "stripeMode": "live",
+              "stripeNom": "Décoration bois et aluminium",
+              "stripeDesc": "Cette décoration en bois et aluminium allie élégance et symbolisme pour dynamiser votre espace. Sa forme unique évoque un mouvement harmonieux, souvent associé à l'énergie vitale et à la fluidité émotionnelle en lithothérapie. Idéale pour apporter une touche artistique et apaisante à votre intérieur, elle stimule également la créativité et l'équilibre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

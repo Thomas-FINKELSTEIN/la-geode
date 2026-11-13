@@ -35050,7 +35050,17 @@
               "description": "Cette lampe en gemme de sel diffuse une lumière douce et apaisante, idéale pour créer une ambiance chaleureuse et relaxante dans votre intérieur. La gemme de sel est souvent utilisée en lithothérapie pour purifier l’énergie ambiante, favoriser la détente et équilibrer les émotions. Son éclairage naturel et ses propriétés harmonisantes en font un allié précieux pour le bien-être au quotidien.",
               "photo": "images/articles/lampe-en-gemme-de-sel-mweudsjfg2a0.jpg",
               "prixBoutique": 69,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqfZicoi83Hfb27lD2a63L",
+              "stripeProductId": "prod_VcWv39driPnKoE",
+              "stripePriceId": "price_1UbHrALOfCA5mATuB9RUo1Sk",
+              "stripeLinkId": "plink_1UbHrALOfCA5mATubNCaAfYH",
+              "stripePrix": 71.58,
+              "stripeMode": "live",
+              "stripeNom": "Lampe en gemme de sel",
+              "stripeDesc": "Cette lampe en gemme de sel diffuse une lumière douce et apaisante, idéale pour créer une ambiance chaleureuse et relaxante dans votre intérieur. La gemme de sel est souvent utilisée en lithothérapie pour purifier l’énergie ambiante, favoriser la détente et équilibrer les émotions. Son éclairage naturel et ses propriétés harmonisantes en font un allié précieux pour le bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

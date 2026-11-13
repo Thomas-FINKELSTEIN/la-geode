@@ -11252,7 +11252,17 @@
               "description": "Cette géode de jaspe orbiculaire est une pièce naturelle fascinante aux motifs concentriques uniques, rappelant les cercles de la vie. En lithothérapie, le jaspe orbiculaire est souvent associé à l'équilibre émotionnel et à la stabilité, aidant à apaiser les tensions et à renforcer la confiance en soi. Son énergie douce et ancrée en fait un allié précieux pour ceux qui cherchent à harmoniser leur quotidien et à cultiver la sérénité.",
               "photo": "images/articles/jaspe-orbiculaire-geode-mweubdmu61l2.jpg",
               "prixBoutique": 504.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E14oewqdo15As5dv2a63K",
+              "stripeProductId": "prod_VcWtb73csl7kdT",
+              "stripePriceId": "price_1UbHpFLOfCA5mATurTGIzrwb",
+              "stripeLinkId": "plink_1UbHpFLOfCA5mATupcGf5I2z",
+              "stripePrix": 521.92,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe orbiculaire Géode",
+              "stripeDesc": "Cette géode de jaspe orbiculaire est une pièce naturelle fascinante aux motifs concentriques uniques, rappelant les cercles de la vie. En lithothérapie, le jaspe orbiculaire est souvent associé à l'équilibre émotionnel et à la stabilité, aidant à apaiser les tensions et à renforcer la confiance en soi. Son énergie douce et ancrée en fait un allié précieux pour ceux qui cherchent à harmoniser leur quotidien et à cultiver la sérénité.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

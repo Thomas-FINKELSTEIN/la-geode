@@ -37116,7 +37116,17 @@
               "description": "Cette statuaire de cactus en résine apporte une touche décorative naturelle et apaisante à votre intérieur. En lithothérapie, les cactus sont souvent associés à la protection énergétique et à la stabilité émotionnelle, aidant à ancrer les énergies positives. Idéal pour les espaces de méditation ou les collections de pierres décoratives, il symbolise également la résilience et la force.",
               "photo": "images/articles/cactus-en-resine-mwf0vplyazsn.jpg",
               "prixBoutique": 137.4,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A9AU0FAes59QI7lD2a63V",
+              "stripeProductId": "prod_VcZqqSCrSYxWDs",
+              "stripePriceId": "price_1UbKh5LOfCA5mATunkgw46Ss",
+              "stripeLinkId": "plink_1UbKh5LOfCA5mATuI3NLqENy",
+              "stripePrix": 142.28,
+              "stripeMode": "live",
+              "stripeNom": "Cactus en résine",
+              "stripeDesc": "Cette statuaire de cactus en résine apporte une touche décorative naturelle et apaisante à votre intérieur. En lithothérapie, les cactus sont souvent associés à la protection énergétique et à la stabilité émotionnelle, aidant à ancrer les énergies positives. Idéal pour les espaces de méditation ou les collections de pierres décoratives, il symbolise également la résilience et la force.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

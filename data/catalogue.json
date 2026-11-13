@@ -35069,7 +35069,17 @@
               "description": "Cette lampe de sel Himalaya diffuse une lumière douce et apaisante, idéale pour créer une ambiance relaxante dans votre intérieur. Le sel rose naturel est réputé pour purifier l’énergie ambiante, réduire le stress et favoriser un sommeil réparateur. Utilisée en lithothérapie, elle est souvent placée dans les chambres ou les espaces de travail pour équilibrer les émotions et apporter une sensation de bien-être immédiat.",
               "photo": "images/articles/lampe-de-sel-mweufk82ricu.jpg",
               "prixBoutique": 59,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w4gA3RMfw9d2U5dv2a63M",
+              "stripeProductId": "prod_VcWwiDJL9mbA9C",
+              "stripePriceId": "price_1UbHsOLOfCA5mATuLb4xYK7X",
+              "stripeLinkId": "plink_1UbHsOLOfCA5mATuvbSsrBV1",
+              "stripePrix": 61.25,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de sel",
+              "stripeDesc": "Cette lampe de sel Himalaya diffuse une lumière douce et apaisante, idéale pour créer une ambiance relaxante dans votre intérieur. Le sel rose naturel est réputé pour purifier l’énergie ambiante, réduire le stress et favoriser un sommeil réparateur. Utilisée en lithothérapie, elle est souvent placée dans les chambres ou les espaces de travail pour équilibrer les émotions et apporter une sensation de bien-être immédiat.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

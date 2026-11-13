@@ -35107,7 +35107,17 @@
               "description": "Cette lampe en métal aux lignes géométriques et élégantes apporte une touche moderne et artistique à votre espace. Ses formes structurées et son design épuré en font un objet décoratif polyvalent, idéal pour éclairer tout en dynamisant l’énergie ambiante. Parfait pour les amateurs de décoration minimaliste, elle peut aussi servir de support symbolique pour harmoniser les vibrations d’une pièce selon les principes de la lithothérapie.",
               "photo": "images/articles/lampe-en-metal-40x40x92-cm-mwf0ho0ygo75.jpg",
               "prixBoutique": 219.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM6oIcoies5fb2cFX2a63R",
+              "stripeProductId": "prod_VcZfXNdOFRqkJi",
+              "stripePriceId": "price_1UbKWZLOfCA5mATuJz8rr95t",
+              "stripeLinkId": "plink_1UbKWZLOfCA5mATuUf4LCSPs",
+              "stripePrix": 227.6,
+              "stripeMode": "live",
+              "stripeNom": "Lampe en métal 40x40x92 cm",
+              "stripeDesc": "Cette lampe en métal aux lignes géométriques et élégantes apporte une touche moderne et artistique à votre espace. Ses formes structurées et son design épuré en font un objet décoratif polyvalent, idéal pour éclairer tout en dynamisant l’énergie ambiante. Parfait pour les amateurs de décoration minimaliste, elle peut aussi servir de support symbolique pour harmoniser les vibrations d’une pièce selon les principes de la lithothérapie.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -35126,7 +35126,17 @@
               "description": "Cette lampe tête de bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Symbole de paix et de méditation, elle diffuse une lumière douce et apaisante, idéale pour créer une ambiance propice à la détente et à la concentration. Parfaite pour les espaces de relaxation ou de travail, elle incarne l'énergie positive et la sagesse.",
               "photo": "images/articles/lampe-tete-de-bouddha-mwf0lwrb7sfo.jpg",
               "prixBoutique": 91.95,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/5kQ3cw8826ZDd2UgWd2a63S",
+              "stripeProductId": "prod_VcZjT2sWPN6zyv",
+              "stripePriceId": "price_1UbKZhLOfCA5mATujH8t0f4e",
+              "stripeLinkId": "plink_1UbKZhLOfCA5mATuIRy0ingx",
+              "stripePrix": 95.3,
+              "stripeMode": "live",
+              "stripeNom": "Lampe tête de bouddha",
+              "stripeDesc": "Cette lampe tête de bouddha apporte une touche de sérénité et d'harmonie à votre intérieur. Symbole de paix et de méditation, elle diffuse une lumière douce et apaisante, idéale pour créer une ambiance propice à la détente et à la concentration. Parfaite pour les espaces de relaxation ou de travail, elle incarne l'énergie positive et la sagesse.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

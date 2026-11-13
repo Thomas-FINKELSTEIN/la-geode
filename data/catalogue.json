@@ -10550,7 +10550,17 @@
               "description": "Cette géode d'améthyste impressionnante est une pièce majestueuse aux cristaux violets profonds et lumineux. Associée à la sérénité et à l'équilibre émotionnel, elle est idéale pour apaiser l'esprit et favoriser un sommeil réparateur. En lithothérapie, elle est souvent utilisée pour renforcer la concentration et purifier les énergies environnantes.",
               "photo": "images/articles/amethyste-11x20x8-geode-3-400-kg-mweuqry373j6.jpg",
               "prixBoutique": 89,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6dRa3RMabPaUM5dv2a63O",
+              "stripeProductId": "prod_VcX4HcTGRImTVp",
+              "stripePriceId": "price_1UbI0nLOfCA5mATuS2ztYRVi",
+              "stripeLinkId": "plink_1UbI0oLOfCA5mATun0Q95ZUh",
+              "stripePrix": 92.25,
+              "stripeMode": "live",
+              "stripeNom": "Améthyste 11x20x8 géode 3,400 kg",
+              "stripeDesc": "Cette géode d'améthyste impressionnante est une pièce majestueuse aux cristaux violets profonds et lumineux. Associée à la sérénité et à l'équilibre émotionnel, elle est idéale pour apaiser l'esprit et favoriser un sommeil réparateur. En lithothérapie, elle est souvent utilisée pour renforcer la concentration et purifier les énergies environnantes.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

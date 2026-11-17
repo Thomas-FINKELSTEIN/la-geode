@@ -33027,7 +33027,17 @@
               "description": "Le parfum Spiritual Sky White Musk est une eau de toilette raffinée inspirée par les énergies apaisantes et équilibrantes de la musc blanc. Traditionnellement associé à la sérénité et à l’harmonie émotionnelle, ce parfum aide à créer une atmosphère de calme et de bien-être autour de soi. Idéal pour les moments de détente ou pour accompagner vos pratiques énergétiques, il se diffuse facilement et laisse une trace olfactive enveloppante.",
               "photo": "images/articles/parfum-spiritual-sky-white-musk-mwkh5qbgihga.jpg",
               "prixBoutique": 13.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/00w5kE5ZU2Jn9QI7lD2a708",
+              "stripeProductId": "prod_Ve0St77HM41X7T",
+              "stripePriceId": "price_1UciRuLOfCA5mATu7lFNQCjw",
+              "stripeLinkId": "plink_1UciRvLOfCA5mATunMES1js6",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Parfum Spiritual sky white musk",
+              "stripeDesc": "Le parfum Spiritual Sky White Musk est une eau de toilette raffinée inspirée par les énergies apaisantes et équilibrantes de la musc blanc. Traditionnellement associé à la sérénité et à l’harmonie émotionnelle, ce parfum aide à créer une atmosphère de calme et de bien-être autour de soi. Idéal pour les moments de détente ou pour accompagner vos pratiques énergétiques, il se diffuse facilement et laisse une trace olfactive enveloppante.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

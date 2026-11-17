@@ -33065,7 +33065,17 @@
               "description": "Cette eau de toilette parfumée à la vanille et au thé vert Spiritual Sky est une invitation à l'apaisement et à la sérénité. Les notes de vanille apportent douceur et réconfort, tandis que le thé vert stimule l'énergie positive et favorise la clarté mentale. Idéale pour une touche olfactive relaxante au quotidien, elle s'accorde parfaitement avec les rituels de bien-être et les moments de détente.",
               "photo": "images/articles/eau-de-toilette-vanille-the-vert-spiritu-mwkuhjr0cj3h.jpg",
               "prixBoutique": 13.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/eVq28sbke83H4wo6hz2a70a",
+              "stripeProductId": "prod_Ve6U4Dmq8uaCkF",
+              "stripePriceId": "price_1UcoHTLOfCA5mATuZjgS4NaC",
+              "stripeLinkId": "plink_1UcoHULOfCA5mATuPzxxvGKQ",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Eau de toilette vanille thé vert spiritual sky",
+              "stripeDesc": "Cette eau de toilette parfumée à la vanille et au thé vert Spiritual Sky est une invitation à l'apaisement et à la sérénité. Les notes de vanille apportent douceur et réconfort, tandis que le thé vert stimule l'énergie positive et favorise la clarté mentale. Idéale pour une touche olfactive relaxante au quotidien, elle s'accorde parfaitement avec les rituels de bien-être et les moments de détente.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

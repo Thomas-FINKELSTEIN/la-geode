@@ -33008,7 +33008,17 @@
               "description": "Eau de toilette aux notes boisées et épicées, inspirée par l’harmonie du santal. Ce parfum captivant allie douceur et énergie pour apaiser le corps et l’esprit, tout en évoquant une sensation de chaleur et de réconfort. Idéal pour une touche sensuelle et enveloppante au quotidien, il s’accorde parfaitement avec les rituels de bien-être et les moments de détente.",
               "photo": "images/articles/eau-de-toilette-spiritual-sky-santal-epi-mwkh3fo2pk5a.jpg",
               "prixBoutique": 13.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZudRa73Y5Vz5As5dv2a707",
+              "stripeProductId": "prod_Ve0Rh70xwOGUd7",
+              "stripePriceId": "price_1UciQALOfCA5mATutRjgPzgB",
+              "stripeLinkId": "plink_1UciQBLOfCA5mATugrzI8Gbx",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Eau de toilette Spiritual sky santal épicé",
+              "stripeDesc": "Eau de toilette aux notes boisées et épicées, inspirée par l’harmonie du santal. Ce parfum captivant allie douceur et énergie pour apaiser le corps et l’esprit, tout en évoquant une sensation de chaleur et de réconfort. Idéal pour une touche sensuelle et enveloppante au quotidien, il s’accorde parfaitement avec les rituels de bien-être et les moments de détente.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

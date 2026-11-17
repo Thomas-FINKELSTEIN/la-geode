@@ -33046,7 +33046,17 @@
               "description": "Eau de toilette parfumée inspirée par les énergies apaisantes et équilibrantes du melon frangipanier. Ce parfum subtil et enveloppant est idéal pour une touche de douceur et de sérénité au quotidien. Traditionnellement associé à la détente et à l’harmonie émotionnelle, il est parfait pour une utilisation matinale ou en fin de journée pour se sentir enveloppé de bien-être.",
               "photo": "images/articles/eau-de-toilette-spiritual-sky-melon-mwktiktkqlee.jpg",
               "prixBoutique": 13.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM9AU8821FjaUMdK12a709",
+              "stripeProductId": "prod_Ve62LPbQZeMrJS",
+              "stripePriceId": "price_1UcnqXLOfCA5mATuUXrAKSdO",
+              "stripeLinkId": "plink_1UcnqXLOfCA5mATuU6BZP8qW",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Eau de toilette spiritual sky melon",
+              "stripeDesc": "Eau de toilette parfumée inspirée par les énergies apaisantes et équilibrantes du melon frangipanier. Ce parfum subtil et enveloppant est idéal pour une touche de douceur et de sérénité au quotidien. Traditionnellement associé à la détente et à l’harmonie émotionnelle, il est parfait pour une utilisation matinale ou en fin de journée pour se sentir enveloppé de bien-être.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

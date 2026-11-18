@@ -30318,7 +30318,17 @@
               "description": "Ces neuvaines dédiés à Notre-Dame du Grand Pouvoir sont parfaits pour allumer une ambiance de sérénité et de spiritualité dans votre espace. Traditionnellement utilisés pour purifier l'énergie et favoriser la concentration, ils sont idéaux pour les moments de méditation, de prière ou de réflexion. Leur parfum doux et enveloppant aide à apaiser l'esprit et à renforcer la connexion avec ses intentions profondes.",
               "photo": "images/articles/neuvaine-notre-dame-du-grand-pouvoir-mwmd2ucc2owc.jpg",
               "prixBoutique": 11.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/7sYdRabke6ZD0g8axP2a718",
+              "stripeProductId": "prod_VeV8aFRrkTI7NH",
+              "stripePriceId": "price_1UdC8DLOfCA5mATuDoajTrE8",
+              "stripeLinkId": "plink_1UdC8ELOfCA5mATudNuVobKg",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine notre dame du grand pouvoir",
+              "stripeDesc": "Ces neuvaines dédiés à Notre-Dame du Grand Pouvoir sont parfaits pour allumer une ambiance de sérénité et de spiritualité dans votre espace. Traditionnellement utilisés pour purifier l'énergie et favoriser la concentration, ils sont idéaux pour les moments de méditation, de prière ou de réflexion. Leur parfum doux et enveloppant aide à apaiser l'esprit et à renforcer la connexion avec ses intentions profondes.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

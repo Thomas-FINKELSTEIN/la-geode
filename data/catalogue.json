@@ -8063,7 +8063,17 @@
               "description": "Ces galets d'hématite brute aux reflets métalliques sombres captent l'attention par leur beauté naturelle et leur énergie puissante. En lithothérapie, l'hématite est souvent utilisée pour renforcer la volonté, équilibrer les émotions et ancrer l'énergie, aidant ainsi à rester centré et confiant. Elle est idéale pour ceux qui cherchent à harmoniser leur esprit et leur corps au quotidien.",
               "photo": "images/articles/hematite-brute-galets-mwlvll5am24r.jpg",
               "prixBoutique": 6,
-              "stock": 8
+              "stock": 8,
+              "stripe": "https://buy.stripe.com/aFa5kE1JEdo14wo6hz2a70r",
+              "stripeProductId": "prod_VeNFVztHGgFYj9",
+              "stripePriceId": "price_1Ud4UkLOfCA5mATuskO9Rejl",
+              "stripeLinkId": "plink_1Ud4UlLOfCA5mATuh6Jy57fi",
+              "stripePrix": 6.46,
+              "stripeMode": "live",
+              "stripeNom": "Hématite brute Galets",
+              "stripeDesc": "Ces galets d'hématite brute aux reflets métalliques sombres captent l'attention par leur beauté naturelle et leur énergie puissante. En lithothérapie, l'hématite est souvent utilisée pour renforcer la volonté, équilibrer les émotions et ancrer l'énergie, aidant ainsi à rester centré et confiant. Elle est idéale pour ceux qui cherchent à harmoniser leur esprit et leur corps au quotidien.",
+              "stripeStock": 8,
+              "epuise": false
             }
           ]
         },

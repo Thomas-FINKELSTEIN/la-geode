@@ -30185,7 +30185,17 @@
               "description": "Ces bougies votives dédiées à Notre-Dame de Fátima sont idéales pour les prières et les neuvaines. Elles symbolisent la lumière spirituelle et la protection, tout en créant une ambiance apaisante et sacrée. Utilisées traditionnellement pour honorer la Vierge Marie et renforcer la foi, elles apportent réconfort et sérénité dans les moments de recueillement.",
               "photo": "images/articles/neuvaine-notre-dame-de-fatima-mwmbsw7pead8.jpg",
               "prixBoutique": 11.9,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/9B67sMdsm1Fj7IA9tL2a70X",
+              "stripeProductId": "prod_VeUYw8JttGLVY9",
+              "stripePriceId": "price_1UdBZWLOfCA5mATuQWgTcOit",
+              "stripeLinkId": "plink_1UdBZWLOfCA5mATuDhwHiGo1",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine notre dame de fatima",
+              "stripeDesc": "Ces bougies votives dédiées à Notre-Dame de Fátima sont idéales pour les prières et les neuvaines. Elles symbolisent la lumière spirituelle et la protection, tout en créant une ambiance apaisante et sacrée. Utilisées traditionnellement pour honorer la Vierge Marie et renforcer la foi, elles apportent réconfort et sérénité dans les moments de recueillement.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

@@ -30196,6 +30196,15 @@
               "stripeDesc": "Ces bougies votives dédiées à Notre-Dame de Fátima sont idéales pour les prières et les neuvaines. Elles symbolisent la lumière spirituelle et la protection, tout en créant une ambiance apaisante et sacrée. Utilisées traditionnellement pour honorer la Vierge Marie et renforcer la foi, elles apportent réconfort et sérénité dans les moments de recueillement.",
               "stripeStock": 5,
               "epuise": false
+            },
+            {
+              "id": "neuvaine-st-etienne-mwmbugrx1o0e",
+              "nom": "Neuvaine st etienne",
+              "prix": 12.56,
+              "description": "Ces bougies votives dédiées à Saint Étienne sont idéales pour les neuvaines et les prières. Elles sont souvent utilisées pour invoquer la protection et la force spirituelle. Leur flamme apaisante favorise la concentration et la connexion avec ses intentions religieuses ou spirituelles.",
+              "photo": "images/articles/neuvaine-st-etienne-mwmbugrx68y9.jpg",
+              "prixBoutique": 11.9,
+              "stock": 2
             }
           ]
         },

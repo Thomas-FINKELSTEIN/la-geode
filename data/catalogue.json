@@ -37196,6 +37196,15 @@
               "stripeDesc": "Cette statue élégante représentant un tigre doré incarne puissance et protection. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi et stimuler l’énergie vitale. Son design raffiné en fait une pièce décorative unique, idéale pour sublimer un intérieur tout en apportant une touche de dynamisme positif.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "statue-sainte-rita-mwmdol4n5uxt",
+              "nom": "Statue Sainte rita",
+              "prix": 23.52,
+              "description": "Statue élégante représentant Sainte Rita, connue pour sa foi inébranlable et son pouvoir de protection. Dans la lithothérapie et les traditions spirituelles, elle est souvent associée à la résilience, à la guérison des cœurs brisés et à la confiance en la vie. Idéale pour les espaces de méditation ou comme objet de dévotion, elle apporte une énergie apaisante et inspirante.",
+              "photo": "images/articles/statue-sainte-rita-mwmdol4n2b3i.jpg",
+              "prixBoutique": 22.5,
+              "stock": 1
             }
           ]
         },

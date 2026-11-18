@@ -33122,7 +33122,17 @@
               "description": "Eau de toilette Spiritual Sky à la vanille coco, un parfum envoûtant qui allie douceur et exotisme. Composée d'ingrédients naturels, cette fragrance est idéale pour apporter une touche de bien-être et de sérénité au quotidien. Parfaite pour une utilisation personnelle ou en cadeau, elle évoque des sensations de réconfort et de joie, inspirées par les notes chaudes et gourmandes de la vanille et du coco.",
               "photo": "images/articles/eau-de-toilette-vanille-coco-spiritual-s-mwlspzdzsrsz.jpg",
               "prixBoutique": 13.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/14A5kE882fw9gf67lD2a70e",
+              "stripeProductId": "prod_VeLwpCa8nCDg1r",
+              "stripePriceId": "price_1Ud3EmLOfCA5mATuSYAsX8cp",
+              "stripeLinkId": "plink_1Ud3EmLOfCA5mATuTWY59wU8",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Eau de toilette vanille coco Spiritual sky",
+              "stripeDesc": "Eau de toilette Spiritual Sky à la vanille coco, un parfum envoûtant qui allie douceur et exotisme. Composée d'ingrédients naturels, cette fragrance est idéale pour apporter une touche de bien-être et de sérénité au quotidien. Parfaite pour une utilisation personnelle ou en cadeau, elle évoque des sensations de réconfort et de joie, inspirées par les notes chaudes et gourmandes de la vanille et du coco.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

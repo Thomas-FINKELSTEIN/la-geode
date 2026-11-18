@@ -40760,7 +40760,17 @@
               "description": "Ce cadre décoratif représentant un bouddha en relief doré apporte une touche apaisante et spirituelle à votre intérieur. Associé traditionnellement à la sérénité et à l'équilibre émotionnel, il favorise un environnement harmonieux et propice à la méditation. Idéal pour ceux qui recherchent une ambiance paisible et inspirante dans leur espace de vie ou de travail.",
               "photo": "images/articles/cadre-bouddha-3d-doree-mwmd9ehwmo1u.jpg",
               "prixBoutique": 104.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM8wQcoi3Nr4wocFX2a71a",
+              "stripeProductId": "prod_VeVDA1X8up4dPZ",
+              "stripePriceId": "price_1UdCD4LOfCA5mATuk21KLPju",
+              "stripeLinkId": "plink_1UdCD4LOfCA5mATuCJGNx1Da",
+              "stripePrix": 108.69,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha 3d dorée",
+              "stripeDesc": "Ce cadre décoratif représentant un bouddha en relief doré apporte une touche apaisante et spirituelle à votre intérieur. Associé traditionnellement à la sérénité et à l'équilibre émotionnel, il favorise un environnement harmonieux et propice à la méditation. Idéal pour ceux qui recherchent une ambiance paisible et inspirante dans leur espace de vie ou de travail.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

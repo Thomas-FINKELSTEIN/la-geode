@@ -30166,7 +30166,17 @@
               "description": "Ces neuvaines dédiées à Sainte Anne sont parfaites pour allumer une dévotion ou une prière. Sainte Anne, grand-mère de Jésus, est souvent invoquée pour la protection, la sagesse et la guidance spirituelle. Elles apportent une ambiance apaisante et sacrée, idéale pour les moments de recueillement ou les neuvaines.",
               "photo": "images/articles/neuvaine-saint-anne-mwmbqp1xb0bi.jpg",
               "prixBoutique": 11.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/14AeVecoi83H5As0Xf2a70W",
+              "stripeProductId": "prod_VeUWSlCwiNB2Pb",
+              "stripePriceId": "price_1UdBXrLOfCA5mATucWHl0cFH",
+              "stripeLinkId": "plink_1UdBXrLOfCA5mATucUvcHYS0",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine saint anne",
+              "stripeDesc": "Ces neuvaines dédiées à Sainte Anne sont parfaites pour allumer une dévotion ou une prière. Sainte Anne, grand-mère de Jésus, est souvent invoquée pour la protection, la sagesse et la guidance spirituelle. Elles apportent une ambiance apaisante et sacrée, idéale pour les moments de recueillement ou les neuvaines.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

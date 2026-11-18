@@ -36843,7 +36843,17 @@
               "description": "Cette élégante statuette de bouddha incarne la sérénité et l'équilibre intérieur. Traditionnellement associée à la méditation et à la paix de l'esprit, elle est idéale pour créer une ambiance apaisante dans votre espace de vie ou de travail. Son énergie bienveillante favorise la concentration et la détente, tout en apportant une touche spirituelle et décorative raffinée.",
               "photo": "images/articles/statue-bouddha-10-cm-mwm9cnbewqom.jpg",
               "prixBoutique": 3,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/7sY7sM73YabP0g835n2a70H",
+              "stripeProductId": "prod_VeTSyPZ8Mewxae",
+              "stripePriceId": "price_1UdAVPLOfCA5mATuxtiMEoyn",
+              "stripeLinkId": "plink_1UdAVPLOfCA5mATuILAbQpss",
+              "stripePrix": 3.36,
+              "stripeMode": "live",
+              "stripeNom": "Statue bouddha 10 cm",
+              "stripeDesc": "Cette élégante statuette de bouddha incarne la sérénité et l'équilibre intérieur. Traditionnellement associée à la méditation et à la paix de l'esprit, elle est idéale pour créer une ambiance apaisante dans votre espace de vie ou de travail. Son énergie bienveillante favorise la concentration et la détente, tout en apportant une touche spirituelle et décorative raffinée.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

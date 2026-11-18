@@ -8082,7 +8082,17 @@
               "description": "Cette Améthyste brute en pointe est une pièce naturelle aux formes géométriques harmonieuses et aux teintes douces. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les émotions et renforcer la concentration. Idéale pour décorer un espace ou créer une ambiance paisible, elle attire aussi les collectionneurs en quête d'énergies positives.",
               "photo": "images/articles/amethyste-brute-en-pointe-mwlvy8zw4brb.jpg",
               "prixBoutique": 4.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B63cw1JEcjXaUM49r2a70t",
+              "stripeProductId": "prod_VeNPEroGgJnDPz",
+              "stripePriceId": "price_1Ud4eHLOfCA5mATuOQRbzOFc",
+              "stripeLinkId": "plink_1Ud4eHLOfCA5mATuxzoqptu7",
+              "stripePrix": 5.02,
+              "stripeMode": "live",
+              "stripeNom": "Améthyste brute en pointe",
+              "stripeDesc": "Cette Améthyste brute en pointe est une pièce naturelle aux formes géométriques harmonieuses et aux teintes douces. Connue pour ses propriétés apaisantes, elle est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les émotions et renforcer la concentration. Idéale pour décorer un espace ou créer une ambiance paisible, elle attire aussi les collectionneurs en quête d'énergies positives.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

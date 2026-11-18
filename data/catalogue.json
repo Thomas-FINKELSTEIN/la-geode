@@ -33103,7 +33103,17 @@
               "description": "Eau de toilette raffinée aux notes envoûtantes de bergamote et de fleur d’épice, Spiritual Sky est une fragrance inspirante qui allie douceur et énergie. Traditionnellement associée à la vitalité et à la bonne humeur, cette composition parfumée est idéale pour une touche d’élégance et de bien-être au quotidien. Parfaite pour s’offrir ou offrir, elle embaume les moments avec une ambiance chaleureuse et apaisante.",
               "photo": "images/articles/eau-de-toilette-bergamote-fleur-d-epice--mwlsntz87kvg.jpg",
               "prixBoutique": 13.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/00w6oI4VQ4Rv2og5dv2a70d",
+              "stripeProductId": "prod_VeLusaPBam41hJ",
+              "stripePriceId": "price_1Ud3D9LOfCA5mATu2VjySIgx",
+              "stripeLinkId": "plink_1Ud3D9LOfCA5mATuw7Ib57HC",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Eau de toilette bergamote fleur d'épice Spiritual sky",
+              "stripeDesc": "Eau de toilette raffinée aux notes envoûtantes de bergamote et de fleur d’épice, Spiritual Sky est une fragrance inspirante qui allie douceur et énergie. Traditionnellement associée à la vitalité et à la bonne humeur, cette composition parfumée est idéale pour une touche d’élégance et de bien-être au quotidien. Parfaite pour s’offrir ou offrir, elle embaume les moments avec une ambiance chaleureuse et apaisante.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

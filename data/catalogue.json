@@ -34314,7 +34314,17 @@
               "description": "L'encens benjoin est une résine parfumée aux vertus apaisantes et purificatrices, idéale pour créer une ambiance sereine et positive dans votre espace. Utilisé depuis des siècles dans les rituels de méditation et de relaxation, il favorise la concentration et aide à libérer les tensions émotionnelles. Son parfum chaud et enveloppant est parfait pour les moments de détente ou pour accompagner vos pratiques énergétiques.",
               "photo": "images/articles/benjoin-en-poudre-encens-mwlutna7qyhd.jpg",
               "prixBoutique": 14.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00weVe4VQ83H9QI49r2a70l",
+              "stripeProductId": "prod_VeMtl7brBYq1nK",
+              "stripePriceId": "price_1Ud49kLOfCA5mATuGBszyR5w",
+              "stripeLinkId": "plink_1Ud49lLOfCA5mATu45MgYaTV",
+              "stripePrix": 15.66,
+              "stripeMode": "live",
+              "stripeNom": "Benjoin en poudre encens",
+              "stripeDesc": "L'encens benjoin est une résine parfumée aux vertus apaisantes et purificatrices, idéale pour créer une ambiance sereine et positive dans votre espace. Utilisé depuis des siècles dans les rituels de méditation et de relaxation, il favorise la concentration et aide à libérer les tensions émotionnelles. Son parfum chaud et enveloppant est parfait pour les moments de détente ou pour accompagner vos pratiques énergétiques.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

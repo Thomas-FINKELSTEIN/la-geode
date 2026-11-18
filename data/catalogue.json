@@ -39034,7 +39034,17 @@
               "description": "Ce vase en verre élégant de forme cylindrique apporte une touche raffinée et moderne à votre intérieur. Ses dimensions généreuses en font un élément décoratif polyvalent, idéal pour sublimer une plante, des fleurs ou simplement pour créer une ambiance apaisante. En lithothérapie, le verre transparent est parfois associé à la pureté et à la clarté d’esprit, favorisant un environnement harmonieux et équilibré.",
               "photo": "images/articles/vase-en-verre-20-cm-h-sur-18-diametre-mwlwdr3stghe.jpg",
               "prixBoutique": 24,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ14o882do14wo0Xf2a70x",
+              "stripeProductId": "prod_VeNbsw65KCPSkl",
+              "stripePriceId": "price_1Ud4pyLOfCA5mATuDN76AfnP",
+              "stripeLinkId": "plink_1Ud4pyLOfCA5mATuwrlWa5UR",
+              "stripePrix": 25.07,
+              "stripeMode": "live",
+              "stripeNom": "Vase en verre 20 cm H sur 18 diamètre",
+              "stripeDesc": "Ce vase en verre élégant de forme cylindrique apporte une touche raffinée et moderne à votre intérieur. Ses dimensions généreuses en font un élément décoratif polyvalent, idéal pour sublimer une plante, des fleurs ou simplement pour créer une ambiance apaisante. En lithothérapie, le verre transparent est parfois associé à la pureté et à la clarté d’esprit, favorisant un environnement harmonieux et équilibré.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

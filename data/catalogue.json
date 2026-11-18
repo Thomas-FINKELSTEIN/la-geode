@@ -38697,7 +38697,17 @@
               "description": "Un ensemble de coquillages naturels aux teintes douces et apaisantes, parfait pour décorer votre intérieur tout en apportant une touche d'énergie positive. Selon la lithothérapie, les coquillages sont souvent associés à la protection, à la sérénité et à l'ouverture des cœurs. Ils symbolisent aussi le lien avec les éléments naturels et peuvent être utilisés pour créer une ambiance harmonieuse et équilibrante dans votre espace de vie.",
               "photo": "images/articles/decoration-coquillage-dans-un-vase-en-ve-mwlw6zmzgmup.jpg",
               "prixBoutique": 34.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x27sM0FAcjX1kc8pH2a70v",
+              "stripeProductId": "prod_VeNWcIbkICB2YW",
+              "stripePriceId": "price_1Ud4l3LOfCA5mATuK1ybgdv7",
+              "stripeLinkId": "plink_1Ud4l3LOfCA5mATuSYrL9hLT",
+              "stripePrix": 36.34,
+              "stripeMode": "live",
+              "stripeNom": "Décoration coquillage dans un vase en verre",
+              "stripeDesc": "Un ensemble de coquillages naturels aux teintes douces et apaisantes, parfait pour décorer votre intérieur tout en apportant une touche d'énergie positive. Selon la lithothérapie, les coquillages sont souvent associés à la protection, à la sérénité et à l'ouverture des cœurs. Ils symbolisent aussi le lien avec les éléments naturels et peuvent être utilisés pour créer une ambiance harmonieuse et équilibrante dans votre espace de vie.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

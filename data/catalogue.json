@@ -33160,7 +33160,17 @@
               "description": "Ce spray parfumée à la senteur de jasmin de la marque Karma Scents est idéal pour diffuser une ambiance apaisante et sensuelle dans votre espace. Le jasmin est traditionnellement associé à la sérénité, à l'équilibre émotionnel et à l'ouverture du cœur, aidant à créer une atmosphère harmonieuse et relaxante. Parfait pour sublimer votre intérieur ou offrir une touche de bien-être lors de moments de détente ou de méditation.",
               "photo": "images/articles/spray-senteur-jasmine-karma-scents-mwlt6mo8qutm.jpg",
               "prixBoutique": 13.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm5kEbke6ZD3skfS92a70g",
+              "stripeProductId": "prod_VeM9gp1z8TEQXZ",
+              "stripePriceId": "price_1Ud3RPLOfCA5mATuUwNGpr4H",
+              "stripeLinkId": "plink_1Ud3RQLOfCA5mATuzJQzBiLC",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Spray senteur Jasmine Karma scents",
+              "stripeDesc": "Ce spray parfumée à la senteur de jasmin de la marque Karma Scents est idéal pour diffuser une ambiance apaisante et sensuelle dans votre espace. Le jasmin est traditionnellement associé à la sérénité, à l'équilibre émotionnel et à l'ouverture du cœur, aidant à créer une atmosphère harmonieuse et relaxante. Parfait pour sublimer votre intérieur ou offrir une touche de bien-être lors de moments de détente ou de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

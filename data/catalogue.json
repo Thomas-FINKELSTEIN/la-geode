@@ -35055,7 +35055,17 @@
               "description": "Ce verre soufflé posé sur un bois flotté allie élégance naturelle et artisanat raffiné. Traditionnellement utilisé pour purifier les énergies et apaiser l’esprit, il incite à la méditation et à la connexion avec les éléments. Son design unique en fait un objet décoratif tout en invitant à des moments de calme et de sérénité au quotidien.",
               "photo": "images/articles/verre-souffle-sur-bois-flotte-mwlv58yp5hhh.jpg",
               "prixBoutique": 39.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZudRabke3Nr2ogcFX2a70o",
+              "stripeProductId": "prod_VeN2LGkwJKpDKi",
+              "stripePriceId": "price_1Ud4IWLOfCA5mATuLmJxZdu0",
+              "stripeLinkId": "plink_1Ud4IWLOfCA5mATupir685nK",
+              "stripePrix": 41.09,
+              "stripeMode": "live",
+              "stripeNom": "Verre soufflé sur bois flotté",
+              "stripeDesc": "Ce verre soufflé posé sur un bois flotté allie élégance naturelle et artisanat raffiné. Traditionnellement utilisé pour purifier les énergies et apaiser l’esprit, il incite à la méditation et à la connexion avec les éléments. Son design unique en fait un objet décoratif tout en invitant à des moments de calme et de sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -30109,7 +30109,17 @@
               "description": "Ces votifs en cire dédiés à Saint Jude sont parfaits pour les prières et les neuvaines. Saint Jude est souvent invoqué pour les causes désespérées et les situations difficiles, apportant réconfort et espoir. Allumez ces bougies pour renforcer votre foi et attirer la protection spirituelle dans votre quotidien.",
               "photo": "images/articles/neuvaine-saint-jude-mwmbgzats6am.jpg",
               "prixBoutique": 11.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/6oU9AU0FAes59QI7lD2a70S",
+              "stripeProductId": "prod_VeUPDJwhJhKw69",
+              "stripePriceId": "price_1UdBQjLOfCA5mATuxJVq4RNL",
+              "stripeLinkId": "plink_1UdBQjLOfCA5mATuThgrfwPR",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine saint jude",
+              "stripeDesc": "Ces votifs en cire dédiés à Saint Jude sont parfaits pour les prières et les neuvaines. Saint Jude est souvent invoqué pour les causes désespérées et les situations difficiles, apportant réconfort et espoir. Allumez ces bougies pour renforcer votre foi et attirer la protection spirituelle dans votre quotidien.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

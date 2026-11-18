@@ -30147,7 +30147,17 @@
               "description": "Cette neuvaine dédié à saint Georges est une offrande spirituelle et protectrice, souvent utilisée lors de neuvaines pour renforcer la foi et invoquer la protection divine. Traditionnellement, il est associé à la purification, à la force intérieure et à la défense contre les énergies négatives. Son parfum enveloppant favorise la concentration et la connexion avec le sacré, idéal pour les rituels ou les moments de méditation.",
               "photo": "images/articles/neuvaine-saint-georges-mwmbo3qxnjii.jpg",
               "prixBoutique": 11.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY4gA5ZU6ZD7IAcFX2a70V",
+              "stripeProductId": "prod_VeUVEuQijODUGY",
+              "stripePriceId": "price_1UdBWLLOfCA5mATuMLSfMT3J",
+              "stripeLinkId": "plink_1UdBWLLOfCA5mATuQfDwWFwK",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine saint georges",
+              "stripeDesc": "Cette neuvaine dédié à saint Georges est une offrande spirituelle et protectrice, souvent utilisée lors de neuvaines pour renforcer la foi et invoquer la protection divine. Traditionnellement, il est associé à la purification, à la force intérieure et à la défense contre les énergies négatives. Son parfum enveloppant favorise la concentration et la connexion avec le sacré, idéal pour les rituels ou les moments de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -30261,7 +30261,17 @@
               "description": "Cette Neuvaine jaune est idéale pour purifier l’énergie et favoriser la concentration. Utilisée traditionnellement pour apaiser l’esprit et renforcer la détermination, elle est parfaite pour les rituels de méditation ou les moments de réflexion. Son parfum doux et enveloppant crée une atmosphère propice à la sérénité et à la connexion spirituelle.",
               "photo": "images/articles/neuvaine-neutre-mwmc73n11p3x.jpg",
               "prixBoutique": 11,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/3cI00k1JEcjX3skfS92a715",
+              "stripeProductId": "prod_VeUjO30HvGVzuO",
+              "stripePriceId": "price_1UdBkFLOfCA5mATuhGKXMtsq",
+              "stripeLinkId": "plink_1UdBkGLOfCA5mATuYgWlbT5B",
+              "stripePrix": 11.63,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine neutre",
+              "stripeDesc": "Cette Neuvaine jaune est idéale pour purifier l’énergie et favoriser la concentration. Utilisée traditionnellement pour apaiser l’esprit et renforcer la détermination, elle est parfaite pour les rituels de méditation ou les moments de réflexion. Son parfum doux et enveloppant crée une atmosphère propice à la sérénité et à la connexion spirituelle.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

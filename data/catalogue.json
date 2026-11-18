@@ -39656,7 +39656,17 @@
               "description": "Cette corbeille en fibres naturelles de 25 cm apporte une touche chaleureuse et artisanale à votre intérieur. Idéale pour ranger des petits objets, des cristaux ou des encens, elle diffuse une énergie apaisante et harmonieuse. Son design simple et élégant s’intègre parfaitement dans une décoration zen ou bohème, tout en invitant à un retour au calme et à l’équilibre.",
               "photo": "images/articles/corbeille-25-cm-mwm9ia1jk229.jpg",
               "prixBoutique": 23.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w8wQfAu6ZD2oggWd2a70I",
+              "stripeProductId": "prod_VeTWX2quXQe7xj",
+              "stripePriceId": "price_1UdAZbLOfCA5mATua4o0C2Hy",
+              "stripeLinkId": "plink_1UdAZbLOfCA5mATu7Prs597M",
+              "stripePrix": 24.97,
+              "stripeMode": "live",
+              "stripeNom": "Corbeille 25 cm",
+              "stripeDesc": "Cette corbeille en fibres naturelles de 25 cm apporte une touche chaleureuse et artisanale à votre intérieur. Idéale pour ranger des petits objets, des cristaux ou des encens, elle diffuse une énergie apaisante et harmonieuse. Son design simple et élégant s’intègre parfaitement dans une décoration zen ou bohème, tout en invitant à un retour au calme et à l’équilibre.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

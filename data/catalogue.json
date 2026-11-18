@@ -33217,7 +33217,17 @@
               "description": "Ce spray parfum à la lavande de la marque Karma Scents est une invitation à la détente et à la sérénité. La lavande est traditionnellement utilisée pour apaiser les tensions, favoriser un sommeil réparateur et équilibrer les émotions. Idéal pour rafraîchir l’atmosphère de votre intérieur ou créer un moment de bien-être, ce parfum doux et enveloppant est parfait pour une utilisation quotidienne.",
               "photo": "images/articles/spray-senteur-lavande-karma-scents-mwltb81zenrz.jpg",
               "prixBoutique": 13.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI8wQ73Yes5aUMbBT2a70j",
+              "stripeProductId": "prod_VeMEudcFP1gS5a",
+              "stripePriceId": "price_1Ud3W6LOfCA5mATu8tmSXXhu",
+              "stripeLinkId": "plink_1Ud3W7LOfCA5mATucNhZRVN9",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Spray senteur lavande Karma scents",
+              "stripeDesc": "Ce spray parfum à la lavande de la marque Karma Scents est une invitation à la détente et à la sérénité. La lavande est traditionnellement utilisée pour apaiser les tensions, favoriser un sommeil réparateur et équilibrer les émotions. Idéal pour rafraîchir l’atmosphère de votre intérieur ou créer un moment de bien-être, ce parfum doux et enveloppant est parfait pour une utilisation quotidienne.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

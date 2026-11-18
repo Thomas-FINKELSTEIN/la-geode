@@ -38818,7 +38818,17 @@
               "description": "Ce livre vierge aux motifs tissés élégants et aux franges dorées est une invitation à l'introspection et à la créativité. Traditionnellement utilisé pour canaliser les énergies positives et favoriser la connexion avec soi-même, il peut devenir un support d’écriture, de méditation ou de visualisation de projets. Son design harmonieux et ses couleurs apaisantes en font un objet décoratif inspirant, idéal pour créer une ambiance propice à la sérénité et à l’épanouissement personnel.",
               "photo": "images/articles/livre-vierge-ecris-ton-histoire-mwlw1uxlep41.jpg",
               "prixBoutique": 14.95,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/cNiaEY5ZUabP0g80Xf2a70u",
+              "stripeProductId": "prod_VeNRliAfN3uo5X",
+              "stripePriceId": "price_1Ud4h1LOfCA5mATuUWySpqXo",
+              "stripeLinkId": "plink_1Ud4h1LOfCA5mATuCpcnpZMF",
+              "stripePrix": 15.72,
+              "stripeMode": "live",
+              "stripeNom": "Livre vierge <écris ton histoire<",
+              "stripeDesc": "Ce livre vierge aux motifs tissés élégants et aux franges dorées est une invitation à l'introspection et à la créativité. Traditionnellement utilisé pour canaliser les énergies positives et favoriser la connexion avec soi-même, il peut devenir un support d’écriture, de méditation ou de visualisation de projets. Son design harmonieux et ses couleurs apaisantes en font un objet décoratif inspirant, idéal pour créer une ambiance propice à la sérénité et à l’épanouissement personnel.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

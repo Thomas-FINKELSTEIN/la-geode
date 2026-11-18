@@ -35753,7 +35753,17 @@
               "description": "La Lampe de sel grise est une pièce décorative et apaisante qui diffuse une lumière douce et enveloppante. Composée de sel gemme naturel, elle est souvent utilisée en lithothérapie pour purifier l’énergie ambiante et favoriser la détente. Son éclat chaud et ses reflets apaisants en font un allié idéal pour créer une atmosphère sereine dans votre intérieur.",
               "photo": "images/articles/lampe-de-sel-grise-mwm95mxzvfmi.jpg",
               "prixBoutique": 16.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI9AUfAucjXd2UgWd2a70F",
+              "stripeProductId": "prod_VeTMWaUgmMV9Bv",
+              "stripePriceId": "price_1UdAQ4LOfCA5mATuV6REIGVa",
+              "stripeLinkId": "plink_1UdAQ4LOfCA5mATuJ8jpkxnV",
+              "stripePrix": 17.73,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de sel grise",
+              "stripeDesc": "La Lampe de sel grise est une pièce décorative et apaisante qui diffuse une lumière douce et enveloppante. Composée de sel gemme naturel, elle est souvent utilisée en lithothérapie pour purifier l’énergie ambiante et favoriser la détente. Son éclat chaud et ses reflets apaisants en font un allié idéal pour créer une atmosphère sereine dans votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

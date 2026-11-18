@@ -37204,7 +37204,17 @@
               "description": "Statue élégante représentant Sainte Rita, connue pour sa foi inébranlable et son pouvoir de protection. Dans la lithothérapie et les traditions spirituelles, elle est souvent associée à la résilience, à la guérison des cœurs brisés et à la confiance en la vie. Idéale pour les espaces de méditation ou comme objet de dévotion, elle apporte une énergie apaisante et inspirante.",
               "photo": "images/articles/statue-sainte-rita-mwmdol4n2b3i.jpg",
               "prixBoutique": 22.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm00kaga3Nr5AsdK12a71e",
+              "stripeProductId": "prod_VeVPLrwjNvz0Yu",
+              "stripePriceId": "price_1UdCOZLOfCA5mATuQJpr5cGZ",
+              "stripeLinkId": "plink_1UdCOZLOfCA5mATupjtCB38J",
+              "stripePrix": 23.52,
+              "stripeMode": "live",
+              "stripeNom": "Statue Sainte rita",
+              "stripeDesc": "Statue élégante représentant Sainte Rita, connue pour sa foi inébranlable et son pouvoir de protection. Dans la lithothérapie et les traditions spirituelles, elle est souvent associée à la résilience, à la guérison des cœurs brisés et à la confiance en la vie. Idéale pour les espaces de méditation ou comme objet de dévotion, elle apporte une énergie apaisante et inspirante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

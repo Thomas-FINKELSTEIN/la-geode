@@ -33141,7 +33141,17 @@
               "description": "Cette eau de toilette aux mûres sauvages Spiritual Sky est une fragrance envoûtante qui allie douceur et énergie positive. Inspirée par les bienfaits des mûres sauvages, elle est souvent utilisée pour apporter une touche de vitalité et de réconfort au quotidien. Parfaite pour une touche olfactive subtile et naturelle, elle s’accorde avec les moments de détente ou de reconnexion à soi.",
               "photo": "images/articles/eau-de-toilette-the-mures-sauvages-spiri-mwlsrnhlyl3a.jpg",
               "prixBoutique": 13.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/7sY00kewqabP3sk6hz2a70f",
+              "stripeProductId": "prod_VeLxDMF8bamNmm",
+              "stripePriceId": "price_1Ud3G3LOfCA5mATuzmjwvoWo",
+              "stripeLinkId": "plink_1Ud3G3LOfCA5mATuThFtZ1y0",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Eau de toilette thé mûres sauvages Spiritual sky",
+              "stripeDesc": "Cette eau de toilette aux mûres sauvages Spiritual Sky est une fragrance envoûtante qui allie douceur et énergie positive. Inspirée par les bienfaits des mûres sauvages, elle est souvent utilisée pour apporter une touche de vitalité et de réconfort au quotidien. Parfaite pour une touche olfactive subtile et naturelle, elle s’accorde avec les moments de détente ou de reconnexion à soi.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

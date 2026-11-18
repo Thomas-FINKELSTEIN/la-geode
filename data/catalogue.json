@@ -33065,7 +33065,17 @@
               "description": "L'eau de toilette Fleur de Lotus Spiritual Sky est une fragrance raffinée inspirée par la pureté et la sérénité du lotus. Traditionnellement associée à la spiritualité et à la renaissance, cette eau de toilette apporte une touche d'harmonie et de calme dans votre quotidien. Son parfum délicat et enveloppant en fait un allié idéal pour une routine bien-être, tout en évoquant des sensations de douceur et de légèreté.",
               "photo": "images/articles/eau-de-toilette-fleur-de-lotus-mwlsiktn67k5.jpg",
               "prixBoutique": 13.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/9B614o3RMbfTaUM49r2a70b",
+              "stripeProductId": "prod_VeLqIcIk7guuYm",
+              "stripePriceId": "price_1Ud39DLOfCA5mATuNv4It5zT",
+              "stripeLinkId": "plink_1Ud39ELOfCA5mATu9eqsecE9",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Eau de toilette fleur de lotus",
+              "stripeDesc": "L'eau de toilette Fleur de Lotus Spiritual Sky est une fragrance raffinée inspirée par la pureté et la sérénité du lotus. Traditionnellement associée à la spiritualité et à la renaissance, cette eau de toilette apporte une touche d'harmonie et de calme dans votre quotidien. Son parfum délicat et enveloppant en fait un allié idéal pour une routine bien-être, tout en évoquant des sensations de douceur et de légèreté.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

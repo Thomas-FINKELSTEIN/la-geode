@@ -36710,7 +36710,17 @@
               "description": "Cette tête de bouddha en pierre grise apporte une touche apaisante et spirituelle à votre intérieur. Associée traditionnellement à la sérénité et à la méditation, elle favorise un environnement harmonieux et propice à la détente. Idéale pour les espaces de relaxation ou les collections de pierres énergétiques, elle incarne la paix intérieure et l'équilibre émotionnel.",
               "photo": "images/articles/tete-de-bouddha-grise-30-cm-h-mwlx52x1hpb5.jpg",
               "prixBoutique": 19.7,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/eVq6oI5ZUdo12ogfS92a70z",
+              "stripeProductId": "prod_VeNwZL7LfBCJy8",
+              "stripePriceId": "price_1Ud5AXLOfCA5mATuWaBpqEDK",
+              "stripeLinkId": "plink_1Ud5AXLOfCA5mATu59s4n1B1",
+              "stripePrix": 20.63,
+              "stripeMode": "live",
+              "stripeNom": "Tête de bouddha grise 30 cm H",
+              "stripeDesc": "Cette tête de bouddha en pierre grise apporte une touche apaisante et spirituelle à votre intérieur. Associée traditionnellement à la sérénité et à la méditation, elle favorise un environnement harmonieux et propice à la détente. Idéale pour les espaces de relaxation ou les collections de pierres énergétiques, elle incarne la paix intérieure et l'équilibre émotionnel.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

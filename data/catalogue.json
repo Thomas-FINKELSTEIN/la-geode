@@ -30071,7 +30071,17 @@
               "description": "Ces bâtonnets d'encens dédiés à saint François d'Assise sont parfaits pour allumer une ambiance de paix et de spiritualité dans votre intérieur. Traditionnellement utilisés pour la méditation et les prières, ils aident à purifier l'énergie ambiante et à favoriser la sérénité. Leur parfum doux et enveloppant est idéal pour les moments de recueillement ou les rituels religieux.",
               "photo": "images/articles/neuvaine-st-francois-d-assise-mwmbcg5ibsrt.jpg",
               "prixBoutique": 11.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/7sYbJ2882gAd0g8dK12a70O",
+              "stripeProductId": "prod_VeULfbLOhe0HpO",
+              "stripePriceId": "price_1UdBNHLOfCA5mATudic2HqYd",
+              "stripeLinkId": "plink_1UdBNHLOfCA5mATu7XZDRUeJ",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine st françois d'assise",
+              "stripeDesc": "Ces bâtonnets d'encens dédiés à saint François d'Assise sont parfaits pour allumer une ambiance de paix et de spiritualité dans votre intérieur. Traditionnellement utilisés pour la méditation et les prières, ils aident à purifier l'énergie ambiante et à favoriser la sérénité. Leur parfum doux et enveloppant est idéal pour les moments de recueillement ou les rituels religieux.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

@@ -10740,7 +10740,17 @@
               "description": "Cette magnifique géode d'Améthyste Brésil attire immédiatement le regard avec ses cristaux violets aux reflets lumineux. En lithothérapie, elle est souvent utilisée pour apaiser l'esprit, favoriser la sérénité et renforcer la connexion à son intuition. Idéale pour décorer tout en bénéficiant de ses vertus apaisantes, elle s'intègre parfaitement dans un espace méditatif ou comme élément de bien-être au quotidien.",
               "photo": "images/articles/grosse-amethyste-bresil-aaa-6-90-kg-mwlyix0fd5ru.jpg",
               "prixBoutique": 414,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w5kEfAubfTaUM35n2a70B",
+              "stripeProductId": "prod_VeOZvq9IawlXBl",
+              "stripePriceId": "price_1Ud5m2LOfCA5mATu5YAIvPxl",
+              "stripeLinkId": "plink_1Ud5m2LOfCA5mATue852tEAb",
+              "stripePrix": 428.17,
+              "stripeMode": "live",
+              "stripeNom": "Grosse Améthyste Brésil AAA  6,90 kg",
+              "stripeDesc": "Cette magnifique géode d'Améthyste Brésil attire immédiatement le regard avec ses cristaux violets aux reflets lumineux. En lithothérapie, elle est souvent utilisée pour apaiser l'esprit, favoriser la sérénité et renforcer la connexion à son intuition. Idéale pour décorer tout en bénéficiant de ses vertus apaisantes, elle s'intègre parfaitement dans un espace méditatif ou comme élément de bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -31092,7 +31092,17 @@
               "description": "Le baume de tigre blanc est un classique des remèdes naturels, réputé pour ses vertus apaisantes et soulageantes. Traditionnellement utilisé pour détendre les muscles et les articulations, il est aussi apprécié pour ses propriétés stimulantes sur la circulation sanguine. Son parfum puissant et son efficacité en font un allié précieux pour le bien-être quotidien, souvent appliqué en cas de courbatures ou de tensions.",
               "photo": "images/articles/baume-de-tigre-blanc-mwluos9kbbyv.jpg",
               "prixBoutique": 10.5,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/fZu6oIfAuabP9QI5dv2a70k",
+              "stripeProductId": "prod_VeMsguSdGvsDTz",
+              "stripePriceId": "price_1Ud48SLOfCA5mATuzW0MDlTE",
+              "stripeLinkId": "plink_1Ud48TLOfCA5mATu3SA0gcj7",
+              "stripePrix": 11.12,
+              "stripeMode": "live",
+              "stripeNom": "Baume de tigre blanc",
+              "stripeDesc": "Le baume de tigre blanc est un classique des remèdes naturels, réputé pour ses vertus apaisantes et soulageantes. Traditionnellement utilisé pour détendre les muscles et les articulations, il est aussi apprécié pour ses propriétés stimulantes sur la circulation sanguine. Son parfum puissant et son efficacité en font un allié précieux pour le bien-être quotidien, souvent appliqué en cas de courbatures ou de tensions.",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         },

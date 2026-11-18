@@ -10626,7 +10626,17 @@
               "description": "Cette géode améthyste du Brésil est une pièce spectaculaire et puissante, remplie de cristaux violets aux reflets lumineux. En lithothérapie, l’améthyste est souvent utilisée pour apaiser l’esprit, favoriser la sérénité et renforcer la connexion à son intuition. Elle est idéale pour créer un espace harmonieux et équilibré, tout en aidant à calmer les émotions et à améliorer la qualité du sommeil.",
               "photo": "images/articles/amethyste-du-bresil-geode-11-10-kg-mwlv19ra6eqs.jpg",
               "prixBoutique": 444,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMaEYewq3Nr9QIbBT2a70n",
+              "stripeProductId": "prod_VeMzdnnTE85Ftm",
+              "stripePriceId": "price_1Ud4FTLOfCA5mATuuRvO0d5H",
+              "stripeLinkId": "plink_1Ud4FTLOfCA5mATu5F563qJK",
+              "stripePrix": 459.18,
+              "stripeMode": "live",
+              "stripeNom": "Améthyste du Brésil géode 11,10 kg",
+              "stripeDesc": "Cette géode améthyste du Brésil est une pièce spectaculaire et puissante, remplie de cristaux violets aux reflets lumineux. En lithothérapie, l’améthyste est souvent utilisée pour apaiser l’esprit, favoriser la sérénité et renforcer la connexion à son intuition. Elle est idéale pour créer un espace harmonieux et équilibré, tout en aidant à calmer les émotions et à améliorer la qualité du sommeil.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

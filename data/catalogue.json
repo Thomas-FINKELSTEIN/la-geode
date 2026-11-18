@@ -30280,7 +30280,17 @@
               "description": "Ces bâtonnets de neuvaine dédiés à Saint Antoine sont parfaits pour accompagner vos prières et vos rituels spirituels. Traditionnellement utilisés pour purifier l’énergie et renforcer la foi, ils sont souvent allumés lors de neuvaines ou de demandes spécifiques. Leur parfum doux et leur symbolique en font un allié précieux pour ceux qui cherchent réconfort et protection.",
               "photo": "images/articles/neuvaine-st-antoine-mwmc7xiephzr.jpg",
               "prixBoutique": 11.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/3cI5kEaga5Vz3sk49r2a716",
+              "stripeProductId": "prod_VeUkrv5jJkRWE6",
+              "stripePriceId": "price_1UdBkwLOfCA5mATup8cx6PIY",
+              "stripeLinkId": "plink_1UdBkxLOfCA5mATuiMpBFXCJ",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine st antoine",
+              "stripeDesc": "Ces bâtonnets de neuvaine dédiés à Saint Antoine sont parfaits pour accompagner vos prières et vos rituels spirituels. Traditionnellement utilisés pour purifier l’énergie et renforcer la foi, ils sont souvent allumés lors de neuvaines ou de demandes spécifiques. Leur parfum doux et leur symbolique en font un allié précieux pour ceux qui cherchent réconfort et protection.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

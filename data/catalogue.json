@@ -39015,7 +39015,17 @@
               "description": "Cette bouteille bleue décorative apporte une touche d'élégance et de sérénité à votre intérieur. Selon les croyances en lithothérapie, les objets bleus sont souvent associés à la paix, à la tranquillité et à l'apaisement des émotions. Elle peut être utilisée comme élément décoratif central ou comme support pour des rituels de détente et de méditation.",
               "photo": "images/articles/bouteille-bleu-deco-mwlwbk5ijljd.jpg",
               "prixBoutique": 32.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B66oI9c6abP5As49r2a70w",
+              "stripeProductId": "prod_VeNZzv9E4uBQxL",
+              "stripePriceId": "price_1Ud4oNLOfCA5mATuYWzPzCzF",
+              "stripeLinkId": "plink_1Ud4oNLOfCA5mATugWXr2Hmc",
+              "stripePrix": 34.27,
+              "stripeMode": "live",
+              "stripeNom": "Bouteille bleu déco",
+              "stripeDesc": "Cette bouteille bleue décorative apporte une touche d'élégance et de sérénité à votre intérieur. Selon les croyances en lithothérapie, les objets bleus sont souvent associés à la paix, à la tranquillité et à l'apaisement des émotions. Elle peut être utilisée comme élément décoratif central ou comme support pour des rituels de détente et de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

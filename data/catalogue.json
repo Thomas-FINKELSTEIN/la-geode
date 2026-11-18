@@ -30223,7 +30223,17 @@
               "description": "Cette bougie dédié à Saint Pierre et Saint Paul est idéal pour les prières et les rituels de dévotion. Traditionnellement utilisé pour purifier l'énergie ambiante, il favorise la concentration et la protection spirituelle. Parfait pour allumer une ambiance de sérénité et renforcer la connexion avec les saints patrons.",
               "photo": "images/articles/neuvaine-st-pierre-et-st-paul-mwmc1086qpy3.jpg",
               "prixBoutique": 11.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B600k882fw9e6Y21j2a70Z",
+              "stripeProductId": "prod_VeUeI3C0JAAVUa",
+              "stripePriceId": "price_1UdBfZLOfCA5mATuQCXbsGRc",
+              "stripeLinkId": "plink_1UdBfZLOfCA5mATumtKRAPzz",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine st pierre et st paul",
+              "stripeDesc": "Cette bougie dédié à Saint Pierre et Saint Paul est idéal pour les prières et les rituels de dévotion. Traditionnellement utilisé pour purifier l'énergie ambiante, il favorise la concentration et la protection spirituelle. Parfait pour allumer une ambiance de sérénité et renforcer la connexion avec les saints patrons.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

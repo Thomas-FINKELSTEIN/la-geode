@@ -36558,7 +36558,17 @@
               "description": "Cette statuette en résine représente un homme musclé portant un disque, symbole de force et de détermination. Selon la lithothérapie et les croyances énergétiques, elle peut renforcer la volonté et aider à canaliser les énergies positives pour surmonter les défis du quotidien. Elle s’intègre parfaitement dans un espace dédié à la méditation ou comme élément décoratif inspirant pour dynamiser votre environnement.",
               "photo": "images/articles/statue-en-resine-mwluw2oqsz8c.jpg",
               "prixBoutique": 99.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqfZi2NIdo16EwcFX2a70m",
+              "stripeProductId": "prod_VeMvwtflAF5vsa",
+              "stripePriceId": "price_1Ud4BnLOfCA5mATu41RNQT8S",
+              "stripeLinkId": "plink_1Ud4BoLOfCA5mATutZFToNnr",
+              "stripePrix": 103.52,
+              "stripeMode": "live",
+              "stripeNom": "Statue en résine",
+              "stripeDesc": "Cette statuette en résine représente un homme musclé portant un disque, symbole de force et de détermination. Selon la lithothérapie et les croyances énergétiques, elle peut renforcer la volonté et aider à canaliser les énergies positives pour surmonter les défis du quotidien. Elle s’intègre parfaitement dans un espace dédié à la méditation ou comme élément décoratif inspirant pour dynamiser votre environnement.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

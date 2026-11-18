@@ -30299,7 +30299,17 @@
               "description": "Encens traditionnel dédié à Notre-Dame de la Merci, ce bâtonnet purifié est utilisé pour les prières et les rituels de dévotion. Il dégage une énergie apaisante et favorise la connexion spirituelle, tout en purifiant l'atmosphère. Parfait pour les moments de méditation ou les cérémonies religieuses, il apporte sérénité et protection.",
               "photo": "images/articles/notre-dame-de-la-merci-mwmcev6xg9ov.jpg",
               "prixBoutique": 11.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/4gMaEY0FA0Bf9QI5dv2a717",
+              "stripeProductId": "prod_VeUpItGcWUnJSH",
+              "stripePriceId": "price_1UdBqCLOfCA5mATuJs7hqqFq",
+              "stripeLinkId": "plink_1UdBqCLOfCA5mATu8g8c6bX8",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Notre dame de la merci",
+              "stripeDesc": "Encens traditionnel dédié à Notre-Dame de la Merci, ce bâtonnet purifié est utilisé pour les prières et les rituels de dévotion. Il dégage une énergie apaisante et favorise la connexion spirituelle, tout en purifiant l'atmosphère. Parfait pour les moments de méditation ou les cérémonies religieuses, il apporte sérénité et protection.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

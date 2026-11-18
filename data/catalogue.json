@@ -40779,7 +40779,17 @@
               "description": "Ce cadre décoratif représentant un bouddha apporte une touche apaisante et spirituelle à votre intérieur. Associé à une énergie de sérénité et de sagesse, il est idéal pour créer un espace harmonieux et propice à la méditation ou à la détente. Parfait pour les amateurs de décoration inspirante et de bien-être au quotidien.",
               "photo": "images/articles/cadre-bouddha-30x30-cm-mwmdbtveex1k.jpg",
               "prixBoutique": 6.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM4gA1JE4Rv6Ew7lD2a71b",
+              "stripeProductId": "prod_VeVFO04KtNRr3m",
+              "stripePriceId": "price_1UdCF8LOfCA5mATuPD4Qvpq4",
+              "stripeLinkId": "plink_1UdCF8LOfCA5mATuqnldpOY3",
+              "stripePrix": 7.19,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha 30x30 cm",
+              "stripeDesc": "Ce cadre décoratif représentant un bouddha apporte une touche apaisante et spirituelle à votre intérieur. Associé à une énergie de sérénité et de sagesse, il est idéal pour créer un espace harmonieux et propice à la méditation ou à la détente. Parfait pour les amateurs de décoration inspirante et de bien-être au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -38659,7 +38659,17 @@
               "description": "Cette décoration en verre remplie de coquillages apporte une touche naturelle et apaisante à votre intérieur. Les coquillages, symboles de sérénité et de connexion avec les éléments marins, sont souvent associés à la purification des énergies et à la protection. Idéale pour une ambiance zen, elle évoque la douceur des vagues et invite à la détente dans un espace harmonieux.",
               "photo": "images/articles/deco-en-verre-avec-coquillages-mwlvrvvpl46s.jpg",
               "prixBoutique": 9.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe6oI1JEbfTe6Y9tL2a70s",
+              "stripeProductId": "prod_VeNKZRUAlN9HNz",
+              "stripePriceId": "price_1Ud4ZdLOfCA5mATutio4gZyy",
+              "stripeLinkId": "plink_1Ud4ZdLOfCA5mATu3I80Xn6o",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Déco en verre avec coquillages",
+              "stripeDesc": "Cette décoration en verre remplie de coquillages apporte une touche naturelle et apaisante à votre intérieur. Les coquillages, symboles de sérénité et de connexion avec les éléments marins, sont souvent associés à la purification des énergies et à la protection. Idéale pour une ambiance zen, elle évoque la douceur des vagues et invite à la détente dans un espace harmonieux.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

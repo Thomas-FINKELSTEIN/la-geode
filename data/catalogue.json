@@ -36862,7 +36862,17 @@
               "description": "Cette statue élégante représentant un tigre doré incarne puissance et protection. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi et stimuler l’énergie vitale. Son design raffiné en fait une pièce décorative unique, idéale pour sublimer un intérieur tout en apportant une touche de dynamisme positif.",
               "photo": "images/articles/statue-tigre-doree-mwm9mrlun57l.jpg",
               "prixBoutique": 33.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A8wQbke2Jn8ME21j2a70J",
+              "stripeProductId": "prod_VeTacRyKvsctbc",
+              "stripePriceId": "price_1UdAd0LOfCA5mATuTuqDJTul",
+              "stripeLinkId": "plink_1UdAd0LOfCA5mATuf1fKjOuT",
+              "stripePrix": 35.3,
+              "stripeMode": "live",
+              "stripeNom": "Statue tigre dorée",
+              "stripeDesc": "Cette statue élégante représentant un tigre doré incarne puissance et protection. En lithothérapie, elle est souvent utilisée pour renforcer la confiance en soi et stimuler l’énergie vitale. Son design raffiné en fait une pièce décorative unique, idéale pour sublimer un intérieur tout en apportant une touche de dynamisme positif.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

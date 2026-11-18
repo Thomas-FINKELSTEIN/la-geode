@@ -10721,7 +10721,17 @@
               "description": "Cette géode d'améthyste brute du Brésil est une pièce spectaculaire et rare, aux cristaux violets profonds et lumineux. En lithothérapie, l'améthyste est réputée pour apaiser l'esprit, favoriser la sérénité et renforcer la connexion spirituelle. Elle est souvent utilisée pour équilibrer les émotions, stimuler la clarté mentale et créer une atmosphère de calme et de méditation dans un intérieur.",
               "photo": "images/articles/grosse-geode-amethyste-bresil-8-15-kg-mwlxaah2tt6n.jpg",
               "prixBoutique": 684.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMcN63RMdo1fb2eO52a70A",
+              "stripeProductId": "prod_VeO0McyArDF0FM",
+              "stripePriceId": "price_1Ud5ERLOfCA5mATuBoyy2Lac",
+              "stripeLinkId": "plink_1Ud5ESLOfCA5mATuHwIHZe96",
+              "stripePrix": 707.86,
+              "stripeMode": "live",
+              "stripeNom": "Grosse géode améthyste Brésil 8,15 kg",
+              "stripeDesc": "Cette géode d'améthyste brute du Brésil est une pièce spectaculaire et rare, aux cristaux violets profonds et lumineux. En lithothérapie, l'améthyste est réputée pour apaiser l'esprit, favoriser la sérénité et renforcer la connexion spirituelle. Elle est souvent utilisée pour équilibrer les émotions, stimuler la clarté mentale et créer une atmosphère de calme et de méditation dans un intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

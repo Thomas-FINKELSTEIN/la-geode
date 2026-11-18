@@ -10759,7 +10759,17 @@
               "description": "Cette géode d'améthyste impressionnante est une pièce majestueuse alliant beauté naturelle et énergie apaisante. Traditionnellement utilisée en lithothérapie pour favoriser la sérénité, elle est réputée aider à équilibrer les émotions et à apaiser l'esprit. Parfaite pour décorer un intérieur tout en bénéficiant de ses vertus harmonisantes, elle apporte une touche mystique et élégante à tout espace.",
               "photo": "images/articles/amethyste-geode-8-150-kg-mwm98a7vtnhh.jpg",
               "prixBoutique": 260.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ8wQ73Y4RvbYQeO52a70G",
+              "stripeProductId": "prod_VeTOOZXzqpuyn0",
+              "stripePriceId": "price_1UdAS0LOfCA5mATuwecdfFJS",
+              "stripeLinkId": "plink_1UdAS1LOfCA5mATuAPR5NvJA",
+              "stripePrix": 269.82,
+              "stripeMode": "live",
+              "stripeNom": "Améthyste géode 8,150 kg",
+              "stripeDesc": "Cette géode d'améthyste impressionnante est une pièce majestueuse alliant beauté naturelle et énergie apaisante. Traditionnellement utilisée en lithothérapie pour favoriser la sérénité, elle est réputée aider à équilibrer les émotions et à apaiser l'esprit. Parfaite pour décorer un intérieur tout en bénéficiant de ses vertus harmonisantes, elle apporte une touche mystique et élégante à tout espace.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

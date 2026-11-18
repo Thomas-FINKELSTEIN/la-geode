@@ -30128,7 +30128,17 @@
               "description": "Ce bâton d'encens dédié à la neuvaine de saint Antoine de Padoue est idéal pour accompagner vos prières et vos moments de recueillement. Traditionnellement utilisé pour purifier l'atmosphère et renforcer la concentration spirituelle, il invite à la sérénité et à la connexion avec le divin. Parfait pour les rituels de dévotion ou les cérémonies religieuses, il apporte une énergie apaisante et inspirante.",
               "photo": "images/articles/neuvaine-saint-antoine-de-padoue-mwmbm02ck6b6.jpg",
               "prixBoutique": 11.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe8wQ9c6abPfb2fS92a70U",
+              "stripeProductId": "prod_VeUTpLhVuTsrzi",
+              "stripePriceId": "price_1UdBUKLOfCA5mATuNqtOKGXX",
+              "stripeLinkId": "plink_1UdBUKLOfCA5mATu9T9pUcMg",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine saint antoine de padoue",
+              "stripeDesc": "Ce bâton d'encens dédié à la neuvaine de saint Antoine de Padoue est idéal pour accompagner vos prières et vos moments de recueillement. Traditionnellement utilisé pour purifier l'atmosphère et renforcer la concentration spirituelle, il invite à la sérénité et à la connexion avec le divin. Parfait pour les rituels de dévotion ou les cérémonies religieuses, il apporte une énergie apaisante et inspirante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

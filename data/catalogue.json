@@ -30052,7 +30052,17 @@
               "description": "Ces cierges votifs dédiés à Notre-Dame de Perpétuel Secours sont des objets de dévotion traditionnels, souvent utilisés pour prier et demander protection ou réconfort. Leur allumage est associé à une demande de paix intérieure et de soutien spirituel dans les moments difficiles. Parfaits pour les neuvaines ou les moments de méditation, ils apportent une ambiance apaisante et une énergie de sérénité.",
               "photo": "images/articles/neuvaine-notre-dame-de-perpetuel-secours-mwmba6nwolm1.jpg",
               "prixBoutique": 11.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/3cI6oI73YabP5As49r2a70L",
+              "stripeProductId": "prod_VeUKygpO7WPlgz",
+              "stripePriceId": "price_1UdBLQLOfCA5mATuzypblGRH",
+              "stripeLinkId": "plink_1UdBLQLOfCA5mATuUFUg4hEV",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Neuvaine notre dame de perpétuel secours",
+              "stripeDesc": "Ces cierges votifs dédiés à Notre-Dame de Perpétuel Secours sont des objets de dévotion traditionnels, souvent utilisés pour prier et demander protection ou réconfort. Leur allumage est associé à une demande de paix intérieure et de soutien spirituel dans les moments difficiles. Parfaits pour les neuvaines ou les moments de méditation, ils apportent une ambiance apaisante et une énergie de sérénité.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

@@ -39229,7 +39229,17 @@
               "description": "Cette décoration originale représente une série d’hommes dorés en mouvement, symbolisant l’énergie dynamique et la vitalité. Selon la lithothérapie et les croyances énergétiques, elle est souvent associée à une ambiance positive et à une stimulation de la créativité. Parfaite pour décorer un espace tout en invitant une touche de bien-être et de joie dans votre intérieur.",
               "photo": "images/articles/decoration-d-hommes-dores-mwmdkit8pfhc.jpg",
               "prixBoutique": 96.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZudRa4VQgAdaUM0Xf2a71c",
+              "stripeProductId": "prod_VeVMuiqtNtUJOW",
+              "stripePriceId": "price_1UdCLOLOfCA5mATucKmo821J",
+              "stripeLinkId": "plink_1UdCLPLOfCA5mATudJFGHUhF",
+              "stripePrix": 100,
+              "stripeMode": "live",
+              "stripeNom": "Décoration d' hommes dorés",
+              "stripeDesc": "Cette décoration originale représente une série d’hommes dorés en mouvement, symbolisant l’énergie dynamique et la vitalité. Selon la lithothérapie et les croyances énergétiques, elle est souvent associée à une ambiance positive et à une stimulation de la créativité. Parfaite pour décorer un espace tout en invitant une touche de bien-être et de joie dans votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

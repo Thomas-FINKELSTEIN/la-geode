@@ -36786,7 +36786,17 @@
               "description": "Cette statue en bronze représente le Bouddha Shakyamuni, symbole de sérénité et de sagesse dans les traditions spirituelles. Idéale pour créer une ambiance apaisante et favoriser la méditation, elle est souvent utilisée pour équilibrer les énergies et cultiver la paix intérieure. Son élégance en fait aussi une pièce décorative raffinée pour sublimer tout espace de vie ou de travail.",
               "photo": "images/articles/statue-en-bronze-bouiddha-shakyamuni-mwm92uuywrng.jpg",
               "prixBoutique": 66,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM5kE4VQ97L4wo6hz2a70E",
+              "stripeProductId": "prod_VeTKQtXjWevzYP",
+              "stripePriceId": "price_1UdANvLOfCA5mATu5wJKpjll",
+              "stripeLinkId": "plink_1UdANvLOfCA5mATurflaygGT",
+              "stripePrix": 68.48,
+              "stripeMode": "live",
+              "stripeNom": "Statue en bronze Bouiddha Shakyamuni",
+              "stripeDesc": "Cette statue en bronze représente le Bouddha Shakyamuni, symbole de sérénité et de sagesse dans les traditions spirituelles. Idéale pour créer une ambiance apaisante et favoriser la méditation, elle est souvent utilisée pour équilibrer les énergies et cultiver la paix intérieure. Son élégance en fait aussi une pièce décorative raffinée pour sublimer tout espace de vie ou de travail.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

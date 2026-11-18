@@ -36095,7 +36095,17 @@
               "description": "Cette lampe de chevet élégante apporte une lumière douce et apaisante pour créer une ambiance relaxante dans votre chambre. Selon les croyances en lithothérapie, les pierres et les éléments naturels utilisés dans sa conception peuvent favoriser un équilibre énergétique et un sommeil réparateur. Elle s’intègre parfaitement dans une décoration harmonieuse tout en ajoutant une touche de bien-être à votre espace de repos.",
               "photo": "images/articles/lampe-de-chevet-mwmdmhwdxcxq.jpg",
               "prixBoutique": 124.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZubJ23RMabP1kcbBT2a71d",
+              "stripeProductId": "prod_VeVNMlEWZKVVH7",
+              "stripePriceId": "price_1UdCN3LOfCA5mATu5TBZwVgr",
+              "stripeLinkId": "plink_1UdCN3LOfCA5mATu1ZcvibcV",
+              "stripePrix": 129.36,
+              "stripeMode": "live",
+              "stripeNom": "Lampe de chevet",
+              "stripeDesc": "Cette lampe de chevet élégante apporte une lumière douce et apaisante pour créer une ambiance relaxante dans votre chambre. Selon les croyances en lithothérapie, les pierres et les éléments naturels utilisés dans sa conception peuvent favoriser un équilibre énergétique et un sommeil réparateur. Elle s’intègre parfaitement dans une décoration harmonieuse tout en ajoutant une touche de bien-être à votre espace de repos.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -37215,6 +37215,15 @@
               "stripeDesc": "Statue élégante représentant Sainte Rita, connue pour sa foi inébranlable et son pouvoir de protection. Dans la lithothérapie et les traditions spirituelles, elle est souvent associée à la résilience, à la guérison des cœurs brisés et à la confiance en la vie. Idéale pour les espaces de méditation ou comme objet de dévotion, elle apporte une énergie apaisante et inspirante.",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "statue-saint-antoine-mwmdpr4si7px",
+              "nom": "Statue saint antoine",
+              "prix": 24.91,
+              "description": "Cette statuette de saint Antoine représente une figure emblématique souvent associée à la protection des enfants et des foyers. Selon les croyances traditionnelles, saint Antoine est invoqué pour apporter sérénité et bienveillance dans la vie quotidienne. Elle peut aussi symboliser une aide spirituelle et une connexion avec des valeurs de pureté et d'harmonie familiale.",
+              "photo": "images/articles/statue-saint-antoine-mwmdpr4sru4l.jpg",
+              "prixBoutique": 23.85,
+              "stock": 1
             }
           ]
         },

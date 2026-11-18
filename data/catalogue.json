@@ -35207,7 +35207,17 @@
               "description": "Ce vase en verre soufflé, posé sur une base en bois flotté, allie élégance naturelle et artisanat raffiné. Traditionnellement utilisé pour harmoniser les énergies d’un espace, il apporte une touche apaisante et esthétique à votre intérieur. Son design unique en fait un objet décoratif à la fois moderne et chargé de symboles de sérénité et de connexion à la nature.",
               "photo": "images/articles/verre-souffle-sur-bois-flotte-mwlzizk08hdb.jpg",
               "prixBoutique": 22.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZueVe1JEabP7IAgWd2a70D",
+              "stripeProductId": "prod_VeP1NysAndfkZo",
+              "stripePriceId": "price_1Ud6DILOfCA5mATuKcJ3Z2oo",
+              "stripeLinkId": "plink_1Ud6DILOfCA5mATuE0jwh60o",
+              "stripePrix": 23.93,
+              "stripeMode": "live",
+              "stripeNom": "Verre soufflé sur bois flotté",
+              "stripeDesc": "Ce vase en verre soufflé, posé sur une base en bois flotté, allie élégance naturelle et artisanat raffiné. Traditionnellement utilisé pour harmoniser les énergies d’un espace, il apporte une touche apaisante et esthétique à votre intérieur. Son design unique en fait un objet décoratif à la fois moderne et chargé de symboles de sérénité et de connexion à la nature.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

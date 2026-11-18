@@ -31084,6 +31084,15 @@
               "stripeDesc": "Le cristal de roche est une pierre pure et transparente, symbole de clarté mentale et d’harmonie énergétique. Utilisé depuis toujours pour amplifier les intentions et purifier l’environnement, il est idéal pour apaiser l’esprit et renforcer la concentration. Parfait pour une décoration élégante ou une utilisation en lithothérapie, il apporte lumière et équilibre dans votre quotidien.",
               "stripeStock": 8,
               "epuise": false
+            },
+            {
+              "id": "baume-de-tigre-blanc-mwluos9j5ouu",
+              "nom": "Baume de tigre blanc",
+              "prix": 11.12,
+              "description": "Le baume de tigre blanc est un classique des remèdes naturels, réputé pour ses vertus apaisantes et soulageantes. Traditionnellement utilisé pour détendre les muscles et les articulations, il est aussi apprécié pour ses propriétés stimulantes sur la circulation sanguine. Son parfum puissant et son efficacité en font un allié précieux pour le bien-être quotidien, souvent appliqué en cas de courbatures ou de tensions.",
+              "photo": "images/articles/baume-de-tigre-blanc-mwluos9kbbyv.jpg",
+              "prixBoutique": 10.5,
+              "stock": 6
             }
           ]
         },
@@ -33354,7 +33363,7 @@
         },
         {
           "id": "encens-ou-cones-mv9pvq3sj1ms",
-          "nom": "Encens ou cônes ou papier d'arménie",
+          "nom": "Encens  en grains, bâtonnets ou en cônes ,papier d'arménie",
           "slogan": "variétés de parfum encens ou cônes",
           "articles": [
             {

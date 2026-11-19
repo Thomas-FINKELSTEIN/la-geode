@@ -37489,7 +37489,17 @@
               "description": "Cette statuette de Bouddha en bois incarne la sérénité et l'équilibre intérieur. Traditionnellement associée à la méditation et à la paix de l'esprit, elle est idéale pour créer une ambiance apaisante dans votre espace de vie ou de travail. Son élégance naturelle en fait aussi un objet décoratif raffiné, porteur d'énergie positive et de bienveillance.",
               "photo": "images/articles/bouddha-en-bois-76-cm-mwnpg59siyht.jpg",
               "prixBoutique": 84,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w8wQ9c6fw98ME6hz2a71L",
+              "stripeProductId": "prod_VeqyQzarcQYARR",
+              "stripePriceId": "price_1UdXGdLOfCA5mATuupWK5sHJ",
+              "stripeLinkId": "plink_1UdXGdLOfCA5mATuwQAUQMCl",
+              "stripePrix": 87.09,
+              "stripeMode": "live",
+              "stripeNom": "Bouddha en bois 76 cm",
+              "stripeDesc": "Cette statuette de Bouddha en bois incarne la sérénité et l'équilibre intérieur. Traditionnellement associée à la méditation et à la paix de l'esprit, elle est idéale pour créer une ambiance apaisante dans votre espace de vie ou de travail. Son élégance naturelle en fait aussi un objet décoratif raffiné, porteur d'énergie positive et de bienveillance.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

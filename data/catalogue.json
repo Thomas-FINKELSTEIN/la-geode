@@ -37394,7 +37394,17 @@
               "description": "Cette statue dorée représente Tara, une déesse bienveillante souvent associée à la compassion et à la protection dans les traditions bouddhistes et hindouistes. Elle est considérée comme un symbole de sérénité et d'harmonie, aidant à apaiser les émotions et à renforcer la connexion spirituelle. Idéale pour décorer un espace de méditation ou un lieu de vie, elle diffuse une énergie positive et rassurante.",
               "photo": "images/articles/statue-doree-tara-mwnb5t64lxbc.jpg",
               "prixBoutique": 15.1,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY28s4VQ5Vz7IA21j2a71w",
+              "stripeProductId": "prod_VekWg8izo4EVPx",
+              "stripePriceId": "price_1UdR1aLOfCA5mATu4PsknXFJ",
+              "stripeLinkId": "plink_1UdR1bLOfCA5mATuuErHc0ku",
+              "stripePrix": 15.87,
+              "stripeMode": "live",
+              "stripeNom": "Statue dorée tara",
+              "stripeDesc": "Cette statue dorée représente Tara, une déesse bienveillante souvent associée à la compassion et à la protection dans les traditions bouddhistes et hindouistes. Elle est considérée comme un symbole de sérénité et d'harmonie, aidant à apaiser les émotions et à renforcer la connexion spirituelle. Idéale pour décorer un espace de méditation ou un lieu de vie, elle diffuse une énergie positive et rassurante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

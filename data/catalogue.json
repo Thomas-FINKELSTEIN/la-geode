@@ -39305,7 +39305,17 @@
               "description": "Cette décoration unique allie l'élégance du verre soufflé à la rusticité du bois flotté, créant une pièce à la fois artistique et apaisante. Selon la lithothérapie et les croyances en énergies douces, ce type d'objet est souvent utilisé pour purifier l'espace et apporter une ambiance harmonieuse. Son design original en fait un élément décoratif raffiné, tout en invitant à la sérénité et à la connexion avec la nature.",
               "photo": "images/articles/decoration-verre-souffle-sur-bois-flotte-mwn8tun8tk0y.jpg",
               "prixBoutique": 22.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A7sM3RM2Jn6Ew7lD2a71g",
+              "stripeProductId": "prod_VejTPG6VwGKrIy",
+              "stripePriceId": "price_1UdQ08LOfCA5mATuSEExrvAj",
+              "stripeLinkId": "plink_1UdQ09LOfCA5mATuEMj8BHPg",
+              "stripePrix": 23.93,
+              "stripeMode": "live",
+              "stripeNom": "Décoration verre soufflé sur bois flotté",
+              "stripeDesc": "Cette décoration unique allie l'élégance du verre soufflé à la rusticité du bois flotté, créant une pièce à la fois artistique et apaisante. Selon la lithothérapie et les croyances en énergies douces, ce type d'objet est souvent utilisé pour purifier l'espace et apporter une ambiance harmonieuse. Son design original en fait un élément décoratif raffiné, tout en invitant à la sérénité et à la connexion avec la nature.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

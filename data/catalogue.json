@@ -39718,7 +39718,17 @@
               "description": "Ce pot en verre jaune apporte une touche chaleureuse et apaisante à votre intérieur. Son ambiance lumineuse et douce favorise une atmosphère harmonieuse, idéale pour créer un espace de détente et de bien-être. Parfait pour décorer tout en invitant une énergie positive dans votre quotidien.",
               "photo": "images/articles/pot-en-verre-decoration-jaune-mwn9lbp4hb8n.jpg",
               "prixBoutique": 36.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14AeVe0FA2Jn1kceO52a71o",
+              "stripeProductId": "prod_Vejo3YDpUI6Ckz",
+              "stripePriceId": "price_1UdQKmLOfCA5mATumE9T9vTg",
+              "stripeLinkId": "plink_1UdQKmLOfCA5mATus1Bbc8y9",
+              "stripePrix": 38.4,
+              "stripeMode": "live",
+              "stripeNom": "Pot en verre décoration jaune",
+              "stripeDesc": "Ce pot en verre jaune apporte une touche chaleureuse et apaisante à votre intérieur. Son ambiance lumineuse et douce favorise une atmosphère harmonieuse, idéale pour créer un espace de détente et de bien-être. Parfait pour décorer tout en invitant une énergie positive dans votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

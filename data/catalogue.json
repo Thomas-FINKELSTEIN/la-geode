@@ -39343,7 +39343,17 @@
               "description": "Ce vase en verre élégant et lumineux apporte une touche raffinée à votre intérieur tout en diffusant une énergie apaisante. Selon les principes de lithothérapie, les objets en verre clair sont souvent associés à la purification et à l’harmonisation des espaces, aidant à clarifier les pensées et à apaiser les émotions. Idéal pour décorer tout en créant une ambiance sereine et équilibrée.",
               "photo": "images/articles/vase-en-verre-mwn8yei328qs.jpg",
               "prixBoutique": 22,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFa7sMagaes52og5dv2a71i",
+              "stripeProductId": "prod_VejWbVT5jqZiqZ",
+              "stripePriceId": "price_1UdQ3XLOfCA5mATufIsnMIc4",
+              "stripeLinkId": "plink_1UdQ3YLOfCA5mATuxOXxNEx7",
+              "stripePrix": 23,
+              "stripeMode": "live",
+              "stripeNom": "Vase en verre",
+              "stripeDesc": "Ce vase en verre élégant et lumineux apporte une touche raffinée à votre intérieur tout en diffusant une énergie apaisante. Selon les principes de lithothérapie, les objets en verre clair sont souvent associés à la purification et à l’harmonisation des espaces, aidant à clarifier les pensées et à apaiser les émotions. Idéal pour décorer tout en créant une ambiance sereine et équilibrée.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

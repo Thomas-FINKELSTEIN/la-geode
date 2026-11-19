@@ -39965,7 +39965,17 @@
               "description": "Ce vase en verre suspension est une pièce unique alliant élégance et énergie positive. Sa forme sphérique permet une diffusion harmonieuse des vibrations, favorisant un environnement apaisant et équilibré. Idéal pour décorer tout en invitant la sérénité dans votre espace de vie ou de travail, il apporte une touche bohème et naturelle à votre intérieur.",
               "photo": "images/articles/vase-en-verre-suspension-mwnoz6njimjf.jpg",
               "prixBoutique": 19.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sY6oI0FAbfT5AseO52a71G",
+              "stripeProductId": "prod_VeqlkxiVzsZjT2",
+              "stripePriceId": "price_1UdX3pLOfCA5mATuI3S9zCtv",
+              "stripeLinkId": "plink_1UdX3qLOfCA5mATuqLjj769g",
+              "stripePrix": 20.88,
+              "stripeMode": "live",
+              "stripeNom": "Vase en verre suspension",
+              "stripeDesc": "Ce vase en verre suspension est une pièce unique alliant élégance et énergie positive. Sa forme sphérique permet une diffusion harmonieuse des vibrations, favorisant un environnement apaisant et équilibré. Idéal pour décorer tout en invitant la sérénité dans votre espace de vie ou de travail, il apporte une touche bohème et naturelle à votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -31028,7 +31028,17 @@
               "description": "Cette bouteille en verre élégante, aux dimensions parfaites pour une décoration harmonieuse, est souvent utilisée pour contenir des minéraux ou des encens. Son design simple et son volume de 600 ml en font un objet polyvalent, idéal pour purifier l’énergie des espaces intérieurs selon les croyances en lithothérapie. Elle peut aussi servir de support pour des rituels de méditation ou de nettoyage énergétique.",
               "photo": "images/articles/bouteille-en-verre-7x7x24-cm-600-ml-mwnq6qtblsip.jpg",
               "prixBoutique": 7.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/3cI00kcoi4Rv0g849r2a71Q",
+              "stripeProductId": "prod_VerMMoo4X66RZa",
+              "stripePriceId": "price_1UdXdNLOfCA5mATuf94X3G5J",
+              "stripeLinkId": "plink_1UdXdNLOfCA5mATuh2Q7EWjJ",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Bouteille en verre 7x7x24 cm 600 ml",
+              "stripeDesc": "Cette bouteille en verre élégante, aux dimensions parfaites pour une décoration harmonieuse, est souvent utilisée pour contenir des minéraux ou des encens. Son design simple et son volume de 600 ml en font un objet polyvalent, idéal pour purifier l’énergie des espaces intérieurs selon les croyances en lithothérapie. Elle peut aussi servir de support pour des rituels de méditation ou de nettoyage énergétique.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

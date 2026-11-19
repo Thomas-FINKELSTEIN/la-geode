@@ -11518,7 +11518,17 @@
               "description": "Cette géode de jaspe polychrome est une pièce naturelle aux couleurs chatoyantes et aux reflets dorés, captivants et apaisants. Le jaspe polychrome est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle et favoriser un sentiment de sécurité intérieure. Son énergie harmonieuse en fait un allié idéal pour équilibrer les émotions et apporter une touche décorative chaleureuse à votre intérieur.",
               "photo": "images/articles/jaspe-polychrome-geode-mwn9gr2ion0b.jpg",
               "prixBoutique": 750,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x29AU5ZU5Vz6Ew6hz2a71n",
+              "stripeProductId": "prod_Vejk8Ig38r7OSW",
+              "stripePriceId": "price_1UdQHPLOfCA5mATuJ3w2wrpz",
+              "stripeLinkId": "plink_1UdQHPLOfCA5mATuGpK06J1D",
+              "stripePrix": 775.46,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe polychrome Géode",
+              "stripeDesc": "Cette géode de jaspe polychrome est une pièce naturelle aux couleurs chatoyantes et aux reflets dorés, captivants et apaisants. Le jaspe polychrome est souvent utilisé en lithothérapie pour renforcer la stabilité émotionnelle et favoriser un sentiment de sécurité intérieure. Son énergie harmonieuse en fait un allié idéal pour équilibrer les émotions et apporter une touche décorative chaleureuse à votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

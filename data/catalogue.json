@@ -10797,7 +10797,17 @@
               "description": "Cette géode d'améthyste aux reflets violets et translucides est une pièce spectaculaire pour sublimer votre intérieur tout en apportant une touche de sérénité. En lithothérapie, l'améthyste est réputée pour ses vertus apaisantes, aidant à calmer le stress et à favoriser un sommeil réparateur. Elle est souvent utilisée pour équilibrer les émotions et stimuler la clarté mentale, tout en purifiant l'énergie ambiante.",
               "photo": "images/articles/geode-d-amethyste-sur-socle-mwnb31utmm1p.jpg",
               "prixBoutique": 320,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ8wQ4VQ2JnbYQdK12a71v",
+              "stripeProductId": "prod_VekU41kBPkqnRt",
+              "stripePriceId": "price_1UdQzSLOfCA5mATu0TuRL8RH",
+              "stripeLinkId": "plink_1UdQzSLOfCA5mATuItm8HNhS",
+              "stripePrix": 331.01,
+              "stripeMode": "live",
+              "stripeNom": "Géode d' Améthyste sur socle",
+              "stripeDesc": "Cette géode d'améthyste aux reflets violets et translucides est une pièce spectaculaire pour sublimer votre intérieur tout en apportant une touche de sérénité. En lithothérapie, l'améthyste est réputée pour ses vertus apaisantes, aidant à calmer le stress et à favoriser un sommeil réparateur. Elle est souvent utilisée pour équilibrer les émotions et stimuler la clarté mentale, tout en purifiant l'énergie ambiante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

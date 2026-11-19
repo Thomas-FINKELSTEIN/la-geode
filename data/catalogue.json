@@ -10778,7 +10778,17 @@
               "description": "Cette géode d'améthyste aux reflets violets et blancs captivants est une pièce naturelle et apaisante. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité, équilibrer les émotions et stimuler la clarté mentale. Son énergie douce en fait un allié idéal pour la méditation ou la décoration spirituelle.",
               "photo": "images/articles/amethyste-geode-mwnaayykta2f.jpg",
               "prixBoutique": 176,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E28s0FA6ZD0g8cFX2a71q",
+              "stripeProductId": "prod_Vek88KPppsAOVW",
+              "stripePriceId": "price_1UdQeNLOfCA5mATukgKHDnaM",
+              "stripeLinkId": "plink_1UdQeNLOfCA5mATuQgmf0S6F",
+              "stripePrix": 182.18,
+              "stripeMode": "live",
+              "stripeNom": "Améthyste géode",
+              "stripeDesc": "Cette géode d'améthyste aux reflets violets et blancs captivants est une pièce naturelle et apaisante. En lithothérapie, elle est souvent utilisée pour favoriser la sérénité, équilibrer les émotions et stimuler la clarté mentale. Son énergie douce en fait un allié idéal pour la méditation ou la décoration spirituelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

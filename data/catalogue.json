@@ -38560,7 +38560,17 @@
               "description": "Cette suspension en macramé allie élégance et énergie positive grâce à sa boule de cristal translucide. Les boules de cristal sont souvent utilisées en lithothérapie pour amplifier les intentions, purifier l’énergie ambiante et favoriser la clarté mentale. Parfaitement adaptée pour décorer un intérieur tout en invitant la sérénité et l’harmonie dans votre espace.",
               "photo": "images/articles/suspension-en-macrame-avec-boule-de-cris-mwnouvsg8034.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq14ocoiabP7IA6hz2a71F",
+              "stripeProductId": "prod_Veqi7oZOY6WTqR",
+              "stripePriceId": "price_1UdX0aLOfCA5mATud3zxspdl",
+              "stripeLinkId": "plink_1UdX0aLOfCA5mATu4HlKxDyS",
+              "stripePrix": 20.83,
+              "stripeMode": "live",
+              "stripeNom": "Suspension en macramé avec boule de cristal",
+              "stripeDesc": "Cette suspension en macramé allie élégance et énergie positive grâce à sa boule de cristal translucide. Les boules de cristal sont souvent utilisées en lithothérapie pour amplifier les intentions, purifier l’énergie ambiante et favoriser la clarté mentale. Parfaitement adaptée pour décorer un intérieur tout en invitant la sérénité et l’harmonie dans votre espace.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

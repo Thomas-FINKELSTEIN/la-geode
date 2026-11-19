@@ -40988,7 +40988,17 @@
               "description": "Ce cadre décoratif représente un bouddha en trois dimensions, encadré dans un motif en bambou qui apporte une touche naturelle et apaisante à votre intérieur. Symbole de sérénité et de sagesse, il est idéal pour créer une ambiance harmonieuse et propice à la méditation. Son design élégant et ses détails en relief en font une pièce décorative à la fois spirituelle et esthétique.",
               "photo": "images/articles/grand-cadre-bouddha-3d-decor-en-bambou-mwn9amijfc3y.jpg",
               "prixBoutique": 159.45,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ9AU5ZUabPfb2dK12a71m",
+              "stripeProductId": "prod_VejgQghf73EyeI",
+              "stripePriceId": "price_1UdQCjLOfCA5mATuAt1OBdwz",
+              "stripeLinkId": "plink_1UdQCjLOfCA5mATuDCNkt1fR",
+              "stripePrix": 165.07,
+              "stripeMode": "live",
+              "stripeNom": "Grand cadre bouddha 3D décor en bambou",
+              "stripeDesc": "Ce cadre décoratif représente un bouddha en trois dimensions, encadré dans un motif en bambou qui apporte une touche naturelle et apaisante à votre intérieur. Symbole de sérénité et de sagesse, il est idéal pour créer une ambiance harmonieuse et propice à la méditation. Son design élégant et ses détails en relief en font une pièce décorative à la fois spirituelle et esthétique.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

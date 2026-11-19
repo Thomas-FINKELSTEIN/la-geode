@@ -40518,7 +40518,17 @@
               "description": "Cette tige fleur artificielle apporte une touche d'élégance et de douceur à votre intérieur. Avec ses pétales délicats aux reflets pourpres, elle évoque une énergie apaisante et harmonieuse, souvent associée à la sérénité et à la connexion avec les émotions subtiles. Idéale pour décorer tout espace, elle peut aussi servir d'élément méditatif pour créer une ambiance paisible et inspirante.",
               "photo": "images/articles/une-tige-fleur-artificielle-mwnp4o2wg312.jpg",
               "prixBoutique": 9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe7sM4VQdo16Ew9tL2a71I",
+              "stripeProductId": "prod_VeqpDvzXQIUQQl",
+              "stripePriceId": "price_1UdX7wLOfCA5mATuewsROZRC",
+              "stripeLinkId": "plink_1UdX7wLOfCA5mATuI9DQSBgE",
+              "stripePrix": 9.57,
+              "stripeMode": "live",
+              "stripeNom": "Une tige fleur artificielle",
+              "stripeDesc": "Cette tige fleur artificielle apporte une touche d'élégance et de douceur à votre intérieur. Avec ses pétales délicats aux reflets pourpres, elle évoque une énergie apaisante et harmonieuse, souvent associée à la sérénité et à la connexion avec les émotions subtiles. Idéale pour décorer tout espace, elle peut aussi servir d'élément méditatif pour créer une ambiance paisible et inspirante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

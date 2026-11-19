@@ -11575,7 +11575,17 @@
               "description": "Cette géode de jaspe mokaite brute offre une beauté naturelle et organique, avec ses nuances chaudes et ses reflets dorés. En lithothérapie, le jaspe mokaite est souvent associé à la stabilité émotionnelle, à la protection et à l’ancrage dans le quotidien. Parfait pour décorer votre intérieur tout en bénéficiant de ses vertus apaisantes et énergétiques.",
               "photo": "images/articles/jaspe-mokaite-brute-geode-mwnb1bdnb8km.jpg",
               "prixBoutique": 46.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w9AUaga6ZD7IA49r2a71u",
+              "stripeProductId": "prod_VekTcNxIjNaxlQ",
+              "stripePriceId": "price_1UdQyBLOfCA5mATuyHYT1HhQ",
+              "stripeLinkId": "plink_1UdQyCLOfCA5mATuAWZTZA25",
+              "stripePrix": 48.33,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe mokaite brute Géode",
+              "stripeDesc": "Cette géode de jaspe mokaite brute offre une beauté naturelle et organique, avec ses nuances chaudes et ses reflets dorés. En lithothérapie, le jaspe mokaite est souvent associé à la stabilité émotionnelle, à la protection et à l’ancrage dans le quotidien. Parfait pour décorer votre intérieur tout en bénéficiant de ses vertus apaisantes et énergétiques.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

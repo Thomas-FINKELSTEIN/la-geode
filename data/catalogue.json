@@ -11537,7 +11537,17 @@
               "description": "Cette géode de jaspe bois fossile est une pièce spectaculaire alliant beauté naturelle et énergie apaisante. Le jaspe, pierre de stabilité et de protection, est souvent utilisé pour renforcer la confiance en soi et ancrer les émotions. Son aspect unique et ses reflets dorés en font une décoration à la fois élégante et porteuse de bien-être, idéale pour sublimer un intérieur tout en bénéficiant de ses vertus harmonisantes.",
               "photo": "images/articles/grosse-geode-jaspe-bois-fossile-mwn9nhfub5vx.jpg",
               "prixBoutique": 750,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28EbJ23RM1Fj1kc9tL2a71p",
+              "stripeProductId": "prod_VejqZ9XywhdL5V",
+              "stripePriceId": "price_1UdQMPLOfCA5mATuqHztTx22",
+              "stripeLinkId": "plink_1UdQMPLOfCA5mATu7xcAKlQi",
+              "stripePrix": 775.46,
+              "stripeMode": "live",
+              "stripeNom": "Grosse géode jaspe bois fossile",
+              "stripeDesc": "Cette géode de jaspe bois fossile est une pièce spectaculaire alliant beauté naturelle et énergie apaisante. Le jaspe, pierre de stabilité et de protection, est souvent utilisé pour renforcer la confiance en soi et ancrer les émotions. Son aspect unique et ses reflets dorés en font une décoration à la fois élégante et porteuse de bien-être, idéale pour sublimer un intérieur tout en bénéficiant de ses vertus harmonisantes.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

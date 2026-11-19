@@ -40969,7 +40969,17 @@
               "description": "Ce cadre rectangulaire met en valeur deux têtes de bouddha sculptées, offrant une touche apaisante et spirituelle à votre intérieur. Associé à une énergie de sérénité et de connexion avec soi-même, il est idéal pour créer un espace harmonieux. Parfait pour les amateurs de décoration inspirante et de bien-être, il apporte une ambiance méditative et équilibrante dans votre quotidien.",
               "photo": "images/articles/cadre-rectangulaire-2-tetes-de-bouddha-mwn96z76cr2l.jpg",
               "prixBoutique": 15.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2cN61JE1Fj4wo7lD2a71l",
+              "stripeProductId": "prod_Vejdpb8sDHEPEo",
+              "stripePriceId": "price_1UdQA8LOfCA5mATuh3fZ9ZGd",
+              "stripeLinkId": "plink_1UdQA8LOfCA5mATuTYVwyiNb",
+              "stripePrix": 16.39,
+              "stripeMode": "live",
+              "stripeNom": "Cadre rectangulaire 2 têtes de bouddha",
+              "stripeDesc": "Ce cadre rectangulaire met en valeur deux têtes de bouddha sculptées, offrant une touche apaisante et spirituelle à votre intérieur. Associé à une énergie de sérénité et de connexion avec soi-même, il est idéal pour créer un espace harmonieux. Parfait pour les amateurs de décoration inspirante et de bien-être, il apporte une ambiance méditative et équilibrante dans votre quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

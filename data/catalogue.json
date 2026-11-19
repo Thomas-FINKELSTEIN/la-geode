@@ -10816,7 +10816,17 @@
               "description": "Cette géode d'améthyste Brésil de qualité exceptionnelle est une pièce naturelle et captivante, remplie de cristaux violets aux reflets lumineux. En lithothérapie, l'améthyste est souvent utilisée pour favoriser la sérénité, apaiser les émotions et renforcer la connexion spirituelle. Elle est idéale pour décorer un intérieur tout en bénéficiant de ses propriétés harmonisantes et protectrices.",
               "photo": "images/articles/geode-d-amethyste-bresil-qualite-aaa-mwnbccbt8ukj.jpg",
               "prixBoutique": 429,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi9AU4VQ5Vz6Ew0Xf2a71y",
+              "stripeProductId": "prod_VekbrcRbKQVkQk",
+              "stripePriceId": "price_1UdR6RLOfCA5mATuW8PcP70f",
+              "stripeLinkId": "plink_1UdR6RLOfCA5mATuJAMSNjyg",
+              "stripePrix": 443.67,
+              "stripeMode": "live",
+              "stripeNom": "Géode d' Améthyste Brésil qualité AAA",
+              "stripeDesc": "Cette géode d'améthyste Brésil de qualité exceptionnelle est une pièce naturelle et captivante, remplie de cristaux violets aux reflets lumineux. En lithothérapie, l'améthyste est souvent utilisée pour favoriser la sérénité, apaiser les émotions et renforcer la connexion spirituelle. Elle est idéale pour décorer un intérieur tout en bénéficiant de ses propriétés harmonisantes et protectrices.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

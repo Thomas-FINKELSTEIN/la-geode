@@ -38598,7 +38598,17 @@
               "description": "Ce support en forme de cube transparent et élégant est conçu pour exposer et sublimer une grosse sphère, souvent utilisée en lithothérapie pour ses propriétés énergétiques. Idéal pour décorer votre espace tout en bénéficiant de ses vertus apaisantes et équilibrantes, il apporte une touche de sérénité et d’harmonie à votre intérieur. Parfait pour les amateurs de minéraux et de bien-être, ce support s’intègre facilement dans une ambiance zen ou spirituelle.",
               "photo": "images/articles/support-pour-grosse-sphere-mwnpc9j8uf4w.jpg",
               "prixBoutique": 5.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A28s5ZU5Vz9QIcFX2a71K",
+              "stripeProductId": "prod_VeqvKUILAdNZ5I",
+              "stripePriceId": "price_1UdXDfLOfCA5mATuKNGeZr8K",
+              "stripeLinkId": "plink_1UdXDgLOfCA5mATu5IWdR6cg",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Support pour grosse Sphère",
+              "stripeDesc": "Ce support en forme de cube transparent et élégant est conçu pour exposer et sublimer une grosse sphère, souvent utilisée en lithothérapie pour ses propriétés énergétiques. Idéal pour décorer votre espace tout en bénéficiant de ses vertus apaisantes et équilibrantes, il apporte une touche de sérénité et d’harmonie à votre intérieur. Parfait pour les amateurs de minéraux et de bien-être, ce support s’intègre facilement dans une ambiance zen ou spirituelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

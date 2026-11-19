@@ -40931,7 +40931,17 @@
               "description": "Cette mosaïque en plâtre de 80 cm de diamètre est une pièce décorative raffinée, alliant élégance et symbolisme. Ses motifs floraux délicats et son design artisanal en font un élément central pour sublimer un intérieur tout en apportant une touche de sérénité. En lithothérapie, les créations en plâtre sont souvent associées à la purification des énergies et à l’harmonisation des espaces, favorisant ainsi un bien-être apaisant.",
               "photo": "images/articles/mosaique-en-platre-80-cm-diametre-mwn91xddskyw.jpg",
               "prixBoutique": 125.3,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq28s8824Rve6Y0Xf2a71j",
+              "stripeProductId": "prod_VejZs7sntkQW8Z",
+              "stripePriceId": "price_1UdQ6HLOfCA5mATu4P22ZPe1",
+              "stripeLinkId": "plink_1UdQ6ILOfCA5mATufBcpl7o0",
+              "stripePrix": 129.77,
+              "stripeMode": "live",
+              "stripeNom": "Mosaique en platre 80 cm diamètre",
+              "stripeDesc": "Cette mosaïque en plâtre de 80 cm de diamètre est une pièce décorative raffinée, alliant élégance et symbolisme. Ses motifs floraux délicats et son design artisanal en font un élément central pour sublimer un intérieur tout en apportant une touche de sérénité. En lithothérapie, les créations en plâtre sont souvent associées à la purification des énergies et à l’harmonisation des espaces, favorisant ainsi un bien-être apaisant.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

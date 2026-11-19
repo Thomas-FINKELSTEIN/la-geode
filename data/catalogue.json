@@ -40499,7 +40499,17 @@
               "description": "Cette branche fleurie artificielle apporte une touche de douceur et d'élégance à votre intérieur. Ses pétales délicats, inspirés des roses, symbolisent l'amour et la gratitude, tout en créant une ambiance apaisante et harmonieuse. Idéale pour décorer votre espace avec une touche naturelle et romantique, elle évoque également la beauté éphémère et la sérénité.",
               "photo": "images/articles/branche-fleuri-artificielle-mwnp2jbwffui.jpg",
               "prixBoutique": 10.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu8wQ73Y0Bf5As5dv2a71H",
+              "stripeProductId": "prod_VeqoCH6sM6bTxE",
+              "stripePriceId": "price_1UdX6dLOfCA5mATuKMuoy0Sr",
+              "stripeLinkId": "plink_1UdX6dLOfCA5mATuIFd1GLEQ",
+              "stripePrix": 11.58,
+              "stripeMode": "live",
+              "stripeNom": "Branche fleuri artificielle",
+              "stripeDesc": "Cette branche fleurie artificielle apporte une touche de douceur et d'élégance à votre intérieur. Ses pétales délicats, inspirés des roses, symbolisent l'amour et la gratitude, tout en créant une ambiance apaisante et harmonieuse. Idéale pour décorer votre espace avec une touche naturelle et romantique, elle évoque également la beauté éphémère et la sérénité.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -36266,7 +36266,17 @@
               "description": "Cette boule décorative à LED apporte une touche lumineuse et apaisante à votre intérieur. Ses lumières douces créent une ambiance relaxante, idéale pour favoriser le bien-être et la détente après une longue journée. Elle est parfaite pour illuminer votre espace tout en ajoutant une touche esthétique et moderne.",
               "photo": "images/articles/boule-decorative-a-led-mwnolepdo3rc.jpg",
               "prixBoutique": 12.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRmbJ28822Jnfb221j2a71E",
+              "stripeProductId": "prod_VeqaeSJWMzM5El",
+              "stripePriceId": "price_1UdWtZLOfCA5mATu7pcMjoKH",
+              "stripeLinkId": "plink_1UdWtZLOfCA5mATu0DDA5H6Y",
+              "stripePrix": 13.18,
+              "stripeMode": "live",
+              "stripeNom": "Boule décorative a LED",
+              "stripeDesc": "Cette boule décorative à LED apporte une touche lumineuse et apaisante à votre intérieur. Ses lumières douces créent une ambiance relaxante, idéale pour favoriser le bien-être et la détente après une longue journée. Elle est parfaite pour illuminer votre espace tout en ajoutant une touche esthétique et moderne.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

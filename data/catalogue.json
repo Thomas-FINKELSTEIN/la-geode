@@ -37318,7 +37318,17 @@
               "description": "Cette statuette chromée au design élégant et moderne apporte une touche contemporaine à votre intérieur. Selon la lithothérapie, les objets métallisés comme celui-ci peuvent symboliser la protection et renforcer l’énergie positive dans un espace. Elle est idéale pour ceux qui recherchent un objet décoratif à la fois esthétique et porteur d’une énergie dynamique.",
               "photo": "images/articles/statuette-chrome-mwnatwluieja.jpg",
               "prixBoutique": 13.4,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/00waEYcoi83HaUM21j2a71s",
+              "stripeProductId": "prod_VekNBlomWeDXnX",
+              "stripePriceId": "price_1UdQshLOfCA5mATufA6pUFTu",
+              "stripeLinkId": "plink_1UdQshLOfCA5mATu6jlUGTh2",
+              "stripePrix": 14.11,
+              "stripeMode": "live",
+              "stripeNom": "Statuette chromé",
+              "stripeDesc": "Cette statuette chromée au design élégant et moderne apporte une touche contemporaine à votre intérieur. Selon la lithothérapie, les objets métallisés comme celui-ci peuvent symboliser la protection et renforcer l’énergie positive dans un espace. Elle est idéale pour ceux qui recherchent un objet décoratif à la fois esthétique et porteur d’une énergie dynamique.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

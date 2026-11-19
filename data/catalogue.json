@@ -40950,7 +40950,17 @@
               "description": "Ce cadre représentant un bouddha en une composition artistique et apaisante apporte une touche de sérénité à votre intérieur. Associé traditionnellement à la méditation et à la paix intérieure, il est idéal pour créer un espace harmonieux et propice à la détente. Parfait pour les amateurs de décoration spirituelle ou ceux qui cherchent à intégrer des éléments de bien-être dans leur quotidien.",
               "photo": "images/articles/cadre-bouddha-60-x-6o-cm-mwn93vz8a721.jpg",
               "prixBoutique": 39.4,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E5kE9c61Fj9QI0Xf2a71k",
+              "stripeProductId": "prod_VejaRl3me0qgOX",
+              "stripePriceId": "price_1UdQ7jLOfCA5mATuFapmgllb",
+              "stripeLinkId": "plink_1UdQ7jLOfCA5mATueekdys2q",
+              "stripePrix": 40.99,
+              "stripeMode": "live",
+              "stripeNom": "Cadre bouddha 60 x 6O cm",
+              "stripeDesc": "Ce cadre représentant un bouddha en une composition artistique et apaisante apporte une touche de sérénité à votre intérieur. Associé traditionnellement à la méditation et à la paix intérieure, il est idéal pour créer un espace harmonieux et propice à la détente. Parfait pour les amateurs de décoration spirituelle ou ceux qui cherchent à intégrer des éléments de bien-être dans leur quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

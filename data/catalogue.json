@@ -37337,7 +37337,17 @@
               "description": "Cette statuette chromée aux reflets métalliques et à la forme élégante apporte une touche décorative raffinée à votre intérieur. Selon les croyances en lithothérapie, les objets métallisés comme celui-ci peuvent renforcer la protection énergétique et favoriser la concentration. Elle est idéale pour ceux qui cherchent à équilibrer leur espace avec une énergie positive et dynamique.",
               "photo": "images/articles/statuette-chrome-mwnaxthv47ya.jpg",
               "prixBoutique": 13.4,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUfZi1JE2Jn7IA9tL2a71t",
+              "stripeProductId": "prod_VekQuxQCB2vzko",
+              "stripePriceId": "price_1UdQvbLOfCA5mATubqcwl1h2",
+              "stripeLinkId": "plink_1UdQvbLOfCA5mATuP4qAkOVM",
+              "stripePrix": 14.11,
+              "stripeMode": "live",
+              "stripeNom": "Statuette chromé",
+              "stripeDesc": "Cette statuette chromée aux reflets métalliques et à la forme élégante apporte une touche décorative raffinée à votre intérieur. Selon les croyances en lithothérapie, les objets métallisés comme celui-ci peuvent renforcer la protection énergétique et favoriser la concentration. Elle est idéale pour ceux qui cherchent à équilibrer leur espace avec une énergie positive et dynamique.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

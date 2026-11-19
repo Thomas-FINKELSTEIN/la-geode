@@ -11499,7 +11499,17 @@
               "description": "Ce galet de jaspe mokaite brute offre une beauté naturelle aux reflets chauds et aux nuances terreuses. Riche en énergie stabilisatrice, il est souvent utilisé en lithothérapie pour apaiser les émotions et renforcer la confiance en soi. Idéal pour équilibrer les chakras et favoriser un sentiment de sécurité intérieure, il se prête parfaitement à une utilisation en méditation ou comme objet décoratif apaisant.",
               "photo": "images/articles/jaspe-mokaite-brute-galet-mwn8we3aa0yd.jpg",
               "prixBoutique": 149,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A7sM1JEabPgf60Xf2a71h",
+              "stripeProductId": "prod_VejVMREQZkDHK0",
+              "stripePriceId": "price_1UdQ25LOfCA5mATuNdmIuPa4",
+              "stripeLinkId": "plink_1UdQ25LOfCA5mATuBVAoY7S2",
+              "stripePrix": 154.27,
+              "stripeMode": "live",
+              "stripeNom": "Jaspe mokaite brute Galet",
+              "stripeDesc": "Ce galet de jaspe mokaite brute offre une beauté naturelle aux reflets chauds et aux nuances terreuses. Riche en énergie stabilisatrice, il est souvent utilisé en lithothérapie pour apaiser les émotions et renforcer la confiance en soi. Idéal pour équilibrer les chakras et favoriser un sentiment de sécurité intérieure, il se prête parfaitement à une utilisation en méditation ou comme objet décoratif apaisant.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

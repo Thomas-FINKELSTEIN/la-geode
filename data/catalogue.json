@@ -38814,7 +38814,17 @@
               "description": "Cette belle toile velours représente la Fleur de Vie, un symbole universel de connexion, d'harmonie et de croissance spirituelle. Intégrée dans votre espace, elle diffuse une énergie apaisante et équilibrante, favorisant la sérénité et l'ouverture d'esprit. Parfaite pour décorer tout en cultivant un environnement positif et inspirant.",
               "photo": "images/articles/fleur-de-vie-sur-feutrine-en-velours-mwoqhd3a0i0l.jpg",
               "prixBoutique": 22.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/dRmaEY1JEes59QI9tL2a722",
+              "stripeProductId": "prod_Vf7h2UTu613pau",
+              "stripePriceId": "price_1UdnRpLOfCA5mATutM7LTT40",
+              "stripeLinkId": "plink_1UdnRpLOfCA5mATuxfx2Ofl8",
+              "stripePrix": 23.52,
+              "stripeMode": "live",
+              "stripeNom": "Fleur de vie sur feutrine en velours",
+              "stripeDesc": "Cette belle toile velours représente la Fleur de Vie, un symbole universel de connexion, d'harmonie et de croissance spirituelle. Intégrée dans votre espace, elle diffuse une énergie apaisante et équilibrante, favorisant la sérénité et l'ouverture d'esprit. Parfaite pour décorer tout en cultivant un environnement positif et inspirant.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

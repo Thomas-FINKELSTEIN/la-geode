@@ -37736,7 +37736,17 @@
               "description": "Cette statuette en bronze représente une figure divine aux traits puissants et majestueux, souvent associée à la protection et à l'équilibre énergétique. Selon les traditions, elle est utilisée pour renforcer la concentration et apporter une énergie positive dans les espaces où elle est placée. Idéale pour les amateurs de décoration spirituelle ou ceux cherchant à harmoniser leur environnement.",
               "photo": "images/articles/statuette-en-bronze-mwp7k98bxz0u.jpg",
               "prixBoutique": 35.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVqbJ29c66ZD3skdK12a72j",
+              "stripeProductId": "prod_VfFP9T2xMhOUwc",
+              "stripePriceId": "price_1UduuQLOfCA5mATu8rvSQd1K",
+              "stripeLinkId": "plink_1UduuQLOfCA5mATuEVKy7HLc",
+              "stripePrix": 37.37,
+              "stripeMode": "live",
+              "stripeNom": "Statuette en bronze",
+              "stripeDesc": "Cette statuette en bronze représente une figure divine aux traits puissants et majestueux, souvent associée à la protection et à l'équilibre énergétique. Selon les traditions, elle est utilisée pour renforcer la concentration et apporter une énergie positive dans les espaces où elle est placée. Idéale pour les amateurs de décoration spirituelle ou ceux cherchant à harmoniser leur environnement.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

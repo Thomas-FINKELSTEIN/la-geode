@@ -10873,7 +10873,17 @@
               "description": "Cette grande géode impressionnante mesure 80 centimètres de hauteur et se distingue par ses cristaux aux reflets violets et translucides. Elle est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les émotions et renforcer la connexion spirituelle. Son énergie apaisante en fait un élément décoratif puissant pour les espaces de méditation ou les lieux de vie.",
               "photo": "images/articles/grande-h-geode-80-cm-mwopdii3wdx6.jpg",
               "prixBoutique": 1990.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cIbJ273Y1FjaUMdK12a71V",
+              "stripeProductId": "prod_Vf7CtwV0HdJEdh",
+              "stripePriceId": "price_1UdmxrLOfCA5mATuS2IomMrN",
+              "stripeLinkId": "plink_1UdmxsLOfCA5mATu2Yu2g8AK",
+              "stripePrix": 2057.63,
+              "stripeMode": "live",
+              "stripeNom": "Grande H géode 80 cm",
+              "stripeDesc": "Cette grande géode impressionnante mesure 80 centimètres de hauteur et se distingue par ses cristaux aux reflets violets et translucides. Elle est souvent utilisée en lithothérapie pour favoriser la sérénité, équilibrer les émotions et renforcer la connexion spirituelle. Son énergie apaisante en fait un élément décoratif puissant pour les espaces de méditation ou les lieux de vie.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

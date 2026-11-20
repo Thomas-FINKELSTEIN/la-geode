@@ -41069,7 +41069,17 @@
               "description": "Ce bananier artificiel apporte une touche exotique et chaleureuse à votre intérieur tout en évoquant une énergie positive et apaisante. Selon les croyances en lithothérapie et en décoration énergétique, il symbolise la prospérité et la joie de vivre, invitant ainsi une ambiance harmonieuse et dynamique. Idéal pour décorer tout espace avec une touche naturelle et élégante.",
               "photo": "images/articles/bananier-artificiel-mwp7xfk8i0af.jpg",
               "prixBoutique": 13.9,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/aFa14o1JE5Vz6Ew35n2a72m",
+              "stripeProductId": "prod_VfFZA4Hgm2N7ZD",
+              "stripePriceId": "price_1Udv4LLOfCA5mATux44adL0B",
+              "stripeLinkId": "plink_1Udv4LLOfCA5mATuh1kLHYdL",
+              "stripePrix": 14.63,
+              "stripeMode": "live",
+              "stripeNom": "Bananier artificiel",
+              "stripeDesc": "Ce bananier artificiel apporte une touche exotique et chaleureuse à votre intérieur tout en évoquant une énergie positive et apaisante. Selon les croyances en lithothérapie et en décoration énergétique, il symbolise la prospérité et la joie de vivre, invitant ainsi une ambiance harmonieuse et dynamique. Idéal pour décorer tout espace avec une touche naturelle et élégante.",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         },

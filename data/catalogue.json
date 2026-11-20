@@ -31104,7 +31104,17 @@
               "description": "Le canon de shungite est un objet fascinant et puissant, souvent utilisé pour ses propriétés protectrices et équilibrantes. Selon la lithothérapie, cette pierre absorbe les énergies négatives et les ondes électromagnétiques, favorisant ainsi un environnement apaisant et harmonieux. Idéal pour purifier les espaces de vie ou de travail, il est aussi apprécié pour renforcer la concentration et le bien-être émotionnel.",
               "photo": "images/articles/canon-de-shungite-mwp7sjdyjoao.jpg",
               "prixBoutique": 82,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUaEYaga5Vz1kc8pH2a72k",
+              "stripeProductId": "prod_VfFVbyTSljEFdJ",
+              "stripePriceId": "price_1Udv0fLOfCA5mATuWoyEWW0m",
+              "stripeLinkId": "plink_1Udv0fLOfCA5mATucGFDHbGO",
+              "stripePrix": 85.02,
+              "stripeMode": "live",
+              "stripeNom": "Canon de shungite",
+              "stripeDesc": "Le canon de shungite est un objet fascinant et puissant, souvent utilisé pour ses propriétés protectrices et équilibrantes. Selon la lithothérapie, cette pierre absorbe les énergies négatives et les ondes électromagnétiques, favorisant ainsi un environnement apaisant et harmonieux. Idéal pour purifier les espaces de vie ou de travail, il est aussi apprécié pour renforcer la concentration et le bien-être émotionnel.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

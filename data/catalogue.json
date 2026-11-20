@@ -10028,7 +10028,17 @@
               "description": "Ce cristal de roche brut, d'une pureté et d'une énergie subtile, est une pièce naturelle aux reflets translucides et apaisants. En lithothérapie, il est souvent utilisé pour amplifier les intentions positives, purifier l’énergie environnante et favoriser la clarté mentale. Idéal pour décorer un espace tout en bénéficiant de ses vertus harmonisantes, il apporte sérénité et équilibre.",
               "photo": "images/articles/cristal-de-roche-brute-sur-socle-mwop775aswy8.jpg",
               "prixBoutique": 337.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi4gA9c683Hgf621j2a71U",
+              "stripeProductId": "prod_Vf77X26gFyrdON",
+              "stripePriceId": "price_1UdmszLOfCA5mATuZw5LEngf",
+              "stripeLinkId": "plink_1Udmt0LOfCA5mATuJcoNc05M",
+              "stripePrix": 349.1,
+              "stripeMode": "live",
+              "stripeNom": "Cristal de roche brute sur socle",
+              "stripeDesc": "Ce cristal de roche brut, d'une pureté et d'une énergie subtile, est une pièce naturelle aux reflets translucides et apaisants. En lithothérapie, il est souvent utilisé pour amplifier les intentions positives, purifier l’énergie environnante et favoriser la clarté mentale. Idéal pour décorer un espace tout en bénéficiant de ses vertus harmonisantes, il apporte sérénité et équilibre.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

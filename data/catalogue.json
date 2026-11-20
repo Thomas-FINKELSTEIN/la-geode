@@ -35917,7 +35917,17 @@
               "description": "Cette Fontaine bouddha est une pièce décorative et apaisante qui incarne la sérénité et l'harmonie. Selon la lithothérapie, elle favorise la connexion à une énergie paisible et aide à équilibrer les émotions. Parfaite pour les espaces de méditation ou les lieux de détente, elle apporte une touche spirituelle et bienveillante à votre intérieur.",
               "photo": "images/articles/fontaine-bouddha-mwp8kg253u0t.jpg",
               "prixBoutique": 89.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A00k3RM6ZD6Ew9tL2a72p",
+              "stripeProductId": "prod_VfFr5AJufmUcFc",
+              "stripePriceId": "price_1UdvLeLOfCA5mATuBZSVAfdv",
+              "stripeLinkId": "plink_1UdvLeLOfCA5mATueumBgaez",
+              "stripePrix": 93.18,
+              "stripeMode": "live",
+              "stripeNom": "Fontaine bouddha",
+              "stripeDesc": "Cette Fontaine bouddha est une pièce décorative et apaisante qui incarne la sérénité et l'harmonie. Selon la lithothérapie, elle favorise la connexion à une énergie paisible et aide à équilibrer les émotions. Parfaite pour les espaces de méditation ou les lieux de détente, elle apporte une touche spirituelle et bienveillante à votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

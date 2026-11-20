@@ -40250,7 +40250,17 @@
               "description": "Ce pot en verre décoratif contient des éclats de pierre naturelle qui diffusent une énergie apaisante et harmonieuse. Idéal pour créer une ambiance zen dans votre intérieur, il est souvent utilisé pour purifier l’espace et favoriser la sérénité. Parfait pour les amateurs de lithothérapie et de décoration naturelle.",
               "photo": "images/articles/pot-en-verre-decoration-mwouq3r0mquu.jpg",
               "prixBoutique": 36.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFabJ25ZUgAd3skbBT2a729",
+              "stripeProductId": "prod_Vf9cpDCfMZauKL",
+              "stripePriceId": "price_1UdpJULOfCA5mATuCovM0o8q",
+              "stripeLinkId": "plink_1UdpJULOfCA5mATuwRoAaSOw",
+              "stripePrix": 38.4,
+              "stripeMode": "live",
+              "stripeNom": "Pot en verre décoration",
+              "stripeDesc": "Ce pot en verre décoratif contient des éclats de pierre naturelle qui diffusent une énergie apaisante et harmonieuse. Idéal pour créer une ambiance zen dans votre intérieur, il est souvent utilisé pour purifier l’espace et favoriser la sérénité. Parfait pour les amateurs de lithothérapie et de décoration naturelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

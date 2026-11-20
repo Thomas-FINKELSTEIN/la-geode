@@ -40231,7 +40231,17 @@
               "description": "pot de décoration vert",
               "photo": "images/articles/pot-en-verre-de-decoration-mwoumy6kktb2.jpg",
               "prixBoutique": 36.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi5kE5ZU4Rve6Y0Xf2a728",
+              "stripeProductId": "prod_Vf9bAWzdcJSBK5",
+              "stripePriceId": "price_1UdpHzLOfCA5mATuw0JXHkXO",
+              "stripeLinkId": "plink_1UdpHzLOfCA5mATutgNJNZwi",
+              "stripePrix": 38.4,
+              "stripeMode": "live",
+              "stripeNom": "Pot en verre de décoration",
+              "stripeDesc": "pot de décoration vert",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

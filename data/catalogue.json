@@ -35955,7 +35955,17 @@
               "description": "Cette Fontaine Améthyste est une pièce unique et captivante qui allie beauté minérale et énergie apaisante. Composée de cristaux d'améthyste aux reflets violets, elle est réputée pour favoriser la sérénité, la clarté mentale et l'équilibre émotionnel en lithothérapie. Idéale pour décorer un espace tout en invitant la paix et la connexion spirituelle au quotidien.",
               "photo": "images/articles/fontaine-amethyste-mwp8rnp498qx.jpg",
               "prixBoutique": 570,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A6oIgEy83Hd2U49r2a72r",
+              "stripeProductId": "prod_VfFxDfQ9fgvdis",
+              "stripePriceId": "price_1UdvR7LOfCA5mATuNo7l2aNh",
+              "stripeLinkId": "plink_1UdvR7LOfCA5mATuOCrZDvRZ",
+              "stripePrix": 589.41,
+              "stripeMode": "live",
+              "stripeNom": "Fontaine Améthyste",
+              "stripeDesc": "Cette Fontaine Améthyste est une pièce unique et captivante qui allie beauté minérale et énergie apaisante. Composée de cristaux d'améthyste aux reflets violets, elle est réputée pour favoriser la sérénité, la clarté mentale et l'équilibre émotionnel en lithothérapie. Idéale pour décorer un espace tout en invitant la paix et la connexion spirituelle au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

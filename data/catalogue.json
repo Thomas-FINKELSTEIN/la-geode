@@ -40765,7 +40765,17 @@
               "description": "Cette élégante Tige de Fleurs blanche en pierre naturelle apporte une touche délicate et apaisante à votre intérieur. Selon les croyances en lithothérapie, elle est souvent associée à la pureté, à la sérénité et à une énergie douce qui favorise la détente. Idéale pour décorer votre espace tout en invitant une ambiance harmonieuse et positive.",
               "photo": "images/articles/tige-de-fleurs-blanche-mwopj7l2ah49.jpg",
               "prixBoutique": 12.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oUcN61JEabPgf6eO52a71X",
+              "stripeProductId": "prod_Vf7G5cxtJWQQ7E",
+              "stripePriceId": "price_1Udn26LOfCA5mATuiCwtS8Gm",
+              "stripeLinkId": "plink_1Udn26LOfCA5mATuk4Br7d0t",
+              "stripePrix": 13.65,
+              "stripeMode": "live",
+              "stripeNom": "Tige de Fleurs blanche",
+              "stripeDesc": "Cette élégante Tige de Fleurs blanche en pierre naturelle apporte une touche délicate et apaisante à votre intérieur. Selon les croyances en lithothérapie, elle est souvent associée à la pureté, à la sérénité et à une énergie douce qui favorise la détente. Idéale pour décorer votre espace tout en invitant une ambiance harmonieuse et positive.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -10892,7 +10892,17 @@
               "description": "Cette géode d'Améthyste est une pièce spectaculaire aux reflets violets profonds et aux cristaux scintillants. En lithothérapie, elle est réputée pour apaiser l'esprit, favoriser la sérénité et renforcer la connexion à son intuition. Idéale pour décorer tout en bénéficiant de ses vertus apaisantes, elle est souvent utilisée pour équilibrer les émotions et créer une ambiance harmonieuse.",
               "photo": "images/articles/la-geode-amethyste-mwp8irn1wkj5.jpg",
               "prixBoutique": 980,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14AfZifAudo11kcaxP2a72o",
+              "stripeProductId": "prod_VfFqg9qSVrUiBZ",
+              "stripePriceId": "price_1UdvKNLOfCA5mATuTP7fgXq3",
+              "stripeLinkId": "plink_1UdvKOLOfCA5mATu5CFYWsVu",
+              "stripePrix": 1013.18,
+              "stripeMode": "live",
+              "stripeNom": "La géode Améthyste",
+              "stripeDesc": "Cette géode d'Améthyste est une pièce spectaculaire aux reflets violets profonds et aux cristaux scintillants. En lithothérapie, elle est réputée pour apaiser l'esprit, favoriser la sérénité et renforcer la connexion à son intuition. Idéale pour décorer tout en bénéficiant de ses vertus apaisantes, elle est souvent utilisée pour équilibrer les émotions et créer une ambiance harmonieuse.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

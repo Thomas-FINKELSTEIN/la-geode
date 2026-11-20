@@ -31047,7 +31047,17 @@
               "description": "La fleur de vie gravée sur ce support en bois est un symbole universel de connexion, d'harmonie et de croissance spirituelle. Traditionnellement utilisée en lithothérapie et en méditation, elle aide à équilibrer les énergies et à favoriser la paix intérieure. Ce motif géométrique élégant peut être utilisé comme objet de décoration ou comme outil pour méditer et se recentrer.",
               "photo": "images/articles/fleur-de-vie-support-bois-mwoooaop7mhy.jpg",
               "prixBoutique": 25.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/8x228sfAues5bYQaxP2a71S",
+              "stripeProductId": "prod_Vf6sUqhGmeEaw8",
+              "stripePriceId": "price_1UdmeqLOfCA5mATu4xMkfu7l",
+              "stripeLinkId": "plink_1UdmeqLOfCA5mATuhCxrwhzB",
+              "stripePrix": 27.03,
+              "stripeMode": "live",
+              "stripeNom": "Fleur de vie support bois",
+              "stripeDesc": "La fleur de vie gravée sur ce support en bois est un symbole universel de connexion, d'harmonie et de croissance spirituelle. Traditionnellement utilisée en lithothérapie et en méditation, elle aide à équilibrer les énergies et à favoriser la paix intérieure. Ce motif géométrique élégant peut être utilisé comme objet de décoration ou comme outil pour méditer et se recentrer.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

@@ -40549,7 +40549,17 @@
               "description": "Cette petite corbeille tissée artisanale apporte une touche naturelle et chaleureuse à votre intérieur. Idéale pour y déposer des cristaux, des encens ou des petits objets de décoration, elle favorise une ambiance harmonieuse et apaisante. Son énergie douce et équilibrante en fait un accessoire parfait pour créer un coin bien-être à la maison.",
               "photo": "images/articles/petite-corbeille-tisse-mwoo7agkmgcq.jpg",
               "prixBoutique": 14.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2bJ25ZUgAd7IA21j2a71R",
+              "stripeProductId": "prod_Vf6fz8sOardt8W",
+              "stripePriceId": "price_1UdmSKLOfCA5mATuHpl0uxKO",
+              "stripeLinkId": "plink_1UdmSKLOfCA5mATu566eLOzx",
+              "stripePrix": 15.66,
+              "stripeMode": "live",
+              "stripeNom": "Petite corbeille tissé",
+              "stripeDesc": "Cette petite corbeille tissée artisanale apporte une touche naturelle et chaleureuse à votre intérieur. Idéale pour y déposer des cristaux, des encens ou des petits objets de décoration, elle favorise une ambiance harmonieuse et apaisante. Son énergie douce et équilibrante en fait un accessoire parfait pour créer un coin bien-être à la maison.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -37679,7 +37679,17 @@
               "description": "Cette statue en bois sculpté représente une figure méditative inspirée de traditions ancestrales, parfaite pour décorer votre espace tout en apportant une énergie apaisante. Selon les croyances en lithothérapie et en symbolisme spirituel, elle favorise la concentration, la sérénité et l'équilibre intérieur. Idéale pour les amateurs de décoration spirituelle ou ceux cherchant à créer une ambiance harmonieuse dans leur intérieur.",
               "photo": "images/articles/statue-en-bois-sculpte-mwouzf4l6stm.jpg",
               "prixBoutique": 72.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI4gAfAu0BfaUM7lD2a72a",
+              "stripeProductId": "prod_Vf9jipB9QUbSDz",
+              "stripePriceId": "price_1UdpPoLOfCA5mATuPVLfuqyW",
+              "stripeLinkId": "plink_1UdpPoLOfCA5mATuAzM0hkYG",
+              "stripePrix": 75.61,
+              "stripeMode": "live",
+              "stripeNom": "Statue en bois sculpté",
+              "stripeDesc": "Cette statue en bois sculpté représente une figure méditative inspirée de traditions ancestrales, parfaite pour décorer votre espace tout en apportant une énergie apaisante. Selon les croyances en lithothérapie et en symbolisme spirituel, elle favorise la concentration, la sérénité et l'équilibre intérieur. Idéale pour les amateurs de décoration spirituelle ou ceux cherchant à créer une ambiance harmonieuse dans leur intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -35936,7 +35936,17 @@
               "description": "La Fontaine aventurine orange est une pierre aux reflets dorés et chauds, idéale pour apporter douceur et équilibre émotionnel. En lithothérapie, elle est souvent utilisée pour stimuler la créativité et renforcer la confiance en soi. Son énergie positive favorise aussi la détente et aide à surmonter les périodes de stress ou de doute.",
               "photo": "images/articles/fontaine-aventurine-orange-mwp8n1e24ldm.jpg",
               "prixBoutique": 180,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x228sdsmabP9QI8pH2a72q",
+              "stripeProductId": "prod_VfFt1g5ZtL4IZp",
+              "stripePriceId": "price_1UdvNbLOfCA5mATuM1XsMSbs",
+              "stripeLinkId": "plink_1UdvNbLOfCA5mATuJYm9Shdh",
+              "stripePrix": 186.31,
+              "stripeMode": "live",
+              "stripeNom": "Fontaine aventurine orange",
+              "stripeDesc": "La Fontaine aventurine orange est une pierre aux reflets dorés et chauds, idéale pour apporter douceur et équilibre émotionnel. En lithothérapie, elle est souvent utilisée pour stimuler la créativité et renforcer la confiance en soi. Son énergie positive favorise aussi la détente et aide à surmonter les périodes de stress ou de doute.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

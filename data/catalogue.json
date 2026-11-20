@@ -36418,7 +36418,17 @@
               "description": "Cette lampe en bois sculpté apporte une touche chaleureuse et naturelle à votre intérieur. Son design artisanal, inspiré des formes organiques, favorise une ambiance apaisante et propice à la détente. Traditionnellement utilisée pour créer une atmosphère harmonieuse, elle est idéale pour les moments de méditation ou de relaxation.",
               "photo": "images/articles/lampe-en-bois-mwoqm5xhjxwm.jpg",
               "prixBoutique": 129.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi6oI2NI4Rv7IAdK12a723",
+              "stripeProductId": "prod_Vf7ks0QN2jSujt",
+              "stripePriceId": "price_1UdnVRLOfCA5mATuzG3z7hRf",
+              "stripeLinkId": "plink_1UdnVRLOfCA5mATuVdFQG44k",
+              "stripePrix": 134.53,
+              "stripeMode": "live",
+              "stripeNom": "Lampe en bois",
+              "stripeDesc": "Cette lampe en bois sculpté apporte une touche chaleureuse et naturelle à votre intérieur. Son design artisanal, inspiré des formes organiques, favorise une ambiance apaisante et propice à la détente. Traditionnellement utilisée pour créer une atmosphère harmonieuse, elle est idéale pour les moments de méditation ou de relaxation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

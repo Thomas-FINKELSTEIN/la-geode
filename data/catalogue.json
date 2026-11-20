@@ -38902,7 +38902,17 @@
               "description": "Ce socle pivotant noir en forme élégante de candelabre apporte une touche d'élégance et de mystère à votre intérieur. Traditionnellement utilisé pour canaliser et équilibrer les énergies, il peut aussi servir de support pour des pierres ou des cristaux afin d’amplifier leurs propriétés. Son design unique en fait un objet décoratif à la fois esthétique et porteur d’une énergie apaisante et harmonieuse.",
               "photo": "images/articles/socle-pivotant-noir-mwp77hk640v6.jpg",
               "prixBoutique": 30.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2bJ2fAu1Fj8ME6hz2a72g",
+              "stripeProductId": "prod_VfFFlZcmGmqhbW",
+              "stripePriceId": "price_1UdukrLOfCA5mATuRZ6Z5Aph",
+              "stripeLinkId": "plink_1UdukrLOfCA5mATuZdnlrJA3",
+              "stripePrix": 31.79,
+              "stripeMode": "live",
+              "stripeNom": "Socle pivotant noir",
+              "stripeDesc": "Ce socle pivotant noir en forme élégante de candelabre apporte une touche d'élégance et de mystère à votre intérieur. Traditionnellement utilisé pour canaliser et équilibrer les énergies, il peut aussi servir de support pour des pierres ou des cristaux afin d’amplifier leurs propriétés. Son design unique en fait un objet décoratif à la fois esthétique et porteur d’une énergie apaisante et harmonieuse.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

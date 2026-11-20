@@ -35600,25 +35600,6 @@
               "epuise": false
             },
             {
-              "id": "paravent-en-teck-mv6eg5rh1q45",
-              "nom": "Paravent en teck",
-              "prix": 619.38,
-              "description": "Ce paravent en teck, aux motifs organiques et naturels, apporte une touche d'élégance et de sérénité à votre intérieur. Le teck, bois résistant et esthétique, est souvent utilisé pour ses propriétés apaisantes et son énergie stabilisatrice, aidant à créer un espace harmonieux et équilibré. Idéal pour délimiter un coin calme ou simplement comme élément décoratif, il invite à la méditation et au bien-être au quotidien.",
-              "photo": "images/articles/paravent-en-teck-mv6eg5rhmuph.jpg",
-              "prixBoutique": 599,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/4gM5kEdsm5Vz1kc7lD29q1d",
-              "stripeProductId": "prod_VQxQ8IqSRQikbJ",
-              "stripePriceId": "price_1UQ5VeLOfCA5mATuqtNtx2Hx",
-              "stripeLinkId": "plink_1UQ5VeLOfCA5mATux0f9rKA0",
-              "stripePrix": 619.38,
-              "stripeMode": "live",
-              "stripeNom": "Paravent en teck",
-              "stripeDesc": "Ce paravent en teck, aux motifs organiques et naturels, apporte une touche d'élégance et de sérénité à votre intérieur. Le teck, bois résistant et esthétique, est souvent utilisé pour ses propriétés apaisantes et son énergie stabilisatrice, aidant à créer un espace harmonieux et équilibré. Idéal pour délimiter un coin calme ou simplement comme élément décoratif, il invite à la méditation et au bien-être au quotidien.",
-              "stripeStock": 1,
-              "epuise": false
-            },
-            {
               "id": "verre-souffle-sur-bois-flotte-35-cm-h-x--mvgv25lueo2v",
               "nom": "Verre soufflé sur bois flotté 35 cm H x 30 l",
               "prix": 74.17,
@@ -41676,6 +41657,25 @@
               "stripeMode": "live",
               "stripeNom": "Tabouret en teck",
               "stripeDesc": "Ce tabouret en teck allie élégance naturelle et stabilité, parfait pour décorer votre intérieur tout en apportant une touche chaleureuse et organique. Le teck, bois résistant et durable, est souvent utilisé pour ses propriétés apaisantes et son énergie équilibrante, favorisant un environnement serein et harmonieux. Idéal pour une ambiance zen ou une touche déco originale, il s’intègre aussi bien dans un espace minimaliste que dans un cadre plus rustique.",
+              "stripeStock": 1,
+              "epuise": false
+            },
+            {
+              "id": "paravent-en-teck-mv6eg5rh1q45",
+              "nom": "Paravent en teck",
+              "prix": 619.38,
+              "description": "Ce paravent en teck, aux motifs organiques et naturels, apporte une touche d'élégance et de sérénité à votre intérieur. Le teck, bois résistant et esthétique, est souvent utilisé pour ses propriétés apaisantes et son énergie stabilisatrice, aidant à créer un espace harmonieux et équilibré. Idéal pour délimiter un coin calme ou simplement comme élément décoratif, il invite à la méditation et au bien-être au quotidien.",
+              "photo": "images/articles/paravent-en-teck-mv6eg5rhmuph.jpg",
+              "prixBoutique": 599,
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM5kEdsm5Vz1kc7lD29q1d",
+              "stripeProductId": "prod_VQxQ8IqSRQikbJ",
+              "stripePriceId": "price_1UQ5VeLOfCA5mATuqtNtx2Hx",
+              "stripeLinkId": "plink_1UQ5VeLOfCA5mATux0f9rKA0",
+              "stripePrix": 619.38,
+              "stripeMode": "live",
+              "stripeNom": "Paravent en teck",
+              "stripeDesc": "Ce paravent en teck, aux motifs organiques et naturels, apporte une touche d'élégance et de sérénité à votre intérieur. Le teck, bois résistant et esthétique, est souvent utilisé pour ses propriétés apaisantes et son énergie stabilisatrice, aidant à créer un espace harmonieux et équilibré. Idéal pour délimiter un coin calme ou simplement comme élément décoratif, il invite à la méditation et au bien-être au quotidien.",
               "stripeStock": 1,
               "epuise": false
             }

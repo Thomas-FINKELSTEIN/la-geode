@@ -35879,7 +35879,17 @@
               "description": "Cette fontaine d'améthyste brute est une pièce majestueuse et captivante, composée de cristaux violets aux reflets lumineux. En lithothérapie, l'améthyste est souvent utilisée pour apaiser l'esprit, favoriser la sérénité et renforcer la connexion spirituelle. Elle est idéale pour créer une ambiance harmonieuse dans un espace de méditation ou de détente.",
               "photo": "images/articles/fontaine-d-amethyste-mwp8bn238s5x.jpg",
               "prixBoutique": 450,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZudRa3RM2Jn9QI7lD2a72n",
+              "stripeProductId": "prod_VfFkeLsuhTDyzq",
+              "stripePriceId": "price_1UdvF3LOfCA5mATurcnFBcQc",
+              "stripeLinkId": "plink_1UdvF3LOfCA5mATunRagUz57",
+              "stripePrix": 465.38,
+              "stripeMode": "live",
+              "stripeNom": "Fontaine d' améthyste",
+              "stripeDesc": "Cette fontaine d'améthyste brute est une pièce majestueuse et captivante, composée de cristaux violets aux reflets lumineux. En lithothérapie, l'améthyste est souvent utilisée pour apaiser l'esprit, favoriser la sérénité et renforcer la connexion spirituelle. Elle est idéale pour créer une ambiance harmonieuse dans un espace de méditation ou de détente.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

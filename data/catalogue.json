@@ -39932,7 +39932,17 @@
               "description": "miroir décoration en plume",
               "photo": "images/articles/miroir-plume-mwp7ere117ys.jpg",
               "prixBoutique": 24.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe3cwewq97L3skaxP2a72i",
+              "stripeProductId": "prod_VfFLZdAixal13T",
+              "stripePriceId": "price_1Udur2LOfCA5mATubBX3GEJt",
+              "stripeLinkId": "plink_1Udur3LOfCA5mATuyN9ezmzE",
+              "stripePrix": 26,
+              "stripeMode": "live",
+              "stripeNom": "Miroir plume",
+              "stripeDesc": "miroir décoration en plume",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

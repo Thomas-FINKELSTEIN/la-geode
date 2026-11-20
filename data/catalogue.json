@@ -36437,7 +36437,17 @@
               "description": "La sélénite brute est une pierre lunaire aux reflets doux et apaisants, idéale pour créer une ambiance zen dans votre intérieur. Utilisée en lithothérapie pour ses propriétés purificatrices et apaisantes, elle favorise la connexion à l’énergie lunaire, aidant à calmer l’esprit et à équilibrer les émotions. Cette lampe en sélénite brute diffuse une lumière douce et enveloppante, parfaite pour les moments de détente ou de méditation.",
               "photo": "images/articles/lampe-en-selenite-brute-mwopl4ipasls.jpg",
               "prixBoutique": 14.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI8wQ0FA97Lgf60Xf2a71Y",
+              "stripeProductId": "prod_Vf7IpPuQS8z0aL",
+              "stripePriceId": "price_1Udn3VLOfCA5mATuM42cT5ql",
+              "stripeLinkId": "plink_1Udn3WLOfCA5mATuR6x0Eb3P",
+              "stripePrix": 15.66,
+              "stripeMode": "live",
+              "stripeNom": "Lampe en sélénite brute",
+              "stripeDesc": "La sélénite brute est une pierre lunaire aux reflets doux et apaisants, idéale pour créer une ambiance zen dans votre intérieur. Utilisée en lithothérapie pour ses propriétés purificatrices et apaisantes, elle favorise la connexion à l’énergie lunaire, aidant à calmer l’esprit et à équilibrer les émotions. Cette lampe en sélénite brute diffuse une lumière douce et enveloppante, parfaite pour les moments de détente ou de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -41686,7 +41686,17 @@
               "description": "Cette console en teck apporte une touche naturelle et chaleureuse à votre intérieur. Le bois de teck, résistant et élégant, est souvent associé à une énergie apaisante et équilibrante, favorisant un cadre de vie harmonieux. Son design rustique et authentique en fait un élément décoratif à la fois moderne et intemporel, parfait pour les espaces où l’on aime allier esthétique et bien-être.",
               "photo": "images/articles/console-en-teck-mwoq59mrhuzp.jpg",
               "prixBoutique": 158,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/7sYbJ273Yfw9aUM35n2a720",
+              "stripeProductId": "prod_Vf7XVexiTlnMoL",
+              "stripePriceId": "price_1UdnIcLOfCA5mATugPgnA8qz",
+              "stripeLinkId": "plink_1UdnIcLOfCA5mATuNvdtCz0w",
+              "stripePrix": 163.57,
+              "stripeMode": "live",
+              "stripeNom": "Console en teck",
+              "stripeDesc": "Cette console en teck apporte une touche naturelle et chaleureuse à votre intérieur. Le bois de teck, résistant et élégant, est souvent associé à une énergie apaisante et équilibrante, favorisant un cadre de vie harmonieux. Son design rustique et authentique en fait un élément décoratif à la fois moderne et intemporel, parfait pour les espaces où l’on aime allier esthétique et bien-être.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

@@ -38807,7 +38807,17 @@
               "description": "Cette délicate statuette de tortue avec son coffre incarne un symbole de protection et de patience en lithothérapie. Associée à la stabilité émotionnelle et à la sagesse, elle est souvent utilisée pour apaiser les esprits agités et favoriser un sentiment de sécurité intérieure. Parfaite pour décorer un espace de méditation ou un bureau, elle apporte une touche d'harmonie et de sérénité au quotidien.",
               "photo": "images/articles/tortue-avec-coffre-mwou9iv72s8d.jpg",
               "prixBoutique": 9.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2eVe73Y0Bf7IA21j2a725",
+              "stripeProductId": "prod_Vf9OQtYz2h3g1P",
+              "stripePriceId": "price_1Udp6BLOfCA5mATufAFeYOk2",
+              "stripeLinkId": "plink_1Udp6BLOfCA5mATuDtqoZyrh",
+              "stripePrix": 10.08,
+              "stripeMode": "live",
+              "stripeNom": "Tortue avec coffre",
+              "stripeDesc": "Cette délicate statuette de tortue avec son coffre incarne un symbole de protection et de patience en lithothérapie. Associée à la stabilité émotionnelle et à la sagesse, elle est souvent utilisée pour apaiser les esprits agités et favoriser un sentiment de sécurité intérieure. Parfaite pour décorer un espace de méditation ou un bureau, elle apporte une touche d'harmonie et de sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

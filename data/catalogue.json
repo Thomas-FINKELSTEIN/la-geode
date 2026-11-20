@@ -35581,25 +35581,6 @@
           "slogan": "Chaque pièce est unique : verre recyclé soufflé sur bois de teck, création artisanale.",
           "articles": [
             {
-              "id": "tabouret-en-teck-mv6cwqr55awu",
-              "nom": "Tabouret en teck",
-              "prix": 125.33,
-              "description": "Ce tabouret en teck allie élégance naturelle et stabilité, parfait pour décorer votre intérieur tout en apportant une touche chaleureuse et organique. Le teck, bois résistant et durable, est souvent utilisé pour ses propriétés apaisantes et son énergie équilibrante, favorisant un environnement serein et harmonieux. Idéal pour une ambiance zen ou une touche déco originale, il s’intègre aussi bien dans un espace minimaliste que dans un cadre plus rustique.",
-              "photo": "images/articles/tabouret-en-teck-mv6cwqr5mma5.jpg",
-              "prixBoutique": 121,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/9B6dRa0FA4Rv7IAfS929q1b",
-              "stripeProductId": "prod_VQxQxMf949GluK",
-              "stripePriceId": "price_1UQ5VcLOfCA5mATuqQMuwsU7",
-              "stripeLinkId": "plink_1UQ5VdLOfCA5mATuekXxY1H6",
-              "stripePrix": 125.33,
-              "stripeMode": "live",
-              "stripeNom": "Tabouret en teck",
-              "stripeDesc": "Ce tabouret en teck allie élégance naturelle et stabilité, parfait pour décorer votre intérieur tout en apportant une touche chaleureuse et organique. Le teck, bois résistant et durable, est souvent utilisé pour ses propriétés apaisantes et son énergie équilibrante, favorisant un environnement serein et harmonieux. Idéal pour une ambiance zen ou une touche déco originale, il s’intègre aussi bien dans un espace minimaliste que dans un cadre plus rustique.",
-              "stripeStock": 1,
-              "epuise": false
-            },
-            {
               "id": "verre-souffle-sur-racine-de-bois-flotte-mv6eek9jajdc",
               "nom": "Verre soufflé sur racine de bois flotté",
               "prix": 264.86,
@@ -41676,6 +41657,25 @@
               "stripeMode": "live",
               "stripeNom": "Récipient en teck",
               "stripeDesc": "Ce récipient en teck, au bois chaleureux et aux veines naturelles, apporte une touche d'élégance et de sérénité à votre intérieur. Le teck est souvent utilisé pour ses propriétés apaisantes et son énergie stabilisatrice, favorisant un environnement harmonieux et équilibré. Idéal pour y déposer des pierres, des cristaux ou simplement pour une décoration naturelle et intemporelle.",
+              "stripeStock": 1,
+              "epuise": false
+            },
+            {
+              "id": "tabouret-en-teck-mv6cwqr55awu",
+              "nom": "Tabouret en teck",
+              "prix": 125.33,
+              "description": "Ce tabouret en teck allie élégance naturelle et stabilité, parfait pour décorer votre intérieur tout en apportant une touche chaleureuse et organique. Le teck, bois résistant et durable, est souvent utilisé pour ses propriétés apaisantes et son énergie équilibrante, favorisant un environnement serein et harmonieux. Idéal pour une ambiance zen ou une touche déco originale, il s’intègre aussi bien dans un espace minimaliste que dans un cadre plus rustique.",
+              "photo": "images/articles/tabouret-en-teck-mv6cwqr5mma5.jpg",
+              "prixBoutique": 121,
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6dRa0FA4Rv7IAfS929q1b",
+              "stripeProductId": "prod_VQxQxMf949GluK",
+              "stripePriceId": "price_1UQ5VcLOfCA5mATuqQMuwsU7",
+              "stripeLinkId": "plink_1UQ5VdLOfCA5mATuekXxY1H6",
+              "stripePrix": 125.33,
+              "stripeMode": "live",
+              "stripeNom": "Tabouret en teck",
+              "stripeDesc": "Ce tabouret en teck allie élégance naturelle et stabilité, parfait pour décorer votre intérieur tout en apportant une touche chaleureuse et organique. Le teck, bois résistant et durable, est souvent utilisé pour ses propriétés apaisantes et son énergie équilibrante, favorisant un environnement serein et harmonieux. Idéal pour une ambiance zen ou une touche déco originale, il s’intègre aussi bien dans un espace minimaliste que dans un cadre plus rustique.",
               "stripeStock": 1,
               "epuise": false
             }

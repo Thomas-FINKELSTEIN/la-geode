@@ -37660,7 +37660,17 @@
               "description": "La statuette de Tara en laiton incarne une figure sacrée associée à la compassion et à la protection dans les traditions bouddhistes. Mesurant 40 centimètres de hauteur, elle apporte une énergie apaisante et une connexion spirituelle profonde à votre espace. Idéale pour la méditation ou comme élément décoratif inspirant, elle symbolise aussi la force intérieure et la sagesse.",
               "photo": "images/articles/tara-en-laiton-40-cm-h-mwoujftw979i.jpg",
               "prixBoutique": 219,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/aFacN6fAudo12og21j2a727",
+              "stripeProductId": "prod_Vf9Wd5wXLx0hRl",
+              "stripePriceId": "price_1UdpDgLOfCA5mATufcMHniCR",
+              "stripeLinkId": "plink_1UdpDgLOfCA5mATu3vEEbtJl",
+              "stripePrix": 226.62,
+              "stripeMode": "live",
+              "stripeNom": "Tara en laiton 40 cm H",
+              "stripeDesc": "La statuette de Tara en laiton incarne une figure sacrée associée à la compassion et à la protection dans les traditions bouddhistes. Mesurant 40 centimètres de hauteur, elle apporte une énergie apaisante et une connexion spirituelle profonde à votre espace. Idéale pour la méditation ou comme élément décoratif inspirant, elle symbolise aussi la force intérieure et la sagesse.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

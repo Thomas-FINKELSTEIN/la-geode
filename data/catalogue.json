@@ -40746,7 +40746,17 @@
               "description": "Ces tiges de roses blanches artificielles apportent une touche d'élégance et de douceur à votre intérieur. En lithothérapie et symboliquement, la rose blanche est souvent associée à la pureté, à la paix de l'esprit et à l'ouverture du cœur. Elle est idéale pour créer une ambiance apaisante et favoriser la sérénité dans votre espace de vie ou de travail.",
               "photo": "images/articles/tige-de-roses-blanches-mwophgbrh0sq.jpg",
               "prixBoutique": 10.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/cNi4gA5ZUcjX3sk9tL2a71W",
+              "stripeProductId": "prod_Vf7FYnjhDSdZvH",
+              "stripePriceId": "price_1Udn0jLOfCA5mATuG3jnHxl8",
+              "stripeLinkId": "plink_1Udn0jLOfCA5mATumDapvAKf",
+              "stripePrix": 11.58,
+              "stripeMode": "live",
+              "stripeNom": "Tige de Roses blanches",
+              "stripeDesc": "Ces tiges de roses blanches artificielles apportent une touche d'élégance et de douceur à votre intérieur. En lithothérapie et symboliquement, la rose blanche est souvent associée à la pureté, à la paix de l'esprit et à l'ouverture du cœur. Elle est idéale pour créer une ambiance apaisante et favoriser la sérénité dans votre espace de vie ou de travail.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

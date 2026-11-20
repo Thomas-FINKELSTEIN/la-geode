@@ -11708,7 +11708,17 @@
               "description": "Cette sphère en jaspe bois fossile est une pièce unique aux reflets dorés et aux motifs organiques rappelant les veines de bois pétrifié. En lithothérapie, ce minéral est souvent associé à la stabilité émotionnelle et à la connexion avec la nature, aidant à apaiser les tensions et à renforcer la confiance en soi. Idéale pour une décoration harmonieuse tout en bénéficiant de ses propriétés énergétiques équilibrantes.",
               "photo": "images/articles/sphere-en-jaspe-bois-fossile-mwp74ct9f53d.jpg",
               "prixBoutique": 138,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ7sMfAues59QI49r2a72f",
+              "stripeProductId": "prod_VfFDIqPsL98Bdx",
+              "stripePriceId": "price_1UduiaLOfCA5mATuWfPnrMe3",
+              "stripeLinkId": "plink_1UduiaLOfCA5mATuFCC6Z1lR",
+              "stripePrix": 142.9,
+              "stripeMode": "live",
+              "stripeNom": "Sphère en jaspe bois fossile",
+              "stripeDesc": "Cette sphère en jaspe bois fossile est une pièce unique aux reflets dorés et aux motifs organiques rappelant les veines de bois pétrifié. En lithothérapie, ce minéral est souvent associé à la stabilité émotionnelle et à la connexion avec la nature, aidant à apaiser les tensions et à renforcer la confiance en soi. Idéale pour une décoration harmonieuse tout en bénéficiant de ses propriétés énergétiques équilibrantes.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

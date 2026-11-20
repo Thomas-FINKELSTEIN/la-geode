@@ -35815,7 +35815,17 @@
               "description": "Ce verre soufflé sur bois flotté est une pièce décorative unique, alliant élégance naturelle et harmonie visuelle. Les branches aux baies rouges évoquent une touche de vitalité et de connexion avec la nature, tandis que les pierres translucides intégrées apportent une énergie apaisante et équilibrante. Idéal pour sublimer un intérieur tout en invitant une ambiance bienveillante et inspirante, ce produit est parfait pour ceux qui cherchent à allier esthétique et sérénité au quotidien.",
               "photo": "images/articles/verre-souffle-sur-bois-flotte-mwp4zjhy7ao8.jpg",
               "prixBoutique": 43.99,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x23cwbke83He6Y0Xf2a72b",
+              "stripeProductId": "prod_VfEFkVjp5Vo5N6",
+              "stripePriceId": "price_1UdtmkLOfCA5mATuFNHgRG14",
+              "stripeLinkId": "plink_1UdtmlLOfCA5mATudTkHeeO3",
+              "stripePrix": 45.73,
+              "stripeMode": "live",
+              "stripeNom": "Verre soufflé sur bois flotté",
+              "stripeDesc": "Ce verre soufflé sur bois flotté est une pièce décorative unique, alliant élégance naturelle et harmonie visuelle. Les branches aux baies rouges évoquent une touche de vitalité et de connexion avec la nature, tandis que les pierres translucides intégrées apportent une énergie apaisante et équilibrante. Idéal pour sublimer un intérieur tout en invitant une ambiance bienveillante et inspirante, ce produit est parfait pour ceux qui cherchent à allier esthétique et sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -40967,7 +40967,17 @@
               "description": "Ce tapis tissé artisanal, inspiré des savoir-faire traditionnels, apporte une touche d'authenticité et de chaleur à votre espace. Associé à des propriétés apaisantes et équilibrantes en lithothérapie, il est souvent utilisé pour créer une ambiance harmonieuse et favoriser la détente. Parfait pour décorer tout en intégrant une énergie positive dans votre intérieur.",
               "photo": "images/articles/tapis-tisse-maroquinerie-mwq9js7mtl6j.jpg",
               "prixBoutique": 24.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq9AUdsm5Vzfb25dv2a72t",
+              "stripeProductId": "prod_VfWYIaqXN98ozW",
+              "stripePriceId": "price_1UeBVaLOfCA5mATuaS70iebJ",
+              "stripeLinkId": "plink_1UeBVaLOfCA5mATuBwIA4EHo",
+              "stripePrix": 26,
+              "stripeMode": "live",
+              "stripeNom": "Tapis tissé Maroquinerie",
+              "stripeDesc": "Ce tapis tissé artisanal, inspiré des savoir-faire traditionnels, apporte une touche d'authenticité et de chaleur à votre espace. Associé à des propriétés apaisantes et équilibrantes en lithothérapie, il est souvent utilisé pour créer une ambiance harmonieuse et favoriser la détente. Parfait pour décorer tout en intégrant une énergie positive dans votre intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

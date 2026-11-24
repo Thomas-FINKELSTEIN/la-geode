@@ -40910,7 +40910,17 @@
               "description": "Ce tapis tissé rond marocain apporte une touche d'authenticité et de chaleur à votre intérieur. Fabriqué à partir de fibres naturelles, il est idéal pour créer une ambiance apaisante et harmonieuse dans votre espace de vie. Son design artisanal en spirale évoque un lien avec la nature et les traditions ancestrales, tout en offrant une base douce et confortable pour vos moments de détente ou de méditation.",
               "photo": "images/articles/tapis-tisse-rond-marocain-mwuhoievfyln.jpg",
               "prixBoutique": 24.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/00w00k5ZUbfT4wocFX2a72z",
+              "stripeProductId": "prod_VgdEXCNrd062cD",
+              "stripePriceId": "price_1UfFyTLOfCA5mATuEU6gexgL",
+              "stripeLinkId": "plink_1UfFyTLOfCA5mATuqGKhWx9j",
+              "stripePrix": 26,
+              "stripeMode": "live",
+              "stripeNom": "Tapis tissé rond marocain",
+              "stripeDesc": "Ce tapis tissé rond marocain apporte une touche d'authenticité et de chaleur à votre intérieur. Fabriqué à partir de fibres naturelles, il est idéal pour créer une ambiance apaisante et harmonieuse dans votre espace de vie. Son design artisanal en spirale évoque un lien avec la nature et les traditions ancestrales, tout en offrant une base douce et confortable pour vos moments de détente ou de méditation.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

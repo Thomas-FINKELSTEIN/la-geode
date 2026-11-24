@@ -40910,7 +40910,17 @@
               "description": "Ce tapis tissé marocain artisanal apporte une touche d'authenticité et de chaleur à votre intérieur. Ses motifs traditionnels et son tissage minutieux en font une pièce décorative unique, tout en harmonisant les énergies positives de votre espace. Idéal pour créer une ambiance apaisante et équilibrante, il s’intègre parfaitement dans un cadre bohème ou oriental.",
               "photo": "images/articles/tapis-tisse-marocain-82-cm-d-mwuhvwmpesxn.jpg",
               "prixBoutique": 32.7,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe9AU1JEbfT3skdK12a72A",
+              "stripeProductId": "prod_VgdLkyOKNEKyqe",
+              "stripePriceId": "price_1UfG4YLOfCA5mATuUfcT4KvR",
+              "stripeLinkId": "plink_1UfG4YLOfCA5mATuH6c3nlFW",
+              "stripePrix": 34.06,
+              "stripeMode": "live",
+              "stripeNom": "Tapis tissé marocain 82 cm D",
+              "stripeDesc": "Ce tapis tissé marocain artisanal apporte une touche d'authenticité et de chaleur à votre intérieur. Ses motifs traditionnels et son tissage minutieux en font une pièce décorative unique, tout en harmonisant les énergies positives de votre espace. Idéal pour créer une ambiance apaisante et équilibrante, il s’intègre parfaitement dans un cadre bohème ou oriental.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -41016,6 +41016,15 @@
               "stripeDesc": "",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "sac-tisse-mwvwhqgrszlv",
+              "nom": "Sac tissé",
+              "prix": 37.37,
+              "description": "Ce sac tissé artisanal allie élégance et harmonie naturelle, parfait pour transporter vos cristaux ou petits objets de bien-être au quotidien. Son design apaisant favorise une énergie positive et une ambiance zen, idéal pour accompagner vos rituels de relaxation ou vos déplacements. Fabriqué avec des matériaux bruts, il s’intègre parfaitement dans une décoration bohème ou spirituelle.",
+              "photo": "images/articles/sac-tisse-mwvwhqgr5shl.jpg",
+              "prixBoutique": 35.9,
+              "stock": 1
             }
           ]
         },

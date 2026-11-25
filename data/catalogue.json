@@ -41043,7 +41043,17 @@
               "description": "Ce sac tissé marocain allie élégance et symbolisme, souvent utilisé pour apporter une touche d'authenticité et de chaleur à un intérieur. Selon les croyances en lithothérapie et en énergie positive, il est parfois associé à la protection et à l'équilibre des espaces, tout en évoquant les traditions artisanales riches du Maroc. Parfait pour décorer tout en s’imprégnant d’une ambiance apaisante et inspirante.",
               "photo": "images/articles/sac-tisse-marocain-mwvxl5g10b6t.jpg",
               "prixBoutique": 25.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gM4gAcoi97Ld2U6hz2a72K",
+              "stripeProductId": "prod_Vh0g0hMvPK83kb",
+              "stripePriceId": "price_1UfcfELOfCA5mATuzXMwNpdb",
+              "stripeLinkId": "plink_1UfcfFLOfCA5mATuhrJAFkql",
+              "stripePrix": 26.72,
+              "stripeMode": "live",
+              "stripeNom": "Sac tissé marocain",
+              "stripeDesc": "Ce sac tissé marocain allie élégance et symbolisme, souvent utilisé pour apporter une touche d'authenticité et de chaleur à un intérieur. Selon les croyances en lithothérapie et en énergie positive, il est parfois associé à la protection et à l'équilibre des espaces, tout en évoquant les traditions artisanales riches du Maroc. Parfait pour décorer tout en s’imprégnant d’une ambiance apaisante et inspirante.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

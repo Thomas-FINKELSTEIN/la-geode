@@ -34080,15 +34080,15 @@
               "photo": "images/articles/mini-porte-encens-mwwebmas32tb.jpg",
               "prixBoutique": 4.5,
               "stock": 2,
-              "stripe": "https://buy.stripe.com/9B67sMfAu1Fj4wo7lD2a73a",
+              "stripe": "https://buy.stripe.com/8x25kE3RM0Bf3sk35n2a73b",
               "stripeProductId": "prod_Vh8FHWQicee4Vh",
               "stripePriceId": "price_1UfjyYLOfCA5mATuZDAdfqOg",
-              "stripeLinkId": "plink_1UfjyYLOfCA5mATuwMtZsifd",
+              "stripeLinkId": "plink_1Ufk13LOfCA5mATuiXm8cA3v",
               "stripePrix": 4.91,
               "stripeMode": "live",
               "stripeNom": "Mini porte encens",
               "stripeDesc": "Mini porte encens",
-              "stripeStock": 1,
+              "stripeStock": 2,
               "epuise": false
             },
             {
@@ -34098,7 +34098,17 @@
               "description": "mini porte encens",
               "photo": "images/articles/mini-porte-encens-mwweekgqcvdt.jpg",
               "prixBoutique": 4.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/cNi00k2NI1Fjgf621j2a73c",
+              "stripeProductId": "prod_Vh8HpCPhvLLh6M",
+              "stripePriceId": "price_1Ufk13LOfCA5mATuG65W2d29",
+              "stripeLinkId": "plink_1Ufk14LOfCA5mATudJFjN7Tz",
+              "stripePrix": 4.91,
+              "stripeMode": "live",
+              "stripeNom": "Mini porte encens",
+              "stripeDesc": "mini porte encens",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

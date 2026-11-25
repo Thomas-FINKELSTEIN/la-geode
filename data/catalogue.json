@@ -41100,7 +41100,17 @@
               "description": "Ce panier en fibres naturelles apporte une touche d'authenticité et de chaleur à votre intérieur. Fabriqué à partir de matériaux bruts et artisanaux, il évoque une énergie apaisante et ancrée, idéale pour créer une ambiance harmonieuse dans votre espace de vie. Parfait pour le rangement ou comme élément décoratif, il rappelle aussi les traditions ancestrales liées à la connexion avec la terre et ses ressources.",
               "photo": "images/articles/panier-en-fibres-naturelles-mwvy51uipbgn.jpg",
               "prixBoutique": 44.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJecN62NI83H0g8dK12a72N",
+              "stripeProductId": "prod_Vh0w0wToLicAyJ",
+              "stripePriceId": "price_1UfcuDLOfCA5mATucygG2tbQ",
+              "stripeLinkId": "plink_1UfcuDLOfCA5mATuiHGdYrz4",
+              "stripePrix": 46.67,
+              "stripeMode": "live",
+              "stripeNom": "Panier en fibres naturelles",
+              "stripeDesc": "Ce panier en fibres naturelles apporte une touche d'authenticité et de chaleur à votre intérieur. Fabriqué à partir de matériaux bruts et artisanaux, il évoque une énergie apaisante et ancrée, idéale pour créer une ambiance harmonieuse dans votre espace de vie. Parfait pour le rangement ou comme élément décoratif, il rappelle aussi les traditions ancestrales liées à la connexion avec la terre et ses ressources.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

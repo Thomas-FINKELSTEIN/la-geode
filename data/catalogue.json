@@ -41339,6 +41339,15 @@
               "stripeDesc": "petit couffin tissé main",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "grand-couffin-tisse-mww9yrvnjhup",
+              "nom": "Grand couffin tissé",
+              "prix": 36.39,
+              "description": "Grand couffin tissé",
+              "photo": "images/articles/grand-couffin-tisse-mww9yrvnqnbs.jpg",
+              "prixBoutique": 34.95,
+              "stock": 1
             }
           ]
         },

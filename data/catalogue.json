@@ -37755,7 +37755,17 @@
               "description": "Cette statue en résine représente une figure apaisante et élégante, idéale pour décorer votre espace tout en apportant une énergie de sérénité. Souvent utilisée en lithothérapie pour favoriser la méditation et la concentration, elle invite à la détente et à l’harmonie intérieure. Parfaite pour les amateurs de décoration spirituelle ou ceux qui cherchent à créer une ambiance paisible dans leur intérieur.",
               "photo": "images/articles/statue-resine-40x30-cm-mwvz3741sfk4.jpg",
               "prixBoutique": 92,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B6aEY882gAd5AsgWd2a72U",
+              "stripeProductId": "prod_Vh1MQUVJ1Atmdq",
+              "stripePriceId": "price_1UfdJtLOfCA5mATuR6RtWlcg",
+              "stripeLinkId": "plink_1UfdJuLOfCA5mATufHQbEVp7",
+              "stripePrix": 95.35,
+              "stripeMode": "live",
+              "stripeNom": "Statue résine 40x30 cm",
+              "stripeDesc": "Cette statue en résine représente une figure apaisante et élégante, idéale pour décorer votre espace tout en apportant une énergie de sérénité. Souvent utilisée en lithothérapie pour favoriser la méditation et la concentration, elle invite à la détente et à l’harmonie intérieure. Parfaite pour les amateurs de décoration spirituelle ou ceux qui cherchent à créer une ambiance paisible dans leur intérieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

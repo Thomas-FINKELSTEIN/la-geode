@@ -41005,7 +41005,17 @@
               "description": "",
               "photo": "images/articles/panier-tisse-mwvwbg13vbkt.jpg",
               "prixBoutique": 35.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ28sfAu6ZDe6YdK12a72H",
+              "stripeProductId": "prod_Vh07WNUacVrw6c",
+              "stripePriceId": "price_1Ufc6pLOfCA5mATuPtj16tfF",
+              "stripeLinkId": "plink_1Ufc6pLOfCA5mATuOIVGpOQO",
+              "stripePrix": 37.37,
+              "stripeMode": "live",
+              "stripeNom": "Panier tissé",
+              "stripeDesc": "",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -34079,7 +34079,17 @@
               "description": "Mini porte encens",
               "photo": "images/articles/mini-porte-encens-mwwebmas32tb.jpg",
               "prixBoutique": 4.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/9B67sMfAu1Fj4wo7lD2a73a",
+              "stripeProductId": "prod_Vh8FHWQicee4Vh",
+              "stripePriceId": "price_1UfjyYLOfCA5mATuZDAdfqOg",
+              "stripeLinkId": "plink_1UfjyYLOfCA5mATuwMtZsifd",
+              "stripePrix": 4.91,
+              "stripeMode": "live",
+              "stripeNom": "Mini porte encens",
+              "stripeDesc": "Mini porte encens",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

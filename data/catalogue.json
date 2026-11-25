@@ -41320,6 +41320,15 @@
               "stripeDesc": "Panier carré tissé",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "petit-couffin-mww9w9zbbh2n",
+              "nom": "Petit couffin",
+              "prix": 19.85,
+              "description": "petit couffin tissé main",
+              "photo": "images/articles/petit-couffin-mww9w9zbrijv.jpg",
+              "prixBoutique": 18.95,
+              "stock": 1
             }
           ]
         },

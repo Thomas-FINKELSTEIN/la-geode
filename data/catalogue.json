@@ -40929,7 +40929,17 @@
               "description": "Ce sac tissé Marocartizana allie artisanat traditionnel et élégance naturelle. Fabriqué à partir de fibres végétales, il est idéal pour transporter vos cristaux ou petits objets de lithothérapie en toute douceur. Son design chaleureux et son origine artisanale en font un accessoire à la fois pratique et décoratif, parfait pour accompagner votre quotidien avec une touche d'énergie positive et d'harmonie.",
               "photo": "images/articles/sac-tisse-marocartizana-mwvua5sjt7jq.jpg",
               "prixBoutique": 25.6,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq8wQbkebfT9QI21j2a72C",
+              "stripeProductId": "prod_VgzBT54iimDjiO",
+              "stripePriceId": "price_1UfbDYLOfCA5mATumrjkuWST",
+              "stripeLinkId": "plink_1UfbDZLOfCA5mATuH4VSO2KW",
+              "stripePrix": 26.72,
+              "stripeMode": "live",
+              "stripeNom": "Sac tissé Marocartizana",
+              "stripeDesc": "Ce sac tissé Marocartizana allie artisanat traditionnel et élégance naturelle. Fabriqué à partir de fibres végétales, il est idéal pour transporter vos cristaux ou petits objets de lithothérapie en toute douceur. Son design chaleureux et son origine artisanale en font un accessoire à la fois pratique et décoratif, parfait pour accompagner votre quotidien avec une touche d'énergie positive et d'harmonie.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

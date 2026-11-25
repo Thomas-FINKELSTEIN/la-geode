@@ -39970,7 +39970,17 @@
               "description": "Ce pendentif en forme de gorille noir est une pièce unique et symbolique, souvent associée à la force intérieure et à la protection. En lithothérapie, il est parfois utilisé pour renforcer la connexion à la terre et stimuler la confiance en soi. Une décoration originale et puissante pour ceux qui cherchent à cultiver leur énergie vitale.",
               "photo": "images/articles/gorille-noir-mwvuw3ffmhx4.jpg",
               "prixBoutique": 60.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x228s73YbfT5As6hz2a72E",
+              "stripeProductId": "prod_VgzTnkWAiQT6Sf",
+              "stripePriceId": "price_1UfbUBLOfCA5mATuTn6vWrov",
+              "stripeLinkId": "plink_1UfbUBLOfCA5mATu0ndN2Cjt",
+              "stripePrix": 63.21,
+              "stripeMode": "live",
+              "stripeNom": "Gorille noir",
+              "stripeDesc": "Ce pendentif en forme de gorille noir est une pièce unique et symbolique, souvent associée à la force intérieure et à la protection. En lithothérapie, il est parfois utilisé pour renforcer la connexion à la terre et stimuler la confiance en soi. Une décoration originale et puissante pour ceux qui cherchent à cultiver leur énergie vitale.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

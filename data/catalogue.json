@@ -42123,7 +42123,17 @@
               "description": "Ce plat en bois sculpté dans une belle pièce de bois naturel apporte une touche chaleureuse et organique à votre intérieur. Idéal pour servir des mets ou décorer une table avec élégance, il diffuse une énergie apaisante et ancrée, parfaite pour créer une ambiance sereine. Son aspect artisanal et ses veines uniques en font une pièce unique, propice à la détente et à la connexion avec la nature.",
               "photo": "images/articles/plat-40-cm-d-mwvvksr0cg1i.jpg",
               "prixBoutique": 59.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq4gA0FAdo1gf66hz2a72G",
+              "stripeProductId": "prod_Vgzm37KQW0MU1I",
+              "stripePriceId": "price_1UfbmuLOfCA5mATuN5DSy7sf",
+              "stripeLinkId": "plink_1UfbmuLOfCA5mATuBolyPlA0",
+              "stripePrix": 62.18,
+              "stripeMode": "live",
+              "stripeNom": "Plat 40 cm D",
+              "stripeDesc": "Ce plat en bois sculpté dans une belle pièce de bois naturel apporte une touche chaleureuse et organique à votre intérieur. Idéal pour servir des mets ou décorer une table avec élégance, il diffuse une énergie apaisante et ancrée, parfaite pour créer une ambiance sereine. Son aspect artisanal et ses veines uniques en font une pièce unique, propice à la détente et à la connexion avec la nature.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

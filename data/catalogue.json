@@ -41138,7 +41138,17 @@
               "description": "Ce panier en fibres naturelles, tissé à la main avec soin, apporte une touche d'authenticité et de chaleur à votre intérieur. Idéal pour décorer vos espaces tout en gardant une ambiance zen et apaisante, il s’intègre parfaitement dans un cadre bohème ou naturel. Son design artisanal en fait un objet unique, parfait pour les amateurs de déco éco-responsable et d’harmonie bien-être.",
               "photo": "images/articles/panier-en-fibres-naturelles-mwvygtzrcwl2.jpg",
               "prixBoutique": 44.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/bJeaEYewq97L0g821j2a72P",
+              "stripeProductId": "prod_Vh15QrTImW2E9i",
+              "stripePriceId": "price_1Ufd37LOfCA5mATuaG8C4Ubt",
+              "stripeLinkId": "plink_1Ufd38LOfCA5mATuMpJpEbAz",
+              "stripePrix": 46.67,
+              "stripeMode": "live",
+              "stripeNom": "Panier en fibres naturelles",
+              "stripeDesc": "Ce panier en fibres naturelles, tissé à la main avec soin, apporte une touche d'authenticité et de chaleur à votre intérieur. Idéal pour décorer vos espaces tout en gardant une ambiance zen et apaisante, il s’intègre parfaitement dans un cadre bohème ou naturel. Son design artisanal en fait un objet unique, parfait pour les amateurs de déco éco-responsable et d’harmonie bien-être.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

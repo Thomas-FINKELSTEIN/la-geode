@@ -41328,7 +41328,17 @@
               "description": "petit couffin tissé main",
               "photo": "images/articles/petit-couffin-mww9w9zbrijv.jpg",
               "prixBoutique": 18.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2aEY1JE1Fj1kcfS92a733",
+              "stripeProductId": "prod_Vh6Fksrbz39932",
+              "stripePriceId": "price_1Ufi3NLOfCA5mATueNYCiXvh",
+              "stripeLinkId": "plink_1Ufi3OLOfCA5mATua4rNTJY7",
+              "stripePrix": 19.85,
+              "stripeMode": "live",
+              "stripeNom": "Petit couffin",
+              "stripeDesc": "petit couffin tissé main",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

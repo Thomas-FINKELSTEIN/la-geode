@@ -41347,7 +41347,17 @@
               "description": "Grand couffin tissé",
               "photo": "images/articles/grand-couffin-tisse-mww9yrvnqnbs.jpg",
               "prixBoutique": 34.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMbJ21JE0BfbYQcFX2a734",
+              "stripeProductId": "prod_Vh6HkFktgCvUbj",
+              "stripePriceId": "price_1Ufi4aLOfCA5mATu1k4SUXVm",
+              "stripeLinkId": "plink_1Ufi4aLOfCA5mATu7zvkTElI",
+              "stripePrix": 36.39,
+              "stripeMode": "live",
+              "stripeNom": "Grand couffin tissé",
+              "stripeDesc": "Grand couffin tissé",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

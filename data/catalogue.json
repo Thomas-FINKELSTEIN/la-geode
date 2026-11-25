@@ -37755,7 +37755,17 @@
               "description": "Statuette bouddha 7 cm",
               "photo": "images/articles/statuette-bouddha-7-cm-mwwe1mbml8kk.jpg",
               "prixBoutique": 5.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRmbJ273Ydo16Ew8pH2a737",
+              "stripeProductId": "prod_Vh87YZOP5V8TAc",
+              "stripePriceId": "price_1Ufjr5LOfCA5mATuMKPbmrSw",
+              "stripeLinkId": "plink_1Ufjr5LOfCA5mATuDR06dTLP",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Statuette bouddha 7 cm",
+              "stripeDesc": "Statuette bouddha 7 cm",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

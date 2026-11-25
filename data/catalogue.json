@@ -41176,7 +41176,17 @@
               "description": "Cette corbeille tissée artisanale apporte une touche naturelle et chaleureuse à votre intérieur. Son design raffiné et ses motifs géométriques en font un objet décoratif unique, idéal pour ranger des accessoires ou des petits trésors. En lithothérapie, les objets en fibres naturelles comme celle-ci sont souvent associés à une énergie apaisante et harmonieuse, favorisant le bien-être et la connexion à la terre.",
               "photo": "images/articles/corbeille-tisse-35-cm-h-40-cm-d-mwvyu5xwijge.jpg",
               "prixBoutique": 35.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe7sMfAu3Nrgf68pH2a72R",
+              "stripeProductId": "prod_Vh1Fg2IYwe8TM3",
+              "stripePriceId": "price_1UfdDHLOfCA5mATuN72bUwvJ",
+              "stripeLinkId": "plink_1UfdDHLOfCA5mATue61wIkfI",
+              "stripePrix": 37.37,
+              "stripeMode": "live",
+              "stripeNom": "Corbeille tissé 35 cm H  40  cm D",
+              "stripeDesc": "Cette corbeille tissée artisanale apporte une touche naturelle et chaleureuse à votre intérieur. Son design raffiné et ses motifs géométriques en font un objet décoratif unique, idéal pour ranger des accessoires ou des petits trésors. En lithothérapie, les objets en fibres naturelles comme celle-ci sont souvent associés à une énergie apaisante et harmonieuse, favorisant le bien-être et la connexion à la terre.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

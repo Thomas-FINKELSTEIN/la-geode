@@ -40497,7 +40497,17 @@
               "description": "Ce vase original au design noir et aux reflets dorés fascine par ses facettes élégantes qui captent la lumière. Selon la lithothérapie, les objets aux finitions métallisées comme celle-ci sont souvent associés à une énergie dynamique et protectrice, aidant à renforcer la confiance en soi et à harmoniser les émotions. Parfait pour sublimer votre intérieur tout en apportant une touche d'équilibre énergétique.",
               "photo": "images/articles/vase-original-noir-doree-facetee-mwvz92qcc53x.jpg",
               "prixBoutique": 55,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x2cN6882gAdaUM21j2a72W",
+              "stripeProductId": "prod_Vh1RsNkkWu1KZ4",
+              "stripePriceId": "price_1UfdOKLOfCA5mATuCm3QEwY2",
+              "stripeLinkId": "plink_1UfdOKLOfCA5mATu82YS3JMU",
+              "stripePrix": 57.11,
+              "stripeMode": "live",
+              "stripeNom": "Vase original noir dorée facetée",
+              "stripeDesc": "Ce vase original au design noir et aux reflets dorés fascine par ses facettes élégantes qui captent la lumière. Selon la lithothérapie, les objets aux finitions métallisées comme celle-ci sont souvent associés à une énergie dynamique et protectrice, aidant à renforcer la confiance en soi et à harmoniser les émotions. Parfait pour sublimer votre intérieur tout en apportant une touche d'équilibre énergétique.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

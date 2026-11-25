@@ -41081,7 +41081,17 @@
               "description": "Ce panier artisanal en fibres naturelles apporte une touche chaleureuse et bohème à votre intérieur. Ses motifs colorés et ses pompons apportent une énergie joyeuse et positive, tout en créant une ambiance harmonieuse. Idéal pour décorer vos espaces tout en gardant une touche d’authenticité et de douceur naturelle.",
               "photo": "images/articles/panier-artisanal-fibres-naturelles-mwvy0ydcuqhl.jpg",
               "prixBoutique": 44.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI4gAdsmcjX5As9tL2a72M",
+              "stripeProductId": "prod_Vh0tzqiUcjIyzk",
+              "stripePriceId": "price_1UfcrOLOfCA5mATuwkRuDkhj",
+              "stripeLinkId": "plink_1UfcrOLOfCA5mATumIoCSE0m",
+              "stripePrix": 46.67,
+              "stripeMode": "live",
+              "stripeNom": "Panier artisanal fibres naturelles",
+              "stripeDesc": "Ce panier artisanal en fibres naturelles apporte une touche chaleureuse et bohème à votre intérieur. Ses motifs colorés et ses pompons apportent une énergie joyeuse et positive, tout en créant une ambiance harmonieuse. Idéal pour décorer vos espaces tout en gardant une touche d’authenticité et de douceur naturelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

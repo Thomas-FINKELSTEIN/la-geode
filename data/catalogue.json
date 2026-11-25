@@ -41328,7 +41328,17 @@
               "description": "Cette élégante décoration de table en forme de panier tressé apporte une touche naturelle et apaisante à votre intérieur. Associée à une énergie harmonieuse et équilibrante, elle favorise un cadre de vie serein et chaleureux. Parfaite pour sublimer vos espaces tout en invitant une ambiance douce et rassurante, elle s’intègre aussi bien dans un salon que sur une table à manger.",
               "photo": "images/articles/decoration-de-table-mww05he2n08f.jpg",
               "prixBoutique": 11.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A28s5ZU6ZD6Ew8pH2a72Z",
+              "stripeProductId": "prod_Vh1qmFBjP1Oi7H",
+              "stripePriceId": "price_1UfdmgLOfCA5mATuAOIACQed",
+              "stripeLinkId": "plink_1UfdmhLOfCA5mATuxajZM67H",
+              "stripePrix": 12.56,
+              "stripeMode": "live",
+              "stripeNom": "Décoration de table",
+              "stripeDesc": "Cette élégante décoration de table en forme de panier tressé apporte une touche naturelle et apaisante à votre intérieur. Associée à une énergie harmonieuse et équilibrante, elle favorise un cadre de vie serein et chaleureux. Parfaite pour sublimer vos espaces tout en invitant une ambiance douce et rassurante, elle s’intègre aussi bien dans un salon que sur une table à manger.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

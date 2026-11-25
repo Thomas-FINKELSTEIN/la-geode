@@ -41062,7 +41062,17 @@
               "description": "Ce sac tissé marocain allie élégance et artisanat traditionnel pour un accessoire à la fois pratique et décoratif. Fabriqué à partir de fibres naturelles, il apporte une touche d’authenticité et de chaleur à vos tenues tout en restant léger et confortable. Idéal pour les voyages ou le quotidien, il incarne aussi une énergie positive et apaisante, souvent associée aux créations artisanales inspirées des savoir-faire locaux.",
               "photo": "images/articles/sac-tisse-marocain-mwvxro2h7npt.jpg",
               "prixBoutique": 9.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/14A7sMgEydo1aUM9tL2a72L",
+              "stripeProductId": "prod_Vh0lNSTPVlr3T0",
+              "stripePriceId": "price_1Ufck9LOfCA5mATuWO0h0UEw",
+              "stripeLinkId": "plink_1Ufck9LOfCA5mATunHLAXSLb",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Sac tissé marocain",
+              "stripeDesc": "Ce sac tissé marocain allie élégance et artisanat traditionnel pour un accessoire à la fois pratique et décoratif. Fabriqué à partir de fibres naturelles, il apporte une touche d’authenticité et de chaleur à vos tenues tout en restant léger et confortable. Idéal pour les voyages ou le quotidien, il incarne aussi une énergie positive et apaisante, souvent associée aux créations artisanales inspirées des savoir-faire locaux.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

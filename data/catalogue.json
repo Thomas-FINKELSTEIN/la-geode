@@ -34117,7 +34117,17 @@
               "description": "Mini porte encens",
               "photo": "images/articles/mini-porte-encens-mwweht2k257j.jpg",
               "prixBoutique": 4.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQeVeewq5Vz6Ew21j2a73d",
+              "stripeProductId": "prod_Vh8JCMc8oBctaW",
+              "stripePriceId": "price_1Ufk3ELOfCA5mATu8TDYqhLZ",
+              "stripeLinkId": "plink_1Ufk3ELOfCA5mATuUSAbDvWe",
+              "stripePrix": 4.91,
+              "stripeMode": "live",
+              "stripeNom": "Mini porte encens",
+              "stripeDesc": "Mini porte encens",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

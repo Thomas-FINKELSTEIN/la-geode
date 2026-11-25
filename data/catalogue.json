@@ -37774,7 +37774,17 @@
               "description": "Statuette bouddha",
               "photo": "images/articles/statuette-5-90-mwwe3s38kmqu.jpg",
               "prixBoutique": 5.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/bJe7sMaga83H9QI0Xf2a738",
+              "stripeProductId": "prod_Vh888XJHAv14DN",
+              "stripePriceId": "price_1UfjsgLOfCA5mATuS5lONPPh",
+              "stripeLinkId": "plink_1UfjsgLOfCA5mATuHbzqLaDB",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Statuette 5,90",
+              "stripeDesc": "Statuette bouddha",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

@@ -41024,7 +41024,17 @@
               "description": "Ce sac tissé artisanal allie élégance et harmonie naturelle, parfait pour transporter vos cristaux ou petits objets de bien-être au quotidien. Son design apaisant favorise une énergie positive et une ambiance zen, idéal pour accompagner vos rituels de relaxation ou vos déplacements. Fabriqué avec des matériaux bruts, il s’intègre parfaitement dans une décoration bohème ou spirituelle.",
               "photo": "images/articles/sac-tisse-mwvwhqgr5shl.jpg",
               "prixBoutique": 35.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU5kE73Y6ZDbYQ35n2a72I",
+              "stripeProductId": "prod_Vh0BY8yUGG1cew",
+              "stripePriceId": "price_1UfcBbLOfCA5mATugKh2mnu8",
+              "stripeLinkId": "plink_1UfcBbLOfCA5mATu3o7QELp1",
+              "stripePrix": 37.37,
+              "stripeMode": "live",
+              "stripeNom": "Sac tissé",
+              "stripeDesc": "Ce sac tissé artisanal allie élégance et harmonie naturelle, parfait pour transporter vos cristaux ou petits objets de bien-être au quotidien. Son design apaisant favorise une énergie positive et une ambiance zen, idéal pour accompagner vos rituels de relaxation ou vos déplacements. Fabriqué avec des matériaux bruts, il s’intègre parfaitement dans une décoration bohème ou spirituelle.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

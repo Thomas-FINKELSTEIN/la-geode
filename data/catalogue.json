@@ -39989,7 +39989,17 @@
               "description": "Cette statuette en forme de gorille blanc est une pièce unique et décorative qui apporte une touche d'originalité à votre intérieur. Selon la lithothérapie, elle est souvent associée à une énergie apaisante et à une connexion avec la nature, favorisant la sérénité et la protection. Elle peut aussi symboliser la force tranquille et l'harmonie entre l'humain et les éléments naturels.",
               "photo": "images/articles/gorille-blanc-mwvv1ki4xc2r.jpg",
               "prixBoutique": 60.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/5kQ8wQ2NI2Jngf69tL2a72F",
+              "stripeProductId": "prod_VgzXTLKwGzQfbf",
+              "stripePriceId": "price_1UfbYLLOfCA5mATu53fbLJLQ",
+              "stripeLinkId": "plink_1UfbYLLOfCA5mATubbBxSMow",
+              "stripePrix": 63.21,
+              "stripeMode": "live",
+              "stripeNom": "Gorille blanc",
+              "stripeDesc": "Cette statuette en forme de gorille blanc est une pièce unique et décorative qui apporte une touche d'originalité à votre intérieur. Selon la lithothérapie, elle est souvent associée à une énergie apaisante et à une connexion avec la nature, favorisant la sérénité et la protection. Elle peut aussi symboliser la force tranquille et l'harmonie entre l'humain et les éléments naturels.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

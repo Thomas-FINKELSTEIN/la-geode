@@ -41290,7 +41290,17 @@
               "description": "Cette pochette aux motifs floraux éclatants et aux couleurs vibrantes est un accessoire unique qui apporte énergie et bonne humeur au quotidien. Ses teintes dynamiques stimulent la vitalité et aident à équilibrer les émotions, tout en restant un objet élégant et pratique. Parfaite pour transporter vos cristaux ou petits objets de protection, elle allie esthétique et bien-être au naturel.",
               "photo": "images/articles/pochette-de-couleur-mwvzrc72xx2n.jpg",
               "prixBoutique": 19.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x24gAbke0Bf0g86hz2a72X",
+              "stripeProductId": "prod_Vh1fcDsLiWV7LM",
+              "stripePriceId": "price_1UfdcALOfCA5mATuawecSN8w",
+              "stripeLinkId": "plink_1UfdcALOfCA5mATuGdNFWxwe",
+              "stripePrix": 20.83,
+              "stripeMode": "live",
+              "stripeNom": "Pochette de couleur",
+              "stripeDesc": "Cette pochette aux motifs floraux éclatants et aux couleurs vibrantes est un accessoire unique qui apporte énergie et bonne humeur au quotidien. Ses teintes dynamiques stimulent la vitalité et aident à équilibrer les émotions, tout en restant un objet élégant et pratique. Parfaite pour transporter vos cristaux ou petits objets de protection, elle allie esthétique et bien-être au naturel.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

@@ -40478,7 +40478,17 @@
               "description": "Ce vase original doré apporte une touche d'élégance et de chaleur à votre intérieur. Selon les croyances en lithothérapie, les objets dorés sont souvent associés à la lumière, à la joie et à une énergie positive, aidant à créer une ambiance harmonieuse et apaisante. Idéal pour sublimer vos espaces tout en invitant la bonne humeur et la sérénité au quotidien.",
               "photo": "images/articles/vase-original-doree-mwvz6b93d9go.jpg",
               "prixBoutique": 43.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMdRacoifw9gf6cFX2a72V",
+              "stripeProductId": "prod_Vh1Pk8s1sYlR7K",
+              "stripePriceId": "price_1UfdMELOfCA5mATujMGb68cy",
+              "stripeLinkId": "plink_1UfdMELOfCA5mATuCUhBy274",
+              "stripePrix": 45.64,
+              "stripeMode": "live",
+              "stripeNom": "Vase original dorée",
+              "stripeDesc": "Ce vase original doré apporte une touche d'élégance et de chaleur à votre intérieur. Selon les croyances en lithothérapie, les objets dorés sont souvent associés à la lumière, à la joie et à une énergie positive, aidant à créer une ambiance harmonieuse et apaisante. Idéal pour sublimer vos espaces tout en invitant la bonne humeur et la sérénité au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

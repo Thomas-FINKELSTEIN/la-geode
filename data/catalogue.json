@@ -39943,6 +39943,25 @@
               "stripeDesc": "miroir décoration en plume",
               "stripeStock": 1,
               "epuise": false
+            },
+            {
+              "id": "gorille-en-couleur-mwvulysslsxl",
+              "nom": "Gorille en couleur",
+              "prix": 152.72,
+              "description": "Cette statuette originale en forme de gorille aux couleurs vives et contrastées apporte une touche énergique et joyeuse à votre intérieur. Selon la lithothérapie, les couleurs vives stimulent la vitalité et l’optimisme, tout en aidant à libérer les tensions émotionnelles. Elle peut aussi servir d’objet décoratif inspirant pour dynamiser un espace ou comme support méditatif pour renforcer la confiance en soi.",
+              "photo": "images/articles/gorille-en-couleur-mwvulyssxsw8.jpg",
+              "prixBoutique": 147.5,
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A00k882gAd4wodK12a72D",
+              "stripeProductId": "prod_VgzLgoxMEzAzEI",
+              "stripePriceId": "price_1UfbMSLOfCA5mATuENpCeOn1",
+              "stripeLinkId": "plink_1UfbMSLOfCA5mATu0SOktRFG",
+              "stripePrix": 152.72,
+              "stripeMode": "live",
+              "stripeNom": "Gorille en couleur",
+              "stripeDesc": "Cette statuette originale en forme de gorille aux couleurs vives et contrastées apporte une touche énergique et joyeuse à votre intérieur. Selon la lithothérapie, les couleurs vives stimulent la vitalité et l’optimisme, tout en aidant à libérer les tensions émotionnelles. Elle peut aussi servir d’objet décoratif inspirant pour dynamiser un espace ou comme support méditatif pour renforcer la confiance en soi.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },
@@ -40938,25 +40957,6 @@
               "stripeMode": "live",
               "stripeNom": "Sac tissé Marocartizana",
               "stripeDesc": "Ce sac tissé Marocartizana allie artisanat traditionnel et élégance naturelle. Fabriqué à partir de fibres végétales, il est idéal pour transporter vos cristaux ou petits objets de lithothérapie en toute douceur. Son design chaleureux et son origine artisanale en font un accessoire à la fois pratique et décoratif, parfait pour accompagner votre quotidien avec une touche d'énergie positive et d'harmonie.",
-              "stripeStock": 1,
-              "epuise": false
-            },
-            {
-              "id": "gorille-en-couleur-mwvulysslsxl",
-              "nom": "Gorille en couleur",
-              "prix": 152.72,
-              "description": "Cette statuette originale en forme de gorille aux couleurs vives et contrastées apporte une touche énergique et joyeuse à votre intérieur. Selon la lithothérapie, les couleurs vives stimulent la vitalité et l’optimisme, tout en aidant à libérer les tensions émotionnelles. Elle peut aussi servir d’objet décoratif inspirant pour dynamiser un espace ou comme support méditatif pour renforcer la confiance en soi.",
-              "photo": "images/articles/gorille-en-couleur-mwvulyssxsw8.jpg",
-              "prixBoutique": 147.5,
-              "stock": 1,
-              "stripe": "https://buy.stripe.com/14A00k882gAd4wodK12a72D",
-              "stripeProductId": "prod_VgzLgoxMEzAzEI",
-              "stripePriceId": "price_1UfbMSLOfCA5mATuENpCeOn1",
-              "stripeLinkId": "plink_1UfbMSLOfCA5mATu0SOktRFG",
-              "stripePrix": 152.72,
-              "stripeMode": "live",
-              "stripeNom": "Gorille en couleur",
-              "stripeDesc": "Cette statuette originale en forme de gorille aux couleurs vives et contrastées apporte une touche énergique et joyeuse à votre intérieur. Selon la lithothérapie, les couleurs vives stimulent la vitalité et l’optimisme, tout en aidant à libérer les tensions émotionnelles. Elle peut aussi servir d’objet décoratif inspirant pour dynamiser un espace ou comme support méditatif pour renforcer la confiance en soi.",
               "stripeStock": 1,
               "epuise": false
             }

@@ -41195,7 +41195,17 @@
               "description": "Cette corbeille en fibres naturelles est un objet décoratif raffiné, idéal pour embellir votre intérieur tout en apportant une touche d’harmonie naturelle. Les fibres tissées finement captent et diffusent une énergie apaisante, favorisant un environnement serein et équilibré. Parfaite pour ranger des petits objets ou des offrandes, elle s’intègre aussi bien dans un cadre spirituel que dans une décoration bohème.",
               "photo": "images/articles/corbeille-tisse-en-fibres-naturelles-mwvyw806osr7.jpg",
               "prixBoutique": 25.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/3cI9AU8821Fj4wo8pH2a72S",
+              "stripeProductId": "prod_Vh1Hr6E9xeunMc",
+              "stripePriceId": "price_1UfdEeLOfCA5mATu7J95PEHK",
+              "stripeLinkId": "plink_1UfdEfLOfCA5mATu7GRAqxDE",
+              "stripePrix": 27.03,
+              "stripeMode": "live",
+              "stripeNom": "Corbeille tissé en fibres naturelles",
+              "stripeDesc": "Cette corbeille en fibres naturelles est un objet décoratif raffiné, idéal pour embellir votre intérieur tout en apportant une touche d’harmonie naturelle. Les fibres tissées finement captent et diffusent une énergie apaisante, favorisant un environnement serein et équilibré. Parfaite pour ranger des petits objets ou des offrandes, elle s’intègre aussi bien dans un cadre spirituel que dans une décoration bohème.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

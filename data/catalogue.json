@@ -41119,7 +41119,17 @@
               "description": "Ce sac artisanal en fibres naturelles allie élégance et douceur pour un accessoire unique. Ses textures chaudes et son style bohème en font un compagnon idéal pour le quotidien, tout en apportant une touche d'harmonie et de connexion à la terre. Parfait pour ceux qui recherchent un objet à la fois pratique et porteur d'une énergie apaisante, il s'intègre facilement dans une décoration inspirée par la nature.",
               "photo": "images/articles/sac-a-main-fibres-naturelles-mwvy9gns5ej5.jpg",
               "prixBoutique": 14.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/dRm8wQ1JE3Nr2og5dv2a72O",
+              "stripeProductId": "prod_Vh0z8UT8uGF0Ha",
+              "stripePriceId": "price_1UfcxaLOfCA5mATuu9VZ4Wy5",
+              "stripeLinkId": "plink_1UfcxaLOfCA5mATuX8PgBz00",
+              "stripePrix": 15.66,
+              "stripeMode": "live",
+              "stripeNom": "Sac a main fibres naturelles",
+              "stripeDesc": "Ce sac artisanal en fibres naturelles allie élégance et douceur pour un accessoire unique. Ses textures chaudes et son style bohème en font un compagnon idéal pour le quotidien, tout en apportant une touche d'harmonie et de connexion à la terre. Parfait pour ceux qui recherchent un objet à la fois pratique et porteur d'une énergie apaisante, il s'intègre facilement dans une décoration inspirée par la nature.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

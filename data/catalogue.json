@@ -41309,7 +41309,17 @@
               "description": "Panier carré tissé",
               "photo": "images/articles/panier-carre-mww9rk3bf7cl.jpg",
               "prixBoutique": 21.5,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/14AaEYewq4Rv5As35n2a732",
+              "stripeProductId": "prod_Vh6B6Vnl31q6Ak",
+              "stripePriceId": "price_1Ufhz9LOfCA5mATu2o0Sigbj",
+              "stripeLinkId": "plink_1Ufhz9LOfCA5mATuIfkqivbo",
+              "stripePrix": 22.49,
+              "stripeMode": "live",
+              "stripeNom": "Panier carré",
+              "stripeDesc": "Panier carré tissé",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         },

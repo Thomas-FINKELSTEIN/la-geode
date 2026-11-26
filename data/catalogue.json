@@ -39255,6 +39255,15 @@
               "stripeDesc": "Microfibre",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "microfibre-21-x-41-cm-mwxedlpv5ua9",
+              "nom": "Microfibre 21 x 41 cm",
+              "prix": 3.88,
+              "description": "Microfibre 21 x 41 cm",
+              "photo": "images/articles/microfibre-21-x-41-cm-mwxedlpvk4bh.jpg",
+              "prixBoutique": 3.5,
+              "stock": 2
             }
           ]
         },

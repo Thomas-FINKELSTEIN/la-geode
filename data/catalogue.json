@@ -41575,7 +41575,17 @@
               "description": "Décoration artisanale en fibres naturelles",
               "photo": "images/articles/decoration-artisanales-en-fibres-naturel-mwxcqq8zai6g.jpg",
               "prixBoutique": 29.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/00w9AU3RM0Bf3sk35n2a73m",
+              "stripeProductId": "prod_VhNm0PKYZemK0s",
+              "stripePriceId": "price_1Ufz14LOfCA5mATuJr32S1Xy",
+              "stripeLinkId": "plink_1Ufz14LOfCA5mATu9Fs85IkH",
+              "stripePrix": 31.17,
+              "stripeMode": "live",
+              "stripeNom": "Décoration artisanales en fibres naturelles",
+              "stripeDesc": "Décoration artisanale en fibres naturelles",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

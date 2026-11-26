@@ -797,6 +797,30 @@ function construireReponse(texte, titreActuel, descActuelle, exemples) {
 /* Liste des modeles vision proposes par Mistral, du plus RECENT au plus ancien :
    quand Mistral sort un nouveau modele, il est essaye en premier, sans toucher
    au code. Mis en cache 6 h ; en cas d echec, la liste fixe MODELES sert de secours. */
+const MODELES_GEMINI = ['gemini-flash-latest', 'gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-flash-lite-latest'];
+let cacheGemini = { t: 0, liste: [] };
+/* Modeles « flash » stables de Google, du plus recent au plus ancien (nouveau
+   modele = essaye en premier automatiquement). Cache 6 h. */
+async function modelesGeminiRecents(env) {
+  if (Date.now() - cacheGemini.t < 6 * 3600 * 1000) return cacheGemini.liste;
+  try {
+    const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=200', { headers: { 'x-goog-api-key': env.GEMINI_API_KEY } });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const j = await r.json();
+    const version = function (n) { const v = /gemini-(\d+(?:\.\d+)?)/.exec(n); return v ? parseFloat(v[1]) : 0; };
+    const liste = (j.models || [])
+      .filter(function (m) { return (m.supportedGenerationMethods || []).indexOf('generateContent') !== -1; })
+      .map(function (m) { return String(m.name || '').replace(/^models\//, ''); })
+      .filter(function (n) { return /^gemini-\d+(\.\d+)?-flash$/.test(n); })
+      .sort(function (x, y) { return version(y) - version(x); })
+      .slice(0, 4);
+    cacheGemini = { t: Date.now(), liste: liste };
+  } catch (e) {
+    cacheGemini = { t: Date.now() - 5 * 3600 * 1000, liste: [] };
+  }
+  return cacheGemini.liste;
+}
+
 let cacheModeles = { t: 0, liste: [] };
 async function modelesVisionRecents(env) {
   if (Date.now() - cacheModeles.t < 6 * 3600 * 1000) return cacheModeles.liste;
@@ -836,8 +860,8 @@ export default {
     if (ORIGINES_AUTORISEES.indexOf(origin) === -1) {
       return reponseJson({ erreur: 'Origine non autorisée' }, 403, origin);
     }
-    if (!env.MISTRAL_API_KEY) {
-      return reponseJson({ erreur: 'Clé Mistral absente (variable MISTRAL_API_KEY à définir dans le Worker)' }, 500, origin);
+    if (!env.GEMINI_API_KEY && !env.MISTRAL_API_KEY) {
+      return reponseJson({ erreur: 'Aucune cle IA (secret GEMINI_API_KEY ou MISTRAL_API_KEY a definir dans le Worker)' }, 500, origin);
     }
 
     let corps;
@@ -858,47 +882,80 @@ export default {
 
     const consigne = construireConsigne(titreActuel, descActuelle, exemples);
 
-    const base = {
-      max_tokens: 400,
-      temperature: 0.3,
-      response_format: { type: 'json_object' },
-      messages: [{
-        role: 'user',
-        content: [
-          { type: 'text', text: consigne },
-          { type: 'image_url', image_url: image },
-        ],
-      }],
-    };
-    const recents = await modelesVisionRecents(env);
-    const modeles = (env.MISTRAL_MODELE ? [env.MISTRAL_MODELE] : []).concat(recents, MODELES)
-      .filter(function (m, i, t) { return t.indexOf(m) === i; });
+    const erreurs = [];
+    let texte = '';
 
-    let data = null, derniereErreur = '', erreurs = [];
-    for (let i = 0; i < modeles.length && !data; i++) {
-      try {
-        const r = await fetch('https://api.mistral.ai/v1/chat/completions', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + env.MISTRAL_API_KEY },
-          body: JSON.stringify(Object.assign({ model: modeles[i] }, base)),
-        });
-        const j = await r.json().catch(function () { return {}; });
-        if (r.ok) { data = j; break; }
-        derniereErreur = (j.message || (j.error && j.error.message) || ('HTTP ' + r.status)) + ' [' + modeles[i] + ']';
-        erreurs.push(derniereErreur);
-        if (r.status === 401 && /invalid|unauthori/i.test(derniereErreur) && !/subscription/i.test(derniereErreur)) break; // cle fausse : inutile d insister
-      } catch (e) {
-        derniereErreur = 'injoignable : ' + (e.message || e);
+    // 1) Google Gemini (gratuit, cle AI Studio) : modele « flash » le plus recent d abord.
+    if (env.GEMINI_API_KEY) {
+      const m = /^data:(image\/[a-z0-9.+-]+);base64,(.*)$/i.exec(image) || [];
+      const corpsGemini = {
+        contents: [{ parts: [{ text: consigne }, { inline_data: { mime_type: m[1] || 'image/jpeg', data: m[2] || '' } }] }],
+        generationConfig: { temperature: 0.3, maxOutputTokens: 800, responseMimeType: 'application/json' },
+      };
+      const gModeles = (env.GEMINI_MODELE ? [env.GEMINI_MODELE] : []).concat(await modelesGeminiRecents(env), MODELES_GEMINI)
+        .filter(function (x, i, t) { return t.indexOf(x) === i; });
+      for (let i = 0; i < gModeles.length && !texte; i++) {
+        try {
+          const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models/' + gModeles[i] + ':generateContent', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'x-goog-api-key': env.GEMINI_API_KEY },
+            body: JSON.stringify(corpsGemini),
+          });
+          const j = await r.json().catch(function () { return {}; });
+          if (r.ok) {
+            const parts = (((j.candidates || [])[0] || {}).content || {}).parts || [];
+            texte = parts.map(function (p) { return p.text || ''; }).join('').trim();
+            if (!texte) erreurs.push('reponse vide [' + gModeles[i] + ']');
+          } else {
+            erreurs.push(((j.error && j.error.message) || ('HTTP ' + r.status)) + ' [' + gModeles[i] + ']');
+            if (r.status === 400 && /API key/i.test(JSON.stringify(j))) break;   // cle invalide
+          }
+        } catch (e) { erreurs.push('Gemini injoignable : ' + (e.message || e)); }
       }
     }
-    if (!data) {
-      const abo = erreurs.filter(function (e) { return /subscription|payment|billing|plan/i.test(e); })[0];
-      return reponseJson({ erreur: 'IA indisponible (' + (abo ? 'compte Mistral : abonnement requis. ' + abo : erreurs.join(' ; ')) + '). Vous pouvez remplir le nom et la description a la main.' }, 502, origin);
+
+    // 2) Mistral en secours (si une cle Mistral est configuree et a des credits).
+    if (!texte && env.MISTRAL_API_KEY) {
+      const base = {
+        max_tokens: 400,
+        temperature: 0.3,
+        response_format: { type: 'json_object' },
+        messages: [{
+          role: 'user',
+          content: [
+            { type: 'text', text: consigne },
+            { type: 'image_url', image_url: image },
+          ],
+        }],
+      };
+      const recents = await modelesVisionRecents(env);
+      const modeles = (env.MISTRAL_MODELE ? [env.MISTRAL_MODELE] : []).concat(recents, MODELES)
+        .filter(function (m, i, t) { return t.indexOf(m) === i; });
+
+      let data = null, derniereErreur = '';
+      for (let i = 0; i < modeles.length && !data; i++) {
+        try {
+          const r = await fetch('https://api.mistral.ai/v1/chat/completions', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + env.MISTRAL_API_KEY },
+            body: JSON.stringify(Object.assign({ model: modeles[i] }, base)),
+          });
+          const j = await r.json().catch(function () { return {}; });
+          if (r.ok) { data = j; break; }
+          derniereErreur = (j.message || (j.error && j.error.message) || ('HTTP ' + r.status)) + ' [' + modeles[i] + ']';
+            if (r.status === 401 && /invalid|unauthori/i.test(derniereErreur) && !/subscription/i.test(derniereErreur)) break; // cle fausse : inutile d insister
+        } catch (e) {
+          derniereErreur = 'injoignable : ' + (e.message || e);
+        }
+      }
+      if (data) { try { texte = data.choices[0].message.content || ''; } catch (e) { /* reponse inattendue */ } }
+      else erreurs.push(derniereErreur);
     }
 
-    let texte = '';
-    try { texte = data.choices[0].message.content || ''; }
-    catch (e) { /* réponse inattendue */ }
+    if (!texte) {
+      return reponseJson({ erreur: 'IA indisponible (' + erreurs.join(' ; ') + '). Vous pouvez remplir le nom et la description a la main.' }, 502, origin);
+    }
+
 
     const resultat = construireReponse(texte, titreActuel, descActuelle, exemples);
     return reponseJson({ titre: resultat.titre, description: resultat.description }, 200, origin);

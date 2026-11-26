@@ -32155,6 +32155,15 @@
               "stripeDesc": "Porte clé attrape rêve marron",
               "stripeStock": 4,
               "epuise": false
+            },
+            {
+              "id": "porte-cle-pierre-de-soleil-mwxq8h2rfava",
+              "nom": "Porte clé pierre de soleil",
+              "prix": 8.02,
+              "description": "En lithothérapie, la pierre de soleil est surtout associé à la joie de vivre, à la confiance en soi et au regain d'énergie.",
+              "photo": "images/articles/porte-cle-pierre-de-soleil-mwxq8h2ryfsi.jpg",
+              "prixBoutique": 7.5,
+              "stock": 10
             }
           ]
         },

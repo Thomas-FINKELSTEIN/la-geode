@@ -874,7 +874,7 @@ export default {
     const modeles = (env.MISTRAL_MODELE ? [env.MISTRAL_MODELE] : []).concat(recents, MODELES)
       .filter(function (m, i, t) { return t.indexOf(m) === i; });
 
-    let data = null, derniereErreur = '';
+    let data = null, derniereErreur = '', erreurs = [];
     for (let i = 0; i < modeles.length && !data; i++) {
       try {
         const r = await fetch('https://api.mistral.ai/v1/chat/completions', {
@@ -885,13 +885,15 @@ export default {
         const j = await r.json().catch(function () { return {}; });
         if (r.ok) { data = j; break; }
         derniereErreur = (j.message || (j.error && j.error.message) || ('HTTP ' + r.status)) + ' [' + modeles[i] + ']';
+        erreurs.push(derniereErreur);
         if (r.status === 401 && /invalid|unauthori/i.test(derniereErreur) && !/subscription/i.test(derniereErreur)) break; // cle fausse : inutile d insister
       } catch (e) {
         derniereErreur = 'injoignable : ' + (e.message || e);
       }
     }
     if (!data) {
-      return reponseJson({ erreur: 'IA indisponible (' + derniereErreur + '). Vous pouvez remplir le nom et la description a la main.' }, 502, origin);
+      const abo = erreurs.filter(function (e) { return /subscription|payment|billing|plan/i.test(e); })[0];
+      return reponseJson({ erreur: 'IA indisponible (' + (abo ? 'compte Mistral : abonnement requis. ' + abo : erreurs.join(' ; ')) + '). Vous pouvez remplir le nom et la description a la main.' }, 502, origin);
     }
 
     let texte = '';

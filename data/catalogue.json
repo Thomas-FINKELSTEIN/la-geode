@@ -32220,7 +32220,17 @@
               "description": "l' amazonite apporte la paix intérieure, renforce le courage et favorise la communication.",
               "photo": "images/articles/porte-cle-amazonite-mwxrc1qmkdy1.jpg",
               "prixBoutique": 7.5,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/4gM7sMfAubfT9QI9tL2a745",
+              "stripeProductId": "prod_VhUN4hYPVCDT1w",
+              "stripePriceId": "price_1Ug5OJLOfCA5mATuvYTTOhFM",
+              "stripeLinkId": "plink_1Ug5OKLOfCA5mATuXBBIVLau",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Porte clé amazonite",
+              "stripeDesc": "l' amazonite apporte la paix intérieure, renforce le courage et favorise la communication.",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         },

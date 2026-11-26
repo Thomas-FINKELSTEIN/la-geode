@@ -39479,7 +39479,17 @@
               "description": "Lingette lune porte bonheur",
               "photo": "images/articles/lingette-lune-porte-bonheur-mwxmpsa8f6lz.jpg",
               "prixBoutique": 2.9,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/9B6eVe1JE3Nr3sk6hz2a73D",
+              "stripeProductId": "prod_VhSHyenhkqGymV",
+              "stripePriceId": "price_1Ug3NELOfCA5mATuArz93PM7",
+              "stripeLinkId": "plink_1Ug3NELOfCA5mATuh4Hi4vMn",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Lingette lune porte bonheur",
+              "stripeDesc": "Lingette lune porte bonheur",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         },

@@ -39517,7 +39517,17 @@
               "description": "Lingette triangulant 13 x 13 cm",
               "photo": "images/articles/lingette-triangulant-mwxmuxm19lnu.jpg",
               "prixBoutique": 2.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/fZu14oagafw9gf65dv2a73F",
+              "stripeProductId": "prod_VhSLow3PPWQFKR",
+              "stripePriceId": "price_1Ug3R5LOfCA5mATuT67vLTX3",
+              "stripeLinkId": "plink_1Ug3R5LOfCA5mATut7SLhw5l",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Lingette  triangulant",
+              "stripeDesc": "Lingette triangulant 13 x 13 cm",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

@@ -34193,7 +34193,17 @@
               "description": "Fontaine encens cônes sous forme de statue bouddha",
               "photo": "images/articles/fontaine-encens-cones-mwxatfiem6u8.jpg",
               "prixBoutique": 24.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/8x27sM3RM5Vz2og0Xf2a73h",
+              "stripeProductId": "prod_VhMu8VqXGBN1Bl",
+              "stripePriceId": "price_1UfyAlLOfCA5mATuON9BZDF3",
+              "stripeLinkId": "plink_1UfyAlLOfCA5mATur5gH15cq",
+              "stripePrix": 26,
+              "stripeMode": "live",
+              "stripeNom": "Fontaine encens cônes",
+              "stripeDesc": "Fontaine encens cônes sous forme de statue bouddha",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

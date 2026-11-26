@@ -799,6 +799,14 @@ function construireReponse(texte, titreActuel, descActuelle, exemples) {
 /* Liste des modeles vision proposes par Mistral, du plus RECENT au plus ancien :
    quand Mistral sort un nouveau modele, il est essaye en premier, sans toucher
    au code. Mis en cache 6 h ; en cas d echec, la liste fixe MODELES sert de secours. */
+/* La « reflexion » des modeles Gemini recents prend 20 a 40 s : inutile pour
+   decrire une photo. On la coupe (2.x : budget 0) ou on la reduit (3.x : low). */
+function avecReflexionCourte(corps, modele) {
+  const c = JSON.parse(JSON.stringify(corps));
+  if (/gemini-2./.test(modele)) c.generationConfig.thinkingConfig = { thinkingBudget: 0 };
+  else if (!/lite/.test(modele)) c.generationConfig.thinkingConfig = { thinkingLevel: 'low' };
+  return c;
+}
 const MODELES_GEMINI = ['gemini-flash-latest', 'gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-flash-lite-latest'];
 let cacheGemini = { t: 0, liste: [] };
 /* Modeles « flash » stables de Google, du plus recent au plus ancien (nouveau
@@ -902,7 +910,7 @@ export default {
           const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models/' + gModeles[i] + ':generateContent', { signal: AbortSignal.timeout(25000),
             method: 'POST',
             headers: { 'Content-Type': 'application/json', 'x-goog-api-key': env.GEMINI_API_KEY },
-            body: JSON.stringify(corpsGemini),
+            body: JSON.stringify(avecReflexionCourte(corpsGemini, gModeles[i])),
           });
           const j = await r.json().catch(function () { return {}; });
           if (r.ok) {
@@ -952,7 +960,7 @@ export default {
         }
       }
       if (data) { try { texte = data.choices[0].message.content || ''; } catch (e) { /* reponse inattendue */ } }
-      else erreurs.push(derniereErreur);
+      else if (derniereErreur) erreurs.push(derniereErreur);
     }
 
     if (!texte) {

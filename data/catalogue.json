@@ -31123,7 +31123,17 @@
               "description": "Cet autocollant fleur de vie pour votre maison ou votre véhicule pour une bonne protection ou rechargement de vos pierres.",
               "photo": "images/articles/fleur-de-vie-10-cm-diametre-mwxdgeqh27th.jpg",
               "prixBoutique": 5.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/6oU4gAewqdo1gf6fS92a73s",
+              "stripeProductId": "prod_VhO6JjO3OUtFE9",
+              "stripePriceId": "price_1UfzKPLOfCA5mATuz8RKdU8L",
+              "stripeLinkId": "plink_1UfzKPLOfCA5mATuGYE5K7IV",
+              "stripePrix": 5.95,
+              "stripeMode": "live",
+              "stripeNom": "Fleur de vie 10 cm diamètre",
+              "stripeDesc": "Cet autocollant fleur de vie pour votre maison ou votre véhicule pour une bonne protection ou rechargement de vos pierres.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

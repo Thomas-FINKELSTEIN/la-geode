@@ -39422,7 +39422,17 @@
               "description": "Lingettes fleur de vie  13 x 13 cm",
               "photo": "images/articles/lingettes-fleur-de-vie-mwxmgcmq9ra5.jpg",
               "prixBoutique": 2.9,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/dRm00k2NI0BfaUM21j2a73A",
+              "stripeProductId": "prod_VhSAyZ9dwH7DIz",
+              "stripePriceId": "price_1Ug3G9LOfCA5mATuYMh5DPSq",
+              "stripeLinkId": "plink_1Ug3G9LOfCA5mATuMB6WSsuP",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Lingettes fleur de vie",
+              "stripeDesc": "Lingettes fleur de vie  13 x 13 cm",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         },

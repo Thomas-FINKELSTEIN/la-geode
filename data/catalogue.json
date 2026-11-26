@@ -32212,6 +32212,15 @@
               "stripeDesc": "Porte clé Quartz fumé pierre brute",
               "stripeStock": 9,
               "epuise": false
+            },
+            {
+              "id": "porte-cle-cyanite-mwxqpinaq1jn",
+              "nom": "Porte clé cyanite",
+              "prix": 8.02,
+              "description": "La cyanite  est réputée pour favoriser l' expression de soi, apaiser l'esprit et soutenir l' équilibre émotionnel.",
+              "photo": "images/articles/porte-cle-cyanite-mwxqpina670h.jpg",
+              "prixBoutique": 7.5,
+              "stock": 5
             }
           ]
         },

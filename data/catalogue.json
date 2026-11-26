@@ -39384,7 +39384,17 @@
               "description": "Tenture Yin Yang 135 x 210 cm",
               "photo": "images/articles/tenture-135-x-210-cm-mwxf1xuutgvi.jpg",
               "prixBoutique": 29.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu4gAbkeabP6EwaxP2a73x",
+              "stripeProductId": "prod_VhOpFPQhN2RgRh",
+              "stripePriceId": "price_1Ug01eLOfCA5mATuRcB1fXHK",
+              "stripeLinkId": "plink_1Ug01eLOfCA5mATulYB2FyYr",
+              "stripePrix": 30.75,
+              "stripeMode": "live",
+              "stripeNom": "Tenture 135 x 210 cm",
+              "stripeDesc": "Tenture Yin Yang 135 x 210 cm",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

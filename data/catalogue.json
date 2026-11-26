@@ -31047,7 +31047,17 @@
               "description": "Cet autocollant fleur de vie est à mettre à l'arrière de votre voiture ou sur vos fenêtres pour une protection assurée, peut aussi servir de recharge pour vos pierres.",
               "photo": "images/articles/autocollant-fleur-de-vie-mwxd110w8wxr.jpg",
               "prixBoutique": 2.5,
-              "stock": 32
+              "stock": 32,
+              "stripe": "https://buy.stripe.com/aFaaEY0FA6ZD9QI9tL2a73n",
+              "stripeProductId": "prod_VhNuMCucpJ8pBo",
+              "stripePriceId": "price_1Ufz8nLOfCA5mATulPhwtWp4",
+              "stripeLinkId": "plink_1Ufz8oLOfCA5mATuOfoGYhKg",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Autocollant fleur de vie",
+              "stripeDesc": "Cet autocollant fleur de vie est à mettre à l'arrière de votre voiture ou sur vos fenêtres pour une protection assurée, peut aussi servir de recharge pour vos pierres.",
+              "stripeStock": 32,
+              "epuise": false
             }
           ]
         },

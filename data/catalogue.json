@@ -39490,6 +39490,15 @@
               "stripeDesc": "Lingette lune porte bonheur",
               "stripeStock": 6,
               "epuise": false
+            },
+            {
+              "id": "lingette-lotus-mwxmrlbddqjr",
+              "nom": "Lingette lotus",
+              "prix": 3.26,
+              "description": "Lingette lotus 13 x 13 cm",
+              "photo": "images/articles/lingette-lotus-mwxmrlbdhhwd.jpg",
+              "prixBoutique": 2.9,
+              "stock": 4
             }
           ]
         },

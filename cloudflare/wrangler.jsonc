@@ -1,0 +1,20 @@
+{
+  // Deploiement automatique du relais IA par Cloudflare ("Workers Builds").
+  // A faire UNE fois dans Cloudflare : Workers & Pages > geode-ia > Settings > Builds
+  // > Connect > GitHub > depot "la-geode", branche "main", Root directory "cloudflare",
+  // et dans "Build watch paths" > Include paths : cloudflare/* (sinon chaque mise a jour
+  // du catalogue relancerait un deploiement pour rien).
+  // Ensuite chaque modification de worker-ia.js poussee sur GitHub est mise en ligne
+  // toute seule : plus de copier-coller dans l editeur Cloudflare.
+  //
+  // Les secrets (GEMINI_API_KEY, MISTRAL_API_KEY) restent dans Cloudflare : un
+  // deploiement ne les efface jamais. "keep_vars" garde aussi les variables
+  // eventuellement ajoutees a la main (GEMINI_MODELE, MISTRAL_MODELE).
+  "name": "geode-ia",
+  "main": "worker-ia.js",
+  "compatibility_date": "2026-08-01",
+  "workers_dev": true,
+  "keep_vars": true,
+  // Secours heberge par Cloudflare (Workers AI), sans cle : 10 000 neurones gratuits par jour.
+  "ai": { "binding": "AI" }
+}

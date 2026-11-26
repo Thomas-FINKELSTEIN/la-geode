@@ -150,12 +150,12 @@ const RAYON_MIXTE = ['Amethyste Donut 3cm', 'Hematite Donut 3cm', 'Quartz rose B
 (function () {
   const c1 = bac.construireConsigne('', '', RAYON_MIXTE);
   vrai('S12a titre vide : la ligne des types du rayon est presente',
-    c1.indexOf('Types d objet deja en vente dans ce rayon : Donut, Boule.') !== -1);
+    c1.indexOf('Types d\u0027objet d\u00e9j\u00e0 en vente dans ce rayon : Donut, Boule.') !== -1);
   vrai('S12b aucun titre d exemple n est transmis a l IA',
     c1.indexOf('Amethyste Donut 3cm') === -1 && c1.indexOf('Quartz rose Boule 5 cm') === -1);
   const c2 = bac.construireConsigne('Sodalite donut 3cm', '', RAYON_MIXTE);
   vrai('S12c type deja tape par la vendeuse : pas de ligne des types',
-    c2.indexOf('Types d objet deja en vente') === -1);
+    c2.indexOf('Types d\u0027objet d\u00e9j\u00e0 en vente') === -1);
   vrai('S12d le mot JSON figure dans la consigne', c1.indexOf('JSON') !== -1);
 })();
 
@@ -242,15 +242,22 @@ const RAYON_MIXTE = ['Amethyste Donut 3cm', 'Hematite Donut 3cm', 'Quartz rose B
   egal('S22 titre reduit au type : produit fourni par l IA', r.titre, 'Amethyste Boule 3 cm');
 })();
 
-/* S23 : la consigne construite est en ASCII pur (fichier colle a la main). */
+/* S23 : le FICHIER du worker est en ASCII pur (il est colle a la main dans
+   Cloudflare), mais la consigne recue par l IA est en francais accentue :
+   le modele imite la langue de la consigne. */
 (function () {
-  const c = bac.construireConsigne('', '', RAYON_MIXTE);
   let horsAscii = -1;
-  for (let i = 0; i < c.length; i++) {
-    if (c.charCodeAt(i) > 127) { horsAscii = i; break; }
+  for (let i = 0; i < source.length; i++) {
+    if (source.charCodeAt(i) > 127) { horsAscii = i; break; }
   }
-  vrai('S23 consigne 100 pour cent ASCII', horsAscii === -1,
-    horsAscii === -1 ? '' : 'caractere hors ASCII en position ' + horsAscii + ' : ' + c.slice(horsAscii - 20, horsAscii + 5));
+  vrai('S23 fichier du worker 100 pour cent ASCII', horsAscii === -1,
+    horsAscii === -1 ? '' : 'caractere hors ASCII en position ' + horsAscii + ' : ' + source.slice(horsAscii - 20, horsAscii + 5));
+  const c = bac.construireConsigne('', '', RAYON_MIXTE);
+  vrai('S23b consigne en francais accentue',
+    c.indexOf('Tu pr\u00e9pares la fiche produit d\u0027une boutique') === 0, c.slice(0, 60));
+  vrai('S23c la consigne decrit la trame des descriptions (3 phrases, Ce/Cet/Cette/Ces)',
+    c.indexOf('m\u00eame trame') !== -1 && c.indexOf('Ce, Cet, Cette ou Ces') !== -1);
+  vrai('S23d aucune instruction de temperature ou de modele dans la consigne', c.indexOf('gemini') === -1 && c.indexOf('mistral') === -1);
 })();
 
 /* S24 : un mot partage avec le rayon (sauge) ne scinde JAMAIS la phrase de la
@@ -340,14 +347,10 @@ const RAYON_MIXTE = ['Amethyste Donut 3cm', 'Hematite Donut 3cm', 'Quartz rose B
     bac.etiquettesGammes(['Statuette bouddha', 'Statuette elephant']), ['Statuette']);
   const c = bac.construireConsigne('', '', RAYON_ENCENS);
   vrai('S30c la ligne des types ne cite que Encens',
-    c.indexOf('Types d objet deja en vente dans ce rayon : Encens.') !== -1);
+    c.indexOf('Types d\u0027objet d\u00e9j\u00e0 en vente dans ce rayon : Encens.') !== -1);
   vrai('S30d pas de contradiction : l exception (encens, lot, statuette, decoration) est retiree',
-    c.indexOf('(encens, lot, statuette, decoration)') === -1);
-  let horsAscii = -1;
-  for (let i = 0; i < c.length; i++) {
-    if (c.charCodeAt(i) > 127) { horsAscii = i; break; }
-  }
-  vrai('S30e consigne encens 100 pour cent ASCII', horsAscii === -1);
+    c.indexOf('(encens, lot, statuette, d\u00e9coration)') === -1);
+  vrai('S30e consigne encens : meme trame de description', c.indexOf('m\u00eame trame') !== -1);
 })();
 
 /* S31 : un mot de produit partage (perles) ne bat jamais le mot de type
@@ -377,7 +380,7 @@ const RAYON_MIXTE = ['Amethyste Donut 3cm', 'Hematite Donut 3cm', 'Quartz rose B
 (function () {
   const c = bac.construireConsigne('Amethyste chevaliere 3cm', '', RAYON_DONUTS);
   vrai('S33 pas de ligne des types quand la vendeuse a tape un type inconnu',
-    c.indexOf('Types d objet deja en vente') === -1);
+    c.indexOf('Types d\u0027objet d\u00e9j\u00e0 en vente') === -1);
 })();
 
 /* S34 : controle positif du veto : titre reduit a la pierre seule, le type IA

@@ -794,6 +794,28 @@ function construireReponse(texte, titreActuel, descActuelle, exemples) {
   return { titre: titre, description: description };
 }
 
+/* Liste des modeles vision proposes par Mistral, du plus RECENT au plus ancien :
+   quand Mistral sort un nouveau modele, il est essaye en premier, sans toucher
+   au code. Mis en cache 6 h ; en cas d echec, la liste fixe MODELES sert de secours. */
+let cacheModeles = { t: 0, liste: [] };
+async function modelesVisionRecents(env) {
+  if (Date.now() - cacheModeles.t < 6 * 3600 * 1000) return cacheModeles.liste;
+  try {
+    const r = await fetch('https://api.mistral.ai/v1/models', { headers: { 'Authorization': 'Bearer ' + env.MISTRAL_API_KEY } });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const j = await r.json();
+    const liste = (j.data || [])
+      .filter(function (m) { return m && m.id && m.capabilities && m.capabilities.vision && m.capabilities.completion_chat !== false && !m.deprecation && !/ocr|embed|moderation/i.test(m.id); })
+      .sort(function (a, b) { return (b.created || 0) - (a.created || 0); })
+      .map(function (m) { return m.id; })
+      .slice(0, 6);
+    cacheModeles = { t: Date.now(), liste: liste };
+  } catch (e) {
+    cacheModeles = { t: Date.now() - 5 * 3600 * 1000, liste: [] };  // reessai dans 1 h
+  }
+  return cacheModeles.liste;
+}
+
 function reponseJson(obj, statut, origin) {
   return new Response(JSON.stringify(obj), {
     status: statut,
@@ -848,7 +870,8 @@ export default {
         ],
       }],
     };
-    const modeles = (env.MISTRAL_MODELE ? [env.MISTRAL_MODELE] : []).concat(MODELES)
+    const recents = await modelesVisionRecents(env);
+    const modeles = (env.MISTRAL_MODELE ? [env.MISTRAL_MODELE] : []).concat(recents, MODELES)
       .filter(function (m, i, t) { return t.indexOf(m) === i; });
 
     let data = null, derniereErreur = '';

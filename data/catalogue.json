@@ -39263,7 +39263,17 @@
               "description": "Microfibre 21 x 41 cm",
               "photo": "images/articles/microfibre-21-x-41-cm-mwxedlpvk4bh.jpg",
               "prixBoutique": 3.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/7sY5kE0FA0Bfe6YaxP2a73u",
+              "stripeProductId": "prod_VhOW6aAxXUr3qq",
+              "stripePriceId": "price_1UfzjLLOfCA5mATuukiglPOJ",
+              "stripeLinkId": "plink_1UfzjLLOfCA5mATuuMbxtLbw",
+              "stripePrix": 3.88,
+              "stripeMode": "live",
+              "stripeNom": "Microfibre 21 x 41 cm",
+              "stripeDesc": "Microfibre 21 x 41 cm",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

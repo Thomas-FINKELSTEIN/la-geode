@@ -13,7 +13,10 @@ const ORIGINES_AUTORISEES = [
   'http://localhost:8000',
 ];
 
-const MODELE = 'pixtral-12b-2409';
+/* Modeles vision essayes dans l ordre : si Mistral retire ou rend payant un
+   modele (erreur 401/403/404/422 ou 429), on passe au suivant au lieu de planter.
+   Variable optionnelle MISTRAL_MODELE (Cloudflare) pour en imposer un en tete. */
+const MODELES = ['mistral-small-latest', 'pixtral-12b-latest', 'pixtral-12b-2409', 'mistral-medium-latest', 'pixtral-large-latest'];
 
 function entetesCors(origin) {
   var ok = ORIGINES_AUTORISEES.indexOf(origin) !== -1 ? origin : ORIGINES_AUTORISEES[0];
@@ -833,8 +836,7 @@ export default {
 
     const consigne = construireConsigne(titreActuel, descActuelle, exemples);
 
-    const requete = {
-      model: MODELE,
+    const base = {
       max_tokens: 400,
       temperature: 0.3,
       response_format: { type: 'json_object' },
@@ -846,24 +848,27 @@ export default {
         ],
       }],
     };
+    const modeles = (env.MISTRAL_MODELE ? [env.MISTRAL_MODELE] : []).concat(MODELES)
+      .filter(function (m, i, t) { return t.indexOf(m) === i; });
 
-    let data;
-    try {
-      const r = await fetch('https://api.mistral.ai/v1/chat/completions', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': 'Bearer ' + env.MISTRAL_API_KEY,
-        },
-        body: JSON.stringify(requete),
-      });
-      data = await r.json();
-      if (!r.ok) {
-        const msg = (data && (data.message || (data.error && data.error.message))) || ('HTTP ' + r.status);
-        return reponseJson({ erreur: 'IA indisponible : ' + msg }, 502, origin);
+    let data = null, derniereErreur = '';
+    for (let i = 0; i < modeles.length && !data; i++) {
+      try {
+        const r = await fetch('https://api.mistral.ai/v1/chat/completions', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + env.MISTRAL_API_KEY },
+          body: JSON.stringify(Object.assign({ model: modeles[i] }, base)),
+        });
+        const j = await r.json().catch(function () { return {}; });
+        if (r.ok) { data = j; break; }
+        derniereErreur = (j.message || (j.error && j.error.message) || ('HTTP ' + r.status)) + ' [' + modeles[i] + ']';
+        if (r.status === 401 && /invalid|unauthori/i.test(derniereErreur) && !/subscription/i.test(derniereErreur)) break; // cle fausse : inutile d insister
+      } catch (e) {
+        derniereErreur = 'injoignable : ' + (e.message || e);
       }
-    } catch (e) {
-      return reponseJson({ erreur: 'IA injoignable : ' + (e.message || e) }, 502, origin);
+    }
+    if (!data) {
+      return reponseJson({ erreur: 'IA indisponible (' + derniereErreur + '). Vous pouvez remplir le nom et la description a la main.' }, 502, origin);
     }
 
     let texte = '';

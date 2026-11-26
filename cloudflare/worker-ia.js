@@ -804,7 +804,7 @@ let cacheGemini = { t: 0, liste: [] };
 async function modelesGeminiRecents(env) {
   if (Date.now() - cacheGemini.t < 6 * 3600 * 1000) return cacheGemini.liste;
   try {
-    const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=200', { headers: { 'x-goog-api-key': env.GEMINI_API_KEY } });
+    const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models?pageSize=200', { signal: AbortSignal.timeout(25000), headers: { 'x-goog-api-key': env.GEMINI_API_KEY } });
     if (!r.ok) throw new Error('HTTP ' + r.status);
     const j = await r.json();
     const version = function (n) { const v = /gemini-(\d+(?:\.\d+)?)/.exec(n); return v ? parseFloat(v[1]) : 0; };
@@ -825,7 +825,7 @@ let cacheModeles = { t: 0, liste: [] };
 async function modelesVisionRecents(env) {
   if (Date.now() - cacheModeles.t < 6 * 3600 * 1000) return cacheModeles.liste;
   try {
-    const r = await fetch('https://api.mistral.ai/v1/models', { headers: { 'Authorization': 'Bearer ' + env.MISTRAL_API_KEY } });
+    const r = await fetch('https://api.mistral.ai/v1/models', { signal: AbortSignal.timeout(25000), headers: { 'Authorization': 'Bearer ' + env.MISTRAL_API_KEY } });
     if (!r.ok) throw new Error('HTTP ' + r.status);
     const j = await r.json();
     const liste = (j.data || [])
@@ -890,13 +890,13 @@ export default {
       const m = /^data:(image\/[a-z0-9.+-]+);base64,(.*)$/i.exec(image) || [];
       const corpsGemini = {
         contents: [{ parts: [{ text: consigne }, { inline_data: { mime_type: m[1] || 'image/jpeg', data: m[2] || '' } }] }],
-        generationConfig: { temperature: 0.3, maxOutputTokens: 800, responseMimeType: 'application/json' },
+        generationConfig: { temperature: 0.3, maxOutputTokens: 1500, responseMimeType: 'application/json' },
       };
       const gModeles = (env.GEMINI_MODELE ? [env.GEMINI_MODELE] : []).concat(await modelesGeminiRecents(env), MODELES_GEMINI)
         .filter(function (x, i, t) { return t.indexOf(x) === i; });
-      for (let i = 0; i < gModeles.length && !texte; i++) {
+      for (let i = 0; i < gModeles.length && !texte && Date.now() - t0 < 45000; i++) {
         try {
-          const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models/' + gModeles[i] + ':generateContent', {
+          const r = await fetch('https://generativelanguage.googleapis.com/v1beta/models/' + gModeles[i] + ':generateContent', { signal: AbortSignal.timeout(25000),
             method: 'POST',
             headers: { 'Content-Type': 'application/json', 'x-goog-api-key': env.GEMINI_API_KEY },
             body: JSON.stringify(corpsGemini),
@@ -933,9 +933,9 @@ export default {
         .filter(function (m, i, t) { return t.indexOf(m) === i; });
 
       let data = null, derniereErreur = '';
-      for (let i = 0; i < modeles.length && !data; i++) {
+      for (let i = 0; i < modeles.length && !data && Date.now() - t0 < 45000; i++) {
         try {
-          const r = await fetch('https://api.mistral.ai/v1/chat/completions', {
+          const r = await fetch('https://api.mistral.ai/v1/chat/completions', { signal: AbortSignal.timeout(25000),
             method: 'POST',
             headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + env.MISTRAL_API_KEY },
             body: JSON.stringify(Object.assign({ model: modeles[i] }, base)),

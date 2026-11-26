@@ -39555,7 +39555,17 @@
               "description": "Lingette Namasté 13 X 13 cm",
               "photo": "images/articles/lingette-namaste-mwxmz8bgntfi.jpg",
               "prixBoutique": 2.9,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/00w28s5ZU83H6Ew49r2a73H",
+              "stripeProductId": "prod_VhSPacXOdvw1kw",
+              "stripePriceId": "price_1Ug3UPLOfCA5mATuODvCPHiP",
+              "stripeLinkId": "plink_1Ug3UPLOfCA5mATuEEu1acqL",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Lingette namasté",
+              "stripeDesc": "Lingette Namasté 13 X 13 cm",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         },

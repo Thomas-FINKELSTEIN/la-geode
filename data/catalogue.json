@@ -40597,7 +40597,17 @@
               "description": "Attrape rêve noir et blanc 9 cm diamètre",
               "photo": "images/articles/attrape-reve-noir-et-blanc-mwxno6z36ayx.jpg",
               "prixBoutique": 2.5,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/3cI3cw1JE4Rv2og0Xf2a73J",
+              "stripeProductId": "prod_VhSiXui8VvUY90",
+              "stripePriceId": "price_1Ug3n9LOfCA5mATuVqYr54le",
+              "stripeLinkId": "plink_1Ug3n9LOfCA5mATuyDsRzN0C",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Attrape rêve noir et blanc",
+              "stripeDesc": "Attrape rêve noir et blanc 9 cm diamètre",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

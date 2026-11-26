@@ -31066,7 +31066,17 @@
               "description": "Cet autocollant fleur de vie , à coller à l'arrière de votre véhicule ou dans votre maison pour une protection assurée au quotidien.",
               "photo": "images/articles/fleur-de-vie-mwxd4gnxy6o2.jpg",
               "prixBoutique": 3.5,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/28EbJ25ZUes5bYQeO52a73o",
+              "stripeProductId": "prod_VhNxARcOSvsKaX",
+              "stripePriceId": "price_1UfzBNLOfCA5mATuniYk8TIm",
+              "stripeLinkId": "plink_1UfzBOLOfCA5mATuwiBhEZgm",
+              "stripePrix": 3.88,
+              "stripeMode": "live",
+              "stripeNom": "Fleur de vie",
+              "stripeDesc": "Cet autocollant fleur de vie , à coller à l'arrière de votre véhicule ou dans votre maison pour une protection assurée au quotidien.",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         },

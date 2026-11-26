@@ -31085,7 +31085,17 @@
               "description": "Cet autocollant fleur de vie , à coller dans votre intérieur ou dans votre véhicule pour une protection assuré.",
               "photo": "images/articles/autocollant-fleur-de-vie-mwxd6yqyllpt.jpg",
               "prixBoutique": 2.5,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/eVqdRafAu1Fj0g8gWd2a73p",
+              "stripeProductId": "prod_VhNzZKdNwyv0xl",
+              "stripePriceId": "price_1UfzDILOfCA5mATumOqGiQhg",
+              "stripeLinkId": "plink_1UfzDILOfCA5mATuIDgSkD67",
+              "stripePrix": 2.85,
+              "stripeMode": "live",
+              "stripeNom": "Autocollant Fleur de vie",
+              "stripeDesc": "Cet autocollant fleur de vie , à coller dans votre intérieur ou dans votre véhicule pour une protection assuré.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

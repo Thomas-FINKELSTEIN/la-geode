@@ -693,7 +693,9 @@ function construireConsigne(titreActuel, descActuelle, exemples) {
     'indiquee, n en mentionne aucune. ' +
     'Ecris uniquement des phrases francaises normales, sans aucun caractere special ni mise en ' +
     'forme : pas d etoiles, pas de tirets doubles, pas de listes, pas de gras. ' +
-    'Reponds en francais, uniquement par l objet JSON demande.';
+    'Ecris en francais correct, AVEC tous les accents (e accent aigu, e accent grave, a accent grave, c cedille) ' +
+    'et les apostrophes normales : jamais de texte sans accent. ' +
+    'Reponds uniquement par l objet JSON demande.';
   return consigne;
 }
 

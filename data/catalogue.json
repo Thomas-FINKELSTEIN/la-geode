@@ -39460,7 +39460,17 @@
               "description": "Lingettes spiritual vibes",
               "photo": "images/articles/lingettes-spiritual-vibes-mwxmmg9iyzzw.jpg",
               "prixBoutique": 2.9,
-              "stock": 7
+              "stock": 7,
+              "stripe": "https://buy.stripe.com/8x27sMcoies5aUMcFX2a73C",
+              "stripeProductId": "prod_VhSFrwCWZfQDVe",
+              "stripePriceId": "price_1Ug3KmLOfCA5mATuf8NK0U1o",
+              "stripeLinkId": "plink_1Ug3KnLOfCA5mATu6rgaLQo5",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Lingettes spiritual vibes",
+              "stripeDesc": "Lingettes spiritual vibes",
+              "stripeStock": 7,
+              "epuise": false
             }
           ]
         },

@@ -39498,7 +39498,17 @@
               "description": "Lingette lotus 13 x 13 cm",
               "photo": "images/articles/lingette-lotus-mwxmrlbdhhwd.jpg",
               "prixBoutique": 2.9,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/cNi5kEaga83H3skeO52a73E",
+              "stripeProductId": "prod_VhSJ1OpBFy2j20",
+              "stripePriceId": "price_1Ug3OkLOfCA5mATu8RQIt7co",
+              "stripeLinkId": "plink_1Ug3OkLOfCA5mATuWvsscPFJ",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Lingette lotus",
+              "stripeDesc": "Lingette lotus 13 x 13 cm",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         },

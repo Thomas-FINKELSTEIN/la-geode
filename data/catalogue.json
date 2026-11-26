@@ -39244,7 +39244,17 @@
               "description": "Microfibre",
               "photo": "images/articles/microfibre-40-x-60-cm-mwxe919rk5uc.jpg",
               "prixBoutique": 5.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/4gM3cw0FA1Fj9QI6hz2a73t",
+              "stripeProductId": "prod_VhOSSHwikksSaG",
+              "stripePriceId": "price_1UfzfvLOfCA5mATujGHA6tHg",
+              "stripeLinkId": "plink_1UfzfvLOfCA5mATuLC2tnWxF",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Microfibre 40 x 60 cm",
+              "stripeDesc": "Microfibre",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

@@ -32220,7 +32220,17 @@
               "description": "La cyanite  est réputée pour favoriser l' expression de soi, apaiser l'esprit et soutenir l' équilibre émotionnel.",
               "photo": "images/articles/porte-cle-cyanite-mwxqpina670h.jpg",
               "prixBoutique": 7.5,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/28E8wQdsm5VzaUMaxP2a73S",
+              "stripeProductId": "prod_VhU54l3KdZoC6z",
+              "stripePriceId": "price_1Ug57XLOfCA5mATuvBCtrevT",
+              "stripeLinkId": "plink_1Ug57XLOfCA5mATuuyojc5jV",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Porte clé cyanite",
+              "stripeDesc": "La cyanite  est réputée pour favoriser l' expression de soi, apaiser l'esprit et soutenir l' équilibre émotionnel.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

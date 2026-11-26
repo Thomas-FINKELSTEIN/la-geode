@@ -39403,7 +39403,17 @@
               "description": "Lingette personnalisés",
               "photo": "images/articles/lingettes-personnalises-fleur-de-vie-mwxmadgsflaj.jpg",
               "prixBoutique": 2.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/6oU8wQfAu5Vze6Y6hz2a73z",
+              "stripeProductId": "prod_VhS5WBGCqnheu2",
+              "stripePriceId": "price_1Ug3BgLOfCA5mATulWjBsQTk",
+              "stripeLinkId": "plink_1Ug3BgLOfCA5mATuuL3NI6jm",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Lingettes personnalisés fleur de vie",
+              "stripeDesc": "Lingette personnalisés",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

@@ -883,6 +883,7 @@ export default {
     const consigne = construireConsigne(titreActuel, descActuelle, exemples);
 
     const erreurs = [];
+    const t0 = Date.now();   // au-dela de 45 s on abandonne proprement
     let texte = '';
 
     // 1) Google Gemini (gratuit, cle AI Studio) : modele « flash » le plus recent d abord.

@@ -32087,7 +32087,17 @@
               "description": "Petit porte clé attrape rêve",
               "photo": "images/articles/attrape-reve-orange-mwxocalylqhg.jpg",
               "prixBoutique": 2.9,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/fZudRa4VQ4Rv3sk7lD2a73L",
+              "stripeProductId": "prod_VhT149l9CUWorj",
+              "stripePriceId": "price_1Ug45FLOfCA5mATuGci6t0EU",
+              "stripeLinkId": "plink_1Ug45GLOfCA5mATuXpeGBhVv",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Attrape rêve orange",
+              "stripeDesc": "Petit porte clé attrape rêve",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         },

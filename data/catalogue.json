@@ -39574,7 +39574,17 @@
               "description": "Coussin pour bol tibétain 12 x 12 cm",
               "photo": "images/articles/coussin-pour-bol-tibetain-mwxn2e04hgr0.jpg",
               "prixBoutique": 9.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/4gM5kE4VQcjXfb20Xf2a73I",
+              "stripeProductId": "prod_VhSRYdheVkDGgf",
+              "stripePriceId": "price_1Ug3WhLOfCA5mATuq1g7rdxU",
+              "stripeLinkId": "plink_1Ug3WhLOfCA5mATuyvvbDDpa",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Coussin pour bol tibétain",
+              "stripeDesc": "Coussin pour bol tibétain 12 x 12 cm",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

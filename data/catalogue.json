@@ -37926,7 +37926,17 @@
               "description": "Statue en résine , athlète doré",
               "photo": "images/articles/figurine-en-resine-29-x-16-x-33-athlete--mwxb6q1cpj01.jpg",
               "prixBoutique": 42.4,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/fZu00kgEy0Bfe6Y0Xf2a73i",
+              "stripeProductId": "prod_VhN5zgWHrXXW0A",
+              "stripePriceId": "price_1UfyKuLOfCA5mATuGYQn8rSM",
+              "stripeLinkId": "plink_1UfyKuLOfCA5mATuKnL6s3PH",
+              "stripePrix": 44.09,
+              "stripeMode": "live",
+              "stripeNom": "Figurine en résine 29 x 16 x 33 Athlète doré",
+              "stripeDesc": "Statue en résine , athlète doré",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

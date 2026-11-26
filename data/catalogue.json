@@ -39441,7 +39441,17 @@
               "description": "Lingette 7 chakras 13 x 13 cm",
               "photo": "images/articles/lingette-7-chakras-mwxmjugaddwu.jpg",
               "prixBoutique": 2.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/9B69AUdsm3Nre6YbBT2a73B",
+              "stripeProductId": "prod_VhSDcv3XThQgK4",
+              "stripePriceId": "price_1Ug3IwLOfCA5mATuB3PM9ccp",
+              "stripeLinkId": "plink_1Ug3IwLOfCA5mATunDyC9I7V",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Lingette 7 chakras",
+              "stripeDesc": "Lingette 7 chakras 13 x 13 cm",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

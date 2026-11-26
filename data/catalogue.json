@@ -39536,7 +39536,17 @@
               "description": "Lingette arbre de vie beige 13 x 13 cm",
               "photo": "images/articles/lingette-arbre-de-vie-beige-mwxmx5pf6lsh.jpg",
               "prixBoutique": 2.9,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/cNibJ24VQfw96Ew6hz2a73G",
+              "stripeProductId": "prod_VhSNKLKGqK3M8M",
+              "stripePriceId": "price_1Ug3SnLOfCA5mATuZyTd0bJz",
+              "stripeLinkId": "plink_1Ug3SnLOfCA5mATuwQBcfJBe",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Lingette arbre de vie beige",
+              "stripeDesc": "Lingette arbre de vie beige 13 x 13 cm",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

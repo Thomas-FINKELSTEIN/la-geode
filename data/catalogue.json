@@ -32068,7 +32068,17 @@
               "description": "Petit attrape rêve de couleur jaune",
               "photo": "images/articles/porte-cle-attrape-reve-mwxo9zy2cjno.jpg",
               "prixBoutique": 2.9,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/aFa7sM3RMdo12og49r2a73K",
+              "stripeProductId": "prod_VhSzhGYvstCNO3",
+              "stripePriceId": "price_1Ug43aLOfCA5mATu1QGubpNE",
+              "stripeLinkId": "plink_1Ug43aLOfCA5mATuFTmIGf5m",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Porte clé attrape rêve",
+              "stripeDesc": "Petit attrape rêve de couleur jaune",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         },

@@ -32163,7 +32163,17 @@
               "description": "En lithothérapie, la pierre de soleil est surtout associé à la joie de vivre, à la confiance en soi et au regain d'énergie.",
               "photo": "images/articles/porte-cle-pierre-de-soleil-mwxq8h2ryfsi.jpg",
               "prixBoutique": 7.5,
-              "stock": 10
+              "stock": 10,
+              "stripe": "https://buy.stripe.com/5kQfZi8821Fj5As6hz2a73P",
+              "stripeProductId": "prod_VhTsUXfdddpLCz",
+              "stripePriceId": "price_1Ug4uZLOfCA5mATumVRsVGfw",
+              "stripeLinkId": "plink_1Ug4uZLOfCA5mATumaSVZSYk",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Porte clé pierre de soleil",
+              "stripeDesc": "En lithothérapie, la pierre de soleil est surtout associé à la joie de vivre, à la confiance en soi et au regain d'énergie.",
+              "stripeStock": 10,
+              "epuise": false
             }
           ]
         },

@@ -32106,7 +32106,17 @@
               "description": "Porte clé attrape rêve vert",
               "photo": "images/articles/petit-attrape-reve-vert-mwxovww6nbkq.jpg",
               "prixBoutique": 2.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/aFacN62NI6ZDfb2gWd2a73M",
+              "stripeProductId": "prod_VhTHCIq0WJl51f",
+              "stripePriceId": "price_1Ug4KSLOfCA5mATugvvgvFkw",
+              "stripeLinkId": "plink_1Ug4KTLOfCA5mATuNogF0XL2",
+              "stripePrix": 3.26,
+              "stripeMode": "live",
+              "stripeNom": "Petit attrape rêve vert",
+              "stripeDesc": "Porte clé attrape rêve vert",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         },

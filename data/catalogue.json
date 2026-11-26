@@ -32125,7 +32125,17 @@
               "description": "Porte clé attrape rêve marron",
               "photo": "images/articles/porte-cle-attrape-reve-marron-mwxoz7pithwu.jpg",
               "prixBoutique": 3.6,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/aFa7sM2NIdo18ME6hz2a73N",
+              "stripeProductId": "prod_VhTJrLkDb44lA5",
+              "stripePriceId": "price_1Ug4MjLOfCA5mATuLFW03AfT",
+              "stripeLinkId": "plink_1Ug4MjLOfCA5mATu8khnuQOu",
+              "stripePrix": 3.98,
+              "stripeMode": "live",
+              "stripeNom": "Porte clé attrape rêve marron",
+              "stripeDesc": "Porte clé attrape rêve marron",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         },

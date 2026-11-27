@@ -35473,7 +35473,17 @@
               "description": "Cette pince à charbon est un outil pratique pour manipuler les charbons d'encens. En lithothérapie, elle est souvent utilisée pour purifier l'espace et favoriser une ambiance sereine. Elle convient parfaitement aux amateurs de méditation et de rituels spirituels.",
               "photo": "images/articles/pince-a-charbon-mwyqmrxuky2i.jpg",
               "prixBoutique": 7.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/28E6oI0FA4Rv3skaxP2a802",
+              "stripeProductId": "prod_VhkJg3UloBCHZ7",
+              "stripePriceId": "price_1UgKoeLOfCA5mATu0YBWMQcM",
+              "stripeLinkId": "plink_1UgKoeLOfCA5mATuJJPLZD5k",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "Pince à charbon",
+              "stripeDesc": "Cette pince à charbon est un outil pratique pour manipuler les charbons d'encens. En lithothérapie, elle est souvent utilisée pour purifier l'espace et favoriser une ambiance sereine. Elle convient parfaitement aux amateurs de méditation et de rituels spirituels.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -35492,7 +35492,17 @@
               "description": "Ce fagot de pin se présente sous la forme de branches nouées et séchées aux teintes naturelles. En lithothérapie, il est traditionnellement associé à la purification des espaces et à la vitalité, favorisant un climat de renouveau. Son énergie purifiante en fait un allié précieux pour assainir l'atmosphère du quotidien.",
               "photo": "images/articles/fagot-de-pin-mwyqrmk1l7hf.jpg",
               "prixBoutique": 7.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/9B628sagagAdaUMbBT2a803",
+              "stripeProductId": "prod_VhkNJpp2bUAUHa",
+              "stripePriceId": "price_1UgKsGLOfCA5mATuavyaOiRQ",
+              "stripeLinkId": "plink_1UgKsGLOfCA5mATutltVmo3y",
+              "stripePrix": 8.43,
+              "stripeMode": "live",
+              "stripeNom": "Fagot de pin",
+              "stripeDesc": "Ce fagot de pin se présente sous la forme de branches nouées et séchées aux teintes naturelles. En lithothérapie, il est traditionnellement associé à la purification des espaces et à la vitalité, favorisant un climat de renouveau. Son énergie purifiante en fait un allié précieux pour assainir l'atmosphère du quotidien.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

@@ -35549,7 +35549,17 @@
               "description": "Cet encens en grain st ange gardien séduit par son parfum délicat et ses belles nuances colorées. En lithothérapie, il est traditionnellement associé à la protection, à la purification et à l'apaisement de l'esprit. Son utilisation régulière convient parfaitement pour créer une atmosphère sereine lors des moments de détente ou de prière.",
               "photo": "images/articles/encens-en-grain-st-ange-gardien-mwyrbsam851k.jpg",
               "prixBoutique": 8.8,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14A00kewqfw9fb249r2a806",
+              "stripeProductId": "prod_VhkccmMD1PaEWB",
+              "stripePriceId": "price_1UgL7RLOfCA5mATuAegrZPgK",
+              "stripeLinkId": "plink_1UgL7SLOfCA5mATuzk4QUBY1",
+              "stripePrix": 9.36,
+              "stripeMode": "live",
+              "stripeNom": "Encens en grain st ange gardien",
+              "stripeDesc": "Cet encens en grain st ange gardien séduit par son parfum délicat et ses belles nuances colorées. En lithothérapie, il est traditionnellement associé à la protection, à la purification et à l'apaisement de l'esprit. Son utilisation régulière convient parfaitement pour créer une atmosphère sereine lors des moments de détente ou de prière.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

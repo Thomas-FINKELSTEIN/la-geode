@@ -35416,7 +35416,17 @@
               "description": "Ces rouleaux de charbon en bois se présentent sous une forme pratique et facile à allumer. En lithothérapie et dans les traditions de fumigation, ils sont souvent utilisés pour brûler les encens en résine ou en grains et purifier l'espace. Leur combustion de qualité en fait un accessoire idéal pour accompagner vos rituels de bien-être.",
               "photo": "images/articles/charbon-en-bois-mwypxc05ieu5.jpg",
               "prixBoutique": 3.9,
-              "stock": 9
+              "stock": 9,
+              "stripe": "https://buy.stripe.com/6oU7sM9c6abP1kc35n2a747",
+              "stripeProductId": "prod_VhjzlF3Oo4jQ5j",
+              "stripePriceId": "price_1UgKVRLOfCA5mATuZdD0QRcx",
+              "stripeLinkId": "plink_1UgKVRLOfCA5mATuJNyWnXfq",
+              "stripePrix": 4.29,
+              "stripeMode": "live",
+              "stripeNom": "Charbon en bois",
+              "stripeDesc": "Ces rouleaux de charbon en bois se présentent sous une forme pratique et facile à allumer. En lithothérapie et dans les traditions de fumigation, ils sont souvent utilisés pour brûler les encens en résine ou en grains et purifier l'espace. Leur combustion de qualité en fait un accessoire idéal pour accompagner vos rituels de bien-être.",
+              "stripeStock": 9,
+              "epuise": false
             }
           ]
         }

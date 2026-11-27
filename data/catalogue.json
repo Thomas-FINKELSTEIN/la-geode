@@ -35701,7 +35701,17 @@
               "description": "Cet encens en grain Sainte rita se présente sous la forme de petits grains colorés et parfumés. En lithothérapie et en aromathérapie, il est traditionnellement utilise pour purifier l'espace, attirer les bonnes energies et apaiser l'esprit. Son parfum enveloppant en fait un choix ideal pour accompagner vos rituels de bien-etre et de meditation au quotidien.",
               "photo": "images/articles/encens-en-grain-sainte-rita-mwyt12q1qb5x.jpg",
               "prixBoutique": 8.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/7sYdRa4VQfw9aUMgWd2a80e",
+              "stripeProductId": "prod_VhlO8VANymR6cZ",
+              "stripePriceId": "price_1UgLraLOfCA5mATu8fZbcntI",
+              "stripeLinkId": "plink_1UgLraLOfCA5mATu9yZIetnG",
+              "stripePrix": 9.05,
+              "stripeMode": "live",
+              "stripeNom": "Encens en grain Sainte rita",
+              "stripeDesc": "Cet encens en grain Sainte rita se présente sous la forme de petits grains colorés et parfumés. En lithothérapie et en aromathérapie, il est traditionnellement utilise pour purifier l'espace, attirer les bonnes energies et apaiser l'esprit. Son parfum enveloppant en fait un choix ideal pour accompagner vos rituels de bien-etre et de meditation au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

@@ -35682,7 +35682,17 @@
               "description": "Cet encens en grain St joseph se compose de résines aux teintes chaleureuses et colorées. En lithothérapie, il est traditionnellement associé à la purification de l'atmosphère et à l'apaisement des énergies. Son usage convient parfaitement pour créer une ambiance propice à la méditation et au recueillement.",
               "photo": "images/articles/encens-en-grain-st-joseph-mwysq0or8nd1.jpg",
               "prixBoutique": 8.5,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/4gMfZiewq83H9QI7lD2a80d",
+              "stripeProductId": "prod_VhlFlSWxYwUF9c",
+              "stripePriceId": "price_1UgLjFLOfCA5mATufHHfAEUg",
+              "stripeLinkId": "plink_1UgLjGLOfCA5mATuoUlUk2jp",
+              "stripePrix": 9.05,
+              "stripeMode": "live",
+              "stripeNom": "Encens en grain St joseph",
+              "stripeDesc": "Cet encens en grain St joseph se compose de résines aux teintes chaleureuses et colorées. En lithothérapie, il est traditionnellement associé à la purification de l'atmosphère et à l'apaisement des énergies. Son usage convient parfaitement pour créer une ambiance propice à la méditation et au recueillement.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

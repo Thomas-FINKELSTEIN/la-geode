@@ -35625,7 +35625,17 @@
               "description": "Ce fagot de copal se compose de résine végétale naturelle soigneusement rassemblée en bâtonnet. En lithothérapie, il est traditionnellement utilisé pour purifier l'atmosphère, dissiper les énergies négatives et favoriser la relaxation. Son parfum boisé et chaleureux en fait un outil idéal pour accompagner les moments de méditation et de bien-être.",
               "photo": "images/articles/fagot-de-copal-mwyrwkey5ion.jpg",
               "prixBoutique": 9.9,
-              "stock": 3
+              "stock": 3,
+              "stripe": "https://buy.stripe.com/aFa7sM4VQ1FjbYQbBT2a80a",
+              "stripeProductId": "prod_VhksfwIelCUFIl",
+              "stripePriceId": "price_1UgLN5LOfCA5mATuNrQtQGsY",
+              "stripeLinkId": "plink_1UgLN5LOfCA5mATuf8j7NooC",
+              "stripePrix": 10.5,
+              "stripeMode": "live",
+              "stripeNom": "Fagot de copal",
+              "stripeDesc": "Ce fagot de copal se compose de résine végétale naturelle soigneusement rassemblée en bâtonnet. En lithothérapie, il est traditionnellement utilisé pour purifier l'atmosphère, dissiper les énergies négatives et favoriser la relaxation. Son parfum boisé et chaleureux en fait un outil idéal pour accompagner les moments de méditation et de bien-être.",
+              "stripeStock": 3,
+              "epuise": false
             }
           ]
         }

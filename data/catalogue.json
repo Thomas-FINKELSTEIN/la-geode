@@ -35579,6 +35579,15 @@
               "stripeDesc": "Cet encens en grains gomme de sandaraque se présente sous forme de résine naturelle aux teintes claires et chaleureuses. En lithothérapie et en aromathérapie, il est traditionnellement utilisé pour purifier l'atmosphère, apaiser l'esprit et favoriser la méditation. Son parfum subtil et boisé en fait un choix idéal pour toutes les personnes cherchant à créer une ambiance sereine et propice à la détente.",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "encens-en-grain-opoponax-mwyrnybshdxv",
+              "nom": "Encens en grain opoponax",
+              "prix": 11.12,
+              "description": "Cet encens en grain opoponax se présente sous la forme de résine parfumée aux notes chaleureuses et boisées. En lithothérapie, il est traditionnellement associé à la purification, à l'apaisement des émotions et au renforcement de la paix intérieure. Son parfum enveloppant en fait un choix idéal pour accompagner les moments de méditation et de détente.",
+              "photo": "images/articles/encens-en-grain-opoponax-mwyrnybsknur.jpg",
+              "prixBoutique": 10.5,
+              "stock": 6
             }
           ]
         }

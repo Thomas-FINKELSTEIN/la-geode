@@ -31123,7 +31123,17 @@
               "description": "Cette bougie de désenvoutement est un article traditionnel idéal pour purifier et assainir votre espace. En lithothérapie, elle est souvent utilisee pour chasser les energies negatives et favoriser la protection spirituelle. Son energie purificatrice en fait un allie precieux pour le bien-etre au quotidien.",
               "photo": "images/articles/bougie-de-desenvoutement-mwyq5io5ojw5.jpg",
               "prixBoutique": 16.95,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/bJe14o3RM83H1kc35n2a800",
+              "stripeProductId": "prod_Vhk56mwqaN9wye",
+              "stripePriceId": "price_1UgKbfLOfCA5mATu5gpsqoQh",
+              "stripeLinkId": "plink_1UgKbfLOfCA5mATuhVc6qnPv",
+              "stripePrix": 17.78,
+              "stripeMode": "live",
+              "stripeNom": "Bougie de désenvoutement",
+              "stripeDesc": "Cette bougie de désenvoutement est un article traditionnel idéal pour purifier et assainir votre espace. En lithothérapie, elle est souvent utilisee pour chasser les energies negatives et favoriser la protection spirituelle. Son energie purificatrice en fait un allie precieux pour le bien-etre au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         },

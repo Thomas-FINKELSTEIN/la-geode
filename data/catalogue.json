@@ -35522,6 +35522,15 @@
               "stripeDesc": "Cette gomme arabique naturelle se présente sous la forme de petits grains translucides et ambrés. En lithothérapie, elle est traditionnellement utilisée pour purifier l'atmosphère, apaiser l'esprit et favoriser la sérénité lors des rituels. Son parfum subtil et ses vertus en font un encens idéal pour harmoniser votre espace de vie.",
               "stripeStock": 2,
               "epuise": false
+            },
+            {
+              "id": "encens-du-diable-en-grain-mwyr5d191zck",
+              "nom": "Encens du diable en grain",
+              "prix": 9.05,
+              "description": "Cet encens du diable en grain se présente sous la forme d une poudre aux nuances chaleureuses et naturelles. Traditionnellement associe a la purification et a la protection energetique, il est souvent utilise pour nettoyer les espaces et dissiper les mauvaises ondes. Son parfum puissant convient parfaitement aux rituels de purification et a ceux qui cherchent a assainir leur lieu de vie.",
+              "photo": "images/articles/encens-du-diable-en-grain-mwyr5d197rsd.jpg",
+              "prixBoutique": 8.5,
+              "stock": 11
             }
           ]
         }

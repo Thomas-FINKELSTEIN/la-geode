@@ -35720,7 +35720,17 @@
               "description": "Cet encens St Antoine de Padoue se compose de grains aux nuances sombres et chaleureuses aux multiples facettes. En lithothérapie et dans les traditions, il est souvent utilise pour apaiser les craintes et attirer la protection. Son parfum chaleureux en fait un allie precieux pour le bien-etre au quotidien.",
               "photo": "images/articles/st-antoine-de-padoue-encens-mwz3d06i5l01.jpg",
               "prixBoutique": 7.5,
-              "stock": 4
+              "stock": 4,
+              "stripe": "https://buy.stripe.com/00weVedsmcjX5AscFX2a80k",
+              "stripeProductId": "prod_Vhq3bnxJuKkTFv",
+              "stripePriceId": "price_1UgQNPLOfCA5mATuTt4wX1wf",
+              "stripeLinkId": "plink_1UgQNPLOfCA5mATuD3IpcyAd",
+              "stripePrix": 8.02,
+              "stripeMode": "live",
+              "stripeNom": "St Antoine de Padoue encens",
+              "stripeDesc": "Cet encens St Antoine de Padoue se compose de grains aux nuances sombres et chaleureuses aux multiples facettes. En lithothérapie et dans les traditions, il est souvent utilise pour apaiser les craintes et attirer la protection. Son parfum chaleureux en fait un allie precieux pour le bien-etre au quotidien.",
+              "stripeStock": 4,
+              "epuise": false
             }
           ]
         }

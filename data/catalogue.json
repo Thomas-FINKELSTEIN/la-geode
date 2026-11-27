@@ -35701,7 +35701,17 @@
               "description": "Cet encens en grain Notre Dame de Lourdes se présente sous la forme de petits grains colorés aux teintes chatoyantes. En lithothérapie et en aromathérapie spirituelle, il est traditionnellement utilise pour purifier l'atmosphere, apaiser l'esprit et favoriser la priere ou la meditation. Ce produit convient parfaitement aux personnes en quete d'un espace paisible et harmonieux pour se ressourcer.",
               "photo": "images/articles/encens-en-grain-notre-dame-de-lourdes-mwz399aw01gl.jpg",
               "prixBoutique": 8.5,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/eVq9AU3RMcjX3sk49r2a80j",
+              "stripeProductId": "prod_Vhq0Pfi1yESYdA",
+              "stripePriceId": "price_1UgQKbLOfCA5mATuO6lqW7kD",
+              "stripeLinkId": "plink_1UgQKbLOfCA5mATu82yl4QQG",
+              "stripePrix": 9.05,
+              "stripeMode": "live",
+              "stripeNom": "Encens en grain Notre Dame de Lourdes",
+              "stripeDesc": "Cet encens en grain Notre Dame de Lourdes se présente sous la forme de petits grains colorés aux teintes chatoyantes. En lithothérapie et en aromathérapie spirituelle, il est traditionnellement utilise pour purifier l'atmosphere, apaiser l'esprit et favoriser la priere ou la meditation. Ce produit convient parfaitement aux personnes en quete d'un espace paisible et harmonieux pour se ressourcer.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

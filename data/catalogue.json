@@ -35701,7 +35701,17 @@
               "description": "Cet encens en grain St gabriel archange diffuse un parfum chaleureux et envoûtant qui invite au recueillement. En lithotherapie et en fumigation, il est traditionnellement associe a la purification des espaces et a la connexion spirituelle. Son energie protectrice et apaisante convient parfaitement pour accompagner la meditation et harmoniser votre interieur.",
               "photo": "images/articles/encens-en-grain-st-gabriel-archange-mwz29bevjsvg.jpg",
               "prixBoutique": 5.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/4gMaEY8823Nr0g8fS92a80i",
+              "stripeProductId": "prod_VhpY9KaKEiiQJZ",
+              "stripePriceId": "price_1UgPtcLOfCA5mATubu3ZbrVK",
+              "stripeLinkId": "plink_1UgPtcLOfCA5mATuqk5OOZNs",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Encens en grain St gabriel archange",
+              "stripeDesc": "Cet encens en grain St gabriel archange diffuse un parfum chaleureux et envoûtant qui invite au recueillement. En lithotherapie et en fumigation, il est traditionnellement associe a la purification des espaces et a la connexion spirituelle. Son energie protectrice et apaisante convient parfaitement pour accompagner la meditation et harmoniser votre interieur.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }

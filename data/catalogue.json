@@ -35644,7 +35644,17 @@
               "description": "Ce fagot de juniper est un encens naturel traditionnellement utilisé pour la purification et l'harmonisation des espaces. En lithothérapie et en aromathérapie, il est souvent recherché pour ses vertus apaisantes qui favorisent la détente et l'évacuation des énergies stagnantes. Son parfum boisé et réconfortant convient parfaitement à toutes les personnes souhaitant créer une atmosphère sereine lors de leurs rituels de bien-être.",
               "photo": "images/articles/fagot-de-juniper-mwys1z8ml08i.jpg",
               "prixBoutique": 6.3,
-              "stock": 5
+              "stock": 5,
+              "stripe": "https://buy.stripe.com/4gMeVe2NIdo1e6YaxP2a80b",
+              "stripeProductId": "prod_VhkxuzWhnXlvfa",
+              "stripePriceId": "price_1UgLR8LOfCA5mATuB29SFbTo",
+              "stripeLinkId": "plink_1UgLR8LOfCA5mATuO4wBimQb",
+              "stripePrix": 6.78,
+              "stripeMode": "live",
+              "stripeNom": "Fagot de juniper",
+              "stripeDesc": "Ce fagot de juniper est un encens naturel traditionnellement utilisé pour la purification et l'harmonisation des espaces. En lithothérapie et en aromathérapie, il est souvent recherché pour ses vertus apaisantes qui favorisent la détente et l'évacuation des énergies stagnantes. Son parfum boisé et réconfortant convient parfaitement à toutes les personnes souhaitant créer une atmosphère sereine lors de leurs rituels de bien-être.",
+              "stripeStock": 5,
+              "epuise": false
             }
           ]
         }

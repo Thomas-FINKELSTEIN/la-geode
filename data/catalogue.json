@@ -35587,7 +35587,17 @@
               "description": "Cet encens en grain opoponax se présente sous la forme de résine parfumée aux notes chaleureuses et boisées. En lithothérapie, il est traditionnellement associé à la purification, à l'apaisement des émotions et au renforcement de la paix intérieure. Son parfum enveloppant en fait un choix idéal pour accompagner les moments de méditation et de détente.",
               "photo": "images/articles/encens-en-grain-opoponax-mwyrnybsknur.jpg",
               "prixBoutique": 10.5,
-              "stock": 6
+              "stock": 6,
+              "stripe": "https://buy.stripe.com/fZu4gAdsm1Fj4wo35n2a808",
+              "stripeProductId": "prod_VhkmSdUcNJpDgK",
+              "stripePriceId": "price_1UgLGkLOfCA5mATueOFwoXgb",
+              "stripeLinkId": "plink_1UgLGkLOfCA5mATu1BoRRV1A",
+              "stripePrix": 11.12,
+              "stripeMode": "live",
+              "stripeNom": "Encens en grain opoponax",
+              "stripeDesc": "Cet encens en grain opoponax se présente sous la forme de résine parfumée aux notes chaleureuses et boisées. En lithothérapie, il est traditionnellement associé à la purification, à l'apaisement des émotions et au renforcement de la paix intérieure. Son parfum enveloppant en fait un choix idéal pour accompagner les moments de méditation et de détente.",
+              "stripeStock": 6,
+              "epuise": false
             }
           ]
         }

@@ -35511,7 +35511,17 @@
               "description": "Cette gomme arabique naturelle se présente sous la forme de petits grains translucides et ambrés. En lithothérapie, elle est traditionnellement utilisée pour purifier l'atmosphère, apaiser l'esprit et favoriser la sérénité lors des rituels. Son parfum subtil et ses vertus en font un encens idéal pour harmoniser votre espace de vie.",
               "photo": "images/articles/encens-en-grain-gomme-arabique-mwyqxpyghbim.jpg",
               "prixBoutique": 4.7,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/8x29AU9c66ZDaUMbBT2a804",
+              "stripeProductId": "prod_VhkR43yOolb6dG",
+              "stripePriceId": "price_1UgKwsLOfCA5mATuz8VwPSbH",
+              "stripeLinkId": "plink_1UgKwtLOfCA5mATuFXURyxAK",
+              "stripePrix": 5.12,
+              "stripeMode": "live",
+              "stripeNom": "Encens en grain gomme arabique",
+              "stripeDesc": "Cette gomme arabique naturelle se présente sous la forme de petits grains translucides et ambrés. En lithothérapie, elle est traditionnellement utilisée pour purifier l'atmosphère, apaiser l'esprit et favoriser la sérénité lors des rituels. Son parfum subtil et ses vertus en font un encens idéal pour harmoniser votre espace de vie.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

@@ -35606,7 +35606,17 @@
               "description": "Cet encens gum damar se présente sous forme de résine naturelle aux teintes claires et lumineuses. Traditionnellement associé à la purification et à l'apaisement, il est souvent utilisé pour nettoyer les énergies d'un espace et favoriser la clarté d'esprit. Son parfum subtil et chaleureux convient parfaitement à toutes les personnes qui souhaitent instaurer une ambiance sereine et harmonieuse.",
               "photo": "images/articles/gum-damar-encens-mwyrscfhyekz.jpg",
               "prixBoutique": 5.9,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/9B6bJ21JE2Jn8ME9tL2a809",
+              "stripeProductId": "prod_VhkpW4bWsjN2IE",
+              "stripePriceId": "price_1UgLJvLOfCA5mATuH7W1h7bf",
+              "stripeLinkId": "plink_1UgLJwLOfCA5mATufOLZM9lR",
+              "stripePrix": 6.36,
+              "stripeMode": "live",
+              "stripeNom": "Gum damar encens",
+              "stripeDesc": "Cet encens gum damar se présente sous forme de résine naturelle aux teintes claires et lumineuses. Traditionnellement associé à la purification et à l'apaisement, il est souvent utilisé pour nettoyer les énergies d'un espace et favoriser la clarté d'esprit. Son parfum subtil et chaleureux convient parfaitement à toutes les personnes qui souhaitent instaurer une ambiance sereine et harmonieuse.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

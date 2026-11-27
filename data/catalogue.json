@@ -35568,7 +35568,17 @@
               "description": "Cet encens en grains gomme de sandaraque se présente sous forme de résine naturelle aux teintes claires et chaleureuses. En lithothérapie et en aromathérapie, il est traditionnellement utilisé pour purifier l'atmosphère, apaiser l'esprit et favoriser la méditation. Son parfum subtil et boisé en fait un choix idéal pour toutes les personnes cherchant à créer une ambiance sereine et propice à la détente.",
               "photo": "images/articles/encens-en-grains-gomme-de-sandaraque-mwyrj8yae7sc.jpg",
               "prixBoutique": 16.5,
-              "stock": 2
+              "stock": 2,
+              "stripe": "https://buy.stripe.com/9B628scoi1Fjgf60Xf2a807",
+              "stripeProductId": "prod_VhkinwO6K6GkSk",
+              "stripePriceId": "price_1UgLD3LOfCA5mATu8dCp4xzv",
+              "stripeLinkId": "plink_1UgLD3LOfCA5mATu6kyN9fyd",
+              "stripePrix": 17.32,
+              "stripeMode": "live",
+              "stripeNom": "Encens en grains gomme de sandaraque",
+              "stripeDesc": "Cet encens en grains gomme de sandaraque se présente sous forme de résine naturelle aux teintes claires et chaleureuses. En lithothérapie et en aromathérapie, il est traditionnellement utilisé pour purifier l'atmosphère, apaiser l'esprit et favoriser la méditation. Son parfum subtil et boisé en fait un choix idéal pour toutes les personnes cherchant à créer une ambiance sereine et propice à la détente.",
+              "stripeStock": 2,
+              "epuise": false
             }
           ]
         }

@@ -35454,7 +35454,17 @@
               "description": "Cette pince à charbon en métal brillant est un accessoire pratique et indispensable pour manipuler vos encens en toute sécurité. Traditionnellement associée à la commodité et à la propreté, elle facilite la préparation de vos rituels et de vos moments de bien-être. Son usage simple et fonctionnel convient parfaitement à tous les amateurs de fumigation et de détente au quotidien.",
               "photo": "images/articles/pince-a-charbon-mwyqda4eoetp.jpg",
               "prixBoutique": 7.9,
-              "stock": 1
+              "stock": 1,
+              "stripe": "https://buy.stripe.com/14AcN63RMgAd4wo9tL2a801",
+              "stripeProductId": "prod_VhkBLDAuCt75GL",
+              "stripePriceId": "price_1UgKhVLOfCA5mATucuiew5Nv",
+              "stripeLinkId": "plink_1UgKhVLOfCA5mATuLR6uTFUN",
+              "stripePrix": 8.43,
+              "stripeMode": "live",
+              "stripeNom": "Pince à charbon",
+              "stripeDesc": "Cette pince à charbon en métal brillant est un accessoire pratique et indispensable pour manipuler vos encens en toute sécurité. Traditionnellement associée à la commodité et à la propreté, elle facilite la préparation de vos rituels et de vos moments de bien-être. Son usage simple et fonctionnel convient parfaitement à tous les amateurs de fumigation et de détente au quotidien.",
+              "stripeStock": 1,
+              "epuise": false
             }
           ]
         }
